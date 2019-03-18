@@ -1,0 +1,2687 @@
+[ Anmerkungen zur Transkription:
+
+    Der Text stammt aus: Imago. Zeitschrift für Anwendung der
+    Psychoanalyse auf die Geisteswissenschaften II (1913). S. 357-408.
+
+    Schreibweise und Interpunktion des Originaltextes wurden übernommen;
+    lediglich offensichtliche Druckfehler wurden korrigiert. Eine Liste
+    der vorgenommenen Änderungen findet sich am Ende des Textes.
+
+    Im Original gesperrt gedruckter Text wurde mit _ markiert.
+    Griechischer Text wurde transliteriert und mit ~ markiert.
+  ]
+
+
+
+
+Über einige Übereinstimmungen im Seelenleben der Wilden und der
+Neurotiker.
+
+Von SIGM. FREUD.
+
+IV.
+
+Die infantile Wiederkehr des Totemismus.
+
+
+Von der Psychoanalyse, welche zuerst die regelmäßige Überdeterminierung
+psychischer Akte und Bildungen aufgedeckt hat, braucht man nicht zu
+besorgen, daß sie versucht sein werde, etwas so Kompliziertes wie die
+Religion aus einem einzigen Ursprung abzuleiten. Wenn sie in
+notgedrungener, eigentlich pflichtgemäßer Einseitigkeit eine einzige der
+Quellen dieser Institution zur Anerkennung bringen will, so beansprucht
+sie zunächst für dieselbe die Ausschließlichkeit so wenig wie den ersten
+Rang unter den zusammenwirkenden Momenten. Erst eine Synthese aus
+verschiedenen Gebieten der Forschung kann entscheiden, welche relative
+Bedeutung dem hier zu erörternden Mechanismus in der Genese der Religion
+zuzuteilen ist; eine solche Arbeit überschreitet aber sowohl die Mittel
+als auch die Absicht des Psychoanalytikers.
+
+
+
+
+1.
+
+
+In der ersten Abhandlung dieser Reihe haben wir den Begriff des
+Totemismus kennen gelernt. Wir haben gehört, daß der Totemismus ein
+System ist, welches bei gewissen primitiven Völkern in Australien,
+Amerika, Afrika die Stelle einer Religion vertritt und die Grundlage der
+sozialen Organisation abgibt. Wir wissen, daß der Schotte _Mac Lennan_
+1869 das allgemeinste Interesse für die bis dahin nur als Kuriosa
+gewürdigten Phänomene des Totemismus in Anspruch nahm, indem er die
+Vermutung aussprach, eine große Anzahl von Sitten und Gebräuchen in
+verschiedenen alten wie modernen Gesellschaften seien als Überreste
+einer totemistischen Epoche zu verstehen. Die Wissenschaft hat seither
+diese Bedeutung des Totemismus im vollen Umfange anerkannt. Als eine der
+letzten Äußerungen über diese Frage will ich eine Stelle aus den
+Elementen der Völkerpsychologie von W. _Wundt_ (1912) zitieren(1):
+»Nehmen wir alles dies zusammen, so ergibt sich mit hoher
+Wahrscheinlichkeit der Schluß, daß die totemistische Kultur überall
+einmal eine Vorstufe der späteren Entwicklungen und eine Übergangsstufe
+zwischen dem Zustand des primitiven Menschen und dem Helden- und
+Götterzeitalter gebildet hat.«
+
+  (1) p. 139.
+
+Die Absichten der vorliegenden Abhandlungen nötigen uns zu einem
+tieferen Eingehen auf die Charaktere des Totemismus. Aus Gründen, welche
+später ersichtlich werden sollen, bevorzuge ich hier eine Darstellung
+von S. _Reinach_, der im Jahre 1900 nachstehenden Code du totémisme in
+zwölf Artikeln, gleichsam einen Katechismus der totemistischen Religion,
+entworfen hat(2):
+
+1. Gewisse Tiere dürfen weder getötet noch gegessen werden, aber die
+Menschen ziehen Individuen dieser Tiergattungen auf und schenken ihnen
+Pflege.
+
+2. Ein zufällig verstorbenes Tier wird betrauert und unter den gleichen
+Ehrenbezeugungen bestattet wie ein Mitglied des Stammes.
+
+3. Das Speiseverbot bezieht sich gelegentlich nur auf einen bestimmten
+Körperteil des Tieres.
+
+4. Wenn man ein für gewöhnlich verschontes Tier unter dem Drange der
+Notwendigkeit töten muß, so entschuldigt man sich bei ihm und sucht die
+Verletzung des Tabu, den Mord, durch mannigfache Kunstgriffe und
+Ausflüchte abzuschwächen.
+
+5. Wenn das Tier rituell geopfert wird, wird es feierlich beweint.
+
+6. Bei gewissen feierlichen Gelegenheiten, religiösen Zeremonien, legt
+man die Haut bestimmter Tiere an. Wo der Totemismus noch besteht, sind
+dies die Totemtiere.
+
+7. Stämme und Einzelpersonen legen sich Tiernamen bei, eben die der
+Totemtiere.
+
+8. Viele Stämme gebrauchen Tierbilder als Wappen und verzieren mit ihnen
+ihre Waffen; Männer malen sich Tierbilder auf den Leib oder lassen sich
+solche durch Tätowierung einritzen.
+
+9. Wenn der Totem zu den gefürchteten und gefährlichen Tieren gehört, so
+wird angenommen, daß er die Mitglieder des nach ihm genannten Stammes
+verschont.
+
+10. Das Totemtier beschützt und warnt die Angehörigen des Stammes.
+
+11. Das Totemtier kündigt seinen Getreuen die Zukunft an und dient ihnen
+als Führer.
+
+12. Die Mitglieder eines Totemstammes glauben oft daran, daß sie mit dem
+Totemtier durch das Band gemeinsamer Abstammung verknüpft sind.
+
+  (2) Revue scientifique, Oktober 1900, abgedruckt in des Autors
+  vierbändigem Werke Cultes, Mythes et Religions, 1908, T. I, p. 17 ff.
+
+Man kann diesen Katechismus der Totemreligion erst würdigen, wenn man in
+Betracht zieht, daß _Reinach_ hier auch alle Anzeichen und
+Resterscheinungen eingetragen hat, aus denen man den einstigen Bestand
+des totemistischen Systems erschließen kann. Eine besondere Stellung
+dieses Autors zum Problem zeigt sich darin, daß er dafür die
+wesentlichen Züge des Totemismus einigermaßen vernachlässigt. Wir werden
+uns überzeugen, daß er von den zwei Hauptsätzen des totemistischen
+Katechismus den einen in den Hintergrund gedrängt, den anderen völlig
+übergangen hat.
+
+Um von den Charakteren des Totemismus ein richtigeres Bild zu gewinnen,
+wenden wir uns an einen Autor, welcher dem Thema ein vierbändiges Werk
+gewidmet hat, das die vollständigste Sammlung der hieher gehörigen
+Beobachtungen mit der eingehendsten Diskussion der durch sie angeregten
+Probleme verbindet. Wir werden J. G. _Frazer_, dem Verfasser von
+»Totemism and Exogamy«(3) für Genuß und Belehrung verpflichtet bleiben,
+auch wenn die psychoanalytische Untersuchung zu Ergebnissen führen
+sollte, welche weit von den seinigen abweichen(4).
+
+  (3) 1910.
+
+  (4) Vielleicht tun wir aber vorher gut daran, dem Leser die
+  Schwierigkeiten vorzuführen, mit denen Feststellungen auf diesem
+  Gebiete zu kämpfen haben:
+
+  Zunächst; die Personen, welche die Beobachtungen sammeln, sind nicht
+  dieselben, welche sie verarbeiten und diskutieren, die ersteren
+  Reisende und Missionäre, die letzteren Gelehrte, welche die Objekte
+  ihrer Forschung vielleicht niemals gesehen haben. -- Die Verständigung
+  mit den Wilden ist nicht leicht. Nicht alle der Beobachter waren mit
+  den Sprachen derselben vertraut, sondern mußten sich der Hilfe von
+  Dolmetschern bedienen oder in der Hilfssprache des piggin-english mit
+  den Ausgefragten verkehren. Die Wilden sind nicht mitteilsam über die
+  intimsten Angelegenheiten ihrer Kultur und eröffnen sich nur solchen
+  Fremden, die viele Jahre in ihrer Mitte zugebracht haben. Sie geben
+  aus den verschiedenartigsten Motiven (Vgl. _Frazer_, The beginnings of
+  religion and totemism among the Australian aborigines, Fortnightly
+  Review, 1905; T. and Ex. I, p. 150) oft falsche oder mißverständliche
+  Auskünfte. -- Man darf nicht daran vergessen, daß die primitiven
+  Völker keine jungen Völker sind, sondern eigentlich ebenso alt wie die
+  zivilisiertesten, und daß man kein Recht zur Erwartung hat, sie würden
+  ihre ursprünglichen Ideen und Institutionen ohne jede Entwicklung und
+  Entstellung für unsere Kenntnisnahme aufbewahrt haben. Es ist vielmehr
+  sicher, daß sich bei den Primitiven tiefgreifende Wandlungen nach
+  allen Richtungen vollzogen haben, so daß man niemals ohne Bedenken
+  entscheiden kann, was an ihren gegenwärtigen Zuständen und Meinungen
+  nach Art eines Petrefakts die ursprüngliche Vergangenheit erhalten
+  hat, und was einer Entstellung und Veränderung derselben entspricht.
+  Daher die überreichlichen Streitigkeiten unter den Autoren, was an den
+  Eigentümlichkeiten einer primitiven Kultur als primär und was als
+  spätere sekundäre Gestaltung aufzufassen sei. Die Feststellung des
+  ursprünglichen Zustandes bleibt also jedesmal eine Sache der
+  Konstruktion. -- Es ist endlich nicht leicht, sich in die Denkungsart
+  der Primitiven einzufühlen. Wir mißverstehen sie ebenso leicht wie die
+  Kinder und sind immer geneigt, ihr Tun und Fühlen nach unseren eigenen
+  psychischen Konstellationen zu deuten.
+
+Ein Totem, schrieb _Frazer_ in seinem ersten Aufsatze(5), ist ein
+materielles Objekt, welchem der Wilde einen abergläubischen Respekt
+bezeugt, weil er glaubt, daß zwischen seiner eigenen Person und jedem
+Ding dieser Gattung eine ganz besondere Beziehung besteht. Die
+Verbindung zwischen einem Menschen und seinem Totem ist eine
+wechselseitige; der Totem beschützt den Menschen und der Mensch beweist
+seine Achtung vor dem Totem auf verschiedene Arten, so z. B. daß er ihn
+nicht tötet, wenn es ein Tier, und nicht abpflückt, wenn es eine Pflanze
+ist. Der Totem unterscheidet sich vom Fetisch darin, daß er nie ein
+Einzelding ist wie dieser, sondern immer eine Gattung, in der Regel eine
+Tier- oder Pflanzenart, seltener eine Klasse von unbelebten Dingen und
+noch seltener von künstlich hergestellten Gegenständen.
+
+  (5) Totemism, Edinburgh 1887, abgedruckt im ersten Band des großen
+  Werkes T. and Ex.
+
+Man kann mindestens drei Arten von Totem unterscheiden:
+
+1. den Stammestotem, an dem ein ganzer Stamm teil hat, und der sich
+erblich von einer Generation auf die andere überträgt;
+
+2. den Geschlechtstotem, der allen männlichen oder allen weiblichen
+Mitgliedern eines Stammes mit Ausschluß des anderen Geschlechts
+angehört, und
+
+3. den individuellen Totem, der einer einzelnen Person eignet und nicht
+auf deren Nachkommenschaft übergeht. Die beiden letzten Arten von Totem
+kommen an Bedeutung gegen den Stammestotem nicht in Betracht. Es sind,
+wenn nicht alles täuscht, späte und für das Wesen des Totem wenig
+bedeutsame Bildungen.
+
+Der Stammestotem (Clantotem) ist Gegenstand der Verehrung einer Gruppe
+von Männern und Frauen, die sich nach dem Totem nennen, sich für
+blutsverwandte Abkömmlinge eines gemeinsamen Ahnen halten und durch
+gemeinsame Pflichten gegeneinander wie durch den Glauben an ihren Totem
+miteinander fest verbunden sind.
+
+Der Totemismus ist sowohl ein religiöses wie ein soziales System. Nach
+seiner religiösen Seite besteht er in den Beziehungen gegenseitiger
+Achtung und Schonung zwischen einem Menschen und seinem Totem, nach
+seiner sozialen Seite in den Verpflichtungen der Clanmitglieder
+gegeneinander und gegen andere Stämme. In der späteren Geschichte des
+Totemismus zeigen dessen beide Seiten eine Neigung auseinander zu gehen;
+das soziale System überlebt häufig das religiöse und umgekehrt
+verbleiben Reste von Totemismus in der Religion solcher Länder, in denen
+das auf den Totemismus gegründete soziale System verschwunden ist. Wie
+diese beiden Seiten des Totemismus ursprünglich miteinander
+zusammenhingen, können wir bei unserer Unkenntnis über dessen Ursprünge
+nicht mit Sicherheit sagen. Doch ergibt sich im ganzen eine starke
+Wahrscheinlichkeit dafür, daß die beiden Seiten des Totemismus zu Anfang
+unzertrennlich voneinander waren. Mit anderen Worten, je weiter wir
+zurückgehen, desto deutlicher zeigt es sich, daß der Stammesangehörige
+sich zur selben Art zählt wie seinen Totem und sein Verhalten gegen den
+Totem von dem gegen einen Stammesgenossen nicht unterscheidet.
+
+In der speziellen Beschreibung des Totemismus als eines religiösen
+Systems stellt _Frazer_ voran, daß die Mitglieder eines Stammes sich
+nach ihrem Totem nennen und _in der Regel auch glauben, daß sie von ihm
+abstammen_. Die Folge dieses Glaubens ist es, daß sie das Totemtier
+nicht jagen, nicht töten und nicht essen und sich jeden anderen Gebrauch
+des Totem versagen, wenn er etwas anderes als ein Tier ist. Die Verbote,
+den Totem nicht zu töten und nicht zu essen, sind nicht die einzigen
+Tabu, die ihn betreffen; manchmal ist es auch verboten ihn zu berühren,
+ja, ihn anzuschauen; in einer Anzahl von Fällen darf der Totem nicht bei
+seinem richtigen Namen genannt werden. Die Übertretung dieser den Totem
+schützenden Tabugebote straft sich automatisch durch schwere
+Erkrankungen oder Tod(6).
+
+  (6) Vgl. Die Abhandlung über das Tabu, Imago I.
+
+Exemplare des Totemtieres werden gelegentlich von dem Clan aufgezogen
+und in der Gefangenschaft gehegt(7). Ein tot aufgefundenes Totemtier
+wird betrauert und bestattet wie ein Clangenosse. Mußte man ein
+Totemtier töten, so geschah es unter einem vorgeschriebenen Rituale von
+Entschuldigungen und Sühnezeremonien.
+
+  (7) Wie heute noch die Wölfe im Käfig an der Kapitolsstiege in Rom,
+  die Bären im Zwinger von Bern.
+
+Von seinem Totem erwartete der Stamm Schutz und Schonung. Wenn er ein
+gefährliches Tier war (Raubtier, Giftschlange), so setzte man voraus,
+daß er seinen Genossen nichts zu Leide tun würde, und wo sich diese
+Voraussetzung nicht bestätigte, wurde der Beschädigte aus dem Stamm
+ausgestoßen. Eide, meint _Frazer_, waren ursprünglich Ordalien, viele
+Abstammungs- und Echtheitsproben wurden so dem Totem zur Entscheidung
+überlassen. Der Totem hilft in Krankheiten, gibt dem Stamme Vorzeichen
+und Warnungen. Die Erscheinung des Totemtieres in der Nähe eines Hauses
+wurde häufig als Ankündigung eines Todesfalles angesehen. Der Totem war
+gekommen, seinen Verwandten zu holen(8).
+
+  (8) Also wie die weiße Frau mancher Adelsgeschlechter.
+
+Unter verschiedenen, bedeutsamen Verhältnissen sucht der Clangenosse
+seine Verwandtschaft mit dem Totem zu betonen, indem er sich ihm
+äußerlich ähnlich macht, sich in die Haut des Totemtiers hüllt, sich das
+Bild desselben einritzt u. dgl. Bei den feierlichen Gelegenheiten der
+Geburt, der Männerweihe, des Begräbnisses wird diese Identifizierung mit
+dem Totem in Taten und Worten durchgeführt. Tänze, bei denen alle
+Genossen des Stammes sich in ihren Totem verkleiden und wie er gebärden,
+dienen mannigfaltigen magischen und religiösen Absichten. Endlich gibt
+es Zeremonien, bei denen das Totemtier in feierlicher Weise getötet
+wird(9).
+
+  (9) l. c. p. 45. -- Siehe unten die Erörterung über das Opfer.
+
+Die soziale Seite des Totemismus prägt sich vor allem in einem streng
+gehaltenen Gebot und in einer großartigen Einschränkung aus. Die
+Mitglieder eines Totemclans sind Brüder und Schwestern, verpflichtet
+einander zu helfen und zu beschützen; im Falle der Tötung eines
+Clangenossen durch einen Fremden haftet der ganze Stamm des Täters für
+die Bluttat, und der Clan des Gemordeten fühlt sich solidarisch in der
+Forderung nach Sühne für das vergossene Blut. Die Totembande sind
+stärker als die Familienbande in unserem Sinne; sie fallen mit diesen
+nicht zusammen, da die Übertragung des Totem in der Regel durch
+mütterliche Vererbung geschieht und ursprünglich die väterliche
+Vererbung vielleicht überhaupt nicht in Geltung war.
+
+Die entsprechende Tabubeschränkung aber besteht in dem Verbot, daß
+Mitglieder desselben Totemclans einander nicht heiraten und überhaupt
+nicht in Sexualverkehr miteinander treten dürfen. Dies ist die berühmte
+und rätselhafte, mit dem Totemismus verknüpfte _Exogamie_. Wir haben ihr
+die ganze erste Abhandlung dieser Reihe gewidmet und brauchen darum hier
+nur anzuführen, daß sie der verschärften Inzestscheu der Primitiven
+entspringt, daß sie als Sicherung gegen Inzest bei Gruppenehe vollkommen
+verständlich würde, und daß sie zunächst die Inzestverhütung für die
+jüngere Generation besorgt und erst in weiterer Ausbildung auch der
+älteren Generation zum Hindernis wird(10).
+
+  (10) Imago I, 1912. 1. Heft.
+
+An diese Darstellung des Totemismus bei _Frazer_, eine der frühesten in
+der Literatur des Gegenstandes, will ich nun einige Auszüge aus einer
+der letzten Zusammenfassungen anschließen. In den 1912 erschienenen
+Elementen der Völkerpsychologie sagt W. _Wundt_(11): »Das Totemtier gilt
+als Ahnentier der betreffenden Gruppe. 'Totem' ist also einerseits
+Gruppen-, anderseits Abstammungsname, und in letzterer Beziehung hat
+dieser Name zugleich eine mythologische Bedeutung. Alle diese
+Verwendungen des Begriffs spielen aber ineinander und die einzelnen
+dieser Bedeutungen können zurücktreten, so daß in manchen Fällen die
+Totems fast zu einer bloßen Nomenklatur der Stammesabteilungen geworden
+sind, während in anderen die Vorstellung der Abstammung oder aber auch
+die kultische Bedeutung des Totems im Vordergrund steht ... Der Begriff
+des Totem wird für die _Stammesgliederung_ und _Stammesorganisation_
+maßgebend. Mit diesen Normen und mit ihrer Befestigung im Glauben und
+Fühlen der Stammesgenossen hängt es zusammen, daß man das Totemtier
+ursprünglich jedenfalls nicht bloß als einen Namen für eine Gruppe von
+Stammesgliedern betrachtete, sondern daß das Tier meist als Stammvater
+der betreffenden Abteilung gilt ... Damit hängt dann zusammen, daß diese
+Tierahnen einen Kult genießen ... Dieser Tierkult äußert sich
+ursprünglich, abgesehen von bestimmten Zeremonien und zeremoniellen
+Festen vor allem in dem Verhalten gegenüber dem Totemtier: nicht nur ein
+einzelnes Tier, sondern jeder Repräsentant der gleichen Spezies ist in
+gewissem Grade ein geheiligtes Tier, es ist den Totemgenossen verboten
+oder nur unter bestimmten Umständen erlaubt, das Fleisch des Totemtieres
+zu genießen. Dem entspricht die in solchem Zusammenhange bedeutsame
+Gegenerscheinung, daß unter gewissen Bedingungen eine Art von
+zeremoniellem Genuß des Totemfleisches stattfindet ...«
+
+  (11) p. 116.
+
+»... Die wichtigste soziale Seite dieser totemistischen
+Stammesgliederung besteht aber darin, daß mit ihr bestimmte Normen der
+Sitte für den Verkehr der Gruppen untereinander verbunden sind. Unter
+diesen Normen stehen in erster Linie die für den Eheverkehr. So hängt
+diese Stammesgliederung mit einer wichtigen Erscheinung zusammen, die
+zum erstenmal im totemistischen Zeitalter auftritt: mit der _Exogamie_.«
+
+
+
+Wenn wir durch all das hindurch, was späterer Fortbildung oder
+Abschwächung entsprechen mag, zu einer Charakteristik des ursprünglichen
+Totemismus gelangen wollen, so ergeben sich uns folgende wesentliche
+Züge: _Die Totem waren ursprünglich nur Tiere, sie galten als die Ahnen
+der einzelnen Stämme. Der Totem vererbte sich nur in weiblicher Linie;
+es war verboten, den Totem zu töten_ (oder _zu essen_, was für primitive
+Verhältnisse zusammenfällt); _es war den Totemgenossen verboten,
+Sexualverkehr miteinander zu pflegen(12)._
+
+  (12) Übereinstimmend mit diesem Text lautet das Fazit des Totemismus,
+  welches _Frazer_ in seiner zweiten Arbeit über den Gegenstand (The
+  origin of Totemism, Fortnightly Review 1899) zieht: »Thus, Totemism
+  has commonly been treated as a primitive system both of religion and
+  of society. As a system of religion it embraces the mystic union of
+  the savage with his totem; as a system of society it comprises the
+  relations in which men and women of the same totem stand to each other
+  and to the members of other totemic groups. And corresponding to these
+  two sides of the system are two rough-and-ready tests or canons of
+  Totemism: first, the rule that a man may not kill or eat his totem
+  animal or plant, and second, the rule that he may not marry or cohabit
+  with a woman of the same totem.« (p. 101.) _Frazer_ fügt dann hinzu,
+  was uns mitten in die Diskussionen über den Totemismus hineinführt:
+  Whether the two sides -- the religious and the social -- have always
+  coexisted or are essentially independent, is a question which has been
+  variously answered.
+
+Es darf uns nun auffallen, daß in dem Code du Totémisme, den _Reinach_
+aufgestellt hat, das eine der Haupttabu, das der Exogamie, überhaupt
+nicht vorkommt, während die Voraussetzung des zweiten, die Abstammung
+vom Totemtier, nur eine beiläufige Erwähnung findet. Ich habe aber die
+Darstellung _Reinachs_, eines um den Gegenstand sehr verdienten Autors,
+ausgewählt, um auf die Meinungsverschiedenheiten unter den Autoren
+vorzubereiten, welche uns nun beschäftigen sollen.
+
+
+
+
+2.
+
+
+Je unabweisbarer die Einsicht auftrat, daß der Totemismus eine
+regelmäßige Phase aller Kulturen gebildet habe, desto dringender wurde
+das Bedürfnis, zu einem Verständnis desselben zu gelangen, die Rätsel
+seines Wesens aufzuhellen. Rätselhaft ist wohl alles am Totemismus; die
+entscheidenden Fragen sind die nach der Herkunft der Totemabstammung,
+nach der Motivierung der Exogamie (respektive des durch sie vertretenen
+Inzesttabu) und nach der Beziehung zwischen den beiden, der
+Totemorganisation und dem Inzestverbot. Das Verständnis sollte in einem
+ein historisches und ein psychologisches sein, Auskunft geben, unter
+welchen Bedingungen sich diese eigentümliche Institution entwickelt, und
+welchen seelischen Bedürfnissen der Menschen sie Ausdruck gegeben hatte.
+
+Meine Leser werden nun gewiß erstaunt sein zu hören, von wie
+verschiedenen Gesichtspunkten her die Beantwortung dieser Fragen
+versucht wurde, und wie weit die Meinungen der sachkundigen Forscher
+hierüber auseinandergehen. Es steht so ziemlich alles in Frage, was man
+allgemein über Totemismus und Exogamie behaupten möchte; auch das
+vorangeschickte, aus einer von _Frazer_ 1887 veröffentlichten Schrift
+geschöpfte Bild kann der Kritik nicht entgehen, eine willkürliche
+Vorliebe des Referenten auszudrücken, und würde heute von _Frazer_
+selbst, der seine Ansichten über den Gegenstand wiederholt geändert hat,
+beanständet werden.(13)
+
+  (13) Anläßlich einer solchen Sinnesänderung schrieb er den schönen
+  Satz nieder: »That my conclusions on these difficult questions are
+  final, I am not so foolish as to pretend. I have changed my views
+  repeatedly, and I am resolved to change them again with every change
+  of the evidence, for like a chameleon the candid enquirer should shift
+  his colours with the shifting colours of the ground he treads.«
+  Vorrede zum I. Band von Totemism and Exogamy. 1910.
+
+Es ist eine naheliegende Annahme, daß man das Wesen des Totemismus und
+der Exogamie am ehesten erfassen könnte, wenn man den Ursprüngen der
+beiden Institutionen näher käme. Dann ist aber für die Beurteilung der
+Sachlage die Bemerkung von _Andrew Lang_ nicht zu vergessen, daß auch
+die primitiven Völker uns diese ursprünglichen Formen der Institutionen
+und die Bedingungen für deren Entstehung nicht mehr aufbewahrt haben, so
+daß wir einzig und allein auf Hypothesen angewiesen bleiben, um die
+mangelnde Beobachtung zu ersetzen(14). Unter den vorgebrachten
+Erklärungsversuchen erscheinen einige dem Urteil des Psychologen von
+vornherein als inadäquat. Sie sind allzu rationell und nehmen auf den
+Gefühlscharakter der zu erklärenden Dinge keine Rücksicht. Andere ruhen
+auf Voraussetzungen, denen die Beobachtung die Bestätigung versagt; noch
+andere berufen sich auf ein Material, welches besser einer anderen
+Deutung unterworfen werden sollte. Die Widerlegung der verschiedenen
+Ansichten hat in der Regel wenig Schwierigkeiten; die Autoren sind wie
+gewöhnlich in der Kritik, die sie aneinander üben, stärker als in ihren
+eigenen Produktionen. Ein Non liquet ist für die meisten der behandelten
+Punkte das Endergebnis. Es ist daher nicht zu verwundern, wenn in der
+neuesten, hier meist übergangenen Literatur des Gegenstandes das
+unverkennbare Bestreben auftritt, eine allgemeine Lösung der
+totemistischen Probleme als undurchführbar abzuweisen. (So z. B.
+_Goldenweiser_ im J. of Am. Folk-Lore XXIII, 1910. Referat in Britannica
+Year Book 1913.) Ich habe mir gestattet, bei der Mitteilung dieser
+einander widerstreitenden Hypothesen von deren Zeitfolge abzusehen.
+
+  (14) »By the nature of the case, as the origin of totemism lies far
+  beyond our powers of historical examination or of experiment, we must
+  have recourse as regards this matter to conjecture«, A. _Lang_, Secret
+  of the Totem, p. 27. -- »Nowhere do we see absolutely primitive man,
+  and a totemic system in the making.« p. 29.
+
+
+a) Die Herkunft des Totemismus.
+
+Die Frage nach der Entstehung des Totemismus läßt sich auch so
+formulieren: Wie kamen primitive Menschen dazu, sich (ihre Stämme) nach
+Tieren, Pflanzen, leblosen Gegenständen zu benennen?(15)
+
+  (15) Wahrscheinlich ursprünglich nur nach Tieren.
+
+Der Schotte _Mac Lennan_, der Totemismus und Exogamie für die
+Wissenschaft entdeckte(16), enthielt sich, eine Ansicht über die
+Entstehung des Totemismus zu veröffentlichen. Nach einer Mitteilung von
+A. _Lang_(17) war er eine Zeit lang geneigt, den Totemismus auf die
+Sitte des Tätowierens zurückzuführen. Die verlautbarten Theorien zur
+Ableitung des Totemismus möchte ich in drei Gruppen bringen als A)
+nominalistische, B) soziologische, C) psychologische.
+
+  (16) The Worship of Animals and Plants, Fortnightly Review 1869-1870.
+  -- Primitive marriage 1865; beide Arbeiten abgedruckt in Studies in
+  ancient History 1876. 2. ed. 1886.
+
+  (17) The Secret of the Totem. 1905, p. 34.
+
+
+A) Die nominalistischen Theorien.
+
+Die Mitteilungen über diese Theorien werden deren Zusammenfassung unter
+dem von mir gebrauchten Titel rechtfertigen.
+
+Schon _Garcilaso de la Vega_, ein Abkömmling der peruanischen Inka, der
+im siebzehnten Jahrhundert die Geschichte seines Volkes schrieb, soll,
+was ihm von totemistischen Phänomenen bekannt war, auf das Bedürfnis der
+Stämme, sich durch Namen von einander zu unterscheiden, zurückgeführt
+haben(18). Derselbe Gedanke taucht Jahrhunderte später in der Ethnology
+von A. K. _Keane_ auf, die Totem seien aus »heraldic badges«
+(Wappenabzeichen) hervorgegangen, durch die Individuen, Familien und
+Stämme sich voneinander unterscheiden wollten(19).
+
+  (18) Nach A. _Lang_, Secret of the Totem, p. 34.
+
+  (19) Ibid.
+
+Max _Müller_ äußerte dieselbe Ansicht über die Bedeutung der Totem in
+seinen Contributions to the Science of Mythology(20). Ein Totem sei 1.
+ein Clanabzeichen, 2. ein Clanname, 3. der Name des Ahnherrn des Clans,
+4. der Name des vom Clan verehrten Gegenstandes. Später J. _Pikler_
+1899: Die Menschen bedurften eines bleibenden, schriftlich fixierbaren
+Namens für Gemeinschaften und Individuen ... So entspringt also der
+Totemismus nicht aus dem religiösen, sondern aus dem nüchternen
+Alltagsbedürfnis der Menschheit. Der Kern des Totemismus, die Benennung,
+ist eine Folge der primitiven Schrifttechnik. Der Charakter der Totem
+ist auch der von leicht darstellbaren Schriftzeichen. Wenn die Wilden
+aber erst den Namen eines Tieres trugen, so leiteten sie daraus die Idee
+einer Verwandtschaft von diesem Tiere ab.(21)
+
+  (20) Nach A. _Lang_.
+
+  (21) _Pikler_ und _Somló_, Der Ursprung des Totemismus. 1901. Die
+  Autoren kennzeichnen ihren Erklärungsversuch mit Recht als »Beitrag
+  zur materialistischen Geschichtstheorie«.
+
+Herbert _Spencer_(22) legte gleichfalls der Namengebung die
+entscheidende Bedeutung für die Entstehung des Totemismus bei. Einzelne
+Individuen, führte er aus, hätten durch ihre Eigenschaften
+herausgefordert, sie nach Tieren zu benennen, und seien so zu Ehrennamen
+oder Spitznamen gekommen, welche sich auf ihre Nachkommen fortsetzten.
+Infolge der Unbestimmtheit und Unverständlichkeit der primitiven
+Sprachen seien diese Namen von den späteren Generationen so aufgefaßt
+worden, als seien sie ein Zeugnis für ihre Abstammung von diesen Tieren
+selbst. Der Totemismus hätte sich so als mißverständliche Ahnenverehrung
+ergeben.
+
+  (22) The origin of animal worship, Fortnightly Review 1870. Prinzipien
+  der Soziologie. I. Bd., §§ 169 bis 176.
+
+Ganz ähnlich, obwohl ohne Hervorhebung des Mißverständnisses, hat Lord
+_Avebury_ (bekannter unter seinem früheren Namen Sir John _Lubbock_) die
+Entstehung des Totemismus beurteilt: Wenn wir die Tierverehrung erklären
+wollen, dürfen wir nicht daran vergessen, wie häufig die menschlichen
+Namen von den Tieren entlehnt werden. Die Kinder und das Gefolge eines
+Mannes, der Bär oder Löwe genannt wurde, machten daraus natürlich einen
+Stammesnamen. Daraus ergab sich, daß das Tier selbst zu einer gewissen
+Achtung und endlich Verehrung gelangte.
+
+Einen, wie es scheint, unwiderleglichen Einwand gegen solche
+Zurückführung der Totemnamen auf die Namen von Individuen hat _Fison_
+vorgebracht(23). Er zeigt an den Verhältnissen von Australien, daß der
+Totem stets das Merkzeichen einer Gruppe von Menschen, nie eines
+einzelnen ist. Wäre es aber anders und der Totem ursprünglich der Name
+eines einzelnen Menschen, so könnte er bei dem System der mütterlichen
+Vererbung nie auf dessen Kinder übergehen.
+
+  (23) Kamilaroi and Kurmai, p. 165, 1880 (nach A. _Lang_, Secret etc.).
+
+Die bisher mitgeteilten Theorien sind übrigens in offenkundiger Weise
+unzureichend. Sie erklären etwa die Tatsache der Tiernamen für die
+Stämme der Primitiven, aber niemals die Bedeutung, welche diese
+Namengebung für sie gewonnen hat, das totemistische System. Die
+beachtenswerteste Theorie dieser Gruppe ist die von A. _Lang_ in seinen
+Büchern Social origins 1903 und The secret of the totem 1905
+entwickelte. Sie macht immer noch die Namengebung zum Kern des Problems,
+aber sie verarbeitet zwei interessante psychologische Momente und
+beansprucht so das Rätsel des Totemismus der endgiltigen Lösung
+zugeführt zu haben.
+
+A. _Lang_ meint, es sei zunächst gleichgiltig, auf welche Weise die
+Clans zu ihren Tiernamen gekommen seien. Man wolle nur annehmen, sie
+erwachten eines Tages zum Bewußtsein, daß sie solche tragen, und wußten
+sich keine Rechenschaft zu geben, woher. Der _Ursprung dieser Namen sei
+vergessen_. Dann würden sie versuchen, sich durch Spekulation Auskunft
+darüber zu schaffen, und bei ihren Überzeugungen von der Bedeutung der
+Namen müßten sie notwendigerweise zu all den Ideen kommen, die im
+totemistischen System enthalten sind. Namen sind für die Primitiven --
+wie für die heutigen Wilden und selbst für unsere Kinder(24) -- nicht
+etwa etwas Gleichgiltiges und Konventionelles, wie sie uns etwa
+erscheinen, sondern etwas Bedeutungsvolles und Wesentliches. Der Name
+eines Menschen ist ein Hauptbestandteil seiner Person, vielleicht ein
+Stück seiner Seele. Die Gleichnamigkeit mit dem Tiere mußte die
+Primitiven dazu führen, ein geheimnisvolles und bedeutsames Band
+zwischen ihren Personen und dieser Tiergattung anzunehmen. Welches Band
+konnte da anders in Betracht kommen als das der Blutsverwandtschaft? War
+diese aber infolge der Namensgleichheit einmal angenommen, so ergaben
+sich aus ihr als direkte Folgen des Bluttabu alle Totemvorschriften mit
+Einschluß der Exogamie.
+
+  (24) Vgl. Imago, I., Tabu, p. 319.
+
+»No more than these three things -- a group animal name of unknown
+origin; belief in a transcendental connection between all bearers, human
+and bestial, of the same name; and belief in the blood superstitions --
+was needed to give rise to all the totemic creeds and practices,
+including exogamy.« (Secret of the Totem, p. 126.)
+
+_Langs_ Erklärung ist sozusagen zweizeitig. Sie leitet das totemistische
+System mit psychologischer Notwendigkeit aus der Tatsache der Totemnamen
+ab unter der Voraussetzung, daß die Herkunft dieser Namengebung
+vergessen worden sei. Das andere Stück der Theorie sucht nun den
+Ursprung dieser Namen aufzuklären; wir werden sehen, daß es von ganz
+anderem Gepräge ist.
+
+Dies andere Stück der _Lang_schen Theorie entfernt sich nicht wesentlich
+von den übrigen, die ich »nominalistisch« genannt habe. Das praktische
+Bedürfnis nach Unterscheidung nötigte die einzelnen Stämme Namen
+anzunehmen, und darum ließen sie sich die Namen gefallen, die jedem
+Stamm von den anderen gegeben wurden. Dies »naming from without« ist die
+Eigentümlichkeit der _Lang_schen Konstruktion. Daß die Namen, die so
+zustande kamen, von Tieren entlehnt waren, ist nicht weiter auffällig
+und braucht von den Primitiven nicht als Schimpf oder Spott empfunden
+worden zu sein. Übrigens hat _Lang_ die keineswegs vereinzelten Fälle
+aus späteren Epochen der Geschichte herangezogen, in denen von außen
+gegebene, ursprünglich als Spott gemeinte Namen von den so Bezeichneten
+akzeptiert und bereitwillig getragen wurden (_Geusen_, _Whigs_ und
+_Tories_). Die Annahme, daß die Entstehung dieser Namen im Laufe der
+Zeit vergessen wurde, verknüpft dies zweite Stück der _Lang_schen
+Theorie mit dem vorhin dargestellten ersten.
+
+
+B) Die soziologischen Theorien.
+
+S. _Reinach_, der den Überbleibseln des totemistischen Systems in Kult
+und Sitte späterer Perioden erfolgreich nachgespürt, aber von Anfang an
+das Moment der Abstammung vom Totemtier gering geschätzt hat, äußert
+einmal ohne Bedenken, der Totemismus scheine ihm nichts anderes zu sein
+als »une hypertrophie de l'instinct social«(25).
+
+  (25) l. c. T. I., p. 41.
+
+Dieselbe Auffassung scheint das neue Werk von E. _Durkheim_, Les formes
+élémentaires de la vie religieuse. Le système totémique en Australie,
+1912, zu durchziehen. Der Totem ist der sichtbare Repräsentant der
+sozialen Religion dieser Völker. Er verkörpert die Gemeinschaft, welche
+der eigentliche Gegenstand der Verehrung ist.
+
+Andere Autoren haben nach näherer Begründung für diese Beteiligung der
+sozialen Triebe an der Bildung der totemistischen Institutionen gesucht.
+So hat A. C. _Haddon_ angenommen, daß jeder primitive Stamm ursprünglich
+von einer besonderen Tier- oder Pflanzenart lebte, vielleicht auch mit
+diesem Nahrungsmittel Handel trieb und ihn anderen Stämmen im Austausch
+zuführte. So konnte es nicht fehlen, daß der Stamm den anderen unter dem
+Namen des Tieres, welches für ihn eine so wichtige Rolle spielte,
+bekannt wurde. Gleichzeitig mußte sich bei diesem Stamm eine besondere
+Vertrautheit mit dem betreffenden Tier und eine Art von Interesse für
+dasselbe entwickeln, welches aber auf kein anderes psychisches Motiv als
+auf das elementarste und dringendste der menschlichen Bedürfnisse, den
+Hunger, gegründet war(26).
+
+  (26) Address to the Anthropological Section, British Association
+  Belfast 1902. Nach _Frazer_ l. c. T. IV., p. 50 u. ff.
+
+Die Einwendungen gegen diese rationalste aller Totemtheorien besagen,
+daß ein solcher Zustand der Ernährung bei den Primitiven nirgends
+gefunden werde und wahrscheinlich niemals bestanden habe. Die Wilden
+seien omnivor und zwar um so mehr, je niedriger sie stehen. Ferner sei
+es nicht zu verstehen, wie aus solcher ausschließlicher Diät sich ein
+fast religiöses Verhältnis zu dem Totem entwickelt haben konnte, das in
+der absoluten Enthaltung von der Vorzugsnahrung gipfelte.
+
+Die erste der drei Theorien, welche _Frazer_ über die Entstehung des
+Totemismus ausgesprochen, war eine psychologische; sie wird an anderer
+Stelle berichtet werden.
+
+Die zweite hier zu besprechende Theorie _Frazers_ entstand unter dem
+Eindruck der bedeutungsvollen Publikation zweier Forscher über die
+Eingebornen von Zentralaustralien(27).
+
+  (27) The native tribes of Central Australia von Baldwin _Spencer_ und
+  H. J. _Gillen_, London 1891.
+
+_Spencer_ und _Gillen_ beschrieben bei einer Gruppe von Stämmen, der
+sogenannten _Arunta_nation, eine Reihe von eigentümlichen Einrichtungen,
+Gebräuchen und Ansichten und _Frazer_ schloß sich ihrem Urteil an, daß
+diese Besonderheiten als Züge eines primären Zustandes zu betrachten
+seien und über den ersten und eigentlichen Sinn des Totemismus Aufschluß
+geben können.
+
+Diese Eigentümlichkeiten sind bei dem _Arunta_stamm selbst (einem Teil
+der _Arunta_nation) folgende:
+
+1. Sie haben die Gliederung in Totemclans, aber der Totem wird nicht
+erblich übertragen, sondern (auf später mitzuteilende Weise) individuell
+bestimmt.
+
+2. Die Totemclans sind nicht exogam, die Heiratsbeschränkungen werden
+durch eine hoch entwickelte Gliederung in Heiratsklassen hergestellt,
+welche mit den Totem nichts zu tun haben.
+
+3. Die Funktion der Totemclans besteht in der Ausführung einer
+Zeremonie, welche auf exquisit magische Weise die Vermehrung des eßbaren
+Totemobjekts bezweckt (diese Zeremonie heißt _Intichiuma_).
+
+4. Die _Arunta_ haben eine eigenartige Konzeptions- und
+Wiedergeburtstheorie. Sie nehmen an, daß an bestimmten Stellen ihres
+Landes die Geister der Verstorbenen desselben Totem auf ihre
+Wiedergeburt warten und in den Leib der Frauen eindringen, die jene
+Stellen passieren. Wird ein Kind geboren, so gibt die Mutter an, auf
+welcher Geisterstätte sie ihr Kind empfangen zu haben glaubt. Danach
+wird der Totem des Kindes bestimmt. Es wird ferner angenommen, daß die
+Geister (der Verstorbenen, wie der Wiedergeborenen) an eigentümliche
+Steinamulette gebunden sind (Namens _Churinga_), welche an jenen Stätten
+gefunden werden.
+
+Zwei Momente scheinen _Frazer_ zum Glauben bewogen zu haben, daß man in
+den Einrichtungen der _Arunta_ die älteste Form des Totemismus
+aufgefunden habe. Erstens die Existenz gewisser Mythen, welche
+behaupteten, daß die Ahnen der _Arunta_ sich regelmäßig von ihrem Totem
+genährt und keine anderen Frauen als die aus ihrem eigenen Totem
+geheiratet hätten. Zweitens die anscheinende Zurücksetzung des
+Geschlechtsaktes in ihrer Konzeptionstheorie. Menschen, die noch nicht
+erkannt hatten, daß die Empfängnis die Folge des Geschlechtsverkehrs
+sei, dürfte man wohl als die zurückgebliebensten und primitivsten unter
+den heute lebenden ansehen.
+
+Indem _Frazer_ sich für die Beurteilung des Totemismus an die
+Intichiumazeremonie hielt, erschien ihm das totemistische System auf
+einmal in gänzlich verändertem Lichte als eine durchweg praktische
+Organisation zur Bestreitung der natürlichsten Bedürfnisse des Menschen
+(vgl. oben _Haddon_)(28). Das System war einfach ein großartiges Stück
+von »cooperative magic«. Die Primitiven bildeten sozusagen einen
+magischen Produktions- und Konsumverein. Jeder Totemclan hatte die
+Aufgabe übernommen, für die Reichlichkeit eines gewissen Nahrungsmittels
+zu sorgen. Wenn es sich um nicht eßbare Totem handelte, wie um
+schädliche Tiere, um Regen, Wind u. dgl., so war die Pflicht des
+Totemclans, dieses Stück Natur zu beherrschen und dessen Schädlichkeit
+abzuwehren. Die Leistungen eines jeden Clans kamen allen anderen zugute.
+Da der Clan von seinem Totem nichts oder nur sehr wenig essen durfte, so
+beschaffte er dieses wertvolle Gut für die anderen und wurde dafür von
+ihnen mit dem versorgt, was sie selbst als ihre soziale Totempflicht zu
+besorgen hatten. Im Lichte dieser durch die Intichiumazeremonie
+vermittelten Auffassung wollte es _Frazer_ scheinen, als wäre man durch
+das Verbot, von seinem Totem zu essen, verblendet worden, die wichtigere
+Seite des Verhältnisses zu vernachlässigen, nämlich das Gebot, möglichst
+viel von dem eßbaren Totem für den Bedarf der anderen herbeizuschaffen.
+
+  (28) There is nothing vague or mystical about it, nothing of that
+  metaphysical haze which some writers love to conjure up over the
+  humble beginnings of human speculation but which is utterly foreign to
+  the simple, sensuous, and concrete modes of the savage (Totemism and
+  Exogamy, I., p. 117).
+
+_Frazer_ nahm die Tradition der _Arunta_ an, daß jeder Totemclan sich
+ursprünglich ohne Einschränkung von seinem Totem genährt habe. Dann
+bereitete es Schwierigkeiten, die folgende Entwicklung zu verstehen, die
+sich damit begnügte, den Totem für andere zu sichern, während man selbst
+auf seinen Genuß fast verzichtete. Er nahm dann an, diese Einschränkung
+sei keineswegs aus einer Art von religiösem Respekt hervorgegangen,
+sondern vielleicht aus der Beobachtung, daß kein Tier seinesgleichen zu
+verzehren pflege, so daß dieser Abbruch der Identifizierung mit dem
+Totem der Macht, die man über denselben zu erlangen wünschte, Schaden
+brächte. Oder aus einem Bestreben, sich das Wesen geneigt zu machen,
+indem man es selbst verschonte. _Frazer_ verhehlte sich aber die
+Schwierigkeiten dieser Erklärung nicht(29) und ebensowenig getraute er
+sich anzugeben, auf welchem Wege die von den Mythen der _Arunta_
+behauptete Gewohnheit, innerhalb des Totem zu heiraten, sich zur
+Exogamie gewandelt habe.
+
+  (29) l. c. p. 120.
+
+Die auf das Intichiuma gegründete Theorie _Frazers_ steht und fällt mit
+der Anerkennung der primitiven Natur der _Arunta_institutionen. Es
+scheint aber unmöglich, diese letztere gegen die von _Durkheim_(30) und
+_Lang_(31) vorgebrachten Einwendungen zu halten. Die Arunta scheinen
+vielmehr die entwickeltsten der australischen Stämme zu sein, eher ein
+Auflösungsstadium als den Beginn des Totemismus zu repräsentieren. Die
+Mythen, welche auf _Frazer_ so großen Eindruck gemacht haben, weil sie
+im Gegensatz zu den heute herrschenden Institutionen die Freiheit
+betonen vom Totem zu essen und innerhalb des Totem zu heiraten, würden
+sich uns leicht als Wunschphantasien erklären, welche in die
+Vergangenheit projiziert sind, ähnlich wie der Mythus vom goldenen
+Zeitalter.
+
+  (30) L'année sociologique, T. I., V., VIII. und an anderen Stellen. S.
+  besonders die Abhandlung Sur le totémisme, T. V., 1901.
+
+  (31) Social Origins und Secret of the Totem.
+
+
+C) Die psychologischen Theorien.
+
+Die erste psychologische Theorie _Frazers_, noch vor seiner
+Bekanntschaft mit den Beobachtungen von _Spencer_ und _Gillen_
+geschaffen, ruhte auf dem Glauben an die »äußerliche Seele«(32). Der
+Totem sollte einen sicheren Zufluchtsort für die Seele darstellen, an
+dem sie deponiert wird, um den Gefahren, die sie bedrohen, entzogen zu
+bleiben. Wenn der Primitive seine Seele in seinem Totem untergebracht
+hatte, so war er selbst unverletzlich und natürlich hütete er sich, den
+Träger seiner Seele selbst zu beschädigen. Da er aber nicht wußte,
+welches Individuum der Tierart sein Seelenträger war, lag es ihm nahe,
+die ganze Art zu verschonen. _Frazer_ hat diese Ableitung des Totemismus
+aus dem Seelenglauben später selbst aufgegeben.
+
+  (32) The Golden Bough II., p. 332.
+
+Als er mit den Beobachtungen von _Spencer_ und _Gillen_ bekannt wurde,
+stellte er die andere soziologische Theorie des Totemismus auf, welche
+eben vorhin mitgeteilt wurde, aber er fand dann selbst, daß das Motiv,
+aus dem er den Totemismus abgeleitet, allzu »rationell« sei und daß er
+dabei eine soziale Organisation vorausgesetzt habe, die allzu
+kompliziert sei, als daß man sie primitiv heißen dürfe(33). Die
+magischen Kooperativgesellschaften erschienen ihm jetzt eher als späte
+Früchte denn als Keime des Totemismus. Er suchte ein einfacheres Moment,
+einen primitiven Aberglauben, hinter diesen Bildungen, um aus ihm die
+Entstehung des Totemismus abzuleiten. Dieses ursprüngliche Moment fand
+er dann in der merkwürdigen Konzeptionstheorie der _Arunta_.
+
+  (33) »It is unlikely that a community of savages should deliberately
+  parcel out the realm of nature into provinces, assign each province to
+  a particular band of magicians, and bid all the bands to work their
+  magic and weave their spells for the common good.« T. and Ex. IV.,
+  p. 57.
+
+Die _Arunta_ heben, wie bereits erwähnt, den Zusammenhang der Konzeption
+mit dem Geschlechtsakt auf. Wenn ein Weib sich Mutter fühlt, so ist in
+diesem Augenblick einer der auf Wiedergeburt lauernden Geister von der
+nächstliegenden Geisterstätte in ihren Leib eingedrungen und wird von
+ihr als Kind geboren. Dies Kind hat denselben Totem wie alle an der
+gewissen Stelle lauernden Geister. Diese Konzeptionstheorie kann den
+Totemismus nicht erklären, denn sie setzt den Totem voraus. Aber wenn
+man einen Schritt weiter zurückgehen und annehmen will, daß das Weib
+ursprünglich geglaubt, das Tier, die Pflanze, der Stein, das Objekt,
+welches ihre Phantasie in dem Moment beschäftigte, da sie sich zuerst
+Mutter fühlte, sei wirklich in sie eingedrungen und werde dann von ihr
+in menschlicher Form geboren, dann wäre die Identität eines Menschen mit
+seinem Totem durch den Glauben der Mutter wirklich begründet, und alle
+weiteren Totemgebote (mit Ausschluß der Exogamie) ließen sich leicht
+daraus ableiten. Der Mensch würde sich weigern, von diesem Tier, dieser
+Pflanze zu essen, weil er damit gleichsam sich selbst essen würde. Er
+würde sich aber veranlaßt finden, gelegentlich in zeremoniöser Weise
+etwas von seinem Totem zu genießen, weil er dadurch seine
+Identifizierung mit dem Totem, welche das Wesentliche am Totemismus ist,
+verstärken könnte. Beobachtungen von W. H. R. _Rivers_ an den
+Eingeborenen der _Banks_inseln schienen die direkte Identifizierung der
+Menschen mit ihrem Totem auf Grund einer solchen Konzeptionstheorie zu
+erweisen(34).
+
+  (34) T. and Ex. II., p. 89 und IV., p. 59.
+
+Die letzte Quelle des Totemismus wäre also die Unwissenheit der Wilden
+über den Prozeß, wie Menschen und Tiere ihr Geschlecht fortpflanzen. Des
+besonderen die Unkenntnis der Rolle, welche das Männchen bei der
+Befruchtung spielt. Diese Unkenntnis muß erleichtert werden durch das
+lange Intervall, welches sich zwischen den befruchtenden Akt und die
+Geburt des Kindes (oder das Verspüren der ersten Kindsbewegungen)
+einschiebt. Der Totemismus ist daher eine Schöpfung nicht des
+männlichen, sondern des weiblichen Geistes. Die Gelüste (sick fancies)
+des schwangeren Weibes sind die Wurzel desselben. »Anything indeed that
+struck a woman at that mysterious moment of her life when she first
+knows herself to be a mother might easily be identified by her with the
+child in her womb. Such maternal fancies, so natural and seemingly so
+universal, appear to be the root of totemism«(35).
+
+  (35) l. c. IV., p. 63.
+
+Der Haupteinwand gegen diese dritte _Frazer_sche Theorie ist derselbe,
+der bereits gegen die zweite, soziologische, vorgebracht wurde. Die
+_Arunta_ scheinen sich von den Anfängen des Totemismus weit weg entfernt
+zu haben. Ihre Verleugnung der Vaterschaft scheint nicht auf primitiver
+Unwissenheit zu beruhen; sie haben selbst in manchen Stücken väterliche
+Vererbung. Sie scheinen die Vaterschaft einer Art von Spekulation
+geopfert zu haben, welche die Ahnengeister zu Ehren bringen will(36).
+Wenn sie den Mythus der unbefleckten Empfängnis durch den Geist zur
+allgemeinen Konzeptionstheorie erheben, darf man darum ihnen
+Unwissenheit über die Bedingungen der Fortpflanzung ebensowenig zumuten,
+wie den alten Völkern um die Zeit der Entstehung der christlichen
+Mythen.
+
+  (36) »That belief is a philosophy far from primitive.« A. _Lang_,
+  Secret of the Totem, p. 192.
+
+Eine andere psychologische Theorie der Herkunft des Totemismus hat der
+Holländer G. A. _Wilcken_ aufgestellt. Sie stellt eine Verknüpfung des
+Totemismus mit der Seelenwanderung her. »Dasjenige Tier, in welches die
+Seelen der Toten nach allgemeinem Glauben übergingen, wurde zum
+Blutsverwandten, Ahnherrn und als solcher verehrt.« Aber der Glauben an
+die Tierwanderung der Seelen mag eher aus dem Totemismus abgeleitet sein
+als umgekehrt(37).
+
+  (37) _Frazer_, T. and Ex. IV., p. 45 u. ff.
+
+Eine andere Theorie des Totemismus wird von ausgezeichneten
+amerikanischen Ethnologen, Fr. _Boas_, _Hill-Tout_ u. a., vertreten. Sie
+geht von den Beobachtungen an totemistischen Indianerstämmen aus und
+behauptet, der Totem sei ursprünglich der Schutzgeist eines Ahnen, den
+dieser durch einen Traum erworben und auf seine Nachkommenschaft vererbt
+habe. Wir haben schon früher gehört, welche Schwierigkeiten die
+Ableitung des Totemismus aus der Vererbung von einem einzelnen her
+bietet; überdies sollen die australischen Beobachtungen die
+Zurückführung des Totem auf den Schutzgeist keineswegs unterstützen(38).
+
+  (38) _Frazer_, l. c. p. 48.
+
+Für die letzte der psychologischen Theorien, die von _Wundt_
+ausgesprochene, sind die beiden Tatsachen entscheidend geworden, daß
+erstens das ursprüngliche Totemobjekt und das dauernd verbreitetste das
+Tier ist, und daß zweitens unter den Totemtieren wieder die
+ursprünglichsten mit Seelentieren zusammenfallen(39). Seelentiere, wie
+Vögel, Schlange, Eidechse, Maus eignen sich durch ihre schnelle
+Beweglichkeit, ihren Flug in der Luft, durch andere Überraschung und
+Grauen erregende Eigenschaften dazu als die Träger der den Körper
+verlassenden Seele erkannt zu werden. Das Totemtier ist ein Abkömmling
+der Tierverwandlungen der Hauchseele. So mündet hier für _Wundt_ der
+Totemismus unmittelbar in den Seelenglauben oder Animismus ein.
+
+  (39) _Wundt_, Elemente der Völkerpsychologie, p. 190.
+
+
+b) und c) Die Herkunft der Exogamie und ihre Beziehung zum Totemismus.
+
+Ich habe die Theorien des Totemismus mit einiger Ausführlichkeit
+vorgebracht und muß dennoch befürchten, daß ich deren Eindruck durch die
+immerhin notwendige Verkürzung geschadet habe. In betreff der weiteren
+Fragen nehme ich mir im Interesse des Lesers die Freiheit einer noch
+weitergehenden Zusammendrängung. Die Diskussionen über die Exogamie der
+Totemvölker werden durch die Natur des dabei verwerteten Materials
+besonders kompliziert und unübersehbar; man könnte sagen verworren. Die
+Ziele dieser Abhandlung gestatten es auch, daß ich mich hier auf
+Hervorhebung einiger Richtlinien beschränke und für eine gründlichere
+Verfolgung des Gegenstandes auf die mehrmals zitierten eingehenden
+Fachschriften verweise.
+
+Die Stellung eines Autors zu den Problemen der Exogamie ist natürlich
+nicht unabhängig von seiner Parteinahme für diese oder jene
+Totemtheorie. Einige von diesen Erklärungen des Totemismus lassen jede
+Anknüpfung an die Exogamie vermissen, so daß die beiden Institutionen
+glatt auseinanderfallen. So stehen hier zwei Anschauungen einander
+gegenüber, die eine, welche den ursprünglichen Anschein festhalten will,
+die Exogamie sei ein wesentliches Stück des totemistischen Systems, und
+eine andere, welche einen solchen Zusammenhang bestreitet und an ein
+zufälliges Zusammentreffen der beiden Züge ältester Kulturen glaubt.
+_Frazer_ hat in seinen späteren Arbeiten diesen letzteren Standpunkt mit
+Entschiedenheit vertreten.
+
+»I must request the reader to bear constantly in mind that the two
+institutions of totemism and exogamy are fundamentally distinct in
+origin and nature though they have accidentally crossed and blended in
+many tribes.« (T. and Ex., I., Vorrede XII.)
+
+Er warnt direkt vor der gegenteiligen Ansicht als einer Quelle
+unendlicher Schwierigkeiten und Mißverständnisse. Im Gegensatz hiezu
+haben andere Autoren den Weg gefunden, die Exogamie als notwendige Folge
+der totemistischen Grundanschauungen zu begreifen. _Durkheim_ hat in
+seinen Arbeiten(40) ausgeführt, wie das an den Totem geknüpfte Tabu das
+Verbot mit sich bringen mußte, ein Weib des nämlichen Totem zum
+geschlechtlichen Verkehr zu gebrauchen. Der Totem ist von demselben Blut
+wie der Mensch, und darum verbietet der Blutbann (mit Rücksicht auf
+Defloration und Menstruation) den sexuellen Verkehr mit dem Weibe, das
+demselben Totem angehört(41). A. _Lang_, der sich hierin _Durkheim_
+anschließt, meint sogar, es bedurfte nicht des Bluttabu, um das Verbot
+der Frauen des gleichen Stammes zu bewirken(42). Das allgemeine
+Totemtabu, welches z. B. verbietet, im Schatten des Totembaumes zu
+sitzen, würde hiefür hingereicht haben. A. _Lang_ verficht übrigens auch
+eine andere Ableitung der Exogamie (s. unten) und läßt es zweifelhaft,
+wie sich diese beiden Erklärungen zueinander verhalten.
+
+  (40) L'année sociologique 1898-1904.
+
+  (41) S. die Kritik der Erörterungen _Durkheims_ bei _Frazer_. T. and
+  Ex., IV., p. 101.
+
+  (42) Secret etc., p. 125.
+
+In betreff der zeitlichen Verhältnisse huldigt die Mehrzahl der Autoren
+der Ansicht, der Totemismus sei die ältere Institution, die Exogamie
+später hinzugekommen(43).
+
+  (43) Z. B. _Frazer_, l. c. IV., p. 75: The totemic clan is a totally
+  different social organism from the exogamous class, and we have good
+  grounds for thinking that it is far older.
+
+Unter den Theorien, welche die Exogamie unabhängig vom Totemismus
+erklären wollen, seien nur einige hervorgehoben, welche die
+verschiedenen Einstellungen der Autoren zum Inzestproblem erläutern.
+
+_Mac Lennan_(44) hatte die Exogamie in geistreicher Weise aus den
+Überresten von Sitten erraten, welche auf ehemaligen Frauenraub
+hindeuteten. Er nahm nun an, daß es in Urzeiten allgemein gebräuchlich
+gewesen sei, sich das Weib aus einem fremden Stamm zu holen, und die
+Heirat mit einem Weib aus dem eigenen Stamm sei allmählich unerlaubt
+geworden, weil sie ungewöhnlich war(45). Das Motiv für diese Gewohnheit
+der Exogamie suchte er in einem Frauenmangel jener primitiven Stämme,
+der sich aus dem Gebrauch, die meisten weiblichen Kinder bei der Geburt
+zu töten, ergeben hatte. Wir haben es hier nicht mit der Nachprüfung zu
+tun, ob die tatsächlichen Verhältnisse die Annahmen _Mac Lennans_
+bestätigen. Weit mehr interessiert uns das Argument, daß es unter den
+Voraussetzungen des Autors doch unerklärlich bliebe, warum sich die
+männlichen Mitglieder des Stammes auch die wenigen Frauen aus ihrem Blut
+unzugänglich machen sollten, und die Art, wie hier das Inzestproblem
+gänzlich beiseite gelassen wird(46).
+
+  (44) Primitive marriage 1865.
+
+  (45) »Improper because it was unusual.«
+
+  (46) _Frazer_, l. c. IV., p. 73 bis 92.
+
+Im Gegensatz hiezu und offenbar mit mehr Recht haben andere Forscher die
+Exogamie als eine Institution zur Verhütung des Inzests erfaßt(47).
+
+  (47) Vgl. Imago I.: Die Inzestscheu.
+
+Überblickt man die allmählich wachsende Komplikation der australischen
+Heiratsbeschränkungen, so kann man nicht anders als der Ansicht von
+_Morgan_, _Frazer_, _Howitt_, _Baldwin Spencer_(48) beistimmen, daß
+diese Einrichtungen das Gepräge zielbewußter Absicht (»deliberate
+design« nach _Frazer_) an sich tragen, und daß sie das erreichen
+sollten, was sie tatsächlich geleistet haben. »In no other way does it
+seem possible to explain in all its details a system at once so complex
+and so regular(49).«
+
+  (48) _Morgan_, Ancient Society 1877. -- _Frazer_, T. and Ex. IV.,
+  p. 105 ff.
+
+  (49) _Frazer_, l. c. p. 106.
+
+Es ist interessant hervorzuheben, daß die ersten der durch die
+Einführung von Heiratsklassen erzeugten Beschränkungen die
+Sexualfreiheit der jüngeren Generation, also den Inzest von Geschwistern
+und von Söhnen mit ihrer Mutter trafen, während der Inzest zwischen
+Vater und Tochter erst durch weitergehende Maßregeln aufgehoben wurde.
+
+Die Zurückführung der exogamischen Sexualbeschränkungen auf
+gesetzgeberische Absicht leistet aber nichts für das Verständnis des
+Motivs, welches diese Institutionen geschaffen hat. Woher stammt in
+letzter Auflösung die Inzestscheu, welche als die Wurzel der Exogamie
+erkannt werden muß? Es ist offenbar nicht genügend, sich zur Erklärung
+der Inzestscheu auf eine instinktive Abneigung gegen sexuellen Verkehr
+unter Blutsverwandten, d. h. also auf die Tatsache der Inzestscheu zu
+berufen, wenn die soziale Erfahrung nachweist, daß der Inzest diesem
+Instinkt zum Trotz kein seltenes Vorkommnis selbst in unserer heutigen
+Gesellschaft ist, und wenn die historische Erfahrung Fälle kennen lehrt,
+in denen die inzestuöse Ehe bevorzugten Personen zur Vorschrift gemacht
+wurde.
+
+_Westermarck_(50) machte zur Erklärung der Inzestscheu geltend, »daß
+zwischen Personen, die von Kindheit an beisammen leben, eine angeborene
+Abneigung gegen den Geschlechtsverkehr herrscht, und daß dieses Gefühl,
+da diese Personen in der Regel blutsverwandt sind, in Sitte und Gesetz
+einen natürlichen Ausdruck findet durch den Abscheu vor dem
+Geschlechtsumgang unter nahen Verwandten«. _Havelock Ellis_ bestritt
+zwar den triebhaften Charakter dieser Abneigung in seinen »Studies in
+the psychology of sex«, trat aber sonst im wesentlichen derselben
+Erklärung bei, indem er äußerte: »das normale Unterbleiben des
+Zutagetretens des Paarungstriebes dort, wo es sich um Brüder und
+Schwestern oder um von Kindheit auf beisammenlebende Mädchen und Knaben
+handelt, ist eine rein negative Erscheinung, welche daher kommt, daß
+unter jenen Umständen die den Paarungstrieb erweckenden Vorbedingungen
+durchaus fehlen müssen ... Zwischen Personen, die von Kindheit zusammen
+aufgewachsen sind, hat die Gewöhnung alle sinnlichen Reize des Sehens,
+des Hörens und der Berührung abgestumpft, in die Bahn einer ruhigen
+Zuneigung gelenkt und ihrer Macht beraubt, die zur Erzeugung
+geschlechtlicher Tumeszenz erforderliche nötige erethistische Erregung
+hervorzurufen.«
+
+  (50) Ursprung und Entwicklung der Moralbegriffe. II. Die Ehe. 1909.
+  Dort auch die Verteidigung des Autors gegen ihm bekannt gewordene
+  Einwendungen.
+
+Es erscheint mir sehr merkwürdig, daß _Westermarck_ diese angeborene
+Abneigung gegen den Geschlechtsverkehr mit Personen, mit denen man die
+Kindheit geteilt hat, gleichzeitig als psychische Repräsentanz der
+biologischen Tatsache ansieht, daß Inzucht eine Schädigung der Gattung
+bedeutet. Ein derartiger biologischer Instinkt würde in seiner
+psychologischen Äußerung kaum so weit irregehen, daß er anstatt der für
+die Fortpflanzung schädlichen Blutsverwandten die in dieser Hinsicht
+ganz harmlosen Haus- und Herdgenossen träfe. Ich kann es mir aber auch
+nicht versagen, die ganz ausgezeichnete Kritik mitzuteilen, welche
+_Frazer_ der Behauptung von _Westermarck_ entgegenstellt. _Frazer_
+findet es unbegreiflich, daß das sexuelle Empfinden sich heute so gar
+nicht gegen den Verkehr mit Herdgenossen sträubt, während die
+Inzestscheu, die nur ein Abkömmling von diesem Sträuben sein soll,
+gegenwärtig so übermächtig angewachsen ist. Tiefer dringen aber andere
+Bemerkungen _Frazers_, die ich unverkürzt hieher setze, weil sie im
+Wesen mit den in meinem Aufsatz über das Tabu entwickelten Argumenten
+zusammentreffen.
+
+»Es ist nicht leicht einzusehen, warum ein tief wurzelnder menschlicher
+Instinkt die Verstärkung durch ein Gesetz benötigen sollte. Es gibt kein
+Gesetz, welches den Menschen befiehlt zu essen und zu trinken, oder
+ihnen verbietet, ihre Hände ins Feuer zu stecken. Die Menschen essen und
+trinken und halten ihre Hände vom Feuer weg, instinktgemäß, aus Angst
+vor natürlichen und nicht vor gesetzlichen Strafen, die sie sich durch
+Beleidigung dieser Triebe zuziehen würden. Das Gesetz verbietet den
+Menschen nur, was sie unter dem Drängen ihrer Triebe ausführen könnten.
+Was die Natur selbst verbietet und bestraft, das braucht nicht erst das
+Gesetz zu verbieten und zu strafen. Wir dürfen daher auch ruhig
+annehmen, daß Verbrechen, die durch ein Gesetz verboten werden,
+Verbrechen sind, die viele Menschen aus natürlichen Neigungen gerne
+begehen würden. Wenn es keine solche Neigung gäbe, kämen keine solchen
+Verbrechen vor, und wenn solche Verbrechen nicht begangen würden, wozu
+brauchte man sie zu verbieten? Anstatt also aus dem gesetzlichen Verbot
+des Inzests zu schließen, daß eine natürliche Abneigung gegen den Inzest
+besteht, sollten wir eher den Schluß ziehen, daß ein natürlicher
+Instinkt zum Inzest treibt, und daß, wenn das Gesetz diesen Trieb wie
+andere natürliche Triebe unterdrückt, dies seinen Grund in der Einsicht
+zivilisierter Menschen hat, daß die Befriedigung dieser natürlichen
+Triebe der Gesellschaft Schaden bringt(51).«
+
+  (51) l. c., p. 97.
+
+Ich kann dieser kostbaren Argumentation _Frazers_ noch hinzufügen, daß
+die Erfahrungen der Psychoanalyse die Annahme einer angeborenen
+Abneigung gegen den Inzestverkehr vollends unmöglich machen. Sie haben
+im Gegenteile gelehrt, daß die ersten sexuellen Regungen des
+jugendlichen Menschen regelmäßig inzestuöser Natur sind, und daß solche
+verdrängte Regungen als Triebkräfte der späteren Neurosen eine kaum zu
+überschätzende Rolle spielen.
+
+Die Auffassung der Inzestscheu als eines angeborenen Instinktes muß also
+fallen gelassen werden. Nicht besser steht es um eine andere Ableitung
+des Inzestverbotes, welche sich zahlreicher Anhänger erfreut, um die
+Annahme, daß die primitiven Völker frühzeitig bemerkt haben, mit welchen
+Gefahren die Inzucht ihr Geschlecht bedrohe, und daß sie darum in
+bewußter Absicht das Inzestverbot erlassen hätten. Die Einwendungen
+gegen diesen Erklärungsversuch drängen einander(52). Nicht nur, daß das
+Inzestverbot älter sein muß als alle Haustierwirtschaft, an welcher der
+Mensch Erfahrungen über die Wirkung der Inzucht auf die Eigenschaften
+der Rasse machen konnte, sondern die schädlichen Folgen der Inzucht sind
+auch heute noch nicht über jeden Zweifel sichergestellt und beim
+Menschen nur schwer nachweisbar. Ferner macht alles, was wir über die
+heutigen Wilden wissen, es sehr unwahrscheinlich, daß die Gedanken ihrer
+entferntesten Ahnen bereits mit der Verhütung von Schäden für ihre
+spätere Nachkommenschaft beschäftigt waren. Es klingt fast lächerlich,
+wenn man diesen ohne jeden Vorbedacht lebenden Menschenkindern
+hygienische und eugenische Motive zumuten will, wie sie in unserer
+heutigen Kultur noch kaum Berücksichtigung gefunden haben(53).
+
+  (52) Vgl. _Durkheim_, La prohibition de l'Inceste. L'année
+  sociologique. I., 1896/97.
+
+  (53) Ch. _Darwin_ meint von den Wilden: »they are not likely to
+  reflect on distant evils to their progeny.«
+
+Endlich wird man auch geltend machen müssen, daß das aus praktisch
+hygienischen Motiven gegebene Verbot der Inzucht als eines die Rasse
+schwächenden Momentes ganz unangemessen erscheint, um den tiefen Abscheu
+zu erklären, welcher sich in unserer Gesellschaft gegen den Inzest
+erhebt. Wie ich an anderer Stelle dargetan habe(54), erscheint diese
+Inzestscheu bei den heute lebenden primitiven Völkern eher noch reger
+und stärker als bei den zivilisierten.
+
+  (54) Imago, I., l. c.
+
+Während man erwarten konnte, auch für die Ableitung der Inzestscheu die
+Wahl zu haben zwischen soziologischen, biologischen und psychologischen
+Erklärungsmöglichkeiten, wobei noch die psychologischen Motive
+vielleicht als Repräsentanz von biologischen Mächten zu würdigen wären,
+sieht man sich am Ende der Untersuchung genötigt, dem resignierten
+Ausspruch _Frazers_ beizutreten: Wir kennen die Herkunft der Inzestscheu
+nicht und wissen selbst nicht, worauf wir raten sollen. Keine der bisher
+vorgebrachten Lösungen des Rätsels erscheint uns befriedigend(55).
+
+  (55) »Thus the ultimate origin of exogamy and with it the law of
+  incest -- since exogamy was devised to prevent incest -- remains a
+  problem nearly as dark as ever.« T. and Ex. I., p. 165.
+
+Ich muß noch eines Versuches erwähnen, die Entstehung der Inzestscheu zu
+erklären, welcher von ganz anderer Art ist als die bisher betrachteten.
+Man könnte ihn als eine historische Ableitung bezeichnen.
+
+Dieser Versuch knüpft an eine Hypothese von Ch. _Darwin_ über den
+sozialen Urzustand des Menschen an. _Darwin_ schloß aus den
+Lebensgewohnheiten der höheren Affen, daß auch der Mensch ursprünglich
+in kleinen Horden gelebt habe, innerhalb welcher die Eifersucht des
+ältesten und stärksten Männchens die sexuelle Promiskuität verhinderte.
+»Wir können in der Tat, nach dem was wir von der Eifersucht aller
+männlichen Säugetiere wissen, von denen viele mit speziellen Waffen zum
+Kämpfen mit ihren Nebenbuhlern bewaffnet sind, schließen, daß allgemeine
+Vermischung der Geschlechter im Naturzustande äußerst unwahrscheinlich
+ist ... Wenn wir daher im Strome der Zeit weit genug zurückblicken und
+nach den sozialen Gewohnheiten des Menschen, wie er jetzt existiert,
+schließen, ist die wahrscheinlichste Ansicht die, daß der Mensch
+ursprünglich in kleinen Gesellschaften lebte, jeder Mann mit einer Frau
+oder, hatte er die Macht, mit mehreren, welche er eifersüchtig gegen
+alle anderen Männer verteidigte. Oder er mag kein soziales Tier gewesen
+sein und doch mit mehreren Frauen für sich allein gelebt haben wie der
+Gorilla; denn alle Eingebornen stimmen darin überein, daß nur ein
+erwachsenes Männchen in einer Gruppe zu sehen ist. Wächst das junge
+Männchen heran, so findet ein Kampf um die Herrschaft statt und der
+Stärkste setzt sich dann, indem er die anderen getötet oder vertrieben
+hat, als Oberhaupt der Gesellschaft fest (Dr. _Savage_ in Boston Journal
+of Natur. Hist. V., 1845-1847). Die jüngeren Männchen, welche hiedurch
+ausgestoßen sind und nun herumwandern, werden auch, wenn sie zuletzt
+beim Finden einer Gattin erfolgreich sind, die zu enge Inzucht innerhalb
+der Glieder einer und derselben Familie verhüten«(56).
+
+  (56) Abstammung des Menschen, übersetzt von V. _Carus_, II. Bd.,
+  Kap. 20, p. 341.
+
+_Atkinson_(57) scheint zuerst erkannt zu haben, daß diese Verhältnisse
+der _Darwin_schen Urhorde die Exogamie der jungen Männer praktisch
+durchsetzen mußten. Jeder dieser Vertriebenen konnte eine ähnliche Horde
+gründen, in welcher dasselbe Verbot des Geschlechtsverkehrs dank der
+Eifersucht des Oberhaupts galt, und im Laufe der Zeit würde sich aus
+diesen Zuständen die jetzt als Gesetz bewußte Regel ergeben haben: Kein
+Sexualverkehr mit den Herdgenossen. Nach Einsetzung des Totemismus hätte
+sich die Regel in die andere Form gewandelt: Kein Sexualverkehr
+innerhalb des Totem.
+
+  (57) Primal Law, London 1903 (mit A. _Lang_, Social Origins).
+
+A. _Lang_(58) hat sich dieser Erklärung der Exogamie angeschlossen. Er
+vertritt aber in demselben Buche die andere (_Durkheim_sche) Theorie,
+welche die Exogamie als Konsequenz aus den Totemgesetzen hervorgehen
+läßt. Es ist nicht ganz einfach, die beiden Auffassungen miteinander zu
+vereinigen; im ersten Falle hätte die Exogamie vor dem Totemismus
+bestanden, im zweiten wäre sie eine Folge desselben(59).
+
+  (58) Secret of the Totem, p. 114, 143.
+
+  (59) »If it be granted that exogamy existed in practice, on the lines
+  of Mr. _Darwin's_ theory, before the totem beliefs lent to the
+  practice a _sacred_ sanction, our task is relatively easy. The first
+  practical rule would be that of the jealous Sire 'No males to touch
+  the females in my camp', with expulsion of adolescent sons. _In efflux
+  of time that rule, become habitual_, would be, 'No marriage within the
+  local group'. Next let the local groups receive names, such as Emus,
+  Crows, Opossums, Snipes, and the rule becomes, 'No Marriage within the
+  local group of animal name; no Snipe to marry a Snipe'. But, if the
+  primal groups were not exogamous, they would become so, as soon as
+  totemic myths and tabus were developed out of the animal, vegetable,
+  and other names of small local groups.« Secret of the Totem, p. 143.
+  (Die Hervorhebung in der Mitte dieser Stelle ist mein Werk.) -- In
+  seiner letzten Äußerung über den Gegenstand (Folklore, Dezember 1911)
+  teilt A. _Lang_ übrigens mit, daß er die Ableitung der Exogamie aus
+  dem »general totemic« Tabu aufgegeben habe.
+
+
+
+
+3.
+
+
+Einen einzigen Lichtstrahl wirft die psychoanalytische Erfahrung in
+dieses Dunkel.
+
+Das Verhältnis des Kindes zum Tiere hat viel Ähnlichkeit mit dem des
+Primitiven zum Tiere. Das Kind zeigt noch keine Spur von jenem Hochmut,
+welcher dann den erwachsenen Kulturmenschen bewegt, seine eigene Natur
+durch eine scharfe Grenzlinie von allem anderen Animalischen abzusetzen.
+Es gesteht dem Tiere ohne Bedenken die volle Ebenbürtigkeit zu; im
+ungehemmten Bekennen zu seinen Bedürfnissen fühlt es sich wohl dem Tiere
+verwandter als dem ihm wahrscheinlich rätselhaften Erwachsenen.
+
+In diesem ausgezeichneten Einverständnis zwischen Kind und Tier tritt
+nicht selten eine merkwürdige Störung auf. Das Kind beginnt plötzlich
+eine bestimmte Tierart zu fürchten und sich vor der Berührung oder dem
+Anblick aller einzelnen dieser Art zu schützen. Es stellt sich das
+klinische Bild einer _Tierphobie_ her, eine der häufigsten unter den
+psychoneurotischen Erkrankungen dieses Alters und vielleicht die
+früheste Form solcher Erkrankung. Die Phobie betrifft in der Regel
+Tiere, für welche das Kind bis dahin ein besonders lebhaftes Interesse
+gezeigt hatte, sie hat mit dem Einzeltier nichts zu tun. Die Auswahl
+unter den Tieren, welche Objekte der Phobie werden können, ist unter
+städtischen Bedingungen nicht groß. Es sind Pferde, Hunde, Katzen,
+seltener Vögel, auffällig häufig kleinste Tiere wie Käfer und
+Schmetterlinge. Manchmal werden Tiere, die dem Kind nur aus dem
+Bilderbuch und Märchenerzählung bekannt worden sind, Objekte der
+unsinnigen und unmäßigen Angst, welche sich bei diesen Phobien zeigt;
+selten gelingt es einmal die Wege zu erfahren, auf denen sich eine
+ungewöhnliche Wahl des Angsttieres vollzogen hat. So verdanke ich K.
+_Abraham_ die Mitteilung eines Falles, in welchem ein Kind seine Angst
+vor Wespen selbst durch die Angabe aufklärte, die Farbe und Streifung
+des Wespenleibes hätte es an den Tiger denken lassen, vor dem es sich
+nach allem Gehörten fürchten durfte.
+
+Die Tierphobien der Kinder sind noch nicht Gegenstand aufmerksamer
+analytischer Untersuchung geworden, obwohl sie es im hohen Grade
+verdienen. Die Schwierigkeiten der Analyse mit Kindern in so zartem
+Alter sind wohl das Motiv der Unterlassung gewesen. Man kann daher nicht
+behaupten, daß man den allgemeinen Sinn dieser Erkrankungen kennt, und
+ich meine selbst, daß er sich nicht als einheitlich herausstellen
+dürfte. Aber einige Fälle von solchen auf größere Tiere gerichteten
+Phobien haben sich der Analyse zugänglich erwiesen und so dem
+Untersucher ihr Geheimnis verraten. Es war in jedem Falle das nämliche:
+die Angst galt im Grunde dem Vater, wenn die untersuchten Kinder Knaben
+waren, und war nur auf das Tier verschoben worden.
+
+Jeder in der Psychoanalyse Erfahrene hat gewiß solche Fälle gesehen und
+von ihnen den nämlichen Eindruck empfangen. Doch kann ich mich nur auf
+wenige ausführliche Publikationen darüber berufen. Es ist dies ein
+Zufall der Literatur, aus welchem nicht geschlossen werden sollte, daß
+wir unsere Behauptung überhaupt nur auf vereinzelte Beobachtungen
+stützen können. Ich erwähne z. B. einen Autor, welcher sich
+verständnisvoll mit den Neurosen des Kindesalters beschäftigt hat, M.
+_Wulff_ (Odessa). Er erzählt im Zusammenhange der Krankengeschichte
+eines neunjährigen Knaben, daß dieser mit vier Jahren an einer
+Hundephobie gelitten hat. »Als er auf der Straße einen Hund vorbeilaufen
+sah, weinte er und schrie: »Lieber Hund, fasse mich nicht, ich will
+artig sein.« Unter »artig sein« meinte er: »nicht mehr Geige spielen
+(onanieren)«(60).
+
+  (60) M. _Wulff_, Beiträge zur infantilen Sexualität. Zentralbl. f.
+  Psychoanalyse 1912, II., Nr. 1, p. 15 ff.
+
+Derselbe Autor resumiert später: »Seine Hundephobie ist eigentlich die
+auf die Hunde verschobene Angst vor dem Vater, denn seine sonderbare
+Äußerung: 'Hund ich will artig sein' -- d. h. nicht masturbieren --
+bezieht sich doch eigentlich auf den Vater, der die Masturbation
+verboten hat.« In einer Anmerkung setzt er dann hinzu, was sich eben so
+völlig mit meiner Erfahrung deckt und gleichzeitig die Reichlichkeit
+solcher Erfahrungen bezeugt: »Solche Phobien (Pferdephobien,
+Hundephobien, Katzen, Hühner und andere Haustiere) sind, glaube ich, im
+Kindesalter mindestens ebenso verbreitet wie der Pavor nocturnus und
+lassen sich in der Analyse fast immer als eine Verschiebung der Angst
+von einem der Eltern auf die Tiere entpuppen. Ob die so verbreitete
+Mäuse- und Rattenphobie denselben Mechanismus hat, möchte ich nicht
+behaupten.«
+
+Im ersten Band des Jahrbuchs für psychoanalytische und psychopathologische
+Forschungen teilte ich die »_Analyse der Phobie eines fünfjährigen
+Knaben_« mit, welche mir der Vater des kleinen Patienten
+zur Verfügung gestellt hatte. Es war eine Angst vor Pferden,
+in deren Konsequenz der Knabe sich weigerte auf die Straße zu gehen. Er
+äußerte die Befürchtung, das Pferd werde ins Zimmer kommen, werde ihn
+beißen. Es erwies sich, daß dies die Strafe für seinen Wunsch sein
+sollte, daß das Pferd umfallen (sterben) möge. Nachdem man dem Knaben
+durch Zusicherungen die Angst vor dem Vater benommen hatte, ergab es
+sich, daß er gegen Wünsche ankämpfte, die das Wegsein (Abreisen,
+Sterben) des Vaters zum Inhalt hatten. Er empfand den Vater, wie er
+überdeutlich zu erkennen gab, als Konkurrenten in der Gunst der Mutter,
+auf welche seine keimenden Sexualwünsche in dunkeln Ahnungen gerichtet
+waren. Er befand sich also in jener typischen Einstellung des männlichen
+Kindes zu den Eltern, welche wir als den »Ödipuskomplex« bezeichnen, und
+in der wir den Kernkomplex der Neurosen überhaupt erkennen. Was wir neu
+aus der Analyse des »kleinen Hans« erfahren, ist die für den Totemismus
+wertvolle Tatsache, daß das Kind unter solchen Bedingungen einen Anteil
+seiner Gefühle von dem Vater weg auf ein Tier verschiebt.
+
+Die Analyse weist die inhaltlich bedeutsamen wie die zufälligen
+Assoziationswege nach, auf welchen eine solche Verschiebung vor sich
+geht. Sie läßt auch die Motive derselben erraten. Der aus der
+Nebenbuhlerschaft bei der Mutter hervorgehende Haß kann sich im
+Seelenleben des Knaben nicht ungehemmt ausbreiten, er hat mit der seit
+jeher bestehenden Zärtlichkeit und Bewunderung für dieselbe Person zu
+kämpfen, das Kind befindet sich in doppelsinniger -- _ambivalenter_ --
+Gefühlseinstellung gegen den Vater und schafft sich Erleichterung in
+diesem Ambivalenzkonflikt, wenn es seine feindseligen und ängstlichen
+Gefühle auf ein Vatersurrogat verschiebt. Die Verschiebung kann den
+Konflikt allerdings nicht in der Weise erledigen, daß sie eine glatte
+Scheidung der zärtlichen von den feindseligen Gefühlen herstellt. Der
+Konflikt setzt sich vielmehr auf das Verschiebungsobjekt fort, die
+Ambivalenz greift auf dieses letztere über. Es ist unverkennbar, daß der
+kleine Hans den Pferden nicht nur Angst, sondern auch Respekt und
+Interesse entgegenbringt. Sowie sich seine Angst ermäßigt hat,
+identifiziert er sich selbst mit dem gefürchteten Tier, springt als
+Pferd herum und beißt nun seinerseits den Vater(61). In einem anderen
+Auflösungsstadium der Phobie macht es ihm nichts, die Eltern mit anderen
+großen Tieren zu identifizieren(62).
+
+  (61) l. c. p. 37.
+
+  (62) Die Giraffenphantasie p. 24.
+
+Man darf den Eindruck aussprechen, daß in diesen Tierphobien der Kinder
+gewisse Züge des Totemismus in negativer Ausprägung wiederkehren. Wir
+verdanken aber S. _Ferenczi_ die vereinzelt schöne Beobachtung eines
+Falles, den man nur als positiven Totemismus bei einem Kinde bezeichnen
+kann(63). Bei dem kleinen Arpád, von dem _Ferenczi_ berichtet, erwachen
+die totemistischen Interessen allerdings nicht direkt im Zusammenhang
+des Ödipuskomplexes, sondern auf Grund der narzißtischen Voraussetzung
+desselben, der Kastrationsangst. Wer aber die Geschichte des kleinen
+Hans aufmerksam durchsieht, wird auch in dieser die reichlichsten
+Zeugnisse dafür finden, daß der Vater als der Besitzer des großen
+Genitales bewundert und als der Bedroher des eigenen Genitales
+gefürchtet wird. Im Ödipus- wie im Kastrationskomplex spielt der Vater
+die nämliche Rolle, die des gefürchteten Gegners der infantilen
+Sexualinteressen. Die Kastration und ihr Ersatz durch die Blendung ist
+die von ihm drohende Strafe(64).
+
+  (63) S. _Ferenczi_, Ein kleiner Hahnemann. Intern. Zeitschr. f. ärztl.
+  Psychoanalyse 1913, I., Nr. 3.
+
+  (64) Über den Ersatz der Kastration durch die auch im Ödipusmythus
+  enthaltene Blendung vergleiche die Mitteilungen von _Reitler_,
+  _Ferenczi_, _Rank_ und _Eder_ in Intern. Zeitschr. f. ärztl.
+  Psychoanalyse 1913, I., Nr. 2.
+
+Als der kleine Arpád zweieinhalb Jahre alt war, versuchte er einmal in
+einem Sommeraufenthalte ins Geflügelhaus zu urinieren, wobei ihn ein
+Huhn ins Glied biß oder nach seinem Glied schnappte. Als er ein Jahr
+später an denselben Ort zurückkehrte, wurde er selbst zum Huhn, er
+interessierte sich nur mehr für das Geflügelhaus und alles, was darin
+vorging, und gab seine menschliche Sprache gegen Gackern und Krähen auf.
+Zur Zeit der Beobachtung (fünf Jahre) sprach er wieder, aber
+beschäftigte sich auch in der Rede ausschließlich nur mit Hühnern und
+anderem Geflügel. Er spielte mit keinem anderen Spielzeug, sang nur
+Lieder, in denen etwas vom Federvieh vorkam. Sein Benehmen gegen sein
+Totemtier war exquisit ambivalent, übermäßiges Hassen und Lieben. Am
+liebsten spielte er Hühnerschlachten. »Das Schlachten des Federviehs ist
+ihm überhaupt ein Fest. Er ist imstande, stundenlang um die Tierleichen
+erregt herumzutanzen.« Aber dann küßte und streichelte er das
+geschlachtete Tier, reinigte und liebkoste die von ihm selbst
+mißhandelten Ebenbilder von Hühnern.
+
+Der kleine Arpád sorgte selbst dafür, daß der Sinn seines sonderbaren
+Treibens nicht verborgen bleiben konnte. Er übersetzte gelegentlich
+seine Wünsche aus der totemistischen Ausdrucksweise zurück in die des
+Alltagslebens. »Mein Vater ist der Hahn«, sagte er einmal. »Jetzt bin
+ich klein, jetzt bin ich ein Küchlein. Wenn ich größer werde, bin ich
+ein Huhn. Wenn ich noch größer werde, bin ich ein Hahn.« Ein andermal
+wünschte er sich plötzlich eine »eingemachte Mutter« zu essen (nach der
+Analogie des eingemachten Huhns). Er war sehr freigebig mit deutlichen
+Kastrationsandrohungen gegen andere, wie er sie wegen onanistischer
+Beschäftigung mit seinem Gliede selbst erfahren hatte.
+
+Über die Quelle seines Interesses für das Treiben im Hühnerhof blieb
+nach _Ferenczi_ kein Zweifel: »Der rege Sexualverkehr zwischen Hahn und
+Henne, das Eierlegen und das Herauskriechen der jungen Brut«
+befriedigten seine sexuelle Wißbegierde, die eigentlich dem menschlichen
+Familienleben galt. Nach dem Vorbild des Hühnerlebens hatte er seine
+Objektwünsche geformt, wenn er einmal der Nachbarin sagte: »Ich werde
+Sie heiraten und Ihre Schwester und meine drei Cousinen und die Köchin,
+nein, statt der Köchin lieber die Mutter.«
+
+Wir werden an späterer Stelle die Würdigung dieser Beobachtung
+vervollständigen können; heben wir jetzt nur als wertvolle
+Übereinstimmungen mit dem Totemismus zwei Züge hervor: Die volle
+Identifizierung mit dem Totemtier(65) und die ambivalente
+Gefühlseinstellung gegen dasselbe. Wir halten uns nach diesen
+Beobachtungen für berechtigt, in die Formel des Totemismus -- für den
+Mann -- den Vater an Stelle des Totemtieres einzusetzen. Wir merken
+dann, daß wir damit keinen neuen oder besonders kühnen Schritt getan
+haben. Die Primitiven sagen es ja selbst und bezeichnen, soweit noch
+heute das totemistische System in Kraft besteht, den Totem als ihren
+Ahnherrn und Urvater. Wir haben nur eine Aussage dieser Völker wörtlich
+genommen, mit welcher die Ethnologen wenig anzufangen wußten, und die
+sie darum gerne in den Hintergrund gerückt haben. Die Psychoanalyse
+mahnt uns, im Gegenteile gerade diesen Punkt hervorzusuchen und an ihn
+den Erklärungsversuch des Totemismus zu knüpfen.(66)
+
+  (65) In welcher nach _Frazer_ das Wesentliche des Totemismus gegeben
+  ist: »Totemism is an identification of a man with his totem.« T. and
+  Ex., IV., p. 5.
+
+  (66) O. _Rank_ verdanke ich die Mitteilung eines Falles von
+  Hundephobie bei einem intelligenten jungen Manne, dessen Erklärung,
+  wie er zu seinem Leiden gekommen sei, merklich an die oben (p. 369)
+  erwähnte Totemtheorie der _Arunta_ anklingt. Er hatte von seinem Vater
+  erfahren, daß seine Mutter während der Schwangerschaft mit ihm einmal
+  vor einem Hunde erschrocken sei.
+
+Das erste Ergebnis unserer Ersetzung ist sehr merkwürdig. Wenn das
+Totemtier der Vater ist, dann fallen die beiden Hauptgebote des
+Totemismus, die beiden Tabuvorschriften, die seinen Kern ausmachen, den
+Totem nicht zu töten und kein Weib, das dem Totem angehört, sexuell zu
+gebrauchen, inhaltlich zusammen mit den beiden Verbrechen des Ödipus,
+der seinen Vater tötete und seine Mutter zum Weibe nahm, und mit den
+beiden Urwünschen des Kindes, deren ungenügende Verdrängung oder deren
+Wiedererweckung den Kern vielleicht aller Psychoneurosen bildet. Sollte
+diese Gleichung mehr als ein irreleitendes Spiel des Zufalls sein, so
+müßte sie uns gestatten, ein Licht auf die Entstehung des Totemismus in
+unvordenklichen Zeiten zu werfen. Mit anderen Worten, es müßte uns
+gelingen wahrscheinlich zu machen, daß das totemistische System sich aus
+den Bedingungen des Ödipuskomplexes ergeben hat wie die Tierphobie des
+»kleinen Hans« und die Geflügelperversion des »kleinen Arpád«. Um dieser
+Möglichkeit nachzugehen, werden wir im folgenden eine Eigentümlichkeit
+des totemistischen Systems oder, wie wir sagen können, der Totemreligion
+studieren, welche bisher kaum Erwähnung finden konnte.
+
+
+
+
+4.
+
+
+Der im Jahre 1894 verstorbene W. _Robertson Smith_, Physiker, Philologe,
+Bibelkritiker und Altertumsforscher, ein ebenso vielseitiger wie
+scharfsichtiger und freidenkender Mann, sprach in seinem 1889
+veröffentlichten Werke über die Religion der Semiten(67) die Annahme
+aus, daß eine eigentümliche Zeremonie, die sogenannte _Totemmahlzeit_
+von allem Anfang an einen integrierenden Bestandteil des totemistischen
+Systems gebildet habe. Zur Stütze dieser Vermutung stand ihm damals nur
+eine einzige, aus dem fünften Jahrhundert n. Chr. überlieferte
+Beschreibung eines solchen Aktes zu Gebote, aber er verstand es, die
+Annahme durch die Analyse des Opferwesens bei den alten Semiten zu einem
+hohen Grad von Wahrscheinlichkeit zu erheben. Da das Opfer eine
+göttliche Person voraussetzt, handelt es sich hiebei um den Rückschluß
+von einer höheren Phase des religiösen Ritus auf die niedrigste des
+Totemismus.
+
+  (67) W. _Robertson Smith_, The religion of the Semites. Second
+  Edition. London 1907.
+
+Ich will nun versuchen, aus dem ausgezeichneten Buch von _Robertson
+Smith_ die für unser Interesse entscheidenden Sätze über Ursprung und
+Bedeutung des Opferritus herauszuheben unter Weglassung aller oft so
+reizvollen Details und mit konsequenter Hintansetzung aller späteren
+Entwicklungen. Es ist ganz ausgeschlossen, in einem solchen Auszug dem
+Leser etwas von der Luzidität oder von der Beweiskraft der Darstellung
+im Original zu übermitteln.
+
+_Robertson Smith_ führt aus, daß das Opfer am Altar das wesentliche
+Stück im Ritus der alten Religionen gewesen ist. Es spielt in allen
+Religionen die nämliche Rolle, so daß man seine Entstehung auf sehr
+allgemeine und überall gleichartig wirkende Ursachen zurückführen muß.
+
+Das Opfer -- die heilige Handlung ~kat' exochên~ (sacrificium,
+~hierourgia~) -- bedeutete aber ursprünglich etwas anderes, als was
+spätere Zeiten darunter verstanden: die Darbringung an die Gottheit,
+um sie zu versöhnen oder sich geneigt zu machen. Von dem Nebensinn der
+Selbstentäußerung ging dann die profane Verwendung des Wortes aus. Das
+Opfer war nachweisbar zuerst nichts anderes als »_an act of social
+fellowship between the deity and his worshippers_«, ein Akt der
+Geselligkeit, eine Kommunion der Gläubigen mit ihrem Gotte.
+
+Als Opfer wurden dargebracht eßbare und trinkbare Dinge; dasselbe, wovon
+der Mensch sich nährte, Fleisch, Zerealien, Früchte, Wein und Öl, das
+opferte er auch seinem Gotte. Nur in bezug auf das Opferfleisch
+bestanden Einschränkungen und Abweichungen. Von den Tieropfern speist
+der Gott gemeinsam mit seinen Anbetern, die vegetabilischen Opfer sind
+ihm allein überlassen. Es ist kein Zweifel, daß die Tieropfer die
+älteren sind und einmal die einzigen waren. Die vegetabilischen Opfer
+sind aus der Darbringung der Erstlinge aller Früchte hervorgegangen und
+entsprechen einem Tribut an den Herrn des Bodens und des Landes. Das
+Tieropfer ist aber älter als der Ackerbau.
+
+Es ist aus sprachlichen Überresten gewiß, daß der dem Gott bestimmte
+Anteil des Opfers zuerst als seine wirkliche Nahrung angesehen wurde.
+Mit der fortschreitenden Dematerialisierung des göttlichen Wesens wurde
+diese Vorstellung anstößig; man wich ihr aus, indem man den flüssigen
+Anteil der Mahlzeit allein der Gottheit zuwies. Später gestattete der
+Gebrauch des Feuers, welcher das Opferfleisch auf dem Altar in Rauch
+aufgehen ließ, eine Zurichtung der menschlichen Nahrungsmittel, durch
+welche sie dem göttlichen Wesen angemessener wurden. Die Substanz des
+Trinkopfers war ursprünglich das Blut der Opfertiere; Wein wurde später
+der Ersatz des Blutes. Der Wein galt den Primitiven als das »Blut der
+Rebe«, wie ihn unsere Dichter jetzt noch heißen.
+
+Die älteste Form des Opfers, älter als der Gebrauch des Feuers und die
+Kenntnis des Ackerbaues, war also das Tieropfer, dessen Fleisch und Blut
+der Gott und seine Anbeter gemeinsam genossen. Es war wesentlich, daß
+jeder der Teilnehmer seinen Anteil an der Mahlzeit erhalte.
+
+Ein solches Opfer war eine öffentliche Zeremonie, das Fest eines ganzen
+Clans. Die Religion war überhaupt eine allgemeine Angelegenheit, die
+religiöse Pflicht ein Stück der sozialen Verpflichtung. Opfer und
+Festlichkeit fallen bei allen Völkern zusammen, jedes Opfer bringt ein
+Fest mit sich und kein Fest kann ohne Opfer gefeiert werden. Das
+Opferfest war eine Gelegenheit der freudigen Erhebung über die eigenen
+Interessen, der Betonung der Zusammengehörigkeit untereinander und mit
+der Gottheit.
+
+Die ethische Macht der öffentlichen Opfermahlzeit ruhte auf uralten
+Vorstellungen über die Bedeutung des gemeinsamen Essens und Trinkens.
+Mit einem anderen zu essen und zu trinken war gleichzeitig ein Symbol
+und eine Bekräftigung von sozialer Gemeinschaft und von Übernahme
+gegenseitiger Verpflichtungen; die Opfermahlzeit brachte zum direkten
+Ausdruck, daß der Gott und seine Anbeter _Commensalen_ sind, aber damit
+waren alle ihre anderen Beziehungen gegeben. Gebräuche, die noch heute
+unter den Arabern der Wüste in Kraft sind, beweisen, daß das Bindende an
+der gemeinsamen Mahlzeit nicht ein religiöses Moment ist, sondern der
+Akt des Essens selbst. Wer den kleinsten Bissen mit einem solchen
+Beduinen geteilt oder einen Schluck von seiner Milch getrunken hat, der
+braucht ihn nicht mehr als Feind zu fürchten, sondern darf seines
+Schutzes und seiner Hilfe sicher sein. Allerdings nicht für ewige
+Zeiten; streng genommen, nur für so lange, als der gemeinsam genossene
+Stoff der Annahme nach in seinem Körper verbleibt. So realistisch wird
+das Band der Vereinigung aufgefaßt; es bedarf der Wiederholung, um es zu
+verstärken und dauerhaft zu machen.
+
+Warum wird aber dem gemeinsamen Essen und Trinken diese bindende Kraft
+zugeschrieben? In den primitivsten Gesellschaften gibt es nur ein Band,
+welches unbedingt und ausnahmslos einigt, das der Stammesgemeinschaft
+(Kinship). Die Mitglieder dieser Gemeinschaft treten solidarisch für
+einander ein, ein Kin ist eine Gruppe von Personen, deren Leben solcher
+Art zu einer physischen Einheit verbunden sind, daß man sie wie Stücke
+eines gemeinsamen Lebens betrachten kann. Es heißt dann beim Mord eines
+einzelnen aus dem Kin nicht: das Blut dieses und jenes ist vergossen
+worden, sondern unser Blut ist vergossen worden. Die hebräische Phrase,
+mit welcher die Stammesverwandtschaft anerkannt wird, lautet: Du bist
+mein Bein und mein Fleisch. Kinship bedeutet also einen Anteil haben an
+einer gemeinsamen Substanz. Es ist dann natürlich, daß sie nicht nur auf
+die Tatsache gegründet wird, daß man ein Teil von der Substanz seiner
+Mutter ist, von der man geboren und mit deren Milch man genährt wurde,
+sondern daß auch die Nahrung, die man späterhin genießt und durch die
+man seinen Körper erneuert, Kinship erwerben und bestärken kann. Teilte
+man die Mahlzeit mit seinem Gotte, so drückte es die Überzeugung aus,
+daß man von einem Stoff mit ihm sei, und wen man als Fremden erkannte,
+mit dem teilte man keine Mahlzeit.
+
+Die Opfermahlzeit war also ursprünglich ein Festmahl von
+Stammverwandten, dem Gesetze folgend, daß nur Stammverwandte miteinander
+essen. In unserer Gesellschaft einigt die Mahlzeit die Mitglieder der
+Familie, aber mit der Familie hat die Opfermahlzeit nichts zu tun.
+Kinship ist älter als Familienleben; die ältesten uns bekannten Familien
+umfassen regelmäßig Personen, die verschiedenen Verwandtschaftsverbänden
+angehören. Die Männer heiraten Frauen aus fremden Clans, die Kinder
+erben den Clan der Mutter; es besteht keine Stammesverwandtschaft
+zwischen dem Manne und den übrigen Familienmitgliedern. In einer solchen
+Familie gibt es keine gemeinsame Mahlzeit. Die Wilden essen noch heute
+abseits und allein, und die religiösen Speiseverbote des Totemismus
+machen ihnen oft die Eßgemeinschaft mit ihren Frauen und Kindern
+unmöglich.
+
+Wenden wir uns nun zum Opfertier. Es gab, wie wir gehört, keine
+Stammeszusammenkunft ohne Tieropfer, aber -- was nun bedeutsam ist --
+auch kein Schlachten eines Tieres außer für solche feierliche
+Gelegenheit. Man nährte sich ohne Bedenken von Früchten, Wild und von
+der Milch der Haustiere, aber religiöse Skrupel machten es dem einzelnen
+unmöglich, ein Haustier für seinen eigenen Gebrauch zu töten. Es leidet
+nicht den leisesten Zweifel, sagt _Robertson Smith_, daß jedes Opfer
+ursprünglich Clanopfer war, und daß das _Töten eines Schlachtopfers_
+ursprünglich zu jenen Handlungen gehörte, _die dem einzelnen verboten
+sind und nur dann gerechtfertigt werden, wenn der ganze Stamm die
+Verantwortlichkeit mitübernimmt_. Es gibt bei den Primitiven nur eine
+Klasse von Handlungen, für welche diese Charakteristik zutrifft, nämlich
+Handlungen, welche an die Heiligkeit des dem Stamme gemeinsamen Blutes
+rühren. Ein Leben, welches kein einzelner wegnehmen darf, und das nur
+durch die Zustimmung und unter der Teilnahme aller Clangenossen geopfert
+werden kann, steht auf derselben Stufe wie das Leben des Stammesgenossen
+selbst. Die Regel, daß jeder Gast der Opfermahlzeit vom Fleisch des
+Opfertieres genießen müsse, hat denselben Sinn wie die Vorschrift, daß
+die Exekution an einem schuldigen Stammesgenossen von dem ganzen Stamm
+zu vollziehen sei. Mit anderen Worten: Das Opfertier wurde behandelt wie
+ein Stammverwandter, _die opfernde Gemeinde, ihr Gott und das Opfertier
+waren eines Blutes_, Mitglieder eines Clans.
+
+_Robertson Smith_ identifiziert auf Grund einer reichen Evidenz das
+Opfertier mit dem alten Totemtier. Es gab im späteren Altertum zwei
+Arten von Opfern, solche von Haustieren, die auch für gewöhnlich
+gegessen wurden, und ungewöhnliche Opfer von Tieren, die als unrein
+verboten waren. Die nähere Erforschung zeigt dann, daß diese unreinen
+Tiere heilige Tiere waren, daß sie den Göttern als Opfer dargebracht
+wurden, denen sie heilig waren, daß diese Tiere ursprünglich identisch
+waren mit den Göttern selbst, und daß die Gläubigen in irgendeiner Weise
+beim Opfer ihre Blutsverwandtschaft mit dem Tiere und dem Gotte
+betonten. Für noch frühere Zeiten entfällt aber dieser Unterschied
+zwischen gewöhnlichen und »mystischen« Opfern. Alle Tiere sind
+ursprünglich heilig, ihr Fleisch ist verboten und darf nur bei
+feierlichen Gelegenheiten unter Teilnahme des ganzen Stammes genossen
+werden. Das Schlachten des Tieres kommt dem Vergießen von Stammesblut
+gleich und muß unter den nämlichen Vorsichten und Sicherungen gegen
+Vorwurf geschehen.
+
+Die Zähmung von Haustieren und das Emporkommen der Viehzucht scheint
+überall dem reinen und strengen Totemismus der Urzeit ein Ende bereitet
+zu haben(68). Aber was in der nun »pastoralen« Religion den Haustieren
+an Heiligkeit verblieb, ist deutlich genug, um den ursprünglichen
+Totemcharakter derselben erkennen zu lassen. Noch in späten klassischen
+Zeiten schrieb der Ritus an verschiedenen Orten dem Opferer vor, nach
+vollzogenem Opfer die Flucht zu ergreifen, wie um sich einer Ahndung zu
+entziehen. In Griechenland muß die Idee, daß die Tötung eines Ochsen
+eigentlich ein Verbrechen sei, einst allgemein geherrscht haben. An dem
+athenischen Fest der Bouphonien wurde nach dem Opfer ein förmlicher
+Prozeß eingeleitet, bei dem alle Beteiligten zum Verhör kamen. Endlich
+einigte man sich, die Schuld an der Mordtat auf das Messer abzuwälzen,
+welches dann ins Meer geworfen wurde.
+
+  (68) »The inference is that the domestication to which totemism
+  invariably leads (when there are any animals capable of domestication)
+  is fatal to totemism.«
+
+  _Jevons_, An introduction to the history of religion 1911, fifth
+  edition, p. 120.
+
+Trotz der Scheu, welche das Leben des heiligen Tieres als eines
+Stammesgenossen schützt, wird es zur Notwendigkeit, ein solches Tier von
+Zeit zu Zeit in feierlicher Gemeinschaft zu töten und Fleisch und Blut
+desselben unter die Clangenossen zu verteilen. Das Motiv, welches diese
+Tat gebietet, gibt den tiefsten Sinn des Opferwesens preis. Wir haben
+gehört, daß in späteren Zeiten jedes gemeinsame Essen, die Teilnahme an
+der nämlichen Substanz, welche in ihre Körper eindringt, ein heiliges
+Band zwischen den Commensalen herstellt; in ältesten Zeiten scheint
+diese Bedeutung nur der Teilnahme an der Substanz eines heiligen Opfers
+zuzukommen. _Das heilige Mysterium des Opfertodes rechtfertigt sich,
+indem nur auf diesem Wege das heilige Band hergestellt werden kann,
+welches die Teilnehmer untereinander und mit ihrem Gotte einigt(69)._
+
+  (69) l. c. p. 113.
+
+Dies Band ist nichts anderes als das Leben des Opfertieres, welches in
+seinem Fleisch und seinem Blute wohnt und durch die Opfermahlzeit allen
+Teilnehmern mitgeteilt wird. Eine solche Vorstellung liegt allen
+_Blutbündnissen_ zugrunde, durch die sich noch in späten Zeiten Menschen
+gegeneinander verpflichten. Die durchaus realistische Auffassung der
+Blutsgemeinschaft als Identität der Substanz läßt die Notwendigkeit
+verstehen, sie von Zeit zu Zeit durch den physischen Prozeß der
+Opfermahlzeit zu erneuern.
+
+Brechen wir hier die Mitteilung der Gedankengänge von _Robertson Smith_
+ab, um ihren Kern in gedrängtester Kürze zu resumieren. Als die Idee des
+Privateigentums aufkam, wurde das Opfer als eine Gabe an die Gottheit,
+als eine Übertragung aus dem Eigentum des Menschen in das des Gottes
+aufgefaßt. Allein diese Deutung ließ alle Eigentümlichkeiten des
+Opferrituals unaufgeklärt. In ältesten Zeiten war das Opfertier selbst
+heilig, sein Leben unverletzlich gewesen; es konnte nur unter der
+Teilnahme und Mitschuld des ganzen Stammes und in Gegenwart des Gottes
+genommen werden, um die heilige Substanz zu liefern, durch deren Genuß
+die Clangenossen sich ihrer stofflichen Identität untereinander und mit
+der Gottheit versicherten. Das Opfer war ein Sakrament, das Opfertier
+selbst ein Stammesgenosse. Es war in Wirklichkeit das alte Totemtier,
+der primitive Gott selbst, durch dessen Tötung und Verzehrung die
+Clangenossen ihre Gottähnlichkeit auffrischten und versicherten.
+
+Aus dieser Analyse des Opferwesens zog _Robertson Smith_ den Schluß, daß
+die periodische Tötung und Aufzehrung des Totem in Zeiten _vor der
+Verehrung anthropomorpher Gottheiten_ ein bedeutsames Stück der
+Totemreligion gewesen sei. Das Zeremoniell einer solchen Totemmahlzeit,
+meinte er, sei uns in der Beschreibung eines Opfers aus späteren Zeiten
+erhalten. Der hl. _Nilus_ berichtet von einer Opfersitte der Beduinen in
+der sinaitischen Wüste um das Ende des vierten Jahrhunderts nach Christi
+Geburt. Das Opfer, ein Kameel, wurde gebunden auf einen rohen Altar von
+Steinen gelegt; der Anführer des Stammes ließ die Teilnehmer dreimal
+unter Gesängen um den Altar herumgehen, brachte dem Tiere die erste
+Wunde bei und trank gierig das hervorquellende Blut; dann stürzte sich
+die ganze Gemeinde auf das Opfer, hieb mit den Schwertern Stücke des
+zuckenden Fleisches los und verzehrte sie roh in solcher Hast, daß in
+der kurzen Zwischenzeit zwischen dem Aufgang des Morgensterns, dem
+dieses Opfer galt, und dem Erblassen des Gestirns vor den Sonnenstrahlen
+alles vom Opfertier, Leib, Knochen, Haut, Fleisch und Eingeweide
+vertilgt war. Dieser barbarische, von höchster Altertümlichkeit zeugende
+Ritus war allen Beweismitteln nach kein vereinzelter Gebrauch, sondern
+die allgemeine ursprüngliche Form des Totemopfers, die in späterer Zeit
+die verschiedensten Abschwächungen erfuhr.
+
+Viele Autoren haben sich geweigert, der Konzeption der Totemmahlzeit
+Gewicht beizulegen, weil sie durch die direkte Beobachtung auf der Stufe
+des Totemismus nicht erhärtet werden konnte. _Robertson Smith_ hat noch
+selbst auf die Beispiele hingewiesen, in denen die sakramentale
+Bedeutung der Opfer gesichert scheint, z. B. bei den Menschenopfern der
+Azteken, und auf andere, welche an die Bedingungen der Totemmahlzeit
+erinnern, die Bärenopfer des Bärenstammes der _Ouataouaks_ in Amerika
+und die Bärenfeste der _Ainos_ in Japan. _Frazer_ hat diese und ähnliche
+Fälle in den beiden letzterschienenen Abteilungen seines großen Werkes
+ausführlich mitgeteilt(70). Ein Indianerstamm in Kalifornien, der einen
+großen Raubvogel (Buzzard) verehrt, tötet diesen in feierlicher
+Zeremonie einmal im Jahre, worauf er betrauert und seine Haut mit den
+Federn aufbewahrt wird. Die _Zuni_indianer in Neumexiko verfahren ebenso
+mit ihrer heiligen Schildkröte.
+
+  (70) The Golden Bough, Part V, Spirits of the corn and of the wild;
+  1912, in den Abschnitten: Eating the God und Killing the divine
+  animal.
+
+In den Intichiumazeremonien der zentralaustralischen Stämme ist ein Zug
+beobachtet worden, welcher zu den Voraussetzungen von _Robertson Smith_
+vortrefflich stimmt. Jeder Stamm, der für die Vermehrung seines Totem,
+dessen Genuß ihm doch selbst verwehrt ist, Magie treibt, ist gehalten,
+bei der Zeremonie etwas von seinem Totem selbst zu genießen, ehe
+derselbe den anderen Stämmen zugänglich wird. Das schönste Beispiel für
+den sakramentalen Genuß des sonst verbotenen Totem soll sich nach
+_Frazer_ bei den _Bini_ in Westafrika in Verbindung mit dem
+Begräbniszeremoniell dieser Stämme finden(71).
+
+  (71) _Frazer_, T. and Ex. T. II, p. 590.
+
+Wir aber wollen _Robertson Smith_ in der Annahme folgen, daß die
+sakramentale Tötung und gemeinsame Aufzehrung des sonst verbotenen
+Totemtieres ein bedeutungsvoller Zug der Totemreligion gewesen sei.(72)
+
+  (72) Die von verschiedenen Autoren (_Marillier_, _Hubert_ und _Mauss_
+  u. a.) gegen diese Theorie des Opfers vorgebrachten Einwendungen sind
+  mir nicht unbekannt geblieben, haben aber den Eindruck der Lehren von
+  _Robertson Smith_ im wesentlichen nicht beeinträchtigt.
+
+
+
+
+5.
+
+
+Stellen wir uns nun die Szene einer solchen Totemmahlzeit vor und
+statten sie noch mit einigen wahrscheinlichen Zügen aus, die bisher
+nicht gewürdigt werden konnten. Der Clan, der sein Totemtier bei
+feierlichem Anlasse auf grausame Art tötet und es roh verzehrt, Blut,
+Fleisch und Knochen; dabei sind die Stammesgenossen in die Ähnlichkeit
+des Totem verkleidet, imitieren es in Lauten und Bewegungen, als ob sie
+seine und ihre Identität betonen wollten. Es ist das Bewußtsein dabei,
+daß man eine jedem einzelnen verbotene Handlung ausführt, die nur durch
+die Teilnahme aller gerechtfertigt werden kann; es darf sich auch keiner
+von der Tötung und der Mahlzeit ausschließen. Nach der Tat wird das
+hingemordete Tier beweint und beklagt. Die Totenklage ist eine
+zwangsmäßige, durch die Furcht vor einer drohenden Vergeltung
+erzwungene, ihre Hauptabsicht geht dahin, wie _Robertson Smith_ bei
+einer analogen Gelegenheit bemerkt, die Verantwortlichkeit für die
+Tötung von sich abzuwälzen(73).
+
+  (73) Religion of the Semites, 2nd edition 1907, p. 412.
+
+Aber nach dieser Trauer folgt die lauteste Festfreude, die Entfesselung
+aller Triebe und Gestattung aller Befriedigungen. Die Einsicht in das
+Wesen des _Festes_ fällt uns hier ohne jede Mühe zu.
+
+Ein Fest ist ein gestatteter, vielmehr ein gebotener Exzeß, ein
+feierlicher Durchbruch eines Verbots. Nicht weil die Menschen infolge
+irgendeiner Vorschrift froh gestimmt sind, begehen sie die
+Ausschreitungen, durch die sich Feste zu allen Zeiten ausgezeichnet
+haben, sondern der Exzeß liegt im Wesen des Festes; die festliche
+Stimmung wird durch die Freigebung des sonst Verbotenen erzeugt.
+
+Was soll aber die Einleitung zu dieser Festesfreude, die Trauer über den
+Tod des Totemtieres? Wenn man sich über die Tötung des Totem, die sonst
+versagt ist, freut, warum trauert man auch über sie?
+
+Wir haben gehört, daß sich die Clangenossen durch den Genuß des Totem
+heiligen, in ihrer Identifizierung mit ihm und unter einander bestärken.
+Daß sie das heilige Leben, dessen Träger die Substanz des Totem ist, in
+sich aufgenommen haben, könnte ja die festliche Stimmung und alles, was
+aus ihr folgt, erklären.
+
+Die Psychoanalyse hat uns verraten, daß das Totemtier wirklich der
+Ersatz des Vaters ist, und dazu stimmte wohl der Widerspruch, daß es
+sonst verboten ist es zu töten, und daß seine Tötung zur Festlichkeit
+wird, daß man das Tier tötet und es doch betrauert. Die ambivalente
+Gefühlseinstellung, welche den Vaterkomplex heute noch bei unseren
+Kindern auszeichnet und sich so oft ins Leben der Erwachsenen fortsetzt,
+würde sich auch auf den Vaterersatz des Totemtiers erstrecken.
+
+Allein, wenn man die von der Psychoanalyse gegebene Übersetzung des
+Totem mit der Tatsache der Totemmahlzeit und der _Darwin_schen Hypothese
+über den Urzustand der menschlichen Gesellschaft zusammenhält, ergibt
+sich die Möglichkeit eines tieferen Verständnisses, der Ausblick auf
+eine Hypothese, die phantastisch erscheinen mag, aber den Vorteil
+bietet, eine unvermutete Einheit zwischen bisher gesonderten Reihen von
+Phänomenen herzustellen.
+
+Die _Darwin_sche Urhorde hat natürlich keinen Raum für die Anfänge des
+Totemismus. Ein gewalttätiger, eifersüchtiger Vater, der alle Weibchen
+für sich behält und die heranwachsenden Söhne vertreibt, nichts weiter.
+Dieser Urzustand der Gesellschaft ist nirgends Gegenstand der
+Beobachtung geworden. Was wir als primitivste Organisation finden, was
+noch heute bei gewissen Stämmen in Kraft besteht, das sind
+_Männerverbände_, die aus gleichberechtigten Mitgliedern bestehen und
+den Einschränkungen des totemistischen Systems unterliegen, dabei
+mütterliche Erblichkeit. Kann das eine aus dem anderen hervorgegangen
+sein und auf welchem Wege war es möglich?
+
+Die Berufung auf die Feier der Totemmahlzeit gestattet uns eine Antwort
+zu geben: Eines Tages(74) taten sich die ausgetriebenen Brüder zusammen,
+erschlugen und verzehrten den Vater und machten so der Vaterhorde ein
+Ende. Vereint wagten sie und brachten zustande, was dem einzelnen
+unmöglich geblieben wäre. Vielleicht hatte ein Kulturfortschritt, die
+Handhabung einer neuen Waffe ihnen das Gefühl der Überlegenheit gegeben.
+Daß sie den Getöteten auch verzehrten, ist für den kannibalen Wilden
+selbstverständlich. Der gewalttätige Urvater war gewiß das beneidete und
+gefürchtete Vorbild eines jeden aus der Brüderschar gewesen. Nun setzten
+sie im Akte des Verzehrens die Identifizierung mit ihm durch, eigneten
+sich ein jeder ein Stück seiner Stärke an. Die Totemmahlzeit, vielleicht
+das erste Fest der Menschheit, wäre die Wiederholung und die Gedenkfeier
+dieser denkwürdigen, verbrecherischen Tat, mit welcher so vieles seinen
+Anfang nahm, die sozialen Organisationen, die sittlichen Einschränkungen
+und die Religion(75).
+
+  (74) Zu dieser Darstellung, die sonst mißverständlich würde, bitte ich
+  die Schlußsätze der nachfolgenden Anmerkung als Korrektiv
+  hinzuzunehmen.
+
+  (75) Die ungeheuerlich erscheinende Annahme der Überwältigung und
+  Tötung des tyrannischen Vaters durch die Vereinigung der
+  ausgetriebenen Söhne hat sich auch _Atkinson_ als direkte Folgerung
+  aus den Verhältnissen der _Darwin_schen Urhorde ergeben. »A youthful
+  band of brothers living together in forced celibacy, or at most in
+  polyandrous relation with some single female captive. A horde as yet
+  weak in their impubescence they are, but they would, when strength was
+  gained with time, inevitably wrench by combined attacks renewed again
+  and again, both wife and life from the paternal tyrant« (Primal Law,
+  p. 220-221). _Atkinson_, der übrigens sein Leben in Neu-Caledonien
+  verbrachte und ungewöhnliche Gelegenheit zum Studium der Eingeborenen
+  hatte, beruft sich auch darauf, daß die von _Darwin_ supponierten
+  Zustände der Urhorde bei wilden Rinder- und Pferdeherden leicht zu
+  beobachten sind und regelmäßig zur Tötung des Vatertieres führen. Er
+  nimmt dann weiter an, daß nach der Beseitigung des Vaters ein Zerfall
+  der Horde durch den erbitterten Kampf der siegreichen Söhne unter
+  einander eintritt. Auf diese Weise käme eine neue Organisation der
+  Gesellschaft niemals zustande: »an ever recurring violent succession
+  to the solitary paternal tyrant by sons, _whose parricidal hands were
+  so soon again clenched in fratricidal strife_« (p. 228). _Atkinson_,
+  dem die Winke der Psychoanalyse nicht zu Gebote standen, und dem die
+  Studien von _Robertson Smith_ nicht bekannt waren, findet einen minder
+  gewaltsamen Übergang von der Urhorde zur nächsten sozialen Stufe, auf
+  welcher zahlreiche Männer in friedlicher Gemeinschaft zusammenleben.
+  Er läßt es die Mutterliebe durchsetzen, daß anfangs nur die jüngsten,
+  später auch andere Söhne in der Horde verbleiben, wofür diese
+  Geduldeten das sexuelle Vorrecht des Vaters in Form der von ihnen
+  geübten Entsagung gegen Mutter und Schwestern anerkennen.
+
+  Soviel über die höchst bemerkenswerte Theorie von _Atkinson_, ihre
+  Übereinstimmung mit der hier vorgetragenen im _wesentlichen_ Punkte
+  und ihre Abweichung davon, welche den Verzicht auf den Zusammenhang
+  mit so vielem anderen mit sich bringt.
+
+  Die Unbestimmtheit, die zeitliche Verkürzung und inhaltliche
+  Zusammendrängung der Angaben in meinen obenstehenden Ausführungen darf
+  ich als eine durch die Natur des Gegenstandes geforderte Enthaltung
+  hinstellen. Es wäre ebenso unsinnig, in dieser Materie Exaktheit
+  anzustreben, wie es unbillig wäre, Sicherheiten zu fordern.
+
+Um, von der Voraussetzung absehend, diese Folgen glaubwürdig zu finden,
+braucht man nur anzunehmen, daß die sich zusammenrottende Brüderschar
+von denselben einander widersprechenden Gefühlen gegen den Vater
+beherrscht war, die wir als Inhalt der Ambivalenz des Vaterkomplexes bei
+jedem unserer Kinder und unserer Neurotiker nachweisen können. Sie
+haßten den Vater, der ihrem Machtbedürfnis und ihren sexuellen
+Ansprüchen so mächtig im Wege stand, aber sie liebten und bewunderten
+ihn auch. Nachdem sie ihn beseitigt, ihren Haß befriedigt und ihren
+Wunsch nach Identifizierung mit ihm durchgesetzt hatten, mußten sich die
+dabei überwältigten zärtlichen Regungen zur Geltung bringen(76). Es
+geschah in der Form der Reue, es entstand ein Schuldbewußtsein, welches
+hier mit der gemeinsam empfundenen Reue zusammenfällt. Der Tote wurde
+nun stärker als der Lebende gewesen war; all dies, wie wir es noch heute
+an Menschenschicksalen sehen. Was er früher durch seine Existenz
+verhindert hatte, das verboten sie sich jetzt selbst in der psychischen
+Situation des uns aus den Psychoanalysen so wohl bekannten
+»_nachträglichen Gehorsams_«. Sie widerriefen ihre Tat, indem sie die
+Tötung des Vaterersatzes, des Totem, für unerlaubt erklärten, und
+verzichteten auf deren Früchte, indem sie sich die freigewordenen Frauen
+versagten. So schufen sie aus dem _Schuldbewußtsein des Sohnes_ die
+beiden fundamentalen Tabu des Totemismus, die eben darum mit den beiden
+verdrängten Wünschen des Ödipuskomplexes übereinstimmen mußten. Wer
+dawiderhandelte, machte sich der beiden einzigen Verbrechen schuldig,
+welche die primitive Gesellschaft bekümmerten(77).
+
+  (76) Dieser neuen Gefühlseinstellung mußte auch zugute kommen, daß die
+  Tat keinem der Täter die volle Befriedigung bringen konnte. Sie war in
+  gewisser Hinsicht vergeblich geschehen. Keiner der Söhne konnte ja
+  seinen ursprünglichen Wunsch durchsetzen, die Stelle des Vaters
+  einzunehmen. Der Mißerfolg ist aber, wie wir wissen, der moralischen
+  Reaktion weit günstiger als die Befriedigung.
+
+  (77) »Murder and incest, or offences of a like kind against this
+  sacred law of blood are in primitive society the only crimes of which
+  the community as such takes cognisance ...« Religion of the Semites,
+  p. 419.
+
+Die beiden Tabu des Totemismus, mit denen die Sittlichkeit der Menschen
+beginnt, sind psychologisch nicht gleichwertig. Nur das eine, die
+Schonung des Totemtieres, ruht ganz auf Gefühlsmotiven; der Vater war ja
+beseitigt, in der Realität war nichts mehr gutzumachen. Das andere aber,
+das Inzestverbot, hatte auch eine starke praktische Begründung. Das
+sexuelle Bedürfnis einigt die Männer nicht, sondern entzweit sie. Hatten
+sich die Brüder verbündet, um den Vater zu überwältigen, so war jeder
+des anderen Nebenbuhler bei den Frauen. Jeder hätte sie wie der Vater
+alle für sich haben wollen, und in dem Kampfe aller gegen alle wäre die
+neue Organisation zugrunde gegangen. Es war auch kein Überstarker mehr
+da, der die Rolle des Vaters mit Erfolg hätte aufnehmen können. Somit
+blieb den Brüdern, wenn sie miteinander leben wollten, nichts übrig, als
+das Inzestverbot aufzurichten, mit welchem sie alle zugleich auf die von
+ihnen begehrten Frauen verzichteten, um deren wegen sie doch in erster
+Linie den Vater beseitigt hatten. Sie retteten so die Organisation,
+welche sie stark gemacht hatte, und die auf homosexuellen Gefühlen und
+Betätigungen ruhen konnte, welche sich in der Zeit der Vertreibung bei
+ihnen eingestellt haben mochten. Vielleicht war es auch diese Situation,
+welche den Keim zu den von _Bachofen_ erkannten Institutionen des
+_Mutterrechts_ legte, bis dieses von der patriarchalischen
+Familienordnung abgelöst wurde.
+
+An das andere Tabu, welches das Leben des Totemtieres beschützt, knüpft
+hingegen der Anspruch des Totemismus an, als erster Versuch einer
+Religion gewertet zu werden. Bot sich dem Empfinden der Söhne das Tier
+als natürlicher und nächstliegender Ersatz des Vaters, so fand sich in
+der ihnen zwanghaft gebotenen Behandlung desselben doch noch mehr
+Ausdruck als das Bedürfnis, ihre Reue zur Darstellung zu bringen. Es
+konnte mit dem Vatersurrogat der Versuch gemacht werden, das brennende
+Schuldgefühl zu beschwichtigen, eine Art von Aussöhnung mit dem Vater zu
+bewerkstelligen. Das totemistische System war gleichsam ein Vertrag mit
+dem Vater, in dem der letztere all das zusagte, was die kindliche
+Phantasie vom Vater erwarten durfte, Schutz, Fürsorge und Schonung,
+wogegen man sich verpflichtete, sein Leben zu ehren, d. h. die Tat an
+ihm nicht zu wiederholen, durch die der wirkliche Vater zugrunde
+gegangen war. Es lag auch ein Rechtfertigungsversuch im Totemismus.
+»Hätte der Vater uns behandelt wie der Totem, wir wären nie in die
+Versuchung gekommen, ihn zu töten«. So half der Totemismus dazu, die
+Verhältnisse zu beschönigen und das Ereignis vergessen zu machen, dem er
+seine Entstehung verdankte.
+
+Es wurden hiebei Züge geschaffen, die fortan für den Charakter jeder
+Religion bestimmend blieben. Die Totemreligion war aus dem
+Schuldbewußtsein der Söhne hervorgegangen als Versuch, dies Gefühl zu
+beschwichtigen und den beleidigten Vater durch nachträglichen Gehorsam
+zu versöhnen. Alle späteren Religionen erweisen sich als Lösungsversuche
+desselben Problems, variabel je nach dem kulturellen Zustand, in dem sie
+unternommen werden, und nach den Wegen, die sie einschlagen, aber es
+sind alle gleichzielende Reaktionen auf dieselbe große Begebenheit, mit
+der die Kultur begonnen hat, und die seitdem die Menschheit nicht zur
+Ruhe kommen läßt.
+
+Auch ein anderer Charakter, den die Religion treu bewahrt hat, ist
+damals schon im Totemismus hervorgetreten. Die Ambivalenzspannung war
+wohl zu groß, um durch irgendeine Veranstaltung ausgeglichen zu werden,
+oder die psychologischen Bedingungen sind der Erledigung dieser
+Gefühlsgegensätze überhaupt nicht günstig. Man merkt jedenfalls, daß die
+dem Vaterkomplex anhaftende Ambivalenz sich auch in den Totemismus und
+in die Religionen überhaupt fortsetzt. Die Religion des Totem umfaßt
+nicht nur die Äußerungen der Reue und die Versuche der Versöhnung,
+sondern dient auch der Erinnerung an den Triumph über den Vater. Die
+Befriedigung darüber läßt das Erinnerungsfest der Totemmahlzeit
+einsetzen, bei dem die Einschränkungen des nachträglichen Gehorsams
+wegfallen, macht es zur Pflicht, das Verbrechen des Vatermordes in der
+Opferung des Totemtieres immer wieder von neuem zu wiederholen, so oft
+der festgehaltene Erwerb jener Tat, die Aneignung der Eigenschaften des
+Vaters, infolge der verändernden Einflüsse des Lebens zu entschwinden
+droht. Wir werden nicht überrascht sein, zu finden, daß auch der Anteil
+des Sohnestrotzes, oft in den merkwürdigsten Verkleidungen und
+Umwendungen, in späteren Religionsbildungen wieder auftaucht.
+
+Verfolgen wir in Religion und sittlicher Vorschrift, die im Totemismus
+noch wenig scharf gesondert sind, bisher die Folgen der in Reue
+verwandelten zärtlichen Strömung gegen den Vater, so wollen wir doch
+nicht übersehen, daß im wesentlichen die Tendenzen, welche zum Vatermord
+gedrängt haben, den Sieg behalten. Die sozialen Brudergefühle, auf denen
+die große Umwälzung ruht, bewahren von nun an über lange Zeiten den
+tiefgehendsten Einfluß auf die Entwicklung der Gesellschaft. Sie
+schaffen sich Ausdruck in der Heiligung des gemeinsamen Blutes, in der
+Betonung der Solidarität aller Leben desselben Clans. Indem die Brüder
+sich einander so das Leben zusichern, sprechen sie aus, daß niemand von
+ihnen vom anderen behandelt werden dürfe, wie der Vater von ihnen allen
+gemeinsam. Sie schließen eine Wiederholung des Vaterschicksals aus. Zum
+religiös begründeten Verbot, den Totem zu töten, kommt nun das sozial
+begründete Verbot des Brudermordes hinzu. Es wird dann noch lange
+währen, bis das Gebot die Einschränkung auf den Stammesgenossen
+abstreifen und den einfachen Wortlaut annehmen wird: Du sollst nicht
+morden. Zunächst ist an Stelle der _Vaterhorde_ der _Brüderclan_
+getreten, welcher sich durch das Blutband versichert hat. Die
+Gesellschaft ruht jetzt auf der Mitschuld an dem gemeinsam verübten
+Verbrechen, die Religion auf dem Schuldbewußtsein und der Reue darüber,
+die Sittlichkeit teils auf den Notwendigkeiten dieser Gesellschaft, zum
+anderen Teil auf den vom Schuldbewußtsein geforderten Bußen.
+
+Im Gegensatz zu den neueren und in Anlehnung an die älteren Auffassungen
+des totemistischen Systems heißt uns also die Psychoanalyse einen
+innigen Zusammenhang und gleichzeitigen Ursprung von Totemismus und
+Exogamie vertreten.
+
+
+
+
+6.
+
+
+Ich stehe unter der Einwirkung einer großen Anzahl von starken Motiven,
+die mich vom Versuche zurückhalten werden, die weitere Entwicklung der
+Religionen von ihrem Beginn im Totemismus an bis zu ihrem heutigen
+Stande zu schildern. Ich will nur zwei Fäden hindurch verfolgen, wo ich
+sie im Gewebe besonders deutlich auftauchen sehe: Das Motiv des
+Totemopfers und das Verhältnis des Sohnes zum Vater(78).
+
+  (78) Vgl. die zum Teil von abweichenden Gesichtspunkten beherrschte
+  Arbeit von C. G. _Jung_, Wandlungen und Symbole der Libido. Jahrbuch
+  von _Bleuler-Freud_, IV., 1912.
+
+_Robertson Smith_ hat uns belehrt, daß die alte Totemmahlzeit in der
+ursprünglichen Form des Opfers wiederkehrt. Der Sinn der Handlung ist
+derselbe: Die Heiligung durch die Teilnahme an der gemeinsamen Mahlzeit;
+auch das Schuldbewußtsein ist dabei geblieben; welches nur durch die
+Solidarität aller Teilnehmer beschwichtigt werden kann. Neu
+hinzugekommen ist die Stammesgottheit, in deren gedachter Gegenwart das
+Opfer stattfindet, die an dem Mahle teilnimmt wie ein Stammesgenosse,
+und mit der man sich durch den Genuß am Opfer identifiziert. Wie kommt
+der Gott in die ihm ursprünglich fremde Situation?
+
+Die Antwort könnte lauten, es sei unterdeß -- unbekannt woher -- die
+Gottesidee aufgetaucht, habe sich das ganze religiöse Leben unterworfen,
+und wie alles andere, was bestehen bleiben wollte, hätte auch die
+Totemmahlzeit den Anschluß an das neue System gewinnen müssen. Allein
+die psychoanalytische Erforschung des einzelnen Menschen lehrt mit einer
+ganz besonderen Nachdrücklichkeit, daß für jeden der Gott nach dem Vater
+gebildet ist, daß sein persönliches Verhältnis zu Gott von seinem
+Verhältnis zum leiblichen Vater abhängt, mit ihm schwankt und sich
+verwandelt, und daß Gott im Grunde nichts anderes ist als ein erhöhter
+Vater. Die Psychoanalyse rät auch hier wie im Falle des Totemismus den
+Gläubigen Glauben zu schenken, die Gott Vater nennen, wie sie den Totem
+Ahnherrn genannt haben. Wenn die Psychoanalyse irgendwelche Beachtung
+verdient, so muß, unbeschadet aller anderen Ursprünge und Bedeutungen
+Gottes, auf welche die Psychoanalyse kein Licht werfen kann, der
+Vateranteil an der Gottesidee ein sehr gewichtiger sein. Dann wäre aber
+in der Situation des primitiven Opfers der Vater zweimal vertreten,
+einmal als Gott und dann als das Totemopfertier, und bei allem
+Bescheiden mit der geringen Mannigfaltigkeit der psychoanalytischen
+Lösungen müssen wir fragen, ob das möglich ist und welchen Sinn es haben
+kann.
+
+Wir wissen, daß mehrfache Beziehungen zwischen dem Gott und dem heiligen
+Tier (Totem, Opfertier) bestehen: 1. Jedem Gott ist gewöhnlich ein Tier
+heilig, nicht selten selbst mehrere; 2. in gewissen, besonders heiligen
+Opfern, den »mystischen« wurde dem Gotte gerade das ihm geheiligte Tier
+zum Opfer dargebracht(79); 3. der Gott wurde häufig in der Gestalt eines
+Tieres verehrt oder, anders gesehen, Tiere genossen göttliche Verehrung
+lange nach dem Zeitalter des Totemismus; 4. in den Mythen verwandelt
+sich der Gott häufig in ein Tier, oft in das ihm geheiligte. So läge die
+Annahme nahe, daß der Gott selbst das Totemtier wäre, sich auf einer
+späteren Stufe des religiösen Fühlens aus dem Totemtier entwickelt
+hätte. Aller weiteren Diskussion überhebt uns aber die Erwägung, daß der
+Totem selbst nichts anderes ist als ein Vaterersatz. So mag er die erste
+Form des Vaterersatzes sein, der Gott aber eine spätere, in welcher der
+Vater seine menschliche Gestalt wiedergewonnen. Eine solche Neuschöpfung
+aus der Wurzel aller Religionsbildung, der _Vatersehnsucht_, konnte
+möglich werden, wenn sich im Laufe der Zeiten am Verhältnis zum Vater --
+und vielleicht auch zum Tier -- Wesentliches geändert hatte.
+
+  (79) _Robertson Smith_, Religion of the Semites.
+
+Solche Veränderungen lassen sich leicht erraten, auch wenn man von dem
+Beginn einer psychischen Entfremdung von dem Tier und von der Zersetzung
+des Totemismus durch die Domestikation absehen will(80). In der durch
+die Beseitigung des Vaters hergestellten Situation lag ein Moment,
+welches im Laufe der Zeit eine außerordentliche Steigerung der
+Vatersehnsucht erzeugen mußte. Die Brüder, welche sich zur Tötung des
+Vaters zusammengetan hatten, waren ja jeder für sich vom Wunsche beseelt
+gewesen, dem Vater gleich zu werden, und hatten diesem Wunsche durch
+Einverleibung von Teilen seines Ersatzes in der Totemmahlzeit Ausdruck
+gegeben. Dieser Wunsch mußte infolge des Druckes, welchen die Bande des
+Brüderclans auf jeden Teilnehmer übten, unerfüllt bleiben. Es konnte und
+durfte niemand mehr die Machtvollkommenheit des Vaters erreichen, nach
+der sie doch alle gestrebt hatten. Somit konnte im Laufe langer Zeiten
+die Erbitterung gegen den Vater, die zur Tat gedrängt hatte, nachlassen,
+die Sehnsucht nach ihm wachsen, und es konnte ein Ideal entstehen,
+welches die Machtfülle und Unbeschränktheit des einst bekämpften
+Urvaters und die Bereitwilligkeit, sich ihm zu unterwerfen, zum Inhalt
+hatte. Die ursprüngliche demokratische Gleichstellung aller einzelnen
+Stammesgenossen war infolge einschneidender kultureller Veränderungen
+nicht mehr festzuhalten; somit zeigte sich eine Geneigtheit, in
+Anlehnung an die Verehrung einzelner Menschen, die sich vor anderen
+hervorgetan hatten, das alte Vaterideal in der Schöpfung von Göttern
+wieder zu beleben. Daß ein Mensch zum Gott wird und daß ein Gott stirbt,
+was uns heute als empörende Zumutung erscheint, war ja noch für das
+Vorstellungsvermögen des klassischen Altertums keineswegs anstößig(81).
+Die Erhöhung des einst gemordeten Vaters zum Gott, von dem nun der Stamm
+seine Herkunft ableitete, war aber ein weit ernsthafterer Sühneversuch
+als seinerzeit der Vertrag mit dem Totem.
+
+  (80) S. o. p. 388.
+
+  (81) »To us moderns for whom the breach which divides the human and
+  the divine has deepened into an impassible gulf such mimicry may
+  appear impious, but it was otherwise with the ancients. To their
+  thinking gods and men were akin, for many families traced their
+  descent from a divinity, and the deification of a man probably seemed
+  as little extraordinary to them as the canonisation of a saint seems
+  to a modern catholic.« _Frazer_, Golden Bough I. The magic art and the
+  evolution of kings. II., p. 177.
+
+Wo sich in dieser Entwicklung die Stelle für die großen Muttergottheiten
+findet, die vielleicht allgemein den Vatergöttern vorhergegangen sind,
+weiß ich nicht anzugeben. Sicher scheint aber, daß die Wandlung im
+Verhältnis zum Vater sich nicht auf das religiöse Gebiet beschränkte,
+sondern folgerichtig auf die andere durch die Beseitigung des Vaters
+beeinflußte Seite des menschlichen Lebens, auf die soziale Organisation,
+übergriff. Mit der Einsetzung der Vatergottheiten wandelte sich die
+vaterlose Gesellschaft allmählich in die patriarchalisch geordnete um.
+Die Familie war eine Wiederherstellung der einstigen Urhorde und gab den
+Vätern auch ein großes Stück ihrer früheren Rechte wieder. Es gab jetzt
+wieder Väter, aber die sozialen Errungenschaften des Brüderclans waren
+nicht aufgegeben worden, und der faktische Abstand der neuen
+Familienväter vom unumschränkten Urvater der Horde war groß genug, um
+die Fortdauer des religiösen Bedürfnisses, die Erhaltung der
+ungestillten Vatersehnsucht, zu versichern.
+
+In der Opferszene vor dem Stammesgott ist also der Vater wirklich
+zweimal enthalten, als Gott und als Totemopfertier. Aber bei dem
+Versuch, diese Situation zu verstehen, werden wir uns vor Deutungen in
+acht nehmen, welche sie in flächenhafter Auffassung wie eine Allegorie
+übersetzen wollen und dabei der historischen Schichtung vergessen. Die
+zweifache Anwesenheit des Vaters entspricht den zwei einander zeitlich
+ablösenden Bedeutungen der Szene. Die ambivalente Einstellung gegen den
+Vater hat hier plastischen Ausdruck gefunden und ebenso der Sieg der
+zärtlichen Gefühlsregungen des Sohnes über seine feindseligen. Die Szene
+der Überwältigung des Vaters, seiner größten Erniedrigung, ist hier zum
+Material für eine Darstellung seines höchsten Triumphes geworden. Die
+Bedeutung, die das Opfer ganz allgemein gewonnen hat, liegt eben darin,
+daß es dem Vater die Genugtuung für die an ihm verübte Schmach in
+derselben Handlung bietet, welche die Erinnerung an diese Untat
+fortsetzt.
+
+In weiterer Folge verliert das Tier seine Heiligkeit und das Opfer die
+Beziehung zur Totemfeier; es wird zu einer einfachen Darbringung an die
+Gottheit, zu einer Selbstentäußerung zugunsten des Gottes. Gott selbst
+ist jetzt so hoch über den Menschen erhaben, daß man mit ihm nur durch
+die Vermittlung des Priesters verkehren kann. Gleichzeitig kennt die
+soziale Ordnung göttergleiche Könige, welche das patriarchalische System
+auf den Staat übertragen. Wir müssen sagen, die Rache des gestürzten und
+wiedereingesetzten Vaters ist eine harte geworden, die Herrschaft der
+Autorität steht auf ihrer Höhe. Die unterworfenen Söhne haben das neue
+Verhältnis dazu benützt, um ihr Schuldbewußtsein noch weiter zu
+entlasten. Das Opfer, wie es jetzt ist, fällt ganz aus ihrer
+Verantwortlichkeit heraus. Gott selbst hat es verlangt und angeordnet.
+Zu dieser Phase gehören Mythen, in welchen der Gott selbst das Tier
+tötet, das ihm heilig ist, das er eigentlich selbst ist. Dies ist die
+äußerste Verläugnung der großen Untat, mit welcher die Gesellschaft und
+das Schuldbewußtsein begann. Eine zweite Bedeutung dieser letzteren
+Opferdarstellung ist nicht zu verkennen. Sie drückt die Befriedigung
+darüber aus, daß man den früheren Vaterersatz zugunsten der höheren
+Gottesvorstellung verlassen hat. Die flach allegorische Übersetzung der
+Szene fällt hier ungefähr mit ihrer psychoanalytischen Deutung zusammen.
+Jene lautet: Es werde dargestellt, daß der Gott den tierischen Anteil
+seines Wesens überwindet(82).
+
+  (82) Die Überwindung einer Göttergeneration durch eine andere in den
+  Mythologien bedeutet bekanntlich den historischen Vorgang der
+  Ersetzung eines religiösen Systems durch ein neues, sei es infolge von
+  Eroberung durch ein Fremdvolk oder auf dem Wege psychologischer
+  Entwicklung. In letzterem Falle nähert sich der Mythus den
+  »funktionalen Phänomenen« im Sinne von H. _Silberer_. Daß der das Tier
+  tötende Gott ein Libidosymbol ist, wie C. G. _Jung_ (l. c.) behauptet,
+  setzt einen anderen Begriff der Libido als den bisher verwendeten
+  voraus und erscheint mir überhaupt fragwürdig.
+
+Es wäre indes irrig, wenn man glauben wollte, in diesen Zeiten der
+erneuerten Vaterautorität seien die feindseligen Regungen, welche dem
+Vaterkomplex zugehören, völlig verstummt. Aus den ersten Phasen der
+Herrschaft der beiden neuen Vaterersatzbildungen, der Götter und der
+Könige, kennen wir vielmehr die energischesten Äußerungen jener
+Ambivalenz, welche für die Religion charakteristisch bleibt.
+
+_Frazer_ hat in seinem großen Werk »The Golden Bough« die Vermutung
+ausgesprochen, daß die ersten Könige der latinischen Stämme Fremde
+waren, welche die Rolle einer Gottheit spielten und in dieser Rolle an
+einem bestimmten Festtage feierlich hingerichtet wurden. Die jährliche
+Opferung (Variante: Selbstopferung) eines Gottes scheint ein
+wesentlicher Zug der semitischen Religionen gewesen zu sein. Das
+Zeremoniell der Menschenopfer an den verschiedensten Stellen der
+bewohnten Erde läßt wenig Zweifel darüber, daß diese Menschen als
+Repräsentanten der Gottheit ihr Ende fanden, und in der Ersetzung des
+lebenden Menschen durch eine leblose Nachahmung (Puppe) läßt sich dieser
+Opfergebrauch noch in späte Zeiten verfolgen. Das theanthropische
+Gottesopfer, welches ich hier leider nicht mit der gleichen Vertiefung
+wie das Tieropfer behandeln kann, wirft das hellste Licht nach rückwärts
+auf den Sinn der älteren Opferformen. Es bekennt mit nicht zu
+überbietender Aufrichtigkeit, daß das Objekt der Opferhandlung immer das
+nämliche war, dasselbe, was nun als Gott verehrt wird, der Vater also.
+Die Frage nach dem Verhältnis von Tier- und Menschenopfer findet jetzt
+eine einfache Lösung. Das ursprüngliche Tieropfer war bereits ein Ersatz
+für ein Menschenopfer, für die feierliche Tötung des Vaters, und als der
+Vaterersatz seine menschliche Gestalt wieder erhielt, konnte sich das
+Tieropfer auch wieder in das Menschenopfer verwandeln.
+
+So hatte sich die Erinnerung an jene erste große Opfertat als
+unzerstörbar erwiesen, trotz aller Bemühungen sie zu vergessen, und
+gerade als man sich von ihren Motiven am weitesten entfernen wollte,
+mußte in der Form des Gottesopfers ihre unentstellte Wiederholung zutage
+treten. Welche Entwicklungen des religiösen Denkens als
+Rationalisierungen diese Wiederkehr ermöglicht haben, brauche ich an
+dieser Stelle nicht auszuführen. _Robertson Smith_, dem ja unsere
+Zurückführung des Opfers auf jenes große Ereignis der menschlichen
+Urgeschichte ferne liegt, gibt an, daß die Zeremonien jener Feste, mit
+denen die alten Semiten den Tod einer Gottheit feierten, als
+»_commemoration of a mythical tragedy_« ausgelegt wurden, und daß die
+Klage dabei nicht den Charakter einer spontanen Teilnahme hatte, sondern
+etwas Zwangsmäßiges, von der Furcht vor dem göttlichen Zorn Gebotenes an
+sich trug(83). Wir glauben zu erkennen, daß diese Auslegung im Rechte
+war, und daß die Gefühle der Feiernden in der zugrunde liegenden
+Situation ihre gute Aufklärung fanden.
+
+  (83) Religion of the Semites, p. 412-413. »The mourning is not a
+  spontaneous expression of sympathy with the divine tragedy but
+  obligatory and enforced by fear of supernatural anger. And a chief
+  object of the mourners is to _disclaim responsibility for the god's
+  death_ -- a point which has already come before us in connection with
+  theanthropic sacrifices, such as the »oxmurder at Athens«.
+
+Nehmen wir es nun als Tatsache hin, daß auch in der weiteren Entwicklung
+der Religionen die beiden treibenden Faktoren, das Schuldbewußtsein des
+Sohnes und der Sohnestrotz, niemals erlöschen. Jeder Lösungsversuch des
+religiösen Problems, jede Art der Versöhnung der beiden widerstreitenden
+seelischen Mächte wird allmählich hinfällig, wahrscheinlich unter dem
+kombinierten Einfluß von kulturellen Änderungen, historischen
+Ereignissen und inneren psychischen Wandlungen.
+
+Mit immer größerer Deutlichkeit tritt das Bestreben des Sohnes hervor,
+sich an die Stelle des Vatergottes zu setzen. Mit der Einführung des
+Ackerbaues hebt sich die Bedeutung des Sohnes in der patriarchalischen
+Familie. Er getraut sich neuer Äußerungen seiner inzestuösen Libido, die
+in der Bearbeitung der Mutter Erde eine symbolische Befriedigung findet.
+Es entstehen die Göttergestalten des Attis, Adonis, Tammuz u. a.,
+Vegetationsgeister und zugleich jugendliche Gottheiten, welche die
+Liebesgunst mütterlicher Gottheiten genießen, den Mutterinzest dem Vater
+zum Trotze durchsetzen. Allein das Schuldbewußtsein, welches durch diese
+Schöpfung nicht beschwichtigt ist, drückt sich in den Mythen aus, die
+diesen jugendlichen Geliebten der Muttergöttinnen ein kurzes Leben und
+eine Bestrafung durch Entmannung oder durch den Zorn des Vatergottes in
+Tierform bescheiden. Adonis wird durch den Eber getötet, das heilige
+Tier der Aphrodite; Attis, der Geliebte der Kybele, stirbt an
+Entmannung(84). Die Beweinung und die Freude über die Auferstehung
+dieser Götter ist in das Rituale einer anderen Sohnesgottheit
+übergegangen, welche zu dauernderem Erfolge bestimmt war.
+
+  (84) Die Kastrationsangst spielt eine außerordentlich große Rolle in
+  der Störung des Verhältnisses zum Vater bei unseren jugendlichen
+  Neurotikern. Aus der schönen Beobachtung von _Ferenczi_ haben wir
+  ersehen, wie der Knabe seinen Totem in dem Tier erkennt, welches nach
+  seinem kleinen Gliede schnappt. Wenn unsere Kinder von der rituellen
+  Beschneidung erfahren, stellen sie dieselbe der Kastration gleich. Die
+  völkerpsychologische Parallele zu diesem Verhalten der Kinder ist
+  meines Wissens noch nicht ausgeführt worden. Die in der Urzeit und bei
+  primitiven Völkern so häufige Beschneidung gehört dem Zeitpunkt der
+  Männerweihe an, wo sie ihre Bedeutung finden muß, und ist erst
+  sekundär in frühere Lebenszeiten zurückgeschoben worden. Es ist
+  überaus interessant, daß die Beschneidung bei den Primitiven mit
+  Haarabschneiden und Zahnausschlagen kombiniert oder durch sie ersetzt
+  ist, und daß unsere Kinder, die von diesem Sachverhalt nichts wissen
+  können, in ihren Angstreaktionen diese beiden Operationen wirklich wie
+  Äquivalente der Kastration behandeln.
+
+Als das Christentum seinen Einzug in die antike Welt begann, traf es auf
+die Konkurrenz der Mithrasreligion, und es war für eine Weile
+zweifelhaft, welcher Gottheit der Sieg zufallen würde.
+
+Die lichtumflossene Gestalt des persischen Götterjünglings ist doch
+unserem Verständnis dunkel geblieben. Vielleicht darf man aus den
+Darstellungen der Stiertötungen durch Mithras schließen, daß er jenen
+Sohn vorstellte, der die Opferung des Vaters allein vollzog und somit
+die Brüder von der sie drückenden Mitschuld an der Tat erlöste. Es gab
+einen anderen Weg zur Beschwichtigung dieses Schuldbewußtseins und
+diesen beschritt erst Christus. Er ging hin und opferte sein eigenes
+Leben und dadurch erlöste er die Brüderschar von der Erbsünde.
+
+Die Lehre von der Erbsünde ist _orphischer_ Herkunft; sie wurde in den
+Mysterien erhalten und drang von da aus in die Philosophenschulen des
+griechischen Altertums ein(85). Die Menschen waren die Nachkommen von
+Titanen, welche den jungen Dionysos-Zagreus getötet und zerstückelt
+hatten; die Last dieses Verbrechens drückte auf sie. In einem Fragment
+von _Anaximander_ wird gesagt, daß die Einheit der Welt durch ein
+urzeitliches Verbrechen zerstört worden sei, und daß alles, was daraus
+hervorgegangen, die Strafe dafür weiter tragen muß.(86) Erinnert die Tat
+der Titanen durch die Züge der Zusammenrottung, der Tötung und
+Zerreißung deutlich genug an das von St. _Nilus_ beschriebene Totemopfer
+-- wie übrigens viele andere Mythen des Altertums, z. B. der Tod des
+Orpheus selbst -- so stört uns hier doch die Abweichung, daß die Mordtat
+an einem jugendlichen Gott vollzogen wird.
+
+  (85) _Reinach_, Cultes, Mythes et Religions, II., p. 75 ff.
+
+  (86) »Une sorte de péché proethnique« l. c., p. 76.
+
+Im christlichen Mythus ist die Erbsünde der Menschen unzweifelhaft eine
+Versündigung gegen Gottvater. Wenn nun Christus die Menschen von dem
+Druck der Erbsünde erlöst, indem er sein eigenes Leben opfert, so zwingt
+er uns zu dem Schluß, daß diese Sünde eine Mordtat war. Nach dem im
+menschlichen Fühlen tiefgewurzelten Gesetz der Talion kann ein Mord nur
+durch die Opferung eines anderen Lebens gesühnt werden; die
+Selbstaufopferung weist auf eine Blutschuld zurück(87). Und wenn dieses
+Opfer des eigenen Lebens die Versöhnung mit Gottvater herbeiführt, so
+kann das zu sühnende Verbrechen kein anderes als der Mord am Vater
+gewesen sein.
+
+  (87) Die Selbstmordimpulse unserer Neurotiker erweisen sich regelmäßig
+  als Selbstbestrafungen für Todeswünsche, die gegen andere gerichtet
+  sind.
+
+So bekennt sich denn in der christlichen Lehre die Menschheit am
+unverhülltesten zu der schuldvollen Tat der Urzeit, weil sie nun im
+Opfertod des einen Sohnes die ausgiebigste Sühne für sie gefunden hat.
+Die Versöhnung mit dem Vater ist um so gründlicher, weil gleichzeitig
+mit diesem Opfer der volle Verzicht auf das Weib erfolgt, um dessen
+Willen man sich gegen den Vater empört hatte. Aber nun fordert auch das
+psychologische Verhängnis der Ambivalenz seine Rechte. Mit der gleichen
+Tat, welche dem Vater die größtmögliche Sühne bietet, erreicht auch der
+Sohn das Ziel seiner Wünsche gegen den Vater. Er wird selbst zum Gott
+neben, eigentlich an Stelle des Vaters. Die Sohnesreligion löst die
+Vaterreligion ab. Zum Zeichen dieser Ersetzung wird die alte
+Totemmahlzeit als Kommunion wieder belebt, in welcher nun die
+Brüderschar vom Fleisch und Blut des Sohnes, nicht mehr des Vaters,
+genießt, sich durch diesen Genuß heiligt und mit ihm identifiziert.
+Unser Blick verfolgt durch die Länge der Zeiten die Identität der
+Totemmahlzeit mit dem Tieropfer, dem theanthropischen Menschenopfer und
+mit der christlichen Eucharistie und erkennt in all diesen
+Feierlichkeiten die Nachwirkung jenes Verbrechens, welches die Menschen
+so sehr bedrückte, und auf das sie doch so stolz sein mußten. Die
+christliche Kommunion ist aber im Grunde eine neuerliche Beseitigung des
+Vaters, eine Wiederholung der zu sühnenden Tat. Wir merken, wie
+berechtigt der Satz von _Frazer_ ist, daß »the Christian communion has
+absorbed within itself a sacrament which is doubtless far older than
+Christianity«(88).
+
+  (88) Eating the God, p. 51. ... Niemand, der mit der Literatur des
+  Gegenstandes vertraut ist, wird annehmen, daß die Zurückführung der
+  christlichen Kommunion auf die Totemmahlzeit eine Idee des Schreibers
+  dieses Aufsatzes sei.
+
+
+
+
+7.
+
+
+Ein Vorgang wie die Beseitigung des Urvaters durch die Brüderschar mußte
+unvertilgbare Spuren in der Geschichte der Menschheit hinterlassen und
+sich in desto zahlreicheren Ersatzbildungen zum Ausdruck bringen, je
+weniger er selbst erinnert werden sollte(89). Ich gehe der Versuchung
+aus dem Wege, diese Spuren in der Mythologie, wo sie nicht schwer zu
+finden sind, nachzuweisen und wende mich einem anderen Gebiete zu, indem
+ich einem Fingerzeig von S. _Reinach_ in einer inhaltsreichen Abhandlung
+über den Tod des Orpheus folge(90).
+
+  (89) _Ariel_ im »Sturm«:
+
+      Full fathom five thy father lies:
+      Of his bones are coral made;
+      Those are pearls that were his eyes;
+      Nothing of him that doth fade
+      But doth suffer a sea-change
+      Into something rich and strange.
+
+  In der schönen Übersetzung von _Schlegel_:
+
+      Fünf Faden tief liegt Vater dein.
+      Sein Gebein wird zu Korallen,
+      Perlen sind die Augen sein.
+      Nichts an ihm, das soll verfallen,
+      Das nicht wandelt Meeres-Hut
+      In ein reich und seltnes Gut.
+
+  (90) La Mort d'Orphée in dem hier oft zitierten Buche: Cultes, Mythes
+  et Religions. T. II, p. 100 ff.
+
+In der Geschichte der griechischen Kunst gibt es eine Situation, welche
+auffällige Ähnlichkeiten und nicht minder tiefgehende Verschiedenheiten
+mit der von _Robertson Smith_ erkannten Szene der Totemmahlzeit zeigt.
+Es ist die Situation der ältesten griechischen Tragödie. Eine Schar von
+Personen, alle gleich benannt und gleich gekleidet, umsteht einen
+einzigen, von dessen Reden und Handeln sie alle abhängig sind: Es ist
+der Chor und der ursprünglich einzige Heldendarsteller. Spätere
+Entwicklungen brachten einen zweiten und dritten Schauspieler, um
+Gegenspieler und Abspaltungen des Helden darzustellen, aber der
+Charakter des Helden wie sein Verhältnis zum Chor blieben unverändert.
+Der Held der Tragödie mußte leiden; dies ist noch heute der wesentliche
+Inhalt einer Tragödie. Er hatte die sogenannte »tragische Schuld« auf
+sich geladen, die nicht immer leicht zu begründen ist; sie ist oft keine
+Schuld im Sinne des bürgerlichen Lebens. Zumeist bestand sie in der
+Auflehnung gegen eine göttliche oder menschliche Autorität, und der Chor
+begleitete den Helden mit seinen sympathischen Gefühlen, suchte ihn
+zurückzuhalten, zu warnen, zu mäßigen und beklagte ihn, nachdem er für
+sein kühnes Unternehmen die als verdient hingestellte Bestrafung
+gefunden hatte.
+
+Warum muß aber der Held der Tragödie leiden und was bedeutet seine
+»tragische« Schuld? Wir wollen die Diskussion durch rasche Beantwortung
+abschneiden. Er muß leiden, weil er der Urvater, der Held jener großen
+urzeitlichen Tragödie ist, die hier eine tendenziöse Wiederholung
+findet, und die tragische Schuld ist jene, die er auf sich nehmen muß,
+um den Chor von seiner Schuld zu entlasten. Die Szene auf der Bühne ist
+durch zweckmäßige Entstellung, man könnte sagen: im Dienste raffinierter
+Heuchelei, aus der historischen Szene hervorgegangen. In jener alten
+Wirklichkeit waren es gerade die Chorgenossen, die das Leiden des Helden
+verursachten; hier aber erschöpfen sie sich in Teilnahme und Bedauern,
+und der Held ist selbst an seinem Leiden schuld. Das auf ihn gewälzte
+Verbrechen, die Überhebung und Auflehnung gegen eine große Autorität,
+ist genau dasselbe, was in Wirklichkeit die Genossen des Chors, die
+Brüderschar, bedrückt. So wird der tragische Held -- noch wider seinen
+Willen -- zum Erlöser des Chors gemacht.
+
+Waren speziell in der griechischen Tragödie die Leiden des göttlichen
+Bockes Dionysos und die Klage des mit ihm sich identifizierenden
+Gefolges von Böcken der Inhalt der Aufführung, so wird es leicht
+verständlich, daß das bereits erloschene Drama sich im Mittelalter an
+der Passion Christi neu entzündete.
+
+So möchte ich denn zum Schluß dieser mit äußerster Verkürzung geführten
+Untersuchung das Ergebnis aussprechen, daß im Ödipuskomplex die Anfänge
+von Religion, Sittlichkeit, Gesellschaft und Kunst zusammentreffen, in
+voller Übereinstimmung mit der Feststellung der Psychoanalyse, daß
+dieser Komplex den Kern aller Neurosen bildet, so weit sie bis jetzt
+unserem Verständnis nachgegeben haben. Es erscheint mir als eine große
+Überraschung, daß auch diese Probleme des Völkerseelenlebens eine
+Auflösung von einem einzigen konkreten Punkte her, wie es das Verhältnis
+zum Vater ist, gestatten sollten. Vielleicht ist selbst ein anderes
+psychologisches Problem in diesen Zusammenhang einzubeziehen. Wir haben
+so oft Gelegenheit gehabt, die Gefühlsambivalenz im eigentlichen Sinne,
+also das Zusammentreffen von Liebe und Haß gegen dasselbe Objekt, an der
+Wurzel wichtiger Kulturbildungen aufzuzeigen. Wir wissen nichts über die
+Herkunft dieser Ambivalenz. Man kann die Annahme machen, daß sie ein
+fundamentales Phänomen unseres Gefühlslebens sei. Aber auch die andere
+Möglichkeit scheint mir wohl beachtenswert, daß sie, dem Gefühlsleben
+ursprünglich fremd, von der Menschheit an dem Vaterkomplex(91) erworben
+wurde, wo die psychoanalytische Erforschung des Einzelmenschen heute
+noch ihre stärkste Ausprägung nachweist.(92)
+
+  (91) Respektive Elternkomplex.
+
+  (92) Der Mißverständnisse gewöhnt, halte ich es nicht für überflüssig,
+  ausdrücklich hervorzuheben, daß die hier gegebenen Zurückführungen an
+  die komplexe Natur der abzuleitenden Phänomene keineswegs vergessen
+  haben, und daß sie nur den Anspruch erheben, zu den bereits bekannten
+  oder noch unerkannten Ursprüngen der Religion, Sittlichkeit und der
+  Gesellschaft ein neues Moment hinzuzufügen, welches sich aus der
+  Berücksichtigung der psychoanalytischen Anforderungen ergibt. Die
+  Synthese zu einem Ganzen der Erklärung muß ich anderen überlassen. Es
+  geht aber diesmal aus der Natur dieses neuen Beitrages hervor, daß er
+  in einer solchen Synthese keine andere als die zentrale Rolle spielen
+  könnte, wenngleich die Überwindung von großen affektiven Widerständen
+  erfordert werden dürfte, ehe man ihm eine solche Bedeutung zugesteht.
+
+Bevor ich nun abschließe, muß ich der Bemerkung Raum geben, daß der hohe
+Grad von Konvergenz zu einem umfassenden Zusammenhange, den wir in
+diesen Ausführungen erreicht haben, uns nicht gegen die Unsicherheiten
+unserer Voraussetzungen und die Schwierigkeiten unserer Resultate
+verblenden kann. Von den letzteren will ich nur noch zwei behandeln, die
+sich manchem Leser aufgedrängt haben dürften.
+
+Es kann zunächst niemand entgangen sein, daß wir überall die Annahme
+einer Massenpsyche zugrunde legen, in welcher sich die seelischen
+Vorgänge vollziehen wie im Seelenleben eines einzelnen. Wir lassen vor
+allem das Schuldbewußtsein wegen einer Tat über viele Jahrtausende
+fortleben und in Generationen wirksam bleiben, welche von dieser Tat
+nichts wissen konnten. Wir lassen einen Gefühlsprozeß, wie er bei
+Generationen von Söhnen entstehen konnte, die von ihrem Vater mißhandelt
+wurden, sich auf neue Generationen fortsetzen, welche einer solchen
+Behandlung gerade durch die Beseitigung des Vaters entzogen worden
+waren. Dies scheinen allerdings schwerwiegende Bedenken, und jede andere
+Erklärung scheint den Vorzug zu verdienen, welche solche Voraussetzungen
+vermeiden kann.
+
+Allein eine weitere Erwägung zeigt, daß wir die Verantwortlichkeit für
+solche Kühnheit nicht allein zu tragen haben. Ohne die Annahme einer
+Massenpsyche, einer Kontinuität im Gefühlsleben der Menschen, welche
+gestattet sich über die Unterbrechungen der seelischen Akte durch das
+Vergehen der Individuen hinwegzusetzen, kann die Völkerpsychologie
+überhaupt nicht bestehen. Setzten sich die psychischen Prozesse der
+einen Generation nicht auf die nächste fort, müßte jede ihre Einstellung
+zum Leben neu erwerben, so gäbe es auf diesem Gebiet keinen Fortschritt
+und so gut wie keine Entwicklung. Es erheben sich nun zwei neue Fragen,
+wieviel man der psychischen Kontinuität innerhalb der Generationsreihen
+zutrauen kann, und welcher Mittel und Wege sich die eine Generation
+bedient, um ihre psychischen Zustände auf die nächste zu übertragen. Ich
+werde nicht behaupten, daß diese Probleme weit genug geklärt sind, oder
+daß die direkte Mitteilung und Tradition, an die man zunächst denkt, für
+das Erfordernis hinreichen. Im allgemeinen kümmert sich die
+Völkerpsychologie wenig darum, auf welche Weise die verlangte
+Kontinuität im Seelenleben der einander ablösenden Generationen
+hergestellt wird. Ein Teil der Aufgabe scheint durch die Vererbung
+psychischer Dispositionen besorgt zu werden, welche aber doch gewisser
+Anstöße im individuellen Leben bedürfen, um zur Wirksamkeit zu erwachen.
+Es mag dies der Sinn des Dichterwortes sein: Was du ererbt von deinen
+Vätern hast, erwirb es, um es zu besitzen. Das Problem erschiene noch
+schwieriger, wenn wir zugestehen könnten, daß es seelische Regungen
+gibt, welche so spurlos unterdrückt werden können, daß sie keine
+Resterscheinungen zurücklassen. Allein solche gibt es nicht. Die
+stärkste Unterdrückung muß Raum lassen für entstellte Ersatzregungen und
+aus ihnen folgende Reaktionen. Dann dürfen wir aber annehmen, daß keine
+Generation imstande ist, bedeutsamere seelische Vorgänge vor der
+nächsten zu verbergen. Die Psychoanalyse hat uns nämlich gelehrt, daß
+jeder Mensch in seiner unbewußten Geistestätigkeit einen Apparat
+besitzt, der ihm gestattet, die Reaktionen anderer Menschen zu deuten,
+d. h. die Entstellungen wieder rückgängig zu machen, welche der andere
+an dem Ausdruck seiner Gefühlsregungen vorgenommen hat. Auf diesem Wege
+des unbewußten Verständnisses all der Sitten, Zeremonien und Satzungen,
+welche das ursprüngliche Verhältnis zum Urvater zurückgelassen hatte,
+mag auch den späteren Generationen die Übernahme jener Gefühlserbschaft
+gelungen sein.
+
+Ein anderes Bedenken dürfte gerade von seiten der analytischen Denkweise
+erhoben werden.
+
+Wir haben die ersten Moralvorschriften und sittlichen Beschränkungen der
+primitiven Gesellschaft als Reaktion auf eine Tat aufgefaßt, welche
+ihren Urhebern den Begriff des Verbrechens gab. Sie bereuten diese Tat
+und beschlossen, daß sie nicht mehr wiederholt werden solle, und daß
+ihre Ausführung keinen Gewinn gebracht haben dürfe. Dies schöpferische
+Schuldbewußtsein ist nun unter uns nicht erloschen. Wir finden es bei
+den Neurotikern in asozialer Weise wirkend, um neue Moralvorschriften,
+fortgesetzte Einschränkungen zu produzieren, als Sühne für die
+begangenen und als Vorsicht gegen neu zu begehende Untaten(93). Wenn wir
+aber bei diesen Neurotikern nach den Taten forschen, welche solche
+Reaktionen wachgerufen haben, so werden wir enttäuscht. Wir finden nicht
+Taten, sondern nur Impulse, Gefühlsregungen, welche nach dem Bösen
+verlangen, aber von der Ausführung abgehalten worden sind. Dem
+Schuldbewußtsein der Neurotiker liegen nur psychische Realitäten
+zugrunde, nicht faktische. Die Neurose ist dadurch charakterisiert, daß
+sie die psychische Realität über die faktische setzt, auf Gedanken
+ebenso ernsthaft reagiert, wie die Normalen nur auf Wirklichkeiten.
+
+  (93) Vgl. den zweiten Aufsatz dieser Reihe über das Tabu, p. 328 ff.
+
+Kann es sich bei den Primitiven nicht ähnlich verhalten haben? Wir sind
+berechtigt, ihnen eine außerordentliche Überschätzung ihrer psychischen
+Akte als Teilerscheinung ihrer narzißtischen Organisation
+zuzuschreiben(94). Demnach könnten die bloßen Impulse von Feindseligkeit
+gegen den Vater, die Existenz der Wunschphantasie, ihn zu töten und zu
+verzehren, hingereicht haben, um jene moralische Reaktion zu erzeugen,
+die Totemismus und Tabu geschaffen hat. Man würde so der Notwendigkeit
+entgehen, den Beginn unseres kulturellen Besitzes, auf den wir mit Recht
+so stolz sind, auf ein gräßliches, alle unsere Gefühle beleidigendes
+Verbrechen zurückzuführen. Die kausale, von jenem Anfang bis in unsere
+Gegenwart reichende Verknüpfung litte dabei keinen Schaden, denn die
+psychische Realität wäre bedeutsam genug, um alle diese Folgen zu
+tragen. Man wende dagegen nicht ein, daß ja eine Veränderung der
+Gesellschaft von der Form der Vaterhorde zu der des Brüderclans wirklich
+vorgefallen ist. Sie könnte auf minder gewaltsame Weise erreicht worden
+sein und doch die Bedingung für das Hervortreten der moralischen
+Reaktion enthalten haben. Solange der Druck des Urvaters sich fühlbar
+machte, waren die feindseligen Gefühle gegen ihn berechtigt, und die
+Reue über sie mußte einen anderen Zeitpunkt abwarten. Ebensowenig ist
+der zweite Einwand stichhaltig, daß alles, was sich aus der ambivalenten
+Relation zum Vater ableitet, Tabu und Opfervorschrift, den Charakter des
+höchsten Ernstes und der vollsten Realität an sich trägt. Auch das
+Zeremoniell und die Hemmungen der Zwangsneurotiker zeigen diesen
+Charakter und gehen doch nur auf psychische Realität, auf Vorsatz und
+nicht auf Ausführung zurück. Wir müssen uns hüten, aus unserer
+nüchternen Welt, die voll ist von materiellen Werten, die
+Geringschätzung des blos Gedachten und Gewünschten in die nur innerlich
+reiche Welt des Primitiven und des Neurotikers einzutragen.
+
+  (94) Siehe den Aufsatz über Animismus, Magie und Allmacht der Gedanken
+  in Heft I dieses Jahrganges.
+
+Wir stehen hier vor einer Entscheidung, die uns wirklich nicht leicht
+gemacht ist. Beginnen wir aber mit dem Bekenntnis, daß der Unterschied,
+der Anderen fundamental erscheinen kann, für unser Urteil nicht das
+Wesentliche des Gegenstandes trifft. Wenn für den Primitiven Wünsche und
+Impulse den vollen Wert von Tatsachen haben, so ist es an uns, solcher
+Auffassung verständnisvoll zu folgen, anstatt sie nach unserem Maßstab
+zu korrigieren. Dann aber wollen wir das Vorbild der Neurose, das uns in
+diesen Zweifel gebracht hat, selbst schärfer ins Auge fassen. Es ist
+nicht richtig, daß die Zwangsneurotiker, welche heute unter dem Drucke
+einer Übermoral stehen, sich nur gegen die psychische Realität von
+Versuchungen verteidigen und wegen blos verspürter Impulse bestrafen. Es
+ist auch ein Stück historischer Realität dabei; in ihrer Kindheit hatten
+diese Menschen nichts anderes als die bösen Impulse, und insoweit sie in
+der Ohnmacht des Kindes es konnten, haben sie diese Impulse auch in
+Handlungen umgesetzt. Jeder von diesen Überguten hatte in der Kindheit
+seine böse Zeit, eine perverse Phase als Vorläufer und Voraussetzung der
+späteren moralischen. Die Analogie der Primitiven mit den Neurotikern
+wird also viel gründlicher hergestellt, wenn wir annehmen, daß auch bei
+den ersteren die psychische Realität, an deren Gestaltung kein Zweifel
+ist, anfänglich mit der faktischen Realität zusammenfiel, daß die
+Primitiven das wirklich getan haben, was sie nach allen Zeugnissen zu
+tun beabsichtigten.
+
+Allzuweit dürfen wir unser Urteil über die Primitiven auch nicht durch
+die Analogie mit den Neurotikern beeinflussen lassen. Es sind auch die
+Unterschiede in Rechnung zu ziehen. Gewiß sind bei beiden, Wilden wie
+Neurotikern, die scharfen Scheidungen zwischen Denken und Tun, wie wir
+sie ziehen, nicht vorhanden. Allein der Neurotiker ist vor allem im
+Handeln gehemmt, bei ihm ist der Gedanke der volle Ersatz für die Tat.
+Der Primitive ist ungehemmt, der Gedanke setzt sich ohne weiteres in Tat
+um, die Tat ist ihm sozusagen eher ein Ersatz des Gedankens, und darum
+meine ich, ohne selbst für die letzte Sicherheit der Entscheidung
+einzutreten, man darf in dem Falle, den wir diskutieren, wohl annehmen:
+Im Anfang war die Tat.
+
+
+
+
+
+  [ Im folgenden werden alle geänderten Textzeilen angeführt, wobei
+    jeweils zuerst die Zeile wie im Original, danach die geänderte Zeile
+    steht.
+
+  physischen Konstellationen zu deuten.
+  psychischen Konstellationen zu deuten.
+
+  (6) Vgl. Die Abhandlung über das Tabu, Jmago I.
+  (6) Vgl. Die Abhandlung über das Tabu, Imago I.
+
+  origin of Totemism, Fortnightly Review 1899) zieht: Thus, Totemism
+  origin of Totemism, Fortnightly Review 1899) zieht: »Thus, Totemism
+
+  Jear Book 1913.) Ich habe mir gestattet, bei der Mitteilung dieser
+  Year Book 1913.) Ich habe mir gestattet, bei der Mitteilung dieser
+
+  besonders die Abhandlung Sur le totémisme, T., V., 1901.
+  besonders die Abhandlung Sur le totémisme, T. V., 1901.
+
+  geopfert haben, welche die Ahnengeister zu Ehren bringen will(36).
+  geopfert zu haben, welche die Ahnengeister zu Ehren bringen will(36).
+
+  Gesetz, welches dem Menschen befiehlt zu essen und zu trinken, oder
+  Gesetz, welches den Menschen befiehlt zu essen und zu trinken, oder
+
+  Beleidigung dieser Triebe zuziehen würden. Das Gesetz verbietet dem
+  Beleidigung dieser Triebe zuziehen würden. Das Gesetz verbietet den
+
+  of Mr. _Darwins_ theory, before the totem beliefs lent to the
+  of Mr. _Darwin's_ theory, before the totem beliefs lent to the
+
+  die Tatsache gegründet wird, daß man einen Teil von der Substanz seiner
+  die Tatsache gegründet wird, daß man ein Teil von der Substanz seiner
+
+  (69) l. c. p. 313.
+  (69) l. c. p. 113.
+
+  (70) The Golden Bough, Part. V, Spirits of the corn and of the wild;
+  (70) The Golden Bough, Part V, Spirits of the corn and of the wild;
+
+  der Totem verkleidet, imitieren es in Lauten und Bewegungen, als ob sie
+  des Totem verkleidet, imitieren es in Lauten und Bewegungen, als ob sie
+
+  gefürchtete Vorbild eines jeden aus der Bruderschar gewesen. Nun setzten
+  gefürchtete Vorbild eines jeden aus der Brüderschar gewesen. Nun setzten
+
+  als natürlicher und nächstliegender Ersatz des Vaters, so fand in
+  als natürlicher und nächstliegender Ersatz des Vaters, so fand sich in
+
+  Lösungen müßen wir fragen, ob das möglich ist und welchen Sinn es haben
+  Lösungen müssen wir fragen, ob das möglich ist und welchen Sinn es haben
+
+  Bruderclans auf jeden Teilnehmer übten, unerfüllt bleiben. Es konnte und
+  Brüderclans auf jeden Teilnehmer übten, unerfüllt bleiben. Es konnte und
+
+  Vorstellungsvermögen des klassischen Altertums keineswegs anstössig(81).
+  Vorstellungsvermögen des klassischen Altertums keineswegs anstößig(81).
+
+  thinking gods and men were akin, for many families traced ther
+  thinking gods and men were akin, for many families traced their
+
+  der Überwältigung des Vaters, seiner größten Erniedigung, ist hier zum
+  der Überwältigung des Vaters, seiner größten Erniedrigung, ist hier zum
+
+  object of the mourners is to _disclaim responsibility for the gods
+  object of the mourners is to _disclaim responsibility for the god's
+
+  Gesellschaft ein neues Moment hinzufügen, welches sich aus der
+  Gesellschaft ein neues Moment hinzuzufügen, welches sich aus der
+
+  ]

@@ -1,0 +1,3770 @@
+HOW TO PRODUCE AMATEUR PLAYS
+
+
+
+
+        [Illustration: SETTING FOR A POETIC DRAMA. BY SAM HUME.
+         (Courtesy of the artist).]
+
+
+
+
+                             HOW TO PRODUCE
+                             AMATEUR PLAYS
+
+                          _A Practical Manual_
+
+                                   BY
+
+                            BARRETT H. CLARK
+
+                        NEW AND REVISED EDITION
+
+
+                             [Illustration]
+
+
+                                 BOSTON
+                       LITTLE, BROWN, AND COMPANY
+                                  1923
+
+
+
+
+                        _Copyright, 1917, 1922_,
+
+                     BY LITTLE, BROWN, AND COMPANY.
+
+                         _All rights reserved_
+
+                PRINTED IN THE UNITED STATES OF AMERICA
+
+
+
+
+                     PREFACE TO THE REVISED EDITION
+
+
+This book aims to supply the demand for a simple guide to the production
+of plays by amateurs. During the past decade a number of books dealing
+with the subject have been published, but these are concerned either
+with theoretical and educational, or else with limited and, from the
+practical viewpoint, unessential aspects of the question. In the present
+manual the author has attempted an altogether practical work, which may
+be used by those who have little or no knowledge of producing plays.
+
+The book is not altogether limited in its appeal merely to producers;
+actors themselves and others having to do with amateur producing will
+find it helpful. The author has added a number of suggestions on a
+matter which is rapidly becoming of prime importance: the construction
+of stages and setting, and the manipulation of lighting.
+
+It is always well to bear in mind that no art can be taught by means of
+books. The chief purpose of this volume is to lay down the elements and
+outline the technique of amateur producing.
+
+A careful study of it will enable the amateur stage manager to do much
+for himself which has heretofore been either impossible or attended with
+dire difficulty.
+
+The plan of the book is simple: each question and problem is treated in
+its natural order, from the moment an organization decides to "give a
+play", until the curtain drops on the last performance of it.
+
+This new edition of "How to Produce Amateur Plays" has been revised
+throughout, and the list of plays in Chapter X completely re-written and
+brought up to date.
+
+The author acknowledges his indebtedness for suggestions and help, as
+well as for permission to reproduce diagrams, photographs, and passages
+from plays, to Mr. T. R. Edwards, Mr. Hiram Kelly Moderwell, Mr. L. R.
+Lewis, Mr. Clayton Hamilton, Miss Grace Griswold, Miss Edith Wynne
+Matthison, Mr. Maurice Browne, Miss Ida Treat, Mr. Sam Hume, John Lane
+Company, Samuel French, Brentano's, and Henry Holt and Company.
+
+                                                         MARCH, 1922
+
+
+
+
+                                CONTENTS
+
+
+        CHAPTER                                             PAGE
+
+        PREFACE                                                v
+
+      I CHOOSING THE PLAY                                      1
+
+     II ORGANIZATION                                           8
+
+    III CHOOSING THE CAST                                     18
+
+     IV REHEARSING I                                          22
+
+      V REHEARSING II                                         48
+
+     VI REHEARSING III                                        73
+
+     VII THE STAGE                                            76
+
+    VIII LIGHTING                                             86
+
+      IX SCENERY AND COSTUMES                                 91
+
+       X SELECTIVE LISTS OF AMATEUR PLAYS                    110
+
+
+        APPENDICES
+
+      I COPYRIGHT AND ROYALTY                                127
+
+     II A NOTE ON MAKE-UP                                    130
+
+      INDEX                                                  139
+
+
+
+
+                         LIST OF ILLUSTRATIONS
+
+
+    SETTING FOR A POETIC DRAMA, BY SAM HUME       _Frontispiece_
+
+                                                            PAGE
+
+    "THE GROTESQUES", BY CLOYD HEAD. PRODUCED
+        AT THE LITTLE THEATER, CHICAGO                         8
+
+    "THE TROJAN WOMEN" OF EURIPIDES. PRODUCED
+        AT THE LITTLE THEATER, CHICAGO                        18
+
+    "CAPTAIN BRASSBOUND'S CONVERSION", BY SHAW.
+        SET OF ACT I, AS PRODUCED BY THE NEIGHBORHOOD
+        PLAYHOUSE, NEW YORK                                   22
+
+    SET FOR MUSSET'S "WHIMS." PRODUCED BY THE
+        WASHINGTON SQUARE PLAYERS                             48
+
+    "SISTER BEATRICE" OF MAETERLINCK. PRODUCED
+        AT THE WESTERN RESERVE COLLEGE FOR
+        WOMEN                                                 74
+
+    TWO VIEWS OF THE STAGE AT TUFTS COLLEGE,
+        SHOWING PLENTY OF OPEN SPACE FOR THE
+        STORING AND SHIFTING OF SCENERY                       76
+
+    AN ORDINARY BOX-SET. FROM DUMAS _FILS'_ "THE
+        MONEY QUESTION." PRODUCED AT TUFTS
+        COLLEGE                                               80
+
+    SCENES FROM EURIPIDES' "ELECTRA." PRODUCED
+        AT ILLINOIS STATE COLLEGE                             90
+
+    TWO VIEWS OF THE STAGE AT THE UNIVERSITY OF
+        NORTH DAKOTA                                         106
+
+
+
+
+                         HOW TO PRODUCE AMATEUR
+                                 PLAYS
+
+
+                               CHAPTER I
+
+                           CHOOSING THE PLAY
+
+
+The first important question arising after the decision to give a play,
+is "What play?" Only too often is this question answered in a haphazard
+way. Of recent years a large number of guides to selecting plays have
+made their appearance, most of which are incomplete and otherwise
+unsatisfactory. The large lists issued by play publishers are
+bewildering. Toward the end of the present volume is a selective list of
+plays, all of which are, in one way or another, "worth while"; but as
+conditions differ so widely, it is practically impossible to do
+otherwise than merely indicate in a general way what sort of play is
+suggested.
+
+Each play considered by any organization should be read by the director
+or even the whole club or cast, after the requisite conditions have been
+considered. These conditions usually are:
+
+1. =Size of the Cast.= This is obviously a simple matter: a cast of ten
+cannot play Shakespeare.
+
+2. =Ability of the Cast.= This is a little more difficult. While it is a
+laudable ambition to produce Ibsen, let us say, no high-school students
+are sufficiently mature or skilled to produce "A Doll's House." As a
+rule, the well-known classics--Shakespeare, Moliere, Goldoni, Sheridan,
+Goldsmith--suffer much less from inadequate acting and production than
+do modern dramatists. The opinion of an expert, or at least of some one
+who has had experience in coaching amateur plays, should be sought and
+acted upon. If, for example, "As You Like It" is under consideration, it
+must be borne in mind that the role of Rosalind requires delicate and
+subtle acting, and if no suitable woman can be found for that part, a
+simpler play, like "The Comedy of Errors", had much better be
+substituted. Modern plays are on the whole more difficult: the portrayal
+of a modern character calls for greater variety, maturity, and skill
+than the average amateur possesses. The characters in Moliere's "Le
+Bourgeois Gentilhomme" ("The Merchant Gentleman"), Shakespeare's "The
+Comedy of Errors", Sheridan's "The Rivals", are more or less well-known
+types, and acting of a conventional and imitative kind is better suited
+to them. On the other hand, only the best-trained amateurs are able to
+impart the needful appearance of life and actuality to a play like Henry
+Arthur Jones's "The Liars." Still, there are many modern plays--among
+them, Shaw's "You Never Can Tell" and Wilde's "The Importance of Being
+Earnest"--in which no great subtlety of characterization is called for.
+These can be produced as easily by amateurs as can Shakespeare and
+Sheridan.
+
+3. =The Kind of Play= to be presented usually raises many questions
+which are entirely without the scope of purely dramatic considerations.
+In this country especially, there is a studied avoidance among schools
+and often among colleges and universities, of so-called "unpleasant
+plays." Without entering into the reasons for this aversion, it is
+rather fortunate, because as a general rule, "thesis", "sex", and
+"problem" plays are full of pitfalls for amateur actors and producers.
+
+While it is a splendid thing to believe no play too good for amateurs,
+some moderation is necessary where a play under consideration is
+obviously beyond the ability of a cast: "Hamlet" ought never to be
+attempted by amateurs, nor such subtle and otherwise difficult plays as
+"Man and Superman." Plays of the highest merit can be found which are
+not so taxing as these. There is no reason why Sophocles' "Electra",
+Euripides' "Alcestis", or the comedies of Lope de Vega, Goldoni,
+Moliere, Kotzebue, Lessing, not to mention the better-known English
+classics, should not be performed by amateurs.
+
+It goes without saying that the facile, trashy, "popular" comedies of
+the past two or three generations are to be avoided by amateurs who take
+their work seriously. This does not mean that all farces and comedies
+should be left out of the repertory: "The Magistrate" and "The
+Importance of Being Earnest" are among the finest farces in the
+language. The point to be impressed is that it is better to attempt a
+play which may be more difficult to perform than "Charley's Aunt", than
+to give a good performance of that oft-acted and decidedly hackneyed
+piece. It is much more meritorious to produce a good play poorly, if
+need be, than a poor play well.
+
+If, after having consulted the list in this volume and similar other
+lists, the club is still unable to decide on a suitable modern play, the
+best course is to return to the classics. It is likely that the plays
+that have pleased audiences for centuries will please us. Aristophanes'
+"The Clouds" and "Lysistrata", with a few necessary "cuts"; Plautus'
+"The Twins" and Terence's "Phormio"; Goldoni's "The Fan"; Shakespeare's
+"Comedy of Errors" and half a dozen other comedies; Moliere's "Merchant
+Gentleman" and "Doctor in Spite of Himself"; Sheridan's "The Rivals" and
+Goldsmith's "She Stoops to Conquer"; Lessing's "Minna von
+Barnhelm"--almost any one of these is "safe." A classic can never be
+seen too often and, since true amateurs are those who play for the joy
+of playing, they will receive ample recompense for their efforts in the
+thought that they have at least added their mite to the sum total of
+true enjoyment in the theater. Another argument in favor of the
+performance of the classics is that they are rarely produced by
+professionals. If an amateur club revives a classic, especially one
+which is not often seen nowadays, it may well be proud of its efforts.
+
+If, however, the club insists on giving a modern play, it will have
+little difficulty in finding suitable material. It is well not to
+challenge comparison with professional productions by choosing plays
+which have had professional runs of late; try rather to select (1) good
+modern plays which by reason of their subject matter, form, etc., cannot
+under present conditions be commercially successful (like Granville
+Barker's "The Marrying of Ann Leete"); (2) translations of contemporary
+foreign plays which are not well known either to American readers or
+producers; and, finally (3) original plays. Here it is difficult to
+advise. It cannot be hoped that an amateur club will discover many
+masterpieces among original plays submitted to it, but if any of the
+works considered has even a touch of originality, some good
+characterization, any marked technical skill; in a word, if there is
+something interesting or promising, then it is worth producing.
+Doubtless many beginners are discouraged from writing plays for lack of
+experience gained by seeing their work staged; for such, the amateur
+club is the only resource.
+
+Besides these particular considerations, there remain the minor but
+necessary points relating to rights and royalties. A full statement of
+the legal aspect of the case is to be found in the first appendix in
+this book.
+
+
+
+
+[Illustration: "THE GROTESQUES", BY CLOYD HEAD. PRODUCED AT THE LITTLE
+THEATER, CHICAGO
+
+A shallow cyclorama. The simple design forms an effective background for
+the grouping of the figures.
+
+(Courtesy of Maurice Browne).]
+
+
+
+
+                               CHAPTER II
+
+                              ORGANIZATION
+
+
+A great many more factors go into the making of a successful dramatic
+production than may at first be apparent. To organize a staff whose duty
+it is to furnish and equip a theater, hall, or schoolroom; to arrange
+and efficiently run rehearsals; to supply "props", costumes, and
+furniture; to manage the stage during the performance--all this is next
+in importance to the acting itself.
+
+Of late years especially it has been made clear that the art of the
+theater, although it is a collaboration of the brains and hands of many
+persons, must be under the supervision of one dominating and far-seeing
+chief. That is to say, one person and one alone must be responsible for
+the entire production. Except in rare instances this head cannot know of
+and attend to each detail himself, but it is his business to see that
+the whole organization is formed and managed according to his wishes.
+The function of this ideal manager has been compared with that of the
+orchestral conductor: it is he who leads, and he should be the first to
+detect the slightest discord. While the foregoing remarks are more
+strictly applicable to acting and staging, it will readily be seen that
+if the same leader is not in touch with the more practical side of the
+production, there is likely to arise that working at cross-purposes
+which has ruined many an amateur as well as professional production.
+While a great deal of the actual work must be done by subordinates, it
+should be clearly understood that the director has the final word of
+authority.
+
+Much in the matter of organization depends upon the number and ability
+and experience of those persons who are available, but the suggestions
+about to be made as to the organization of a staff are based upon the
+assumption that the director is a capable person, and his assistants at
+least willing to learn from him. As a rule, he will have plenty of
+material to work with.
+
+=The Director.= The producer, the head under whose guidance the entire
+work of rehearsing and organization should lie, is called the director.
+However, since this position is often held by a hired coach or by some
+one else who cannot be expected to attend to much outside the actual
+rehearsing, there must be elected or appointed an officer who is
+directly responsible. This officer is:
+
+=The Stage Manager.= As the director cannot always be present at every
+rehearsal, and as oftentimes two parts of the play are rehearsed
+simultaneously, it is evident that another director must be ready to
+act in place of the head. It is chiefly his duty to "hold" the
+prompt-book and keep a careful record of all stage business, "cuts",
+etc. At every rehearsal he must be ready to prompt, either lines or
+"business"--action, gestures, crosses, entrances, exits, and the
+like--and call the attention of the director to omissions or mistakes of
+every sort. In the event of the director's absence, he becomes the pro
+tem. director himself.
+
+It is advisable--though not always possible--to delegate the duties of
+property man, lightman, curtain man, costume man (or wardrobe mistress)
+to different persons; but even when this is done, it is better for the
+stage manager to keep a record of all "property plots", "light plots",
+"furniture plots", etc.
+
+It is also the stage manager's business to arrange the time and place of
+rehearsals, and hold each actor responsible for attendance.
+
+On the occasion of the dress rehearsal and of the actual production, it
+is the stage manager, and not the director, who supervises everything.
+His position is that of commander-in-chief. He either holds the book, or
+is at least close by the person who actually follows the lines; sees
+that each actor is ready for his entrance; that the curtain rises and
+falls when it should; that his assistants are each in their respective
+places; and that the entire performance "goes" as it is intended to go.
+
+=The Business Manager.= This person attends to such matters as renting
+the theater--or arranging some place for the performance--printing and
+distributing tickets; in short, everything connected with the receipt
+and expenditure of money. It is not of course imperative that he should
+have much to do with the director; the only point to be borne in mind
+being that every one connected with the production of a play should be
+in touch with those in authority. The business manager ought to have at
+least a preliminary conference with the director, and report to him
+every week until a few days before the performance, when he should be
+within instant call in case of emergency. The property, light,
+furniture, and costume people must naturally keep in close touch with
+him, although no purchases should be made without the permission of the
+director, who in this case must be at one with the club or organization.
+
+=The Property Man.= The duties attaching to this position are definitely
+and necessarily limited, but of great importance. Working under the
+stage manager, he supplies all the objects--such as revolvers, swords,
+letters, etc.--in a word, everything actually _used_ by the actors, and
+not falling under the categories of "scenery", "costumes", and
+"furniture."
+
+It will be found necessary in some cases to add to the staff one person
+whose business it is to attend to the matter of furnishings: rugs,
+hangings, pictures, furniture, and so forth; but in case there is no
+such person, the property man attends to these details himself.
+
+It cannot be too strongly urged that from the very first as many
+"props", as much furniture or as many set pieces as possible (depending
+on whether the set is an indoor or outdoor one), should be used by the
+actors. In this way they will be better able to associate their
+thoughts, words, and gestures with the material objects with which they
+will be surrounded on the fatal night. If this is impracticable, that
+is, if most of these objects cannot be secured from the first, then at
+least suitable substitutes should be used. The presence of such
+fundamentally important articles as the wall in Rostand's "The
+Romancers", and the dentist's chair in Shaw's "You Never Can Tell", when
+used from the first rehearsals, always minimizes the danger of confusion
+of lines or business at the last moment.
+
+The property man must keep a list of everything required; this should be
+a duplicate of that in the possession of the stage manager.
+
+=The Lightman.= Sometimes even nowadays called the "Gasman." He is not
+indispensable, because almost always the regular electrician attends to
+the switchboard. However, some one should be with the electrician at the
+dress rehearsal and on the evening of the performance to give him the
+necessary light cues. Usually, however, the stage manager who holds the
+prompt-book where all the light cues are indicated can fulfill this
+function.
+
+=The Costume Man= (or =Wardrobe Mistress=, as the case may be). Again
+the duties are simple. If the play is a classic--Shakespeare, for
+instance,--the costumes, in ninety-nine cases out of a hundred, had
+better be rented from a regular costumer. The costume man, then,
+together with the business manager, attends to the details of renting,
+and sees that all costumes are ready for the dress rehearsal. If the
+costumes are made to order, the matter is supervised by the costume man.
+But, as with everything else connected with the best amateur efforts,
+there should be some expert adviser, not so much one versed in history
+and archeology as an artist with an eye for color and style. The
+director in any event must be consulted, so that lights, scenery, and
+costumes may harmonize. Details as to costumes are to be found in many
+books, and need not here be discussed. In spite of a good deal that has
+been written to the contrary, historical accuracy is not of vast
+importance: so long as there are no glaring anachronisms, Shakespeare
+may be presented with actors wearing pre- or post-Elizabethan costumes,
+provided they are beautiful, and harmonize.
+
+Among the thousand and one minor details of producing, there are some
+which in large productions might be assigned to specially appointed
+individuals, but most of the duties to be briefly enumerated below may
+easily be given over to the stage manager, property man, or costume man,
+or even to the lightman.
+
+_Handling and Setting of Scenery and Furniture._ This is usually taken
+care of by the property man and his assistants, under the direction of
+the stage manager. As in every other branch of the work, all details
+must be planned beforehand, and recorded.
+
+_Music._ The music cues should be marked in the stage manager's
+prompt-book. Incidental music, whether it be on, behind, or off-stage in
+the orchestra pit, ought to be rehearsed at least two or three times. On
+the occasion of the performance, the stage manager gives directions from
+his prompt-book for all music cues.
+
+_Crowds or Large Groups._ The management and rehearsing of crowds or
+large groups is considered under "Rehearsing" (p. 58). Here it will
+suffice to state that it is well to have an assistant whose duty it is
+to see that the "supes" [supernumeraries] are conducted on and off the
+stage at the right time.
+
+Among the further details which must be looked after are the duties
+which are sometimes left to the stage manager: the ringing of bells,
+calling of actors at the regular performance, etc. A "call boy" may be
+delegated to do this.
+
+_Understudies._ Trouble is always likely to arise, especially among
+amateurs, because there is no effective method of holding the actors to
+strict account. Often, one or more of the cast finds, or thinks he
+finds, good reason for leaving it, and a new actor must sometimes be
+found and trained to fill the vacancy on perilously short notice.
+Sickness or indisposition invariably give rise to the same problem. If
+possible, an entire second cast should be trained, so that any member of
+it could at a moment's notice be called upon to play in the first cast.
+While this second company should be letter-perfect and know the
+"business" in every detail, it is not necessary that their acting be so
+finished and detailed as that of the others. Understudy rehearsals are
+under the direction of the stage manager, although the director should
+witness at least two or three.
+
+Since the performance depends almost wholly on the knowledge, sympathy,
+and taste of the director, the greatest care should be taken in choosing
+him. Needless to say, the ideal director does not exist; still, his
+attributes should be constantly borne in mind. If he lacks the artist's
+sense of color, rhythm, and proportion, then an art adviser must be
+called in to suggest color schemes as regards costumes, scenery,
+furniture, and lighting. Nowadays, great attention is being paid to
+these matters, and the subtle effect of background and detail is much
+greater than is commonly supposed. The play is of first importance--that
+must never be forgotten--but these other matters are too often
+neglected.
+
+Similarly with costumes, music, scenery, it is never amiss to consult
+authorities. But once more be it repeated, the whole production should
+bear the imprint of the director's personality, because only in this way
+can we hope for that essential unity of effect which is a basic
+principle of all art.
+
+Cooperation with, but, in the last analysis, subserviency to, the
+director, is the keynote of success.
+
+
+
+
+[Illustration: "THE TROJAN WOMEN", OF EURIPIDES. PRODUCED AT THE LITTLE
+THEATER, CHICAGO.
+
+Effective grouping against a simple background. (Courtesy of Maurice
+Browne).]
+
+
+
+
+                              CHAPTER III
+
+                           CHOOSING THE CAST
+
+
+Obviously, the choice of the cast should depend upon the ability of the
+actors, although in the case of an organization like a school or college
+dramatic club, this system is not always practicable or even advisable.
+Every member of such a club should be trained to work for a common end,
+and a system by which amateurs are made to understand the necessity of
+assuming first small and unimportant roles and working up gradually to
+the greater and more important ones, makes for harmony and completeness
+of effect in performances. It should be one of the chief ends of amateur
+producing to get away from the curse of the professional stage: the star
+system. It has been stated here that the greatest emphasis must be laid
+on the play itself, and no actor, professional or amateur, should ever
+labor under the delusion that he is of greater or even as great
+importance as the play in which he strives to act his part. The average
+actor is inclined to judge a play's merit according to the sort of part
+it furnishes him; the amateur spirit has done much to do away with this
+attitude, and it is to be hoped that no coach will ever do otherwise
+than discourage it.
+
+Competition as a means of selecting a cast is in most cases the best
+method. The play once selected, the people from among whom the cast is
+to be formed are assembled. It is a good plan to have every one read the
+play first, and make a study of at least one scene of it. Then, either
+alone or in company with one, two, or three others, he reads--or recites
+from memory--the scene in question, either before the entire club or
+before a committee of judges. Each actor is judged on appearance, ease,
+voice, and insight into the character he is portraying. The judges,
+seconded possibly by the members of the club (whose votes should, by the
+way, be of only secondary importance), then select those whom they
+consider best fitted for the parts. In every case the director should
+give final sanction to the selection.
+
+In cases where members must at first assume only minor parts because of
+club rules, there may arise some difficulty: for example, a beginner may
+be better fitted to assume an important role than older club members.
+Such cases must of course be dealt with individually.
+
+In organizations which are not run on so democratic a basis, the
+director selects the cast himself. On the whole, this is much the best
+system, as the director is left a free field in which to work out his
+own problems in his own way. If it is at all possible, an amateur club
+ought to put everything, including the responsibility, into the hands of
+a competent director. In this respect, the despotism of the professional
+stage is most beneficial. Whether the coach be an outsider hired for the
+occasion, or a regular member of the club, in nine cases out of ten he
+will establish and maintain harmony, allow no real talent to languish,
+and be at least in a position to produce definite artistic results.
+Amateur management has spoiled much good material. A director with full
+authority can work more easily and efficiently if left to his own
+devices than if trammeled with rules and regulations.
+
+The theater, behind the scenes, is a despotic institution; it must be,
+but the greatest care must be taken in choosing the right despot. Should
+the coach be a professional manager or actor, or should he be an
+amateur? The question is a difficult one. There are, it goes without
+saying, many excellent directors who are or have been professionals; on
+the other hand, it cannot be denied that some of the best amateur work
+in this country has been done by directors whose experience on the
+professional stage has, to say the least, been limited. Some such
+training is beneficial, but to put a professional of many years'
+experience in charge of amateurs is likely to make of the amateurs a
+company of puppets imitating only some of the externals of
+professionaldom. The best director, therefore, seems to be a person who
+has some professional experience, but who has likewise dealt with
+amateurs; one who enters into the amateur spirit, and understands its
+difference from the professional world, and does not try to train his
+company to imitate stock actors or "stars."
+
+Understudies may be chosen in the same manner as the first cast.
+
+After the choosing of the casts, the next step is rehearsing. To this
+complicated process the next three chapters are devoted.
+
+
+
+
+[Illustration: "CAPTAIN BRASSBOUND'S CONVERSION", BY SHAW. SET OF ACT I,
+AS PRODUCED BY THE NEIGHBORHOOD PLAYHOUSE, NEW YORK.
+
+(Photo by White. Courtesy of Neighborhood Playhouse).]
+
+
+
+
+                               CHAPTER IV
+
+                               REHEARSING
+
+
+                                   I
+
+The first rehearsal should be "called" as soon as possible after the
+cast has been selected and a place chosen in which to work. If the play
+is to be performed in a regular theater, it is wise to block out the
+general action and have at least the first two or three rehearsals on
+the stage. It would be still better if all the rehearsals could be
+conducted there, but as this is seldom possible, the stage manager
+should take its dimensions and secure some room as near the size of the
+stage as he can find. A room too large or too small, or not the
+requisite shape, is more than likely to confuse the actors. As many of
+the essential "props" and articles of furniture as possible should be
+used from the very first, in order to accustom the actors to work under
+approximately the same conditions as on the occasion of the performance.
+
+If the play can be secured in printed form, each actor will have his
+copy, and a general reading to the cast by the director or stage manager
+be rendered unnecessary. However, a few remarks by him as to the nature
+and spirit of the play will not be amiss. It is not uncommon to hear of
+professionals who have never read or seen the entire play even after
+acting in it for many months. Unless each actor knows and feels what the
+play is about and enters into its spirit, there can be little chance for
+unity and harmony.
+
+"Cutting", or other alteration, is often necessary. The director should
+read his alterations and allow each actor to make his text conform with
+the prompt-copy.
+
+When the play is not obtainable in book form, each role is then copied
+from the manuscript, together with the "cues" and all the stage
+business. In this case, a general reading to the cast is imperative.
+
+The preliminaries disposed of, the play is _read_, each actor taking his
+part. This is merely to familiarize the actors with the play and show
+them briefly their relation to each other and the work as a whole. At
+this first rehearsal, there should be no attempt at acting; that is
+reserved for the next meeting.
+
+At the second rehearsal[1]--which should take place the day after the
+first--the director blocks out the action. If the play be a full-length
+one (approximately two hours) then one act of this general blocking out
+will be found to occupy all the time. If the play is in a single act,
+and provided it be not too long, then the entire play may be blocked
+ out.
+
+    [1] The system here followed must of necessity be arbitrary, but
+        the principle is easy to grasp. A great deal depends on the
+        ability of the actors and the time they can afford.
+
+What is "blocking out"? Let us take an easy example and block out the
+first few minutes' of Wilde's "The Importance of Being Earnest."[2] Here
+follows the text of the first two and a half pages:
+
+    [2] Editions published by French, Putnam, Luce, Nichols, and
+        Baker.
+
+    _Scene--Morning-room in Algernon's flat in Half Moon Street. The
+    room is luxuriously and artistically furnished. The sound of a
+    piano is heard in the adjoining room._
+
+    [LANE _is arranging afternoon tea on the table, and after the
+    music has ceased_, ALGERNON _enters_.]
+
+    ALGERNON. Did you hear what I was playing, Lane?
+
+    LANE. I didn't think it polite to listen, sir.
+
+    ALGERNON. I'm sorry for that, for your sake. I don't play
+    accurately--any one can play accurately--but I play with
+    wonderful expression. As far as the piano is concerned,
+    sentiment is my forte. I keep science for Life.
+
+    LANE. Yes, sir.
+
+    ALGERNON. And, speaking of the science of Life, have you got the
+    cucumber sandwiches cut for Lady Bracknell?
+
+    LANE. Yes, sir. [_He hands them on a salver._]
+
+    ALGERNON. [_Inspects them, takes two, and sits down on the
+    sofa._] Oh! ... by the way, Lane, I see from your book that on
+    Thursday night, when Lord Shoreman and Mr. Worthing were dining
+    with me, eight bottles of champagne are entered as having been
+    consumed.
+
+    LANE. Yes, sir, eight bottles and a pint.
+
+    ALGERNON. Why is it that at a bachelor's establishment the
+    servants invariably drink the champagne? I ask merely for
+    information.
+
+    LANE. I attribute it to the superior quality of the wine, sir. I
+    have often observed that in married households the champagne is
+    rarely of a first-rate brand.
+
+    ALGERNON. Good Heavens! Is marriage so demoralizing as that?
+
+    LANE. I believe it _is_ a very pleasant state, sir. I have had
+    very little experience of it myself up to the present. I have
+    only been married once. That was in consequence of a
+    misunderstanding between myself and a young person.
+
+    ALGERNON. [_Languidly._] I don't know that I am much interested
+    in your family life, Lane.
+
+    LANE. No, sir; it is not a very interesting subject. I never
+    think of it myself.
+
+    ALGERNON. Very natural, I am sure. That will do, Lane, thank
+    you.
+
+    LANE. Thank you, sir. [LANE _goes out_.]
+
+    ALGERNON. Lane's views on marriage seem somewhat lax. Really, if
+    the lower orders don't set us a good example, what on earth is
+    the use of them? They seem, as a class, to have absolutely no
+    sense of moral responsibility. [_Enter_ LANE.]
+
+    LANE. Mr. Ernest Worthing. [_Enter_ JACK. LANE _goes out_.]
+
+    ALGERNON. How are you, my dear Ernest? What brings you up to
+    town?
+
+    JACK. Oh, pleasure, pleasure! What else should bring me
+    anywhere? Eating as usual, I see, Algy?
+
+    ALGERNON. [_Stiffly._] I believe it is customary in good society
+    to take some slight refreshment at five o'clock. Where have you
+    been since last Thursday?
+
+    JACK. [_Sitting down on the sofa._] In the country.
+
+    ALGERNON. What on earth do you do there?
+
+    JACK. [_Pulling off his gloves._] When one is in town one amuses
+    oneself. When one is in the country one amuses other people. It
+    is excessively boring.
+
+    ALGERNON. And who are the people you amuse?
+
+    JACK. [_Airily._] Oh, neighbors, neighbors.
+
+    ALGERNON. Got nice neighbors in your part of Shropshire?
+
+    JACK. Perfectly horrid! Never speak to one of them.
+
+    ALGERNON. How immensely you must amuse them! (_Goes over and
+    takes sandwich._) By the way, Shropshire is your county, is it
+    not?
+
+    JACK. Eh? Shropshire? Yes, of course. Hallo! Why all these cups?
+    Why such extravagance in one so young? Who is coming to tea?
+
+The first point to be noticed is that the stage directions are not
+sufficient. To begin with, the only information we have as to the
+morning-room is that it is in Algernon Moncrieff's flat in Half Moon
+Street, and that it is "_luxuriously and artistically furnished_." The
+next directions--"LANE _is arranging tea on a table_"--prove that there
+_is_ a tea-table with tea things on it. We are therefore dependent on
+the ensuing dialogue and the implied or briefly described action to
+furnish clues as to the entrances, furniture, and "props" which will be
+required in the course of the act. It is, of course, the director's and
+the stage manager's business to go through the play beforehand, and have
+all these points well in mind. Let us now see how this is done, and
+proceed to block out the first part of the play.
+
+The room evidently at least has two doors: one leading into the
+hallway--up-stage Center--the other halfway down-stage Right,[3] let us
+say for the present, as in the diagram:
+
+                             [Illustration]
+
+    [3] Right and Left in stage directions mean from the actors'
+        point of view. Up-stage and down-stage mean respectively away
+        from and toward the footlights.
+
+Before Algernon's entrance, Lane, the butler, is preparing tea. Where is
+the table? Some subsequent business may necessitate its being in a
+position different from the one first chosen, but let us assume that it
+is up-stage to the right:
+
+                             [Illustration]
+
+There it is not likely to be in the way of the actors; furthermore, it
+is not on the same side of the stage as the sofa--which is the next
+article of furniture to be placed. If the table and the sofa and the
+door were all on the same side of the stage, it would be much too
+crowded, especially as the larger part of the subsequent action revolves
+about them.
+
+Lane, then, is busied with the tea things for a moment, as and after the
+curtain rises. Then the music of a piano is heard off-stage to the
+right. It stops, and a moment later Algernon enters. As he evidently has
+nothing in particular to do at that moment, he may stand at the center
+of the stage, facing Lane, who stops his work and respectfully answers
+his master's questions. When Algernon says: "And, speaking of the
+science of Life, have you got the cucumber sandwiches cut for Lady
+Bracknell?", what more natural than that he should look in the direction
+of the table, and perhaps even make a step toward it? Lane then goes to
+the table, takes up the salver with the sandwiches on it, and hands it
+to Algernon. Here there are no other directions than _"Hands them on
+salver_." The other "business" is inferred from the dialogue. Algernon
+then "_Inspects them, takes two, and sits down on the sofa_."
+
+This is the first reference to the sofa. The original prompt-copy must,
+of course, have made clear exactly where each article of furniture
+stood, but, for the reasons above enumerated, let us place the sofa as
+in the diagram:
+
+                             [Illustration]
+
+Notice now that nothing is said of the salver. But from the direction
+near the top of page 3--(Luce and Baker editions) "_Goes over and takes
+sandwich_"--we may assume that Lane takes the salver back to the table.
+Undoubtedly, he does this as Algernon sits on the sofa. This stage
+direction should be indicated in the prompt-copy, as well as in that of
+the actor playing Lane, as follows:
+
+                             [Illustration]
+
+As soon as Lane has done this, or even before, Algernon resumes his
+conversation, while Lane turns and listens to him. Lane stands somewhere
+between the table and the sofa, at a respectful distance from Algernon.
+The next "business" occurs when Algernon says "That will do, Lane, thank
+you", and Lane replies "Thank you, sir", and goes out. This brings up
+another question which is not answered, as yet at least, in the text.
+Does Lane go out Right? Possibly; or is there another entrance Left,
+leading to the butler's room? So far as we are able to determine, there
+is no good reason why the room to the right, where Algernon was playing,
+should not lead to the butler's room, or to wherever he is supposed to
+go. And in this case, there is no reason why Lane cannot, during
+Algernon's soliloquy, have heard the doorbell ring, answered it, and
+been ready to reenter, announcing, as he does: "Mr. Ernest Worthing."
+Jack then enters, Right. Although again there is no stage direction, it
+is likely that Algernon rises to greet his friend and shake hands with
+him.
+
+Once more, the stage directions, or rather the want of them, are apt to
+confuse. On the top of page 3, we read that Jack pulls "_off his
+gloves_." He wears a hat, of course, and probably a coat. He carries his
+hat in his hand, but presumably still wears his coat, and certainly his
+gloves. Lane, before he leaves, would undoubtedly take Jack's hat, help
+him off with his coat, and take them out with him. Then, before the two
+men shake hands--if they do--Jack pulls off his gloves. Jack's line,
+"Eating as usual, I see, Algy," is sufficient indication to prove that
+in one hand Algernon holds a sandwich. Algernon then sits down. The
+dramatist would surely have mentioned Jack's sitting down if that had
+been his intention; therefore Jack may stand. Now comes the direction
+about Jack's "Pulling off his gloves." What does he do with them? For
+the present, at least, let us allow him to go to the tea table, and lay
+them on it. A moment later, Algernon "_Goes over and takes sandwich_."
+He stands by the table, eating, and this attracts Jack's attention to
+the somewhat elaborate preparations for tea. Algernon then says: "By the
+way, Shropshire is your county, is it not?" But Jack, too engrossed in
+the preparations, scarcely hears the other, and answers: "Eh?
+Shropshire? Yes, of course," and so on. Then he evidently goes to the
+tea table.
+
+This is the general method of attack to be pursued. It may be that later
+in the same scene it will be necessary to go back and undo some of the
+"business", because the only available text of this play--and this is
+almost always true of printed plays--is not in prompt-copy form. The
+making, therefore, of a prompt-copy is a slow process. First, the
+director goes through the play and plans in a general way what the
+action is to be, but only by rehearsing his cast on a particular stage
+and under specific conditions, is he able to know every detail of the
+action. By the time the actors are letter-perfect, the prompt-copy ought
+likewise to be fairly perfect. It is always dangerous to change
+"business" after the actors have memorized their parts.
+
+During this preliminary blocking-out process, little or no attention
+need be paid to details: the mere outlining of the action, together with
+the reading of the lines by the actors, is sufficient.
+
+Sometimes printed plays suffer from too many stage directions, and
+occasionally even the careful Bernard Shaw, as the following extract
+will prove, is far from clear. Here are the opening pages of "You Never
+Can Tell":[4]
+
+    [4] Published separately by Brentano's.
+
+    _In a dentist's operating room on a fine August morning in 1896.
+    Not the usual tiny London den, but the best sitting-room of a
+    furnished lodging in a terrace on the sea front at a fashionable
+    watering place. The operating chair, with a gas pump and
+    cylinder beside it, is half way between the center of the room
+    and one of the corners. If you look into the room through the
+    window which lights it, you will see the fireplace in the middle
+    of the wall opposite you, with the door beside it to your left;
+    an M.R.C.S. diploma in a frame hung on the chimneypiece; an easy
+    chair covered in black leather on the hearth; a neat stool and
+    bench, with vice, tools, and a mortar and pestle in the corner
+    to the right. Near this bench stands a slender machine like a
+    whip provided with a stand, a pedal, and an exaggerated winch.
+    Recognizing this as a dental drill, you shudder and look away to
+    your left, where you can see another window, underneath which
+    stands a writing table, with a blotter and a diary on it, and a
+    chair. Next the writing table, towards the door, is a leather
+    covered sofa. The opposite wall, close on your right, is
+    occupied mostly by a bookcase. The operating chair is under your
+    nose, facing you, with the cabinet of instruments handy to it on
+    your left._ _You observe that the professional furniture and
+    apparatus are new, and that the wall paper, designed, with the
+    taste of an undertaker, in festoons and urns, the carpet with
+    its symmetrical plans of rich, cabbagy nosegays, the glass
+    gasalier with lustres, the ornamental, gilt-rimmed blue
+    candlesticks on the ends of the mantelshelf, also glass-draped
+    with lustres, and the ormolu clock under a glass cover in the
+    middle between them, its uselessness emphasized by a cheap
+    American clock disrespectfully placed beside it and now
+    indicating 12 o'clock noon, all combine with the black marble
+    which gives the fireplace the air of a miniature family vault,
+    to suggest early Victorian commercial respectability, belief in
+    money, Bible fetichism, fear of hell always at war with fear of
+    poverty, instinctive horror of the passionate character of art,
+    love and the Roman Catholic religion, and all the first fruits
+    of plutocracy in the early generations of the industrial
+    revolution._
+
+    _There is no shadow of this on the two persons who are occupying
+    the room just now. One of them, a very pretty woman in
+    miniature, her tiny figure dressed with the daintiest gaiety, is
+    of a later generation, being hardly eighteen yet. This darling
+    little creature clearly does not belong_ _to the room, or even
+    to the country; for her complexion, though very delicate, has
+    been burnt biscuit color by some warmer sun than England's; and
+    yet there is, for a very subtle observer, a link between them.
+    For she has a glass of water in her hand, and a rapidly clearing
+    cloud of spartan obstinacy on her tiny firm mouth and quaintly
+    squared eyebrows. If the least line of conscience could be
+    traced between those eyebrows, an Evangelical might cherish some
+    faint hope of finding her a sheep in wolf's clothing--for her
+    frock is recklessly pretty--but as the cloud vanishes it leaves
+    her frontal sinus as smoothly free from conviction of sin as a
+    kitten's._
+
+    _The dentist, contemplating her with the self-satisfaction of a
+    successful operator, is a young man of thirty or thereabouts. He
+    does not give the impression of being much of a workman: his
+    professional manner evidently strikes him as being a joke; and
+    it is underlain by a thoughtless pleasantry which betrays the
+    young gentleman still unsettled and in search of amusing
+    adventures, behind the newly set-up dentist in search of
+    patients. He is not without gravity of demeanor; but the
+    strained nostrils stamp it as the gravity of the humorist. His
+    eyes are clear,_ _alert, of sceptically moderate size, and yet a
+    little rash; his forehead is an excellent one, with plenty of
+    room behind it; his nose and chin cavalierly handsome. On the
+    whole, an attractive, noticeable beginner, of whose prospects a
+    man of business might form a tolerably favorable estimate._
+
+    THE YOUNG LADY (_handing him the glass_). Thank you. (_In spite
+    of the biscuit complexion she has not the slightest foreign
+    accent._)
+
+    THE DENTIST (_putting it down on the ledge of his cabinet of
+    instruments_). That was my first tooth.
+
+    THE YOUNG LADY (_aghast_). Your first! Do you mean to say that
+    you began practising on me?
+
+    THE DENTIST. Every dentist has to begin on somebody.
+
+    THE YOUNG LADY. Yes: somebody in a hospital, not people who pay.
+
+    THE DENTIST (_laughing_). Oh, the hospital doesn't count. I only
+    meant my first tooth in private practice. Why didn't you let me
+    give you gas?
+
+    THE YOUNG LADY. Because you said it would be five shillings
+    extra.
+
+    THE DENTIST (_shocked_). Oh, don't say that. It makes me feel as
+    if I had hurt you for the sake of five shillings.
+
+    THE YOUNG LADY (_with cool insolence_). Well, so you have! (_She
+    gets up._) Why shouldn't you? it's your business to hurt people.
+    (_It amuses him to be treated in this fashion; he chuckles
+    secretly as he proceeds to clean and replace his instruments.
+    She shakes her dress into order, looks inquisitively about her;
+    and goes to the window._) You have a good view of the sea from
+    these rooms! Are they expensive?
+
+    THE DENTIST. Yes.
+
+    THE YOUNG LADY. You don't own the whole house, do you?
+
+    THE DENTIST. No.
+
+    THE YOUNG LADY (_taking the chair which stands at the writing
+    table and looking critically at it as she spins it round on one
+    leg_). Your furniture isn't quite the latest thing, is it?
+
+    THE DENTIST. It's my landlord's.
+
+    THE YOUNG LADY. Does he own that nice comfortable Bath chair?
+    (_pointing to the operating chair_).
+
+    THE DENTIST. No: I have that on the hire-purchase system.
+
+    THE YOUNG LADY (_disparagingly_). I thought so. (_Looking about
+    her again in search of further conclusion._) I suppose you
+    haven't been here long?
+
+    THE DENTIST. Six weeks. Is there anything else you would like to
+    know?
+
+    THE YOUNG LADY (_the hint quite lost on her_). Any family?
+
+
+Shaw's stage directions here are more than sufficient: they are intended
+not only for the director, stage manager, property man, scene painter,
+and actor, but for the reader as well. His directions are always
+stimulating and suggestive, and should be studied by the actors; but,
+from the point of view of the director and stage manager, they are
+bewilderingly diffuse and sometimes confusing. The fact, for instance,
+that the action takes place precisely in 1896, can be of little interest
+to the manager. Nor can a clock indicate twelve o'clock "noon." In such
+stage directions as these the director will therefore have to separate
+the purely mechanical elements from the literary and atmospheric. Let us
+now apply ourselves to the rather difficult task of making a diagram of
+the stage and its settings.
+
+It is a "fine August morning." The sun is shining out-of-doors and, as
+the room looks out over the sea, the stage must be lighted through one
+of the windows. The dramatist goes on to say that the room is "_Not the
+usual tiny London den, but the best sitting room of a furnished
+lodging._" By inference, it is a large room. The operating chair is
+"_half way between the center of the room and one of the corners_."
+Which corner is not designated. Let us try to plot out the stage on the
+assumption that we are looking at it through a window halfway down-stage
+on the left (the actor's left, of course). The window which lights the
+room is placed thus:
+
+                             [Illustration]
+
+Looking through this window, "_you will see the fireplace in the middle
+of the wall opposite you, with the door beside it to your left_":
+
+                             [Illustration]
+
+The next article of furniture mentioned is the easy chair "_on the
+hearth_":
+
+                             [Illustration]
+
+Then come "_a neat stool and bench_" and, near them, a dental drill:
+
+                             [Illustration]
+
+"_Near it_" is not definite, but for the time being, let us allow it to
+stand up-stage near the stool and bench, but a little toward Center.
+Next, you "_look away to your left, where you can see another window_."
+The direction here is not practicable, but the window may well go above
+the fireplace, instead of below, thus:
+
+                             [Illustration]
+
+Underneath this window stands a writing table and a chair:
+
+                             [Illustration]
+
+"_Next the writing table, towards the door, is a leather covered sofa._"
+To add another article of furniture to this already crowded side of the
+stage would not only make the room appear unnatural to the audience, but
+would render it impossible for the actors to move about with ease. The
+director will therefore have to use his ingenuity and judgment as to
+where to put the sofa. Some subsequent "business" may necessitate a
+change of the disposition of more than one chair or sofa or stool, but
+the process here outlined is the first step. To proceed: the sofa, then,
+must be placed somewhere else. But where? By moving the drill to the
+left, in the corner, the sofa can be placed next to the table, as
+follows:
+
+                             [Illustration]
+
+"_The opposite wall, close on your right, is occupied mostly by a
+bookcase. The operating chair is under your nose, facing you, with the
+cabinet of instruments handy to it on your left._"
+
+                             [Illustration]
+
+It is at once observed how necessary it was to move the drill from the
+other side of the room to this: over by the table, it would be out of
+convenient reach of the dentist.
+
+The difficulty of arranging the stage in this case will at once prove
+the imperative need of going through the play with the utmost attention
+to stage directions and _lines_, in order to make an accurate series of
+stage diagrams, property, light, and furniture plots.
+
+Notice that in the preliminary stage directions the center entrance is
+not designated. It soon becomes evident, however, that a center door (or
+one, at least, at the back of the stage) is taken for granted.
+
+This elementary diagram will serve as a working basis. A very little
+rehearsing will soon make it necessary to arrange the furniture, and so
+on, in a manner more pleasing to the eye and more convenient to the
+actor.
+
+                             [Illustration]
+
+There is one more kind of text with which amateurs have to do: it is the
+reprint of actual prompt-copies, and is usually accurate in material
+details. The following extract is from the opening pages of the fourth
+act of Henry Arthur Jones's "The Liars" (in the special edition
+published by Samuel French):
+
+    _Scene: Drawing-room in Sir Christopher's flat in Victoria
+    Street. L. at back is a large recess, taking up half the stage.
+    The right half is taken up by an inner room furnished as library
+    and smoking-room. Curtains dividing library from drawing-room.
+    Door up-stage, L. A table down-stage, R. The room is in great
+    confusion, with portmanteau open, clothes, etc., scattered over
+    the floor; articles which an officer going to Central Africa
+    might want are lying about._
+
+The diagram, as given in the text, is this:
+
+                             [Illustration]
+
+This is merely a skeleton, as it were, of a diagram, but first, the
+preliminary stage directions--quoted above--and the detailed and full
+marginal and other stage directions in the text, make clear every
+crossing, entrance, and exit, and designate at least the important
+articles of furniture and "props." For example, it is learned from the
+text on the first and second pages of the act, that there is a uniform
+case "up-Center"--up-stage, that is, in the center of it; a folding
+stool by the table; a trunk to the left of Center; and a sofa on the
+extreme left. Unlike the quotations from the Wilde and Shaw plays, those
+of Jones supply all necessary information to the stage manager and the
+actors. Of course, as always, modifications must be made to meet the
+exigencies of certain stages and certain actors, but these are minor
+matters.
+
+The fundamental principles of this preliminary blocking-out having been
+laid down, we shall now proceed to a consideration of the infinitely
+varied problems of grouping and detailed stage business.
+
+
+
+
+[Illustration: SET FOR MUSSET'S "WHIMS", PRODUCED BY THE
+WASHINGTON SQUARE PLAYERS.
+
+(Courtesy of The Washington Square Players).]
+
+
+
+
+                               CHAPTER V
+
+                               REHEARSING
+
+                                   II
+
+
+While it is true that the possibilities of variation in the matter of
+grouping, crossing, and so on, are infinite, still there are some
+definite principles to be followed.
+
+Suppose that the blocking-out process is over with, and the actors have
+a fair idea of their entrances, positions, business, and exits. The two
+following extracts (the first from the third act of Jones's "The Liars",
+the second from Edouard Pailleron's "The Art of Being Bored") serve to
+illustrate two ways of going about the problem of grouping actors on the
+stage. The first contains specific directions, the second only the
+merest suggestions. Below is the diagram of the stage in the third act
+of "The Liars":
+
+                             [Illustration]
+
+Up to page 107, which is reproduced on page 50, the characters are
+grouped as indicated:
+
+                             [Illustration]
+
+Following carefully the stage directions in the text and on the margin,
+the action is traced as follows:
+
+    Mrs. Crespin shakes hands with Sir Christopher. Then (marginal
+    note) "_Sir C. opens door L. for Mrs. Crespin_":
+
+                             [Illustration]
+
+    (_Exit_ MRS. CRESPIN.[5] _They all stand looking at each other,
+    nonplussed._ SIR CHRISTOPHER _slightly touching his head with
+    perplexed gesture_.)
+
+        [5] _Sir C. opens door L. for Mrs. Crespin; after her
+            exit, closes door. They all turn and look at Sir C. He
+            sinks into a chair up C., and shakes his head at them._
+
+                                 SIR C.
+
+    Our fib won't do.
+
+                                LADY R.
+
+    Freddie, you incomparable nincompoop!
+
+                                FREDDIE.
+
+    I like that! If I hadn't asked her, what would have happened?
+    George Nepean would have come in, you'd have plumped down on him
+    with your lie, and what then? Don't you think it's jolly lucky I
+    said what I did?[6]
+
+        [6] _Lady Jess. sits L.C. Sir Chris. puts hat on
+            bookcase C., and comes down C._
+
+                                 SIR C.
+
+    It's lucky in this instance. But if I am to embark any further
+    in these imaginative enterprises, I must ask you, Freddie, to
+    keep a silent tongue.
+
+                                FREDDIE.
+
+    What for?
+
+                                 SIR C.
+
+    Well, old fellow, it may be an unpalatable truth to you, but
+    you'll never make a good liar.[7]
+
+        [7] _Lady R. and Lady Jess. agree with Sir C._
+
+                                FREDDIE.
+
+    Very likely not. But if this sort of thing is going on in my
+    house, I think I ought to.
+
+                               LADY R.[8]
+
+        [8] _Crosses to him C. Freddie sits R.C. annoyed._
+
+    Oh, do subside, Freddie, do subside!
+
+                               LADY J.[9]
+
+        [9] _5th call. George._
+
+    Yes, George--and perhaps Gilbert--will be here directly. Oh,
+    will somebody tell me what to do?
+
+Then, "_after her exit, closes door_. _They all turn and look at Sir C.
+He sinks into a chair and shakes his head at them._" Into which chair
+does he sink? Since in a moment he must put his hat on the bookcase,
+Center, he had better sit on the chair to the right of it:
+
+                             [Illustration]
+
+Then, at the end of Freddie's speech, "_Lady Jess. sits L.C._ [left of
+Center]. _Sir Chris. puts hat on bookcase C., and comes down C._"
+
+                             [Illustration]
+
+The last speech of Lady Rosamund on this page is accompanied by the
+following stage direction: "_Crosses to him_ [Sir Christopher] _C.
+Freddie sits R.C. annoyed_."
+
+                             [Illustration]
+
+This is very simple, but only in the rarest instances are stage
+directions so carefully worked out and indicated. The director will
+usually be confronted by long pages where there are few or no definite
+or dependable directions. The original text of Shakespeare affords us
+only the most elementary explanations of stage "business", so that when
+Shakespeare is produced it is wisest to use one of the many stage
+editions, in which the traditional directions, or others equally good,
+are given at some length. Usually, however, the director will be aided
+by directions which are fairly full and fairly accurate, but never quite
+dependable. The following excerpt--from "The Art of Being
+Bored"--contains the ordinary sort of directions, the kind that are
+found in good plays and bad. The set is described in the first act as
+being:
+
+    "_A drawing-room, with a large entrance at the back, opening
+    upon another room. Entrances up- and down-stage. To the left,
+    between the two doors, a piano. Right, an entrance down-stage;
+    farther up, a large alcove with a glazed door leading into the
+    garden; a table, on either side of which is a chair; to the
+    right, a small table and a sofa; arm-chairs, etc._"
+
+This may be plotted in the following manner:
+
+                             [Illustration]
+
+There are no specific directions as to the position of the sofa and
+chairs, but as a large number of characters are on the stage at one
+time, a great many will be necessary. The exact number of chairs, as
+well as the positions they will have to occupy, depend largely on the
+size and shape of the stage. The above diagram will serve at first as a
+working basis. Turning to the opening of the second act, we find the
+following directions:
+
+    (_Same as Act 1._
+
+    (_Bellac, Toulonnier, Roger, Paul Raymond, Madame de Ceran,
+    Madame de Loudan, Madame Arriego, the Duchess, Suzanne, Lucy,
+    Jeanne seated in a semi-circle, listening to Saint-Reault, who
+    is finishing his lecture_).
+
+                             [Illustration]
+
+    SAINT-REAULT. And, make no mistake about it! Profound as these
+    legends may appear because of their baffling exoticism, they are
+    merely--my illustrious father wrote in 1834--elemental,
+    primitive imaginings in comparison with the transcendental
+    conceptions of Brahmin lore, gathered together in the
+    Upanishads, or indeed in the eighteen Paranas of Vyasa, the
+    compiler of the Vedda.
+
+    JEANNE (_aside to Paul_). Are you asleep?
+
+    PAUL. No, no--I hear some kind of gibberish.
+
+    SAINT-REAULT. Such, in simple terminology, is the _concretum_ of
+    the doctrine of Buddha.--And at this point I shall close my
+    remarks.
+
+    (_Murmurs. Some of the audience rise_).
+
+Here two or three--Bellac and Roger, and one of the ladies, let us
+say--rise, and chat in undertones in a small group among themselves.
+
+    SEVERAL VOICES (_weakly_). Very good! Good!
+
+    SAINT-REAULT. And now--(_He coughs_).
+
+    MADAME DE CERAN (_eagerly_). You must be tired, Saint-Reault?
+
+At this, Madame de Ceran might well rise, as if to put an end to
+Saint-Reault's speech. The others are impatient, and perhaps one or two
+start to rise. The others whisper, or appear to do so. Then Saint-Reault
+continues:
+
+    SAINT-REAULT. Not at all, Countess!
+
+    MADAME ARRIEGO. Oh, yes, you must be; rest yourself. We can wait.
+
+It is likely that here Madame Arriego would rise and go to Saint-Reault.
+Two or three others would follow her.
+
+    SEVERAL VOICES. You must rest!
+
+    MADAME DE LOUDAN. You can't always remain in the clouds. Come
+    down to earth, Baron.
+
+    SAINT-REAULT. Thank you, but--well, you see, I had already
+    finished.
+
+                          (_Everybody rises_).
+
+Saint-Reault's audience may then form into small groups, somewhat as
+follows:
+
+                             [Illustration]
+
+Care must be taken not to give the stage a crowded appearance, nor yet
+an air of too well-ordered symmetry. To continue:
+
+    SEVERAL VOICES. So interesting!--A little
+    obscure!--Excellent!--Too long!
+
+    BELLAC (_to the ladies_). Too materialistic!
+
+    PAUL (_to Jeanne_). He's bungled it.
+
+    SUSANNE (_calling_). Monsieur Bellac!
+
+    BELLAC. Mademoiselle?
+
+    SUSANNE. Come here, near me.
+
+                        (_Bellac goes to her_).
+
+    ROGER (_aside to the Duchess_). Aunt!
+
+The direction "_aside to the Duchess_" shows that (1) Roger, after the
+company rose, either went to the Duchess; or that, (2) meantime he goes
+to her. This may be done either way, so long as the two are within
+reasonable whispering distance.
+
+    DUCHESS (_aside to Roger_). She's doing it on purpose!
+
+    SAINT-REAULT (_coming to table_). One word more! (_General
+    surprise. The audience sit down in silence and consternation_).
+
+Bearing in mind the change of position of Bellac, Roger, and
+Saint-Reault, we may reseat the characters as follows:
+
+                             [Illustration]
+
+While, as has been said, grouping depends to a great extent on the size
+and shape of the stage, it should always be borne in mind that the stage
+should in most cases be made to resemble a picture as regards balance
+and composition. This means that the director must avoid crowding; that
+the actors must learn to take their places as part of that picture, and
+not attempt either to usurp the center of the stage or to disappear
+behind other actors. No grouping should ever be left to chance or the
+inspiration of the moment; every actor must have marked down in his own
+script every movement he makes. Groups and crowds require a great deal
+of rehearsing, in order that they may always assume the right position
+at the right moment.
+
+When an impression of vast numbers of people is desired--as in "Julius
+Caesar"--large numbers of "supes" are not needed. Eight or ten or twelve
+people, well managed, are sufficient to create an effect of this sort on
+a small stage, and perhaps twenty on a large. The basic principle of the
+art of the theater is suggestion, not reproduction.
+
+In the "forum scene" of Shakespeare's "Julius Caesar" there are
+practically no stage directions. The management of the mob, therefore,
+is left entirely to the director. When the Third Citizen says: "The
+noble Brutus is ascended. Silence!" we are of course given to
+understand--by the word "Silence!"--that there has been some noise and
+confusion. The text affords the most important indications.
+
+Plot out, for practice, the position of the various members of the mob
+throughout this scene.
+
+As a rule, the best impression of a crowd is made by massing and
+manipulating groups of from three to six individuals. If movement is
+demanded, it must be precise and measured out carefully during
+rehearsals. Therefore, since it is nearly always impossible to get
+trained actors to compose mobs, it is well to intersperse two or three
+"leaders" in any crowd, who will give the cue for concerted action.
+
+The foregoing discussion, both in the present and preceding chapter, has
+been made largely from the director's and the stage manager's viewpoint.
+Let us now go back to the actor, and suggest a few methods which will
+help him.
+
+An easy and vivid way of remembering "business" at first is to make a
+very simple diagram, thus:
+
+                             [Illustration]
+
+Supposing A, who stands down-stage before the sofa, crosses up-stage to
+the small table, as he says: "I'll not stand it any longer!" Just after
+this line, the actor places a mark referring him to the margin of his
+"script", and makes another diagram:
+
+                             [Illustration]
+
+This represents A crossing to up-stage, left of the small table. In this
+way, when the actor is studying his lines, he cannot help studying the
+"business", and vice versa; and since lines and "business" almost always
+go hand in hand, he will run no danger of having first learned the one
+without the other.
+
+Considerable confusion is likely to arise when an overzealous director
+insists that his actors be "letter perfect" before the "business" is
+well formulated and worked out and thoroughly learned.
+
+In the first chapter on Rehearsing, the blocking-out process was
+discussed, but the order in which each act was to be rehearsed, the time
+to be spent on it, etc.--these matters were deferred, and will now be
+taken up.
+
+At the next rehearsal--that is, after the blocking-out of the first
+act--the second is treated in the same way. And after the last act has
+been blocked out, the first should be rehearsed with greater care.
+Details of "business", grouping, the delivery of lines--especially the
+correction of errors in interpretation--must be carefully considered.
+Probably some of the "business" blocked out in the first rehearsal will
+have to be changed, or at least amplified. Entrances and exits must be
+repeatedly rehearsed until they go smoothly. The crossings and
+recrossing of one, two, or more characters, can scarcely be rehearsed
+too often.
+
+Let us take a few examples of this sort of detail work. A man comes home
+late, tired and hungry. Outside the sitting room through an open door,
+is seen the hatrack. How can this simple incident be made to appear true
+and interesting? Here is at least one manner of accomplishing it: a door
+is heard closing off-stage; footsteps resound in the hall. A, the man,
+appears, wearing a hat, overcoat, and gloves, at the Center door, looks
+into the room to see whether any one is present, seems surprised, utters
+a short exclamation, and then turns to the hatrack. His back to the
+audience, he takes off his hat, hangs it carelessly on a hook, then
+slowly draws off his gloves, allows his coat to fall from his shoulders,
+looks at himself in the glass for an instant, and then, with a sigh,
+comes into the room again.
+
+The incident, of course, is capable of a hundred variations, depending
+upon the character of the man, the circumstances under which he comes
+home, and so forth.
+
+Or, a little more complicated instance: A, B, and C, three men, are
+seated, talking after dinner. They are stationed as follows:
+
+                             [Illustration]
+
+A sits on the arm of the davenport, B on the davenport itself, and C in
+a chair at the lower right-hand side of the table.
+
+Notice first that the davenport is not placed at right angles to the
+audience; this is done so that two people, sitting side by side, may be
+better seen by the "house." Notice, too, that A is at the extreme
+left-hand corner of the davenport. Visualize this for an instant: here
+is proportion, line, and balance, but without the appearance of
+stiffness or symmetry, which should always be avoided. B rises and
+stands before the fireplace: again notice the grouping:
+
+                             [Illustration]
+
+A then rises and goes to the center of the stage, standing near the left
+of the table:
+
+                             [Illustration]
+
+This simple moving about the room should never be obtrusive; that is to
+say, the audience must never be conscious of the director's hand. First,
+every bit of "business", every move, every gesture, must be justified,
+otherwise it calls attention to itself. This is a distinct problem with
+amateurs, who naturally find it difficult not to move about when they
+have nothing else to do. They feel self-conscious unless they are
+"acting." The best rule for any amateur--although it is again the
+director who is responsible and should look after this--is, never to do
+anything unless he knows precisely why he does it, and unless he _feels_
+it.
+
+One further example: imagine a five-minute conversation, in the text of
+which there are no stage directions. It is between two women: D and E.
+They are seated, one in an arm-chair by the fire, the other in an
+ordinary chair to the right of a library table:
+
+                             [Illustration]
+
+There are not many plays in which two characters _merely_ converse for
+so long a period without well-motivated reasons, but it is well to take
+an extreme example. Let us assume that D is telling E the story of her
+life, and that for two minutes her speech contains little more than
+straight narrative. Suddenly she tells a sad incident, and E, who has a
+sympathetic nature, wipes her eyes with her handkerchief. D continues,
+and E, no longer able to restrain her tears but not wishing to show her
+emotion to D, rises and goes to the left of the stage for a moment or
+two. The long conversation scene is now broken up by a natural bit of
+action. While in life such a conversation might consume hours, on the
+stage it must be made more attractive and emotionally stimulating; in
+the theater, the appeal is through the eye and ear, to the emotions.
+
+Such a scene as the one just outlined must be repeatedly rehearsed,
+until every detail of the "business" is worked out perfectly.
+
+After approximately ten days' work on the first act--during which period
+each of the other acts should be run through at least three times--the
+actors should be letter perfect and able to give a fairly smooth
+performance.
+
+Then the other acts are rehearsed in like manner. Each act, after it is
+finished in this way, must be rehearsed at least every three or four
+days. When all the acts have been worked out, then each rehearsal is
+devoted to going through the whole play. Minor points in acting, minor
+"business", rendering of the lines, voice, gesture, etc., must naturally
+be insisted upon. Special cases must be dealt with outside the regular
+rehearsals, for the play should be interrupted as seldom as possible,
+because it is wise to let the actors become accustomed to going through
+the entire piece. It will be found expeditious, too, for small groups of
+characters who have scenes together to rehearse by themselves. The full
+rehearsals of the play are valuable both to actors and the director, for
+the latter is given a general view of his stage pictures which could in
+no other way be afforded him, and he is in a position to judge of his
+general and massed effects. At the same time the actors will more
+readily enter into the spirit of the work if they are permitted to play
+without interruption. Where the actors forget their lines, they should
+be prompted without other delay, but if they do anything actually wrong,
+or if the director wishes to make an important change, the performance
+must, of course, be stopped for a moment.
+
+The number of rehearsals necessary for the production of a play by
+amateurs depends largely on the attitude of the amateurs themselves, and
+the amount of time at their disposal. It is safe to say that ninety-nine
+out of a hundred such performances suffer noticeably from need of
+rehearsing. Nor is this to be wondered at, for the average professional
+play usually requires four or five weeks' rehearsing--seven to eight
+hours daily--for six and sometimes seven days in the week! Of course, an
+amateur is an amateur because he is not a professional, and he cannot
+afford very much time for work which is after all only a pastime. One
+other point should be well borne in mind: the average amateur has not
+the patience of the professional. If he is rehearsed too long or too
+steadily, he will grow "stale", and lose interest in his work.
+
+Still, no full-length play can safely be produced with less than four
+weeks' work, on an average of five rehearsals of three hours each, per
+week. (This does not include special and individual outside rehearsals.)
+Four weeks is the shortest time that can be allowed, while six or seven
+should be devoted to it. So much time is not necessary in order that the
+company may attempt to become professionals; that would be impossible
+and not at all advisable. The amateur, if rightly trained, should be
+able to impart a certain natural, naive, unprofessional tone to the part
+he is impersonating, but this can only be done by constant rehearsing.
+The director usually finds that the amateur's first instinct is to
+imitate the tricks of the professional actor, and not allow himself to
+_feel_ the character of the role. The professional quickly assimilates
+mannerisms which are only too likely to become mechanical, but which the
+amateur, because he is an amateur, is not likely to learn, if at first
+he is trained to avoid them.
+
+There is no particular excuse for presenting plays which can be seen
+acted anywhere and any time by professionals; amateurs should strive to
+produce classics, or modern plays which for one reason or another are
+not often seen, and impart to them that peculiar flavor which charms as
+well as interests and attracts. Nor is there much use in the amateur
+actor's striving to become professional in manner: he cannot hope, in
+the short time he can spare for his work, to become a good professional;
+or, if he gives signs of becoming such, then he no longer belongs in
+amateur dramatics. Allow the amateur plenty of leeway in the matter of
+interpretation, if he has any original ideas of his own; but of course
+these must never be at variance with the general idea of the play. Let
+him work out his own salvation: here lies the value of amateur
+production, both to the actor and to the audience.
+
+Often amateurs are called upon to portray feelings, actions, passions,
+of which they have no knowledge or experience. Love scenes, for
+instance, are invariably difficult. In this case, the actors must be
+taught a few conventional gestures, attitudes, and tricks, but they
+should not be permitted--except in rare cases--to lay much stress on the
+acting. This also applies to such purely conventional matters as
+kissing, dying, fighting, etc., for which a set of recognized technical
+tricks has been evolved. Any competent director can train actors to do
+this.
+
+One more point before this part of rehearsing is dispensed with: amateur
+productions suffer largely from a lack of continuous tension and
+variety. Often the action is slow, jerky, and consequently tedious.
+Constant rehearsing, with a view to inspiring greater confidence and
+sureness in the actors, under a good director, is the best means to
+overcome these great drawbacks. The last eight or ten rehearsals, after
+the cast are familiar with their lines and "business", are the most
+important in the matter of tempo. Details of shading, well-developed and
+modulated action, and a well-defined climax, are what must be worked
+for. When the actors are no longer thinking of when they must cross or
+sit down or rise, they are ready to enter whole-heartedly into the
+spirit of the play as an artistic unit.
+
+As an example, on a small scale, of how a scene may be modulated and
+shaded, two pages from Meilhac and Halevy's "Indian Summer" (published
+by Samuel French) are here reprinted with marginal notes explaining how
+these effects are obtained.
+
+                    {ADR. Just a moment ago I forgot that such a thing
+                    {was out of the question--
+  _Slowly_          {
+  _and_             {BRI. Why out of the question--?
+  _quietly._        {
+                    {ADR. Why, because--
+
+                    {BRI. Because what? How much did that American
+  _Slight increase_ {family pay you? I'll give you twice as much--three
+  _of_              {times as much. Whatever you want!
+  _speed and_       {
+  _tension._        {ADR. Only to read to you?
+                    {
+                    {BRI. Why, yes.
+
+                    {ADR. That wouldn't be so bad--there's just one
+                    {thing against it--it might be just a wee bit
+                    {compromising!
+                    {
+  _Slowly_          {BRI. Oh!
+  _rising_          {
+  _tension_         {ADR. Really, don't you think so? Just a bit?
+  _and speed._      {
+                    {BRI. At my age?
+                    {
+                    {ADR. (_gaily_). Oh, it's all very well--a young
+                    {person like me--alone with you. (_Seriously._) Oh,
+                    {if you only didn't live alone--!
+                    {
+  _Staccato._       {BRI. If I--? If I weren't alone?
+
+                    {ADR. If you only had some relatives--married
+                    {relatives--your nephew, for instance, with his
+                    {wife--then I might--
+
+                    {BRI. Once more, don't speak to me of--! He's the
+                    {one that brought all this trouble on us--that
+                    {letter that forces you to--that letter came from
+  _Emphasis._       {him. (ADRIENNE _makes a quick movement of
+                    {protest_.) 'Tisn't his fault, I know, but I hold
+                    {a grudge against him as if it were--
+
+  _Momentary_       {ADR. And yet, if I told you--
+  _pause._          {
+                    {BRI. (_stopping her_). Shh! If you please.
+                    {(_Pause._)
+
+                    {ADR. (_moved_). Then I must go. That was the only
+  _Diminuendo._     {way; and you don't want to do that. I'm sure I
+  _Tense,_          {don't know what will happen afterward. I still
+  _but quiet._      {hope--But for the moment, I must (_Mild access of
+                    {crying_). Oh I'm sorry--so sorry--(_Falls into
+                    {chair at side of table_).
+
+                    {BRI. (_excitedly_). Adrienne!
+  _Slight increase_ {
+  _again._          {ADR. (_recovering mastery over herself_). I beg
+                    {your pardon--there! There! (_Brushing away her
+                    {tears_).See, it's all over!
+
+                    {BRI. Adrienne!
+                    {
+                    {ADR. (_rising_). Monsieur!
+                    {
+                    {BRI. It's true, then, if there were some way, you
+                    {would--? Not the way I mentioned just now--but
+                    {another--you wouldn't leave, would you? You'd
+  _Quickly_         {stay here--near me--always--and be happy?
+  _increasing_      {
+  _rise._           {ADR. (_lightly_). Oh yes, it's too--I say it from
+                    {the bottom of my heart!
+                    {
+                    {BRI. Very well, you shan't go.
+                    {
+  _Quickly._        {ADR. I--?
+                    {
+                    {BRI. No, you shan't go.
+                    {
+                    {ADR. But--how?--Why?
+
+                    {BRI. I have found a way!
+  _Moment_          {
+  _of suspense._    {ADR. And it is?
+
+                    {BRI. To make you my wife!
+  _Climax._         {
+                    {ADR. (_Sits down again, overcome_).
+
+                    {BRI. I'll do it!--Go and speak to your Aunt--Here!
+                    {Come here! (_Enter_ NOEL, _right, carrying a
+                    {bundle of papers_). Come here! Don't be afraid! You
+                    {may go and get your wife. Bring her here! I'll
+                    {forgive her as I forgive you! (_Shakes hands warmly
+                    {with_ NOEL).
+                    {
+  _High tension_    {NOEL. Uncle!
+  _after_           {
+  _the_             {BRI. You were right--now I know it! What do I
+  _climax,_         {care if she is a watchmaker's daughter? Go and get
+  _and preparatory_ {your wife--bring her here--and we'll live together,
+  _to another_      {the four of us us--
+  _climax_          {
+  _later on._       {NOEL. All four of us?
+                    {
+                    {BRI. Yes, all four! (_To_ ADRIENNE). I am going
+                    {to speak to your Aunt--I'll be back at once.
+                    {(_Exit Center_).
+
+
+
+
+[Illustration: "SISTER BEATRICE" OF MAETERLINCK, PRODUCED AT THE
+WESTERN RESERVE COLLEGE FOR WOMEN.
+
+The simple hangings produce a good cyclorama effect. (Courtesy of Miss
+Ida Treat).]
+
+
+
+
+                               CHAPTER VI
+
+                               REHEARSING
+
+                                  III
+
+
+The dress rehearsal usually takes place on the night before the regular
+performance.
+
+Every effort must be made on this occasion to have conditions, on the
+stage and behind it, as nearly as possible like those under which the
+play is to be given. Scenery, lighting, costumes, must all be ready, and
+the performance carried through with as few interruptions as the
+director can afford to make. The director should be in the back of the
+"house", and stop the players only when they do something absolutely
+wrong. It is very unwise to change lines or "business" at this eleventh
+hour. The stage manager and his assistants must be in their assigned
+places, the lights manipulated, actors "called", the curtain rung up and
+down on schedule. The director watches the general effects, sees that
+the stage is not crowded, that the lights are in order, and above all,
+watches the tempo of the performance.
+
+The actors must be informed that on the occasion of the performance the
+audience is likely to distract them by applause, laughter, etc., and
+that they, the actors, must pause for a moment when there is any such
+interruption. A little advice as to resting, not worrying about lines,
+etc., will not be out of place.
+
+Besides the _acting_ dress rehearsal, there should be a scene and light
+rehearsal. This is merely for the assistants behind the stage. The
+different scenes (if there is more than one) should be set and "struck"
+(taken down), furniture and "props" stationed, lights worked, exactly as
+they are to be on the following night. Everything should go according to
+clockwork, the stage manager "holding the book" on all his assistants.
+
+The performance should begin on time. Every one knows the irksome delay
+usually incident to amateur performances, and it ought to be the object
+of every director to remedy a defect which is inherent in our usual
+slipshod method of reproducing plays. Promptness is the prime requisite
+of efficiency, and the production of plays is successful only when the
+component elements are organized on a sort of military basis. The actors
+must be in the theater on time, and "made-up" in costume, at least half
+an hour before the curtain rises. It is well for each actor to see the
+property man and make sure that all the "props" necessary to his part
+are in readiness. The property man himself must also check up his list
+for the last time, in order to avoid confusion during the performance.
+
+When everything is in order, there is little more to be done. The
+director might make a few general remarks to the cast, endeavor to
+inspire them with confidence and impress upon them the necessity of
+playing together harmoniously, and so on, but if his work has been well
+done during rehearsals, this will not be necessary.
+
+The prompter must follow the play line for line and be ready to prompt
+any actor who forgets his part. It is well for the stage manager to be
+near the prompter, in order that every cue for lighting, "business"
+off-stage--like ringing bells, shooting, etc.--may be acted upon as
+required.
+
+
+
+
+                             [Illustration]
+
+[Illustration: TWO VIEWS OF THE STAGE AT TUFTS COLLEGE, SHOWING PLENTY
+OF OPEN SPACE FOR THE STORING AND SHIFTING OF SCENERY.
+
+(Courtesy of L. R. Lewis).]
+
+
+
+
+                              CHAPTER VII
+
+                               THE STAGE
+
+
+A great deal more attention is being directed--in this country, at
+least--to the improvement of the physical requirements of the stage than
+heretofore. During the past few years, numerous writers[10] have made a
+systematic study of theaters abroad and at home, and revealed the fact
+that on the whole our theaters, both before and behind the curtain, are
+antiquated, ill-equipped, and fall far short of the infinite
+possibilities which have been made realized in certain cities of Germany
+and Russia.
+
+    [10] Hiram Kelly Moderwell, in his "The Theatre of To-day"
+        (Lane), and Sheldon Cheney, in his "The Modern Movement in the
+        Theatre" (Kennerley), have rendered signal service in this
+        field. The first book contains a thoroughly systematic account
+        of practically all the new theatrical experiments.
+
+Revolutionary experiments in lighting, as well as in the disposition of
+stage settings, have, during the past ten or twelve years, opened up
+fields formerly undreamed of.
+
+It is not the purpose of this chapter to describe at great length these
+innovations; the reader is referred to the books of Moderwell and Cheney
+mentioned in the footnote above. A few elementary suggestions, however,
+which may be used by skilled and intelligent amateurs, will prove
+suggestive to the average director and stage manager.
+
+It is likely that by far the greater number of amateur plays will be
+performed on a stage which is already built and equipped. In such cases,
+all the stage manager can do is to use his own scenery and at least have
+a voice in the matter of lighting. Still, many plays are performed on
+improvised stages, in private homes, clubs, or schoolrooms, or
+out-of-doors. This allows the stage manager a little more leeway, and
+often he may modify the size of the stage to suit himself, and introduce
+some innovations of his own.
+
+To those who are in a position either to build or temporarily construct
+their own stages, this chapter is primarily addressed.
+
+We shall now proceed to a consideration of a few of the more important
+innovations on the modern stage. The first of these is undoubtedly:
+
+=The Cyclorama.= This is "a white or tinted backing for the stage, built
+in the form of a segment of a vertical cylinder. It may be constructed
+of canvas or of solid plaster.... Now, if made of canvas, it is more
+usually kept, when not in use, on a vertical roller, at one side of the
+stage, near the front, and carried around behind the stage, unrolling
+from its cylinder the while, until it connects with a similar cylinder
+at the opposite side of the stage. It hangs from a circular iron rail,
+and almost completely encloses the stage, rising to the required
+distance.... It can be rolled up on its original cylinder when it is not
+needed, leaving the stage once more approachable from all sides.... The
+chief uses of the cyclorama are evident. It presents a continuous dead
+white or tinted background, which, when played upon by the proper
+lights, gives a striking illusion of depth and luminous atmosphere....
+But perhaps the chief value of the cyclorama, from the standpoint of the
+stage artist, has not yet been mentioned. For the new device changes
+altogether the problem of lighting. Ordinary sunlight is, as we know,
+not a direct light, but an infinitely reflected light, bandied about by
+the particles of air and by the ordinary physical objects on which it
+strikes. The mellowness and internal luminosity of ordinary sunlight is
+wholly due to this infinite reflection. It was the lack of this that
+made the old stage lighting, with its blazing direct artificial glare,
+so unreal. The cyclorama, and especially the dome cyclorama, permits the
+stage to be lighted largely or wholly by crisscrossing reflection. The
+mellow and subtle lighting which makes it possible was altogether
+unknown under the older methods."[11]
+
+    [11] Moderwell's "The Theatre of To-day." John Lane Company.
+
+The construction of a cyclorama, either of cloth or of plaster, is
+rather difficult, but there are certain simple substitutes which may be
+used to secure some of its elementary effects. The following system has
+been used by some amateurs with signal success.
+
+First take a wooden rod, or better, iron pipes, curved to the desired
+shape.
+
+Fasten this framework either to the ceiling of the "loft" or, if that is
+too high, to the wings. On the rod hang curtains of burlap, or some
+similar material, or else two or three thicknesses of cheesecloth, so
+that they fall in simple folds. The color will depend on the sort of
+play to be produced and the kind of lights used. As a rule, dark tan,
+green, or dark red are the best colors, and can be used on many
+occasions and for nearly every sort of play. Whether the "cyclorama"
+thus improvised be permanent or temporary, this is one of the best
+possible backgrounds. In out-of-door scenes, it gives a suggestion of
+distance.
+
+                             [Illustration]
+
+In Constance D'Arcy Mackay's book on "Costumes and Scenery for Amateurs"
+the author describes how a "desert and oasis" scene can be made from the
+simplest means:
+
+    "A plain sand-colored floor cloth. A backdrop or cyclorama of
+    sky-blue against which very low sand mounds appearing as if at
+    great distance, with palm trees, also made small by distance.
+    These mounds and palm trees should be painted low on the
+    backdrop, since a vast stretch of level sand is what is to be
+    suggested. It would even be possible to use a plain blue sky
+    drop, and run some sand-colored cambric into mounds across the
+    back of the stage, so as to break the sky line."
+
+It is not necessary, though, to _paint_ the cyclorama: darker cloth,
+made to represent mounds, thrown across the lower part of the cyclorama,
+would be equally effective. Further examples of what can be done with
+the cyclorama will be cited in the chapter on "Lighting."
+
+Another of the recent innovations which is of particular value to
+amateurs is the system by which the proscenium opening can be made large
+or small, according to the demands of the play. Usually the proscenium
+looks like the following diagram.
+
+[Illustration: AN ORDINARY BOX-SET. FROM DUMAS _FILS'_ "THE MONEY
+QUESTION", PRODUCED AT TUFTS COLLEGE.
+
+(Courtesy of L. R. Lewis).]
+
+Suppose one scene of a play calls for a large courtroom filled with
+people. Obviously, all the stage space is required. But suppose that the
+next scene is a small antechamber. On the average stage the discrepancy
+is at once observed, and the effect is more than likely ridiculous. Even
+if the sets used are "box sets" (that is, with three walls and not mere
+conventional screens or curtains), the effect of great size can easily
+be obtained in the first scene, and smallness in the second, by means of
+the device about to be described. This applies, of course, to plays
+where the same set must be used for both scenes. If, however, a
+different set is used for the antechamber scene, the new device is
+imperative.
+
+                             [Illustration]
+
+First, construct two tall screens (on a wooden framework), made either
+of painted canvas or draped cloth, of some dark and subdued tone, and
+place them on each side of the stage, just behind the proscenium arch,
+as in the diagram:
+
+                             [Illustration]
+
+These screens can be easily set closer to the center of the stage,
+thereby diminishing its size on the sides. Then the "grand drapery"
+above, which hangs down from behind the top of the proscenium arch, and
+which should be of the same color and material as the side screens, is
+lowered. This process makes, from the inside, a smaller proscenium arch.
+Many of the German and some other stages have added a fourth side to
+this frame, by "boxing" the footlights:
+
+                             [Illustration]
+
+This last, besides giving the effect of a detached picture to the set,
+prevents the direct rays of the footlights, when they are used, from
+shining up into the gallery.
+
+To return to the smaller scene made by the inner proscenium arch, it
+will readily be seen that the cyclorama--if there is one--or back wall
+of the set, or else the curtain, must usually be brought forward a
+little. The advantage of the inner proscenium becomes apparent when such
+a play as "The Merchant of Venice" is performed, and the absurdity of
+using a stage of the same size for the Portia-Nerissa scene in the first
+act and the casket scene, is forcibly brought to our attention.
+
+=The Revolving Stage= and =The Wagon Stage=. These are fully described
+in the books which have been referred to. They are both extremely
+valuable, but as yet too complicated and expensive to be seriously
+considered for amateurs.
+
+The introduction of simpler scenery and simpler lighting does away with
+much that was difficult to manage under the old system, and a few
+well-trained amateurs should be able to set and attend to almost any
+production without having recourse to the revolving stage and the
+"wagons."
+
+As much space as possible should be kept clear behind the curtain;
+occasions are likely to arise when the entire stage may be used, and
+manipulation of scenery on a full stage is a difficult task.
+
+A few suggestions as to lighting and its relation to scenery and color
+and action will be set forth in the next chapter.
+
+
+
+
+                              CHAPTER VIII
+
+                                LIGHTING
+
+
+It has been rightly urged that recent inventions and discoveries in
+lighting constitute the greatest contribution to the modern art of the
+theater. This manual is intended primarily to help the producer and the
+actor, but the present short chapter may assist the former or his
+associates in their effort to improve the physical conditions of the
+stage.
+
+The prevalent system of using footlights and border lights is on the
+whole bad, because it is false, unnatural, and above all unnecessary.
+Says Moderwell (pages 107-108, in "The Theatre of To-day"):
+
+    "Before we can begin work in artistic lighting we must do some
+    destroying. One element in the old lighting must go, and go
+    completely. We can say this with careless ease now that the
+    Fortuny system has given us a better way. But even before this
+    invention was made known, the case against the footlights must
+    have been obvious to any sensitive man of the theatre; that the
+    'foots' continued as long as they did indicates the stagnation
+    of the old theatre in all but purely literary art.
+
+    [Illustration: From "The Architectural Review."
+    OPERATION OF THE FORTUNY INDIRECT LIGHTING SYSTEM.]
+
+    "The footlights, with their corresponding border lights from
+    above, give a flat illumination. They make figures visible, but
+    not living; they destroy that most precious quality of the
+    sculptor, relief.... It is the shadows, the nooks and crannies
+    of light and shade, that show a figure to be solid and plastic."
+
+The Fortuny system mentioned is a device by which light is reflected and
+diffused: "An arc-lamp and several pieces of cloth of various
+colours--these comprise the Fortuny apparatus in its simplest form."
+While only an expert electrician and, if the effects are to be artistic,
+an artist, can erect and manipulate a system built on Fortuny's
+principles, still amateur electricians and directors should do their
+best, by means of experimentation, to use indirect lighting.
+
+Just how this can be done must rest with individuals, but two or three
+experiments may be briefly described.
+
+Suppose that the cyclorama, or the hangings masking the back of the
+stage, are made of white or light-colored cloth. In this case, an arc
+lamp or ordinary calcium light can be placed up in the loft, above the
+top of the cyclorama, and behind it. A little experimenting will reveal
+many striking light effects. If one light or lamp is not sufficient,
+others can be placed in various positions to reenforce it. As conditions
+vary so greatly, it is impossible to supply more concise directions.
+
+Where box sets are used in which there is at least one window, and
+provided the scene does not take place at night, it is much better to
+have all, or at least an appreciable portion of the light come in
+through one window. In the second act of Charles Klein's "The Music
+Master" played by David Warfield and produced by David Belasco, the
+stage was at one time brilliantly lighted, supposedly by sunshine from
+the outside, from the two opposite sides of the stage! If, however,
+screens and curtains are used (see chapter on "Scenery and Costumes"),
+then it is best to introduce some sort of central reflected light. To
+station lights on all sides of the stage will first of all make the
+stage too bright, and furthermore produce unnatural and distorted
+shadows: there is no chance for effects of relief or any illusion of
+plasticity. If possible, the footlights should be entirely eliminated;
+if not, then most sparingly used. Our stages are for the most part
+overlighted.
+
+The production of Lady Gregory's "The Rising of the Moon" by the Irish
+Players was one of the simplest and at the same time most effective of
+stage pictures. The following diagram will show in a rough way the
+general disposition of the settings:
+
+                             [Illustration]
+
+The back of the stage (the shaded area) was flooded with white light to
+suggest moonlight. There were no "foots" or "borders"; anything besides
+the single light would have ruined the effect of perfect placidity.
+
+
+
+
+                               CHAPTER IX
+
+                          SCENERY AND COSTUMES
+
+
+Very little need be said regarding the usual conventional sets, whether
+they represent interiors or exteriors. The purpose of this chapter is
+(1) to suggest simple but effective means of staging without using the
+conventional sets, and (2) to lay down a few principles as to costuming.
+
+By means of the simple devices about to be described, the amateur is
+enabled to do without "box sets" and all the paraphernalia of the old
+stage. The tendency nowadays is away from naturalism in setting; the aim
+is rather to supply simple but beautiful backgrounds with as little
+obvious effort as possible; to suggest rather than to represent. When
+the word "conventional" is used it is intended to convey the meaning not
+of "old" and "hackneyed", but of "simple", "suggestive." Beardsley's
+drawings are conventional because attitudes and lines are
+conventionalized.
+
+In the main, there are three sorts of setting which may be used for
+practically all kinds of plays. They have been successfully tried out on
+numerous occasions, and few plays have been found which cannot fit at
+least one of them.
+
+1. The first and simplest of them all consists of draperies and tall
+screens. The Greek classics and Shakespeare are particularly effective
+with this sort of background. Where Greek plays are given, a peristyle
+of wooden pillars up-stage, behind which may be hung white or tinted
+curtains, is especially desirable. Any Greek, and most Latin plays, can
+be produced with this setting. Often such plays are given in the open.
+If the performance takes place in the daylight, there is no difficulty
+as to artificial lighting; but if it is at night, then a flood-light
+must cover the stage. This is placed toward the back, or else behind the
+audience.
+
+Shakespeare is seen at his best with the simple background. A sort of
+cyclorama may be constructed by using curtains hung at the back of the
+stage, upon which is thrown light from one place: behind the proscenium
+arch, from above, or from one of the sides. Suppose that "The Comedy of
+Errors" is the play to be performed. The first scene of the first act is
+"_A hall in the Duke's palace_." This, of course, should be printed on
+the program, but on the stage all that is needed is a suggestion or two,
+like a gilded chair, and a painted white bench or two. These are not
+needed in the action, but they serve to create an atmosphere. The second
+scene is "_A public place_." Absolutely no "props" or furniture are
+needed; indeed, their very absence indicates the "place." The first
+scene of the second act is the same. The curtains around the stage must
+be made in sections, in order to allow the actors to enter and exit
+through them. The lines are always sufficient to indicate where a person
+is coming from or going to. In the first scene of the third act, Dromio
+of Syracuse says:
+
+    DRO. S. (_within_). Mome, malt-horse, capon, coxcomb, idiot, patch!
+    Either get thee from the door, or sit down at the hatch:
+    Dost thou conjure for wenches, that thou call'st for such store,
+    When one is one too many? Go, get thee from the door.
+
+A house is evidently intended to be represented, but it is not necessary
+that we see it: Dromio of Syracuse can speak from behind the curtain.
+The convention will readily be accepted. Nor is it necessary to
+differentiate the various "public places", except for the sake of
+variety: perhaps a bench or two now and then will accomplish this
+purpose. And when, in the first scene of the fifth act, the public place
+is "_before an abbey_", still there is no need of any definite set
+pieces. From time to time, doubtless some special article of furniture
+or set piece of some kind will be mentioned in the text, not elsewhere,
+in which case it can easily be supplied.
+
+This "Shakespeare-without-scenery" is not the only method by which
+Shakespeare can be performed, but it is the easiest and, if done with
+taste, the most effective.
+
+Let us now take rather a more difficult play, "Twelfth Night." The first
+scene of the first act is "_An apartment in the Duke's palace_." The
+Duke sits on a sort of throne or sofa. In Max Reinhardt's production of
+this play at the Deutsches Theater in Berlin, the set consisted simply
+of a semicircular lounge extending all the way across the stage. It was
+covered with dark blue plush; the hangings were of the same color. A
+warm yellow light directed from above flooded the stage.
+
+Either a throne or sofa for the Duke, then, and a few other chairs for
+the remaining characters, who sit down--the musicians stand--or else,
+following Reinhardt, a semicircular lounge. This is all. The second
+scene is "_The seacoast_." The stage is bare here. The third scene is
+"_A room in Olivia's house_." Different chairs or sofas and a throne for
+Olivia. The following scene is the same as scene one. The first scene of
+the second act is the seacoast once more. The next is "_A street_." No
+furniture. The third scene is "_A room in Olivia's house_"; evidently
+not the same as that in which Olivia first appeared. The room is
+probably in or near the wine cellar. A table, therefore, and three or
+four chairs, will not be amiss. The next is the same as in act one,
+scene one. The fifth scene of the second act is "_Olivia's garden_."
+Here the stage business requires a few definitely placed shrubs and a
+bench or two. The best arrangement of this scene is suggested in the
+diagram:
+
+                             [Illustration]
+
+Malvolio comes down-stage Center, while the others are hiding behind one
+of the benches, either Left or Right. These benches, as indicated in the
+diagram, are partially concealed by shrubs. Baytrees, planted in
+green-painted tubs, make especially good decorations. They can be used
+on many occasions, as will be shown later. Nor, in the case of the scene
+from "Twelfth Night", are they so high as to conceal the actors who are
+supposed to be hidden behind them. The following scene is the same. The
+second scene of the third act is the cellar room again. Following this
+is "_A street_"; then "_Olivia's garden_" once more. The next new scene
+is the first of the fourth act: "_A street before Olivia's garden_."
+Perhaps a little variety can be introduced in the shape of a shrub or
+two. The remaining scenes are repetitions of those already considered.
+
+The suggestions above given are extremely summary, but, if acted upon,
+will be seen to prove sufficient.
+
+2. Out-of-door scenes of a more elaborate character, in plays like
+Rostand's "The Romancers", often require more complicated sets; they may
+still be produced with the most elementary sort of background, however.
+The stage directions of this play are as follows:
+
+    SCENE: _The stage is divided by an old wall, covered with vines
+    and flowers._ _At the right, a corner of_ =BERGAMIN'S= _park is
+    seen; at the left, a corner of_ PASQUINOT'S. _On each side of
+    the wall, and against it, is a rustic bench._
+
+This is set in the following manner:
+
+                             [Illustration]
+
+The background hangings may be of tan burlap or else dark green. Gaps,
+covered by the folds, must be made up- and down-stage to allow the
+actors to enter and leave the stage. The wall must be constructed of
+solid wood, in order to support the actors, and painted to suggest
+bricks. There is a rustic bench against each side of the wall. Though
+they are not mentioned in these preliminary directions, there are other
+rustic benches, down-stage to the extreme right and left. These are used
+later in the act.
+
+In the second act, "_the wall has disappeared_. _The benches which were
+formerly against it, are removed to the extreme right and left._ [The
+extra benches mentioned in the first act have of course been removed.]
+_There are a few extra pots of flowers and two or three plaster statues.
+To the right is a small garden table, with chairs about it._" This scene
+is set as follows:
+
+                             [Illustration]
+
+The third act stage directions are: "_The scene is the same except that
+the wall is being rebuilt. Bricks and sacks of plaster lie about_." A
+few bricks may serve to indicate the partly finished wall.
+
+Since the scene of this play is laid at first in parks, there ought to
+be some suggestion as to this fact. Here bay- or box-trees can be used.
+Perhaps three or four should be arranged more or less symmetrically at
+the back of the stage, and as many to the right and left, down-stage.
+One or two can be added, close to the wall. This is all that is
+absolutely necessary.
+
+The foregoing remarks have been applied largely to romantic plays, but
+what is to be done in modern realistic pieces? There are two courses
+open, besides the conventional one (using box sets):
+
+The first method is to use the regular hangings as before and set a few
+needful articles of furniture about the stage. This is not realistic,
+but there are many realistic plays which can be produced without
+correspondingly realistic settings. Of course, where windows are
+referred to and used, there must be real windows, and where a character
+is directed to hang a picture on a wall, there must be a wall. However,
+there are many realistic plays where box sets are not required. Hermann
+Sudermann's "The Far-away Princess" is a case in question. The author
+has definitely suggested a certain setting for the play, but as his
+suggestions are not absolutely essential they may be modified. The
+directions are:
+
+    "_The veranda of an inn. The right side of the stage and half of
+    the background represent a framework of glass enclosing the
+    veranda. The left side and the other half of the background
+    represent the stone walls of the house. To the_ _left, in the
+    foreground, a door; another door in the background, at the left.
+    On the left, back, a buffet and serving table. Neat little
+    tables and small iron chairs for visitors are placed about the
+    veranda. On the right, in the centre, a large telescope,
+    standing on a tripod, is directed through an open window._ ROSA,
+    _dressed in the costume of the country, is arranging flowers on
+    the small tables_. FRAU LINDEMANN, _a handsome, stoutish woman
+    in the thirties, hurries in excitedly from the left_."
+
+If the dramatist's stage directions are implicitly followed, a realistic
+set will be required. The scene as set according to the diagram, has,
+however, often been used:
+
+                             [Illustration]
+
+Once more, the little shrubs may be used in order to give an atmosphere
+of outdoors.
+
+Or, to take an example of a "modern-interior" play in which the same
+conventionalized scenery may be used to advantage--Alfred Capus'
+"Brignol and his Daughter" (published by French) is set as follows:
+
+    SCENE: _An office, fitted up with various articles of parlor
+    furniture--rather pretentious in appearance. To the right, a
+    table with letter-files, and a safe; beside the safe, a
+    bookshelf. At the back is the main entrance; there are other
+    doors, right and left, one opening upon a bed-room, the other
+    upon the parlor._
+
+Here the setting is so usual, so conventional, that no _actual_ room is
+required: merely the table, chairs, safe, etc., as called for. Of
+course, it is not imperative that such plays should be set in this
+manner: the arrangement with screens about to be described is usually
+the best way. The point here to be impressed is that realistic sets are
+not always required for realistic plays.
+
+3. By the introduction of screens--not to be confused with the large
+screens mentioned by Gordon Craig, however--practically any realistic
+play can be produced. The diagram below will afford some idea of the
+very simple principle:
+
+                             [Illustration]
+
+Three screens, about seven feet high, made in three sections, and
+covered with burlap or some similar material, are all that will usually
+be required on a moderately small stage. These can be set in various
+ways. If an ordinary room is called for, they may be set as in the above
+diagram.
+
+"Brignol and his Daughter" may be staged by using three screens (as in
+the diagram above): the opening at the back is the center door; the
+doors on the right and left are the openings left between the lower ends
+of the side screens and the inside of the proscenium arch. The furniture
+is set in this scene as it is required in the stage directions. If the
+proscenium opening is too large, then the grand drapery can be lowered
+to within two or three feet of the top of the screens, and the side
+screens, behind the sides of the proscenium arch, brought closer
+together. Behind the screens representing the room, burlap or a suitable
+substitute may be hung. To take concrete examples once more, the setting
+of the first act of "A Scrap of Paper" (the adaptation by J. Palgrave
+Simpson) is thus described in the text:
+
+    _Drawing-room in a French country house. Windows to the floor,
+    R.C._ [Right Center] _and L.C._ [Left Center], _at back, looking
+    out on gardens and park. The window L.C. is at first closed in
+    with barred Venetian shutters. The window R.C. opens on the
+    garden. Fireplace, C._ [Center] _between the windows, surmounted
+    by a mirror. On each side of the mirror is a bracket, within
+    reach of the hand; the one R. supporting a statuette of_ FLORA,
+    _the other, L., empty. Doors, R. 2 E_ [See diagram] _and L. 2 E.
+    Sofas R. and L. up-stage. At C. of stage is a round table, with
+    a lamp, and an embroidery frame, a book and other objects
+    scattered upon it in great disorder. Chairs R. and L. of table.
+    Arm chairs R.C. and L.C., downstage. The furniture is to be rich
+    but old-fashioned, and a little worn. Carpet down._
+
+Five screens are here required: one at the back, behind the fireplace;
+and two on each side of the stage. Only two of the three folding
+sections of each are used.
+
+                             [Illustration]
+
+The fireplace must be "practical"--that is, it must have a wooden
+framework. In case a mirror is desired, it can be lower than a mirror
+usually is, and made of mosquito netting, to avoid reflections. A very
+few pictures may be hung on the screens. The hangings at the back of the
+stage--masking the bare walls--are of the same sort as have been
+described before, but the color of the screens must harmonize with them.
+
+With such a background, and by means of screens, shrubs, and a few
+necessary set pieces, like the wall in the Rostand play, the author has
+seen a dozen widely different plays produced by amateurs, in not one of
+which was the slightest noticeable discrepancy or anything that would
+shock even the theatergoer who is accustomed to the elaborate and often
+unnecessary settings of David Belasco.
+
+As may be easily imagined, the possibilities of variation upon these
+simple settings are infinite. Experimentation, as always, will reveal
+new fields.
+
+
+
+Before closing the chapter, a word may be said of the flat background
+near the curtain line. About four or five feet behind the curtain
+line--_i.e._ the place where the curtain falls to the stage--hang a
+drop, either of burlap, or else a white drop like that used in
+stereopticon lectures. This, either played upon by lights in "the
+house", or from behind the stage, forms a striking background for scenes
+of pantomime, a street--as in "Twelfth Night"--a wall, a forest, almost
+anything. Such a screen was most effectively used in one scene of
+Reinhardt's production of "Sumurun." A still more striking effect was
+achieved in a performance of "Peer Gynt" at the Lessing Theater in
+Berlin. The scene was the one in which Peer Gynt is before the pyramid
+in Egypt. About five feet behind the curtain line a white screen was
+dropped. Diagonally across this screen was thrown a dark purple light,
+while over the remaining space a saffron yellow played. That was all,
+but the suggestion of the vast shadow of the pyramid and the yellow
+sunlight and the yellow sands of Egypt was far more impressive than any
+_representation_ of the pyramid and desert could be.
+
+In case the effect of a distant city is desired, then another (darker
+and thicker) cloth, cut to represent the outlines of buildings and the
+like, can be sewed against the drop, thus producing the effect of a
+silhouette.
+
+In fine, the whole problem of staging resolves itself into this: achieve
+your effects in as simple a way as possible; suggest, do not try to
+represent; scenery, which ought indeed to be a delight to the eye, is
+after all only background. Experiment, but never hesitate to ask the
+advice of those who know the basic principles of color, line, and form,
+as well as those who have technical knowledge of every branch of the art
+and craft of the theater.
+
+=Costumes.= In his introductory remarks to "The Romancers", Rostand says
+that the action may take place anywhere, "provided the costumes are
+pretty." This is the basis of the few brief remarks to be made here on
+the subject of costumes. It must not be concluded, however, that any
+costumes may be used on any occasion. A modern play must have modern
+costumes--except in such plays as "The Blue Bird" and "Chantecler"--and
+a "period play" must at least approximate in spirit the age in which the
+action transpires. But it makes little difference whether Hamlet wears a
+tenth or eleventh century Danish costume, or one of the age of
+Elizabeth. It is a well-known fact that in Shakespeare's days there was
+little or no regard for historical accuracy in costumes, and that even
+in the historical plays the actors wore contemporary clothes. The point
+to be impressed is not that we should play "Julius Caesar" in dress
+clothes, but that such discrepancies as were allowed in Elizabethan days
+could not have made very much difference, and that nowadays it is not
+worth while to spend too much time over details. In Greek plays it is
+well to use Greek costumes, because we have long been accustomed to
+associate some sort of archeological detail with plays of a certain age;
+and besides, Greek costumes are beautiful. But, and this is of great
+importance, do not strive to be historically exact: so long as costumes
+are beautiful and harmonize with the setting, and so long as they are
+not absurd or too much out of harmony with the play, they are good.
+There are numerous exceptions. Where a play definitely calls for a
+distinct atmospheric setting--like Bennett and Knoblauch's
+"Milestones"--then the utmost effort must be made to obtain correct
+costumes and setting. But the reason why the first act of this play
+requires historical accuracy is that the audience knows very well what
+mid-Victorian clothes are like. If the play were given in the year 2500
+A.D., it is safe to say that Elizabethan or Queen Anne costumes might do
+just as well.
+
+However, historical accuracy, when it can be obtained as easily as not,
+is never superfluous.
+
+
+
+
+                             [Illustration]
+
+[Illustration: TWO VIEWS OF THE STAGE AT THE UNIVERSITY OF
+NORTH DAKOTA.
+
+(Courtesy of Frederick H. Koch).]
+
+
+
+
+                               CHAPTER X
+
+                    SELECTIVE LISTS OF AMATEUR PLAYS
+
+
+The following lists, which do not pretend to completeness, will at least
+be found helpful in assisting amateur organizations to choose
+"worth-while" plays. The general headings "Classic", etc, are clear, but
+the following explanations must be made regarding the other markings:
+
+An asterisk (*) indicates that the play is in one act. Those not so
+marked are in more than one act, and are in most cases "full length."
+
+The letter "S" denotes serious or tragic plays, intended in nearly every
+case for advanced amateurs.
+
+The letter "R" denotes plays of a romantic and poetic nature.
+
+The letter "C" denotes comedies, farces, and plays in lighter vein.
+
+The letter "F" in parenthesis after the title indicates that a fee is
+charged for production by amateurs. The publisher or agent (see
+footnotes), must be consulted for particulars.
+
+The letter "D" denotes modern dialect plays, like those of Lady Gregory.
+Most of these plays are included under the general heading of "Classic"
+because the costumes and setting, though they may be modern, are not the
+familiar modern costumes and settings.
+
+All plays not included in the first division "_Classics, including
+modern costume and historical plays_" are to be found in the second
+division: "_Modern plays._"
+
+It is nearly always unwise for an amateur organization to take a play on
+faith; it is therefore advisable for it to collect a library of amateur
+plays, from which successive generations of members can at least form
+some judgment of the field from which they are to select their plays.
+
+This list makes no pretence to completeness. It has been the writer's
+purpose merely to mention a number of classic and standard plays which
+amateurs can produce without too great difficulty.
+
+
+                             [Illustration]
+
+[Illustration: SCENES FROM EURIPIDES' "ELECTRA". PRODUCED AT ILLINOIS
+STATE COLLEGE.
+
+(Courtesy of Rollin H. Tanner).]
+
+
+        CLASSICS, INCLUDING MODERN COSTUME AND HISTORICAL PLAYS
+
+
+Greek
+
+    RS  Euripides, _Alcestis_ (Samuel French; Walter H. Baker)
+
+    RS  Sophocles, _Antigone_ (Samuel French; E. P. Dutton, in
+            Everyman's Library)
+
+    RC  Aristophanes, _The Clouds_ (Macmillan; "The Drama", Victorian
+            edition)
+
+    C   _Lysistrata_ (Samuel French. Another version, by Laurence
+            Housman, published by The Woman's Press, London)
+
+
+Latin
+
+    C   Plautus, _The Twins_ (Samuel French)
+
+    C   Terence, _Phormio_ (Samuel French)
+
+
+Spanish
+
+    RC  Lope de Vega, _The Dog in the Manger_ ("The Drama",
+        Victorian edition)
+
+    RC  Calderon, _Keep Your Own Secret_ (Macmillan)
+
+    RC  Benavente, _The Bonds of Interest_ (in "The Drama", No. 20)
+
+
+Italian
+
+    RC  Goldoni, _The Fan_ (Yale Dramatic Association)
+
+    RC      _The Beneficent Bear_ (Samuel French)
+
+    RC      _A Curious Mishap_ (McClurg)
+
+    RCD     _The Squabbles of Chioggia_ ("The Drama", August, 1914)
+
+    R*  Giacosa, _The Wager_ (Samuel French)
+
+
+French
+
+    C   Brueys (adaptor of 15th century anonymous), _Master
+            Patelin, Solicitor_ (Samuel French)
+
+    C   Moliere, _The Merchant Gentleman [Le Bourgeois
+            Gentilhomme]_ (Samuel French; Little, Brown; Bohn Library,
+            etc.)
+
+    C*      _The Affected Young Ladies [Les Precieuses ridicules]_
+
+    C       _The Sicilian_
+
+    C*      _Doctor Love [L'Amour Medecin]_
+
+    C*      _The Doctor in Spite of Himself [Le Medecin malgre lui]_
+
+    C       _The Imaginary Invalid [Le Malade imaginaire]_ (Samuel
+            French; Little, Brown; Bohn Library; Putnam, etc., publish
+            the above five titles)
+
+    C*  Dancourt, _Woman's Craze for Titles_ (in "The Drama";
+            Historical Publishing Company, 1903, vol. viii.)
+
+    C*  Le Sage, _Crispin, His Master's Rival_ (Samuel French)
+
+    CR* Marivaux, _The Legacy_ (Samuel French)
+
+    CR  De Musset, _Fantasio_ (Dramatic Publishing Company)
+
+    CR*     _The Green Coat_ (Samuel French)
+
+    C   Augier, _M. Poirier's Son-in-law [Le Gendre de M.
+        Poirier]_ (in "Four Plays by Emile Augier", published by
+        Alfred A. Knopf, and in "Chief European Dramatists",
+        published by Houghton Mifflin)
+
+    CR* Banville, _Gringoire_ (Dramatic Publishing Company;
+        Samuel French)
+
+    CR*    _Charming Leandre_ (Samuel French)
+
+    C   Sardou, _A Scrap of Paper_ [_Les Pattes de mouche_]
+        (Samuel French)
+
+    CR      _The Black Pearl_ (Samuel French)
+
+    CR* Feuillet, _The Fairy_ (Samuel French)
+
+    CR* Rivoire, _The Little Shepherdess_ (Samuel French)
+
+    CR  Rostand, _The Romancers_ (Samuel French; Walter H.
+        Baker; Heinemann)
+
+    C*  France, _The Man Who Married a Dumb Wife_ (Lane) (F)
+
+    C*  Picard, _The Rebound_ (Samuel French)
+
+    CR  Zamacois, _The Jesters_ (Brentano) (F)
+
+    SR* Bouchor, _A Christmas Tale_ (Samuel French)
+
+    CR* Coppee, _The Violin-Maker of Cremona_ (Samuel French)
+
+    SR*      _Pater Noster_ (Samuel French)
+
+    SR* Theuriet, _Jean-Marie_ (Samuel French)
+
+
+Danish
+
+    C   Holberg, _The Loquacious Barber_ ("The Drama", Victorian
+        edition)
+
+    C       _Captain Bombastes Thunderton_ (in "Three Comedies by
+            Ludvig Holberg", published by Longmans) (Requires cutting)
+
+    CR  Hertz, _King Rene's Daughter_ (Samuel French)
+
+
+German
+
+    CR  Lessing, _Minna von Barnhelm_ (in Bohn Library,
+        Macmillan)
+
+    C   _The Scholar_ (in Bohn Library)
+
+    C   Schiller, _Nephew or Uncle_ (Walter H. Baker)
+
+
+English
+
+    S   Anonymous,  _Everyman_  (Everyman's Library; Dutton)
+
+    R   Lyly, _Alexander and Campaspe_ (Scribner, and in
+        Everyman's Library) (Requires cutting)
+
+    R   Greene, _Friar Bacon and Friar Bungay_ (Dutton) (Requires
+        cutting)
+
+    CR  Beaumont and Fletcher, _The Knight of the Burning Pestle_
+        (Scribner; Everyman's Library; etc.) (Requires cutting)
+
+    CR  Dekker, _Old Fortunatus_ (Scribner) (Requires cutting)
+
+    CR _The Shoemaker's Holiday_ (Scribner; Dutton) (Requires
+        cutting)
+
+    CR  Heywood _The Fair Maid of the West_ (Scribner) (Requires
+        cutting)
+
+    SR  Jonson, _The Sad Shepherd_ (Dutton) (Requires cutting)
+
+    CR  _The Case is Altered_ (in any complete set of Ben Jonson)
+        (Requires cutting)
+
+        Shakespeare (no plays need be mentioned. The "Ben Greet
+        Shakespeare for Amateurs" contains good directions for
+        staging and acting)
+
+    C   Udall, _Ralph Roister Doister_ (Macmillan; Dent) (Requires
+        cutting)
+
+    CR  Goldsmith, _The Good-natured Man_ (in any edition of
+        Goldsmith's plays)
+
+    CR  _She Stoops to Conquer_ (in any edition of Goldsmith's
+        plays)
+
+    CR  Sheridan, _The Rivals_ (in any edition of Sheridan's
+        plays)
+
+    C   _The School for Scandal_ (in any edition of Sheridan's
+        plays)
+
+    C   _The Critic_ (in any edition of Sheridan's plays)
+
+    CR  Pinero, _Trelawney of the 'Wells'_ (Dramatic Publishing
+    Company) (F)[12]
+
+        [12] Apply to Sanger & Jordan, 1432 Broadway, New York, for
+            acting rights.
+
+    CR  Housman, _A Chinese Lantern_ (Dramatic Publishing
+        Company) (F)
+
+    CR*     _Bird in Hand_ (Samuel French) (F)
+
+    SRD*    _A Likely Story_ (Samuel French) (F)
+
+    CR*     _As Good as Gold_ (Samuel French) (F)
+
+    SRD*    _The Snow Man_ (Samuel French) (F)
+
+    SR*     _Nazareth_ (Samuel French) (F)
+
+    SR*     _The Lord of the Harvest_ (Samuel French) (F)
+
+    SR*     _The Return of Alcestis_ (Samuel French) (F)
+
+    CR      (and Barker), _Prunella_ (Little, Brown) (F)
+
+    CR  Shaw, _The Devil's Disciple_ (Brentano) (F)[13]
+
+    CR  Parker, _Pomander Walk_ (Samuel French) (F)
+
+    CR* Barrie, _Pantaloon_ (Scribner) (F)[13]
+
+        [13] Apply to American Play Company, 33 West 42nd St., New
+            York.
+
+    CR  Bennett and Knoblauch, _Milestones_ (Doran) (F)
+
+    CR  Noyes, _Sherwood_ (Stokes) (F)
+
+    CR  Tennyson, _The Princess_ (in any complete edition of
+    Tennyson)
+
+    CR      _The Foresters_ (in any complete edition of
+            Tennyson)
+
+    SR*     _The Falcon_ (in any complete edition of Tennyson)
+
+    R*  Lord Dunsany, _The Gods of the Mountain_ (Little, Brown)
+        (F)
+
+    CR*     _The Lost Silk Hat_ (Little, Brown) (F)
+
+    CRD*    _The Glittering Gate_ (Little, Brown) (F)
+
+    R       _King Argimenes and the Unknown Warrior_ (Little,
+            Brown) (F)
+
+    RS* Yeats, _The Land of Heart's Desire_ (Macmillan; Samuel
+    French)
+
+    CD*     _The Pot of Broth_ (Macmillan) (F)[14]
+
+    RS*     _Deirdre_ (Macmillan) (F)[14]
+
+    RS*     _The King's Threshold_ (Macmillan) (F)[14]
+
+        [14] Apply to Samuel French, 28 West 38th St., New York.
+
+    CRD* Lady Gregory, _The Rising of the Moon_ (Putnam) (F)[15]
+
+    CD*     _The Workhouse Ward_ (Putnam) (F)[15]
+
+    SRD*    _The Travelling Man_ (Putnam) (F)[15]
+
+    CD*     _Spreading the News_ (Putnam) (F)[15]
+
+    CD*    _The Jackdaw_ (Putnam) (F)[15]
+
+    CD*    _Hyacinth Halvey_ (Putnam) (F)[15]
+
+    SD* Hyde, _The Lost Saint_ (Scribner)
+
+    SD*     _The Twisting of the Rope_ (Poet Lore)
+
+    CD* Mayne, _The Turn of the Road_ (Luce) (F)
+
+    CD      _The Drone_ (Luce) (F)
+
+    SD* Synge, _The Shadow of the Glen_ (Luce) (F)[15]
+
+    CD  Boyle, _The Building Fund_ (Gill, Dublin) (F)
+
+    RC* Downs, _The Maker of Dreams_ (Samuel French) (F)[15]
+
+
+Sanskrit
+
+    SR  Kalidasa, _Sakountala_ (Walter Scott, London; and
+        Everyman's Library)
+
+
+Bengali
+
+    RS  Tagore, _The Post-Office_ (Macmillan) (F)[15]
+
+        [15] Apply to Samuel French, 28 West 38th St., New York.
+
+
+MODERN PLAYS (NINETEENTH AND TWENTIETH CENTURIES, IN WHICH THE COSTUMES
+AND SETTINGS ARE MODERN)
+
+
+Italian
+
+    S   Giacosa, _As the Leaves_ (in "The Drama No. 1, and by
+        Little, Brown)
+
+    S       _The Stronger_ (in "The Drama", May, 1913, and by Little,
+            Brown)
+
+
+French
+
+    C*  Augier, _The Post-Script_ (Samuel French, and in "Four
+        Plays by Emile Augier", Alfred A. Knopf)
+
+    SC      _The House of Fourchambault_ (Samuel French, and in
+        "Four Plays by Emile Augier", Alfred A. Knopf)
+
+    CR* Meilhac and Halevy, _Indian Summer_ (Samuel French)
+
+    CR*     _Panurge's Sheep_ (Samuel French)
+
+    CR* Feuillet, _The Village_ (Samuel French)
+
+    C*  Labiche, _The Two Cowards_ (Samuel French)
+
+    C*      _Grammar_ (Samuel French)
+
+    C   Pailleron, _The Art of Being Bored_ (Samuel French)
+
+    C*  Bernard, _French Without a Master_ (Samuel French)
+
+    C*      _I'm Going!_ (Samuel French)
+
+    C*  Donnay, _They!_ (In "Lovers, The Free Woman, and They!"
+        (Little, Brown)
+
+    S   France, _Crainquebille_ (Samuel French)
+
+    C*  Maurey, _Rosalie_ (Samuel French)
+
+    C*  Hervieu, _Modesty_ (Samuel French)
+
+    S   Capus, _The Adventurer_ ("The Drama", November, 1914)
+
+    C   _Brignol and his Daughter_ (Samuel French)
+
+    C*  Caillavet, _Choosing a Career_ (Samuel French)
+
+
+German
+
+    SC  Freytag, _The Journalists_ ("The Drama", February, 1913)
+
+    RC* Sudermann, _The Far-Away Princess_ (in "Roses", Scribner,
+        and separately, by Samuel French) (F)
+
+    S*      _Fritzchen_ (in "Morituri", Scribner)
+
+    C*  Benedix, _The Law-Suit_ (Samuel French)
+
+    C*      _The Third Man_ (Samuel French)
+
+    C*  Gyalui, _After the Honeymoon_ (Samuel French)
+
+
+Scandinavian
+
+    S*  Strindberg, _The Stronger_ (Scribner) (F)
+
+    SB  _Lucky Pehr_ (Stewart and Kidd) (F)
+
+    SC  Bjoernson, _The Newly-Married Couple_ (Everyman's Library;
+        Dutton)
+
+    C   _Love and Geography_ (Scribner)
+
+    S   Ibsen, _An Enemy of the People_ (Scribner)
+
+
+Russian
+
+C*  Tchekoff, _The Boor_ (Samuel French; Scribner)
+
+C*      _A Marriage Proposal_ (Samuel French; Scribner)
+
+C*      _The Tragedian in Spite of Himself_ (Scribner)
+
+C*  Andreyev, _The Dear Departing_ (Henderson, London), and
+    [same play] _Love of One's Neighbor_ (Boni, New York)
+
+
+English
+
+    C   Pinero, _The Schoolmistress_ (Walter H. Baker) (F)
+
+    C       _The Magistrate_ (Walter H. Baker) (F)
+
+    CS      _The Benefit of the Doubt_ (Dramatic Publishing
+            Company) (F)
+
+    C       _The Amazons_ (Walter H. Baker) (F)
+
+    C       _Dandy Dick_ (Walter H. Baker) (F)
+
+    C   Jones, _The Manoeuvres of Jane_ (Samuel French) (F)
+
+    CS      _The Liars_ (Samuel French) (F)
+
+    C       _Dolly Reforming Herself_ (Samuel French) (F)
+
+    C   Wilde, _The Importance of Being Earnest_ (Walter H.
+        Baker; Nichols; Luce; Putnam; and French)[16]
+
+    C*  Sutro, _The Bracelet_ (Samuel French; Brentano)
+        (F--Samuel French)
+
+    C*  Sutro, _The Man on the Kerb_ (Samuel French; Brentano)
+        (F--Samuel French)
+
+    C*      _A Marriage Has Been Arranged_ (Samuel French;
+            Brentano) (F--Samuel French)
+
+    CR* Barrie, _The Will_ (Scribner) (F)[16]
+
+    CR*     _The Twelve-Pound Look_ (Brentano) (F)[16]
+
+        [16] Apply to Sanger & Jordan.
+
+    CR      _The Admirable Crichton_ (Doran) (F)[17]
+
+    CR      _Quality Street_ (Doran) (F)[17]
+
+        [17] Apply to Sanger & Jordan.
+
+    C   Shaw, _You Never Can Tell_ (Brentano) (F)[18]
+
+    CR      _Candida_ (Brentano) (F)[18]
+
+    C*      _Press Cuttings_ (Brentano) (F)[18]
+
+    C*      _How He Lied to Her Husband_ (Brentano) (F)[18]
+
+    CR      _Arms and the Man_ (Brentano) (F)[18]
+
+        [18] Apply to American Play Co.
+
+    S   Barker, _The Voysey Inheritance_ (Little, Brown) (F)
+
+    SC  Bennett, _What the Public Wants_ (Doran) (F)
+
+    RC      _Milestones_ (Doran) (F)
+
+    S       _Cupid and Commonsense_ (Doran) (F)
+
+    C       _The Great Adventure_ (Doran) (F)
+
+    C*      _Polite Farces_ (Doran) (F)
+
+    S   Baker, _Chains_ (Luce) (F)
+
+    S*  Gibson, _Mates_ (Macmillan) (F)
+
+    S*      _On the Road_ (Macmillan) (F)
+
+    C   Hankin, _The Cassilis Engagement_ (Samuel French) (F)
+
+    C       _The Return of the Prodigal_ (Samuel French) (F)
+
+    C       _The Charity that Began at Home_ (Samuel French) (F)
+
+    C*  Houghton, _The Dear Departed_ (Samuel French) (F)
+
+    C*      _The Fifth Commandment_ (Samuel French) (F)
+
+    C*      _Phipps_ (Samuel French) (F)
+
+    SC  Houghton, _Independent Means_ (Samuel French) (F)
+
+    S   Galsworthy, _The Silver Box_ (Scribner) (F)[19]
+
+    C      _Joy_ (Scribner) (F)[19]
+
+    SC  Hamilton, _Just to Get Married_ (Samuel French) (F)
+
+    SC* Chapin, _Augustus in Search of a Father_ (Gowans and
+        Grey, London) (F)
+
+    DCR* Brighouse, _Lonesome Like_ (Samuel French) (F)
+
+    SD*     _The Price of Coal_ (Samuel French) (F)
+
+    C   Monkhouse, _The Education of Mr. Surrage_ (Sidgwick and
+        Jackson, London) (F)
+
+    C   Mason, _Green Stockings_ (Samuel French) (F)
+
+    SD  Ervine, _Jane Clegg_ (Holt) (F)
+
+    DCR* Fenn and Pryce, _'Op o' me Thumb_ (Samuel French) (F)
+
+
+American
+
+    S   Gillette, _Secret Service_ (Samuel French) (F)
+
+    S       _Held by the Enemy_ (Samuel French) (F)
+
+    C       _Too Much Johnson_ (Samuel French) (F)
+
+    C   MacKaye, _Anti-Matrimony_ (Stokes) (F)
+
+    C   Thomas (A. E.), _Her Husband's Wife_ (Doubleday, Page)
+        (F)[19]
+
+        [19] Apply to Samuel French for producing rights.
+
+    S*  Middleton, _The Failures_ (Holt) (F)[20]
+
+    S*      _The Groove_ (Holt) (F)[20]
+
+    S*      _Tradition_ (Holt) (F)[20]
+
+        [20] Apply to Samuel French for producing rights.
+
+    C*  Macmillan, _Short Plays_ (Stewart and Kidd) (F)
+
+    C  Forbes, _The Commuters_ (Samuel French) (F)
+
+    C       _The Traveling Salesman_ (Samuel French) (F)
+
+    S   Klein, _The Lion and the Mouse_ (Samuel French) (F)
+
+    R   Thomas, _Arizona_ (Dramatic Publishing Company) (F)
+
+    RD      _Alabama_ (Dramatic Publishing Company) (F)
+
+    C       _Mrs. Leffingwell's Boots_ (Samuel French) (F)
+
+    C       _The Other Girl_ (Samuel French) (F)
+
+    C       _Oliver Goldsmith_ (Samuel French) (F)
+
+    C       _The Earl of Pawtucket_ (Samuel French)(F)
+
+    C       _The Capitol_ (Samuel French) (F)
+
+
+                       COLLECTED VOLUME OF PLAYS
+
+1. _Representative One-Act Plays by American Authors_, edited by
+Margaret G. Mayorga (Little, Brown), contains a large number of suitable
+plays for amateurs. Among these are:
+
+    R*  _Sam Average_, by Percy MacKaye (F)
+
+    R*  _Six Who Pass While the Lentils Boil_, by Stuart Walker
+        (F)
+
+    S*  _In the Zone_, by Eugene O'Neill (F)
+
+    R*  _The Wonder Hat_, a Harlequinade by Ben Hecht and Kenneth
+        Sawyer Goodman (F)
+
+    C*  _Suppressed Desires_, by George Cram Cook and Susan
+        Glaspell (F)
+
+    S*  _The Last Straw_, by Bosworth Crocker (F)
+
+2. _Representative One-Act Plays by British and Irish Authors_, edited
+by Barrett H. Clark (Little, Brown), contains, among others, the
+following plays suited to the requirements of amateurs:
+
+    R*  _The Widow of Wasdale Head_, by Arthur Pinero (F)
+
+    C*  _Rococo_, by Granville Barker (F)
+
+    R*  _The Snow Man_, by Lawrence Housman (F)
+
+    C*  _Fancy Free_, by Stanley Houghton (F)
+
+3. _Fifty Contemporary One-Act Plays_, edited by Frank Shay and Pierre
+Loving (Stewart-Kidd), includes the following plays for amateurs:
+
+    C*   _Literature_, by Arthur Schnitzler (F)
+
+    C*  _Francoise' Luck_, by Georges de Porto-Riche (F)
+
+    S*  _Mary's Wedding_, by Gilbert Carman (F)
+
+    C*  _A Sunny Morning_, by the Quinteros (F)
+
+
+
+
+                               APPENDICES
+
+
+                               APPENDIX I
+
+                         COPYRIGHT AND ROYALTY
+
+The following statement regarding royalties on amateur plays was
+prepared by Mr. Allen J. Carter, an attorney of Chicago, for one of the
+Drama League pamphlets listing amateur plays:
+
+    "The copyright law of the United States requires that every
+    play, whether published or unpublished, for which copyright
+    protection is claimed, must be registered in the copyright
+    office at Washington, D.C. Until such registration, no action
+    for infringement of copyright can be maintained. The register of
+    copyrights keeps a complete record and index of all copyright
+    entries and publishes a catalogue of such entries at regular
+    intervals. Dramatic works are entered under Class D and are
+    found indexed under that heading in Part I, Group II of the
+    catalogues. Copies of these catalogues are on file in most of
+    the larger public libraries, and sets or parts of sets may be
+    purchased from the Superintendent of Public Documents at
+    Washington, D.C. Anyone wishing to learn whether a particular
+    play has been properly entered for copyright need only consult a
+    set of these catalogues. If such a set is not available, the
+    information will be promptly furnished by the register of
+    copyrights, Washington, D.C, upon request.
+
+    "Whenever a play has been published, examination of a copy of an
+    authorized printed edition will disclose whether such play has
+    been properly copyrighted. The law requires that a notice of
+    copyright must be placed either upon the title page, or upon the
+    page immediately following, of each copy published or offered
+    for sale in the United States. Such notice must consist either
+    of the word 'Copyright' or the abbreviation 'Copr.', accompanied
+    by the name of the copyright proprietor and the year in which
+    copyright was secured by publication. If published prior to
+    March 4, 1909, the notice may also be in the following form:
+    'Entered according to Act of Congress in the year ----, by A. B.
+    in the office of the Librarian of Congress at Washington.'
+    Whenever the author of a play or anyone to whom he has assigned
+    his rights publishes such play without proper notice of
+    copyright in some one of the three authorized forms above
+    mentioned, the play then and forever after becomes the property
+    of the public and may be performed and printed at will by
+    anyone. No subsequent attempt to copyright such play would be
+    valid, and any valid copyright previously secured would be
+    vitiated.
+
+    "A play which has never been published nor offered for sale, and
+    which exists only in manuscript form, may be copyrighted upon
+    proper entry being made at the copyright office in Washington,
+    D.C. Should such play be later published, however, the
+    publication must comply with all the requirements of the law as
+    to notice of copyright.
+
+    "Any person who infringes the copyright in any play shall be
+    liable: (a) To an injunction restraining said infringement; (b)
+    to pay actual damages to the copyright proprietor, or in place
+    of actual damages $100.00 for the first infringing performance
+    and $50.00 for each succeeding one; (c) to imprisonment not to
+    exceed one year, or to a fine not to exceed $1,000.00, or both,
+    wherever such person has infringed such copyright wilfully and
+    for profit.
+
+    "It follows, therefore, that if any group of amateurs perform a
+    copyrighted play without having obtained the consent of the
+    author or copyright proprietor, they are collectively liable to
+    damages of at least $100.00 under whatever conditions the
+    performance is given. If they do it wilfully and for profit,
+    they are in addition each individually liable to fine and
+    imprisonment under the criminal provision of the act."
+
+
+                              APPENDIX II
+
+                           A NOTE ON MAKE-UP
+
+Make-up as an art and a science does not properly fall within the scope
+of the present volume. However, it has been thought advisable to insert
+at this place sections from an interesting paper on make-up by one who
+has made a thorough study of the subject. The author acknowledges his
+obligation to Miss Grace Griswold, who wrote the article, for permission
+to make this use of it.
+
+                       _How and Where Lines Come
+                             into the Face
+                           A Study in Make-up
+                                   by
+                            Grace Griswold_
+
+Nearly all great actors are masters of make-up. They must be, for the
+illusions of the stage are no less pictorial than those of painting and
+sculpture, with the added elements of movement and voice, all of which
+must be brought into working harmony with the thought and feeling of the
+part, in a perfect portrayal. Any serious incongruity in externals is
+felt at once, and destroys the illusion.
+
+Women have not done as much as men in facial transformation, except in
+the way of burlesque and grotesquerie. Women's make-ups, on the whole,
+are far more conventional. The female face is more difficult to change
+without revealing the tricks. Heavy furrows and deep coloring are
+possible only for low types. Men can effect great changes by the use of
+beards and moustaches. A woman's art must be far subtler.
+
+Look at the men across the way.[21] Notice their eyes. We always see the
+eyes first, although the mouth is a more unerring key to character. The
+mouth for emotions and impulses, and the eyes for thoughts. As the mouth
+is the gateway of the soul, so the eyes are its windows, but, like all
+windows, their function is rather to give light and view to the interior
+than to expose it to the impertinence of passers-by.... His level brows,
+which show him to be of a practical or scientific turn of mind, are
+deeply contracted. So much so, that not only are there two perpendicular
+lines between them, but one across the top of the nose as well. The
+heavy bone formation which the brows outline, indicates rare powers of
+observation. But this man has come a cropper. See how restless and
+unseeing are his eyes! He is searching for a solution to the problem
+which is troubling him. It is a purely intellectual problem, for the
+mouth, which is the indication of the emotions and passions, is
+unaffected by what is going on above. There is nothing sinister about
+the problem: you see that the eyes are wide open. Now it is settled,
+because he appears focussed: he is following a single line of thought.
+
+    [21] It was imperative that the long article be abridged. The
+        reference here is to Miss Griswold's first sentence: "... take
+        a ride with me in the subway, where we may perhaps glean some
+        impressions for character portrayal upon the stage."
+
+Now observe the man on the right. He too is thinking hard, but his mouth
+is drawn, jaws set, eyelids puckered to a mere slit. He has been
+wronged, or believes he has, and is planning retaliation. His nostrils
+are dilated, his breathing heavy. Both these men are laboring under
+excitement, but we cannot read their natures, because their habitual
+expression is distorted.
+
+Do you see that dear soul opposite? There is work behind that face, work
+that has brought with it health. There has been good living, but no
+intemperance. See the strong muscles and the glow in the cheeks, with
+their Santa Claus rotundity. There is passion, too, but it is
+restrained: the lips are full, but the center line is straight. With
+less control, that line would tend to sag. Melancholia is also indicated
+in downward lines. In the case of this woman, the lip is perhaps too
+heavy to show delicacy of character, but it shows broad sympathy, and is
+redeemed by its upper consort, which reveals, except at the corners, a
+cupid's bow, full of tenderness. The Venus de Milo hardly escapes
+censure even with the lateral shortness of the lower lip and the
+softened outlines of the upper. This woman's mouth is larger, denoting
+generosity. Now look at the eyes--open just to the degree of frankness,
+but not of insincerity, like those of the vapid young person across the
+way. There are radiations from the corners, too: the footprints of many
+a pleasant smile. The eyebrows have the sympathetic upward sweep toward
+the nose, and there is a whimsical twist of the left eyebrow.
+Altogether, a pleasant countenance.
+
+A perfectly straight compressed mouth always implies strength of will.
+
+Now notice the woman just beyond with her high-bred aristocratic face.
+The "executive" nose, with its delicate arch, are especially indicative
+of her character. The eyebrows likewise are arched, over a full
+forehead; very imaginative. The eyes, slightly veiled in their
+expression, show her to be plunged in deep and somewhat troubled
+thought. Her eyes are veiled because she does not see clearly a way out
+of her problem, but that way out will be, we are sure, something noble.
+Her problem is not so exclusively an intellectual one as that of the man
+we mentioned: it must be some economic or philanthropical question--her
+chin is finely chiselled and held with exquisite poise, strong and at
+the same time delicate. Her complexion has the "pale cast of thought",
+but is not unhealthy however. The flesh lies easily upon its firm base.
+It will never warp into deep furrows. See, now she has solved or put
+aside her problem, for a moment, and her eyes are open and clear, and
+her smile, as she recognizes a friend, is engaging and unaffected. Her
+sympathies are less personal, more detached, but none the less real,
+than other women's.
+
+And now see this man who has just entered. He, too, is an aristocrat,
+but as he turns, we can observe that there is a one-sided twist to his
+face. The bone formation in his face is similar to that of the woman's,
+but his expression is exaggerated by a muscular habit of the mouth,
+possibly occasioned by the loss of teeth. His eyes are open, but they
+express impassive coldness. He has taken life with a sneer. His brows
+are not arched, although one of them is artificially raised: the result,
+undoubtedly, of boredom.
+
+Habitual good-humor ages the face in a pleasant manner. It is the only
+thing that never grows old: do you remember what genial sparkling eyes
+Joseph Jefferson and Mark Twain had?
+
+Bearing in mind these summary character studies, let us turn to the more
+practical side of make-up:
+
+Regarding _straight_ make-up--_i.e._ make-up which is designed to offset
+the glare of the lights--it can safely be asserted that most
+professionals make-up too heavily. This is partially due to the fact
+that the lights in the dressing-room are seldom of like intensity or
+kind as those on the stage. Billie Burke and Blanche Ring occur to us as
+having achieved happy results in making-up, the former with a rose-bud
+prettiness of white and pink, the latter by using so little color and
+blending that little so well that it is scarcely perceivable. Both these
+actresses use very little rouge on the upper eyelids, an excess of which
+is one of the commonest faults. The only purpose it can serve is to
+soften the upward and whitening glare of the footlights. The skilful use
+of rouge is the most important and least understood of all the numerous
+elements of this art. First as to shade, most of the rouge used is blue.
+It does not blend with most powders, but produces a hard contrast, and
+appears unnatural. The placing of the rouge, too, is very important in
+obviating natural defects of proportion in the features, which distances
+always intensify. Any spot left white is projected as if with a
+high-light. If the nose is too wide, it can be narrowed by shading the
+rouge up to its center line. If it is too prominent, it will be less
+apparent if shaded slightly all over. The same rule applies to the chin,
+the jaw, the ears, and the forehead. Some people lay in a general
+foundation of grease rouge before putting anything else on, but this is
+likely to give a muddy effect. If used only on the cheeks, with the dry
+rouge over all for shading, the effect is far more natural. Some also
+lay in a foundation of pink paste--called "Exora"--but the result is
+nearly always pasty, and should never be used except to cover some
+blotchiness. The lighter the make-up, the greater opportunity will there
+be for mobility of expression.
+
+The same moderation should be exercised in making up the eyes and mouth.
+Brown on the lashes and eyebrows is softer than black, especially for
+blondes. Heavy black leading above and below, accentuated by broad
+shadows on the lids of dark blue, make them look like burnt holes a
+short distance away. Few eyes are large enough to stand it, and those
+that are, do not require it. A little light or dark blue close to the
+lashes of the upper lid is necessary, but very few eyes need any make-up
+at all on the lower lid, except a faint shadow, perhaps, of light blue.
+A little dab of lip rouge in the inner corners of the eye adds an effect
+of brilliancy. If the eye itself slants, it can be straightened by a
+line of brown or black, drawn in the opposite direction, and beginning
+just inside the outer corners. The line of the upper lids and the
+eyebrows should be extended in almost every case, to give an effect of
+breadth to the eyes.
+
+If the face needs lengthening and the eyebrows are not too heavy, they
+can be covered with flesh-colored grease paint, and another pair painted
+above them. There is danger in this, however, of opening the frame of
+the eyes too much and giving them a foolish expression. The arched brow
+tends to elongate, the level, broad effect to shorten, the face.
+
+The mouth also needs careful treatment. As to color: the dark red rouge
+so often used gives the appearance of a bloody gash. The English hunting
+red, a sort of bluish vermilion, is best, because most natural. Only the
+very smallest mouths can stand being made up to the corners, because in
+smiling, the mouth stretches, and will look too large if deeply colored
+all the way across.
+
+A line of white grease paint drawn down the bridge of the nose will
+straighten it; or, if it be too small, lengthen it. The nose may also be
+completely transformed by putty.
+
+This brings us to what is known as the "character" make-up. Here again
+one is confronted by numberless problems regarding the use of colors. At
+best, character make-up is only the adjustment of one physiognomy to the
+habitual expression of another: complete transformation is out of the
+question. Nevertheless, the human face, being mobile, may assume
+expressions which are not habitual to it. However, it must be borne in
+mind that to superimpose a purely imaginary countenance over a natural
+one, regardless of what that natural one is, is a fatal mistake, because
+when the natural face attempts to express itself under the other, the
+effect will be lost.
+
+To return a moment to the problem of color: illusion is frequently lost
+through a failure to adjust the shade of the high-light and shadow to
+the tone of the foundation grease paint, or natural complexion. The
+commonest offence is the use of an unmixed, unblended slate for shadows,
+and white, and high-lights, whether the underlying color be florid,
+sallow, pink, or pale flesh. The result of such treatment is merely
+paint.
+
+The whole art of making-up is still hide-bound by tradition, because of
+stupid ideals which persist in the minds of those whose business it is
+to direct, as well as many in the acting profession itself.
+
+
+
+
+                                 INDEX
+
+
+
+
+                                 INDEX
+
+
+  "Alcestis", 4
+
+  Aristophanes, 5
+
+  Art adviser, 17
+
+  "Art of Being Bored, The", 48
+    Quoted, 53, 54-57
+    Stage grouping of, 54-57
+
+  "As You Like It", 2
+
+
+  Backgrounds, 106-107
+
+  Barker, Granville, 6
+
+  Belasco, David, 89, 106
+
+  "Blocking out", 24, 61
+    Example of, 24-33
+
+  "Blue Bird, The", 108
+
+  "Box sets", 82, 89, 91, 100
+
+  "Brignol and His Daughter", Setting for, 102, 103
+
+  Business manager, Duties of, 11-12, 14
+
+
+  "Call Boy", Duty of, 16
+
+  Capus, Alfred, 102
+
+  Cast, Ability of, 2
+    Selection of, 19, 20
+    Size of, 2
+
+  "Chantecler", 108
+
+  Characterization by amateurs, 2, 3, 4
+
+  Cheney, Seldon, 76 (_Note_), 77
+
+  Classics, 2, 3, 4
+
+  "Clouds, The", 5
+
+  Coach, Selection of, 20, 21
+
+  Comedies, 4
+
+  "Comedy of Errors, The", 2, 3, 5
+    Setting for, 93-94
+
+  Costume man, Duties of, 10, 14, 15, 17
+
+  Costumes, 14-15
+    Accuracy of, 108-109
+
+  "Costumes and Scenery for Amateurs", 81
+
+  Craig, Gordon, 102
+
+  Crowds or large groups, Rehearsing of, 15, 58, 59
+
+  Curtain man, Duties of, 10
+
+  Cyclorama, 78-81, 84, 88
+    Construction of, 78, 79-80, 81
+    Description of, 78
+    Value of, 78
+
+
+  De Vega, Lope, 4
+
+  Deutsches Theater (Berlin), 95
+
+  Diagram, Making of, 40-46, 60
+
+  Director, Duties of, 8-10, 14, 16, 17, 20, 23, 24, 28, 34, 52, 58, 59,
+      64, 67, 73
+
+  "Doctor in Spite of Himself", 5
+
+  "Doll's House, A", 2
+
+  Draperies, 80, 83, 92, 98
+
+
+  "Electra", 4
+
+  Electrician, 13
+
+  Euripides, 4
+
+
+  "Fan, The", 5
+
+  "Far-away Princess, The", Setting for, 100-101
+
+  Farces, 4
+
+  Footlights, 86, 87, 89
+    Boxed, 84
+
+  Fortuny lighting system, 86, 88
+
+  Furniture, Handling and setting of, 15
+
+
+  Goldoni, 4, 5
+
+  Gregory, Lady, 90
+
+  Grouping actors, 48, 58, 59, 61
+    Examples of, 50-52, 53-57, 58-59, 63
+
+
+  "Hamlet", 4
+
+  Handling and setting of scenery and furniture, 15, 17
+
+
+  Imitation of Professionals, 68, 69
+
+  "Importance of Being Earnest, The", 3
+    "Blocked out", 28-34
+    Quoted, 24-28
+
+  "Indian Summer", Quoted, 71-72
+
+  Interpretation by amateurs, 69-70
+
+
+  Jones, Henry Arthur, 3, 46, 47, 48
+
+  "Julius Caesar", Costumes of, 108
+    Grouping in, 58-59
+
+
+  Klein, Charles, 89
+
+  Kotzebue, 4
+
+
+  "Le Bourgeois Gentilhomme," 3,5
+
+  Lessing, 4, 5
+
+  Lessing Theater, Berlin, 107
+
+  "Liars, The", 3, 46, 47
+    Quoted, 46, 50
+    Stage grouping of, 49-52
+
+  Lighting, Stage, 76, 78-79, 85, 89
+    Examples of, 89, 90
+    Fortuny system of, 86, 88
+    Kinds of:
+      Arc, 88
+      Border, 86
+      Calcium, 88
+      Footlights, 84, 86, 87, 89
+
+  Lightman, Duties of, 10, 13-14, 15
+
+  "Lysistrata", 5
+
+
+  MacKay, Constance D'Arcy, 82
+
+  "Magistrate, The", 4
+
+  "Man and Superman", 4
+
+  "Marrying of Ann Leete, The", 6
+
+  "Merchant of Venice, The", 85
+
+  "Milestones", 109
+
+  "Minna von Barnhelm", 5
+
+  "Modern Movement in the Theatre, The", 76 (_Note_)
+
+  Modern plays, 4, 6
+
+  Moderwell, Hiram Kelly, 76 (_Note_), 77
+    Quoted, 86-87
+
+  Modulation, Example of, 71-72
+
+  Moliere, 3, 4, 5
+
+  Music, 15, 17
+
+  "Music Master, The", Lighting of, 89
+
+
+  Original Plays, 6
+
+
+  Pailleron, Edouard, 48
+
+  "Peer Gynt", Setting for, 107
+
+  Performance, Essentials of, 74 75
+
+  "Phormio", 5
+
+  Plautus, 5
+
+  Plays, "Cutting", 23
+
+  Plays, Kind of, 8-7
+    Classic, 2, 3, 4, 5, 6, 14
+    Comedies, 4
+    Farces, 4
+    Modern, 4, 5
+    Original, 6
+    Problem, 4
+    Sex, 4
+    Thesis, 4
+    Translated, 6
+    Reading of, 23-24
+
+  Plotting the stage, Examples of, 41-45, 49-52
+
+  Problem plays, 4
+
+  Prompt-copy, Making of, 34
+
+  Prompter, Duty of, 75
+
+  Property man, Duties of, 10, 12, 13, 15, 75
+
+  Proscenium, 81
+    Alteration of, 81, 82, 83, 84, 103-104
+    Diagrams of, 82, 83
+
+
+  Rehearsals, 15, 22, 58, 59, 61, 66, 67, 68, 70
+    First, 22-24, 61
+    Second, 24, 61, 66
+    Dress, 73, 74
+    Scene and light, 74
+
+  Reinhardt, Max, 95, 106
+
+  Revolving stage, 85
+
+  "Rising of the Moon, The", Lighting of, 90
+
+  "Rivals, The", 3, 5
+
+  "Romancers, The", 15, 106, 108
+    Setting for, 97-99
+
+  Rostand, 13, 97, 108
+
+
+  Scenery, Handling and Setting of, 15, 17
+
+  "Scrap of Paper, A", Setting for, 104-105
+
+  Screens, 83, 92, 102-103, 104
+
+  Settings, Stage, 77, 81, 82, 83, 85, 89, 91
+    "Box sets", 82, 89, 91
+    Examples of, 93-94, 95-97, 97-99, 100-101, 102-106
+
+  Sex plays, 4
+
+  Shakespeare's plays, Settings for, 92, 98-94, 94-97, 97-99, 106
+    Stage business of, 52
+
+  Shaw, G. Bernard, 3, 13, 34, 47
+
+  Sheridan, Richard Brinsley, 3, 5
+
+  "She Stoops to Conquer", 5
+
+  Simpson, J. Palgrave, 104
+
+  Sophocles, 4
+
+  Staff, Duties of members of, 9-17, 73-75
+    Head of (Director) 8-10
+    Organization of, 8-16
+
+  Stage, Physical requirements of, 76
+    Revolving, 85
+    Wagon, 85
+
+  Stage "business", 52, 61, 62, 64, 66, 69-70,
+    Examples of, 62, 63-64, 65
+    How to remember, 60
+
+  Stage directions, 28 (_Note_)
+    For "You Never Can Tell", 35-40
+
+  Stage grouping, _see_ GROUPING
+    Lighting, _see_ LIGHTING
+    Manager, Duties of, 10-11, 13, 14, 15, 16, 22, 23, 28, 74
+    Settings, _see_ SETTINGS
+
+  Sudermann, Hermann, 100
+
+  "Sumurun", Background for, 106
+
+
+  Terence, 5
+
+  "Theatre of To-day, The", 76 (_Note_), 79
+
+  Thesis plays, 4
+
+  Translations, 6
+
+  "Twelfth Night", Settings for, 94-99, 106
+
+  "Twins, The", 5
+
+
+  Understudies, 16, 21
+
+
+  Wagon Stage, 85
+
+  Wardrobe mistress, _see_ COSTUME MAN
+
+  Warfield, David, 89
+
+  Wilde, Oscar, 3, 24, 47
+
+
+  "You Never Can Tell", 3, 13
+    Diagram of, 40-45
+    Quoted, 35-40
+    Stage directions of, 40
+
+
+
+
+                           Transcriber Notes:
+
+Passages in italics were indicated by _underscores_.
+
+Passages in bold were indicated by =equal signs=.
+
+Small caps were replaced with ALL CAPS.
+
+Throughout the dialogues, there were words used to mimic accents of the
+speakers. Those words were retained as-is.
+
+The illustrations have been moved so that they do not break up
+paragraphs and so that they are next to the text they illustrate. Thus
+the page number of the illustration might not match the page number in
+the List of Illustrations, and the order of illustrations may not be the
+same in the List of Illustrations and in the book.
+
+Errors in punctuations and inconsistent hyphenation were not corrected
+unless otherwise noted.
+
+On page 115, "Minna Von Barnhelm" was replaced with "Minna von
+Barnhelm".

@@ -1,0 +1,1740 @@
+RHYMES AND
+  METERS
+
+  A PRACTICAL MANUAL
+  FOR VERSIFIERS
+
+  BY
+  HORATIO WINSLOW
+
+  THE EDITOR PUBLISHING COMPANY
+  Deposit, N. Y.
+  1909
+
+
+
+  COPYRIGHT, 1906, BY
+  THE EDITOR PUBLISHING COMPANY
+
+  THE OUTING PRESS
+  DEPOSIT, N. Y.
+
+
+
+
+PREFACE
+
+
+Throughout the following pages "verse" stands for any kind of metrical
+composition as distinguished from prose. It is not used as a synonym for
+"poetry." Though most poetry is in verse form, most verse is not poetry.
+The ability to write verse can be acquired; only a poet can write
+poetry. At the same time, even a poet must learn to handle his verse
+with some degree of skill or his work is apt to fall very flat, and the
+mere verse writer who cannot rhyme correctly and fit his lines together
+in meter had much better stick to prose.
+
+This book has been compiled with one end in view: to arrange in a
+convenient and inexpensive form the fundamentals of verse--enough for
+the student who takes up verse as a literary exercise or for the older
+verse writer who has fallen into a rut or who is a bit shaky on theory.
+It is even hoped that there may be a word of help for some embryo poet.
+
+In construction the plan has been to suggest rather than to explain in
+detail and as far as possible to help the reader to help himself. No
+verse has been quoted except where the illustration of a point made it
+necessary. With the increasing number of libraries it ought to be an
+easy matter for any one to refer to most of the lesser verse writers as
+well as all the standard poets.
+
+
+
+
+CONTENTS
+
+  CHAPTER I
+      VERSE MAKING IN GENERAL                9
+
+  CHAPTER II
+      METER                                 17
+
+  CHAPTER III
+      RHYME                                 25
+
+  CHAPTER IV
+      STANZA FORMS                          31
+
+  CHAPTER V
+      SUBTLETIES OF VERSIFICATION           37
+
+  CHAPTER VI
+      THE QUATRAIN AND SONNET               45
+
+  CHAPTER VII
+      THE BALLADE AND OTHER FRENCH FORMS    53
+
+  CHAPTER VIII
+      THE SONG                              67
+
+  CHAPTER IX
+      TYPES OF MODERN VERSE                 75
+
+  CHAPTER X
+      VERSE TRANSLATION                     85
+
+  CHAPTER XI
+      ABOUT READING                         93
+
+  CHAPTER XII
+      HINTS FOR BEGINNERS                  101
+
+  APPENDIX
+      (a) THE VERSE MARKET                 111
+
+      (b) SUGGESTIONS FOR READING          114
+
+
+
+
+I
+
+VERSE MAKING IN GENERAL
+
+
+
+CHAPTER I
+
+VERSE MAKING IN GENERAL
+
+
+It is scarcely necessary to write a defense of verse making. As a
+literary exercise it has been recommended and practiced by every
+well-known English writer and as a literary asset it has been of
+practical value at one time or another to most of the authors of to-day.
+Indirectly it helps one's prose and is an essential to the understanding
+of the greatest literature.
+
+The fact that courses in "Poetics" have been established at all the
+large universities shows the interest which verse making has aroused in
+America. In England the ability to write metrical verse has long been
+considered one of the component parts of the education of a university
+man.
+
+Looked at from the purely practical side, even though not a single line
+be sold, verse making has its value. It strengthens the vocabulary;
+teaches niceness in the choice of words; invigorates the imagination and
+disciplines the mind far more than a dozen times the amount of prose.
+
+But, though careful verse is much more difficult to write than careful
+prose, slipshod verse is not worth the ink that shapes it. In taking up
+verse writing the student must solemnly resolve on one thing: to
+consider no composition complete until it proves up--until the rhymes
+and meter are perfect. This "perfection" is not as unattainable as it
+sounds, for the laws of rhyme and meter are as fixed as the laws of the
+Medes and the Persians. Any one may not be able to write artistic verse,
+but any one can write true verse, and the only way to make a course in
+verse writing count is to live up to all the rules; to banish all ideas
+of "poetic license"; to write and rewrite till the composition is as
+near perfect as lies in one, and finally to lay aside and rewrite again.
+
+After the line scans and the rhymes are proved should come the effort
+to put the thought clearly. It is often hard to say what one means in
+prose. It is harder in verse. In fact, one of the greatest difficulties
+any verse maker can overcome is the tendency to be obscure in his
+meaning.
+
+With the surmounting of this obstacle comes simplicity of diction; to
+present the thought without superfluous words; to avoid the threadbare
+phrases and to put the idea in a new way and yet in plain speech. How
+far the verse maker will go in clearness and simplicity depends largely
+on his natural good taste and discrimination. The better he is able to
+appreciate the work of others the better his own will become, and this
+appreciation, though it cannot be created, can be cultivated as well as
+good manners. To-day more than ever before good reading is one of the
+prime essentials to good writing.
+
+Stevenson has recommended imitation as a road to originality and few
+have disagreed with him on this point. It is undoubtedly easier to write
+a sonnet if one is familiar with Wordsworth or to write a ballade if
+one has read Dobson. At the same time to be of value the imitation must
+be done broadly and systematically. The artist does not learn to draw by
+copying Gibson heads nor the verse maker to write by diluting Kipling.
+An imitation should always be made with the idea of reproducing some one
+quality which the imitator wishes to develop in himself; the verse maker
+should copy not one style but many, and aim at methods rather than
+mannerisms.
+
+For a first step in imitation it is well to select a subject akin to the
+original and follow the author's construction and trend of thought as
+closely as possible. For instance, there is a sonnet on Milton--write a
+companion sonnet on Shakespeare or Dante. Match stanzas to Washington
+with similar stanzas to Lincoln or Cromwell or any other character who
+can be treated in the same general manner. Gray's "Elegy in a Country
+Churchyard" suggests other elegies in other churchyards.
+
+One may even parody a poem--not broadly, line for line in the American
+fashion--but in the more delicate Calverley way, which applies the
+spirit and meter of the poem to a lighter subject. One must imitate
+before one can originate, but haphazard imitation leads nowhere.
+
+In conclusion it may be said that verse making is no mystic art hidden
+from the many. It is to be acquired by any one who is willing to work at
+it steadily and consistently. First, a start in the right direction, and
+then practice--practice--practice.
+
+Nothing "dashed off" or "turned out," but every composition saved from
+the wastebasket made--
+
+  Correct in construction,
+  Clear in thought,
+  Simple in diction.
+
+
+
+
+II
+
+METER
+
+
+
+CHAPTER II
+
+METER
+
+
+A metrical composition is divided into lines, each line containing a
+definite number of syllables. These syllables are grouped by twos and
+threes into "feet" which, by their makeup, determine the meter or
+movement of the line.
+
+Meter in English verse is built up through accent alone, but, though
+this principle differs entirely from that of the ancients, who depended
+on the length of the syllable, we still cling to the names with which
+they distinguished the different feet. It will be discovered that by
+combining accented and unaccented syllables into groups of two, three
+and four an immense variety of feet can be produced. In fact the Roman
+poets made use of about thirty. In English verse we disregard the
+four-syllabled foot altogether and make use only of the two and three
+syllabled.
+
+Those commonly accepted are:
+
+  Iambus [u][-]      Dactyl [-][u][u]
+
+  Trochee [-][u]     Anapest [u][u][-]
+
+  Spondee [-][-]     Amphimacer [-][u][-]
+
+           Amphibrach [u][-][u]
+
+The dash stands for the accented syllable.
+
+An idea of the use of these meters in verse may be gained from the
+following examples:
+
+  IAMBIC
+
+     u   -- |  u ---- |  u   --  | u  - |  u   | -----
+  "From low | to high | doth dis | solu | tion | climb
+
+   u    -  |   u  ---- | u   -  |  u -  | u  --
+  And sink | from high | to low | along | a scale."
+
+
+  TROCHAIC
+
+   ----  u  | --- u   | --  u  | --  u
+  "Tell us, | Master, | of thy | wisdom
+
+  --   u  |  ---   u  | ----  u  | ----   u
+  Ere the | chains of | darkness | bind thee."
+
+
+  DACTYLLIC
+
+   ----  u  u  |  -- u  u
+  "Take her up | tenderly
+
+   --   u    u  |  --
+  Lift her with | care."
+
+
+  ANAPESTIC
+
+    u  u ----  | u   u  --  |  u  u  ---- |  u
+  "If he talks | of his bak | ing or brew | ing
+
+   u  u ----- |  u  u  --- |  u  u ---
+  If he comes | to you rid | ing a cob."
+
+A line of spondees is rarely found in our English because a succession
+of accented syllables is almost impossible with us and the amphimacer
+and amphibrach are seldom more than secondary feet in a dactyllic or
+anapestic line. Where more than one combination of syllables is used the
+line takes its name from the foot predominating.
+
+As to number, the feet in a single line are practically unlimited though
+one rarely comes across a line containing more than eight. Lines of
+three and four are more common. Indeed, in some lyrical poems we have
+lines made up of a single syllable.
+
+The classic names for lines of varying length are perhaps necessary. The
+line of two feet is a dimeter; three--trimeter; four--tetrameter;
+five--pentameter; six--hexameter; seven--heptameter and
+eight--octameter. Thus Pope's Iliad is written in iambic pentameter, in
+lines made up of five iambics; and Longfellow's Hiawatha is trochaic
+tetrameter, each line containing four trochees.
+
+It will be noticed that many lines lack the syllable or two necessary
+to complete the last foot. For instance:
+
+   -- u  | --  u  | --  u | -- u
+  "Airly | Beacon | Airly | Beacon,
+
+  -  u  | ---- u   |  --    u |  ---
+  O the | pleasant | sight to | _see_."
+
+and
+
+   --  u   u     | ---   u   u  |  ----
+  "Ah but things | more than po | _lite_."
+
+This privilege of ending in the middle of a foot is in no way a poetic
+license but lends a flexibility to the use of all meters which would
+otherwise be wofully lacking.
+
+Again we find, especially in dactyllic and anapestic lines, a trochee or
+spondee thrown in to vary the movement. In this anapestic line the meter
+is varied by a spondee:
+
+    u  u  --  |  ---  ----  |  u  u --- | u u  ---
+  "Not a drum | _was heard_ | not a fun | eral note."
+
+This insertion of a foot is always allowable if it helps the proper
+movement of the line and if it is put in voluntarily. With a beginner
+whose ear is none too well trained it is better to try only pure
+lines--lines made up of but one kind of foot. In this way the false
+extra syllable or foot is sooner found out and corrected.
+
+A first-class exercise is to write verse without rhyme or very much
+reason, whose only virtue shall be lines of exact length with meter
+regular to the verge of singsongness. As an exercise, too, it is helpful
+to take a dozen lines or more of good verse and break them up into feet.
+The greatest poets are not necessarily the best for this purpose, owing
+to the irregularity of much of their work. It is better for the beginner
+to steer clear of Browning and try the simpler and more regular
+constructions of Dobson and Praed.
+
+
+
+
+III
+
+RHYME
+
+
+
+CHAPTER III
+
+RHYME
+
+
+The rhyme most commonly used in verse is the single rhyme--the rhyme of
+one syllable. A single rhyme is perfect when the rhymed syllables are
+accented; when the vowel sounds and the following consonant sounds are
+identical and when the preceding consonant sounds are different.
+
+"Less" rhymes with "mess" and "caress" but not with "unless," because in
+this last case the preceding consonant sounds are the same. It will
+rhyme with "bless" because the "b" and "l" are so joined that the
+combined sound differs from the simple "l" of "less." "Less" does not
+rhyme with "best" because the "t" makes the concluding consonant sounds
+unlike. Nor does it rhyme with "abbess" because the accent in this word
+falls on the first syllable.
+
+A double or triple rhyme follows in construction the rules laid down for
+the single rhyme. The accents must be alike; the preceding consonants
+must differ and the vowels and the remaining syllables of the words be
+identical. "Double" goes perfectly with "trouble" and "bubble," while
+"charity," "clarity" and "rarity" all rhyme.
+
+The spelling of a word does not affect its rhyming use. It is rhymed as
+it is pronounced. "Move" and "prove" do not rhyme with "love"--all the
+poets in Christendom to the contrary. Neither does "come" rhyme with
+"home." The pronunciation is all in all and that must be decided not by
+local usage but by some standard authority.
+
+There are, however, certain words which have one pronunciation in prose
+and another in poetry. For instance, "said," "again" and "wind." It is
+permissible to take advantage of this special pronunciation and rhyme
+them with "raid," "lain" and "blind."
+
+To be strict is better than to be lax in pronunciation and it is
+absolutely necessary to rise above provincialism. "Maria" is not a
+rhyming companion for "fire" except in dialect verse, though this
+pairing sounds natural enough in some localities.
+
+In a piece of verse it is best not to have the same vowel sounds too
+close to one another in adjacent rhyming words. Lines ending "fain,"
+"made," "pain," "laid" would, of course, be correct, but the similar
+vowel sounds cause a lack of variety. An arrangement such as "through,"
+"made," "drew," "laid" would be better.
+
+Nothing disgusts the reader of verse more than an imperfect rhyme. If
+one is anxious to write well he should make it his business to see that
+every rhyme is absolutely right before a manuscript leaves his hands.
+Whatever sins may be original with a versifier at least he has no excuse
+for an unmetrical line or an untrue rhyme.
+
+To acquire facility in rhyming it is necessary to write much and to try
+all styles of endings from the single rhyme to the triple. As good
+practice as any will be found in the use of the French forms described
+in Chapter VII.
+
+But above all one must avoid the rhyming dictionary. When the verse
+maker once gets the habit of referring to its pages there is more hope
+for the amateur popular song writer than for him. Better to think half
+an hour and get the right word one's self than to tread the primrose
+path of the rhyming dictionary. It has one use, nevertheless, which is
+perhaps allowable. There are certain words, such as "chimney," "scarf,"
+"crimson," "window," "widow," and others which have no rhyme. To
+ascertain whether a word belongs to this class or not the dictionary is
+useful, though still a trifle dangerous.
+
+Verse makers will rejoice to hear that "month," once a prominent figure
+in this non-rhyming company, has fallen from the ranks. A new variety of
+butterfly has been named the "monolunth."
+
+
+
+
+IV
+
+STANZA FORMS
+
+
+
+CHAPTER IV
+
+STANZA FORMS
+
+
+Roughly speaking, the stanza in verse corresponds to the paragraph in
+prose. It is a fixed division of the composition containing a certain
+number of lines arranged in a certain rhyming order. Very often each
+stanza contains a distinct and rounded thought, such as is found in a
+paragraph, though this plan of construction is not universally followed
+by any means. In sharp dramatic verse one must use a simple stanza form
+built so that each thought ends with the last word of the last line. But
+when the movement is languid the meter and stanza form may be more
+intricate and it is sometimes best to let the thought flow from one
+stanza to another without even the jerk of the period. The effect to be
+produced is everything and should determine not only the stanza to be
+used but the details of the treatment as well. The great poet can bend
+any meter or stanza form to his use, as witness Thomas Hood with his
+galloping stanzas in the "Bridge of Sighs," but an ordinary mortal must
+produce his effects more obviously. The greater skill one has the
+greater liberties one can take in his choice of materials, just as a
+clever after-dinner speaker may say many things which from a less
+tactful person would be deemed offensive. Thomas Hood can write his
+dirges in dactylics with triple rhymes, but we must model ours on Gray's
+"Elegy" or "In Memoriam."
+
+Still the variety of stanzas is so large that one should be able to fit
+almost any verse mood without the necessity of inventing a new form or
+turning an old one out of its beaten track. There are little dimeter
+couplets like Herrick's:
+
+  "There thou shalt be
+  High priest to me."
+
+And there is the three-line stanza in many forms, of which this from
+Landor is an example:
+
+  "Children, keep up that harmless play,
+  Your kindred angels plainly say
+  By God's authority ye may."
+
+And the four-line stanza--its name is legion.
+
+The whole question resolves itself into the suitability of the form to
+the matter. The vehicle which carries the thought best is the one to be
+selected. The more appropriate the construction of the poem--the rhymes,
+the meter and the stanza--the better it will carry out the writer's
+intention. Instead of hampering his thought it will assist it.
+
+As a means of becoming acquainted with the wide resources which wait the
+verse maker, the student should copy and imitate every stanza form not
+familiar to him. In this way he will learn for himself why the
+Spenserian stanza used by Keats in his "Eve of St. Agnes" is good for
+one sort of narrative and why the ballad stanza used by Coleridge in his
+"Ancient Mariner" is good for another; why one sort of stanza sings
+merrily and why another is fitted for funeral hymns. Best of all, he
+will learn that he does not have to choose among "long meter," "short
+meter" and "Hallelujah meter," but that an almost indefinite field lies
+open for him.
+
+Also he will discover that it is not necessary to create a new stanza
+form in order to write a great poem. The sonnet, at which every poet has
+thrummed, still waits for a new master, and the "Recessional," perhaps
+the greatest poem of the last quarter century, was written in one of the
+simplest and oldest of stanzas.
+
+
+
+
+V
+
+SUBTLETIES OF VERSIFICATION
+
+
+
+CHAPTER V
+
+SUBTLETIES OF VERSIFICATION
+
+
+The more one writes the better he becomes acquainted with what might be
+called "the tricks of the trade." These "tricks," "helps," or "devices"
+can be explained only in a general way. Most of them each verse maker
+must learn for himself, but there are some broader strokes which can be
+more easily traced and pointed out and which are governed by fixed
+rules.
+
+Perhaps the most noticeable of these is alliteration. By alliteration is
+meant the succession of two or more words whose initial sounds are
+identical or very similar.
+
+  "The _rich, ripe rose_ as with incense streams"
+
+is a good example.
+
+Through alliteration certain effects are produced which would otherwise
+be impossible. Instances will occur to every reader. To quote only one
+example:
+
+  "When dandelions fleck the green
+  And robins' songs _throb through_ the trees."
+
+In these two lines by William Allen White, the two "th"s, though out of
+place in most verse, here express the "throbbing" idea perfectly.
+
+Alliteration at the beginning of accented syllables is very useful in
+humorous verse, helping along the rhythm and binding the lines together.
+
+The use of onomatopoetic words, words whose sound signifies the sense,
+is so common that we seldom give it a thought. We have the "splash" of
+water; the "bang" of a gun; the "crackle" of branches and so on
+indefinitely. In verse this idea is carried a step farther. Lines are
+constructed not only with the purpose of conveying a given idea, as in
+prose, but with the additional end of strengthening this idea and
+impressing it on the mind of the reader through the choice and
+arrangement of the words.
+
+  "Up a _high hill_ he _heaves_ a _huge_ round stone."
+
+In this the successive "h" sounds suggest the hard breathing and labor
+of the ascent.
+
+Browning imitates the sound of galloping in the meter of his ride from
+Ghent to Aix.
+
+  "I sprang to the stirrup and Joris and he,
+  I galloped, Dirck galloped, we galloped all three."
+
+Tennyson is full of such turns as this:
+
+  "Where lay the bones of ancient men,
+  Old knights, and over them the sea-wind sang,
+  _Shrill, chill_, with flakes of foam."
+
+The two words certainly give a most wonderful impression of the shriek
+of the cold sea-wind.
+
+Instances of this sort might be added indefinitely but these are enough
+to give the general idea. As a rule the best use of any device of this
+purpose is served when it is not too apparent; when it produces the
+effect without calling attention to the means.
+
+In a certain sort of languishing verse of the mystical type an effect of
+quaintness and dreaminess is produced by emphasizing the last syllables
+of words whose accent by right falls on a previous syllable. This is
+done by pairing them with pronounced rhymes. For instance, "tears"
+rhymes with "barriers," "her" with "well-water" and so on. It must be
+understood that, as an attempt to rhyme, this sort of thing is not to be
+countenanced, but it is perfectly allowable when it is used to obtain a
+certain effect.
+
+Take this stanza from Whitman's "Song of the Broad-Axe," one of the few
+specimens we have of his attempts at rhyme and meter. It is a true
+barbaric chant whose full-mouthed syllables reproduce in little the
+blows of the axe.
+
+  "Weapon shapely, naked, wan,
+  Head from the mother's bowels drawn,
+  Wooded flesh and metal bone, limb only one and lip only one,
+  Gray blue leaf by red-heat grown, helve produced from a little seed sown,
+  Resting the grass amid and upon,
+  To be leaned and to lean on."
+
+Though our English verse largely disregards the quantity or length of a
+syllable, in some lines this must be considered as well as accent. A
+light meter and stanza may very easily be spoiled by the introduction of
+a too-strong word. For instance, "gnarled," "strength," "thrust," and so
+on are very much longer than "may," "well," "the," "for," and many other
+of the one-syllabled words. When a line scans correctly but "somehow
+sounds wrong," in nine cases out of ten the fault can be traced to a
+long syllable that should have been short or a short syllable that
+should have been long.
+
+
+
+
+VI
+
+THE QUATRAIN AND SONNET
+
+
+
+CHAPTER VI
+
+THE QUATRAIN AND SONNET
+
+
+_The Quatrain_
+
+In the seventeenth century the quatrain was a favorite tool of the old
+English writers who wished to embody a stinging epigram or epitaph in
+verse. The works of Robert Herrick contain several, most of them,
+unfortunately, not fit for print. Nor was he the only unblushing
+exponent of the questionable quatrain.
+
+But times have changed and like everything else the quatrain has grown
+respectable. From the disuse and misuse into which it had fallen the
+modern magazine editor rescued it and by creating a market revived the
+art of quatrain making. To-day sometimes the four lines are descriptive;
+again they contain a kindly or clever epigram, or perhaps an unexpected
+twist at the end that makes for a joke.
+
+The average quatrain is in iambic pentameter with alternate lines
+rhyming. Sometimes the first and fourth lines rhyme and the second and
+third, and occasionally one sees a detached Omaric stanza. It all
+depends upon the thought and the way it is to be expressed. One thing is
+certain, that the quatrain because of its very brevity demands more care
+and polishing than a longer piece of verse. The thought must not only be
+concise and clearly expressed but the four lines must contain nothing
+else.
+
+The following example by Frank Dempster Sherman not only describes this
+form of verse but is an excellent quatrain in itself:
+
+  "Hark at the lips of this pink whorl of shell
+    And you shall hear the ocean's surge and roar:
+  So in the quatrain's measure, written well
+    A thousand lines shall all be sung in four."
+
+
+_The Sonnet_
+
+It is the ambition of many a versifier to be known as a maker of
+sonnets. Doubtless this love for the form is prompted not only by its
+possibilities but even more by its traditions. Shakespeare, Milton,
+Wordsworth and Rossetti, to mention only a few of the celebrated names,
+were masters of the sonnet, though it must be said that the version used
+by the earlier English writers was not the one we know to-day.
+Shakespeare's seventy-third sonnet may serve as a fair example of the
+arrangement of the lines in the early Elizabethan period, though even in
+his day the present rhyming order was passing gradually into use.
+
+  "That time of year thou may'st in me behold
+    When yellow leaves or few or none do hang
+  Upon the boughs which shake against the cold,
+    Bare ruined choirs where late the sweet birds sang.
+  In me thou see'st the twilight of such day
+    As after sunset fadeth in the west,
+  Which by and by black night doth take away,
+    Death's second self that seals up all in rest.
+  In me thou see'st the glowing of such fire
+    That on the ashes of his youth doth lie,
+  As the death bed whereon it must expire,
+    Consumed with that which it was nourished by.
+  This thou perceivest which makes thy love more strong,
+  To love that well which thou must leave ere long."
+
+This fourteen lines, as an examination will discover, might be written
+in three four-line stanzas with an additional two lines as an
+epigrammatic envoy. In fact it can scarcely be called a sonnet at all,
+and the last two lines come out with such force as to offend the ear
+accustomed to the more modern form.
+
+The sonnet by Keats, "On First Looking into Chapman's Homer," is an
+excellent illustration of the change in the rhyming system and emphasis.
+
+  "Much have I travelled in the realms of gold,
+    And many goodly states and kingdoms seen;
+    Round many western islands have I been
+  Which bards in fealty to Apollo hold.
+  Oft of one wide expanse had I been told
+    That deep-browed Homer ruled as his demesne:
+    Yet did I never breathe its pure serene
+  Till I heard Chapman speak out loud and bold:
+
+  Then felt I like some watcher of the skies
+    When a new planet swims into his ken;
+  Or like stout Cortez when with eagle eyes
+    He stared at the Pacific--and all his men
+  Looked at each other with a wild surmise--
+  Silent, upon a peak in Darien."
+
+The first eight lines rhyme: a, b, b, a, a, b, b, a; the last six: c, d,
+c, d, c, d. Thus the sonnet halts only at one place, the interval
+between the eighth and the sixth lines, where the rest is welcome, while
+the emphasis, instead of coming out so brazenly at the end, reaches its
+climax in the next to the last line, dying away gradually. The order of
+the eight lines in the modern sonnet is almost invariably unchanged, but
+the sestet is varied as the movement of the thought dictates.
+
+As to sonnet construction little can be said here or, if one wished to
+go into detail, so much could be said that it would fill this volume a
+dozen times. Keats, Wordsworth and Rossetti, to say nothing of a dozen
+or more modern sonneteers, are safe models to follow. One trifling
+suggestion seems in order. There are so many really good sonnets now
+that a second-rate production is a drug on the market. Except as an
+exercise it is altogether superfluous. A first-class sonnet must be
+grounded first on an idea and then rewritten and worked over until the
+idea has found a fit setting. Commonplaceness either in the idea or its
+expression is alike fatal.
+
+
+
+
+VII
+
+THE BALLADE AND OTHER FRENCH FORMS
+
+
+
+CHAPTER VII
+
+THE BALLADE AND OTHER FRENCH FORMS
+
+
+The Anglo Saxons were a hard-drinking race whose bards chanted
+interminable battle songs to tables of uncritical, mead-filled heroes.
+As a result the English language grew up without many of the finer
+points of verse and bare especially of all fixed forms. It was this
+latter lack which Austin Dobson sought to supply by imitating in English
+the ballade, triolet, villanelle and other verse arrangements at that
+time used only by the French and not very generally among them.
+
+
+_The Ballade_
+
+Of these the ballade is the best known, and Dobson's "Ballade of the
+Pompadour's Fan" is subjoined as one of the most popular and most easily
+imitated.
+
+  "Chicken skin, delicate, white,
+    Painted by Carlo Van Loo,
+  Loves in a riot of light,
+    Roses and vaporous blue;
+  Hark to the dainty frou-frou!
+    Picture above if you can
+  Eyes that would melt like the dew--
+    This was the Pompadour's fan!
+
+  "See how they rise at the sight,
+    Thronging the OEil de Boeuf through,
+  Courtiers as butterflies bright,
+    Beauties that Fragonard drew;
+  Talon rouge, falbala, queue,
+    Cardinal Duke,--to a man,
+  Eager to sigh or to sue,--
+    This was the Pompadour's fan.
+
+  "Ah, but things more than polite
+    Hung on this toy, voyez vous!
+  Matters of state and of might,
+    Things that great ministers do.
+  Things that maybe overthrew
+    Those in whose brains they began;
+  Here was the sign and the cue,--
+    This was the Pompadour's fan.
+
+              ENVOY
+
+  "Where are the secrets it knew?
+    Weavings of plot and of plan?
+  But where is the Pompadour, too?
+    This was the Pompadour's fan."
+
+It will be noticed that there are but three rhyming sounds, also that
+the last line of the first stanza is repeated as the last line of the
+other two and the envoy. The lines rhyme together a, b, a, b, b, c, b,
+c, in each stanza and in the envoy b, c, b, c. The most frequent rhyme
+occurs fourteen times; the next six and the "c" rhyme five. With the
+exception of the refrain there is no repetition of rhymes in the proper
+ballade. Even Dobson's use of "cue" and "queue" is, in the strictest
+sense, an error.
+
+With its difficult rhymes the ballade is an excellent school in which to
+learn smooth-flowing verse. If one is able to write a simple and natural
+ballade the ordinary stanza forms will appear ridiculously easy.
+
+But the ballade has two bugbears: the first the refrain which refuses to
+come in naturally, and the second the envoy which insists on appearing
+as a disjointed after thought. The refrain in a good ballade makes its
+bow each time with a slight change in the significance and comes in not
+because it has been predestined for the end of the stanza, but because
+it is the only combination of words possible to round out the eight
+lines.
+
+The envoy contains the gist of the whole matter and at the same time
+must be written to be read not as an appendix but as a component part of
+the ballade. It must always come out with a ring that leaves the spirit
+of the verse stamped on the reader's mind.
+
+For overcoming these two bugbears--practice will conquer the most
+recalcitrant refrain and one may often circumvent an envoy by writing it
+first. When the sound chosen for the most frequent rhyme has but some
+sixteen or seventeen companion words an envoy written in the beginning
+will save much pondering later. It is easier to fit the unused rhymes
+into an eight-line stanza than into a four-line envoy, especially when
+the four lines are called on to sum up the thought of the whole
+production and give a clever turn to it as well.
+
+
+_The Rondeau_
+
+  "'In teacup times!' The style of dress
+  Would suit your beauty, I confess.
+    Belinda-like the patch you'd wear;
+    I picture you with powdered hair,--
+  You'd made a splendid shepherdess!
+
+  "And I, no doubt, could well express
+  Sir Plume's complete conceitedness,--
+  Could poise a clouded cane with care
+        'In teacup times.'
+
+  "The parts would fit precisely--yes:
+  We should achieve a huge success!
+    You should disdain and I despair
+    With quite the true Augustan air;
+  But ... could I love you more or less,--
+        'In teacup times'?"
+
+The rondeau's difficulties lie in its two-rhyme limitation and the
+handling of the refrain. This refrain either rounds the stanzas
+beautifully or else plays dog in the manger with the sense. In the
+common form of the rondeau it is made up of the first four syllables of
+the first line and is repeated after the eighth and thirteenth lines.
+
+A simpler form of the rondeau devised or at least introduced by Austin
+Dobson is to be found in the "May Book." This gives an idea of the
+rondeau's possibilities as a medium for more serious verse.
+
+  "IN ANGEL COURT
+
+  "In Angel Court the sunless air
+    Grows faint and sick; to left and right,
+    The cowering houses shrink from sight,
+  Huddling and hopeless, eyeless, bare.
+
+  "Misnamed, you say, for surely rare
+  Must be the Angel shapes that light
+          In Angel Court.
+
+  "Nay, the Eternities are there.
+    Death by the doorway stands to smite;
+    Life in its garrets leaps to light;
+  And Love has climbed the crumbling stair
+          In Angel Court."
+
+Villon has varied the rondeau so as to use for a refrain a single
+syllable. This form, though not so flexible as the others, has its use
+and is very apt for obtaining certain effects.
+
+
+_The Triolet_
+
+In the matter of triolets Austin Dobson is again an authority, though
+his experiments in this form are scarcely as successful as his ballades
+and rondeaus.
+
+  "TO ROSE"
+
+  AUSTIN DOBSON
+
+  "In the school of Coquettes
+    Madam Rose is a scholar:
+  O, they fish with all nets
+  In the school of Coquettes!
+  When her brooch she forgets
+    'Tis to show her new collar:
+  In the school of Coquettes
+    Madam Rose is a scholar."
+
+Here the first line is also the fourth and the seventh, while the second
+is duplicated in the last. This is another of the two-rhyme forms.
+
+The triolet seems simple enough, and, for that matter, a certain kind of
+triolet can be written by the ream. But to put the eight lines together
+in such a way that the refrain comes in freshly each time, is often a
+day's work. In a much lighter vein it is permissible to pun in the
+repeated lines so that the last repetition comes in with a different
+meaning.
+
+Though intended for the delicately humorous the triolet is sober-going
+enough to carry a thread of sentiment. Nothing could be daintier or more
+suggestively pathetic than these lines by H. C. Bunner:
+
+  "A pitcher of mignonette,
+    In a tenement's highest casement:
+  Queer sort of a flower-pot--yet
+  That pitcher of mignonette
+  Is a garden in heaven set
+    To the little sick child in the basement--
+  The pitcher of mignonette,
+    In the tenement's highest casement."
+
+
+_The Rondel_
+
+  "READY FOR THE RIDE"
+
+  H. C. BUNNER
+
+  "Through the fresh fairness of the Spring to ride,
+    As in the old days when he rode with her,
+  With joy of Love that had fond Hope to bride
+    One year ago had made her pulses stir.
+
+  "Now shall no wish with any day recur
+    (For Love and Death part year and year full wide),
+    Through the fresh fairness of the Spring to ride,
+  As in the old days when he rode with her.
+
+  "No ghost there lingers of the smile that died
+    On the sweet pale lip where his kisses were
+  ... Yet still she turns her delicate head aside,
+    If she may hear him come with jingling spur
+  Through the fresh fairness of the Spring to ride,
+    As in the old days when he rode with her."
+
+This variant of the rondeau contains fourteen lines of which the first
+two are twice repeated as refrains. But two rhymes are employed.
+
+
+_The Villanelle_
+
+  "A VILLANELLE AT VERONA"
+
+  AUSTIN DOBSON,
+
+  In the _Century Magazine_
+
+  "A voice in the scented night,
+    A step where the rose trees blow,--
+  O Love and O Love's delight!
+
+  "Cold star at the blue vault's height,
+    What is it that shakes you so?
+  A voice in the scented night.
+
+  "She comes in her beauty bright,
+    She comes in her young love's glow,
+  O Love and O Love's delight!
+
+  "She bends from her casement white,
+    And she hears it hushed and low,
+  A voice in the scented night.
+
+  "And he climbs by that stairway slight
+    Her passionate Romeo:
+  O Love and O Love's delight!
+
+  "And it stirs us still in spite
+    Of its 'ever so long ago,'
+  That voice in the scented night;
+  O Love and O Love's delight!"
+
+The second lines of each stanza rhyme and the first and third lines of
+the first stanza are alternated as refrains.
+
+The sestina has six six-line stanzas and an envoy: in the stanzas the
+final words of each line remain the same throughout, though the order is
+changed. In the three-line envoy the six words must appear again and in
+an established order. The sestina is a trifle too long to quote, but
+one of the best and sanest examples is to be found in Kipling's Seven
+Seas--"The Sestina of the Tramp Royal." Swinburne's sestinas though
+"poetic" are very cloudy in meaning.
+
+The pantoum, another involved arrangement, is made up of four-line
+stanzas in which the second and fourth lines of the first verse are used
+as the first and third lines of the second verse, and so on _ad
+infinitum_ until the weary author ends by repeating the first and third
+lines of the whole production as the second from the last and the last
+of the concluding stanza.
+
+There is great good for the beginner in writing these French forms even
+if he takes up the work only as an exercise. Their construction is so
+certain and fixed that an error is glaring. Though it may be
+brow-wrinkling to build a ballade, it is a simple matter to see its
+faults.
+
+There is also value in these forms for the advanced student. They embody
+suggestions for new stanza forms and fresh verse in general. The use of
+the ballade variant may be found in Kipling. When varied the triolet
+may give exactly the right ring for some idea which refuses to fit
+itself into the conventional molds. When one has served his
+apprenticeship he may arrange and rearrange as he sees fit, bending the
+stanza to his purpose. Of the forms he is not the slave but the master.
+
+
+
+
+VIII
+
+THE SONG
+
+
+
+CHAPTER VIII
+
+THE SONG
+
+
+A variety of verse which has great vogue now and which has so developed
+as to be considered almost as individual as the rondeau or sonnet is the
+modern "song."
+
+Formerly the "song" was written to music or at least written that it
+might be set to music, but now it must sing itself. It may dress in
+sober iambics if it pleases, but there must be a lilt and go to the
+words to suggest music. Among the best examples of this form open to the
+reader are the songs of Robert Burns. Though written to fit old Scotch
+airs the words themselves suggest a melody to any one with the slightest
+ear for music. For instance:
+
+  "My luve is like a red, red rose
+    That's newly sprung in June:
+  My luve is like the melodie
+    That's sweetly played in tune.
+
+  "As fair thou art, my bonnie lass,
+    So deep in luve am I:
+  And I will luve thee still, my dear,
+    Till a' the seas gang dry.
+
+  "Till a' the seas gang dry, my dear,
+    And the rocks melt in the sun:
+  I will luve thee still, my dear,
+    While the sands o' life shall run.
+
+  "And fare thee weel, my only luve!
+    And fare thee weel awhile:
+  And I will come again, my luve,
+    Tho' it were ten thousand mile."
+
+Though not the author of much printed verse Robert Louis Stevenson has
+written more than one singing stanza:
+
+  "Bright is the ring of words
+    When the right man rings them,
+  Fair is the fall of songs
+    When the singer sings them.
+  Still they are carolled and said--
+    On wings they are carried--
+  After the singer is dead
+    And the maker buried."
+
+Going to the works of W. E. Henley we find much very singable verse. In
+the quoted example he has used in the chorus the suggestion of an old
+Scotch stanza:
+
+  "Oh Falmouth is a fine town with ships in the bay,
+  And I wish from my heart it's there I was to-day:
+  I wish from my heart I was far away from here,
+  Sitting in my parlor and talking to my dear.
+    For it's home, dearie, home--it's home I want to be,
+    Our topsails are hoisted and we'll away to sea.
+    Oh, the oak and the ash and the bonnie birken tree,
+    They're all growing green in the old countree."
+
+Austin Dobson in a longer poem makes use of the following stanza:
+
+  "Across the grass I see her pass;
+    She comes with tripping pace,--
+  A maid I know, the March winds blow
+    Her hair across her face;--
+      With a hey, Dolly! ho Dolly!
+        Dolly shall be mine,
+      Before the spray is white with May
+        Or blooms the eglantine."
+
+In all of Kipling the singing quality is dominant. He is to be marked
+especially because in his songs he has combined the old meters so as to
+give the effect of absolute novelty. The Scotch poets of Burns' time and
+before, offer many excellent chances for imitation and study.
+Shakespeare's occasional songs are always true. A seldom quoted poem of
+Lord Byron's is full of melody:
+
+  "So we'll go no more a roving
+    So late into the night,
+  Though the heart be still as loving,
+    And the moon be still as bright.
+
+  "For the sword outwears its sheath,
+    And the soul wears out the breast,
+  And the heart must pause to breathe,
+    And love itself have rest.
+
+  "Though the night was made for loving
+    And the day returns too soon,
+  Yet we'll go no more a roving
+    By the light of the moon."
+
+Just exactly where the singing quality of a song lies it is hard to
+tell. It is not altogether in the open vowels or the meter or the flow
+of thought, though dependent on all three. It is impossible to formulate
+any rule for the construction of the song except the general laws of
+good taste. The only plan is to try and try again until the result
+contains something of the singing quality. Very often it is helpful to
+fit the words to some air imaginary or otherwise which runs in the head.
+The song may be long or short, tell little or a great deal. In practice,
+as a rule, it is less than twenty-four lines in length and expresses a
+single thought or emotion. Its only two essentials are that it be
+graceful and that it sing.
+
+
+
+
+IX
+
+TYPES OF MODERN VERSE
+
+
+
+CHAPTER IX
+
+TYPES OF MODERN VERSE
+
+
+_Vers de Société_
+
+Vers de société, "society verse," is a development of the last century;
+almost, one might say, of the last twenty-five years. In that time there
+has been composed a great volume of this sort of verse upon which a
+number of the minor poets have based their claims to remembrance. It is
+difficult to define _vers de société_; in fact, the only way it can be
+described is through examples. Its characteristics are a gracefulness of
+thought and style, a fluency in expression, a vein of delicate humor or
+sentiment and a subject which falls within the limits of "polite
+conversation." It sparkles or should sparkle with clever turns of
+thought and at times even descends to a sort of punning. No attempt is
+made to reach the sublime, but serious _vers de société_ is often
+written and is the more effective because of its contrasted setting. The
+ballade, rondeau and triolet are favorite expressions of this style of
+verse, for in general its writers seek difficult stanza forms with
+rhymes natural but never hackneyed.
+
+As an exercise its making is both profitable and difficult. On trial, it
+will be found no easy matter to write line after line of every-day
+English into balanced verse that is not commonplace, but once well done
+it is a much easier task to find a market.
+
+Calverley's "Fly Leaves" approach the classic of _vers de société_.
+Austin Dobson has worked in a more serious vein. Praed has written some
+delightfully easy specimens of the style, while in America John G. Saxe,
+Oliver Wendell Holmes and a number of contemporary writers are
+responsible for an extensive output ranking well up with England's.
+
+
+_The Dramatic Interlude_
+
+The serious drama in verse nowadays is a drug on the market as far as
+selling power is concerned, unless we except the plays of Stephen
+Phillips. There is, however, a sort of dramatic interlude which is not
+only marketable but much more easily and pleasantly written; a
+composition on the general order of Dobson's "Proverbs in Porcelain." A
+study of the "Proverbs" will go further for an understanding of the
+subject than pages of explanation.
+
+They are written in iambic tetrameter which is kept from singsongness by
+the action of the dialogue. The characters seldom end their speeches at
+the end of the line but rather in the middle, and the line is filled out
+by the first words of the next speaker.
+
+These little play fragments, built in the form of a delicate comedy, are
+not long enough to exhaust either writer or reader and are even to be
+met with now and then in our modern magazines. Their value for the verse
+maker lies in the premium which they put upon ease and naturalness of
+expression, though in addition they present a novel exercise to the
+student who is tired of writing his narratives in conventional verse.
+The "Proverbs" are suggested not as models to copy absolutely but rather
+as the base of variations which the verse maker may devise to suit his
+theme.
+
+
+_Nonsense Verse_
+
+Nonsense verse in its present development is a fairly modern growth. It
+began with the limerick which first reached the public under the kindly
+patronage of Mother Goose:
+
+  "There was an old man of Bombay,
+  Who pulled at a pipe made of clay,
+    But a long-legged snipe
+    Flew away with the pipe
+  Which vexed that old man of Bombay."
+
+With this as a beginning the limerick has spread far and wide. It has
+secured a place in modern nonsense verse corresponding to that of the
+sonnet in more serious efforts. There are even limerick fiends who
+pride themselves on their writing of limericks and others whose
+collections of the form total up in the thousands.
+
+It is very seldom that one sees a limerick now with the first and last
+lines identical. As a rule the last line differs from the first and ends
+in a new rhyme. The following taken from _Life_ represents the
+apotheosis of the limerick:
+
+  "A German from over the Rhine
+  When asked at what hour he would dine,
+      Replied, 'At Five, Seven,
+      Eight, Ten and Eleven,
+  Four, Six and a Quarter to Nine!'"
+
+Edward Lear, an English writer, began the popularization of the limerick
+in his nonsense books about 1850 and since his time it has been
+experimented with by many of the cleverest writers now before the
+public.
+
+But nonsense verse is not confined to this one form. Passing from the
+work of Lear we come to Lewis Carroll's verse in "Alice in Wonderland."
+Nothing of its kind better than "Jabberwocky" has ever been written,
+and it would be a bold verse maker who would try to improve on "The
+Walrus and the Carpenter," or any of the other "Alice poems."
+
+In a different way, though perhaps as amusing, is the Gelett Burgess
+style of nonsense verse typified in his noble quatrain to the Purple
+Cow:
+
+  "I never saw a purple cow,
+    I never hope to see one;
+  But this I'll tell you anyhow
+    I'd rather see than be one."
+
+Some years ago the college humorous publications originated a
+bloodthirsty conceit which touched the doings of Little Willie:
+
+  "Little Willie yesterday
+  When the baby went to play
+  Filled him full of kerosene.
+  Gee! but isn't Willie mean!"
+
+Since then the murderous adventures of "Little Willie" have been
+countless.
+
+They are all cannibalistic but rather catchy.
+
+The awful thing about nonsense verse is the very fine line that divides
+a masterpiece from utter drivel. Nonsense verse is very good or very
+bad. When it plays along the edges it is very pleasing but when it
+oversteps it becomes rot.
+
+
+_The Humorous Ballad_
+
+A step higher in the ladder is the Humorous Ballad. The "Comic Ballad"
+we have had with us from the days of Robin Hood, but W. S. Gilbert in
+his "Bab Ballads" reached heights before his time unsuspected. By the
+use of catchy stanzas and unusual rhymes he made the type a thing of
+art. Most readers are familiar with the "Yarn of the Nancy Bell," in
+which the solitary sailor sings:
+
+  "Oh, I am the cook and the captain bold
+    And the mate of the Nancy brig;
+  And the bos'n tight and the midshipmite
+    And the crew of the captain's gig."
+
+Since the publication of the "Bab Ballads" a great deal of verse has
+been produced along the same general lines. Mr. Wallace Irwin's
+"Nautical Ballads of a Landsman" are the most notable additions of
+recent years.
+
+
+
+
+X
+
+VERSE TRANSLATION
+
+
+
+CHAPTER X
+
+VERSE TRANSLATION
+
+
+A working knowledge of some foreign language--say French or German--is
+often very profitable to the verse maker. With a dictionary and a couple
+of text books he can make very good translations of the poetry of the
+language--work which may not bring a money return but which as an
+exercise is both interesting and valuable. The process is not
+complicated, though a good verse translation may be made as hard a task
+as any falling to the lot of the literary worker.
+
+Take a poem that strikes the fancy; read it and reread till every word
+is clear and then shape the translation into a stanza and meter as near
+the original as possible. If there are four three-line stanzas in the
+original, build the translation into four three-line stanzas as closely
+line for line as the ease of the verse will permit. In translating from
+the German the original meter can be followed accent for accent, though
+this is impossible with the French, whose syllables are without
+emphasis, and would scarcely be advisable with any of the more
+complicated Latin meters.
+
+At first it is a good idea to make the English verse rigorously exact in
+its meaning--to study every word until the verse not only rhymes and
+runs with some degree of naturalness, but also is a correct rendering of
+the cold facts. This is not so hard as it seems if one sits down and
+thinks the right word out, and it gives opportunity for an excellent
+overhauling of the vocabulary.
+
+Any one who has had a high-school course in Latin can experiment with
+Virgil, turning it either into couplets like Pope's Iliad or into the
+more appropriate meter used by Longfellow in his Evangeline. With a
+dictionary and a literal translation it is easy enough to puzzle out
+Horace, who is more modern in his thought and who is, in a way, the
+ancestor of our present _vers-de-société_ writers. There is also this
+advantage in the translation of Horace: One finds a chance to compare
+his translation with the work of many others, for Horace has been more
+widely translated than any other poet unless we except the Biblical
+writers. The fame of Father Prout rests largely on his renderings of
+Horace. Austin Dobson has translated several of the odes into the French
+forms and many other poets have turned their hand to the task.
+
+Among the Germans, Heine is a favorite with English translators, though
+many of his songs from their shortness and delicacy are hard to express
+properly. Goethe and Schiller have also been much translated and any
+collection of German poetry will show a dozen poems with which one has
+become familiar through the English versions.
+
+Among the French it is difficult to specify any particular authors, as
+they have not been so widely translated as the Germans. Alfred de
+Musset, Théophile Gautier and Paul Verlaine are, perhaps, as well known
+as any other of the more modern writers.
+
+In making translations with a view to the artistic side the result is
+apt to differ from the exercise which aims only at accuracy. For
+practice one should render line for line as nearly as possible. When one
+can do this it is allowable to take more liberties and reproduce the
+poem, not line for line as it stands, but rather as the author might
+have written it had he composed in English; to preserve the meter and
+general arrangement but to sacrifice details when necessary to the
+spirit of the poem. When the two qualities can be combined and a poem is
+translated in such a way that the lines correspond and yet do not crowd
+out the poetry the result is a masterpiece. But such things very rarely
+happen and require not only hard work but a flash of inspiration and
+good luck as well.
+
+Very often a poem can be imitated from its mother tongue. A stanza or
+two may be expanded into a ballade in English containing an elaboration
+of the original thought. It is perfectly allowable to offer a
+composition of this sort for sale provided the source is acknowledged.
+
+
+
+
+
+XI
+
+ABOUT READING
+
+
+
+CHAPTER XI
+
+ABOUT READING
+
+
+To write good verse one must read good verse. The world has spun too
+long for a man to succeed who depends wholly on his own ideas; he must
+profit by the work of others. The more poetry and the more kinds of
+poetry the verse maker reads the broader his knowledge of the subject
+becomes. First it touches his vocabulary, then his rhymes and meters and
+lastly his methods.
+
+Though all good literature is helpful in this way, the book which gives
+the most enjoyment is very apt to bring the most profit. But it should
+not be forgotten that many authors are unpopular because of a hasty
+first impression. A rainy day and a disagreeable companion will spoil
+the effect of the prettiest scenery in the world, and a bad dinner and a
+headache may turn a masterpiece into a lasting abomination. Any poet
+whose work has lived must possess some quality which is worth
+appreciating if not acquiring. Given a fair trial without prejudice he
+will speak for himself.
+
+It is not in the compass of this chapter to list the "Poets Who Should
+Be Reverenced." It is better for the verse maker to experiment and
+select his patron saints for himself. Yet attention may be called to
+certain accepted masters with whose work even the beginner should be
+familiar.
+
+At the head of the list stands the Bible. The beauty and simplicity of
+its speech fully explain how this book has inspired generation after
+generation of poets. Job, Isaiah, the Psalms and the writings of Solomon
+are in themselves a treasury of phrase and suggestion.
+
+Shakespeare is to be read for the poetry of his lines and picturesque
+word-grouping if for nothing else. For that matter, the songs of all the
+Elizabethan dramatists are worthy of study and restudy. They have a lilt
+and a lightness which make them live even now when so many literary
+fashions have passed away.
+
+The old English ballads, to be found in Percy's Reliques, Allingham's
+Ballad Book and most collections of English Literature, are a help
+toward understanding the construction of a spirited narrative poem.
+Kipling's "Ballad of East and West" shows how effectively this sort of
+treatment can be applied to a modern theme.
+
+Robert Herrick is worth while for the grace and delicacy of his poems;
+with him might be classed the better efforts of Lovelace and Sir John
+Suckling.
+
+Milton's "Paradise Lost" is perhaps the best example we have of
+continuous blank verse. It should be read but not imitated, at least not
+imitated too much. It is hard to distinguish good blank verse from bad
+and it is so easy to write the bad.
+
+Dryden's "Alexander's Feast" deserves a perpetual bookmark for the
+remarkable success with which the trend of emotion is interpreted by the
+rhythm. "The Bells," by Edgar Allan Poe, is another example of this
+treatment and is held by some critics to be equally good.
+
+Pope's verse and that of his age generally is too cleverly artificial to
+be of much use to a modern, though his mastery of the epigrammatic
+couplet might be profitably noted.
+
+As an exemplification of finished workmanship Gray's "Elegy in a Country
+Churchyard" stands alone.
+
+Robert Burns, for the swing of his songs and the flavor of his words,
+should be read continually. Much of his Scotch vocabulary might be used,
+judiciously, in English verse.
+
+In the "Eve of St. Agnes," Keats has revealed possibilities in the
+Spenserian stanza of which Spenser himself was not aware, and the "Ode
+to a Nightingale" and the "Ode on a Grecian Urn" have a classic beauty
+which can be recognized though not successfully copied.
+
+Of the more modern poets Browning's strange, uncouth phrasing is full of
+power; Tennyson's mastery is shown in his exquisite choice of words, and
+Swinburne's meters and rhymes are worth close application.
+
+And so one might go on for a dozen pages and still have an incomplete
+list. It is not what one reads but how one reads. The books wait on the
+shelves and through reading and through reading only can one cultivate
+that most necessary though indefinable quality--Good Taste.
+
+
+
+
+XII
+
+HINTS FOR BEGINNERS
+
+
+
+CHAPTER XII
+
+HINTS FOR BEGINNERS
+
+
+For one whose verse runs easily and whose occasional sales are an
+encouragement, this last chapter is perhaps unnecessary. Yet there may
+come times in routine, monotonous production when even he loses in
+interest, and with this loss his work falls off in quality. It is only
+through interest and desire that anything has ever been accomplished,
+and if these are not sustained the work must stay at a low level. Even
+the seasoned writer must look forward to his work if he wishes to
+improve.
+
+For the beginner whose airy verse does not trip but rather lumbers, who
+is unable to write anything worthy of sale and whose ideas refuse to be
+crowded into the right number of feet, it might be an excellent thing
+occasionally to drop all thought of pentameters and amphibrachs and go
+back to the old-fashioned rhymed alphabet.
+
+  "A is for Ant
+      That lives in the ground,
+  B is for Bear--
+      A terror when found----"
+
+and so on through the twenty-six harmless letters. It is an exercise in
+ingenuity if nothing else and if the writer has any skill at drawing it
+could be converted into a delightful gift for a five-year-old. Lear, the
+author of the Nonsense books, did not think it beneath his dignity to
+write six of these alphabets in varying stanza forms.
+
+A little harder, but still not too hard, is the limerick, examples of
+which are given in Chapter IX. As a gift, a series of illustrated
+limericks on people you know would have the merit of novelty at least.
+
+To see one's productions in print is always an incentive to better work.
+The type is cheering even when its legibility reveals several faults
+unnoticed in manuscript. Most small newspapers are glad to publish
+fairly good verse when the poet is willing to let it go for nothing. Be
+sure that rhyme and meter are correct and then send it in and let the
+General Public stand from under.
+
+If it is a lack of verse ideas that bothers you, try a drama. Write it
+in blank verse and crowd the action with incidental songs. This is not
+for publication, of course; not even to show your dearest friend, but
+just for practice. Put in a troubadour if you like, or anything else a
+romantic imagination may suggest, and let them sing themselves hoarse in
+every scene. In this prosaic century you might not be able to write a
+stirring love song, but if you become thoroughly identified with the
+characters, your troubadour or your fair lady would be bound to get off
+something creditable. The plot of the drama is a thing of no
+consequence; it may have as much or as little as you choose. Write the
+scenes as the mood strikes you and when you have lost interest think of
+it only as an exercise.
+
+Tennyson's "Maud" shows how a narrative poem may be treated in a series
+of lyrics and suggests imitation. The German poets, as well as some
+English writers, have song cycles, a series of poems all bearing on one
+central theme. A pedestrian trip; the life of a bird couple; the coming
+of winter, and innumerable other subjects lie close at hand suitable for
+such treatment. Henley's city types and hospital sketches lead the way
+for similar verses of things familiar to you.
+
+Very often a line from a piece of prose or verse sticks in the memory.
+Utilize the line by making it the refrain of a ballade or the ending of
+some similar verse form. Browning composed his "Childe Roland to the
+Dark Tower Came," around that single line taken from a song in "King
+Lear." It is possible to go even further and with a stanza--say from
+some Elizabethan song--construct about it the completed poem. Rossetti
+has done this with one of Ophelia's songs in "Hamlet."
+
+But keep up your interest and work for the love of working. There is
+drudgery in the learning of anything, but with verse one can at least
+make it interesting drudgery. Never give up; never be satisfied; and
+with all English literature to rove in, don't stick in a rut.
+
+Now a general summing up for the verse maker--a summing up that applies
+just as much to painting or modeling as it does to verse writing.
+
+Remember always that you are your own master and that your highest
+development must always come from yourself. On all matters of taste you
+are the court of last resort to decide for the hurt or betterment of
+your soul. So it is necessary in the beginning to be just with yourself.
+If your verses are not good, throw them away or rewrite them. If they
+are good not only when written but after they have been laid aside for a
+month; if the rhymes are true and the meter perfect; if the words run
+naturally and clearly and embody a real idea, then you may be sure that
+you have something worthy of editorial consideration at least. If the
+idea is old and put in the form that has endured, lo! these many
+generations--"love," "dove," "kiss," "bliss," very probably it will not
+be accepted. When it comes back from five magazines be fair enough to
+recognize that perhaps the fault lies with you and lay the masterpiece
+away for another two months. Then examine it fair-mindedly and try to
+see just where it falls short of perfection. But you must be you own
+worst or rather best critic. Admit it when you are wrong and when you
+are right hold your opinion against all comers.
+
+You must decide whether to write much verse or little. Sometimes
+improvement comes best with a great deal of carelessly constructed
+stuff. Again a smaller and more carefully regulated output is better. As
+a general thing, if your ear is correct and your verse comes easily, the
+better way is to write little and write carefully, spending your time on
+a few lines. If, however, your rhymes come hard and your expression is
+not fluent, try a larger output not so carefully revised.
+
+Analyze and imitate.
+
+Make the mechanical construction correct. Two rhyming words with you
+should be either good or bad; you should not recognize half-way rhymes.
+If they are not worthy to be classed with the best, throw them out
+utterly. Even in your exercises do not tolerate a false rhyme or a line
+lacking in syllables.
+
+Do not attempt too hard a thing at first. You will only be disappointed.
+Do not write a ballade until you can write a limerick. Work up
+gradually.
+
+And you must not become discouraged. If you write day in and day out,
+you are bound to improve, though the work of Wednesday be no better than
+that of Tuesday or even of Saturday. Progress goes in jumps. Nine times
+we fail and on the tenth trial we succeed.
+
+We cannot all be artists but we can all be good workmen. And the better
+we are able to handle our materials the better we shall be able, if it
+is in us, to produce something worth while.
+
+
+
+
+APPENDIX
+
+
+
+APPENDIX
+
+
+I
+
+MARKET FOR VERSE
+
+There is no market nowadays for the long poem except from writers of
+established reputation. As a rule the shorter the verse the better its
+chance of acceptance. Verse humorous is easier to dispose of than verse
+serious because there is a wider field. _Puck_, _Judge_, _Life_, _Smart
+Set_, _Ainslee's_, _Harper's_, _Century_, and an army of others are
+always willing to buy really amusing verse.
+
+Serious verse is sold in lesser quantities, but the price is
+better--when the production is bought by a high-class publication. The
+_Atlantic Monthly_ is always on the lookout for new writers and other
+magazines are prompt to recognize what pleases them even in the work of
+a newcomer. Perhaps the most standard popular forms of serious verse are
+the sonnet and the short love lyric.
+
+Many editors are glad to buy quatrains and even couplets to fill out a
+page when a longer form would be rejected. The well-written triolet is
+also sure of a hearing for this same reason.
+
+Newspapers pay little or nothing for verse except when a special writer
+is put on the staff to supply a column of verse a day. Occasionally some
+topical stanza which agrees with the editorial policy will be accepted
+from an outsider. It may be pointed out here that very often the humor
+or appropriateness of a production will overbalance faults in the rhyme
+and meter. In serious verse an exception of this sort will rarely be
+found and a thing must stand or fall on its real merits.
+
+There is no sure way to determine the market except by personal
+investigation. Read the magazines till you find out where the editor's
+preference lies and then try him with something of your own, written not
+in imitation but on the same general lines. Do not send out your verse
+in a hit-or-miss fashion. Separate the limericks and the love songs and
+send them each to their appointed editor.
+
+In spite of the protestations of interested publishers the reading
+public does not interest itself in the volume of "collected poems." A
+book of this sort is rarely looked at unless it runs very much out of
+the ordinary or comes as the product of some well-known author.
+
+
+II
+
+SUGGESTIONS FOR READING
+
+This is not intended in any way to be an exhaustive list. It merely
+suggests the field which each student is bound to explore for himself.
+
+
+TECHNIQUE OF VERSE.
+
+The Rhymester--Tom Hood. Concise; with rhyming dictionary appendix.
+
+Science of Verse--Sidney Lanier. Worth while for the advanced student.
+
+--The Poetic Principle,
+
+--Philosophy of Compensation,
+
+--Rationale of Verse. Essays by Edgar Allan Poe; to be found in his
+collected works. Very interesting as showing the methods and viewpoint
+of a great poet.
+
+
+COLLECTIONS OF POETRY.
+
+Ward's English Poets. Four volumes ranging from Chaucer to Tennyson.
+
+Oxford Book of English Verse. One large volume containing the work of
+many of the living writers as well as selections from all the standard
+poets.
+
+--Victorian Anthology.
+
+--American Anthology. Both compiled by Edmund Clarence Stedman. Valuable
+because they contain examples of the best work of to-day's verse makers.
+
+
+THE SONNET.
+
+Examples of the sonnet are to be found in almost any collection of
+verse. The older magazines, especially the _Atlantic Monthly_, use the
+form continually. The best known sonnet series are:
+
+Astrophel and Stella--Sir Philip Sidney.
+
+Sonnets of Shakespeare.
+
+House of Life--Rossetti.
+
+Sonnets from the Portuguese--Elizabeth Barrett Browning.
+
+
+FRENCH FORMS.
+
+Examples are to be found in the collected poems of Austin Dobson, Andrew
+Lang, W. E. Henley and H. C. Bunner, to mention only the more prominent.
+The Ballade Book, edited by Gleeson White, Ex Libris Series, contains
+examples of all the forms and is probably the most convenient collection
+to be had.
+
+
+THE SONG.
+
+In this connection see Burns, Moore, Tennyson, together with Scotch
+collections and the work of W. B. Yeats and other modern Irish writers.
+For rhythm and a different sort of "song" see Kipling. The Vagabondia
+Series by Bliss Carman and Richard Hovey are worth buying. Occasional
+poems, falling under this head, are to be found in almost any volume of
+the poets.
+
+
+VERS DE SOCIÉTÉ.
+
+About the best single book is a volume in the Leisure Hour Series
+entitled "Vers de Société." It gives an excellent idea of the field
+covered. Among the strongest writers of this style of verse are Austin
+Dobson, C. S. Calverley, Andrew Lang, W. M. Praed and H. C. Bunner.
+Perhaps the best known English writer of to-day is Owen Seaman, whose
+work appears weekly in _Punch_.
+
+
+NONSENSE VERSE.
+
+Mother Goose.
+
+The Burgess Nonsense Book--Gelett Burgess.
+
+A Nonsense Anthology--Carolyn Wells.
+
+A Parody Anthology--Carolyn Wells.
+
+
+HUMOROUS BALLADS.
+
+Bab Ballads--W. S. Gilbert.
+
+Grimm Tales Made Gay--Guy Wetmore Carryl.
+
+Nautical Ballads of a Landsman--Wallace Irwin.
+
+
+TRANSLATIONS.
+
+It is difficult to quote any translator in particular who is worth
+while. Most translators are not poets and most poets have not been
+translators. The book of solid translation is generally very mediocre
+and tiresome. Translations of the greatest foreign poets are to be found
+in any fair-sized public library. Longfellow, Swinburne, Rossetti,
+Dobson, Lang and a few others have left occasional translations which
+are models of the best of this work.

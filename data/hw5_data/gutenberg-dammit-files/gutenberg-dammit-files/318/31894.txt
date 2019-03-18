@@ -1,0 +1,1442 @@
+TWO LATIN PLAYS FOR
+  HIGH-SCHOOL STUDENTS
+
+
+  By
+
+  SUSAN PAXSON
+
+  Instructor in Latin in the Omaha High School
+
+
+  GINN AND COMPANY
+  Boston · New York · Chicago · London
+  Atlanta · Dallas · Columbus · San Francisco
+
+
+
+
+  Copyright, 1911, by Susan Paxson
+  All Rights Reserved
+  522.10
+
+
+  The Athenæum Press
+
+  Ginn and Company · Proprietors
+  · Boston · U.S.A.
+
+
+
+
+  _CUI BONO?_
+
+
+  _If this little entertainment shall give pleasure and
+  be of profit to any who have set out on their
+  toilsome journey into the realm of Latin
+  Literature, the writer's aim will
+  be accomplished_
+
+
+
+
+PREFATORY NOTE
+
+
+I am greatly indebted to Mrs. C. H. Beeson and to Professor Frank J.
+Miller, of the University of Chicago. To the former, for her most
+scholarly and generous assistance in the correcting of the manuscript
+and for her many valuable suggestions throughout the work; to the
+latter, for his painstaking reading of the proof and for his kindly and
+helpful interest. In fact, it was largely due to the helpful uplift that
+came to some of my advanced classes, as well as to myself, from the
+presentation of Professor Miller's "Dramatizations from Vergil" that
+these little plays were written.
+
+  SUSAN PAXSON
+
+
+
+
+CONTENTS
+
+
+                                    Page
+
+  INTRODUCTION                        ix
+
+  A ROMAN SCHOOL                       1
+
+      COSTUMES                        16
+
+  A ROMAN WEDDING                     19
+
+      COSTUMES AND SUGGESTIONS        37
+
+
+
+
+INTRODUCTION
+
+
+In response to the invitation of the author and publishers, I am glad to
+stand godfather to this little book of original Latin plays. They are
+the product of an enthusiastic teacher coöperating with students whom
+she has, in part by this means, inspired with a genuine interest in
+Roman life and its expression in the Latin tongue. They offer a helpful
+contribution to the solution of the ever-present and vexing problem
+which teachers of Latin in secondary schools are meeting: How can we
+make this Latin _interesting_ to our pupils? How can we compete with
+departments which more easily hold the pupils' interest because their
+subject matter touches more nearly the various phases of modern life?
+It is, indeed, true that any subject well taught by a live teacher will
+interest pupils. But, even where this condition is realized, the need
+is being felt more and more of something which will vary the deadly
+monotony incident to the learning of the technique of a language,
+especially one which makes its appeal largely to the eye alone through
+the medium of the printed page.
+
+It is one of the most encouraging features of our present-day classical
+work that teachers more and more are inventing ways of vitalizing their
+teaching without weakening it. For this must always be borne in mind:
+that we are not seeking to gain mere _interest_. What we want is
+interest in _Latin_. We want our students to be so interested that they
+will cheerfully endure all the hardships incident to this study because
+they have discovered that it is worth while in itself, because it has
+come to mean something to them, because it actually touches their own
+lives.
+
+If the reader will scan the department of "Current Events" in the
+present volume of the _Classical Journal_, he will find many indications
+of this new spirit among classical teachers in the schools. Thus we find
+a Latin club in a high school in Columbus, Ohio, giving, among other
+activities, an exhibition of a Roman _triclinium_, in which the whole
+scene was enacted as nearly as possible in the Roman fashion,
+accompanied by Latin songs. And thus the pupils were made to realize
+that the Roman's life was not entirely one of warfare, but that he ate,
+drank, and acted as a real human being. In Kansas, a classical club was
+recently organized by the students of Hiawatha Academy, whose program
+consists of talks on classical subjects and Latin songs, followed by a
+social hour enlivened by Latin games. In Lincoln, Nebraska, a live Latin
+club has originated in an exceptionally strong Cæsar class. They call
+themselves the _Legio Decima_, because they scorn "anything that has to
+do with cavalry"! Their program abounds in live topics connected with
+the Latin work and unique representations of Roman life.
+
+But the greatest success seems to have been gained through the dramatic
+presentation of matter pertinent to the students' work. We read of a
+spirited entertainment by the students of a Seattle high school, in
+which were given scenes from the "Menaechmi" of Plautus, together with
+the singing of several odes of Horace which had been set to appropriate
+music. Others have attempted a play of Terence. Scores of schools have
+presented dramatized scenes from Vergil; and we read of a school in
+Georgia where Horace's ninth satire, itself a complete little drama as
+it stands, was played by the students. In the same school portions of
+Cæsar were dramatized and acted; and a dramatization based on the
+conspiracy of Catiline was recently sent to me from a school in Indiana.
+
+From all these and many other points it is reported that great interest
+is aroused among the students, primarily in the fact and production of
+the play itself, but resulting also in a permanent interest in the more
+serious and regular work of the Latin class. The author of the plays
+presented in this book has herself already reaped rich rewards of her
+work in the continued zeal of her students for their Latin study after
+they have passed on to college. She writes that the boy who played
+"Cicero" in the wedding last year is now a freshman in an eastern
+college, and still finds Latin the work of his greatest interest and
+success; and the girl who was "Tullia" in the play is also a freshman in
+college, with zeal and courage enough to attempt the composition of
+Latin hymns.
+
+The difficulty heretofore felt by teachers and their Latin clubs has
+been in finding appropriate plays in Latin simple enough for their
+pupils to master without undue hardship, and appealing strongly in their
+subject matter to the young student; and I feel sure that in these two
+plays, "A Roman School" and "A Roman Wedding," will be found just the
+material which has been sought. Aside from the awakened interest of the
+student and the vivid impression which his mind will receive of these
+two important phases of Roman life, who can estimate the actual gain in
+the acquisition of the Latin language itself, which will come not alone
+to those students who are fortunate enough to take part in these plays,
+but to those as well who listen to the rehearsals and to the final
+production?
+
+I therefore most cordially commend these plays to all teachers of Latin,
+and urge that they be presented in the schools each year wherever
+possible.
+
+  FRANK JUSTUS MILLER
+  The University of Chicago
+
+
+
+
+A ROMAN SCHOOL
+
+90 B.C.
+
+
+
+
+  DRÂMATIS PERSÔNAE
+
+  Magister
+  Servî
+  Paedagôgus
+  Aulus Licinius Archiâs   } _iûdicês_
+  Pûblius Licinius Crassus }
+  Gâius Licinius Crassus, _adulêscêns_
+
+  _Discipulî_
+
+    Mârcus Tullius Cicerô
+    Quîntus Tullius Cicerô
+    Lûcius Sergius Catilîna
+    Mârcus Antônius
+    Gâius Iûlius Caesar
+    Appius Claudius Caecus
+    Gnaeus Pompêius
+    Pûblius Clôdius Pulcher
+    Mârcus Iûnius Brûtus
+    Quîntus Hortênsius Hortalus
+    Lûcius Licinius Lûcullus
+    Gâius Claudius Mârcellus
+    Mârcus Claudius Mârcellus
+
+
+
+
+A ROMAN SCHOOL
+
+
+  When the curtain is drawn, plain wooden benches are seen arranged in
+  order on the stage. Two boys stand at the blackboard, playing "odd
+  or even"; two others are noisily playing _nuces_[1]; one is playing
+  with a top, another is rolling a hoop, and a third is drawing a
+  little toy cart. Three boys in the foreground are playing ball. They
+  are Quintus Cicero, Marcus Cicero, and Marcus Antonius. With their
+  conversation the scene begins.
+
+    [Footnote 1: "Four or five of these (walnuts) are piled
+    pyramidally together, when the players, withdrawing to a short
+    distance, pitch another walnut at them, and he who succeeds in
+    striking and dispersing the heap wins." Story, "Roba di Roma,"
+    p. 128.]
+
+_Q. Cic._ Mihi pilam dâ!
+
+_M. Cic._ Ô, dâ locum meliôribus!
+
+_M. Ant._ Tû, Mârce, pilam nôn rêctê remittis. Oportet altius iacere.
+
+_M. Cic._ Iam satis alta erit. Hanc excipe!
+
+  (Tosses the ball very high.)
+
+_M. Mar._ (going up to L. Lucullus who has the cart). Mihi
+plôstellum dâ.
+
+_L. Luc._ Nôn, hôc plôstellum est meum. Sî tû plôstellum cupis, domum
+reversus inde pete.
+
+_M. Mar._ Mihi tû nôn grâtus es, Lûcî Lûculle.
+
+  (The _Magister_ enters and loudly calls the roll, those present
+  answering _adsum_.)
+
+_Mag._  Mârcus Tullius Cicerô.
+        Quîntus Tullius Cicerô.
+        Lûcius Sergius Catilîna.
+
+  (Catilina is absent and all shout _abest_.)
+
+        Mârcus Antônius.
+        Gâius Claudius Mârcellus.
+        Gâius Iûlius Caesar.
+        Appius Claudius Caecus.
+
+  (Appius is absent and all again shout _abest_.)
+
+        Lûcius Licinius Lûcullus.
+        Gnaeus Pompêius.
+        Pûblius Clôdius Pulcher.
+        Mârcus Iûnius Brûtus.
+        Quîntus Hortênsius Hortalus.
+        Mârcus Claudius Mârcellus.
+
+Nunc, puerî, percipite, quaesô, dîligenter, quae dîcam, et ea penitus
+animîs vestrîs mentibusque mandâte. Sine morâ respondête. (Writes on the
+board the sentence "Omnîs rês dî regunt.") Nômen _dî_, Mârce Cicerô,
+dêscrîbe.
+
+_M. Cic._ Dî est nômen, est dêclînâtiônis secundae, generis masculînî,
+numerî plûrâlis, câsûs nôminâtîvî, ex rêgulâ prîmâ, quae dîcit: Nômen
+quod subiectum verbî est, in câsû nôminâtîvô pônitur.
+
+_Mag._ Bene, Mârce, bene! Ôlim eris tû mâgnus vir, eris cônsul, eris
+ôrâtor clârissimus, quod tam dîligêns es. Quînte Cicerô! (Enter Catilina
+late. He is accompanied by a _paedagogus_ carrying a bag with
+_tabellae_.) Ô puer piger, homô perditissimus eris. Quô usque tandem
+abûtêre, Catilîna, patientiâ nostrâ? Vâpulâbis.
+
+_L. Cat._ Ô magister, mihi parce, frûgî erô, frûgî erô.
+
+_Mag._ Catilîna, môre et exemplô populî Rômânî, tibi nûllô modô parcere
+possum. Accêdite, servî! (Enter two _servi_, one of whom takes Catilina
+by the head, the other by the feet, while the _magister_ pretends to
+flog him severely, and then resumes the lesson.[2]) Pergite, puerî.
+Quînte Cicerô, verbum _regunt_ dêscrîbe.
+
+    [Footnote 2: See Johnston, "Private Life of the Romans," p. 81;
+    or Miller, "The Story of a Roman Boy."]
+
+_Q. Cic._ (hesitatingly). _Regunt_ est verbum. Est coniugâtiônis
+secundae, coniugâtiônis secundae, coniugâtiônis se . . .
+
+_Mag._ Male, Quînte. Tû es minus dîligêns frâtre tuô Mârcô. Nescîs
+quantum mê hûius negôtî taedeat. Sî pênsum crâs nôn cônfêceris, est mihi
+in animô ad tuum patrem scrîbere. Haec nîl iocor. Tuam nêquitiam nôn
+diûtius feram, nôn patiar, nôn sinam.
+
+_Q. Cic._ Ô dî immortâlês, tâlem âvertite câsum et servâte piôs puerôs,
+quamquam pigrî sunt.
+
+_Mag._ Quînte Hortênsî, verbum _regunt_ dêscrîbe.
+
+_Q. Hor._ _Regunt_ est verbum; praesêns est _regô_; înfînîtîvus,
+_regere_; perfectum, _rêxî_; supînum, _rêctum_. Est coniugâtiônis
+tertiae, generis actîvî, modî indicâtîvî.
+
+_Mag._ Rêctê, rêctê, Quînte! Bonus puer es. Gnaeî Pompêî, perge.
+
+_Gn. Pom._ (crying). Nôn pergere possum.
+
+_Mag._ Ô puer parve, pergere potes. Hanc placentam accipe. Iam perge.
+
+_Gn. Pom._ (taking the little cake and eating it). _Regunt_ temporis
+praesentis est; persônae tertiae; numerî plûrâlis nômen sequêns, ex
+rêgulâ secundâ, quae dîcit: Verbum persônam numerumque nôminis sequitur.
+
+_Mag._ Rêctê! Nônne tibi dîxî tê rem expônere posse? Nihil agis, Gnaeî
+Pompêî, nihil môlîris, nihil côgitâs, quod nôn ego nôn modo audiam, sed
+etiam videam plânêque sentiam. Gâî Mârcelle, tempus futûrum flecte.
+
+_G. Mar._ _Regam_, _regês_, _reget_, _regêmus_, _regêtis_, _regent_.
+
+_Mag._ Quae pars ôrâtiônis est _omnîs_, Gâî?
+
+_G. Mar._ _Omnîs_ est adiectîvum.
+
+_Mag._ Rêctê; estne _omnîs_ dêclînâbile an indêclînâbile, Pûblî Pulcher?
+
+_P. Pul._ _Omnîs_ est dêclînâbile, _omnis_, _omne_.
+
+_Mag._ In quô câsû est _omnîs_, Mârce Brûte?
+
+_M. Bru._ _Omnîs_ est câsûs accûsâtîvî ex rêgulâ quae dîcit: Nômen
+adiectîvum câsum et genus nôminis substantîvî sequitur.
+
+_Mag._ Cûius dêclînâtiônis est _omnîs_, Mârce Mârcelle?
+
+_M. Mar._ _Omnîs_ est dêclînâtiônis tertiae.
+
+_Mag._ Potesne omnîs dêclînâre?
+
+_M. Mar._ Oppidô, magister, auscultâ. (Declines _omnis_.)
+
+_Mag._ Mârcus Claudius, suô môre, optimê fêcit. Quam cônstrûctiônem
+habet _rês_, Mârce Brûte?
+
+_M. Bru._ _Rês_ est nômen câsûs accûsâtîvî, quod obiectum verbî _regunt_
+est. (Enter Appius Caecus late. His _paedagogus_ accompanies him.)
+
+_Paed._ Magister, Appius Claudius hodiê mâne aeger est, idcircô tardê
+venit. (Exit.)
+
+_Mag._ Poenâs dâ, "Micâ, Micâ," recitâ.
+
+_App. Caec._  Micâ, micâ, parva stella,
+              Mîror quaenam sîs, tam bella!
+              Splendêns êminus in illô
+              Alba velut gemma caelô.
+
+              Quandô fervêns Sôl discessit,
+              Nec calôre prâta pâscit,
+              Mox ostendis lûmen pûrum
+              Micâns, micâns per obscûrum.
+
+_Mag._ Quis alius recitâre potest?
+
+_All_ (shouting). Ego possum, ego possum.
+
+_Mag._ Bene; Mârce Antônî, recitâ.
+
+_M. Ant._     Três philosophî dê Tusculô
+              Mare nâvigârunt vâsculô;
+              Sî vâs fuisset tûtius
+              Tibi canerem diûtius.
+
+_Others_ (shouting). Mihi recitâre liceat.
+
+_Mag._ Recitâ, Gnaeî Pompêî.
+
+_Gn. Pom._    Iôannês, Ioannês, tîbîcine nâtus,
+              Fûgit perniciter porcum fûrâtus.
+              Sed porcus vorâtus, Iôannês dêlâtus,
+              Et plôrâns per viâs it fûr, flagellâtus.
+
+_M. Bru._ (holding up his hand). Novum carmen ego possum recitâre.
+
+_Mag._ Et tû, Brûte! Perge!
+
+_M. Bru._     Gâius cum Gâiâ in montem
+              Veniunt ad hauriendum fontem;
+              Gâius prôlâpsus frêgit frontem,
+              Trâxit sêcum Gâiam însontem.[3]
+
+    [Footnote 3: Here, as well as elsewhere, remember that _Gâius_ and
+    _Gâia_ are each three syllables.]
+
+_Mag._ Hôc satis est hodiê. Nunc, puerî, cor-- Quid tibi vîs, Quînte
+Hortênsî? Facis ut tôtô corpore contremîscam.
+
+_Q. Hor._ (who has been shaking his hand persistently). Magister,
+ego novôs versûs prônûntiâre possum. Soror mea eôs mê docuit.
+
+_Mag._ Recitâ celeriter.
+
+_Q. Hor._     Iacôbulus Horner
+              Sedêbat in corner
+              Edêns Sâturnâlicium pie;
+              Înseruit thumb,
+              Extrâxit plum,
+              Clâmâns, Quam âcer puer sum I.
+
+_Mag._ Nunc, puerî, corpora exercête. Ûnum, duo, tria.
+
+  (The _discipuli_ now perform gymnastic exercises, following the
+  example of the _magister_, who goes through the movements with
+  them. These may be made very amusing, especially if the following
+  movements are used: Arms sideways--stretch; heels--raise, knee bend;
+  forehead--firm; right knee upward--bend.)
+
+_Mag._ Cônsîdite. Pênsum crâstinum est pênsum decimum. Cavête nê hôc
+oblîvîscâminî. Pênsum crâstinum est pênsum decimum. Et porrô hunc versum
+discite: "Superanda omnis fortûna ferendô est." (The _magister_ repeats
+this verse emphatically several times in a loud and formal tone, the
+_discipuli_ repeating it after him at the top of their voices.) Iam
+geôgraphia nôbîs cônsîderanda est et Galliae opera danda. Quid dê Galliâ
+potes tû dîcere, Mârce Mârcelle?
+
+_M. Mar._ Gallia est omnis dîvîsa in partês três, quârum ûnam incolunt
+Belgae, aliam Aquîtânî, tertiam quî ipsôrum linguâ Celtae, nostrâ Gallî
+appellantur.
+
+_Mag._ Pûblî Pulcher, hôrum omnium, quî fortissimî sunt?
+
+_P. Pul._ Hôrum omnium fortissimî sunt Belgae.
+
+_Mag._ Mihi dîc cûr Belgae fortissimî sint.
+
+_P. Pul._ Belgae fortissimî sunt proptereâ quod â cultû atque hûmânitâte
+Rômae longissimê absunt, minimêque ad eôs mercâtôrês Rômânî saepe
+commeant atque ea quae ad effêminandôs animôs pertinent, important.
+
+_Mag._ Quis fînês Galliae dêsîgnâre potest?
+
+_All_ (raising hands). Ego, ego possum.
+
+_Mag._ Lûcî Lûculle, Galliae fînês dêsîgnâ.
+
+_L. Luc._ Gallia initium capit â flûmine Rhodanô; continêtur Garumnâ
+flûmine, Ôceanô, fînibus Belgârum; attingit flûmen Rhênum ab Sêquanîs et
+Helvêtiîs; vergit ad septentriônês.
+
+_Mag._ Quôs deôs colunt Gallî, Gnaeî Pompêî?
+
+_Gn. Pom._ Deôrum maximê Mercurium colunt; hunc omnium inventôrem artium
+ferunt, hunc viârum atque itinerum ducem esse arbitrantur. Post hunc
+Apollinem et Martem et Iovem et Minervam colunt.
+
+_Mag._ Bene, Gnaeî. Quem deum, Catilîna, colunt Rômânî maximê?
+
+_L. Cat._ Nôs Iovem dîvum patrem atque hominum rêgem maximê colimus.
+
+_Mag._ Nunc, puerî, cantâte. Quod carmen hodiê cantêmus? (Many hands are
+raised.) Gâî Caesar, quod carmen tû cantâre vîs?
+
+_G. Caes._ Volô "Mîlitês Chrîstiânî" cantâre.
+
+_Mag._ Hôc pulcherrimum carmen cantêmus. (A knock is heard. Enter
+Publius Licinius Crassus and Aulus Licinius Archias with slaves carrying
+scrolls.) Salvête, amîcî. Vôs advênisse gaudeô. Nônne adsîdêtis ut
+puerôs cantâre audiâtis?
+
+_A. Archias._ Iam rêctê, carmen sânê audiâmus.
+
+_Mag._ Optimê, puerî, cantêmus. Ûnum, duo, tria.
+
+  (All rise and sing; each has the song[4] before him on a scroll.)
+
+    [Footnote 4: Tune of "Onward, Christian Soldiers." Slightly
+    altered from _Education_, Vol. IX, p. 187. The author hopes that
+    this most obvious anachronism will be pardoned on the ground that
+    this hymn appeals to young pupils more than most Latin songs,
+    and is therefore enjoyed by them and more easily learned.]
+
+    Mîlitês Chrîstiânî,
+    Bellô pergite;
+    Câram Iêsû crucem
+    Vôs prôvehite.
+    Chrîstus rêx, magister,
+    Dûcit âgmina,
+    Eius iam vêxillum
+    It in proelia.
+
+    Mâgnum âgmen movet
+    Deî ecclêsia.
+    Gradimur sânctôrum,
+    Frâtrês, sêmitâ.
+    Nôn dîvîsî sumus,
+    Ûnus omnês nôs;
+    Ûnus spê, doctrînâ,
+    Câritâte nôs.
+
+    Thronî atque rêgna
+    Înstâbilia,
+    Sed per Iêsum cônstâns
+    Stat ecclêsia.
+    Portae nôn gehennae
+    Illam vincere,
+    Nec prômissus Iêsû
+    Potest fallere.
+
+    Popule, beâtîs
+    Vôs coniungite!
+    Carmina triumphî
+    Ûnâ canite;
+    Chrîstô rêgî honor,
+    Laudês, glôria,
+    Angelî hôc canent
+    Saecla omnia.
+
+_Mag._ Iam, puerî, silentiô factô, Gâius Iûlius Caesar nôbîs suam
+ôrâtiônem habêbit quam dê ambitiône suâ composuit. Hâc ôrâtiône fînîtâ,
+Mârcus Tullius Cicerô suam habêbit. Ut prônûntiâtum est complûribus
+diêbus ante, hî duo puerî dê praemiô inter sê contendunt. Hôc diê
+fêlîcissimô duo clârissimî et honestissimî virî arbitrî sunt, Aulus
+Licinius Archiâs et Pûblius Licinius Crassus. In rôstra, Gâî Iûlî
+Caesar, êscende!
+
+_G. Caes._ (Reads from a scroll or recites.) Mea câra ambitiô est
+perîtus dux mîlitum fierî. Bella multa et mâgna cum gentibus omnibus
+nâtiônibusque orbis terrae gerere cupiô.
+
+Bellum înferre volô Germânîs et însulae Britanniae omnibusque populîs
+Galliae et cêterîs quî inimîcô animô in populum Rômânum sunt. In prîmîs,
+in însulam Britanniam pervenîre cupiô, quae omnis ferê Rômânîs est
+incôgnita, et côgnoscere quanta sit mâgnitûdô însulae.
+
+Volô pontem in Rhênô aedificâre et mâgnum exercitum trâdûcere ut metum
+illîs Germânîs quibus nostra parvula corpora contemptuî sunt iniciam.
+Ubi Rhênum ego trânsierô, nôn diûtius glôriâbuntur illî Germânî
+mâgnitûdine suôrum corporum.
+
+Vôs sententiam rogô, iûdicês amplissimî, nônne est haec ambitiô honesta?
+
+Deinde rês gestâs meâs perscrîbam. Negôtium hûius historiae legendae
+puerîs dabô mentium exercendârum causâ, nam mihi crêdite, commentâriî dê
+bellô Gallicô ûtilês erunt ad ingenia acuenda puerôrum. (_Discipuli_
+applaud.)
+
+_Mag._ Nunc Mârcus nôbîs dê suâ cârissimâ ambitiône loquêtur. In rôstra
+êscende, Mârce!
+
+_M. Cic._ Quoad longissimê potest mêns mea respicere et ultimam memoriam
+recordârî, haec mea ambitiô fuit, ut mê ad scrîbendî studium cônferam,
+prîmum Rômae, deinde in aliîs urbibus.
+
+Ambitiô mea autem est omnibus antecellere ingenî meî glôriâ, ut haec
+ôrâtiô et facultâs, quantacumque in mê sit, numquam amîcôrum perîculîs
+dêsit. Nônne est haec ambitiô maximum incitâmentum labôrum?
+
+Deinde, haec est mea ambitiô, ut cônsul sim. Dê meô amôre glôriae vôbîs
+cônfitêbor. Volô poêtâs reperîre quî ad glôriam meî cônsulâtûs
+celebrandam omne ingenium cônferant. Nihil mê mûtum poterit dêlectâre,
+nihil tacitum. Quid enim, nônne dêsîderant omnês glôriam et fâmam? Quam
+multôs scrîptôrês rêrum suâram mâgnus ille Alexander sêcum habuisse
+dîcitur! Itaque, ea verba quae prô meâ cônsuêtûdine breviter
+simpliciterque dîxî, arbitrî, cônfîdô probâta esse omnibus. (_Discipuli_
+applaud.)
+
+_Mag._ Ut vidêtis, arbitrî clârissimî, puerî ânxiîs animîs vestrum
+dêcrêtum exspectant. Quae cum ita sint, petô â vôbîs, ut testimônium
+laudis dêtis.
+
+_A. Archias._ Ambôs puerôs, magister, maximê laudamus, sed ûnus sôlus
+praemium habêre potest. Nôs nôn dêcernere possumus. Itaque dêcrêvimus ut
+hî puerî ambô inter sê sortiantur uter praemium obtineat. Servî, urnam
+prôferte! Nômina in urnam iaciam. Quî habet nômen quod prîmum êdûcam, is
+vîctor erit. (Takes from the urn a small chip and reads the name _Marcus
+Tullius Cicero_.) Tê, Mârce Cicerô, victôrem esse prônûntiô. Sîc fâta
+dêcrêvêrunt. Servî, corônam ferte! (Places a wreath of leaves on the
+head of Marcus. The _discipuli_ again applaud.)
+
+_M. Cic._ (going up to Cæsar). Caesar, nôlî animô frangî. Nôn dubium est
+quîn tû meliôrem ôrâtiônem habuerîs.
+
+_G. Caes._ (coolly). Dîs aliter vîsum est.
+
+_Mag._ Vôs ambô, Gâî et Mârce, honôrî huic scholae estis. Utinam cêterî
+vôs imitentur. Aliud certâmen hûius modî mox habêbimus. Loquêmur dê--
+(A knock is heard. Enter Gaius Licinius Crassus.)
+
+_G. Cras._ Mî pater!
+
+_P. Cras._ Mî fîlî! (They embrace.)
+
+_G. Cras._ Mâter mea mihi dîxit tê arbitrum in hôc certâmine hodiê esse.
+Tê diûtius exspectâre nôn potuî. Iam diû tê vidêre cupiô et ego quoque
+cupiô hôc certâmen audîre. Estne cônfectum?
+
+_P. Cras._ Cônfectum est. Utinam hî puerî tê recitâre audiant! Tû eôs
+docêre possîs quômodo discipulî Rhodiî in scholâ recitent.
+
+_M. Cic._ Ô arbiter, nôbîs grâtissimum sit, sî tuum fîlium audîre
+possîmus.
+
+_Discipuli_ (eagerly). Ô Crasse, recitâ, recitâ!
+
+_G. Cras._ Sî vôbîs id placet, recitâbô, meum tamen carmen longum est.
+Êius titulus est "Pome of a Possum." (Recites with gesticulation.)
+
+    The nox was lit by lûx of lûna,
+    And 'twas a nox most opportûna
+    To catch a possum or a coona;
+    For nix was scattered o'er this mundus,
+    A shallow nix, et nôn profundus.
+    On sîc a nox, with canis ûnus,
+    Two boys went out to hunt for coonus.
+        Ûnus canis, duo puer,
+        Numquam braver, numquam truer,
+        Quam hoc trio quisquam fuit,
+        If there was, I never knew it.
+    The corpus of this bonus canis
+    Was full as long as octô span is,
+    But brevior legs had canis never
+    Quam had hîc bonus dog et clever.
+    Some used to say, in stultum iocum,
+    Quod a field was too small locum
+    For sîc a dog to make a turnus
+    Circum self from stem to sternus.
+    This bonus dog had one bad habit,
+    Amâbat much to chase a rabbit;
+    Amâbat plûs to catch a rattus,
+    Amâbat bene tree a cattus.
+      But on this nixy moonlight night
+    This old canis did just right,
+    Numquam chased a starving rattus,
+    Numquam treed a wretched cattus,
+    But cucurrit on, intentus
+    On the track and on the scentus,
+    Till he treed a possum strongum
+    In a hollow trunkum longum.
+    Loud he barked in horrid bellum,
+    Seemed on terrâ vênit hellum.
+    Quickly ran uterque puer
+    Mors of possum to secure.
+    Cum venêrunt, one began
+    To chop away like quisque man;
+    Soon the ax went through the trunkum,
+    Soon he hit it all kerchunkum;
+    Combat deepens; on, ye braves!
+    Canis, puerî, et staves;
+    As his powers nôn longius tarry,
+    Possum potest nôn pûgnâre;
+    On the nix his corpus lieth,
+    Ad the Styx his spirit flieth,
+    Joyful puerî, canis bonus
+    Think him dead as any stonus.
+    Now they seek their pater's domô,
+    Feeling proud as any homô,
+    Knowing, certê, they will blossom
+    Into heroes, when with possum
+    They arrive, narrâbunt story,
+    Plênus blood et plênior glory.
+    Pompey, David, Samson, Caesar,
+    Cyrus, Black Hawk, Shalmaneser!
+    Tell me where est now the glôria,
+    Where the honors of vîctôria?
+
+      Cum ad domum nârrant story,
+    Plênus sanguine, tragic, gory,
+    Pater praiseth, likewise mâter,
+    Wonders greatly younger frâter.
+    Possum leave they on the mundus,
+    Go themselves to sleep profundus,
+    Somniant possums slain in battle
+    Strong as ursae, large as cattle.
+
+      When nox gives way to lûx of morning,
+    Albam terram much adorning,
+    Up they jump to see the varmen
+    Of which this here is the carmen.
+    Possum, lo, est resurrêctum!
+    Ecce puerum dêiectum!
+    Nôn relinquit track behind him,
+    Et the puerî never find him;
+    Cruel possum, bêstia vilest,
+    How tû puerôs beguilest;
+    Puerî think nôn plûs of Cæsar,
+    Go ad Orcum, Shalmaneser,
+    Take your laurels, cum the honor,
+    Since istud possum is a goner![5]
+
+    [Footnote 5: Anonymous.]
+
+  (_Discipuli_ applaud.)
+
+_Mag._ Omnês quî Gâiô Crassô grâtiâs agere velint, surgite! (All stand.)
+Nunc, puerî, domum redîte.
+
+_Discipuli_ (departing).
+
+      Omne bene,
+      Sine poenâ
+    Tempus est lûdendî;
+      Vênit hôra
+      Absque morâ
+    Librôs dêpônendî.
+
+Valê, magister. Valê, magister.
+
+
+
+
+COSTUMES
+
+
+The _magister_, _iudices_, and _discipuli_ should all wear white togas
+with a purple[6] border. A white gauze shirt with short sleeves may be
+used as a tunic, while white duck trousers and tennis slippers serve to
+complete the costume.
+
+[Illustration]
+
+The togas can be made of white muslin according to the measurements and
+cut given by Professor Johnston,[7] which he has kindly permitted me to
+use. "Those who attempt the reconstruction of the toga wholly or chiefly
+from works of art find it impossible to reproduce on the living form the
+drapery seen on the statues, with a toga of one piece of goods or of a
+semicircular pattern. An experimental form is shown in the figure, and
+resembles that of a lamp shade cut in two and stretched out to its full
+extent. The dotted line _GC_ is the straight edge of the goods; the
+heavy lines show the shape of the toga after it had been cut out, and
+had had sewed upon it the ellipse-like piece marked _FRAcba_. The
+dotted line _GE_ is of a length equivalent to the height of a man
+at the shoulder, and the other measurements are to be calculated
+proportionately. When the toga is placed on the figure, the point _E_
+must be on the left shoulder, with the point _G_ touching the ground in
+front. The point _F_ comes at the back of the neck, and as the larger
+part of the garment is allowed to fall behind the figure the points _L_
+and _M_ will fall on the calves of the legs behind, the point _a_ under
+the right elbow, and the point _b_ on the stomach. The material is
+carried behind the back and under the right arm and then thrown over the
+left shoulder again. The point _c_ will fall on _E_, and the portion
+_OPCa_ will hang down the back to the ground. The part _FRA_ is then
+pulled over the right shoulder to cover the right side of the chest and
+form the _sinus_, and the part running from the left shoulder to the
+ground in front is pulled up out of the way of the feet, worked under
+the diagonal folds, and allowed to fall out a little to the front."
+
+The _servi_ and _paedagogus_ should wear tunics of some coarse,
+dark-colored material.
+
+In small schools, where there is not a sufficiently large number of boys
+in the Latin classes for _discipuli_, the parts may be taken by girls.
+Their hair should fall nearly to their shoulders, as in the case of the
+Roman boy. They may wear unstarched white skirts under the toga.
+
+The _tabellae_ may be made of little book-shaped slates with wooden
+borders (paint them light-colored), and the rolls of paper.
+
+    [Footnote 6: That is, either "the color of clotted blood" (which
+    was the Tyrian purple, the purple above all others) or any color
+    from this to violet; "purple" meant the dye from any sort of
+    univalve mollusk that gave a dye. There is reason to believe that
+    genuine Turkey red, though not a mollusk dye, was commercially
+    called a purple.]
+
+    [Footnote 7: Johnston, "Private Life of the Romans," Scott,
+    Foresman & Co., 1903.]
+
+
+
+
+A ROMAN WEDDING
+
+63 B.C.
+
+
+
+
+  TRES SCAENAE
+
+  Scaena prîma:   Spônsâlia
+  Scaena secunda: Nûptiae
+  Scaena tertia:  Dêductiô
+
+
+  DRÂMATIS PERSÔNÆ
+
+  Spônsa:         Tullia
+  Spônsus:        Gâius Pîsô
+  Spônsae pater:  Mârcus Tullius Cicerô
+  Spônsae mâter:  Terentia
+  Spônsî pater:   Lûcius Pîso Frûgî
+  Spônsî mâter
+  Spônsae frâter: Mârcus Tullius Cicerô, adulêscêns
+  Flâmen Diâlis
+  Pontifex Maximus
+  Iûris cônsultus
+  Quîntus Hortênsius
+  Prônuba
+  Sîgnâtôrês
+  Tîbîcinês
+  Lîctôrês
+
+  Mârcipor   }
+  Philotîmus } Servî
+  Tîrô       }
+  Anna       }
+
+
+
+
+A ROMAN WEDDING
+
+
+SCAENA PRÎMA
+
+SPÔNSÂLIA
+
+  Let the curtain be raised, showing a room furnished as nearly as
+  possible like the atrium of a Roman house. A bench, covered with
+  tapestry, on each side of the stage facilitates the seating of the
+  guests. Cicero is heard practicing an oration behind the scenes.
+
+_M. Cic._ Ô rem pûblicam miserâbilem! Quâ rê, Quirîtês, dubitâtis? Ô dî
+immortâlês! Ubinam gentium sumus? In quâ urbe vîvimus? Quam rem pûblicam
+habêmus? Vîvis, et vîvis nôn ad dêpônendam sed ad cônfîrmandam tuam
+audâciam.
+
+  (Enter Terentia. A slave, Anna, follows bringing a boy's toga,
+  which she begins to sew, under Terentia's direction. Another slave,
+  Marcipor, also follows.)
+
+Nihil agis, nihil môlîris, nihil côgitâs quod nôn ego nôn modo audiam,
+sed videam. Quae cum ita sint, Catilîna, ex urbe êgredere; patent
+portae, proficîscere. Mâgnô mê metû lîberâbis dum modo inter mê atque tê
+mûrus intersit. Quid est enim, Catilîna, quod tê iam in hâc urbe
+dêlectâre possit? Quamquam quid loquor? Tê ut ûlla rês frangat?
+(A crash, similar to that of falling china, is heard.)
+
+_Terentia._ Quid est? Vidê, Mârcipor!
+
+  (As Marcipor is about to leave, Philotimus enters at the right,
+  bringing in his hands the pieces of a broken vase.)
+
+_Phil._ Ô domina, ecce, dominus, dum ôrâtiônem meditâtur, vâs quod ipse
+tibi ê Graeciâ attulit, manûs gestû dêmôlîtus est.
+
+_Terentia_ (groaning). Lege, Philotîme, omnia fragmenta. (Exit Phil.)
+Mihi, Mârcipor, fer cistam ex alabastrîtâ factam. (Exit Mar.)
+(To herself.) Tam molestum est ôrâtôrî nûpsisse. (Covers her face with
+her hands, as if weeping.)
+
+_M. Cic._ (proceeding with his practicing). Atque hôc quoque â mê ûnô
+togâtô factum est. Mârce Tullî, quid agis? Interfectum esse Lûcium
+Catilînam iam prîdem oportêbat. Quid enim malî aut sceleris fingî aut
+côgitârî potest quod ille nôn concêperit? Ô rem pûblicam fortûnâtam,
+ô praeclâram laudem meî cônsulâtûs, sî ex vîtâ ille exierit! Vix feram
+sermônês hominum, sî id fêcerit. (Enter Marcipor with a small box.)
+
+_Mar._ Hîc est, domina, cista tua.
+
+_Terentia_ (takes from her bosom a key and opens the box, taking out a
+package of letters, one of which she reads). "Sine tê, ô mea Terentia
+cârissima, sum miserrimus. Utinam domî têcum semper manêrem. Quod cum
+nôn possit, ad mê cotîdiê litterâs scrîbe. Cûrâ ut valeâs et ita tibi
+persuâdê, mihi tê cârius nihil esse nec umquam fuisse. Valê, mea
+Terentia, quam ego vidêre videor itaque dêbilitor lacrimîs. Cûrâ, cûrâ
+tê, mea Terentia. Etiam atque etiam valê."
+
+Quondam litterâs amantissimâs scrîpsit; nunc epistolia frîgêscunt.
+Quondam vâs mihi dedit, nunc vâs mihi dêmôlîtur; quondam fuit marîtus,
+nunc est ôrâtor. Tam molestum est mâtrem familiâs esse.
+
+  (Enter Cicero, from the right, followed by his slave Tiro, carrying
+  a number of scrolls which he places upon a table.)
+
+_M. Cic._ Quid est, Terentia? Quidnam lacrimâs? Mihi dîc.
+
+_Terentia._ Rês nûllast! Modo putâbam quantum mûtâtus ab illô Cicerône
+quî mê in mâtrimônium dûxerit, sit Cicerô quem hodiê videô. Tum
+Terentiae aliqua ratiô habêbâtur. Nunc vacat Cicerô librîs modo et
+ôrâtiônibus et Catilînae. Nescîs quantum mê hûius negôtî taedeat! Nûllum
+tempus habês ad cônsultandum mêcum dê studiîs nostrî fîliolî. Magister
+dê eô haec hodiê rettulit. (Hands Cicero a scroll.) Mê pudet fîlî.
+
+_M. Cic._ (reading to himself the report). Dîc meô fîliô, Mârcipor,
+ut ad mê veniat. (Exit Marcipor, who returns bringing young Marcus.)
+
+_M. Cic. a._ Quid est, pater?
+
+_M. Cic._ Tua mâter, mî fîlî, animum ânxium ob hanc renûntiâtiônem dê tê
+habet. Mê quoque, cônsulem Rômânum, hûius renûntiâtiônis quibusdam
+partibus pudet. (Reads aloud.) "Bis absêns." Cûr, mî fîlî, â scholâ
+âfuistî?
+
+_M. Cic. a._ Id nôn memoriâ teneô.
+
+_Terentia._ Sunt multa quae memoriâ nôn tenês, sî ego dê hâc
+renûntiâtiône iûdicâre possum.
+
+_M. Cic._ (continues reading). "Tardus deciêns!" Deciêns! Id est
+incrêdibile! Fîlius cônsulis Rômânî tardus deciêns! Mâter tua id nôn
+patî dêbuit.
+
+_Terentia_ (angrily). Mâter tua id nôn patî dêbuit! Immô vêrô pater tuus
+id nôn patî debuit.
+
+_M. Cic._ "Ars legendî _A_." Id quidem satis est. "Ars scrîbendî _D_."
+_D_! Id quidem minimê satis est. Nûgâtor dêfuit officiô! "Fîlius tuus
+dîcit scrîptûram tempus longius cônsûmere. Dêbet sê in scrîbendô multum
+exercêre, sî scrîbere modô tolerâbilî discere vult. Arithmêtica _A_.
+Huic studiô operam dat. Dêclâmâtiô _A_. Omnibus facile hôc studiô
+antecellit." Bene, mî fîlî. Ea pars hûius renûntiâtiônis mihi mâgnopere
+placet. Ôrâtor clârissimus ôlim eris.
+
+_Terentia._ Ûnus ôrâtor apud nôs satis est.
+
+_M. Cic. a._ Ôrâtor erô ôlim nihilô minus. Facile est ôrâtôrem fierî.
+Dêclâmâtiô est facillima. Hodiê in scholâ hanc dêclâmâtiônem didicî:
+
+    Omnia tempus edâx dêpâscitur, omnia carpit,
+      Omnia sêde movet, nîl sinit esse diû.
+    Flûmina dêficiunt, profugum mare lîtora siccant,
+      Subsîdunt montês et iuga celsa ruunt.
+    Quid tam parva loquor? môlês pulcherrima caelî
+      Ardêbit flammîs tôta repente suîs.
+    Omnia mors poscit. Lêx est, nôn poena, perîre:
+      Hîc aliquô mundus tempore nûllus erit.
+
+_Terentia._ Tâlis dêclâmâtiô est facilis. Audî quid dê geômetriâ tuâ
+relâtum sit. Geômetria magis quam declâmâtiô ostendit utrum tû mentem
+exerceâs.
+
+_M. Cic._ (continues reading). "Geômetria _D_." Magister haec scripsit:
+"Fîlius tuus dîcit geômetriam ôrâtôribus inûtilem esse. Eî dîligenter
+domî labôrandum est." Ô Mârce, hôc est incrêdibile! Num dîxistî tû
+geômetriam ôrâtôribus inûtilem esse?
+
+_M. Cic. a._ Ô, studium geômetriae mihi odiôsum ingrâtumque est! Omnês
+puerôs istîus taedet. Tantî nôn est!
+
+_M. Cic._ Etiam sî studium tû nôn amâs, geômetriam discere dêbês. Tibi
+centum sêstertiôs dabô sî summam notam in geômetriâ proximô mênse
+adeptus eris.
+
+_M. Cic. a._ (grasping his father's hand). Amô tê, pater, convenit!
+Eam adipîscar!
+
+_Terentia_ (to Anna). Estne toga parâta?
+
+_Anna._ Parâta est, domina.
+
+_Terentia._ Hûc venî, Mârce!
+
+_M. Cic. a._ Ô mâter, tempus perdere nôlô. Mâlô legere.
+
+_Terentia._ Quid dîcis? Nôn vîs? Nônne vîs novam togam habêre?
+
+_M. Cic. a._ Nôlô. Novâ mî nîl opus est. Tam fessus sum! (Picks up a
+scroll and is about to take a seat in the corner.)
+
+_M. Cic._ Ad mâtrem tuam, Mârce Cicerô, sine morâ, accêde!
+
+  (Marcus is about to obey when a knock is heard at the door.
+  Lucius Piso Frugi and Quintus Hortensius enter at the left.)
+
+_M. Cic._ (greeting Q. Hortensius). Ô amîcî, salvête! ut valêtis?
+
+_Terentia_ (greeting L. Piso). Dî duint vôbîs quaecumque optêtis.
+Cicerônî modo dîcêbam nôs diû vôs nôn vidêre, praesertim tê, Pîsô.
+Mârcipor, ubi est Tullia? Eî dîc ut hûc veniat.
+
+_L. Piso._ Nôlî Tulliam vocâre. Nunc cum parentibus Tulliae agere volô,
+nôn cum Tulliâ ipsâ.
+
+_Terentia._ Nôn vîs nostram Tulliam vidêre! Quid, scîre volô?
+
+_L. Piso._ Cum eâ hôc tempore agere nôn cupiô. Id propter quod in
+vestram domum hodiê vênî tuâ, et Cicerônis rêfert. Velim vôbîscum agere
+prô meô fîliô, Gâiô Pîsône, quî fîliam tuam in mâtrimônium dûcere vult.
+
+_M. Cic._ Meam fîliam in mâtrimônium dûcere! Mea Tulliola nôndum satis
+mâtûra est ut nûbat. Mea fîlia mihi cârior vîtâ ipsâ est. Eam âmittere
+. . . id nôn ferre possum. Ea lûx nostra est. Meâ Tulliolâ nihil umquam
+amâbilius, nec longâ vîtâ ac prope immortâlitâte dîgnius vîdî. Nôndum
+annôs quattuordecim implêvit et iam êius prûdentia est mîrâbilis. Ut
+magistrôs amat! Quam intellegenter legit! Nôn possum verbîs exprimere
+quantô vulnere animô percutiar sî meam Tulliolam âmittam. Utinam penitus
+intellegerês meôs sênsûs, quanta vîs paternî sit amôris.
+
+_L. Piso._ Tâlia verba, Mârce Tullî, virî Rômânî nôn propria sunt.
+Necesse est omnês nostrâs fîliâs in mâtrimônium dêmus. Nihil aliud
+exspectâ.
+
+_Terentia._ Nostra fîlia omnibus grâtissima est. Semper enim lepida et
+lîberâlis est. Iam diû sciô nôs eam nôn semper retinêre posse.
+
+_L. Piso._ Rêctê, rêctê! Meus fîlius bonus est; est ôrâtor. Est quoque
+satis dîves. Rômae duâs aedês habet; rûre mâgnificentissima vîlla est
+eî. Cum illô fîlia tua fêlîx erit. Id mihi persuâsum habeô. Quae cum ita
+sint, Mârce Tullî, sine dôte tuam fîliam meô fîliô poscô.
+
+_M. Cic._ Prohibeant dî immortâlês condiciônem êius modî. Cum mea fîlia
+in mâtrimônium danda sit, nêminem côgnôvî quî illâ dîgnior sit quam tuus
+fîlius êgregius.
+
+_L. Piso_ (shaking hands with Cicero). Ô Mârce, mî amîce, dî tê
+respiciant! Nunc mihi eundum est ut fîlium et sîgnâtôrês arcessam et iam
+hûc revertar.
+
+  (Exeunt L. Piso and Q. Hortensius.)
+
+_Terentia._ Dîc, Mârcipor, servîs ut in culînâ vînum, frûctûs, placentâs
+parent. (Exit Marcipor.) Mârce, fîlî, sorôrem vocâ.
+
+_M. Cic. a._  Tullia, ô Tullia,
+              Soror mea bella,
+              Amâtôres tibi sunt
+              Pîsô et Dolâbella.
+
+  (Enter Tullia at the right.)
+
+              Amatne Pîsô tê,
+              Etiam Dolâbella?
+              Tullia, ô Tullia,
+              Soror mea bella,
+              Pîsônem tuum marîtum fac;
+              Nôn grâtus Dolâbella.
+
+_Tullia._ Ô Mârce, tuî mê taedet. Quid est, mâter?
+
+_Terentia._ Tullia, nônne est Gâius Pîsô tibi grâtissimus?
+
+_Tullia._ Ô, mihi satis placet. Cûr mê rogâs, mâter?
+
+_Terentia._ Rogô, mea fîlia, quod Pîsô tê in mâtrimônium dûcere vult.
+Tibi placetne hôc?
+
+_Tullia._ Mihi placet sî--
+
+_Terentia._ Sî--quid, mea fîlia?
+
+_Tullia._ Ô mâter, nôlô nûbere. Sum fêlîx têcum et patre et Mârcô. Vîxî
+tantum quattuordecim annôs. Puella diûtius esse volô, nôn mâter
+familiâs.
+
+_Terentia._ Pîsô dîves est. Pater tuus nôn mâgnâs dîvitiâs nunc habet.
+Meum argentum quoque cônsûmptum est. Etiam haec domus nostra nôn diûtius
+erit. Quid faciâmus sî tû nôn bene nûbês?
+
+_Tullia._ Sciô patrem meum nôn mâgnâs possessiônês habêre; quid vêrô,
+mâter? Servîlia, Lûcullî spônsa, quî modo rediit spoliîs Orientis
+onustus, semper suam fortûnam queritur. Misera Lûcullum ôdit ac
+dêtestâtur. Hesternô diê meîs auribus Servîliam haec verba dîcere
+audîvî: "Mê miseram! Înfêlîcissimam vîtam! Fêminam maestam! quid faciam?
+Mihi dêlêctus est marîtus ôdiôsus. Nêmô rogâvit quî vir mihi maximê
+placeat. Coniugem novum ôderô, id certum est. Prae lacrimîs nôn iam
+loquî possum." Ô mâter! ego sum aequê trîstis ac Servîlia. Nôlô Gâiô
+Pîsônî nûbere. Nûllî hominî, neque Rômânô neque peregrînô, quem vîderim,
+nûbere volô.
+
+_Terentia._ Tullia, mea fîlia, mâtris et nostrae domûs miserêre! Hodiê
+pater â mê argentum postulâbat quod eî dare nôn poteram. Pîsô dîtissimus
+est et nôbîs auxiliô esse potest. Parentum tuôrum causâ tê ôrô nê hunc
+êgregium adulêscentem aspernêris.
+
+_Tullia._ Ô Servîliam et Tulliam, ambâs miserâs! Quid dîcis tû, mî
+pater? Vîs tû quoque mê in mâtrimônium dare?
+
+_M. Cic._ Ô mea Tulliola, mê nôlî rogâre. Nescîs quantum ego tê amem.
+Sine tê vîvere nôn poterô. Id mihi persuâsum habeô. Putô tamen, sî pâcem
+apud nôs habêre velîmus, tê mâtris iussa sequî necesse esse.
+
+_Tullia._ Volô, mî pater, tê pâcem habêre. Tua vîta tam perturbâta fuit.
+Nûbam, sed ô mê miseram!
+
+  (A knock is heard. Enter from the left L. Piso, Gaius Piso, and the
+  _signatores_. They are greeted by Cicero and Terentia and seated
+  by slaves.)
+
+_Terentia_ (as she receives them). Multum salvête, ô amîcî. Tulliae vix
+persuâdêre poteram, tamen nôn iam invîta est.
+
+_L. Piso._ Bene, bene, hîc est mihi diês grâtissimus. Parâta sunt omnia?
+
+_Terentia._ Omnia parâta sunt, sed iûris cônsultus nôndum vênit.
+
+_L. Piso._ Ille quidem ad tempus adesse pollicitus est.
+
+_Terentia._ Id spêrô. Tîbîcinês, Mârcipor, hûc arcesse. (Enter Q.
+Hortensius and his wife, together with the pronuba and the _iuris
+consultus_.) Salvête, meî amîcî. Adsîdite sî placet.
+
+_Iuris con._ Sî mihi veniam dabitis, nôn diû morârî velim. Înstâns
+negôtium mê in forô flâgitat. Mihi mâtûrandum est. (Goes to a table with
+M. Cicero and busies himself with the _tabulae nuptiales_.)
+
+_L. Piso._ Mâtûrêmus! Gâî et Tullia, ad mê venîte! (To Cicero.)
+Spondêsne Tulliam, tuam fîliam, meô fîliô uxôrem darî?
+
+_M. Cic._ Dî bene vertant! Spondeô.
+
+_L. Piso._ Dî bene vertant!
+
+_G. Piso_ (placing a ring on the fourth finger of Tullia's left hand).
+Hunc ânulum quî meum longum amôrem testêtur aceipe. Manum, Tullia, tibi
+dô, et vim bracchiôrum et celeritâtem pedum et glôriam meôrum patrum.
+Tê amô, pulchra puella. Tê ûnam semper amâbô. Mihi es tû cârior omnibus
+quae in terrâ caelôque sunt. Fêlîcês semper sîmus!
+
+_Iuris con._ Tabulae nûptiâlês sunt parâtae et ecce condiciônês.
+(Reads.) "Hôc diê, prîdiê Îdûs Aprîlês, annô sescentêsimô nônâgêsimô
+prîmô post Rômam conditam, M. Tulliô Cicerône Gâiô Antôniô cônsulibus,
+ego M. Tullius Cicerô meam fîliam Tulliam Gâiô Calpurniô Lûcî fîliô
+Pîsônî spondeô. Eam cum dôte dare spondeô. Ea dôs erit quîndecim mîlia
+sêstertium." (Turning to Gaius.) Gâî Pîsô, spondêsne tê Tulliam semper
+amâtûrum cultûrumque?
+
+_Gr. Piso._ Id spondeô.
+
+_Iuris con._ Spondêsne tû, Tullia, tê Gâiô Pîsônî semper obsecutûram
+esse?
+
+_Tullia._ Id spondeô.
+
+_Iuris con._ (stamping the _tabulae_ with a seal). Nuc subscrîbite!
+Tû prîmus, Cicerô, deinde Terentia et Tullia et Gâius.
+
+  (The _tibicines_ play softly and the _servi_ pass wine, dried fruit,
+  and small cakes. Tullia, taking her glass of wine, steps forward
+  and pours a little out as an offering to the gods. After the
+  witnesses have signed in turn, the following words of
+  congratulation are spoken.)
+
+_Q. Hor._ Beâtî vîvâtis, Pîsô et Tullia! Omnês spônsô et spônsae salûtem
+propînêmus! (All drink to the health of the betrothed.)
+
+_M. Cic. a._ Sint dî semper volentês propitiîque ipsîs domuî
+familiaeque. Sit vôbîs fortûna benîgna!
+
+_M. Cic._ Tibi grâtulor, Pîsô. Tû pulcherrimam et optimam puellam tôtîus
+Rômae adeptus es.
+
+_Pronuba._ Ô fortûnâte adulêscêns quî tâlem puellam invênerîs!
+
+_Iuris con._ Sîgnâvêruntne omnês? Tû, Quînte Hortênsî, nôndum
+subscrîpsistî.
+
+_Q. Hor._ Id statim faciam. (Signs.)
+
+_Pronuba._ Nunc omnês cantêmus!
+
+  (All join in singing, accompanied by the _tibicines_.)
+
+  [Music:
+  Hespere, qui caelo fertur crudelior ignis?
+  Qui natam possis complexu avellere matris,
+  Complexu matris retinentem avellere natam
+  Et iuveni ardenti castam donare puellam.
+  Quid faciunt hostes capta crudelius urbe?
+  Hymen O Hymenæe, Hymen ades O Hymenæe.]
+
+
+SECUNDA SCAENA
+
+NÛPTIAE
+
+  The house is adorned with wool, flowers, tapestry, and boughs.
+
+  The Pontifex Maximus (wearing a white fillet) and the Flamen Dialis
+  enter from opposite sides, each preceded by a lictor with fasces,
+  who remains standing at the side of the stage, while the priests
+  pass on to the altar. The Flamen burns incense. A slave brings in a
+  pigeon on a silver tray and hands it to the Flamen, while another
+  hands to the Pontifex from a basket a plate of meal and one with
+  crackers.
+
+  The priests, taking respectively the bird and the meal, hold them
+  high above their heads and look up devoutly, after which the bridal
+  party enters, from the left, in the following order:
+
+  The bride, preceded by the pronuba, comes first. Both take their
+  places, standing at the right of the altar; next the groom, preceded
+  by the boys, takes his stand near the bride, a little to the left;
+  the guests follow and are seated.
+
+  Cicero hands wine to the priests, with which they sprinkle the
+  sacrifices.
+
+  As the Flamen again looks up and raises his hands above his head,
+  all kneel except the priests and lictors, while he pronounces the
+  following solemn words:
+
+Auspicia secunda sunt. Mâgna grâtia dîs immortâlibus habenda est.
+Auspicia secunda sunt.
+
+  After all have risen, the pronuba, placing her hands upon the
+  shoulder of the bride and groom, conducts them to the front of the
+  altar. There she joins their hands and they walk around the altar
+  twice, hand in hand, stopping in front when the ceremony proper
+  begins.
+
+  Again the Flamen says:
+
+Auspicia secunda sunt.
+
+  The Pontifex hands the groom a cracker, of which he partakes,
+  passing it on to the bride. The pronuba puts back the veil, and
+  after the bride has eaten the cracker she says to the groom:
+
+Ubi tû Gâius, ego Gâia.
+
+  Both are then conducted by the pronuba to two chairs, placed side by
+  side, at the right of the altar, covered with the skin of a sheep.
+  They face the altar and the pronuba covers their heads with a large
+  veil. (Place the same veil over both.)
+
+_Pontifex Maximus_ (making an offering of meal to Jupiter).
+
+    Iuppiter omnipotêns dîvum pater atque hominum rêx,
+    Hôs spônsôs bene respiciâs, faveâsque per annôs.
+    Iuppiter omnipotêns, precibus sî flecteris ûllîs
+    Aspice eôs, hôc tantum, et sî pietâte merentur,
+    Dâ cursum vîtae iûcundum et commoda sparge
+    Multa manû plênâ; vîrês validâsque per mensês
+    Hî habeant, puerôs pulchrôs fortêsque nepôtês.
+    Rêbus iûcundîs quibus adsîs Iuppiter semper.
+
+_Flamen Dialis._
+
+    Iûnô quae incêdis dîvum rêgîna Iovisque
+    Coniunx et soror, hôs spônsôs servâ atque tuêre.
+    Sint et fêlîcês, fortês, pietâte suprêmî;
+    Mâgnâ cum virtûte incêdant omnibus annîs,
+    Semper fortûnâtî, semper et usque beâtî.
+
+  (The pronuba now uncovers the heads of the wedded pair and they
+  receive congratulations.)
+
+_L. Piso._ Beâtî vîvâtis, Gâî et Tullia!
+
+_Terentia._ Vôbîs sint dî semper faustî!
+
+_M. Cic. a._ Vôbîs ambôbus grâtulor. Sed nûlla rês levis est
+mâtrimônium. Quid, Tullia?
+
+_Tullia._ Rêctê dîcis, frâter, mâtrimônium nôn in levî habendum est.
+
+_M. Cic._ Sint omnês diês fêlîcês aequê ac hîc diês.
+
+_Pronuba._ Spêrô, meî amîcî, omnês diês vôbîs laetissimôs futûrôs esse.
+
+  (The curtain falls. The priests and lictors retire, all the rest,
+  except Terentia and Tullia, keeping the same position for the next
+  scene.)
+
+
+SCAENA TERTIA
+
+DÊDUCTIÔ
+
+  The guests are sitting about the room. The bride is sitting on her
+  mother's lap. Her wedding ornaments have been taken off and she is
+  closely veiled. The groom takes her as if by force from her mother's
+  arms.
+
+_Tullia._ Ô mâter, mâter, nôlô â tê et patre meô discêdere. Ô, mê
+miseram!
+
+_Terentia._ Î, fîlia, î! Saepe tuôs parentês et frâtrem vîsere poteris.
+Necesse est nunc cum marîtô eâs.
+
+_G. Piso._ Mihi, Tullia, cârior vîtâ es. Tê nôn pigêbit coniugem meam
+fierî. Id polliceor. Mêcum venî, Tullia cârissima!
+
+_Tullia._ Sîc estô. Prius mustâceum edendum est. (She cuts the wedding
+cake and all partake.)
+
+_L. Pisonis uxor._ Hôc mustâceum optimum est. Hôc fêcistîne tû, Tullia?
+
+_Tullia._ Nihil temporis habêbam quô mustâceum facerem. Multa mihi ûnô
+tempore agenda erant.
+
+_Terentia._ Tullia mustâceum facere potest sî spatium datur.
+
+_M. Cic. a._ (taking another piece of cake). Tullia est dêliciae
+puellae. Sî ûnum modo mustâceum habêmus, ad novam domum Tulliae
+proficîscâmur.
+
+(Others cry out) Eâmus!
+
+  The curtain falls. A frame to represent the door of a Roman house is
+  placed to the left of the stage; a small altar stands at the right:
+  a circular piece of wood with holes bored in it as a receptacle for
+  the torches (common wax candles) is placed on top of the altar used
+  by the priests. The procession to the groom's house advances from
+  the left in the following order:
+
+  The flute-players first, followed by a lad carrying a torch and
+  vase; next the bride, supported on either side by a boy; the groom,
+  throwing nuts to those in the street, walks at the side; a boy
+  follows, carrying the bride's spindle; the others follow, two by
+  two, all carrying torches and singing:
+
+    Hespere, quî caelô fertur crûdêlior îgnis?
+    Quî nâtam possîs complexû âvellere mâtris,
+    Complexû mâtris retinentem âvellere nâtam
+    Et iuvenî ârdentî castam dônâre puellam.
+    Quid faciunt hostês captâ crûdêlius urbe?
+    Hýmên ô Hymenaee, Hýmên ades ô Hymenaee.
+
+  When the groom's house is reached, the bride winds the door posts
+  with woolen bands and anoints them with oil to signify health and
+  plenty. She is then lifted over the threshold by two boys to prevent
+  possible stumbling. The groom, Cicero, Terentia, L. Piso and his
+  wife, enter the house and place their torches on the altar; the
+  others remain standing outside. All continue singing, accompanied by
+  the flute-players, until after the groom hands to the bride a dish,
+  on which incense is burning, and a bowl of water, which both touch
+  in token of mutual purity, and Tullia again repeats the words:
+
+Ubi tû Gâius, ego Gâia.
+
+_G. Piso_ (presenting to her the keys, which she fastens in her girdle).
+Sit fêlîx nostra vîta! Clâvês meae domûs, mea uxor, accipe!
+
+  Tullia kindles the fire on the altar with her torch, and then throws
+  it to a girl outside. The girl who catches the torch exclaims:
+
+Ô, mê fêlicissimam! proxima Tulliae nûbam.
+
+  (Tullia kneels at the altar and offers prayer to Juno.)
+
+    Iûnô, es auctor mûnerum,
+    Iûnô, mâter omnium,
+    Nôbîs dâ nunc gaudium.
+    Iûnô, adiûtrîx es hominum,
+    Iûnô, summa caelitum,
+    Nôbis sîs auxilium.
+
+
+
+
+  [Illustration: ROMAN MARRIAGE]
+
+COSTUMES AND SUGGESTIONS
+
+
+The bride wears a white dress trimmed with purple fringe, a girdle of
+crimson wool, and a long yellow veil. She has on many bright-colored
+ribbons, many bracelets and rings, and high yellow shoes with buckles.
+Her hair is arranged in six locks parted by the point of a spear and
+held in place by _vittae_ or bands.
+
+The Pontifex should have a band of purple three inches wide around the
+bottom of his toga.
+
+The boys should wear straight robes reaching to the knee and gathered at
+the shoulders. The garb of the statue "Diana of the Hind" is a good
+illustration.
+
+The slaves wear bright-colored tunics reaching to the knees.
+
+Valuable suggestions may be found in Johnston's "Private Life of the
+Romans," "Harper's Dictionary of Classical Antiquities," and _Harper's
+Magazine_, Vol. 46.
+
+The individual parts should be thoroughly learned and practiced before a
+full rehearsal is attempted.
+
+Especial emphasis should be placed upon the necessity of reciting the
+parts slowly and distinctly.
+
+The signing of the _tabulae nuptiales_ was a part of the _nuptiae_, but
+it has been introduced during the _sponsalia_ to give better balance to
+the play. Wherever permissible, very simple Latin has been used in order
+to render the task of memorizing as easy as possible.
+
+
+SCENE I
+
+SPONSALIA--BETROTHAL
+
+Cicero's house. Terentia complains that Cicero neglects her and that he
+devotes too much time to the prosecution of Catiline and to study. The
+school report (renuntiatio) of her son, the young Cicero, also causes
+her anxiety. Marcus junior adds to her anxiety by affirming that he
+wishes to become an orator like his father. He promises, however, that
+he will study his geometry more diligently and thereby gain the reward
+offered by Cicero. Lucius Piso calls at Cicero's home to ask the hand of
+Tullia for his son Gaius Piso. Terentia is pleased with the prospect of
+marrying her daughter so well. Tullia herself and Cicero prefer to wait
+until Tullia is older. Tullia says she can sympathize with Servilia and
+others who have no girlhood on account of marrying so young; but finally
+she yields to her mother's wish and consents to become betrothed to
+Gaius. The witnesses arrive and the betrothal (sponsalia) takes place.
+The marriage contract (tabulae nuptiales) is signed, showing the amount
+of dowry. Refreshments are partaken of, following a libation in honor of
+the gods. Congratulations are offered and the wedding hymn is sung.
+
+
+SCENE II
+
+NUPTIAE--WEDDING CEREMONY
+
+The auspices are taken and pronounced favorable. The groom and bride
+assume the names of Gaius and Gaia, respectively. These particular names
+were chosen, according to some, out of respect to the noted spinner
+Gaius and his royal wife, who were held by the Romans as a pattern of
+conjugal fidelity and skilled industry; according to others, because of
+the derivation from _gaudere_. Tullia with the words "Ubi tu Gaius, ego
+Gaia" (where you are Gaius, I am Gaia) signifies her willingness to
+enter the gens of her husband. The eating of the cake presented by the
+Pontifex (confarreatio) is the most important part of the ceremony,
+suggesting the sacramental view of marriage. The skin upon which the
+bride and groom are seated is supposed to be that of the sheep
+sacrificed before the ceremony begins. Prayer is offered to Jupiter by
+the Pontifex, and to Juno by the Flamen Dialis, after which
+congratulations are offered.
+
+
+SCENE III
+
+DEDUCTIO--PROCESSION TO THE GROOM'S HOUSE
+
+The bride is taken, to all appearances, by force from her mother's
+embrace,--a survival of the marriage by capture, or, as the Romans
+themselves put it, a reminiscence of the Sabine marriage. The
+_mustaceum_, or wedding cake, is eaten, and the procession begins,
+all singing the wedding hymn. The groom throws nuts to the boys in the
+street as a sign that he will now put away childish things. Arriving at
+the groom's house, the bride anoints the doorposts with oil to signify
+health and plenty, and then offers a prayer for future happiness.
+
+
+
+           *       *       *       *

@@ -1,0 +1,797 @@
+1995 > L'INTERNET DICTIONARY PROJECT
+
+
+[Résumé]
+Tyler Chambers, informaticien, crée d'abord en mai 1994 la Human-
+Languages Page (H-LP) pour proposer un index des ressources
+linguistiques disponibles sur l'internet dans diverses langues.
+Puis il lance en parallèle en 1995 l'Internet Dictionary Project
+(IDP), à savoir un projet coopératif ouvert à tous pour constituer
+des dictionnaires en accès libre sur le web, de l'anglais vers
+d'autres langues (allemand, espagnol, français, italien, latin,
+portugais). Comme expliqué sur le site web, «le but est de créer
+des dictionnaires de traduction grâce à l'aide des internautes. Ce
+site permet aux usagers du monde entier de les consulter et de
+participer à la traduction de termes anglais dans d'autres langues.
+Les listes de termes anglais et leurs correspondants dans d'autres
+langues sont ensuite mis à la disposition de tous sur ce site,
+sans restriction d'aucune sorte.»
+
+
+
+Tyler Chambers, informaticien, lance l'Internet Dictionary Project
+(IDP) en 1995 en tant que projet coopératif ouvert à tous pour
+constituer des dictionnaires en accès libre sur le web.
+
+Un an auparavant, Tyler crée la Human-Languages Page (H-LP) pour
+proposer un répertoire de ressources linguistiques. Ce répertoire
+recense 1.800 ressources dans une centaine de langues en octobre
+1998. Ces ressources sont classées dans plusieurs rubriques:
+langues et littérature, écoles et institutions, ressources
+linguistiques, produits et services, organismes, emplois et stages,
+dictionnaires, cours de langues.
+
+Quant à l'Internet Dictionary Project, son but est de créer des
+dictionnaires de traduction de l'anglais vers d'autres langues
+(allemand, espagnol, français, italien, latin, portugais).
+
+Comme expliqué à l'époque sur le site web, «le but est de créer
+des dictionnaires de traduction grâce à l'aide des internautes. Ce
+site permet aux usagers du monde entier de les consulter et de
+participer à la traduction de termes anglais dans d'autres langues.
+Les listes de termes anglais et leurs correspondants dans d'autres
+langues sont ensuite mis à la disposition de tous sur ce site,
+sans restriction d'aucune sorte. (...)
+
+L'Internet Dictionary Project a débuté en 1995 pour combler une
+lacune et procurer des dictionnaires de traduction gratuits à la
+communauté des internautes et à tous ceux qui s'intéressent à
+l'informatique. Non seulement il est très utile d'avoir
+immédiatement accès à des dictionnaires par le World Wide Web,
+mais ceci permet aussi le développement de logiciels pouvant tirer
+parti de tels dictionnaires, que ce soit des programmes de
+traduction ou des vérificateurs d'orthographe ou encore des guides
+d'apprentissage des langues. En facilitant la création de ces
+dictionnaires en ligne par des milliers de volontaires, et en les
+mettant gratuitement à la disposition de tous, l'Internet
+Dictionary Project espère imprimer sa marque sur l'internet et
+susciter d'autres projets qui seront plus bénéfiques que de
+générer des revenus purement financiers.»
+
+Tyler Chambers raconte en septembre 1998 lors d'un entretien par
+courriel: «Le multilinguisme sur le web était inévitable bien
+avant que ce médium ne se développe vraiment. Mon premier vrai
+contact avec le web date de 1994, un peu après ses débuts mais
+bien avant son expansion. 1994 a été aussi l'année où j'ai débuté
+mon premier projet web multilingue, et il existait déjà un nombre
+significatif de ressources linguistiques en ligne. Ceci était
+antérieur à la création de Netscape. Mosaic était le seul
+navigateur sur le web, et les pages web étaient essentiellement
+des documents textuels reliés par des hyperliens. Avec
+l'amélioration des navigateurs et l'expérience acquise par les
+usagers, je ne pense pas qu'il existe une langue vivante qui ne
+soit pas maintenant représentée sur le web, que ce soit la langue
+des Indiens d'Amérique ou les dialectes moyen-orientaux. De même
+une pléthore de langues mortes peut maintenant trouver une
+audience nouvelle avec des érudits et autres spécialistes en ligne.
+({~HORIZONTAL ELLIPSIS~})
+
+Bien que je ne sois pas multilingue, ni même bilingue moi-même, je
+suis conscient du fait que très peu de domaines ont une importance
+comparable à celle des langues et du multilinguisme. ({~HORIZONTAL ELLIPSIS~}) Dans
+l'ensemble, je pense que le web est important pour la
+sensibilisation aux langues et pour les questions culturelles.
+Dans quel autre endroit peut-on chercher au hasard pendant vingt
+minutes et trouver des informations susceptibles de vous
+intéresser dans trois langues différentes sinon plus? ({~HORIZONTAL ELLIPSIS~})
+
+Dire que l'internet aiguillonne le multilinguisme est à mon sens
+une opinion fausse. C'est la communication qui aiguillonne le
+multilinguisme et l'échange multiculturel. L'internet est
+seulement le mode de communication le plus récent qui soit
+accessible aux gens plus ou moins ordinaires. ({~HORIZONTAL ELLIPSIS~}) Les langues
+deviendront encore plus importantes qu'elles ne le sont lorsque
+tout le monde pourra communiquer à l'échelle de la planète (à
+travers le web, les discussions, les jeux, le courrier
+électronique, ou toute application appartenant encore au domaine
+de l'avenir).»
+
+Au printemps 2001, la Human-Languages Page fusionne avec le
+Languages Catalog, une section de la WWW Virtual Library, pour
+devenir iLoveLanguages. En septembre 2003, iLoveLanguages offre
+2.000 ressources linguistiques dans une centaine de langues. Quant
+à l'Internet Dictionary Project, Tyler Chambers y met fin en
+janvier 2007, faute de temps, tout en laissant les dictionnaires
+existants tels quels pour consultation ou téléchargement.
+
+
+
+1995 > NETGLOS, GLOSSAIRE DE L'INTERNET
+
+
+[Résumé]
+NetGlos - abrégé de «Multilingual Glossary of Internet
+Terminology» - est lancé en 1995 à l'initiative du WorldWide
+Language Institute (WWLI), un institut enseignant les langues via
+l'internet. NetGlos est un projet collaboratif en treize langues
+(allemand, anglais, chinois, croate, espagnol, français, grec,
+hébreu, hollandais/flamand, italien, maori, norvégien, portugais),
+avec la participation de nombreux traducteurs volontaires et
+autres professionnels des langues dans le monde entier. Comme
+expliqué en septembre 1998 par Brian King, directeur du WorldWide
+Language Institute, «avant qu'un nouveau terme ne soit accepté
+comme le terme correct, il y a une période d'instabilité avec
+plusieurs candidats en compétition. Souvent un terme emprunté à
+l'anglais est le point de départ et, dans de nombreux cas, il est
+aussi le point d'arrivée. Finalement émerge un vainqueur qui est
+ensuite utilisé aussi bien dans les dictionnaires techniques que
+dans le vocabulaire quotidien de l'usager non spécialiste.»
+
+
+
+NetGlos - abrégé de «Multilingual Glossary of Internet
+Terminology» - est un glossaire coopératif lancé en 1995 à
+l'initiative du WorldWide Language Institute (WWLI), un institut
+enseignant les langues via l'internet.
+
+Trois ans plus tard, NetGlos est disponible en treize langues
+(allemand, anglais, chinois, croate, espagnol, français, grec,
+hébreu, hollandais/flamand, italien, maori, norvégien, portugais),
+avec la participation de nombreux traducteurs et autres
+professionnels des langues dans le monde entier.
+
+Brian King, directeur du WorldWide Language Institute, explique en
+septembre 1998: «Une grande partie de la terminologie technique
+disponible sur le web n'est pas encore traduite dans d'autres
+langues [que l'anglais]. Et, comme nous nous en sommes rendus
+compte dans NetGlos, la traduction de ces termes n'est pas
+toujours facile. Avant qu'un nouveau terme ne soit accepté comme
+le terme correct, il y a une période d'instabilité avec plusieurs
+candidats en compétition. Souvent un terme emprunté à l'anglais
+est le point de départ et, dans de nombreux cas, il est aussi le
+point d'arrivée. Finalement émerge un vainqueur qui est ensuite
+utilisé aussi bien dans les dictionnaires techniques que dans le
+vocabulaire quotidien de l'usager non spécialiste. La dernière
+version de NetGlos est la version russe, et elle devrait être
+disponible dans deux semaines environ [à savoir fin septembre
+1998]. Elle sera sans nul doute un excellent exemple du processus
+dynamique en cours pour la russification de la terminologie du
+web.»
+
+Quelles sont les perspectives? «La technologie change à une allure
+frénétique. L'apprentissage durant toute la vie est une stratégie
+que nous devons tous adopter si nous voulons rester en tête et
+être compétitifs. C'est une tâche qui est déjà assez difficile
+dans un environnement anglophone. Si nous ajoutons à cela la
+complexité apportée par la communication dans un cyberespace
+multilingue et multiculturel, la tâche devient encore plus
+astreignante. Probablement davantage encore que par le passé, la
+coopération est aussi indispensable que la concurrence. Les germes
+d'une coopération par le biais de l'internet existent déjà. Notre
+projet NetGlos dépend du bon vouloir de traducteurs volontaires
+dans de nombreux pays: Canada, États-Unis, Autriche, Norvège,
+Belgique, Israël, Portugal, Russie, Grèce, Brésil, Nouvelle-
+Zélande, etc. À mon avis, les centaines de visiteurs qui
+consultent quotidiennement les pages de NetGlos constituent un
+excellent témoignage du succès de ce type de relations de travail.
+Les relations de coopération s'accroîtront encore à l'avenir, mais
+pas nécessairement sur la base du volontariat.»
+
+
+
+1995 > PLUSIEURS LANGUES SUR NOTRE ÉCRAN
+
+
+[Résumé]
+Comment se débrouiller pour afficher plusieurs langues à l'écran?
+Yoshi Mikami, informaticien à Fujisawa (Japon), lance d'abord un
+site web en décembre 1995 avant d'écrire le premier livre sur le
+sujet en août 1997. Son site bilingue anglais-japonais «The
+Languages of the World by Computers and the Internet» est plus
+connu sous le nom de Kotoba Home Page ou Logos Home Page (à ne pas
+confondre avec le site de la société de traduction Logos, lancé
+deux ans plus tard). La Kotoba Home Page donne un bref historique
+de chaque langue, ses caractéristiques, sa phonétique, son jeu de
+caractères et son encodage informatique. Fort de cette expérience,
+Yoshi Mikami co-écrit ensuite (avec Kenji Sekine et Nobutoshi
+Kohara) le premier livre sur le sujet, «Pour un web multilingue»,
+publié en japonais par les éditions O'Reilly en août 1997 avant
+d'être traduit l'année suivante en anglais, en allemand et en
+français.
+
+
+
+Comment se débrouiller pour afficher plusieurs langues à l'écran?
+Yoshi Mikami lance d'abord un site web en décembre 1995 avant de
+publier le premier livre au monde sur le sujet en août 1997.
+
+Yoshi Mikami, qui travaille à l'époque comme informaticien chez
+Asia Info Network à Fujisawa (Japon), lance le site bilingue
+anglais-japonais «The Languages of the World by Computers and the
+Internet», plus connu sous le nom de Logos Home Page ou Kotoba
+Home Page. Fort de cette expérience, il co-écrit ensuite (avec
+Kenji Sekine et Nobutoshi Kohara) le premier livre sur le sujet,
+«Pour un web multilingue», publié en japonais par les éditions
+O'Reilly Media en août 1997 avant d'être traduit l'année suivante
+en anglais, en allemand et en français.
+
+Yoshi raconte en décembre 1998: «Ma langue maternelle est le
+japonais. Comme j'ai suivi mes études de troisième cycle aux
+États-Unis et que j'ai travaillé dans l'informatique, je suis
+devenu bilingue japonais/anglais américain. J'ai toujours été
+intéressé par différentes langues et cultures, aussi j'ai appris
+le russe, le français et le chinois dans la foulée.  À la fin de
+1995, j'ai créé sur le web "The Languages of the World by
+Computers and the Internet" et j'ai tenté de donner - en anglais
+et en japonais - un bref historique des six principales langues
+utilisées sur l'internet, ainsi que les caractéristiques propres à
+chaque langue, sa phonétique, son jeu de caractères et son
+encodage informatique. Suite à l'expérience acquise, j'ai invité
+mes deux associés à écrire un livre sur la conception, la création
+et la présentation de pages web multilingues, livre qui fut publié
+en août 1997 dans son édition japonaise, le premier livre au monde
+sur un tel sujet.»
+
+Plus généralement, «il y a des milliers d'années de cela, en
+Égypte, en Chine et ailleurs, les gens étaient plus sensibles au
+fait de communiquer leurs lois et leurs réflexions non seulement
+dans une langue mais dans plusieurs. Dans notre monde moderne,
+chaque État a le plus souvent adopté une seule langue de
+communication. À mon avis, l'internet verra l'utilisation plus
+grande de langues différentes et de pages multilingues - et pas
+seulement une gravitation autour de l'anglais américain - et un
+usage plus créatif de la traduction informatique multilingue. 99%
+des sites web créés au Japon sont en japonais!»
+
+
+
+1995 > GLOBAL REACH, POUR LOCALISER LES SITES WEB
+
+
+[Résumé]
+Bill Dunlap est le fondateur de Euro-Marketing Associates, une
+société de conseil en marketing qu'il lance en 1985 à Paris et San
+Francisco. En 1995, il restructure cette société en service de
+conseil en ligne dénommé Global Reach, le but étant de promouvoir
+les sites web des entreprises américaines dans d'autres pays, afin
+d'attirer plus de visiteurs, et donc d'augmenter les ventes. Cette
+méthode comprend la traduction d'un site web dans plusieurs
+langues, la promotion active du site, et enfin l'accroissement de
+la fréquentation locale au moyen de bandeaux publicitaires ciblés.
+Bill Dunlap explique en décembre 1998: «Promouvoir un site est
+aussi important que le créer, sinon plus. On doit être préparé à
+utiliser au moins autant de temps et d'argent à promouvoir son
+site qu'on en a passé à l'origine à le créer. Le programme Global
+Reach permet de promouvoir un site dans des pays non anglophones,
+afin d'atteindre une clientèle plus large... et davantage de
+ventes.»
+
+
+
+La société Global Reach se spécialise d'emblée dans
+l'internationalisation des sites web, tout comme leur localisation
+dans plusieurs langues.
+
+Bill Dunlap fonde d'abord Euro-Marketing Associates, une société
+de conseil en marketing qu'il lance en 1985 à Paris et San
+Francisco. En 1995, il restructure cette société en service de
+conseil en ligne dénommé Global Reach, le but étant de promouvoir
+les sites web des entreprises américaines dans d'autres pays, afin
+d'attirer plus de visiteurs, et donc d'augmenter les ventes. Cette
+méthode comprend la traduction d'un site web dans plusieurs
+langues, la promotion active du site, et enfin l'accroissement de
+la fréquentation locale au moyen de bandeaux publicitaires ciblés.
+
+Bill Dunlap explique en décembre 1998: «Il y a très peu de gens
+aux États-Unis qui sont intéressés de communiquer dans plusieurs
+langues. Pour la plupart, ils pensent encore que le monde entier
+parle anglais. Par contre, en Europe, les pays sont petits, si
+bien que, depuis des siècles, une perspective internationale est
+nécessaire. ({~HORIZONTAL ELLIPSIS~})
+
+Depuis 1981, début de mon activité professionnelle, j'ai été
+impliqué dans la venue de sociétés américaines en Europe. Ceci est
+pour beaucoup un problème de langue, puisque leurs informations
+commerciales doivent être disponibles dans les langues européennes
+pour être prises en compte en Europe. Comme le web est devenu
+populaire en 1995, j'ai donné à ces activités une dimension "en
+ligne", et j'en suis venu à promouvoir le cybercommerce européen
+auprès de mes compatriotes américains. (...)
+
+Promouvoir un site est aussi important que le créer, sinon plus.
+On doit être préparé à utiliser au moins autant de temps et
+d'argent à promouvoir son site qu'on en a passé à l'origine à le
+créer. Le programme Global Reach permet de promouvoir un site dans
+des pays non anglophones, afin d'atteindre une clientèle plus
+large... avec davantage de ventes. Une société a de nombreuses
+bonnes raisons de considérer sérieusement le marché international.
+Global Reach est pour elle le moyen d'étendre son site web à de
+nombreux pays, de le présenter à des visiteurs en ligne dans leur
+propre langue, et de pénétrer le réseau de commerce en ligne
+présent dans ces pays.»
+
+Bill Dunlap ajoute en juillet 1999: «Une fois que la page
+d'accueil d'un site est disponible en plusieurs langues, l'étape
+suivante est le développement du contenu dans chaque langue. Un
+webmestre notera quelles langues attirent plus de visiteurs (et
+donc plus de ventes) que d'autres. Ce seront dans ces langues que
+débutera une campagne de promotion multilingue sur le web.
+Parallèlement, il est toujours bon de continuer à augmenter le
+nombre de langues dans lesquelles un site web est disponible. Au
+début, seule la page d'accueil traduite en plusieurs langues
+suffit, mais ensuite il est souhaitable de développer un véritable
+secteur pour chaque langue.»
+
+
+
+1996 > ONE LOOK DICTIONARIES, POINT D'ACCÈS COMMUN
+
+
+[Résumé]
+Robert Ware lance en avril 1996 le site OneLook Dictionaries en
+tant que point d'accès commun pour permettre une recherche rapide
+dans des centaines de dictionnaires généraux et spécialisés
+(affaires, informatique et internet, médecine, religion, sciences
+et techniques, sports, argot). Il explique en septembre 1998: «À
+titre personnel, je suis presque uniquement en contact avec des
+gens qui parlent une seule langue. ({~HORIZONTAL ELLIPSIS~}) Être en contact avec le
+monde entier change cette approche des choses. Et la change en
+mieux ! (...) J'ai été long à inclure des dictionnaires non
+anglophones, en partie parce que je suis monolingue. Mais vous en
+trouverez maintenant quelques-uns.» OneLook Dictionaries compte 2
+millions de termes provenant de 425 dictionnaires en 1998, 2,5
+millions de termes provenant de 530 dictionnaires en 2000, 5
+millions de termes provenant de 910 dictionnaires en 2003 et 19
+millions de termes provenant de 1.060 dictionnaires en 2010.
+
+
+
+Le site OneLook Dictionaries est lancé en avril 1996 par Robert
+Ware pour offrir un point d'accès commun à des centaines de
+dictionnaires en ligne.
+
+Outre les dictionnaires généraux, ces dictionnaires concernent
+l'économie et les affaires, l'informatique et l'internet, la
+médecine, la religion, les sciences et techniques, le sport et
+l'argot.
+
+Robert Ware explique en septembre 1998: «À titre personnel, je
+suis presque uniquement en contact avec des gens qui parlent une
+seule langue et n'ont pas beaucoup de motivation pour développer
+leurs aptitudes linguistiques. Être en contact avec le monde
+entier change cette approche des choses. Et la change en mieux !
+(...) J'ai été long à inclure des dictionnaires non anglophones,
+en partie parce que je suis monolingue. Mais vous en trouverez
+maintenant quelques-uns.»
+
+Robert raconte aussi dans le même entretien: «Un fait intéressant
+s'est produit par le passé qui a été très instructif pour moi. En
+1994, je travaillais pour un établissement scolaire et j'essayais
+d'installer un logiciel sur un modèle d'ordinateur particulier.
+J'ai trouvé une personne qui était en train de travailler sur le
+même problème, et nous avons commencé à échanger des courriels.
+Soudain, cela m'a frappé... Le logiciel avait été écrit à quarante
+kilomètres de là, mais c'était une personne située à l'autre bout
+du monde qui m'aidait. Les distances et l'éloignement géographique
+n'importaient plus! Et bien, ceci est formidable, mais à quoi cela
+nous mène-t-il? Je ne puis communiquer qu'en anglais mais,
+heureusement, mon correspondant pouvait utiliser aussi bien
+l'anglais que l'allemand qui était sa langue maternelle.
+L'internet a supprimé une barrière, celle de la distance, mais il
+subsiste la barrière de la langue, bien réelle.
+
+Il semble que l'internet propulse simultanément les gens dans deux
+directions différentes. L'internet, anglophone à l'origine, relie
+les gens dans le monde entier. Par là-même, il favorise une langue
+commune pour communiquer. Mais il suscite aussi des contacts entre
+des personnes de langue différente et permet ainsi de développer
+un intérêt plus grand pour le multilinguisme. Si une langue
+commune est appréciable, elle ne remplace en aucun cas la
+nécessité de plusieurs langues. L'internet favorise ainsi à la
+fois une langue commune et le multilinguisme, et ceci est un
+facteur qui aide à trouver des solutions. L'intérêt croissant pour
+les langues et le besoin qu'on en a stimulent de par le monde la
+création de cours de langues et d'instruments d'aide linguistique,
+et l'internet fournit la possibilité de les rendre disponibles
+rapidement et à bon marché.»
+
+OneLook Dictionaries compte 2 millions de termes provenant de 425
+dictionnaires en 1998, 2,5 millions de termes provenant de 530
+dictionnaires en 2000, 5 millions de termes provenant de 910
+dictionnaires en 2003 et 19 millions de termes provenant de 1 060
+dictionnaires en 2010.
+
+
+
+1997 > UN WEB ANGLOPHONE À 82,3%
+
+
+[Résumé]
+L'internet est d'abord anglophone à pratiquement 100%, puisqu'il
+débute en 1974 aux États-Unis en tant que réseau reliant les
+agences gouvernementales, les universités et les centres de
+recherche, grâce aux investissements considérables du gouvernement,
+avant de s'étendre à la communauté anglophone puis au monde entier.
+Vingt ans plus tard, Babel, initiative conjointe de l'Internet
+Society et d'Alis Technologies, mène la première étude relative à
+la répartition des langues sur le web. Daté de juin 1997 et
+disponible en sept langues, le «Palmarès des langues de la toile»
+donne les pourcentages de 82,3% pour l'anglais, 4% pour l'allemand,
+1,6% pour le japonais, 1,5% pour le français, 1,1% pour l'espagnol,
+1,1% pour le suédois et 1% pour l'italien. Trois ans plus tard, en
+été 2000, 78% des pages web sont en anglais, et 50% des usagers
+sont non anglophones.
+
+
+
+En 1997, le web est anglophone à 82,3%, d'après Babel, un projet
+conjoint de l'Internet Society et d'Alis Technologies pour
+contribuer à l'internationalisation de l'internet.
+
+À ses débuts, l'internet est anglophone à pratiquement 100%,
+puisqu'il débute en 1974 aux États-Unis en tant que réseau reliant
+les agences gouvernementales, les universités et les centres de
+recherche, grâce aux investissements considérables du gouvernement,
+avant de s'étendre à la communauté anglophone puis au monde entier.
+Son développement rapide est favorisé par l'invention du web en
+1990 par Tim Berners-Lee puis le lancement en novembre 1993 du
+premier navigateur Mosaic, ancêtre de Netscape.
+
+«Vers la communication sur internet dans toutes les langues...»,
+tel est le sous-titre de la page d'accueil de Babel, une
+initiative de l'Internet Society et d'Alis Technologies. Pour
+mémoire, rappelons que l'Internet Society est fondée en 1992 par
+Vinton Cerf pour favoriser le développement de l'internet et
+qu'Alis Technologies est une société spécialisée dans le
+traitement automatique des langues.
+
+En 1997, le site plurilingue (anglais, allemand, espagnol,
+français, italien, portugais, suédois) de Babel propose deux
+grands secteurs pour sa partie francophone: (a) un secteur
+«langues» en trois parties: langues du monde, glossaire
+typographique et linguistique, Francophonie; (b) un secteur
+«internet et multilinguisme» en deux parties: développer votre
+site web multilingue, codage des écritures du monde.
+
+Babel mène la première étude sur la répartition des langues sur le
+web et publie cette étude dans les sept langues du site.
+Disponible en ligne en juin 1997, le « Palmarès des langues de la
+toile » donne les pourcentages de 82,3% pour l'anglais, 4% pour
+l'allemand, 1,6% pour le japonais, 1,5% pour le français, 1,1%
+pour l'espagnol, 1,1% pour le suédois et 1% pour l'italien.
+
+Ce pourcentage de 82,3% pour l'anglais peut s'expliquer par
+plusieurs facteurs: (a) l'usage de l'anglais en tant que
+principale langue d'échange internationale; (b) la création d'un
+grand nombre de sites web aux États-Unis et au Canada depuis les
+débuts du web en 1990; (c) une proportion d'usagers
+particulièrement forte en Amérique du Nord par rapport au reste du
+monde, les ordinateurs étant bien meilleur marché qu'ailleurs,
+tout comme la connexion à l'internet sous forme de forfait mensuel
+à prix modique.
+
+Selon Global Reach, société spécialisée dans
+l'internationalisation et la localisation des sites web, les
+usagers non anglophones sont au nombre de 56 millions en juillet
+1998, avec 22,4% d'usagers hispanophones, 12,3% d'usagers nippons,
+14% d'usagers germanophones et 10% d'usagers francophones. Sur les
+500 millions d'habitants que compte l'Europe, 15%  sont de langue
+maternelle anglaise, 28% ne parlent pas l'anglais et 32%
+consultent des pages web en anglais.
+
+D'après Randy Hobler, un consultant en marketing internet de
+logiciels et services de traduction  interviewé en septembre 1998,
+«l'augmentation de pages web dans d'autres langues que l'anglais
+n'est pas seulement due au fait qu'il y ait plus de sites et
+d'usagers dans des pays non anglophones, mais elle est également
+due au fait que les sociétés et les organisations localisent
+davantage leurs sites web et au fait qu'on utilise davantage la
+traduction automatisée pour proposer des sites web à partir ou
+vers d'autres langues.»
+
+Randy explique aussi: «Comme l'internet n'a pas de frontières
+nationales, les internautes s'organisent selon d'autres critères
+propres au médium. En termes de multilinguisme, vous avez des
+communautés virtuelles, par exemple ce que j'appelle les "nations
+de langues", tous ces internautes qu'on peut regrouper selon leur
+langue maternelle quel que soit leur lieu géographique. Ainsi la
+nation de la langue espagnole inclut non seulement les internautes
+d'Espagne et d'Amérique latine, mais aussi tous les Hispanophones
+vivant aux États-Unis, ou encore ceux qui parlent espagnol au
+Maroc.»
+
+Si Randy donne l'exemple d'une «nation de langue» hispanophone
+répartie sur trois continents, la même remarque vaut pour la
+Francophonie, une communauté de langue française présente sur cinq
+continents, ou encore la Créolophonie, une communauté de langue
+créole présente non seulement dans les Caraïbes mais aussi à Paris,
+Montréal et New York.
+
+Le pourcentage d'internautes habitant hors des États-Unis atteint
+les 50% en juillet 1999. Le pourcentage d'usagers non anglophones
+atteint lui aussi les 50% en été 2000. Selon Global Reach, ce
+pourcentage est de 52,5% en été 2001, 57% en décembre 2001, 59,8%
+en avril 2002, 64,4% en septembre 2003 (dont 34,9% d'Européens non
+anglophones et 29,4% d'Asiatiques) et 64,2% en mars 2004 (dont
+37,9% d'Européens non anglophones et 33% d'Asiatiques).
+
+
+
+1997 > UNE LISTE DE LANGUES EUROPÉENNES MINORITAIRES
+
+
+[Résumé]
+En 1997, Caoimhín Ó Donnaíle est professeur d'informatique à
+l'Institut Sabhal Mòr Ostaig, situé sur l'île de Skye, en Écosse.
+Il dispense ses cours en gaélique écossais. Il est également le
+webmestre du site de l'Institut, un site trilingue (gaélique
+écossais, gaélique irlandais, anglais) qui se trouve être la
+principale source d'information mondiale sur le gaélique écossais.
+Sur ce site, il tient à jour la page «European Minority Languages»,
+une liste de langues européennes minoritaires elle aussi trilingue,
+avec classement par ordre alphabétique de langues et par famille
+linguistique.
+
+
+
+Caoimhín Ó Donnaíle est professeur d'informatique à l'Institut
+Sabhal Mór Ostaig, situé sur l'île de Skye, en Écosse. Il dispense
+ses cours en gaélique écossais. Il est également le webmestre du
+site de l'Institut, un site trilingue (gaélique écossais, gaélique
+irlandais, anglais) qui se trouve être la principale source
+d'information mondiale sur le gaélique écossais. Sur ce site, il
+propose la page «European Minority Languages», une liste de
+langues européennes minoritaires elle aussi trilingue, avec
+classement par ordre alphabétique de langues et par famille
+linguistique.
+
+Interviewé en août 1998, Caoimhín détermine quatre points
+importants pour un internet plurilingue: «(a) L'internet a
+contribué et contribuera au développement fulgurant de l'anglais
+comme langue mondiale. (b) L'internet peut aussi grandement aider
+les langues minoritaires. Ceci ne se fera pas tout seul, mais
+seulement si les gens choisissent de défendre une langue. (c) Le
+web est très utile pour dispenser des cours de langues, et la
+demande est grande. (d) La norme Unicode (ISO 10646) pour les jeux
+de caractères est très importante et elle va grandement favoriser
+le multilinguisme sur le web.»
+
+Qu'en est-il du gaélique? Caoimhín explique en mai 2001: «Nos
+étudiants utilisent un correcteur d'orthographe en gaélique et une
+base terminologique en ligne en gaélique. (...) Il est maintenant
+possible d'écouter la radio en gaélique (écossais et irlandais) en
+continu sur l'internet partout dans le monde. Une réalisation
+particulièrement importante a été la traduction en gaélique du
+navigateur Opera. C'est la première fois qu'un logiciel de cette
+taille est disponible en gaélique.»
+
+Qu'en est-il des langues menacées? D'après Caoimhín, «l'internet
+accélère les choses dans les deux sens. Si les gens ne se soucient
+pas de préserver ces langues, l'internet et la mondialisation qui
+l'accompagne accéléreront considérablement leur disparition. Si
+les gens se soucient vraiment de les préserver, l'internet
+constituera une aide irremplaçable.»
+
+
+
+1997 > UNE BASE TERMINOLOGIQUE EUROPÉENNE
+
+
+[Résumé]
+Géré par le service de traduction de la Commission européenne et
+disponible sur le web depuis 1997, Eurodicautom est une base
+terminologique multilingue de termes économiques, scientifiques,
+techniques et juridiques permettant de combiner entre elles les
+onze langues officielles de l'Union européenne (allemand, anglais,
+danois, espagnol, finnois, français, grec, hollandais, italien,
+portugais, suédois), ainsi que le latin, avec une moyenne de
+120.000 consultations par jour en 2003. Fin 2003, Eurodicautom
+annonce son intégration dans une base terminologique plus vaste
+regroupant le contenu de toutes les bases de l'Union européenne et
+qui serait disponible dans une vingtaine de langues du fait de
+l'élargissement de l'Union européenne prévu l'année suivante. La
+base IATE (InterActive Terminology for Europe) est lancée en
+interne au printemps 2004 puis en externe sur le web en juin 2007.
+
+
+
+Eurodicautom est une base terminologique multilingue de termes
+économiques, scientifiques, techniques et juridiques permettant de
+combiner entre elles les onze langues officielles de l'Union
+européenne et le latin.
+
+Eurodicautom est l'oeuvre du Service de traduction de la
+Commission européenne. Initialement conçue pour aider les
+traducteurs en interne, la base terminologique est disponible sur
+le web en 1997 avec accès libre et gratuit pour pouvoir être
+utilisée par les fonctionnaires de l'Union européenne et les
+professionnels de langues de par le monde. Les onze langues
+officielles (allemand, anglais, danois, espagnol, finnois,
+français, grec, hollandais, italien, portugais, suédois)
+permettent de répondre aux besoins des 15 pays membres.
+
+Un projet de base terminologique plus vaste est évoqué dès 1999
+pour fusionner le contenu de toutes les bases terminologiques de
+l'Union européenne et renforcer ainsi la coopération inter-
+institutionnelle. Outre la Commission européenne, les partenaires
+de ce projet sont le Parlement européen, le Conseil de l'Union
+européenne, la Cour de justice, la Cour des comptes européenne, le
+Comité économique et social européen, le Comité des régions, la
+Banque européenne d'investissement, la Banque centrale européenne
+et le Centre de traduction des organes de l'Union européenne.
+
+Fort de ses 120.000 consultations par jour, Eurodicautom annonce
+fin 2003 sa fermeture provisoire et son intégration dans une base
+plus vaste qui ne comporterait plus douze langues mais une
+vingtaine de langues, du fait de l'élargissement de l'Union
+européenne prévu l'année suivante (avec 25 pays membres en mai
+2004 et 27 pays membres en janvier 2007).
+
+La nouvelle base IATE (InterActive Terminology for Europe) voit le
+jour au printemps 2004, d'abord pour un usage interne au sein des
+institutions de l'Union européenne, puis pour un usage externe
+libre et gratuit sur le web en juin 2007, avec 1,4 million
+d'entrées dans les 23 langues officielles de l'Union européenne
+(allemand, anglais, bulgare, danois, espagnol, estonien, finnois,
+français, grec, hongrois, irlandais, italien, letton, lituanien,
+maltais, néerlandais, polonais, portugais, roumain, slovaque,
+slovène, suédois, tchèque), plus le latin.
+
+Le site web de IATE est administré par le Centre de traduction des
+organes de l'Union européenne à Luxembourg (capitale du pays du
+même nom) pour le compte des partenaires du projet. Comme expliqué
+dans la brochure de IATE, elle-même disponible en 23 langues, «les
+termes sont introduits dans la base de données par les
+terminologues et les traducteurs de l'Union européenne sur la base
+des informations fournies par les traducteurs, les administrateurs,
+les juristes-linguistes, les experts et d'autres sources fiables.»
+Selon la même brochure, IATE comprend 8,4 millions de termes en
+2010, dont  540.000 abréviations et 130.000 expressions.
+
+
+
+1997 > BABEL FISH, LOGICIEL DE TRADUCTION GRATUIT
+
+
+[Résumé]
+En décembre 1997, AltaVista est le premier moteur de recherche à
+lancer un service gratuit de traduction automatisée de l'anglais
+vers cinq autres langues (allemand, espagnol, français, italien,
+portugais) et vice versa, la page web originale et la traduction
+apparaissant en vis-à-vis à l'écran. Appelé aussi AltaVista
+Translation, Babel Fish est l'oeuvre de Systran, société pionnière
+dans le traitement automatique des langues. Babel Fish est
+alimenté par des dictionnaires multilingues comprenant 2,5
+millions de termes. Bien qu'ayant ses limites, avec un texte
+traduit très approximatif, ce service est immédiatement plébicité
+par les 12 millions d'usagers que compte la toile de l'époque,
+dont un nombre croissant d'usagers non anglophones, et contribue
+grandement au plurilinguisme du web.
+
+
+
+En décembre 1997, le moteur de recherche AltaVista lance un
+logiciel de traduction gratuit de l'anglais vers cinq autres
+langues, dénommé Babel Fish ou AltaVista Translation, ce qui
+constitue une première sur le web.
+
+À cette date, l'annuaire Yahoo! propose déjà une interface en sept
+langues (anglais, allemand, coréen, français, japonais, norvégien,
+suédois) pour prendre en compte un nombre croissant d'usagers non
+anglophones. Le classement des sites en 63 sections est plus
+pointu que celui d'AltaVista, où ces tâches sont entièrement
+automatisées. Lorsqu'une recherche ne donne pas de résultat dans
+Yahoo!, elle est automatiquement aiguillée vers AltaVista, et
+réciproquement.
+
+Babel Fish peut traduire une page web de l'anglais vers cinq
+autres langues (allemand, espagnol, français, italien, portugais)
+et vice versa, la page web originale et la traduction apparaissant
+en vis-à-vis à l'écran. On peut également traduire n'importe quel
+texte court en faisant un «copier-coller». Bien qu'ayant ses
+limites avec un texte traduit très approximatif, ce service est
+immédiatement plébicité par les 12 millions d'usagers que compte
+la toile de l'époque, dont un nombre croissant d'usagers non
+anglophones, et contribue grandement au plurilinguisme de
+l'internet.
+
+Alimenté par des dictionnaires multilingues comprenant 2,5
+millions de termes, Babel Fish est l'oeuvre de Systran, société
+pionnière dans le traitement automatique des langues. Selon le
+site web de Systran, «un logiciel de traduction automatique
+traduit une langue naturelle dans une autre langue naturelle. La
+traduction automatique prend en compte la structure grammaticale
+de chaque langue et elle utilise des règles pour transférer la
+structure grammaticale de la langue source (texte à traduire) vers
+la langue cible (texte traduit). La traduction automatique ne
+remplace pas et n'est pas destinée à remplacer le traducteur
+humain.»
+
+L'EAMT (European Association for Machine Translation) propose pour
+sa part la définition suivante sur son site: «La traduction
+automatique est l'utilisation de l'ordinateur pour la traduction
+de textes d'une langue naturelle à une autre. Elle fut un des
+premiers domaines de recherche en informatique. Il s'est avéré que
+cet objectif était difficile à atteindre. Cependant il existe
+aujourd'hui un certain nombre de systèmes produisant un résultat
+qui, s'il n'est pas parfait, est de qualité suffisante pour être
+utile dans certaines applications spécifiques, en général dans le
+domaine de la documentation technique. De plus, les logiciels de
+traduction, qui sont essentiellement destinés à aider le
+traducteur humain à produire des traductions, jouissent d'une
+popularité croissante auprès d'organismes professionnels de
+traduction.»
+
+D'autres logiciels de traduction automatique seront ensuite
+développés par Alis Technologies, Lernout & Hauspie, Globalink et
+Softissimo, avec des versions payantes et/ou gratuites disponibles
+sur le web. Quant à Babel Fish, il déménagera sur le site de Yahoo!
+en mai 2008.
+
+
+
+1997 > LES OUTILS DE LA SOCIÉTÉ DE TRADUCTION LOGOS
+
+
+[Résumé]
+En décembre 1997, la société de traduction Logos, basée à Modène,
+en Italie, avec des services en 35 langues, décide de mettre ses
+outils professionnels en accès libre sur le web pour en faire
+bénéficier la communauté internet. Le Logos Dictionary est un
+dictionnaire multilingue de 7,5 millions d'entrées (en septembre
+1998). La Wordtheque est une base de données multilingue de 328
+millions de termes, constituée à partir de milliers de traductions,
+notamment des romans et des documents techniques, avec une
+recherche possible par langue, par mot, par auteur ou par titre.
+Linguistic Resources offre un point d'accès unique à 553
+glossaires. L'Universal Conjugator propose des tableaux de
+conjugaison dans 17 langues. Dix ans plus tard, en 2007, la
+Wordtheque (devenue la Logos Library) comprend 710 millions de
+termes, Linguistic Resources (qui n'a pas changé de nom) offre un
+point d'accès unique à 1.215 glossaires et Conjugation of Verbs
+(devenu l'Universal Conjugator) propose des tableaux de
+conjugaison dans 36 langues.
+
+
+
+Fin 1997, la société de traduction Logos décide de mettre ses
+outils professionnels en accès libre sur le web pour en faire
+bénéficier la communauté internet.
+
+Fondé en 1979 par Rodrigo Vergara à Modène (Italie), Logos propose
+des services de traduction dans 35 langues en 1997, avec 300
+traducteurs travaillant sur place et un réseau mondial de 2.500
+traducteurs travaillant en free-lance. La moyenne de production
+est de 200 textes par jour.
+
+Le principal outil professionnel en accès libre est le Logos
+Dictionary, un dictionnaire multilingue de 7,5 millions d'entrées
+(en septembre 1998). La Wordtheque est une base de données
+multilingue de 328 millions de termes, constituée à partir de
+milliers de traductions, notamment des traductions de romans et de
+documents techniques, avec une recherche possible par langue, mot,
+auteur ou titre. Linguistic Resources offre un point d'accès
+unique à 553 glossaires. L'Universal Conjugator propose des
+tableaux de conjugaison dans 17 langues.
+
+Interviewé par Annie Kahn dans «Les mots pour le dire», un article
+du quotidien Le Monde daté du 7 décembre 1997, Rodrigo Vergara
+relate: «Nous voulions que nos traducteurs aient tous accès aux
+mêmes outils de traduction. Nous les avons donc mis à leur
+disposition sur internet, et tant qu'à faire nous avons ouvert le
+site au public. Cela nous a rendus très populaires, nous a fait
+beaucoup de publicité. L'opération a drainé vers nous de nombreux
+clients, mais aussi nous a permis d'étoffer notre réseau de
+traducteurs grâce aux contacts établis à la suite de cette
+initiative.»
+
+Annie Kahn, auteure de l'article, explique: «Le site de Logos est
+beaucoup plus qu'un dictionnaire ou qu'un répertoire de liens vers
+d'autres dictionnaires en ligne. L'un des piliers du système est
+un logiciel de recherche documentaire fonctionnant sur un corpus
+de textes littéraires disponibles gratuitement sur internet.
+Lorsque l'on recherche la définition ou la traduction d'un mot,
+"didactique" par exemple, on trouve non seulement le résultat
+recherché, mais aussi une phrase d'une oeuvre littéraire utilisant
+ce mot (en l'occurrence, un essai de Voltaire). Un simple clic
+permet d'accéder au texte intégral de l'oeuvre ou de commander le

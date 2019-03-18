@@ -1,0 +1,2650 @@
+THE
+
+  PHILOSOPHIC GRAMMAR
+
+  --OF--
+
+  AMERICAN LANGUAGES,
+
+  As Set Forth by Wilhelm von Humboldt;
+
+  WITH THE TRANSLATION OF AN UNPUBLISHED MEMOIR BY
+  HIM ON THE AMERICAN VERB.
+
+  --BY--
+
+  DANIEL G. BRINTON, A.M., M.D.,
+
+  PROFESSOR OF ETHNOLOGY AND ARCHAEOLOGY AT THE ACADEMY OF NATURAL SCIENCES,
+  PHILADELPHIA.
+
+  President of the Numismatic and Antiquarian Society of Philadelphia;
+  Member of the American Philosophical Society, the American Antiquarian
+  Society, the Pennsylvania Historical Society, etc.; Membre de la
+  Societe Royale des Antiquaires du Nord; de la Societe Americaine
+  de France; Delegue General de l'Institution Ethnographique;
+  Vice-President du Congres International des Americanistes;
+  Corresponding Member of the Anthropological
+  Society of Washington, etc.
+
+  (_Read before the American Philosophical Society, March 20, 1885._)
+
+  PHILADELPHIA:
+  PRESS OF MCCALLA & STAVELY, 237-9 DOCK STREET.
+  1885.
+
+
+
+
+CONTENTS.
+
+
+_The Philosophic Grammar of American Languages._
+
+
+   Sec.1. Introduction, p. 3. Sec.2. Humboldt's Studies in American Languages,
+     p. 4. Sec.3. The Final Purpose of the Philosophy of Language, p. 7.
+     Sec.4. Historical, Comparative and Philosophic Grammar, p. 9. Sec.5.
+     Definition and Psychological Origin of Language, p. 10. Sec.6.
+     Primitive Roots and Grammatical Categories, p. 11. Sec.7. Formal and
+     Material Elements of Language, p. 13. Sec.8. The Development of
+     Languages, p. 14. Sec.9. Internal Form of Languages, p. 16. Sec.10.
+     Criteria of Rank in Languages, p. 17. Sec.11. Classification of
+     Languages, p. 21. Sec.12. Nature of Incorporation, p. 22. Sec.13.
+     Psychological Origin of Incorporation, p. 24. Sec.14. Effect of
+     Incorporation on Compound Sentences, p. 25. Sec.15. The Dual in
+     American Languages, p. 27. Sec.16. Humboldt's Essay on the American
+     Verb, p. 28.
+
+
+_On the Verb in American Languages. By Wilhelm von Humboldt, p. 29._
+
+Verbal forms classified as they indicate the notion of Being:
+
+I. When the notion of Being is expressed independently, p. 31.
+
+   1. When the notion of Being is understood, p. 32. 2. When the notion
+     of Being is expressed by a special word, but without a phonetic
+     radical, p. 35.
+
+II. The notion of Being is incorporated with the verb as an auxiliary,
+p. 37.
+
+   Analysis of the Maya Verb, p. 38. Other Examples. The idea of past
+     time as related to death and negation, p. 40.
+
+III. The notion of Being is present in the verbal form only in idea,
+p. 41.
+
+   Case 1st. When the person, tense and mode signs are separable, p. 41.
+     Case 2d. When either the person, or the tense and mode signs, are
+     attached to the verb, p. 41. Case 3d. When both person and tense
+     and mode signs are attached to the verb. 1. Approach toward a Fixed
+     Form, p. 44. 2. Divisibility of Verbal Forms to allow the insertion
+     of governed parts of speech, p. 47. General Conclusions on the
+     organism of American Languages, p. 48.
+
+   Notes (by the Translator) on the various American Tribes and
+     Languages mentioned by Humboldt in the preceding Memoir, p. 49.
+
+
+
+
+The Philosophic Grammar of American Languages.
+
+
+Sec. 1. INTRODUCTORY.
+
+The foundations of the Philosophy of Language were laid by Wilhelm von
+Humboldt (b. June 22, 1767, d. April 8, 1835). The principles he
+advocated have frequently been misunderstood, and some of them have
+been modified, or even controverted, by more extended research; but a
+careful survey of the tendencies of modern thought in this field will
+show that the philosophic scheme of the nature and growth of
+languages, which he set forth, is gradually reasserting its sway,
+after having been neglected and denied through the preponderance of
+the so-called naturalistic school during the last quarter of a
+century.
+
+The time seems ripe, therefore, to bring the general principles of his
+philosophy to the knowledge of American scholars, especially as
+applied by himself to the analysis of American languages.
+
+Any one at all acquainted with Humboldt's writings, and the literature
+to which they have given rise, will recognize that this is a serious
+task. I have felt it such, and have prepared myself for it not only by
+a careful perusal of his own published writings, but also by a
+comparison of the conflicting interpretations put upon them by Dr. Max
+Schasler,[3-*] Prof. H. Steinthal,[3-+] Prof. C. J. Adler,[3-++] and
+others, as well as by obtaining a copy of an entirely unpublished
+memoir by Humboldt on the "American Verb," a translation of which
+accompanies this paper. But my chief reliance in solving the
+obscurities of Humboldt's presentation of his doctrines has been a
+close comparison of allied passages in his various essays, memoirs and
+letters. Of these I need scarcely say that I have attached the
+greatest weight to his latest and monumental work sometimes referred
+to as his "Introduction to the Kawi Language," but whose proper title
+is "On Differences in Linguistic Structure, and their Influence on the
+Mental Development of the Human Race."[4-*]
+
+I would not have it understood that I am presenting a complete
+analysis of Humboldt's linguistic philosophy. This is far beyond the
+scope of the present paper. It aims to set forth merely enough of his
+general theories to explain his applications of them to the languages
+of the American race.
+
+What I have to present can best be characterized as a series of notes
+on Humboldt's writings, indicating their bearing on the problems of
+American philology, introducing his theories to students of this
+branch, and serving as a preface to the hitherto unpublished essay by
+him on the American Verb, to which I have referred.
+
+
+Sec. 2. HUMBOLDT'S STUDIES IN AMERICAN LANGUAGES.
+
+The American languages occupied Humboldt's attention earnestly and for
+many years. He was first led to their study by his brother Alexander,
+who presented him with the large linguistic collection he had amassed
+during his travels in South and North America.
+
+While Prussian Minister in Rome (1802-08), he ransacked the library of
+the _Collegio Romano_ for rare or unpublished works on American
+tongues; he obtained from the ex-Jesuit Forneri all the information
+the latter could give about the Yurari, a tongue spoken on the Meta
+river, New Granada;[4-+] and he secured accurate copies of all the
+manuscript material on these idioms left by the diligent collector
+and linguist, the Abbe Hervas.
+
+A few years later, in 1812, we find him writing to his friend Baron
+Alexander von Rennenkampff, then in St. Petersburg: "I have selected
+the American languages as the special subject of my investigations.
+They have the closest relationship of any with the tongues of
+north-eastern Asia; and I beg you therefore to obtain for me all the
+dictionaries and grammars of the latter which you can."[5-*]
+
+It is probable from this extract that Humboldt was then studying these
+languages from that limited, ethnographic point of view, from which he
+wrote his essay on the Basque tongue, the announcement of which
+appeared, indeed, in that year, 1812, although the work itself was not
+issued until 1821.
+
+Ten years more of study and reflection taught him a far loftier
+flight. He came to look upon each language as an organism, all its
+parts bearing harmonious relations to each other, and standing in a
+definite connection with the intellectual and emotional development of
+the nation speaking it. Each language again bears the relation to
+language in general that the species does to the genus, or the genus
+to the order, and by a comprehensive process of analysis he hoped to
+arrive at those fundamental laws of articulate speech which form the
+Philosophy of Language, and which, as they are also the laws of human
+thought, at a certain point coincide, he believed, with those of the
+Philosophy of History.
+
+In the completion of this vast scheme, he continued to attach the
+utmost importance to the American languages. His illustrations were
+constantly drawn from them, and they were ever the subject of his
+earnest studies. He prized them as in certain respects the most
+valuable of all to the philosophic student of human speech.
+
+Thus, in 1826, he announced before the Berlin Academy that he was
+preparing an exhaustive work on the "Organism of Language," for which
+he had selected the American languages exclusively, as best suited for
+this purpose. "The languages of a great continent," he writes,
+"peopled by numerous nationalities, probably never subject to foreign
+influence, offer for this branch of linguistic study specially
+favorable material. There are in America as many as thirty little
+known languages for which we have means of study, each of which is
+like a new natural species, besides many others whose data are less
+ample."[6-*]
+
+In his memoir, read two years later, "On the Origin of Grammatical
+Forms, and their Influence on the Development of Ideas," he chose most
+of his examples from the idioms of the New World;[6-+] and the year
+following, he read the monograph on the Verb in American languages,
+which is printed for the first time with the present essay.
+
+In a later paper, he announced his special study of this group as
+still in preparation. It was, however, never completed. His earnest
+desire to reach the fundamental laws of language led him first into a
+long series of investigations into the systems of recorded speech,
+phonetic hieroglyphics and alphabetic writing, on which he read
+memoirs of great acuteness.
+
+In one of these he again mentions his studies of the American tongues,
+and takes occasion to vindicate them from the current charge of being
+of a low grade in the linguistic scale. "It is certainly unjust," he
+writes, "to call the American languages rude or savage, although their
+structure is widely different from those perfectly formed."[6-++]
+
+In 1828, there is a published letter from him making an appointment
+with the Abbe Thavenet, missionary to the Canadian Algonkins, then in
+Paris, "to enjoy the pleasure of conversing with him on his
+interesting studies of the Algonkin language."[6-||] And a private
+letter tells us that in 1831 he applied himself with new zeal to
+mastering the intricacies of Mexican grammar.[6-Sec.]
+
+About 1827, he found it indispensable to subject to a critical
+scrutiny the languages of the great island world of the Pacific and
+Indian oceans. This resulted at last in his selecting the Kawi
+language, a learned idiom of the island of Java, Malayan in origin but
+with marked traces of Hindu influence, as the point of departure for
+his generalizations. His conclusions were set forth in the
+introductory essay above referred to.
+
+The avowed purpose of this essay was to demonstrate the thesis that
+the _diversity of structure in languages is the necessary condition of
+the evolution of the human mind_.[7-*]
+
+In the establishment of this thesis he begins with a profound analysis
+of the nature of speech in general, and then proceeds to define the
+reciprocal influences which thought exerts upon it, it upon thought.
+
+Portions of this work are extremely obscure even to those who are most
+familiar with his theories and style. This arises partly from the
+difficulty of the subject; partly because his anxiety to avoid
+dogmatic statements led him into vagueness of expression; and partly
+because in some cases he was uncertain of his ground. In spite of
+these blemishes, this essay remains the most suggestive work ever
+written on the philosophy of language.
+
+
+Sec. 3. THE FINAL PURPOSE OF THE PHILOSOPHY OF LANGUAGE.
+
+Humboldt has been accused of being a metaphysician, and a scientific
+idealist.
+
+It is true that he believed in an ideal perfection of language, to
+wit: that form of expression which would correspond throughout to the
+highest and clearest thinking. But it is evident from this simple
+statement that he did not expect to find it in any known or possible
+tongue. He distinctly says, that this ideal is too hypothetical to be
+used otherwise than as a stimulus to investigation; but as such it is
+indispensable to the linguist in the pursuit of his loftiest task--the
+estimate of the efforts of man to realize perfection of
+expression.[7-+]
+
+There is nothing teleological in his philosophy; he even declines to
+admit that either the historian or the linguist has a right to set up
+a theory of progress or evolution; the duty of both is confined to
+deriving the completed meaning from the facts before them.[8-*] He
+merely insists that as the object of language is the expression of
+thought, certain forms of language are better adapted to this than
+others. What these are, why they are so, and how they react on the
+minds of the nations speaking them, are the questions he undertakes to
+answer, and which constitute the subject-matter with which the
+philosophy of language has to do.
+
+Humboldt taught that in its highest sense this philosophy of language
+is one with the philosophy of history. The science of language misses
+its purpose unless it seeks its chief end in explaining the
+intellectual growth of the race.[8-+]
+
+Each separate tongue is "a thought-world in tones" established between
+the minds of those who speak it and the objective world without.[8-++]
+Each mirrors in itself the spirit of the nation to which it belongs.
+But it has also an earlier and independent origin; it is the product
+of the conceptions of antecedent generations, and thus exerts a
+formative and directive influence on the national mind, an influence,
+not slight, but more potent than that which the national mind exerts
+upon it.[8-||]
+
+So also every word has a double character, the one derived from its
+origin, the other from its history. The former is single, the latter
+is manifold.[8-Sec.]
+
+Were the gigantic task possible to gather from every language the full
+record of every word and the complete explanation of each grammatical
+peculiarity, we should have an infallible, the only infallible and
+exhaustive, picture of human progress.
+
+
+Sec. 4. HISTORICAL, COMPARATIVE AND PHILOSOPHIC GRAMMAR.
+
+The Science of Grammar has three branches, which differ more in the
+methods they pursue than in the ends at which they aim. These are
+Historic, Comparative and Philosophic Grammar. Historic Grammar
+occupies itself with tracing the forms of a language back in time to
+their earlier expression, and exhibits their development through the
+archaic specimens of the tongue. Comparative Grammar extends this
+investigation by including in the survey the similar development of a
+number of dialects of the same stock or character, and explains the
+laws of speech, which account for the similarities and diversities
+observed.
+
+Both of these, it will be observed, begin with the language and its
+forms, and are confined to these. Philosophic Grammar, on the other
+hand, proceeds from the universal constructive principles of language,
+from the abstract formulae of grammatical relations, and investigates
+their application in various languages. It looks upon articulate
+speech as the more or less faithful expression of certain logical
+procedures, and analyzes tongues in order to exhibit the success, be
+it greater or less, which attends this effort. The grammatical
+principles with which it deals are universals, they exist in all
+minds, although it often happens that they are not portrayed with
+corresponding clearness in language.[9-*]
+
+Philosophic Grammar, therefore, includes in its horizon all languages
+spoken by men; it essays to analyze their inmost nature with reference
+to the laws of thought; it weighs the relations they bear to the
+character and destiny of those who speak them; and it ascends to the
+psychological needs and impulses which first gave them existence.
+
+It was grammar in this highest sense, it was the study of languages
+for such lofty purposes as these, with which Humboldt occupied himself
+with untiring zeal for the last fifteen years of his life, when he had
+laid aside the cares of the elevated and responsible political
+positions which he had long filled with distinguished credit.
+
+
+Sec. 5. DEFINITION AND PSYCHOLOGICAL ORIGIN OF LANGUAGE.
+
+Humboldt remarks that the first hundred pages or so of his celebrated
+"Introduction" are little more than an expansion of his definition of
+language. He gives this definition in its most condensed form as
+follows: "Language is the ever-recurring effort of the mind to make
+the articulate sound capable of expressing thought."[10-*]
+
+According to this definition, language is not a dead thing, a
+completed product, but it is an ever-living, active function, an
+energy of the soul, which will perish only when intelligence itself,
+in its highest sense, is extinguished. As he expresses it, language is
+not an ~ergon~, but an ~energeia~. It is the proof and the product of
+a mind _consciously_ working to a definite end.
+
+Hence, in Humboldt's theory the psychological element of
+_self-consciousness_ lies at the root of all linguistic expression. No
+mere physical difference between the lower animals and man explains
+the latter's possession of articulate speech. His self-consciousness
+alone is that trait which has rendered such a possession
+possible.[10-+]
+
+The idea of Self necessarily implies the idea of Other. A thought is
+never separate, never isolated, but ever in relation to another
+thought, suggested by one, leading on to another. Hence, Humboldt
+says: "The mind can only be conceived as in action, and _as action_."
+
+As Prof. Adler, in his comments on Humboldt's philosophy, admirably
+observes: "Man does not possess any such thing as an absolutely
+isolated individuality; the 'I' and the 'thou' are the essential
+complements of each other, and would, in their last analysis, be found
+identical."[11-*]
+
+On these two fundamental conceptions, those of Identity and Relation,
+or, as they may be expressed more correctly, those of Being and
+Action, Humboldt builds his doctrines concerning the primitive
+radicals of language and the fundamental categories of grammar.
+
+
+Sec. 6. PRIMITIVE ROOTS AND GRAMMATICAL CATEGORIES.
+
+The roots of a language are classified by Humboldt as either
+_objective_ or _subjective_, although he considers this far from an
+exhaustive scheme.[11-+]
+
+The objective roots are usually descriptive, and indicate an origin
+from a process of mental analysis. They bear the impress of those two
+attributes which characterize every thought, Being and Action. Every
+complete objective word must express these two notions. Upon them are
+founded the fundamental grammatical categories of the Noun and the
+Verb; or to speak more accurately, they lead to the distinction of
+nominal and verbal themes.
+
+The characteristic of the Noun is that it expresses Being; of the Verb
+that it expresses Action. This distinction is far from absolute in the
+word itself; in many languages, especially in Chinese and some
+American languages, there is in the word no discrimination between its
+verbal and nominal forms; but the verbal or nominal _value_ of the
+word is clearly fixed by other means.[11-++]
+
+Another class of objective root-words are the adjective words, or
+Determinatives. They are a later accession to the list, and by their
+addition bring the three chief grammatical categories, the Noun, the
+Verb and the Adjective, into correlation with the three logical
+categories of Substance, Action and Quality.
+
+By the subjective roots, Humboldt meant the personal pronouns. To
+these he attributed great importance in the development of language,
+and especially of American languages. They carry with them the mark of
+sharp individuality, and express in its highest reality the notion of
+Being.
+
+It is not easy to understand Humboldt's theory of the evolution of the
+personal pronouns. In his various essays he seems to offer conflicting
+statements. In one of his later papers, he argues that the origin of
+such subjective nominals is often, perhaps generally, locative. By
+comparing the personal pronouns with the adverbs of place in a series
+of languages, he showed that their demonstrative antedated their
+personal meaning.[12-*] With regard to their relative development, he
+says, in his celebrated "Introduction":
+
+"The first person expresses the individuality of the speaker, who is
+in immediate contact with external nature, and must distinguish
+himself from it in his speech. But in the 'I' the 'Thou' is assumed;
+and from the antithesis thus formed is developed the third
+person."[12-+]
+
+But in his "Notice of the Japanese Grammar of Father Oyanguren,"
+published in 1826, he points out that infants begin by speaking of
+themselves in the third person, showing that this comes first in the
+order of knowledge. It is followed by the second person, which
+separates one object from others; but as it does so by putting it in
+conscious antithesis to the speaker, it finally develops the
+"I."[12-++]
+
+The latter is unquestionably the correct statement so far as the
+history of language is concerned and the progress of knowledge. I can
+know myself only through knowing others.
+
+The explanation which reconciles these theories is that the one refers
+to the order of thought, or logical precedence, the other to the order
+of expression. Professor Ferrier, in his "Institutes of Metaphysics,"
+has established with much acuteness the thesis that, "What is first in
+the order of nature is last in the order of knowledge," and this is an
+instance of that philosophical principle.
+
+
+Sec. 7. FORMAL AND MATERIAL ELEMENTS OF LANGUAGE.
+
+A fundamental distinction in philosophic grammar is that which divides
+the _formal_ from the _material_ element of speech. This division
+arises from the original double nature of each radical, as expressing
+both Being and Action.
+
+On the one hand, Action involves Relation; it assumes an object and a
+subject, an agent, a direction of effort, a result of effort; usually
+also limitations of effort, time and space, and qualifications as to
+the manner of the effort. In other words, Action is capable of
+increase or decrease both in extension and intension.
+
+On the other hand, Being is a conception of fixed conditions, and is
+capable of few or no modifications.
+
+The _formal_ elements of a language are those which express Action, or
+the relation of the ideas; they make up the affixes of conjugations
+and declensions, the inflections of words; they indicate the parts of
+speech, the so-called "grammatical categories," found in developed
+tongues. The _material_ elements are the roots or stems expressing the
+naked ideas, the conceptions of existence apart from relation.
+
+Using the terms in this sense, Humboldt presents the following terse
+formula, as his definition of Inflection: "_Inflection is the
+expression of the category in contrast to the definition of the
+idea._"[13-*] Nothing could be more definitive and lucid than this
+concise phrase.
+
+The inflectional or formal elements of language are usually derived
+from words expressing accessory ideas. Generally, they are worn down
+to single letters or a single syllable, and they usually may be traced
+back to auxiliary verbs and pronouns.
+
+Often various accessories are found which are not required by the main
+proposition. This is a common fault in the narratives of ignorant men
+and in languages and dialects of a lower grade. It is seen in the
+multiplication of auxiliaries and qualifying particles observed in
+many American languages, where a vast number of needless accessories
+are brought into every sentence.
+
+The nature of the relations expressed by inflections may be manifold,
+and it is one of the tasks of philosophic grammar to analyze and
+classify them with reference to the direction of mental action they
+imply.
+
+It is evident that where these relations are varied and numerous, the
+language gains greatly in picturesqueness and force, and thus reacts
+with a more stimulating effect on the mind.
+
+
+Sec. 8. THE DEVELOPMENT OF LANGUAGES.
+
+Humboldt believed that in this respect languages could be divided into
+three classes, each representing a stage in progressive development.
+
+In the first and lowest stage all the elements are material and
+significant, and there are no true formal parts of speech.
+
+Next above this is where the elements of relation lose their
+independent significance _where so used_, but retain it elsewhere. The
+words are not yet fixed in grammatical categories. There is no
+distinction between verbs and nouns except in use. The plural conveys
+the idea of many, but the singular not strictly that of unity.
+
+Highest of all is that condition of language where every word is
+subject to grammatical law and shows by its form what category it
+comes under; and where the relational or formal elements convey no
+hint of anything but this relation. Here, only, does language attain
+to that specialization of parts where each element subserves its own
+purpose and no other, and here only does it correspond with clear and
+connected thinking.
+
+These expressions, however, must not be understood in a genetic sense,
+as if historically one linguistic class had preceded the other, and
+led up to it. Humboldt entertained no such view. He distinctly
+repudiated it. He did not believe in the evolution of languages. The
+differences of these classes are far more radical than that of sounds
+and signs; they reach down to the fundamental notions of things. His
+teaching was that a language without a passive voice, or without a
+grammatical gender can never acquire one, and consequently it can
+never perfectly express the conceptions corresponding to these
+features.[14-*]
+
+In defining and appraising these inherent and inalienable qualities of
+languages lies the highest end and aim of linguistic science. This is
+its true philosophic character, its mission which lifts it above the
+mere collecting of words and formulating of rules.
+
+If the higher languages did not develop from the lower, how did they
+arise? Humboldt answered this question fairly, so far as he was
+concerned. He said, he did not know. Individuals vary exceedingly in
+their talent for language, and so do nations. He was willing to call
+it an innate creative genius which endowed our Aryan forefathers with
+a richly inflected speech; but it was so contrary to the results of
+his prolonged and profound study of languages to believe, for
+instance, that a tongue like the Sanscrit could ever be developed from
+one like the Chinese, that he frankly said that he would rather accept
+at once the doctrine of those who attribute the different idioms of
+men to an immediate revelation from God.[15-*]
+
+He fully recognized, however, a progress, an organic growth, in human
+speech, and he expressly names this as a special branch of linguistic
+investigation.[15-+] He lays down that this growth may be from two
+sources, one the cultivation of a tongue within the nation by
+enriching its vocabulary, separating and classifying its elements,
+fixing its expressions, and thus adapting it to wider uses; the
+second, by forcible amalgamation with another tongue.
+
+The latter exerts always a more profound and often a more beneficial
+influence. The organism of both tongues may be destroyed, but the
+dissolvent force is also an organic and vital one, and from the ruins
+of both constructs a speech of grander plans and with wider views.
+"The seemingly aimless and confused interminglings of primitive tribes
+sowed the seed for the flowers of speech and song which flourished in
+centuries long posterior."
+
+The immediate causes of the improvement of a language through forcible
+admixture with another, are: that it is obliged to drop all
+unneccessary[TN-1] accessory elements in a proposition; that the
+relations of ideas must be expressed by conventional and not
+significant syllables; and that the limitations of thought imposed by
+the genius of the language are violently broken down, and the mind is
+thus given wider play for its faculties.
+
+Such influences, however, do not act in accordance with fixed laws of
+growth. There are no such laws, which are of universal application.
+The development of the Mongolian or Aryan tongues is not at all that
+of the American. The goal is one and the same, but the paths to it are
+infinite. For this reason each group or class of languages must be
+studied by itself, and its own peculiar developmental laws be
+ascertained by searching its history.[16-*]
+
+With reference to the growth of American languages, it was Humboldt's
+view that they manifest the utmost refractoriness both to external
+influence and to internal modifications. They reveal a marvellous
+tenacity of traditional words and forms, not only in dialects, but
+even in particular classes of the community, men having different
+expressions from women, the old from the young, the higher from the
+lower classes. These are maintained with scrupulous exactitude through
+generations, and except by the introduction of words, three centuries
+of daily commingling with the white race, have not at all altered the
+grammer[TN-2] and scarcely the phonetics of many of their languages.
+
+Nor is this referable to the contrast between an Aryan and an American
+language. The same immiscibility is shown between themselves. "Even
+where many radically different languages are located closely together,
+as in Mexico, I have not found a single example where one exercised a
+constructive or formative influence on the other. But it is by the
+encounter of great and contrasted differences that languages gain
+strength, riches, and completeness. Only thus are the perceptive
+powers, the imagination and the feelings impelled to enrich and extend
+the means of expression, which, if left to the labors of the
+understanding alone, are liable to be but meagre and arid."[16-+]
+
+
+Sec. 9. INTERNAL FORM OF LANGUAGES.
+
+Besides the grammatical form of a language, Humboldt recognized
+another which he called its _internal form_. This is that subtle
+something not expressed in words, which even more than the formal
+parts of speech, reveals the linguistic genius of a nation. It may be
+defined as the impression which the language bears of the clearness of
+the conceptions of those speaking it, and of their native gift of
+speech. He illustrates it by instancing the absence of a developed
+mode in Sanscrit, and maintains that in the creators of that tongue
+the conception of modality was never truly felt and distinguished from
+tense. In this respect its inner form was greatly inferior to the
+Greek, in the mind of which nation the ideally perfect construction of
+the verb unfolded itself with far more clearness.
+
+The study of this inner form of a language belongs to the highest
+realm of linguistic investigation, and is that which throws the most
+light on the national character and capacities.[17-*]
+
+
+Sec. 10. CRITERIA OF RANK IN LANGUAGES.
+
+Humboldt's one criterion of a language was its tendncy[TN-3] to
+_quicken and stimulate mental action_. He maintained that this is
+secured just in proportion as the grammatical structure favors clear
+definition of the individual idea apart from its relations, in other
+words, as it separates the material from the inflectional elements of
+speech. Clear thinking, he argued, means progressive thinking.
+Therefore he assigned a lower position both to those tongues which
+inseparably connect the idea with its relations, as the American
+languages, and to those which, like the Chinese and in a less degree
+the modern English, have scarcely any formal elements at all, but
+depend upon the position of words (placement) to signify their
+relations.
+
+But he greatly modified this unfavorable judgment by several
+extenuating considerations.
+
+Thus he warns us that it is of importance to recognize fully "that
+grammatical principles dwell rather in the mind of the speaker than in
+the material and mechanism of his language."[17-+]
+
+This led him to establish a distinction between _explicit_ grammar,
+where the relations are fully expressed in speech, and _implicit_
+grammar, where they are wholly or in part left to be understood by the
+mind.
+
+He expressly and repeatedly states that an intelligent thinker,
+trained in the grammatical distinctions of a higher language, can
+express any thought he has in the grammar of any other tongue which he
+masters, no matter how rude it is. This adaptability lies in the
+nature of speech in general. A language is an instrument, the use of
+which depends entirely on the skill of him who handles it. It is
+doubtful whether such imported forms and thoughts appeal in any direct
+sense to those who are native to the tongue. But the fact remains that
+the forms of the most barbarous languages are such that they may be
+developed to admit the expression of any kind of idea.
+
+But the meaning of this must not be misconstrued. If languages were
+merely dead instruments which we use to work with, then one would be
+as good as another to him who had learned it. But this is not the
+case. Speech is a living, physiological function, and, like any other
+function, is most invigorating and vitalizing when it works in the
+utmost harmony with the other functions. Its special relationship is
+to that brain-action which we call thinking; and entire harmony
+between the two is only present when the form, structure and sounds of
+speech correspond accurately to the logical procedure of thought. This
+he considered "an undeniable fact."
+
+The measure of the excellence of a language, therefore, is the
+clearness, definiteness and energy of the ideas which it awakes in the
+nation. Does it inspire and incite their mind? Has it positive and
+clear tones, and do these define sharply the ideas they represent,
+without needless accessories? Does its structure present the leading
+elements of the proposition in their simplicity, and permit the
+secondary elements to be grouped around them in subordinate positions,
+with a correct sense of linguistic perspective? The answers to these
+queries decide its position in the hierarchy of tongues.[18-*]
+
+As its capacity for expression is no criterion of a language, still
+less is the abundance or regularity of its forms. For this very
+multiplicity, this excessive superfluity, is a burden and a drawback,
+and obscures the integration of the thought by attaching to it a
+quantity of needless qualifications. Thus, in the language of the
+Abipones, the pronoun is different as the person spoken of is
+conceived as present, absent, sitting, walking, lying, or running, all
+quite unnecessary specifications.[19-*]
+
+In some languages much appears as form which, on close scrutiny, is
+nothing of the kind.
+
+This misunderstanding has reigned almost universally in the treatment
+of American tongues. The grammars which have been written upon them
+proceed generally on the principles of Latin, and apply a series of
+grammatical names to the forms explained, entirely inappropriate to
+them and misleading. Our first duty in taking up such a grammar as,
+for instance, that of an American language, is to dismiss the whole of
+the arrangement of the "parts of speech," and, by an analysis of words
+and phrases, to ascertain by what arrangement of elements they express
+logical, significant relations.[19-+]
+
+For example, in the Carib tongue, the grammars give _aveiridaco_ as
+the second person singular, subjunctive imperfect, "if thou wert."
+Analyze this, and we discover that _a_ is the possessive pronoun
+"thy;" _veiri_ is "to be" or "being" (in a place); and _daco_ is a
+particle of definite time. Hence, the literal rendering is "on the day
+of thy being." The so-called imperfect subjunctive turns out to be a
+verbal noun with a preposition. In many American languages the
+hypothetical supposition expressed in the Latin subjunctive is
+indicated by the same circumlocution.
+
+Again, the infinitive, in its classical sense, is unknown in most,
+probably in all, American languages. In the Tupi of Brazil and
+frequently elsewhere it is simply a noun; _caru_ is both "to eat" and
+"food;" _che caru ai-pota_, "I wish to eat," literally "my food I
+wish."
+
+In the Mexican, the infinitive is incorporated in the verb as an
+accusative, and the verb is put in the future of the person spoken of.
+
+Many writers continue to maintain that a criterion of rank of a
+language is its lexicographical richness--the number of words it
+possesses. Even very recently, Prof. Max Mueller has applied such a
+test to American languages, and, finding that one of the Fuegian
+dialects is reported to have nearly thirty thousand words, he
+maintains that this is a proof that these savages are a degenerate
+remnant of some much more highly developed ancestry. Founding his
+opinion largely on similar facts, Alexander von Humboldt applied the
+expression to the American nations that they are "des debris echappes
+a un naufrage commun."
+
+Such, however, was not the opinion of his brother Wilhelm. He sounded
+the depths of linguistic philosophy far more deeply than to accept
+mere abundance of words as proof of richness in a language. Many
+savage languages have twenty words signifying to eat particular
+things, but no word meaning "to eat" in general; the Eskimo language
+has different words for fishing for each kind of fish, but no word "to
+fish," in a general sense. Such apparent richness is, in fact, actual
+poverty.
+
+Humboldt taught that the quality, not merely the quantity, of words
+was the decisive measure of verbal wealth. Such quality depends on the
+relations of concrete words, on the one hand, to the primitive
+objective perceptions at their root, and, on the other, to the
+abstract general ideas of which they are particular representatives;
+and besides this, on the relations which the spoken word, the
+articulate sound, bears to the philosophic laws of the formation of
+language in general.[20-*]
+
+In his letter to Abel-Remusat he discusses the theory that the
+American languages point to a once higher condition of civilization,
+and are the corrupted idioms of deteriorated races. He denies that
+there is linguistic evidence of any such theory. These languages, he
+says, possess a remarkable regularity of structure, and very few
+anomalies. Their grammar does not present any visible traces of
+corrupting intermixtures.[21-*]
+
+In a later work he returns to the subject when speaking of the Lenape
+(Algonkin Delaware) dialect, and asks whether the rich imaginative
+power, of which it bears the evident impress, does not point to some
+youthful, supple and vigorous era in the life of language in
+general?[21-+] But he leaves the question unanswered.
+
+
+Sec. 11. CLASSIFICATION OF LANGUAGES.
+
+The lower unit of language is the Word; the higher is the Sentence.
+The plans on which languages combine words into sentences are a basic
+character of their structure, and divide them into classes as distinct
+and as decisive of their future, as those of vertebrate and
+invertebrate animals in natural history.
+
+These plans are four in number:
+
+1. By Isolation.
+
+The words are placed in juxtaposition, without change. Their relations
+are expressed by their location only (placement). The typical example
+of this is the Chinese.
+
+2. By Agglutination.
+
+The sentence is formed by suffixing to the word expressive of the main
+idea a number of others, more or less altered, expressing the
+relations. Examples of this are the Eskimo of North America, and the
+Northern Asiatic dialects.
+
+3. By Incorporation.
+
+The leading word of the sentence is divided and the accessory words
+either included in it or attached to it with abbreviated forms, so
+that the whole sentence assumes the form and sound of one word.
+
+4. By Inflection.
+
+Each word of the sentence indicates by its own form the character and
+relation to the main proposition of the idea it represents. Sanscrit,
+Greek and Latin are familiar examples of inflected tongues.
+
+It is possible to suppose that all four of these forms were developed
+from some primitive condition of utterance unknown to us, just as
+naturalists believe that all organic species were developed out of a
+homogeneous protoplasmic mass; but it is as hard to see how any one of
+them in its present form could pass over into another, as to
+understand how a radiate could change into a mollusk.
+
+
+Sec. 12. NATURE OF INCORPORATION.
+
+Of the four plans mentioned, Incorporation is that characteristic of,
+though not confined to, American tongues.
+
+It may appear in a higher or a lower grade, but its intention is
+everywhere the effort to convey in one word the whole proposition. The
+Verb, as that part of speech which especially conveys the synthetic
+action of the mental operation, is that which is selected as the stem
+of this word-sentence; all the other parts are subordinate
+accessories, devoid of syntactic value.
+
+The higher grade of incorporation includes both subject, object and
+verb in one word, and if for any reason the object is not included,
+the scheme of the sentence is still maintained in the verb, and the
+object is placed outside, as in apposition, without case ending, and
+under a form different from its original and simple one.
+
+This will readily be understood from the following examples from the
+Mexican language.
+
+The sentence _ni-naca-qua_, is one word and means "I, flesh, eat." If
+it is desired to express the object independently, the expression
+becomes _ni-c-qua-in-nacatl_, "I it eat, the flesh." The termination
+_tl_ does not belong to the root of the noun, but is added to show
+that it is in an external, and, as it were, unnatural position. Both
+the direct and remote object can thus be incorporated, and if they are
+not, but separately appended, the scheme of the sentence is still
+preserved; as _ni-te-tla-maca_, literally, "I, something, to somebody,
+give." How closely these accessories are incorporated is illustrated
+by the fact that the tense augments are not added to the stem, but to
+the whole word; _o-ni-c-te-maca-e_, "I have given it to somebody;"
+when the _o_ is the prefix of the perfect.
+
+In these languages, every element in the sentence, which is not
+incorporated in the verb, has, in fact, no syntax at all. The verbal
+exhausts all the formal portion of the language. The relations of the
+other words are intimated by their position. Thus _ni-tlagotlaz-nequia_,
+I wished to love, is literally "I, I shall love, I wished." _Tlagotlaz_,
+is the first person singular of the future, _ni-nequia_, I wished, which
+is divided, and the future form inserted. The same expression may stand
+thus: _ni-c-nequia-tlagotlaz_, where the _c_ is an intercalated relative
+pronoun, and the literal rendering is, "I it wished, I shall love."
+
+In the Lule language the construction with an infinitive is simply
+that the two verbs follow each other in the same person, as _caic
+tucuec_, "I am accustomed to eat," literally, "I am acustomed,[TN-4] I
+eat."
+
+None of these devices fullfils[TN-5] all the uses of the infinitive,
+and hence they are all inferior to it.
+
+In languages which lack formal elements, the deficiency must be
+supplied by the mind. Words are merely placed in juxtaposition, and
+their relationship guessed at. Thus, when a language constructs its
+cases merely by prefixing prepositions to the unaltered noun, there is
+no grammatical form; in the Mbaya language _e-tiboa_ is translated
+"through me," but it is really "I, through;" _l'emani_, is rendered
+"he wishes," but it is strictly "he, wish."
+
+In such languages the same collocation of words often corresponds to
+quite different meanings, as the precise relation of the thoughts is
+not defined by any formal elements. This is well illustrated in the
+Tupi tongue. The word _uba_ is "father;" with the pronoun of the third
+person prefixed it is _tuba_, literally "he, father." This may mean
+either "his father," or "he is a father," or "he has a father," just
+as the sense of the rest of the sentence requires.
+
+Certainly a language which thus leaves confounded together ideas so
+distinct as these, is inferior to one which discriminates them; and
+this is why the formal elements of a tongue are so important to
+intellectual growth. The Tupis may be an energetic and skillful
+people, but with their language they can never take a position as
+masters in the realm of ideas.
+
+The absence of the passive in most, if not all, American tongues is
+supplied by similar inadequate collocations of words. In Huasteca, for
+example, _nana tanin tahjal_, is translated "I am treated by him;"
+actually it is, "I, me, treats he." This is not a passive, but simply
+the idea of the Ego connected with the idea of another acting upon it.
+
+This is vastly below the level of inflected speech; for it cannot be
+too strenuously maintained that the grammatical relations of spoken
+language are the more perfect and favorable to intellectual growth,
+the more closely they correspond to the logical relations of thought.
+
+Sometimes what appears as inflection turns out on examination to be
+merely adjunction. Thus in the Mbaya tongue there are such verbal
+forms as _daladi_, thou wilt throw, _nilabuite_, he has spun, when the
+_d_ is the sign of the future, and the _n_ of the perfect. These look
+like inflections; but in fact _d_, is simply a relic of _quide_,
+hereafter, later, and _n_ stands in the same relation to _quine_,
+which means "and also."
+
+To become true formal elements, all such adjuncts must have completely
+lost their independent signification; because if they retain it, their
+material content requires qualification and relation just as any other
+stem word.
+
+A few American languages may have reached this stage. In the Mexican
+there are the terminals _ya_ or _a_ in the imperfect, the augment _o_
+in the preterit, and others in the future. In the Tamanaca the present
+ends in _a_, the preterit in _e_, the future in _c_. "There is nothing
+in either of these tongues to show that these tense signs have
+independent meaning, and therefore there is no reason why they should
+not be classed with those of the Greek and Sanscrit as true
+inflectional elements."[24-*]
+
+
+Sec. 13. PSYCHOLOGICAL ORIGIN OF INCORPORATION.
+
+This Incorporative plan, which may be considered as distinctive of the
+American stock of languages, is explained in its psychological origin
+by Humboldt, as the result of an _exaltation of the imaginative over
+the intellectual elements of mind_. By this method, the linguistic
+faculty strives to present to the understanding the whole thought in
+the most compact form possible, thus to facilitate its comprehension;
+and this it does, because a thought presented in one word is more
+vivid and stimulating to the imagination, more individual and
+picturesque, than when narrated in a number of words.[25-*]
+
+But the mistake must not be made of supposing that Incorporation is a
+_creative act_ of the language-sense, or that its products, the
+compounds that it builds, are real words. Humboldt was careful to
+impress this distinction, and calls such incorporated compounds
+examples of _collocation_ (Zusammensetzung), not of _synthesis_
+(Zusammenfassung). On this ground, he doubted, and with justice, the
+assertion of Duponceau, that the long words of the Lenape (Delaware)
+dialect are formed by an arbitrary selection of the phonetic parts of
+a number of words, without reference to the radical syllables.[25-+]
+He insisted, as is really the case, that in all instances the
+significant syllable or syllables are retained.
+
+
+Sec. 14. EFFECT OF INCORPORATION ON COMPOUND SENTENCES.
+
+As has been seen, the theory of Incorporation is to express the whole
+proposition, as nearly as possible, in one word; and what part of it
+cannot be thus expressed, is left without any syntax whatever. Not
+only does this apply to individual words in a sentence, but it extends
+to the various clauses of a compound sentence, such as in Aryan
+languages show their relation to the leading clauses by means of
+prepositions, conjunctions and relative pronouns.
+
+When the methods are analyzed by which the major and minor clauses are
+assigned their respective values in these tongues, it is very plain
+what difficulties of expression the system of Incorporation involves.
+Few of them have any true connecting word of either of the three
+classes above mentioned. They depend on scarcely veiled material
+words, simply placed in juxtaposition.
+
+It is probable that the prepositions and conjunctions of all
+languages were at first significant words, and the degree to which
+they have lost their primary significations and have become purely
+formal elements expressing relation, is one of the measures of the
+grammatical evolution of a tongue. In most American idioms their
+origin from substantives is readily recognizable. Frequently these
+substantives refer to parts of the body, and this, in passing,
+suggests the antiquity of this class of words and their value in
+comparison.
+
+In Maya _tan_ means in, toward, among; but it is also the breast or
+front of the body. The Mexican has three classes of prepositions--the
+first, whose origin from a substantive cannot be detected; the second,
+where an unknown and a known element are combined; the third, where
+the substantive is perfectly clear. An example of the last mentioned
+is _itic_, in, compounded of _ite_, belly, and the locative particle
+_c_; the phrase _ilhuicatl itic_, in heaven, is literally "in the
+belly of heaven." Precisely the same is the Cakchiquel _pamcah_,
+literally, "belly, heaven"=in heaven. In Mexican, _notepotzco_ is
+"behind me," literally, "my back, at;" this corresponds again to the
+Cakchiquel _chuih_, behind me, from _chi_, at, _u_, my, _vih_,
+shoulder-blades. The Mixteca prepositions present the crude nature of
+their origin without disguise, _chisi huahi_, belly, house--that is,
+in front of the house; _sata huahi_, back, house--behind the house.
+
+The conjunctions are equally transparent. "And" in Maya is _yetel_, in
+Mexican _ihuan_. One would suppose that such an indispensable
+connective would long since have been worn down to an insoluble
+entity. On the contrary, both these words retain their perfect
+material meaning. _Yetel_ is a compound of _y_, his, _et_, companion,
+and _el_, the definite termination of nouns. _Ihuan_ is the
+possessive, _i_, and _huan_, associate, companion, used also as a
+termination to form a certain class of plurals.
+
+The deficiency in true conjunctions and relative pronouns is met in
+many American languages by a reversal of the plan of expression with
+us. The relative clause becomes the principal one. There is a certain
+logical justice in this; for, if we reflect, it will appear evident
+that the major proposition is, in our construction, presented as one
+of the conditions of the minor. "I shall drown, if I fall in the
+water," means that, of the various results of my falling in the water,
+one of them will be that I shall drown. "I followed the road which
+you described," means that you described a road, and one of the
+results of this act of yours was that I followed it.
+
+This explains the plan of constructing compound sentences in Qquichua.
+Instead of saying "I shall follow the road which you describe," the
+construction is "You describe, this road I shall follow;" and instead
+of "I shall drown if I fall in the water," it would be, "I fall in the
+water, I shall drown."
+
+The Mexican language introduces the relative clause by the word _in_,
+which is an article and demonstrative pronoun, or, if the proposition
+is a conditional one, by _intla_, which really signifies "within
+this," and conveys the sense that the major is included within the
+conditions of the minor clause. The Cakchiquel conditional particle is
+_vue_, if, which appears to be simply the particle of affirmation
+"yes," employed to give extension to the minor clause, which, as a
+rule, is placed first.
+
+Or a conventional arrangement of words may be adopted which will
+convey the idea of certain dependent clauses, as those expressing
+similitude, as is often the case in Mexican.
+
+
+Sec. 15. THE DUAL IN AMERICAN LANGUAGES.
+
+In his admirable philosophical examination of the dual number in
+language, Humboldt laid the foundation of a linguistic theory of
+numerals which has not yet received the development it merits. Here he
+brings into view the dual and plural endings of a list of American
+languages, and explains the motives on which they base the inclusive
+and exclusive plurals so common among them. It is, in fact, a species
+of pronominal dual confined to the first person in the plural.
+
+This, he goes on to say, is by no means the only dual in these
+tongues. Some of them express both the other classes of duals which he
+names. Thus, the Totonaca has duals for all objects which appear as
+pairs in nature, as the eyes, the ears, the hands, etc.; while the
+Araucanian equals the Sanscrit in extending the grammatical expression
+of the dual through all parts of speech where it can find proper
+application.[27-*]
+
+
+Sec. 16. HUMBOLDT'S ESSAY ON THE AMERICAN VERB.
+
+The essay on the American verb translated in the following pages has
+never previously appeared in print, either in German or English. The
+original MS. is in the Royal Library at Berlin, whence I obtained a
+transcript. The author alludes to this essay in several passages of
+his printed works, most fully in his "Letter to M. Abel-Remusat"
+(1826), in which he says:
+
+"A few years ago, I read before the Berlin Academy a memoir, which has
+not been printed, in which I compared a number of American languages
+with each other, solely with regard to the manner in which they
+express the verb as uniting the subject with the attribute in the
+proposition, and from this point of view I assigned them to various
+classes. As this trait proves to what degree a language possesses
+grammatical forms, or is near to possessing them, it is decisive of
+the whole grammar of a tongue."
+
+On reading the memoir, I was so much impressed with the acuteness and
+justness of its analysis of American verbal forms that I prepared the
+translation which I now submit.
+
+In the more recent studies of the American verb which have appeared
+from the pens of Friedrich Mueller, J. Hammond Trumbull and Lucien
+Adam, we have the same central element of speech subjected to critical
+investigation at able hands. But it seems to me that none of them has
+approached the topic with the broad, philosophic conceptions which
+impress the reader in this essay of Humboldt's. Although sixty years
+and more have elapsed since it was written, I am confident that it
+will provide ample food for thought to the earnest student of
+language.
+
+
+
+
+_On the Verb in American Languages. By Wilhelm von Humboldt[TN-6]
+Translated from the unpublished original. By D. G. Brinton, M.D._
+
+
+You recently had the goodness to give an appreciative hearing to my
+essay on The Origin of Grammatical Forms.
+
+I desire to-day to apply the principles which I then stated in general
+to a particular grammatical point through a series of languages. I
+choose those of America as best suited to such a purpose, and select
+the Verb as the most important part of speech, and the central point
+of every language. Without entering into an analysis of the different
+parts of the verb, I shall confine myself to that which constitutes
+its peculiar verbal character--the union of the subject and predicate
+of the sentence by means of the notion of Being. This alone forms the
+essence of the verb; all other relations, as of persons, tenses, modes
+and classes, are merely secondary properties.
+
+The question to be answered is therefore:--
+
+Through what form of grammatical notation do the languages under
+consideration indicate that subject and predicate are to be united by
+means of the notion of Being?
+
+I believe I have shown with sufficient clearness that a language may
+have a great diversity of apparent forms, and may express all
+grammatical relations with definiteness, and yet when taken as a whole
+it may lack true grammatical form. From this arises an essential and
+real graduated difference between languages. This difference, however,
+has nothing to do with the question whether particular languages
+employ exclusively agglutination or inflection, as all began with
+agglutination; but in the languages of the higher class, it became in
+its effects on the mind, identical with inflection.
+
+As languages of the higher class, one has but to name the cultivated
+idioms of Asia and Europe, Sanscrit, Greek and Latin, in order to
+apply to them the above statement. It is still more necessary,
+however, to understand thoroughly the structure of those languages
+which are on a lower plane, partly because this will convince us of
+the correctness of the classification, partly because these tongues
+are less generally known.
+
+It is enough to take up some single leading grammatical relation. I
+select for this purpose the verb as the most important part of speech,
+with which most of the others come into relation, and which completes
+the formation of the sentence, the grammatical purpose of all
+language--and often embraces it wholly in itself. But I shall confine
+myself solely to that which makes the verb a verb, the characteristic
+notation of its peculiar verbal nature. In every language this point
+is the most important and the most difficult, and cannot be made too
+clear to throw light upon the whole of the language. Linguistic
+character can be ascertained through this point in the shortest and
+most certain manner.
+
+The verb is the union of the subject and predicate of the sentence by
+means of the notion of Being; yet not of every predicate. The
+attribute which is united to the substance by the verb must be an
+energic one, a participial. The substance is represented in the verb
+as in motion, as connecting the Being with the energic attribute. By
+means of this representation, and the peculiar nature of the
+attribute, the verb is distinguished from the mere logical copula,
+with which it is liable to be confounded if these ideas are not
+understood. If the verb is explained merely as a synthesis of Being
+with any other attribute, then the origin of the tenses cannot be
+wholly derived from one idea, for the idea of time alone would allow
+only a three-fold distinction. Moreover, in such case the true and
+efficient nature of the verb is misunderstood. In the sentence, "The
+man is good," the verb is not a synthesis of the adjective "good" with
+the substantive, but it is a participial of the energic attribute "to
+be good," which contains a condition, having beginning, middle and
+end, and consequently resembles an action. Fully analyzed, the
+sentence would be, "He is being good." Where the substantive verb
+stands without a visible predicate, as in the sentence, "I am," then
+the verb "to be" has itself as the object of a synthesis, "I am
+being." But as rude nations would find this difficult to comprehend,
+the verb "to be" is either entirely lacking, as in many American
+languages, or else it has an original material sense, and is
+confounded with "to stand," "to give," "to eat," etc., and thus
+indicates Being as identical with the most familiar occupations.
+
+The subject, the substance represented as in action, may be one
+independent of the speakers, or it may be identical with one of them,
+and this identity is expressed by the pronouns. From this arises the
+persons. The energic attribute may exert its action in various manners
+in the substance or between two substances; this gives rise to the
+forms or classes of verbs. Their action must be confined to a given
+point or period of time. The Being may be understood as definite or
+indefinite, etc., and in this is the origin of modes. Being is
+inseparably connected with the notation of time. This, united with the
+fixation of the point or period of time of an action, forms the
+tenses. No verb, therefore, can be conceived as without persons and
+tenses, modes and classes; yet these qualities do not constitute its
+essence, but arise from the latter, which itself is the synthesis
+brought about by the notion of Being. The signs of these qualities
+must be made to appear in the grammatical notation of the verb, but in
+such a manner that they appear dependent on its nature, making one
+with it.
+
+The energic attribute, which aids in forming the verb, may be a real
+movement or action, as going, coming, living, working, etc., or merely
+a qualitative Being, as a being beautiful, good, mortal, or immortal.
+In the former case, we have a real attributive verb, in the latter a
+substantive verb, in which an attribute is considered as at rest,
+hence as an adjective. Although in both cases the nature of the verb
+is the same, yet in many languages this difference leads to a
+corresponding variety in grammatical notation.
+
+In accordance with these ideas culled from universal grammar, the
+forms of the conjugations in the various languages will now be
+considered.
+
+I have taken as a basis for this investigation as many American
+languages as I thought sufficient for the purpose, and as would not make
+the survey oppressive by their number; but as I do not name all of them,
+and pay still less attention to pointing out in what other groups of
+languages the peculiarities named occur, it must be understood that what
+is here said is not intended as a characterization of American
+languages. This is reserved for another study.
+
+In order to judge how closely these languages approach grammatical
+perfection in this point, we must take as our criterion that condition
+of speech where there is a class of words, which possess verbal power,
+and are at the same time separated by a definite form from all other
+parts of speech. With reference to this condition as the highest, we
+must arrange in various grades all other structural forms or
+paraphrases of the verb.
+
+The notion of Being, which constitutes the basis and the essence of
+the verb, can be indicated either,
+
+1. As expressed independently.
+
+2. As incorporated in the verbal form as an auxiliary verb.
+
+3. As included in the verbal form merely as an idea.
+
+The differences of the languages under comparison can be appreciated
+most correctly by means of these three headings; but it must not be
+forgotten that any language may use the first and one of the last two
+methods, and that in languages which have a substantive verb
+conjugated with and without auxiliary verbs, all three may be
+employed.
+
+
+I.
+
+WHEN THE NOTION OF BEING IS EXPRESSED INDEPENDENTLY.
+
+I must except from this class all instances where the substantive verb
+is formed from a radical, inasmuch as this root, like any other, must
+assume the verbal form, and thus come under one of the two other
+divisions. In such case it expresses the notion of Being, either by an
+auxiliary, as in the German _Ich bin gewesen_, or simply in the form,
+as, _I am_. When it is remembered that the substantive verbs of all
+languages are derived from concrete conceptions and impart to these
+merely the general notion of Being, the above becomes still more
+obvious.
+
+Now if there is no root-form for the substantive verb, and yet it is
+expressed independently, and not by another verbal form, this can only
+be done either by the position of the governing and governed words, or
+by linguistic elements which are not properly verbs, but only become
+so by this use. In the former case the substantive verb is merely
+understood, in the latter it appears in a definite word, but without a
+fixed radical.
+
+1. _When the notion of Being is understood._
+
+One of the most common forms of sentences in American languages is to
+bring together an adjective and a substantive, the substantive verb
+being omitted.
+
+Mexican: _in Pedro qualli_, the Peter (is) good.
+
+Totonaca: _aquit chixco_, I (am) a man.
+
+Huasteca: _naxe uxum ibaua tzichniel_, this woman (is) not thy
+servant.
+
+In the Mixteca language such expressions have a peculiar arrangement.
+The adjective must precede the substantive, or rather the predicate
+must precede the subject, as in the reverse case the words are
+understood separately, and are not connected into a sentence: _quadza
+naha_, the woman is bad; _naha quadza_, the bad woman.
+
+In the language of the Mbayas, a sentence can be made with any verb by
+dropping the verbal affixes, by transposing a letter characterizing
+the nouns as such, appending an adjective suffix, and uniting this
+with an independent pronoun. The grammars of this language call this
+form a passive, but it is just as much a neuter, and is not a verb but
+a phrase. From _iigaichini_, to teach, we have _n-iigaichin-igi_,
+taught, and as first person _e n-iigaichin-igi_, I am taught. The
+initial _n_ which accompanies all nouns in this language, is merely
+the possessive pronoun of the third person, added according to the
+usage of many of these tongues to leave no noun without a possessive;
+the termination _igi_ is a particle which indicates the place where
+anything remains. Literally, therefore, _eniigaichinigi_ means, I (am)
+the stopping-place of his teaching, _i. e._, one who is taught. All
+affixes of mode and tense, however, may be united to this phrase, so
+that thus it approaches a verb.
+
+Regarded apart from the changes through tenses and modes, the union of
+the subject and predicate with the substantive verb omitted, is
+admirably adapted to express the conjunction of two words in one idea,
+and as the languages which make use of it also possess the ordinary
+forms of conjugation, they thus possess a special expression for both
+the forms of verbs above referred to. We shall note this particularly
+in the Beto language.
+
+When the subject is not an independent part of speech, but an affixed
+pronoun, the analogy of this method of notation to a verbal form
+increases. For this is present even when no characteristic of a tense
+is added, simply by the union of an attribute and a pronoun. It should
+be remarked once for all, however, that too much weight must not be
+attached to whether these elements form one word or not, as this is
+not an infallible criterion.
+
+The verb cannot be considered to be present as a separate part of
+speech, when a verb can thus be made out of any word, not merely those
+stamped as verbs, but also out of those which bear the express
+characteristics of nouns; and therefore I include all these cases in
+the class under consideration. For in all these languages there is in
+fact no verb, but only separate elements of speech with the verb
+omitted. Such cases are, however, interesting, as showing the gradual
+approach to the verb, and the effort of the instinct of language to
+arrive at grammatical form.
+
+  The independent personal pronoun rarely makes an element of verbal
+  form, as in speaking it is generally worn down to an affix. When it is
+  used to form a verbal expression, the difference of the elements is
+                                    1          3   3               1
+  apparent. Thus, in the Carib, _anaiaca puin au_--I (am) not a divider.
+  In that tongue, however, this placement is not applicable to every noun,
+  but only after certain definite verbal forms, especially in negative
+  expressions.
+
+  The Lule language confines this notation to participials, and expresses
+  by it the condition of the action and also its time; [TN-7]_mil quis
+               1        2    3
+  amaiciton_, you (are) me loving.
+
+The affixed pronouns are either special, confined to these
+expressions, or if elsewhere in the tongue, are not employed with
+verbs, or not in this manner; or they are the pronominal affixes of
+the verb itself.
+
+The Maya or Yucatecan language has a special pronoun which added to
+any noun forms a sentence with it, and possesses the power to add the
+idea of the verb; _Pedro en_, I am Pedro. But when it stands alone,
+without a predicate, it loses this power, as _en_ alone does not mean,
+"I am."
+
+In the Beto language there is, indeed, no special pronoun of this
+kind, as the one used is also a possessive. Its position, however,
+makes the difference. When it is prefixed, it is the possessive, but
+when suffixed it carries with it the power of the verb: _humani rru_,
+man I (am); _fofei rru_, bad I (am). In a similar manner this tongue
+forms a substantive verb, _ajoi rru_. The meaning of the root is not
+given, but it seems to mean something present, at hand. It is
+suggestive that in these phrases the accent is always on the pronoun,
+as if to signify that that is the important element.
+
+It is very common in American languages to find the noun and the verb
+using the same pronouns, with the former to indicate possession, with
+the latter the subject. This might be explained by supposing that the
+action is regarded as the possession of the agent. But it is simpler
+to suppose that in each case the connection of the person with the
+noun and the verb is in the thoughts, and this relation is recognized
+in expression.
+
+In this way the Mbaya language has a sort of descriptive conjugation;
+connecting the participles with possessive pronouns; _i-iligodi_, I
+(am) explaining; but no doubt less definitely, "my explaining," "I to
+explain."
+
+The language of the Abipones slightly alters the possessive pronouns
+in some persons and uses them in a similar manner: _ri-aal_, I am
+lazy; _yo-amkata_, he is good.
+
+When the verbal pronoun is used in such expressions, it is entirely
+identical with the verb.
+
+This is the case with the Mexican, where the verbal pronoun united to
+the participle forms a sentence: _ni-tlacotlani_, I (am) a lover. This
+expression differs from the present indicative only in the form of the
+root-word, _ni-tlacotla_; but it cannot form another tense or mode.
+The grammarians call such an expression a tense indicating habit.
+This, however, would not be a tense but a mode, and, in fact, the term
+rests on a misunderstanding. That such expressions indicate habit is
+shown by the fact that they do not apply, like the present of the
+verb, to the temporary action, but convey that it is a custom, or a
+business; not that I am loving just now, but that I am habitually a
+lover.
+
+An entirely similar instance occurs in the North Guaranay language,
+which also permits, besides the regular conjugation, a union of the
+root of the verb with a pronoun, the verb being omitted. The
+grammarians of that tongue say that this adds extension and emphasis
+to the sense of the verb. The real difference, however, is that this
+procedure treats the verb as a noun, and the extension comes from
+considering the action expressed by the verb to have become a
+permanent quality; _a poro iuca_, I kill men (ordinary conjugation);
+_xe poro iuca_, I (am) a man-killer (form with the possessive
+pronoun); I kill men as my business.
+
+In both these languages, therefore, what have been represented as
+peculiar and separated forms, tenses indicating habit, or forms of
+extension, are simply erroneous explanations of quite simple
+constructions. In Mexican the correctness of this explanation is
+confirmed by the forms of the vocative, which are identical with this
+supposed tense, _in ti tlatlacoani_, O thou sinner; literally, thou
+who (art) a sinner.
+
+In the above examples the verbal power lies in the pronouns. But the
+Mbaya language constructs verbal sentences by adding the sign of the
+future to any adjective without a pronoun. This sign is _de_, or
+before a vowel _d_: _de liidi_, it will be pleasant to the taste; _d
+otiya_, he will be fat. I do not find other examples, and am uncertain
+whether other tenses and modes are thus formed. In that case the
+pronouns would have to be added, and the expression would lose its
+peculiarity, which is that the tense sign alone carries with it the
+notion of Being.
+
+The Othomi language makes use in such expressions not only of the
+pronouns but of all the affixes of the verb, and conjugates a noun
+together with its article, treating it as a verbal radical:
+_qui-no-munti-maha_, Thou wert the enriched. Here _no-munti_ is "the
+enriched," and all the remaining syllables are verbal inflections.
+Sandoval, who wrote a grammar of the language, explains _no_ as an
+auxiliary verb; but with the noun he calls it an article, as it is,
+and he evidently misunderstood the expression. It is wholly a verbal,
+but as this procedure can be applied to any noun whatever, such an
+expression is far removed from a real, well-defined verbal form.
+
+The same language has another peculiar form with the possessive, which
+can only be explained by supplying an omitted verb. _Na nuhti_ means
+"my property;" but if to this is added the abbreviated pronoun used as
+a verbal affix, _na-nuhti-g[=a]_, the words mean, "this property
+belongs to me," or, "my property is it, mine."
+
+In the grammatically obscure consciousness of these people, the ideas
+of verbal and merely pronominal expression are confounded, as also in
+the Brazilian language, where "my father" and "I have a father" are
+expressed by the same word.
+
+The advantages which these languages derive from the formation of
+sentences with the verb omitted are two.
+
+They can change any noun into a verb, or at least they can treat it as
+such. It is true that this can also be done by a substantive verb when
+one is found, but as the languages in question unite the noun to the
+verbal flexions, their freedom is much greater.
+
+The second advantage is, that when it is desirable to discriminate
+clearly between the two kinds of verbs, the one which has at base an
+energic attribute, the other which merely expresses the relation of
+predicate to subject, a thing to its qualities, this end can be much
+better reached by the process described than even by the substantive
+verb, which, by its full verbal form, always recalls the action of an
+energic attribute.
+
+Many of the languages named include in these expressions particles of
+time, thereby obscuring the distinction referred to. But in others
+this is not the case. Thus in the Maya and Beto there are two
+conjugations, one with the pronoun without time particles, and one
+with them; and as in both these tongues the present of the true
+conjugation has a characteristic tense sign, a separate aorist of the
+present is formed by the other conjugation, which our cultivated
+tongues cannot express so conveniently.
+
+2. _When the notion of Being is expressed by a special word, but
+without a phonetic radical._
+
+Although the assumption here expressed sounds at first rather
+enigmatical, yet one can soon see that if the notion of Being is to be
+conveyed without a phonetic radical, it can only be done through the
+sign of the person, that is, in the pronoun, with or without a tense
+sign. This is actually the case in two languages, the Maya and the
+Yaruri.
+
+We have already seen that in the Maya there is a special pronoun
+which unites a predicate to the idea of person into one sentence.
+There is also another which by itself conveys the idea of the verb,
+and of which each person has the signification both of the pronoun and
+the substantive verb, "I" and "I am," "thou" and "thou art," etc. Not
+only is it so used in the present, but it can take the signs of the
+tenses. It is distinguished from the pronouns previously referred to
+in the first and second persons of both numbers only by a prefixed
+_t_, as follows:
+
+        Pronouns which, with a predicate,  Pronouns which, by themselves,
+             convey a verbal idea.             possess verbal power.
+
+  Singular.
+        1.          en                                ten
+        2.          ech                               tech
+        3.          lai lo                            lai
+
+  Plural.
+        1.          on                                toon
+        2.          ex                                teex
+        3.          ob                                loob
+
+This similarity leads to the thought that a true phonetic radical may
+exist in this _t_, and may induce us to consider this word not as a
+pronoun but as a substantive verb. But this makes no difference. The
+fact remains that the word is used both as a simple pronoun and also
+as a substantive verb. In the translation of the Lord's Prayer, the
+word _toon_ is a simple pronoun. If _t_ is a radical, it may just as
+well come from the pronoun. Some languages offer clear examples of
+this. In the Maipure the expression for the third person singular
+recurs with all the other persons, as if this sound meant the person,
+the man generally, and the first and second persons were denoted as
+the "I-person," "thou-person," etc. In the Achagua language the same
+radical occurs in all the pronouns, but does not, as in the Maipure,
+stand alone for the third person singular, but in it, as in the other
+persons, appears as an affix.
+
+At any rate, this pronoun answers, in the Maya, all the purposes of
+the substantive verb, and there is no other in the language.
+
+It is quite intelligible that in the conceptions of rude nations the
+idea of an object, and especially of a person, cannot be separated
+from the idea of his existence. This may be applied to the forms of
+expression above mentioned. What seems a violent and ungrammatical
+omission of the verb, is probably in those people an obscure
+association of thoughts, a non-separation of the object from its
+being. Probably it is from the same source that in some American
+languages every adjective is so considered that it includes not the
+idea alone, but the expression, "it is thus, and thus constituted."
+
+In the Yaruri language the absence of a phonetic radical meaning "to
+be" is yet more apparent. Each person of the pronoun is a different
+word, and they have no single letter in common. The pronoun which has
+verbal power is almost identical with the independent personal
+pronoun. The tense signs are prefixed to it. Thus, _que_, I am; _ri
+que_, I was, &c. This _ri_, however, is merely a particle which
+expresses that something is remote, and corresponds with our "from."
+_Ui-ri-di_, there was water there, literally "water far is" (from us
+is). The subjunctive of this substantive verb is given as _ri_, "if I
+were." This means, however, "in," and is a particle. The notion of
+Being is added, as in the pronoun; and the ideas, "in the being," and
+"if I were," pass into each other.
+
+Strictly speaking, both the verbal notations here expressed are
+identical with those already mentioned. Here also the verb is supplied
+by the mind. The difference is that in the latter case the pronouns
+alone signify being, and contain this notion in themselves, whereas in
+the other cases this notion arises from the conjunction of subject and
+predicate. Then also in the Maya language there is a special pronoun
+for this sole purpose. As far as the forms go, they entirely resemble
+those of a true verb, and if _que_ and _ten_ are regarded as mere
+verbs substantive, one who did not examine their elements would take
+them to be true verbs like the Sanscrit _bh[=u]_, the Greek ~eimi~,
+and the Latin _sum_. The example of these languages thus teaches that
+in the analysis of the substantive verbs of other tongues it is not
+necessary that a common phonetic radical need be employed.
+
+In the Huasteca language the substantive verb is replaced by affixing
+a tense sign to the independent pronouns; _naua itz_, I was, _tata
+itz_, thou wert, etc. But the case is not the same. The pronoun
+receives the verbal power by the suffix _itz_, and this appears only
+in later times to have become a sign of the preterit, and in an
+earlier period to have had a general sense. The mountaineers who seem
+to have retained the older forms of the tongue use the _itz_, not only
+in the preterit, but in the present and future. It was doubtless the
+expression of some general verbal idea, as, to be, to do, etc.
+
+
+II.
+
+THE NOTION OF BEING IS INCORPORATED WITH THE VERB AS AN AUXILIARY.
+
+Auxiliary verbs are used only for certain tenses, or form the entire
+conjugation. The former arises from accidental causes having relation
+only to these tenses, not to the verb in general. The latter readily
+arises when a substantive verb offers an easy means of conjugation by
+uniting with another verb. Sometimes the conjugation by means of an
+auxiliary shows that the linguistic sense of a notion sought something
+beyond the person and tense signs to express the verbal power itself,
+and therefore had recourse to a general verb. This can, indeed, only
+be constituted of those elements and a radical; but the want in the
+language is thus supplied, once for all, and does not return with
+every verb.
+
+An excellent example of this is furnished by the Maya conjugation. In
+an analysis of it we find an element that neither belongs to the root,
+nor is a person, tense or mode sign, and when their varieties and
+changes are compared, there is evident throughout a marked anxiety to
+express the peculiar verbal power in the form of the verb.
+
+The conjugation in the Maya language is formed by affixing the
+pronouns and mode and tense signs to the stem. The pronoun is,
+according to a distinction to be noted hereafter, either the
+possessive pronoun or that one which, without verbal power in itself,
+yet receives it when a predicate is attached to it to form a sentence.
+
+Besides this, the suffix _cah_ accompanies all verbs in the present
+and imperfect; and the suffix _ah_ accompanies all transitive verbs
+through the remaining tenses, except the future. Present, 1st person,
+sing., _canan-in-cah_, I guard; imperf. 1st pers. sing., _canan-in cah
+cuchi_; perf., 1st pers. sing., _in canan-t-ah_. _In_ is the
+possessive pronoun, _cuchi_ the sign of the imperfect, _t_ in the
+perfect is a euphonic letter.
+
+The idea of transitive verbs is here taken somewhat narrower than
+usual. Only those are included which govern a word outside of
+themselves. All others are considered intransitive, even those which
+of themselves are active, but either have no expressed object (as, I
+love, I hate, etc.), or the word which they govern is in the verb
+itself, as in the Greek ~oikodomeo, oikoureo~. As these can
+govern a second accusative, the object incorporated in the verb is
+included in the idea they express.
+
+The tenses of the intransitive verbs, except the present and
+imperfect, while they drop _ah_ and the possessive pronoun, are formed
+with that pronoun which forms sentences with a predicate.
+
+There are cases where not only the present omits _cah_, but where the
+stem, if it ends in _ah_ as is often the case, drops it, and
+substitutes _ic_. The signification then alters, and indicates an
+habitual action or quality. As _ic_ is the sign of the gerund, this
+change appears to be the transformation of the verb into a verbal, and
+to effect this, it must be united to that pronoun which serves as the
+substantive verb; _ten yacunic_, I love, properly, I am loving
+(habitually).
+
+What _cah_ and _ah_ mean by themselves, we are not informed. Where
+_cah_ is attached to the stem of some verbs it signifies intensity.
+_Ah_ is as a prefix the sign of the male sex, of the inhabitant of a
+place, and of names derived from active verbs. Hence it seems to have
+meant at first person, man, and later to have become a pronoun, and
+finally an affix. It is noteworthy that the same difference exists
+between _ah_ and _cah_, as between _en_ and _ten_. The _c_ may
+therefore be a radical sound. In the conjugation, _cah_ is treated
+wholly as a verb. For in this the possessive pronoun is always
+prefixed; and as in the present and imperfect it is placed after the
+stem of the verb and before _cah_, it is evident from the difference
+between the two forms _canan-in-cah_ and _in-canan-t-ah_, that in the
+former _cah_, and in the latter _canan_, are regarded as the verbs.
+_Canan-in-cah_ is precisely as the English "I do guard."
+
+_Cah_ is consequently a true auxiliary verb; _ten_, when it appears in
+conjunction with _en_ must have the notion of Being understood: _ah_
+appears to be of similar nature, but as it appears only in the
+conjugation of transitive verbs, it is a verbal sign, and thus
+receives its verbal power. That _cah_ and _ah_ do really possess this
+powever[TN-8] is evident from the fact that they are never used
+whenever either of the pronouns which are always associated with the
+notion of Being is present.
+
+Except in the future of transitive verbs, there is no instance in the
+conjugation where the stem of the verb is not accompanied by one of
+these four syllables, all of which indicate Being, and all of which
+have the force of auxiliary verbs.
+
+The future of transitive verbs not only does not take any of these
+syllables, but even rejects _ah_ when it is the terminal syllable of
+the stem. In this case no other termination replaces it. On the
+contrary, all other verbs receive a new suffix in their future,
+varying as they are of one or many syllables. The nature of these
+suffixes has not been explained.
+
+The definite results of this analysis are as follows:
+
+1. The Maya language possesses in its conjugation, besides the
+inflection syllables of the persons and tenses, another element,
+which, except in the simple future of transitive verbs, distinctly
+carries with it the notion of Being; in the future of most verbs there
+is such an element, but of unknown origin, and it only fails in the
+future of one class of verbs.
+
+2. This language displays an effort to express, besides the other
+purposes of the verb, particularly its synthetic power, which is all
+the more apparent as it uses different means in different cases, but
+all designed to accomplish the same purpose.
+
+The Yaruri language constructs the whole of its conjugation in a yet
+simpler manner by means of an auxiliary verb.
+
+The union of the pronoun and the tense sign which, as we have already
+seen, forms the substantive verb, affixed to the stem, completes the
+inflections of the one and only conjugation of attributive verbs,
+except that the independent pronouns are prefixed. Neither the stem
+nor the auxiliary words suffer any changes, except the insertion of an
+_n_ in one person. The union remains, however, a loose one, and when
+person and tense are manifest by the connection, the auxiliary verb is
+omitted. This happens in certain verbs ending in _pa_. These, contrary
+to the usual rule, change in the perfect this termination to _pea_, by
+which the tense is made apparent, and as the person is evident from
+the prefixed personal pronoun, the auxiliary can be dropped without
+danger of obscurity.
+
+The formation of certain tenses by means of auxiliaries is also
+frequent in American languages.
+
+An optative of this nature in the Lule language has already been
+mentioned.
+
+In the Mixteca tongue the imperfect is thus formed from the present,
+which carries with it the personal sign, and the perfect without its
+personal sign, a proceeding which, however rude and awkward it may be,
+shows a just appreciation of the peculiarity of this past tense, which
+expresses an action as going on, and therefore present in past time.
+The expression of continuous action is placed first, "I sin," then
+this is more precisely defined by the mark of past time, "this was
+so;" _Yo-dzatevain-di-ni-cuvui_. _Yo_ is the sign of the present, _ni_
+of the preterit, _di_ is the pronoun; the other two words, _to sin_
+and _to be_: "I was sinning."
+
+The sign of the present, _yo_, is probably an abbreviation of the verb
+_yodzo_, I stand upon or over something, and so there is a second
+auxiliary in the sentence. This may often be a means of discovering
+the origin of tense signs, as, especially in American tongues, tenses
+are often formed by the union of verbs, as also occurs in Sanscrit and
+Greek.
+
+The Othomi distinguishes certain past tenses, which, however, are
+separated by other characteristics, by a prefixed _xa_, which is
+called the third person singular of a substantive verb. As these
+tenses are precisely those in which the action must be completed, the
+perfect, pluperfect and future perfect, not, however, the imperfect
+and past aorist, such a connection is very suitable. Of this verb we
+have only _xa_, and there is another substantive verb _gui_, which
+itself takes _oca_ in its conjugation.
+
+The Totonaca language unites the perfect, in the person spoken of,
+with the third person singular of the future of the substantive verb,
+to form a future perfect. This is no completed form, but only an
+awkward sequence of two verbs; _yc-paxquilh-na-huan_, literally, "I
+have loved, it will be,"="I shall have loved."
+
+In similar manner the substantive verb is used to form a tense of the
+subjunctive.
+
+The sign of both the perfects in this tongue is the syllable _nit_,
+and _niy_ means "to die." It is not improbable that this affix is
+derived from this verb. Death and destruction are suitable ideas to
+express the past, and some languages employ negative particles as
+signs of the preterit. In the Tamanaca this is not exactly the case,
+but the negative particle _puni_ added to a word which signifies an
+animate thing, intimates that it has died; _papa puni_, the deceased
+father, literally, "father not." In the Omagua tongue the same word
+signifies old, dead, and not present.
+
+In the Maipure and Carib tongues the negative particles _ma_ and _spa_
+are also the signs of the preterit. Bopp's suggestion that the
+Sanscrit augment was originally _a_ privative finds support in this
+analogy. Yet I would not speak conclusively on this point, as probably
+that, the Greek augment ~e~, and the Mexican _o_, are only
+lengthened sounds, intended to represent concretely the length of the
+past time. At any rate one must regard the negation as an actual
+destruction, a "been, and no longer being," not as simply a negation
+of the present.
+
+
+III.
+
+THE NOTION OF BEING IS PRESENT IN THE VERBAL FORM ONLY IN IDEA.
+
+In this case the verb consists only of the stem, and the person,
+tense, and mode signs. The former are originally pronouns, the latter
+particles. Before they are worn down by use to mere affixes, the three
+following cases may arise:
+
+1. That all three of these elements are equally separable and loosely
+connected.
+
+2. That one of the two, the person or the tense and mode signs,
+obtains a closer connection with the stem, and becomes formal, while
+the other remains loosely attached.
+
+3. That both these are incorporated with the stem, and the whole
+approaches a true grammatical form, although it does not fully
+represent it.
+
+_Case 1st._
+
+The only language I can instance here is that of the Omaguas, as I
+know no other with such a decided absence of all true grammatical
+forms in the verb. The independent pronouns, the stem words of the
+verbs, and the particles of tense and mode are merely placed together
+without any change, without internal connection, and apparently
+without fixed order; _usu_, to go; 1st pers. sing. pres. _ta usu_; 2d
+pers. sing. perf. _avi ene usu_ (_ene_ is the pronoun, _avi_ the sign
+of the perfect). Subjunctive, 1st pers. sing. pres. _ta usu mia_; 2d
+pers. sing. perf. _avi epe usu mia_.
+
+Sometimes, when a misunderstanding is not feared, the verbal stem is
+employed without these qualifying particles, and cannot then be
+distinguished from a noun. _Paolo amai amano_. The last word means "to
+die," but grammatically the sentence can as well be rendered, "Paul
+only die" (_i. e._ has died), as "Paul only dead."
+
+It is true that the suffix _ta_ changes nouns to verbs: _zhiru_,
+clothes, _zhiru-ta_, to clothe; but it also changes verbs to nouns,
+_yasai_, to cover, _yasai-ta_, a cover. This may be explained by the
+theory that this suffix conveys the idea _to make_, which is taken
+sometimes actively, sometimes passively.
+
+According to the above, the Omagua conjugation falls in the class
+where an attributive is united to a pronoun and the verb is omitted;
+only that here definite tense syllables appear, and this brings the
+construction nearer to the idea of a conjugation.
+
+_Case 2d._
+
+1. The Maipure, Abipone, Mbaya and Mocobi languages place only the
+personal sign in intimate connection with the verb, and allow the
+tense and mode signs to be loosely attached. They have therefore but
+one type of personal forms to be applied in every tense and mode by
+means of the particles or the affixes formed from them. This type,
+taken alone, usually forms the present; but, accurately speaking, this
+name cannot be assigned it; because the signs of the other tenses are
+also dropped when this can be done without obscurity.
+_Ya-chaguani-me-yaladi._ Here the first word is in the indefinite
+form, though it is not the present but the perfect. The _me_ is really
+the preposition "in;" but usage has adopted it for the subjunctive
+sign, and so the Spanish grammarians call it; or rather, the verb is
+considered to be introduced by a conjunction, "if," "as," so that it
+is usually not in the present but a past tense. If this is the case
+with the last verb, the first one must have the same tense, and so the
+whole phrase, without any tense sign, means, "I had helped him when I
+said it."
+
+One would scarcely expect to find anything like this in cultivated
+languages. Yet it does occur in both Sanscrit and Greek. The now
+meaningless particle _sma_ in Sanscrit when it follows the present
+changes it into a past, and in Greek ~an~ alters the indicative
+into a subjunctive.
+
+To form this general type, the Maipure makes use of the unchanged
+possessive pronoun, and treats nouns and verbs in the same manner. The
+noun must always be united to a possessive pronoun, a trait common to
+all the Orinoco tongues and many other American languages. In the 3d
+person sing., however, neither the verb nor the noun has such a
+pronoun, but it is to be understood; _nuani_, my son; _ani_, alone,
+not son, but "his son." The 3d pers. sing. of the verb is often the
+mere stem, without a personal sign, but that this peculiarity should
+also extend to the noun I have met only in this tongue. It is evident
+that a pronoun is considered as essential to a noun as to a verb, and
+although a similar usage is found in many tongues, yet it appears in
+none so binding. There are, indeed, some nouns which are free from the
+necessity of thinking them in connection with a person, but these have
+the suffix _ti_, which is dropped when the possessive pronoun is
+added; _java ti_, a hatchet, _nu java_, my hatchet. From this it is
+evident that _ti_ does not belong to the stem, and is incompatible
+with the use of a possessive, hence it is the sign of the substantive,
+in its independent condition. The same occurs in Mexican, and the
+chief termination of substantives, _tli_, is almost identical in sound
+with that in the Maipure.
+
+In this respect the verbal, conjugated with the personal signs,
+differs nothing from the noun united to its possessive pronouns.
+Grammatically, the form first becomes a verbal one by the added
+particles of tense and mode. The signification of these can generally
+be clearly ascertained, and thus are united closely to the stem.
+
+The particles which the language of the Abipones uses to form the
+general verbal type are quite different from the possessives. The
+tense and mode particles have elsewhere in the tongue independent
+meanings. Thus _kan_, the sign of the perfect, means a thing which has
+been, time that has past.
+
+In the language of the Mocobis the personal signs consist merely in
+letters, prefixed and suffixed, and have no apparent relationship to
+the pronouns. By affixing these letters, phonetic changes take place
+so that the stem is combined with them into one form.
+
+Among the tense signs, a prefixed _l_ indicates a past time, a
+suffixed _o_, the future; but the others are independent particles,
+loosely attached to the stem.
+
+I have already shown how the Mbaya language conjugates adjectives with
+the independent pronoun, and participles with the possessive pronoun.
+The signs used in the conjugation proper of the attributive verb, do
+not appear elsewhere in the tongue, and must have descended from an
+older period of its existence.
+
+In the tense and mode signs it is easily perceived how descriptive
+phrases pass into true forms. For the imperfect and pluperfect the
+speaker can choose among a number of particles, all of which indicate
+past time. The modes have definite signs, but these are merely
+appended, and some have separate significations. The future and
+perfect have not merely fixed particles, but these are worn down to
+one letter, so that the stem is actually incorporated with them.
+
+2. In the languages heretofore considered the personal signs added to
+the word make up the conjugation, and the other signs are attached
+loosely and externally. The reverse of this, though not perfectly so,
+appears in the Lule language. The tense and mode signs, often of but
+one letter, are immediately and firmly attached to the stem, and the
+pronouns are affixed to this to complete the conjugation. These
+pronouns are, however, the ordinary possessives, so that noun and verb
+become in a measure identical; thus, _camc_ means both "I eat" and "my
+food;" _cumuee_, "I marry" and "my wife;" only in a few examples are
+the verbal pronouns distinct from the possessives.
+
+In this case, therefore, the personal signs are independent elements,
+occurring elsewhere in the language, while the tense and mode signs
+are true affixes.
+
+The inflection-syllables form with the stem real verbal forms, and so
+far the conjugation of this language belongs to the third case. But
+each of the elements has its fixed position, and as soon as one has
+the key to the combination, he can recognize and separate them at
+once.
+
+Reasons which it would require too much space to set forth render it
+probable that all the tense signs are really auxiliary verbs or come
+from them. This is evident of the optative, as has already been shown.
+The present only is simple, as it has no tense sign.
+
+Slight differences are found between the personal signs of some
+tenses, so that these tenses can be distinguished by them, a trait
+usually seen only in tongues so far cultivated that the grammatical
+forms have undergone such changes as no longer to present simple and
+uniform combinations. Equally curious is the regular omission of the
+tense sign of past time in the third person plural only. Although,
+except in this case and that of the present, each tense has its
+definite sign, inserted between the stem and the personal sign, yet
+there are, besides these, various particles expressing past time,
+which can accompany the usual tense form, so that there is a double
+sign of time, one in the word itself and one loosely attached to it.
+
+The languages of the Mbayas, Abipones, Mocobis and Lules are closely
+allied both in words and in some grammatical forms. It is all the more
+extraordinary, therefore, to find the last-mentioned pursuing a method
+in the structure of its verb which is almost totally opposed to that
+in the other three tongues.
+
+_Case 3d._
+
+The languages of this class approach in their conjugations those of
+the more cultivated tongues, in which each verbal inflection has a
+fixed and independent form. Both the person, the tense and the mode
+signs are united to the stem, in such a manner that none of the three
+can be said to be either less or more loosely attached than the
+others.
+
+All the conjugations about to be discussed lack, however, that fixity
+of form which grammatically satisfies the mind.
+
+The elements are placed definitely and regularly one by the other, but
+are not incorporated into each other, and are therefore readily
+recognizable.
+
+They are found, moreover, outside of the verb elsewhere in the
+language either without any change or with slight differences of
+sound; the personal signs as pronouns, the other affixes as particles.
+
+The composition of the verb is separable, and may receive into itself
+other parts of speech.
+
+No American language is free from these drawbacks to perfection of
+form in the conjugations. In some all three are found; in most the
+first and last. In really grammatically developed tongues, as in the
+Sanscrit, Greek, Latin and German, none of these imperfections exists.
+The verb includes in itself no part of its object, the affixes
+modifying the stem have lost all independent life, and the analysis of
+the formal elements becomes a difficult philological task, which often
+fails and only rarely can be fully proved.
+
+I shall discriminate in regard to the conjugations about to be
+considered that which is an approach toward a fixed form from the
+intentional separation of the form to insert a governed word.
+
+_1. Approach toward a Fixed Form._
+
+In the Mixteca language, the personal sign is the unchanged possessive
+pronoun. If the verb is governed by a noun in the third person, the
+possessive is dropped. It is left to the speaker to choose whether he
+designates the person, either by prefixing the personal pronoun or
+suffixing the possessive. The tense signs are prefixed syllables, but
+the perfect and future signs are altogether different from those of
+the present, and materially alter the verbal stem.
+
+The Beto language prefixes the personal signs and also the possessive
+pronouns to the nouns. As the latter are not fully known, we cannot
+judge of their identity with the verbal pronouns. The latter do not
+seem to differ much from the personal pronouns. The tense signs are
+easily recognized suffixes.
+
+Another conjugation of the same language, by the suffixed pronoun
+without tense signs, and with the verb omitted, has been mentioned
+above (I, 1), as forming a substantive verb.
+
+A second substantive verb arises from the conjugation above explained,
+with the tense signs.
+
+These two forms may also be combined, and this illustrates with what
+superfluous fullness grammatical forms spring up even among rude
+nations. The conjugation with the tense sign is changed by a
+participial suffix into a verbal, and then the pronoun is suffixed, as
+in the conjugation without the tense sign. The latter, therefore,
+stands twice in the form. The pronoun used in the conjugation with
+tense signs may also be prefixed to a simple adjective, and the
+pronoun used in the conjugation without tense sign is suffixed to
+this, and the participial ending is then added. This is treated as a
+verb with the substantive verb understood. But sometimes the verb "to
+be" in the form without tense signs is added, and then the whole form
+contains the pronoun three times, without gaining thereby any
+additional meaning.
+
+The Carib conjugation seems to have arisen from the forms of many
+dialects or epochs, and is therefore more complicated and formal, and
+less easy to analyze.
+
+The personal signs are prefixed. In the substantive verb there are two
+classes, of which only one is also common to attributive verbs. The
+other indicates in the verb "to be" also the connection of persons
+with the infinitive and gerund, and is therefore of the nature of a
+possessive. It may also be that when it is combined with other tenses,
+the notion among these nations is altogether a substantial one, as we
+have already seen with the subjunctive.
+
+The stem often receives the addition _r_ or _ri_, the meaning of which
+is not known.
+
+The structure of the Tamanaca conjugation also reveals a combination
+of at least two separate structures. Some tenses use as their personal
+signs entire pronouns, almost identical with the personals. Other
+tenses merely change the initial letter of the verb, while there is
+little similarity between these affixes and the pronouns. In the
+plural some of the persons insert a syllable between the verb and the
+tense sign.
+
+The tense signs are suffixed, and consist merely of terminal letters
+or syllables, except two true particles, which distinguish the
+continued present from the present aorist.
+
+There are an initial _y_ and a _t_ occasionally appearing in all
+persons, of which we can only say that they are not radicals.
+
+The conjugation of this language, therefore, consists of elements not
+readily analyzed.
+
+The Huasteca language prefixes the possessive pronouns as personal
+signs. It may also drop them, and use in their stead the independent
+pronouns; or may combine both; or may use abbreviated personals; so
+that there is a prevailing arbitrariness in this part of the verbal
+form.
+
+The tense signs are usually suffixes; but in the future they are
+prefixes, which are incorporated with the personal sign placed between
+them and the stem. They consist of simple sounds, of no independent
+signification. But the particles of the imperative are so separable
+that when this mode is preceded by an adverb, they attach themselves
+to it.
+
+The Othomi language does not make use of the possessive pronouns in
+the conjugation, but suffixes abbreviated forms of the personals, or
+else prefixes others of special form, but identical in many letters
+and syllables with the personals. In the present condition of the
+language the suffixes are used only with the substantive verb; in the
+attributive verb, however, they may have been driven forward by the
+governed pronouns suffixed. Every verbal inflection may also take,
+besides its pronominal prefix, also the unabreviated[TN-9] personal
+pronoun in front, or the abbreviated one after it.
+
+The tense signs consist principally of single vowels, by means of
+which the pronominal prefixes are attached to the stem. The imperfect
+and pluperfect alone have besides this a loosely attached particle.
+The past tenses possess a prefix, which we have already seen appears
+to have been derived from an auxiliary verb.
+
+In the third person of some tenses in certain verbs the stem undergoes
+a change of its initial letters, which appears to transform these
+inflections into verbal adjectives, an instance of the confusion of
+the ideas of noun and verb common in all these languages.
+
+The Mexican language possesses a peculiar class of verbal pronouns
+which form the personal signs. This pronoun is similar to the personal
+in its consonants, but has a vowel of its own. It is a prefix. The
+plural is marked by the accent, or by a special termination. This
+personal sign is inseparable from the verb, but the speaker may also
+prefix the independent personal pronoun.
+
+The tense signs are all without signification, being single letters or
+syllables. The perfect is marked not so much by an affix, as by
+changing, the termination of the verb in various ways, but chiefly by
+shortening and strengthening the sound. All tense designations are
+placed at the end of the word, except the augment for past time. If by
+augment we mean a vowel sound prefixed to the verb in certain tenses
+in addition to their usual signs, then the Mexican is the only
+American language which possesses one.
+
+The modes are designated by loosely attached particles, also by a
+different structure of the tenses, and in the second person a peculiar
+pronoun.
+
+Thus the Mexican conjugation consists of true verbal forms, not of
+separate parts of speech of independent significance; but the elements
+of these forms are easily recognizable, and can be reached without
+difficulty.
+
+The most difficult to analyze, and hence the most nearly approaching
+our conjugations, is that of the Totonaca language.
+
+The personal signs differ from the pronouns. That of the 2d pers.
+sing. is not easily recognized, and several forms of it must be
+assumed. Its position as a prefix or suffix differs, and it is
+variously located with reference to the other verbal signs. Still more
+difficult is it to distinguish the tense signs. There are three
+different systems of prefixes and suffixes in the conjugation, and the
+plan on which these are combined with each other serves to distinguish
+the tense. But only a few of these affixes really appear to designate
+tense; of the others this may be suspected at best, and of others
+again it is improbable.
+
+Thus there are verbal affixes which cannot be considered to designate
+either persons, modes or tenses.
+
+The stem undergoes little change, but the attaching of the affixes to
+it renders it impossible to apply the same scheme to all verbs, and
+hence leads to a division of them into three conjugations.
+
+Some tenses have two different forms, without any change in
+signification.
+
+_2. Divisibility of Verbal Forms to allow the insertion of governed
+parts of speech._
+
+Of the Mixteca tongue it cannot exactly be said that it divides the
+essential parts of the verbal form to allow the insertion of the
+governed object. As a rule, the object is merely appended, and where
+it appears in the form itself, it is inserted between the stem and the
+suffixed pronoun. The latter is, however, no necessary part of the
+form, as it is dropped when the verb is governed by a noun, and can
+always be replaced by prefixing the indefinite pronoun.
+
+Nor is it mentioned that the Beto language includes the object in the
+verb.
+
+The Carib tongue unites the governed pronoun with the verbal form, and
+in some cases the personal sign is thus displaced. But here the object
+is not inserted in the middle, but is prefixed or suffixed.
+
+Our information about the Tamanaca language discloses nothing on this
+point.
+
+In the Huasteca, the governed pronoun separates sometimes the last,
+sometimes the first syllable of the inflectional form from the stem.
+
+The Othomi merely attaches the governed words closely to the verbal
+form, in this resembling the Mixteca.
+
+The Mexican language is that which has developed this peculiarity to
+the greatest degree. The governed noun is placed in the middle of the
+verb; or, if this is not done, a pronoun representing it is inserted.
+If there are two objects, an accusative and a dative, then two
+corresponding pronouns are inserted; and if no object is named, but
+the verb is of that class which is followed by an immediate or remote
+object, or both, then two indefinite pronouns appear in the verb. The
+Mexican verb therefore, expresses either a complete sentence, or else
+a complete scheme of one, which merely requires to be filled out. It
+says, in one word, "I give something to somebody," _nititlamaca_, and
+then defines what it is and to whom.
+
+It follows necessarily that a part of the verbal form is fluctuating
+according to the sense and connection of the sentence, and that the
+governing pronoun stands sometimes immediately before the verb, and
+sometimes is separated from it by indefinite pronouns or even nouns.
+
+In the Totonaca language, the prefixes and suffixes make room for the
+governed words between themselves and the stem.
+
+This examination of the languages whose conjugations approach a fixed
+form, shows clearly that this fixedness is seriously shaken precisely
+where it is most important, through this insertion of the governed
+words.
+
+
+
+Now if we reflect on the structure of the various verbal forms here
+analyzed, certain general conclusions are reached, which are
+calculated to throw light upon the whole organism of these languages.
+
+The leading and governing part of speech in them is the Pronoun; every
+subject of discourse is connected with the idea of Personality.
+
+Noun and Verb are not separated; they first become so through the
+pronouns attached to them.
+
+The employment of the Pronoun is two-fold, one applying to the Noun,
+the second to the Verb. Both, however, convey the idea of belonging to
+a person; in the noun appearing as Possession, in the verb as Energy.
+But it is on this point, on whether these ideas are confused and
+obscure, or whether they are defined and clear, that the grammatical
+perfection of a language depends. The just discrimination of the kinds
+of pronouns is therefore conclusive, and in this respect we must yield
+the decided pre-eminence to the Mexican.
+
+It follows that the speaker must constantly make up his verbs, instead
+of using those already on hand; and also that the structure of the
+verb must be identical throughout the language, that there must be
+only one conjugation, and that the verbs, except a few irregular ones,
+can possess no peculiarities.
+
+This is different in the Greek, Latin and ancient Indian. In those
+tongues many verbs must be studied separately, as they have numerous
+exceptions, phonetic changes, deficiencies, etc., and in other
+respects carry with them a marked individuality.
+
+The difference between these cultivated and those rude languages is
+chiefly merely one of time, and of the more or less fortunate mixture
+of dialects; though it certainly also depends in a measure on the
+original mental powers of the nations.
+
+Those whose languages we have here analyzed are, in speaking,
+constantly putting together elementary parts; they connect nothing
+firmly, because they follow the changing requirements of the moment,
+joining together only what these requirements demand, and often leave
+connected through habit, that which clear thinking would necessarily
+divide.
+
+Hence no just division of words can arise, such as is demanded by
+accurate and appropriate thought, which requires that each word must
+have a fixed and certain content and a defined grammatical form, and
+as is also demanded by the highest phonetic laws.
+
+Nations richly endowed in mind and sense will have an instinct for
+such correct divisions; the incessant moving to and fro of elementary
+parts of speech will be distasteful to them; they will seek true
+individuality in the words they use; therefore they will connect them
+firmly, they will not accumulate too much in one, and they will only
+leave that connected which is so in thought, and not merely in usage
+or habit.
+
+
+
+_Notes (by the translator) on the various American Tribes and
+Languages mentioned by Humboldt in the preceding Memoir._
+
+_Abipones._--A tribe formerly residing on the broad grassy plains
+known as _El Gran Chaco_, west of the Parana river and on the right
+bank of the Rio Vermejo. They are a nomadic, hunting people, and are
+related by language closely to the Mocobis and Tobas, more remotely to
+the Mbayas. The Jesuit, Father Jose Brigniel, wrote an _Arte y
+Vocabulario de la Lengua Abipona_, which has not been published.
+
+_Achaguas._--A small tribe formerly living in Venezuela, between the
+Apure and Meta rivers. They are mentioned by Piedrahita as an
+intelligent people. Aristides Rojas says they are now extinct
+(_Estudios Indigenas_, p. 214. Caracas, 1878).
+
+_Beto._--Usually spelled _Betoi or Betoya_. They live on the upper
+waters of the Meta river in Colombia and are related to the Yaruris.
+
+_Caribs._--This widely extended stock occupied much of the northern
+coast of South America and had planted colonies on many of the
+Antilles. It is believed that they are distantly connected with the
+Tupis and Guaranis.
+
+_Guaranis._--The name of a number of affiliated tribes in Southern
+Brazil, Paraguay, Uruguay and the Argentine Republic. The Tupis of
+Brazil are a branch of the Guaranis.
+
+_Huastecas._--A northern colony of the great Maya stock of Yucatan,
+dwelling in the province of Tampico on the river Panuco. At the time
+of the discovery they were an important and cultured nation.
+
+_Lule._--One of the nations of _El Gran Chaco_, west of the Parana
+river. The _Arte y Vocabulario de la Lengua Lule y Tonocote_, by
+Father Antonio Machoni de Cerdena (Madrid, 1732), was republished with
+a careful ethnographic introduction by J. M. Larsen, at Buenos Ayres,
+1877.
+
+_Maipures._--Tribes of various dialects who live on both sides of the
+Orinoco river where it forms the boundary between Venezuela and New
+Granada, about 5 deg. N. lat.
+
+_Mayas._--Natives of Yucatan, and the most highly developed of any of
+the American nations. Related dialects are spoken in Guatemala, in
+Tabasco, and by the Huastecas.
+
+_Mbayas._--A people of the _Gran Chaco_ in the northern part of the
+Argentine Republic, and distantly related to the Abipones.
+
+_Mexican._--Otherwise called the Nahuatl or Aztec language. Spoken in
+the greatest purity in the valley of Mexico, it extended from the Gulf
+of Mexico to the Pacific, and along the latter from Sonora to
+Guatemala, with few interruptions.
+
+_Mixtecas._--A tribe speaking several dialects living in the State of
+Oaxaca, Mexico.
+
+_Mocobis._--One of the four principal nations who formerly occupied
+_El Gran Chaco_, west of the Parana river. By some the name is spelled
+_Mbocoby_.
+
+_Omaguas._--Once a nation of considerable extent and culture between
+the Maranon and the Orinoco.
+
+_Othomis._--A tribe resident near San Louis Potosi, Mexico, and
+neighboring parts. Their proper name is said to be _Hi[=a]-hi[=u]_.
+Their language is monosyllabic and nasal.
+
+_Tamanacas._--These dwell on the right bank of the Upper Orinoco, and
+are connected by dialect with the Carib stock on the one hand and the
+Guaranay on the other.
+
+_Totonacas._--A nation asserted by Pimentel to speak a mixed language
+(Nahuatl and Maya) dwelling in the southern portion of the Province of
+Vera Cruz, Mexico, and parts adjacent.
+
+_Tupis._--The natives of the eastern area of Brazil, related to the
+Guaranis of the south and perhaps to the Caribs of the north. The
+_Lingoa Geral_ of Brazil is a corrupt Tupi.
+
+_Yaruris._--Residents on the upper streams of the Meta river in New
+Granada, related to the Betoi.
+
+
+FOOTNOTES:
+
+[3-*] _Die Elemente der Philosophischen Sprachwissenschaft Wilhelm von
+Humboldt's. In systematischer Entwicklung dargestellt und kritisch
+erlaeutert_, von Dr. Max Schasler, Berlin, 1847.
+
+[3-+] _Die Sprachwissenschaft Wilhelm von Humboldt's und die
+Hegel'sche Philosophie_, von H. Steinthal, Dr., Berlin, 1848. The same
+eminent linguist treats especially of Humboldt's teachings in
+_Grammatik, Logik und Psychologie, ihre Principien und ihr Verhaeltniss
+zu einander_, pp. 123-135 (Berlin, 1855); in his well-known volume
+_Characteristik[TN-10] der Hauptsaechlichsten Typen des Sprachbaues_,
+pp. 20-70 (Berlin, 1860); in his recent oration _Ueber Wilhelm von
+Humboldt_ (Berlin, 1883); and elsewhere.
+
+[3-++] _Wilhelm von Humboldt's Linguistical Studies._ By C. J. Adler,
+A.M. (New York, 1866). This is the only attempt, so far as I know, to
+present Humboldt's philosophy of language to English readers. It is
+meritorious, but certainly in some passages Prof. Adler failed to
+catch Humboldt's meaning.
+
+[4-*] _Ueber die Verschiedenheit des menschlichen Sprachbaues und
+ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts._
+Prof. Adler translates this "The Structural Differences of Human
+Speech and their Influence on the Intellectual Development of the
+Human Race." The word _geistige_, however, includes emotional as well
+as intellectual things.
+
+[4-+] _Ueber die Verschiedenheit_, etc., Bd. vi, s. 271, note. I may
+say, once for all, that my references, unless otherwise stated, are to
+the edition of Humboldt's _Gesammelte Werke_, edited by his brother,
+Berlin, 1841-1852.
+
+[5-*] _Aus Wilhelm von Humboldt's letzien Lebensjahren. Eine
+Muetheilung bisher unbekannter Briefe._ Von Theodor Distel, p. 19
+(Leipzig, 1883).
+
+[6-*] From his memoir _Ueber das vergleichende Sprachtstudium[TN-11] in
+Beziehung auf die verschiedenen Epochen der Sprachentwicklung_, Bd.
+iii, s. 249.
+
+[6-+] He draws examples from the Carib, Lule, Tupi, Mbaya, Huasteca,
+Nahuatl, Tamanaca, Abipone, and Mixteca; _Ueber das Entstehen der
+grammatischen Formen, und ihren Einfluss auf die Ideenentwicklung_,
+Bd. iii, ss. 269-306.
+
+[6-++] _Ueber die Buchstabenschrift und ihren Zusummenhang[TN-12] mit
+dem Sprachbau_, Bd. vi, s. 526
+
+[6-||] This letter is printed in the memoir of Prof. E. Teza, _Intorno
+agli Studi del Thavenet sulla Lingua Algonchina_, in the _Annali delle
+Universita toscane_, Tomo xviii (Pisa, 1880).
+
+[6-Sec.] Compare Prof. Adler's Essay, above mentioned, p. 11.
+
+[7-*] This is found expressed nowhere else so clearly as at the
+beginning of Sec. 13, where the author writes: "Der Zweck dieser
+Einleitung, die Sprachen, in der Verschiedenartigkeit ihres Baues, als
+die nothwendige Grundlage der Fortbildung des menschlichen Geistes
+darzustellen, und den wechsel seitigen Einfluss des Einen auf das
+Andre zu eroertern, hat mich genoethigt, in die Natur der Sprache
+ueberhaupt einzugehen." Bd. vi, s. 106.
+
+[7-+] "Der Idee der Sprachvollendung Dasein in der Wirklichkeit zu
+gewinnen." _Ueber die Verschiedenheit_, ss. 10 and 11. The objection
+which may be urged that a true philosophy of language must deal in
+universals and not confine itself to mere differentiations
+(particulars) is neatly met by Dr. Schasler, _Die Elemente der
+Philosophischen Sprachwissenschaft_, etc., p. 21, note.
+
+[8-*] In his remarkable essay "On the Mission of the Historian," which
+Prof. Adler justly describes as "scarcely anything more than a
+preliminary to his linguistical researches," Humboldt writes: "Die
+Philosophie schreibt den Begebenheiten ein Ziel vor: dies Suchen nach
+Endursachen, man mag sie auch aus dem Wesen des Menschen und der Natur
+selbst ableiten wollen, stoert und verfalscht alle freie Ansicht des
+eigenthuemlichen Wirkens der Kraefte." _Ueber die Aufgabe des
+Geschichtschreibers_, Bd. i, s. 13.
+
+[8-+] "Das Studium der verschiedenen Sprachen des Erdbodens verfehlt
+seine Bestimmung, wenn es nicht immer den Gang der geistigen Bildung
+im Auge behaelt, und darin seinen eigentlichen Zweck sucht." _Ueber den
+Zusammenhang der Schrift mit der Sprache_, Bd. vi, s. 428.
+
+[8-++] "Eine Gedankenwelt an Toene geheftet." _Ueber die
+Buchstabenschrift und ihre Zusammenhang mit dem Sprachbau_, Bd. vi, s.
+530.
+
+[8-||] This cardinal point in Humboldt's philosophy is very clearly
+set forth in his essay, "_Ueber die Aufgabe des Geschichtschreibers_,"
+Bd. i, s. 23, and elsewhere.
+
+[8-Sec.] See _Ueber die Buchstabenschrift_, etc., Bd. vi, s. 530.
+
+[9-*] "Les notions grammaticales resident bien plutot dans l'esprit de
+celui qui parle que dans le materiel du language." Humboldt, _Lettre a
+M. Abel-Remusat Werke_, Bd. vii, s. 396. On the realms of the three
+varieties of grammar, see also Dr. M. Schasler, _Die Elemente der
+Philosophischen Sprachwissenschaft_, etc., s. 35, 36, and Friedrich
+Mueller, _Grundriss der Sprachwissenschaft_, Band 1, ss. 8-10 (Wien,
+1876). Schasler observes that a main object in philosophic grammar is
+an investigation of "die genetisch-qualitativen Unterschiede der
+Redetheile," that is, of the fundamental psychological differences of
+the parts of speech, as, what is the ultimate distinction between noun
+and adjective, etc.?
+
+[10-*] Steinthal does not like Humboldt's expression "to make capable"
+(faehig zu machen). He objects that the "capacity" to express thought
+is already in the articulate sounds. But what Humboldt wishes to
+convey is precisely that this capacity is only derived from the
+ceaseless, energizing effort of the intellect. Steinthal, _Die
+Sprachwissenschaft Wilhelm von Humboldt's_, s. 91, note. The words in
+the original are: "Die sich ewig wiederholende Arbeit des Geistes, den
+articulirten Laut zum Ausdruck des Gedanken faehig zu machen."
+
+[10-+] "Nur die Staerke des Selbstbewusstseins noethigt der koerperlichen
+Natur die scharfe Theilung und feste Begrenzung der Laute ab, die wir
+Artikulation nennen." _Ueber das Vergleichende Sprachstudium in
+Beziehung auf die Verschiedenen Epochen der Sprachentwicklung_, Bd.
+iii, s. 244.
+
+[11-*] Ubi supra, p. 17. Compare Humboldt's words, "Im Ich aber ist
+von selbst auch das Du gegeben." _Ueber die Verschiedenheit_, etc.,
+Bd. vi, s. 115.
+
+[11-+] _Ueber die Verschiedenheit_, etc., Bd. vi, s. 116; and compare
+Dr. Schasler's discussion of this subject (which is one of the best
+parts of his book), _Die Elemente der Phil. Sprachwissenschaft_, etc.,
+ss. 202-14.
+
+[11-++] Expressed in detail by Humboldt in his _Lettre a M.
+Abel-Remusat sur la nature des formes grammaticules_, etc., Bd. vii,
+ss. 300-303.
+
+[12-*] _Ueber die Verwandtschaft der Ortsadverbia mit dem Pronomen in
+einigen Sprachen_, in the _Abhandlungen der hist.-phil. Classe der
+Berliner Akad. der Wiss._ 1829.
+
+[12-+] _Ueber die Verschiedenheit_, etc., Bd. vi, s. 115.
+
+[12-++] _Gesammelte Werke_, Bd. vii, ss. 392-6.
+
+[13-*] His explanation of inflection is most fully given in his
+Introductory Essay, _Ueber die Verschiedenheit_, etc., Sec. 14,
+_Gesammelte Werke_, s. 121, sqq. A sharp, but friendly criticism of
+this central point of his linguistic philosophy may be found in
+Steinthal, _Charakteristik der Hauptsaechlichsten Typen des
+Sprachbones_,[TN-13] ss. 58-61. Humboldt certainly appears not only
+obscure in parts but contradictory.
+
+[14-*] See these teachings clearly set forth in his Essay, _Ueber das
+vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen
+der Sprachentwicklung, Werke_, Bd. iii, especially, s. 255 and s. 262.
+
+[15-*] The eloquent and extraordinary passage in which these opinions
+are expressed is in his _Lettre a M. Abel-Remusat, Gesammelte Werke_,
+Bd. vii, ss. 336-7.
+
+[15-+] _Gesammelte Werke_, Bd. iii, ss. 248, 257.
+
+[16-*] This reasoning is developed in the essay, _Ueber das
+Vergleichende Sprachstudium_, etc., _Gesammelte Werke_, Bd. iii, ss.
+241-268; and see ibid, s. 270.
+
+[16-+] See the essay _Ueber die Buchstabenschrift und ihren
+Zusammenhang mit dem Sprachbau, Ges. Werke_, Bd. vi, ss. 551-2.
+
+[17-*] On this subtle point, which has been by no means the least
+difficult to his commentators, see Humboldt's Introduction _Ueber die
+Verschiedenheit_, etc., _Ges. Werke_, Bd. vi, ss. 45-6, 92-5, 254-5,
+by a careful comparison of which passages his real intent will become
+apparent.
+
+[17-+] _Lettre a M. Abbe-Remusat,[TN-14] Ges. Werke_, Bd. vii, s. 396.
+
+[18-*] "Nicht was in einer Sprache ausgedrueckt zu werden vermag,
+sondern das, wozu sie aus eigner, innerer Kraft anfeuert und
+begeistert, entscheidet ueber ihre Vorzuege oder Maengel." _Ueber das
+Entstehen der Grammatischen Formen_, etc[TN-15], _Werke_, Bd. iii, s.
+272. Compare with this the expression in his celebrated _Einleitung_:
+"Die Sprache ist das bildende Organ des Gedanken," _Werke_, Bd. vi, s.
+51. A perfected language will "allseitig und harmonisch durch sich
+selbst auf den Geist einwirken." Ibid, s. 311.
+
+[19-*] [TN-16]_Ueber das Entstehen der grammatischen Formen_," etc.,
+_Werke_, Bd. iii, s. 292.
+
+[19-+] Speaking of such "imperfect" languages, he gives the following
+wise suggestion for their study: "Ihr einfaches Geheimniss, welches
+den Weg anzeigt, auf welchem man sie, mit gaenzlicher Vergessenheit
+unserer Grammatik, immer zuerst zu entraethseln versuchen muss, ist,
+das in sich Bedeutende unmittelbar an einander zu reihen." _Ueber das
+Vergleichende Sprachstudium_, etc., _Werke_, Bd. iii, s. 255; and for
+a practical illustration of his method, see the essay, _Ueber das
+Entstehen der grammatischen Formen_, etc., Bd. iii, s. 274.
+
+[20-*] His teachings on this point, of which I give the barest
+outline, are developed in sections 12 and 13 of his Introduction,
+_Ueber die Verschiedenheit_, etc. Steinthal's critical remarks on
+these sections (in his _Charakteristik der haupt. Typen des
+Sprachbaues_) seem to me unsatisfactory, and he even does not appear
+to grasp the chain of Humboldt's reasoning.
+
+[21-*] _Lettre a M. Abel-Remusat, Werke_, Bd. vii, ss. 353-4.
+
+[21-+] _Ueber die Verschiedenheit_, etc., Sec. 23, _Werke_, Bd. vi, s.
+329.
+
+[24-*] "Der Mexikanischen kann man am Verbum, in welchem die Zeiten
+durch einzelne Endbuchstaben und zum Theil offenbar symbolisch
+bezeichnet werden, Flexionen und ein gewisses Streben nach
+Sanskritischer Worteinheit nicht absprechen." _Ueber die
+Verschiedenheit_, etc., _Werke_, Bd. vi, s. 176.
+
+[25-*] "Daher ist das Einschliessen in Ein Wort mehr Sache der
+Einbildungskraft, die Trennung mehr die des Verstandes." _Ueber die
+Verschiedenheit_, etc., s. 327. Compare also, s. 326 and 166.
+Steinthal points out the disadvantages of the incorporative plan and
+puts it lower than the isolating system of the Chinese; but fails to
+recognize its many and striking advantages. See his remarks, "Ueber
+das Wesen und Werth der Einverleibungsmethode," in his _Charakteristik
+der haupt. Typen des Sprachbaues_, s. 214.
+
+[25-+] _Ueber die Verschiedenheit_, etc., in _Werke_, Bd. vi, ss. 323
+sqq.
+
+[27-*] See the essay, _Ueber den Dualis, Gesammelte Werke_, Bd. vi,
+ss. 562-596.
+
+
+
+
+LIBRARY OF ABORIGINAL AMERICAN LITERATURE.
+
+GENERAL EDITOR AND PUBLISHER: D. G. BRINTON, M.D.
+
+
+The aim of this series of publications is to put within the reach of
+scholars authentic materials for the study of the languages and
+culture of the native races of America. Each work is the production of
+the native mind, and is printed in the original tongue, with a
+translation and notes, and only such are selected as have some
+intrinsic historical or ethnological importance. The volumes of the
+series are sold separately, at the prices named.
+
+_NOW READY._
+
+=No. I. THE CHRONICLES OF THE MAYAS.=
+
+=Edited by DANIEL G. BRINTON, M.D. 279 pages. Cloth, uncut, $5.00.
+($3.00 when a complete set is ordered.)=
+
+This volume contains five brief chronicles in the Maya language of
+Yucatan, written shortly after the Conquest, and carrying the history
+of that people back many centuries. To these is added a history of the
+Conquest, written in his native tongue, by a Maya Chief, in 1562. The
+texts are preceded by an introduction on the history of the Mayas;
+their language, calendar, numeral system, etc.; and a vocabulary is
+added at the close.
+
+=No. II. THE IROQUOIS BOOK OF RITES.=
+
+=Edited by HORATIO HALE. 222 pages. Cloth, uncut, $3.00.=
+
+This work contains, in the Mohawk and Onondaga languages, the
+speeches, songs and rituals with which a deceased chief was lamented
+and his successor installed in office. It may be said to throw a
+distinct light on the authentic history of Northern America to a
+period fifty years earlier than the era of Columbus. The Introduction
+treats of the ethnology and history of the Huron-Iroquois. A map,
+notes and a glossary complete the work.
+
+=No. III. THE COMEDY-BALLET OF GUeEGUeENCE.=
+
+=Edited by DANIEL G. BRINTON, M.D. 146 pages. Cloth, uncut, $2.50.=
+
+A curious and unique specimen of the native comic dances, with
+dialogues, called _bailes_, formerly common in Central America. It is
+in the mixed Nahuatl-Spanish jargon of Nicaragua, and shows
+distinctive features of native authorship. The Introduction treats of
+the ethnology of Nicaragua, and the local dialects, musical
+instruments, and dramatic representations. A map and a number of
+illustrations are added.
+
+=No. IV. A MIGRATION LEGEND OF THE CREEK INDIANS.=
+
+=By A. S. GATSCHET. 251 pages. Cloth, uncut, $3.00.=
+
+This learned work offers a complete survey of the ethnology of the
+native tribes of the Gulf States. The strange myth or legend told to
+Gov. Oglethorpe, in 1732, by the Creeks, is given in the original,
+with an Introduction and Commentary.
+
+=No. V. THE LENAPE AND THEIR LEGENDS.=
+
+=By Dr. DANIEL G. BRINTON. Cloth, uncut, $3.00.=
+
+Contains the complete text and symbols, 184 in number, of the WALAM
+OLUM OR RED SCORE of the Delaware Indians, with the full original
+text, and a new translation, notes and vocabulary. A lengthy
+introduction treats of the Lenape or Delawares, their history,
+customs, myths, language, etc., with numerous references to other
+tribes of the great Algonkin stock.
+
+_IN PREPARATION_:
+
+=THE ANNALS OF THE CAKCHIQUELS.= By Francisco Arana Ernantez Xahila.
+    With a translation and notes by Dr. D. G. Brinton.
+
+=ABORIGINAL AMERICAN ANTHOLOGY.= Chiefly original material, furnished
+    by various collaborators.
+
+
+
+
+RECENT PUBLICATIONS ON AMERICAN ETHNOLOGY.
+
+
+_AMERICAN HERO-MYTHS._
+
+A Study in the Native Religions of the Western Continent. By Daniel G.
+Brinton, A.M., M.D., etc. 1 vol., 8vo, pp. 251. (Philad'a, 1882.)
+Cloth, Price, $1.75.
+
+=NOTICES OF THE PRESS.=
+
+"Dr. Brinton writes from a minute and extended knowledge of the
+original sources. * * His work renders a signal service to the cause
+of comparative mythology in our country."--_The Literary World_
+(Boston).
+
+"This study of certain of the most remarkable stories of American
+mythology is exceedingly interesting."--_The Saturday Review_
+(London).
+
+
+_ABORIGINAL AMERICAN AUTHORS_, And Their Productions. Especially those
+in the Native Languages. A Contribution to the History of Literature.
+By Daniel G. Brinton, A.M., M.D., etc. 1 vol., 8vo, pp. 63. Boards,
+Price, $1.00.
+
+An essay founded on an address presented to the Congress of
+Americanists, at Copenhagen, in 1883. It is an extended review of the
+literary efforts of the red race, in their own tongues, and in
+English, Latin and Spanish (both manuscript and printed).
+
+
+_A GRAMMAR OF THE CAKCHIQUEL LANGUAGE_ of Guatemala. Translated with
+an Introduction and Additions by Daniel G. Brinton, M.D. Map, pp. 72.
+Price, boards, $1.00.
+
+
+_THE NAMES OF THE GODS IN THE QUICHE MYTHS_, of Central America. By D.
+G. Brinton, M.D., 8vo, pp. 38, paper, 50c.
+
+
+_THE LINEAL MEASURES OF THE SEMI-CIVILIZED NATIONS_ of Mexico and
+Central America. By D. G. Brinton, M.D., pp. 14, paper, 25c.

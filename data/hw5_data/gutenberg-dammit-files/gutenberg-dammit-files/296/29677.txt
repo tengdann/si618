@@ -1,0 +1,7254 @@
+[Illustration: ZARAGOZA]
+
+Heath's Modern Language Series
+
+EL TROVADOR
+
+POR
+
+ANTONIO GARCÍA GUTIÉRREZ
+
+_EDITED WITH NOTES AND VOCABULARY_
+
+BY
+
+H. H. VAUGHAN, PH. D.
+
+YALE UNIVERSITY
+
+
+D. C. HEATH & CO., PUBLISHERS
+BOSTON NEW YORK CHICAGO
+
+COPYRIGHT, 1908,
+BY D. C. HEATH & CO.
+
+Printed in U. S. A.
+
+
+
+
+INTRODUCTION
+
+
+Antonio García Gutiérrez was born in Chiclina, a small town in
+Andalusia, July 5, 1813. His father wished him to become a doctor, but
+his own tendency towards poetry was so strong that he soon gave up all
+idea of a medical career and went to Madrid to seek his fortune. Here he
+wrote _El Trovador_, which was promptly rejected by the dramatic
+managers. After this disappointment he enlisted as a volunteer against
+the Carlists, and was in the army when his play was finally produced.
+Its success was instantaneous and overwhelming, and enabled the author
+to leave the army and give all his time to his chosen occupation. Among
+his other works may be cited _Simón Bocanegra_, _Venganza Catalana_, and
+_Juan Lorenzo_. These plays were not as enthusiastically received as _El
+Trovador_, and Gutiérrez regarded the public as unjust to him. In 1844
+he went to Havana, and thence to Mérida de Yucatán; returning to Spain
+after five years' absence. He died August 26, 1884.
+
+_El Trovador_ is undoubtedly Gutiérrez' masterpiece. Interest in the
+play is quickly aroused, and well sustained by the rapidity of the
+action. Gutiérrez has not kept the classic unities of time and place,
+but he has kept the one important unity, that of action; since, although
+our interest may at times be divided between the protagonists of the
+drama and a less important character, we never lose interest in the
+former.
+
+The characters, although well drawn, are not strong. Manrique is a
+selfish and ambitious man, who well deserves his fate. Nuño is
+unscrupulous and weak, but the weakest character of all is that of
+Leonor, who, knowing her duty, has neither strength nor will to
+accomplish it. Azucena is really the most interesting character in the
+play. From her first sad notes of "Bramando está el pueblo indómito" to
+her last despairing cry of "Ya estás vengada" we do not for a minute
+lose sight of the mortal conflict in her soul between the vengeance
+which she has sworn her mother and her love for Manrique.
+
+The verse form of the drama is worthy of note. In general, scenes in
+which subordinates or common people appear are in prose, while those
+between nobles are in verse. When the action is of ordinary pitch, this
+verse is very simple; but when the action reaches a high pitch, the
+verse form becomes complicated. Examples of this are to be seen in Act
+III, Scene V, and Act IV, Scenes V and VI.
+
+_El Trovador_ was given operatic form by the great Italian composer
+Giuseppi Verdi, and under its Italian title, _Il Trovatore_, is well
+known throughout the world.
+
+As great difference exists in the usage of the Spanish punctuation marks
+at the present day, it has been thought advisable in this edition to
+adopt in some cases what might be called mixed punctuation, that is,
+when there is a question which is also an exclamation, attention is
+called to the fact by the use of the interrogation point before and the
+exclamation point after the phrase or sentence.
+
+The editor wishes to extend his thanks to Professor J. D. M Ford and
+Professor C. H. Grandgent of Harvard, Professor A. Le Duc and Mr. F. D.
+Schnacke of the University of Kansas, and Professor C. P. Wagner of the
+University of Michigan, who have rendered valuable assistance in the
+preparation of this edition.
+
+
+H. H. V.
+
+
+ANN ARBOR, _Sept. 14, 1907_.
+
+
+
+
+EL TROVADOR
+
+DRAMA CABALLERESCO EN CINCO JORNADAS EN PROSA Y VERSO
+
+
+
+
+PERSONAJES
+
+
+DON NUÑO DE ARTAL, Conde de Luna[1]
+
+DON MANRIQUE (El Trovador)
+
+DON GUILLÉN DE SESÉ
+
+DON LOPE DE URREA
+
+DOÑA LEONOR DE SESÉ
+
+DOÑA JIMENA
+
+AZUCENA
+
+GUZMÁN, criado del Conde de Luna
+
+JIMENO, idem
+
+FERRANDO, idem
+
+RUIZ, criado de Don Manrique
+
+UN SOLDADO
+
+Soldados, sacerdotes y religiosas
+
+_Aragón_[2]--_Siglo XV_
+
+
+
+
+EL TROVADOR
+
+JORNADA PRIMERA
+
+EL DUELO
+
+Zaragoza:[3] sala corta[4] en el palacio de la Aljafería[5]
+
+
+
+
+ESCENA PRIMERA
+
+GUZMÁN, JIMENO, _y_ FERRANDO, _sentados_
+
+
+JIMENO. Nadie mejor que yo puede saber esa historia;
+como que hace muy cerca de cuarenta años que estoy al
+servicio de los Condes de Luna.
+
+FERRANDO. Siempre me lo han contado de diverso modo.
+
+GUZMÁN. Y como se abultan tanto las cosas...
+
+JIMENO. Yo os lo contaré tal como ello pasó por los
+años de 1390. El Conde don Lope de Artal vivía regularmente
+en Zaragoza, como que siempre estaba al lado de
+su Alteza. Tenía dos niños: el uno que es don Nuño,
+nuestro muy querido amo, y contaba entonces seis meses,
+poco más o menos, y el mayor, que tendría dos años, llamado
+don Juan. Una noche entró en la casa del Conde una de
+esas vagabundas, una gitana con ribetes de bruja, y sin
+decir una palabra se deslizó hacia la cámara donde dormía
+el mayorcito. Era ya bastante vieja...
+
+FERRANDO. ¿Vieja y gitana? Bruja sin duda.
+
+JIMENO. Se sentó a su lado, y le estuvo mirando largo
+rato, sin apartar de él los ojos ni un instante; pero los
+criados la vieron y la arrojaron a palos.[6] Desde aquel día
+empezó a enflaquecer el niño, a llorar continuamente, y
+por último, a los pocos días cayó gravemente enfermo; la
+pícara de la bruja le había hechizado.
+
+GUZMÁN. ¡Diantre!
+
+JIMENO. Y aún su aya aseguró que en el silencio de la
+noche había oído varias veces que andaba alguien en su
+habitación, y que una legión de brujas jugaban con el niño
+a la pelota, sacudiéndole furiosas contra la pared.
+
+FERRANDO. ¡Qué horror! Yo me hubiera muerto de
+miedo.
+
+JIMENO. Todo esto alarmó al Conde, y tomó sus medidas
+para pillar a la gitana; cayó efectivamente en el
+garlito, y al otro día[7] fue quemada públicamente, para
+escarmiento de viejas.
+
+GUZMÁN. ¡Cuánto me alegro! ¿Y el chico?
+
+JIMENO. Empezó a engordar inmediatamente.
+
+FERRANDO. Eso era natural.
+
+JIMENO. Y a guiarse por mis consejos,[8] hubiera sido
+también tostada la hija, la hija de la hechicera.
+
+FERRANDO. ¡Pues por supuesto![9]... Dime con quién
+andas[10]...
+
+JIMENO. No quisieron entenderme, y bien pronto tuvieron
+lugar de arrepentirse.
+
+GUZMÁN. ¿Cómo!
+
+JIMENO. Desapareció el niño, que estaba ya tan rollizo
+que daba gusto verle; se le buscó por todas partes, ¿y
+sabéis lo que se encontró? Una hoguera recién apagada
+en el sitio donde murió la hechicera, y el esqueleto achicharrado
+del niño.
+
+FERRANDO. ¡Cáspita! ¿Y no la atenacearon?
+
+JIMENO. Buenas ganas teníamos todos de verla arder
+por vía de ensayo para el infierno; pero no pudimos atraparla,
+y sin embargo si la viese ahora...
+
+GUZMÁN. ¿La conoceríais?
+
+JIMENO. A pesar de los años que han pasado, sin duda.
+
+FERRANDO. Pero también apostaría yo cien florines a
+que el alma de su madre está ardiendo ahora en las parrillas
+de Satanás.
+
+GUZMÁN. Se entiende.
+
+JIMENO. Pues... mis dudas tengo en cuanto a eso.
+
+GUZMÁN. ¿Qué decís?
+
+JIMENO. Desde el suceso que acabo de contaros no ha
+dejado de haber lances diabólicos... Yo diría que el
+alma de la gitana tiene demasiado que hacer para irse tan
+pronto al infierno.
+
+FERRANDO. ¡Jum!... ¡Jum!...
+
+JIMENO. ¿He dicho algo?
+
+FERRANDO. Preguntádmelo a mí.
+
+GUZMÁN. ¿La habéis visto?
+
+FERRANDO. Más de una vez.
+
+GUZMÁN. ¿A la gitana?
+
+FERRANDO. ¡No, qué disparate; no...! Al alma de
+la gitana; unas veces bajo la figura de un cuervo negro; de
+noche regularmente en búho. Ultimamente, noches pasadas,
+se transformó en lechuza.
+
+GUZMÁN. ¡Cáspita!
+
+JIMENO. Adelante.
+
+FERRANDO. Y se entró en mi cuarto a sorberse el aceite
+de mi lámpara; yo empecé a rezar un _Padre nuestro_ en voz
+baja... ni por ésas;[11] apagó la luz y me empezó a mirar
+con unos ojos tan relucientes;[12] se me erizó el cabello; tenía
+un no sé qué de diabólico[13] y de infernal aquel espantoso
+animalejo. Ultimamente, empezó a revolotear por la
+alcoba... yo sentí en mi boca el frío beso de un labio
+inmundo; di un grito de terror exclamando: _¡Jesús!_ y la
+bruja espantada lanzó un prolongado chillido, precipitándose
+furiosa por la ventana.
+
+GUZMÁN. ¡Me contáis cosas estupendas! Y en pago
+del buen rato que me habéis hecho pasar, voy a contaros
+otras no menos raras y curiosas, pero que tienen la ventaja
+de ser más recientes.
+
+FERRANDO. ¿Cómo!
+
+GUZMÁN. Se entiende que nada de esto debe traslucirse,
+porque es una cosa que sólo a mí, a mí particularmente
+se me ha confiado.
+
+JIMENO. ¿Pero de quién?
+
+GUZMÁN. De otro modo me mataría el Conde.
+
+FERRANDO _y_ JIMENO. ¡El Conde!
+
+GUZMÁN. Pero todo ello no es nada, nada; travesuras de
+la juventud. ¿No sabéis que está perdidamente enamorado
+de doña Leonor de Sesé?
+
+GUZMÁN. La hermana de don Guillén, de ese hidalgo
+orgulloso...
+
+FERRANDO. La más hermosa dama del servicio de la
+reina.
+
+GUZMÁN. Seguro.
+
+FERRANDO. Y que está tan enamorada de aquel trovador
+que en tiempos de antaño[14] venía a quitarnos el sueño
+por la noche con su cántico sempiterno.
+
+GUZMÁN. Y que viene todavía.
+
+JIMENO. ¿Cómo! ¿Pues no dicen que está con el
+Conde de Urgel,[15] que en mala hora naciera, ayudándole a
+conquistar la corona de Aragón?
+
+GUZMÁN. Pues a pesar de eso...
+
+FERRANDO. Atreverse a galantear a una de las primeras
+damas de su Alteza. Un hombre sin solar, digo, que
+sepamos.
+
+JIMENO. No negaréis, sin embargo, que es un caballero
+valiente y galán.
+
+GUZMÁN. Sí, eso sí... pero en cuanto a lo demás[16]...
+Y luego, ¿quién es él? ¿Dónde está el escudo de sus armas?
+Lo que me decía anoche el Conde: «Tal vez será algún
+noble pobretón, algún hidalgo de gotera.»
+
+JIMENO. Pero al cuento.
+
+GUZMÁN. Al cuento: ya sabéis que yo gozo de la confianza
+del Conde; anoche me dijo, estando los dos solos
+en su cuarto: «Escucha, Guzmán; quiero que me acompañes;
+sólo a ti me atrevo a confiar mis designios, porque
+siempre me has sido fiel; esta noche ha de ser fatal para
+mí, o he de llegar al colmo de la felicidad suprema!» Sígueme,
+añadió, y atravesó con paso precipitado las galerías,
+instruyéndome en el camino de su proyecto.
+
+JIMENO. ¿Y qué?
+
+GUZMÁN. Su intento era entrar en la habitación de
+Leonor, para lo cual[17] se había proporcionado una llave.
+
+JIMENO. ¿Cómo!... ¿En palacio!... ¿Y se atrevió
+al fin?
+
+GUZMÁN. Entró efectivamente; pero en el momento
+mismo, cuando lleno de amor y de esperanza se le figuraba
+que iba a tocar la felicidad suprema, un preludio del laúd
+del maldito trovador vino a sacarle de su delirio.
+
+FERRANDO. ¡Del trovador!
+
+GUZMÁN. Del mismo; estaba en el jardín. Allí, dijo
+don Nuño con un acento terrible, allí estará también ella;
+y bajó furioso la escalera. La noche era oscurísima; el
+importuno cantor, que nunca pulsó el laúd a peor tiempo,
+se retiró creyendo sin duda que era mi amo algún curioso
+escudero; a poco rato bajó la virtuosa Leonor, y equivocando
+a mi señor con su amante, le condujo silenciosamente
+a lo más oculto del[18] jardín. Bien pronto las atrevidas
+palabras del Conde la hicieron conocer con quién se las
+había[19]... la luna, hasta entonces prudentemente encubierta
+con una nube espesísima, hizo brillar un instante el
+acero del celoso cantor delante del pecho de mi amo; poco
+duró el combate; la espada del Conde cayó a los pies de su
+rival, y un momento después ya no había un alma en todo
+el jardín.
+
+JIMENO. ¿Y no os parece, como a mí, que el Conde
+hace muy mal en exponer así su vida? Y si llegan a saber[20]
+sus Altezas semejantes locuras...
+
+GUZMÁN. Calle... parece que se ha levantado ya...
+
+JIMENO. Temprano para lo que ha dormido.[21]
+
+FERRANDO. Los enamorados, dicen que no duermen.
+
+GUZMÁN. Vamos allá, no nos eche de menos.[22]
+
+FERRANDO. Y hoy que estará de mala guisa.
+
+JIMENO. Sí, vamos.
+
+
+
+
+ESCENA II
+
+Cámara de doña Leonor en el palacio
+
+LEONOR, JIMENA, _y_ DON GUILLÉN[23]
+
+
+GUILLÉN. Mil quejas tengo que daros,
+si oírme, hermana, queréis.
+
+LEONOR. Hablar, don Guillén, podéis,
+que pronta estoy a escucharos.
+Si a hablar del Conde venís,
+que será en vano os advierto,
+y me enojaré por cierto
+si en tal tema persistís.
+
+GUILLÉN. Poco estimáis, Leonor,
+el brillo de vuestra cuna,
+menospreciando al de Luna[24]
+por un simple trovador.
+¿Qué visteis, hermana, en él
+para así tratarle impía?
+¿No supera en bizarría
+al más apuesto doncel?
+¿A caballo, en el torneo,
+no admirasteis su pujanza?
+A los botes de su lanza...
+
+LEONOR. Que cayó de un bote creo.
+
+GUILLÉN. En fin, mi palabra di
+De que suya habéis de ser,
+y cumplirla he menester.
+
+LEONOR. ¿Y vos[25] disponéis de mí?
+
+GUILLÉN. O soy o no vuestro hermano.
+
+LEONOR. Nunca lo fuerais,[26] por Dios,
+que me dio mi madre en vos,
+en vez de amigo, un tirano.
+
+GUILLÉN. En fin, ya os dije mi intento:
+ved cómo se ha de cumplir.
+
+LEONOR. No lo esperéis.
+
+GUILLÉN. O vivir
+encerrada en un convento.
+
+LEONOR. Lo del convento más bien.
+
+GUILLÉN. ¿Eso tu audacia responde?
+
+LEONOR. Que nunca seré del Conde...
+nunca, ¿lo oís; don Guillén?
+
+GUILLÉN. Yo haré que mi voluntad
+se cumpla, aunque os pese a vos.
+
+LEONOR. Idos, hermano, con Dios.
+
+GUILLÉN. ¡Leonor!... a Dios os quedad.
+
+
+
+
+ESCENA III
+
+LEONOR _y_ JIMENA
+
+
+LEONOR. ¿Lo oíste? ¡Negra fortuna!
+Ya ni esperanza ninguna,
+ningún consuelo me resta.
+
+JIMENA. ¿Mas por qué por el de Luna
+tanto empeño manifiesta?
+
+LEONOR. Esa soberbia ambición
+que le ciega y le devora
+es ¡triste! mi perdición.
+¡Y quiere que al que me adora
+arroje del corazón!
+Yo al Conde no puedo amar,
+le detesto con el alma;
+él vino ¡ay Dios! a turbar
+de mi corazón la calma
+y mi dicha a emponzoñar.
+¿Por qué perseguirme así?
+Desde anoche le aborrezco
+más y más. Yo que creí
+que era Manrique... ¡Ay de mí![27]
+Todavía me estremezco.
+Por él me aborrece ya.
+
+JIMENA. ¿Don Manrique?
+
+LEONOR. Sí, Jimena.
+
+JIMENA. ¿De vuestro amor dudará?
+
+LEONOR. Celoso del Conde está,
+y sin culpa me condena... (_llora_)
+
+JIMENA. ¿Siempre llorando, mi amiga?
+No cesas...
+
+LEONOR. Llorando, sí;
+yo para llorar nací;
+mi negra estrella enemiga,
+mi suerte, lo quiere así.
+Despreciada, aborrecida
+del que amante idolatré,
+¿qué es ya para mí la vida?
+Y él creyó que envilecida
+vendiera a otro amor mi fe.
+No, jamás,... la pompa, el oro,
+guárdelos el Conde allá;
+ven, trovador, y mi lloro
+te dirá cómo te adoro,
+y mi angustia te dirá.
+Mírame aquí prosternada;
+ven a calmar la inquietud
+de esta mujer desdichada;
+tuyo es mi amor, mi virtud...
+¿Me quieres más humillada?
+
+JIMENA. ¿Qué haces, Leonor?
+
+LEONOR. Yo no sé...
+alguien viene.
+
+JIMENA. ¡El es, por Dios!
+¡Y dudabas de su fe!
+
+LEONOR. ¡Jimena!
+
+JIMENA. Te estorbaré...
+solos os dejo a los dos.
+
+
+
+
+ESCENA IV
+
+LEONOR _y_ MANRIQUE, _rebozado_
+
+
+LEONOR. ¡Manrique! ¿Eres tú?
+
+MANRIQUE. Yo, sí...
+No tembléis.
+
+LEONOR. No tiemblo yo;
+mas si alguno entrar te vio...
+
+MANRIQUE. Nadie.
+
+LEONOR. ¿Qué buscas aquí?
+¿Qué buscas?... ¡Ah!... Por piedad...
+
+MANRIQUE. ¿Os pesa de mi venida?[28]
+
+LEONOR. No, Manrique, por mi vida.
+¿Me buscáis a mí, es verdad?
+Sí, sí... yo apenas pudiera
+tanta ventura creer.
+¿Lo ves? Lloro de placer.
+
+MANRIQUE. ¿Quién, perjura, te creyera!
+
+LEONOR. ¿Perjura?
+
+MANRIQUE. Mil veces, sí...
+Mas no pienses que insensato
+a obligar a un pecho ingrato,
+a implorarte vine aquí.
+No vengo lleno de amor
+cual un tiempo...
+
+LEONOR. ¡Desdichada!
+
+MANRIQUE. ¿Tembláis?
+
+LEONOR. No, no tengo nada[29]...
+mas temo vuestro furor.
+¿Quién dijo, Manrique, quién,
+que yo olvidarte pudiera
+infiel, y tu amor vendiera,
+tu amor, que es sólo mi bien!
+¿Mis lágrimas no bastaron
+a arrancar de tu razón
+esa funesta ilusión?
+
+MANRIQUE. Harto tiempo me engañaron.
+Demasiado te creí
+mientras tierna me halagabas
+y pérfida me engañabas.
+¡Qué necio, qué necio fui!
+Pero no, no impunemente
+gozarás de tu traición;
+yo partiré el corazón
+de ese rival insolente.
+¡Tus lágrimas! ¿Yo creer
+pudiera, Leonor, en ellas
+cuando con tiernas palabras
+a otro halagabas ayer?
+¡No te vi yo mismo, di!
+
+LEONOR. Sí, pero juzgué engañada
+que eras tú, con voz pausada
+cantar una trova oí.
+Era tu voz, tu laúd;
+era el canto seductor
+de un amante trovador
+lleno de tierna inquietud.
+Turbada, perdí mi calma,
+se estremeció el corazón,
+y una celeste ilusión
+me abrasó de amor el aúna.
+Me pareció que te vía[30]
+en la oscuridad profunda,
+que a la luna moribunda
+tu penacho descubría.
+Me figuré verte allí
+con melancólica frente,
+suspirando tristemente
+tal vez, Manrique, por mí.
+No me engañaba... un temblor
+me sobrecogió un instante...
+era sin duda mi amante,
+era ¡ay Dios! mi trovador.
+
+MANRIQUE. Si fuera verdad, mi vida
+y mil vidas que tuviera,
+ángel hermoso, te diera.
+
+LEONOR. ¿No te soy aborrecida?
+
+MANRIQUE. ¿Tú, Leonor? ¿Pues por quién
+así en Zaragoza entrara,
+por quién la muerte arrostrara
+sino[31] por ti, por mi bien?
+¿Aborrecerte! ¿Quién pudo
+aborrecerte, Leonor?
+
+LEONOR. ¿No dudas ya de mi amor,
+Manrique?
+
+MANRIQUE. No, ya no dudo.
+Ni así pudiera vivir;
+me amas, ¿es verdad? Lo creo,
+porque creerte deseo
+para amarte y existir.
+Porque me fuera la muerte
+más grata que tu desdén.
+
+LEONOR. ¡Trovador!
+
+MANRIQUE. No más; ya es bien
+que parta.
+
+LEONOR. ¿No vuelvo a verte?
+
+MANRIQUE. Hoy no, más tarde será.
+
+LEONOR. ¿Tan pronto te marchas?
+
+MANRIQUE. Hoy;
+ya se sabe que aquí estoy;
+buscándome están quizá.
+
+LEONOR. Sí, vete.
+
+MANRIQUE. Muy pronto fiel
+me verás, Leonor, mi gloria,
+cuando el cielo dé victoria
+a las armas del de Urgel.
+Retírate... viene alguno.
+
+LEONOR. ¡Es el Conde!
+
+MANRIQUE. Vete.
+
+LEONOR. ¡Cielos!
+
+MANRIQUE. Mal os curasteis mis celos...
+¿Qué busca aquí este importuno?
+
+
+
+
+ESCENA V
+
+MANRIQUE _y_ DON NUÑO
+
+
+NUÑO. ¿Qué hombre es éste?
+
+MANRIQUE. Guárdeos Dios
+muchos años, el de Luna.
+
+NUÑO. (¡Pésia mi negra fortuna!)
+
+MANRIQUE. Caballero, hablo con vos;
+si porque encubierto estoy...
+
+NUÑO. Si decirme algo tenéis,
+descubrid...
+
+MANRIQUE. ¿Me conocéis? (_Descubriéndose._)
+
+NUÑO. ¡Vos, Manrique!
+
+MANRIQUE. El mismo soy.
+
+NUÑO. ¿Cuando a la ley sois infiel
+y cuando proscripto estáis,
+así en palacio os entráis
+partidario del de Urgel?
+
+MANRIQUE. ¿Debo temer, por ventura,
+Conde, de vos?
+
+NUÑO. Un traidor...
+
+MANRIQUE. Nunca; vuestro mismo honor
+de vos mismo me asegura.
+Siempre fuisteis caballero.
+
+NUÑO. ¿Qué buscáis, Manrique, aquí?
+
+MANRIQUE. A vos, señor Conde.
+
+NUÑO. ¿A mí?
+Para qué saber espero.
+
+MANRIQUE. ¿No lo adivináis?
+
+NUÑO. Tal vez.
+
+MANRIQUE. Siempre enemigos los dos
+hemos sido.
+
+NUÑO. Sí, por Dios.
+
+MANRIQUE. Pensáislo con madurez.
+
+NUÑO. Pienso que atrevido y necio
+anduvisteis en retar
+a quien débeos contestar
+tan sólo con el desprecio.
+¿Qué hay de común en los dos?
+Habláis al Conde de Luna,
+hidalgo de pobre cuna.[32]
+
+MANRIQUE. Y bueno tal como vos.
+¿En fin, no admitís el duelo?
+
+NUÑO. ¿Y lo pudisteis pensar?
+¿Yo hasta vos he de bajar?
+
+MANRIQUE. No me insultéis, vive el cielo,
+que si la espada desnudo
+la vil lengua os cortaré.
+
+NUÑO. ¿A mí, villano? No sé (_Saca la espada._)
+cómo en castigarte dudo.
+Mas tú lo quieres.
+
+MANRIQUE. Salgamos.
+
+NUÑO. Sacad el infame acero.
+
+MANRIQUE. Don Nuño, fuera os espero;
+cuidad que en palacio estamos.
+
+NUÑO. Cobarde, no escucho nada.
+
+MANRIQUE. Ved, Conde, que os engañáis...
+¿Vos, vos cobarde llamáis
+al que es dueño de esta espada?
+
+NUÑO. La mía... Y lo sufro, no...
+
+MANRIQUE. A recobrarla venid.
+
+NUÑO. No; que no sois, advertid,
+caballero como yo.
+
+MANRIQUE. Tal vez os equivocáis.
+Y habladme con más despacio
+mientra estamos en palacio.
+Os aguardo.
+
+NUÑO. ¿Dónde vais?
+
+MANRIQUE. Al campo, don Nuño, voy,
+donde probaros espero
+que, si vos sois caballero...
+caballero también soy.
+
+NUÑO. ¿Os atrevéis?...
+
+MANRIQUE. Sí, venid.
+
+NUÑO. Trovador, no me insultéis
+si en algo el vivir tenéis.
+
+MANRIQUE. Don Nuño, pronto, salid.
+
+
+
+
+JORNADA SEGUNDA
+
+EL CONVENTO
+
+Cámara de don Nuño
+
+
+
+
+ESCENA PRIMERA
+
+DON NUÑO _y_ DON GUILLÉN
+
+
+NUÑO. ¿Don Guillén?
+
+GUILLÉN. Guárdeos el cielo.
+
+NUÑO. ¿Qué hay de nuevo en la ciudad?
+
+GUILLÉN. ¿Qué? ¿Aún no sabéis?
+
+NUÑO. Asentad.
+
+GUILLÉN. Todos lloran sin consuelo.
+
+NUÑO. ¿Cómo!
+
+GUILLÉN. La traición impía
+que en yermo a Aragón convierte,
+dio al Arzobispo la muerte.
+
+NUÑO. ¿Qué decís? ¿A don García?
+
+GUILLÉN. Ahora se acaba de hallar
+su cadáver junto al muro,
+que de la noche en lo oscuro
+le debieron de matar.[33]
+Murió como bueno y fiel...
+
+NUÑO. Siempre lo fue don García.
+
+GUILLÉN. Porque osado combatía
+la pretensión del de Urgel.
+
+NUÑO. ¡Infame y cobarde acción
+que he de vengar, por quién soy!
+
+GUILLÉN. Conde...
+
+NUÑO. Sabed que desde hoy
+soy Justicia de Aragón,
+y si mi poder alcanza
+a los traidores, os juro
+por mi honor, como el sol puro,
+que han de sentir mi venganza.
+
+GUILLÉN. Pero dejando esto a un lado,
+que importa más vuestra vida,
+¿cómo os va de aquella herida?[34]
+
+NUÑO. Me siento muy mejorado.
+
+GUILLÉN. Ya era tiempo.
+
+NUÑO. Un año hará
+que la recibí, por Cristo;
+muy cerca la muerte he visto,
+mas bueno me siento ya.
+
+GUILLÉN. La suerte al fin del trovador
+os dio la venganza presto.
+
+NUÑO. No me habléis, Guillén, en esto;
+habladme de Leonor,
+que hace un año, más de un año,
+mientras me duró mi herida,
+que no me habláis, por mi vida,
+de vuestra hermana, y lo extraño.
+
+GUILLÉN. ¡Don Nuño!...
+
+NUÑO. Desque dejó
+el servicio de su Alteza,
+de contemplar su belleza,
+dura también me privó.
+¿Consiente al fin en unir
+su suerte a la suerte mía?
+¿Se muestra menos impía?
+
+GUILLÉN. Conde, ¿qué os puedo decir?
+En vano fue amenazar,
+y nada alcanzó mi ruego;
+esposa de Dios va luego
+a postrarse ante el altar.
+
+NUÑO. ¡Encerrarse en un convento!
+¿Eso prefiere más bien?
+
+GUILLÉN. En el de Jerusalén[35]
+va a profesar al momento.
+
+NUÑO. ¡Ingrata!
+
+GUILLÉN. Cuando el rumor
+llegó, don Nuño, a su oído
+de que había sucumbido
+en Velilla[36] el trovador,
+desesperada, llorosa...
+
+NUÑO. ¿Y no hay medio, don Guillén?..
+
+GUILLÉN. Ninguno; ni ya está bien...
+
+NUÑO. ¿Decís que aún no es religiosa?
+
+GUILLÉN. Pero lo[37] será muy luego.
+
+NUÑO. Iré yo a verla, yo iré;
+si es fuerza, la rogaré...
+
+GUILLÉN. Despreciará vuestro ruego.
+
+NUÑO. ¿Tan en extremo enojada
+está?
+
+GUILLÉN. ¿No sabéis, señor,
+que no hay tirano mayor
+como la mujer rogada?
+
+NUÑO. Pues bien, la arrebataré
+a los pies del mismo altar;[38]
+si ella no me quiere amar,
+yo a amarme la obligaré.
+
+GUILLÉN. ¡Conde!
+
+NUÑO. Sí, sí... loco estoy,
+no os enojéis; ni he querido
+ofender...
+
+GUILLÉN. Noble he nacido,
+y noble, don Nuño, soy.
+
+NUÑO. Basta; ya sé, don Guillén,
+que es ilustre vuestra cuna.
+
+GUILLÉN. Y jamás mancha ninguna
+la oscurecerá.
+
+NUÑO. Está bien;
+dejadme.
+
+GUILLÉN. ¿Quién más que yo
+éste enlace estimaría?
+Mas si amengua mi hidalguía,
+no quiero tal dicha, no.
+
+NUÑO. Decís bien.
+
+GUILLÉN. Si os ofendí...
+
+NUÑO. No; dejadme... fuera están
+mis criados; a Guzmán
+que entre[39] diréis.
+
+GUILLÉN. Lo haré así.
+
+
+
+
+ESCENA II
+
+DON NUÑO, _después_ GUZMÁN
+
+
+NUÑO. Gracias a Dios se fue ya,
+que por cierto me aburría.
+¡Qué vano con su hidalguía
+el buen caballero está!
+Si no me quiere servir
+será diligencia vana:
+o ha de ser mía su hermana,
+o por ella he de morir.
+
+GUZMÁN. ¿Señor?
+
+NUÑO. Cierra esa puerta.
+
+GUZMÁN. ¿Qué tenéis que mandarme?
+
+NUÑO. Siéntate.
+
+GUZMÁN. ¿En vuestra presencia, señor!
+
+NUÑO. Sí; quiero darte esta prueba más de mi aprecio;
+voy a encargarte de una comisión arriesgada... ¿te
+atreverás a hacer lo que te diga?
+
+GUZMÁN. A todo estoy pronto.
+
+NUÑO. Piénsalo bien.
+
+GUZMÁN. Aunque me costara la vida; podéis disponer
+de mí.
+
+NUÑO. Ya lo sé, Guzmán; nunca has dejado de serme
+fiel.
+
+GUZMÁN. Y lo seré siempre.
+
+NUÑO. Yo también sabré recompensarte. Bien conoces
+a doña Leonor de Sesé, y sabes lo que por ella he
+padecido.
+
+GUZMÁN. Demasiado, señor.
+
+NUÑO. Y hoy la voy a perder[40] para siempre si no me
+ayuda tu arrojo. Yo debía haberla olvidado; pero mi
+corazón, y tal vez mi orgullo, se han resentido ya en extremo...
+me es imposible no amarla. Cuando murió
+Manrique en el ataque de Velilla, creí que resignándose
+con su suerte, se tendría por muy dichosa en dar la mano
+al Conde de Luna, en llevar un apellido noble y brillante;
+me engañé... apenas podría creerlo; ha preferido encerrarse
+con su orgullo en un claustro. Hoy mismo[41] debe
+profesar en el convento de Jerusalén.
+
+GUZMÁN. ¡Hoy mismo!
+
+NUÑO. Sí; yo no quiero que este acto se verifique.
+
+GUZMÁN. ¿Cómo estorbarlo?
+
+NUÑO. ¿No comprendes?
+
+GUZMÁN. Mandad.
+
+NUÑO. Yo te prometo que nada te sucederá; el Rey
+acaba de hacerme Justicia mayor de Aragón; de consiguiente,
+contra ti no se hará justicia. El pueblo está
+consternado con la muerte violenta que han dado los
+rebeldes al Arzobispo; el Rey necesita de mí y de mis
+vasallos en estos momentos críticos; todo nos favorece.
+
+GUZMÁN. Cierto.
+
+NUÑO. ¿Cuál de mis criados te parece más a propósito
+para que vaya contigo?
+
+GUZMÁN. Ferrando.
+
+NUÑO. Dile que te acompañe; yo también le recompensaré.
+
+GUZMÁN. ¿Oís? (_Tocan a la puerta._)
+
+NUÑO. Abre.
+
+
+
+
+ESCENA III
+
+LOS MISMOS _y_ DON LOPE
+
+
+LOPE. Su Alteza os manda llamar, Conde.
+
+NUÑO. ¿Su Alteza?
+
+LOPE. Parece que está algo alborotada la ciudad con
+ciertas noticias que ha traído un corredor del ejército.
+
+NUÑO. ¿Pues qué hay?
+
+LOPE. Los rebeldes han entrado a saco[42] a Castellar[43] y
+se suena también que algunos de ellos se han introducido
+en Zaragoza, y que esta noche ha de haber revuelta.
+
+NUÑO. Imposible.
+
+LOPE. La ciudad está casi desierta; todos se han consternado;
+pero lo más particular...
+
+NUÑO. Así podrás con más facilidad... (_A parte a
+Guzmán._)
+
+GUZMÁN. Voy.
+
+NUÑO. Escucha: supongo que no encontrarás resistencia;
+si la hallares haz uso de la espada.
+
+GUZMÁN. ¿En la misma iglesia?
+
+NUÑO. En cualquier parte.
+
+LOPE. Verdad es que en un tiempo en que se matan
+arzobispos...
+
+NUÑO. Me has entendido... adiós.
+
+
+
+
+ESCENA IV
+
+DON NUÑO _y_ DON LOPE
+
+
+LOPE. Como decía, lo que más me ha admirado de todo
+ello, y lo que a vos sin duda también os sorprenderá, es la
+voz que corre de que el que acaudillaba a los rebeldes en
+la entrada del castillo era un difunto.
+
+NUÑO. ¡Don Lope!
+
+LOPE. ¿No adivináis quién sea?
+
+NUÑO. Yo... no conozco fantasmas.
+
+LOPE. Pues bien le conocíais, y le odiabais muy particularmente.
+
+NUÑO. ¿Quién?
+
+LOPE. El trovador.
+
+NUÑO. ¿Manrique! ¿No se encontró su cadáver en
+el combate de Velilla?
+
+LOPE. Así se dijo, aunque ninguno le conocía por su
+persona.
+
+NUÑO. ¿Si no era él!
+
+LOPE. No sería, o como más bien creo...
+
+NUÑO. ¿Qué?
+
+LOPE. Debe de haber[44] en esto algo de arte del diablo.
+
+NUÑO. ¡Silencio! ¿Os queréis burlar?
+
+LOPE. No, por mi vida.
+
+NUÑO. ¿Y está en el castillo?
+
+LOPE. No, en Zaragoza.
+
+NUÑO. ¿Aquí?
+
+LOPE. Así lo ha dicho quien le vio a la madrugada
+cerca de la puerta del Sol.[45]
+
+NUÑO. Y él será tal vez el caudillo de la trama...
+
+LOPE. Y es a lo menos el más osado, y por consiguiente
+el más a propósito.
+
+NUÑO. Pluguiera[46] a Dios que así fuese.
+
+LOPE. Nadie lo duda en la ciudad.
+
+NUÑO. ¿Decíais que me llamaba su Alteza?
+
+LOPE. Seguramente.
+
+NUÑO. Adiós, don Lope; esta noche los castigaremos
+si se atreven. 20
+
+LOPE. Yo lo espero...
+
+
+
+
+ESCENA V
+
+DON LOPE
+
+
+LOPE. Pues no las tengo yo todas conmigo[47]... y si los
+soldados son como el caudillo... ¡pardiez! un ejército de
+fantasmas, una falange espiritual.
+
+
+
+
+ESCENA VI
+
+En el fondo del teatro se verá la reja del locutorio de un
+convento; tres puertas, una al lado de la reja que comunica
+con el interior del claustro, otra a la derecha que va a la iglesia,
+y la otra a la izquierda, que figura ser la entrada de la calle.
+
+_Se dejan ver algunas religiosas en el locutorio; la puerta que
+está al lado de la reja se abre, y aparece_ LEONOR _apoyada
+del brazo de_ JIMENA; _las rodean algunos sacerdotes y
+religiosas_
+
+
+LEONOR. ¡Jimena!
+
+JIMENA. Al fin abandonas
+a tu amiga.
+
+LEONOR. Quiera[48] el cielo
+hacerte a ti más feliz,
+tanto como yo deseo.
+
+JIMENA. ¿Por qué obstinarte?
+
+LEONOR. Es preciso;
+ya no hay en el universo
+nada que me haga[49] apreciar
+esta vida que aborrezco.
+Aquí de Dios en las aras,
+no veré, amiga, a lo menos,
+a esos tiranos impíos
+que causa de mi mal fueron.
+
+JIMENA. Ni una esperanza...
+
+LEONOR. Ninguna;
+él murió ya.
+
+JIMENA. Tal vez luego
+se borrará de tu mente
+ese recuerdo funesto.
+
+El mal, como la ventura,
+todo pasa con el tiempo.
+
+LEONOR. Estoy resuelta; ya no hay
+felicidad, ni la quiero,
+en el mundo para mí;
+sólo morir apetezco.
+Acompáñame, Jimena.
+
+JIMENA. Estás temblando.
+
+LEONOR. Sí; tiemblo
+porque a ofender voy a Dios
+con pérfido juramento.
+
+JIMENA. ¿Qué decís?
+
+LEONOR. ¡Ay! Todavía
+delante de mí le tengo,
+y Dios, y el altar, y el mundo
+olvido cuando le veo.
+Y siempre viéndole estoy,
+amante, dichoso y tierno...
+mas no existe, es ilusión
+que imagina mi deseo.
+¡Vamos!
+
+JIMENA. ¡Leonor!
+
+LEONOR. Vamos pronto;
+le olvidaré, lo prometo.
+Dios me ayudará... sosténme,
+que apenas tenerme puedo.
+
+
+
+
+ESCENA VII
+
+_Queda la escena un momento sola; salen por la izquierda_ DON
+MANRIQUE _con el rostro cubierto con la celada, y_ RUIZ
+
+
+RUIZ. Éste es el convento.
+
+MANRIQUE. Sí,
+Ruiz, pero nada veo.
+¿Si te engañaron?
+
+RUIZ. No creo...
+
+MANRIQUE. ¿Estás cierto que era aquí?
+
+RUIZ. Señor, muy cierto.
+
+MANRIQUE. Sin duda
+tomó ya el velo.
+
+RUIZ. Quizá.
+
+MANRIQUE. Ya esposa de Dios será,
+ya el ara santa la escuda.
+
+RUIZ. Pero...
+
+MANRIQUE. Déjame, Ruiz;
+ya para mí no hay consuelo.
+¿Por qué me dio vida el cielo
+si ha de ser tan infeliz?
+
+RUIZ. ¿Mas qué causa pudo haber
+para que así consagrara
+tanta hermosura en el ara?
+Mucho debió padecer.
+
+MANRIQUE. Nuevas falsas de mi muerte
+en los campos de Velilla
+corrieron, cuando en Castilla
+estaba yo.
+
+RUIZ. De esa suerte...
+
+MANRIQUE. Persiguiéronla inhumanos
+que envidiaban nuestro amor,
+y ella busca al Redentor
+huyendo de sus tiranos.
+Si supiera que aún existo
+para adorarla... No, no...
+Ya olvidarte debo yo,
+esposa de Jesucristo...
+
+RUIZ. ¿Qué hacéis? Callad...
+
+MANRIQUE. Loco estoy...
+¿Y cómo no estarlo ¡ay cielo!
+si, infelice, mi consuelo
+pierdo y mis delicias hoy?
+No los perderé; Ruiz,
+déjame.
+
+RUIZ. ¿Qué vais a hacer?
+
+MANRIQUE. Pudiérala acaso ver...
+con esto fuera feliz.
+
+RUIZ. Aquí el locutorio está.
+
+MANRIQUE. Vete.
+
+RUIZ. Fuera estoy.
+
+
+
+
+ESCENA VIII
+
+MANRIQUE, _después_ GUZMÁN _y_ FERRANDO
+
+
+MANRIQUE. ¿Qué haré?
+Turbado estoy... ¿Llamaré?
+Tal vez orando estará.
+Acaso en este momento
+llora cuitada por mí.
+Nadie viene... por aquí...
+es la iglesia del convento.
+
+FERRANDO. Tarde llegamos, Guzmán.
+
+GUZMÁN. ¿Quién es este hombre?
+
+FERRANDO. No sé.
+
+(_Las religiosas cantarán dentro un responso; el canto no
+cesará hasta un momento después de la concluida de la
+jornada._)
+
+GUZMÁN. ¿Oyes el canto?
+
+FERRANDO. Sí, a fe.
+
+GUZMÁN. En la ceremonia están.
+
+MANRIQUE. ¿Qué escucho?... ¡Cielos! Es ella...
+(_Mirando a la puerta de la iglesia._)
+Allí está bañada en llanto,
+junto al altar sacrosanto,
+y con su dolor más bella.
+
+GUZMÁN. ¿No es ésa la iglesia?
+
+FERRANDO. Vamos.
+
+MANRIQUE. Ya se acercan hacia aquí.
+
+FERRANDO. Espérate.
+
+GUZMÁN. ¿Vienen?
+
+FERRANDO. Sí.
+
+MANRIQUE. No; que no me encuentre... huyamos.
+
+(_Quiere huir, pero deteniéndose de pronto se apoya vacilando
+en la reja del locutorio. Leonor, Jimena y el séquito
+salen de la iglesia y se dirigen a la puerta del claustro;
+pero al pasar al lado de Manrique, éste alza la visera,
+y Leonor, reconociéndole, cae desmayada a sus pies.
+Las religiosas aparecen en el locutorio llevando velas
+encendidas._)
+
+GUZMÁN. Esta es la ocasión... valor.
+
+LEONOR. ¿Quién es aquél? Mi deseo (_A Jimena_)
+me engaña... ¡Sí, es él!
+
+JIMENA. ¡Qué veo!
+
+LEONOR. ¡Ah! ¡Manrique!...
+
+GUZMÁN, FERRANDO. ¡El trovador! (_Huyen._)
+
+
+
+
+JORNADA TERCERA
+
+LA GITANA
+
+
+Interior de una cabaña; Azucena estará sentada cerca de una
+hoguera; Manrique a su lado de pie.
+
+
+
+
+ESCENA PRIMERA
+
+MANRIQUE _y_ AZUCENA
+
+
+AZUCENA, _canta_. Bramando está el pueblo indómito,
+de la hoguera en derredor;[50]
+al ver ya cerca la víctima,
+gritos lanza de furor.
+Allí viene; el rostro pálido,
+sus miradas de terror,
+brillan de la llama trémula
+al siniestro resplandor.[51]
+
+MANRIQUE. ¡Qué triste es esa canción!
+
+AZUCENA. Tú no conoces esa historia, aunque nadie
+mejor que tú pudiera saberla.
+
+MANRIQUE. ¿Yo?...
+
+AZUCENA. Te separaste tan niño[52] de mi lado ¡ingrato!
+Abandonaste a tu madre por seguir a un desconocido...
+
+MANRIQUE. A don Diego de Haro,[53] señor de Vizcaya.[54]
+
+AZUCENA. Pero que no te amaba tanto como yo.
+
+MANRIQUE. Mi objeto era el de haceros feliz. Las
+montañas de Vizcaya no podían suministrar a mi ambición
+recursos para elevarme a la altura de mis ilusiones. Seguí
+a don Diego hasta Zaragoza, porque se decidió a protegerme,
+y yo decía para mí: «Algún día sacaré a mi madre
+de la miseria»; pero vos no lo habéis querido.
+
+AZUCENA. No, yo soy feliz; yo no ambiciono alcázares[55]
+dorados; tengo bastante con mi libertad y con las montañas
+donde vivieron siempre nuestros padres.
+
+MANRIQUE. ¡Siempre!
+
+AZUCENA. Pero, hijo mío, la pobreza tiene muchos
+inconvenientes, y tu familia los ha experimentado muy
+terribles.
+
+MANRIQUE. ¿Mi familia?
+
+AZUCENA. Nada me has preguntado nunca acerca de
+ella.
+
+MANRIQUE. No me he atrevido... no sé por qué se
+me ha figurado que me habíais de contar alguna cosa
+horrible.
+
+AZUCENA. ¡Tienes razón, una cosa horrible!... Yo,
+para recordarlo, no podría menos de estremecerme...
+¿Ves esa hoguera? ¿Sabes tú lo que significa esa hoguera?
+Yo no puedo mirarla sin que se me despegue la carne de los
+huesos, y no puedo apartarla de mí, porque el frío de la
+noche hiela todo mi cuerpo.
+
+MANRIQUE. Pero, ¿por qué os habéis querido fijar en
+este sitio?
+
+AZUCENA. Porque este sitio tiene para mí recuerdos muy
+profundos... desde aquí se descubren los muros de Zaragoza...
+éste era, éste, el sitio donde murió.
+
+MANRIQUE. ¿Quién, madre mía?
+
+AZUCENA. Es verdad, tú no lo sabes, y sin embargo era
+mi madre, mi pobre madre, que nunca había hecho daño a
+nadie. ¡Pero dieron en decir[56] que era bruja!...
+
+MANRIQUE. ¿Vuestra madre?
+
+AZUCENA. Sí; la acusaron de haber hecho mal de ojo[57]
+al hijo de un caballero, de un Conde. No hubo compasión
+para ella, y la condenaron a ser quemada viva.
+
+MANRIQUE. ¡Qué horror!... Bárbaros... ¿Y lo consumaron?
+
+AZUCENA. En este mismo sitio, donde está esa hoguera.
+
+MANRIQUE. ¡Gran Dios!
+
+AZUCENA. Yo la seguía de lejos, llorando mucho; como
+quien llora por una madre. Llevaba yo a mi hijo en los
+brazos, a ti; mi madre volvió tres veces la cabeza para mirarme
+bendecirme. La última vez cerca del suplicio...
+allí me miró haciendo un gesto espantoso, y con una voz
+ahogada y ronca me gritó: «¡Véngame!» Aquella palabra...
+no la puedo olvidar... aquella palabra se grabó en
+mi alma, en todos mis sentidos, y yo juré vengarla de una
+manera horrorosa.
+
+MANRIQUE. Sí, ¿y la vengasteis... es verdad? Tendría
+un placer en saberlo. Mil crímenes, mil muertes no
+eran bastantes.
+
+AZUCENA. Pocos días después tuve ocasión de conseguirlo.
+Yo no hacía otra cosa que[58] rodear la casa del
+Conde que había sido causa de la muerte de aquella desgraciada...
+un día logré introducirme en ella y le arrebaté
+al niño, y dos minutos después ya estaba yo en este sitio,
+donde tenía preparada la hoguera.
+
+MANRIQUE. ¿Y tuvisteis valor?
+
+AZUCENA. El inocente lloraba y parecía querer implorar
+mi compasión... Tal vez me acariciaba,... Dios mío,
+yo no tuve valor... yo también era madre... (_Llorando._)
+
+MANRIQUE. ¿Y en fin?
+
+AZUCENA. Yo no había olvidado, sin embargo, a la
+infeliz que me había dado el ser; pero los lamentos de
+aquella infeliz criatura me desarmaban, me rasgaban el
+corazón. Esta lucha era superior a mis fuerzas, y bien
+pronto se apoderó de mí una convulsión violenta... yo
+oía confusamente los chillidos del niño y aquel grito que me
+decía: «¡Véngame!» Pero de repente, y como en un
+sueño, se me puso delante de los ojos aquel suplicio, los
+soldados con sus picas, mi madre desgreñada y pálida, que
+con paso trémulo caminaba despacio, muy despacio, hacia
+la muerte, y que volvía la cara para mirarme, para decirme:
+«¡Véngame!» Un furor desesperado se apoderó de mí, y
+desatentada y frenética, tendí las manos buscando una
+víctima; la encontré, la así con una fuerza convulsiva, y la
+precipité entre las llamas. Sus gritos horrorosos ya no
+sirvieron sino para sacarme de aquel enajenamiento mortal...
+abrí los ojos, los tendí a todas partes... la hoguera
+consumía una víctima, y el hijo del Conde estaba allí. (_Señalando
+a la izquierda._)
+
+MANRIQUE. ¡Desgraciada!
+
+AZUCENA. Había quemado a mi hijo.
+
+MANRIQUE. ¡Vuestro hijo! ¿Pues quién soy yo, quién?...
+Todo lo veo.
+
+AZUCENA. ¿Te he dicho que había quemado a mi
+hijo?... No... he querido burlarme de tu ambición...
+tú eres mi hijo; él del Conde, sí, él del Conde era él que
+abrasaban las llamas... ¿No quieres tú que yo sea tu
+madre?
+
+MANRIQUE. Perdonad.
+
+AZUCENA. ¡Ingrato! ¿No te he prodigado una ternura
+sin límites?
+
+MANRIQUE. Perdonad; merezco vuestras reconvenciones.
+Mil veces dentro en mi corazón, os lo confieso, he deseado
+que no fueseis mi madre, no porque no os quiera con toda
+el alma, sino porque ambiciono un nombre, un nombre que
+me falta. Mil veces digo para mí, si yo fuese un Lanuza,
+un Urrea...
+
+AZUCENA. ¡Un Artal![59]...
+
+MANRIQUE. No, un Artal, no, es apellido que detesto;
+primero el hijo de un confeso. Pero, a pesar de mi ambición,
+os amo, madre mía; no... yo no quiero sino ser
+vuestro hijo. ¿Qué me importa un nombre? Mi corazón
+es tan grande como él de un rey... ¿Qué noble ha
+doblado nunca mi brazo?
+
+AZUCENA. Sí, sí. ¿A qué ambicionar más?
+
+MANRIQUE. Aún no viene. (_Llegándose a la puerta._)
+
+AZUCENA. Pero sin embargo, estás muy triste... ¿Te
+devora algún pesar secreto? ¿Sientes tú haber nacido de
+unos padres sí humildes? No temas, yo no diré a nadie
+que soy tu madre, me contentaré con decírmelo a mí propia,
+y en vanagloriarme interiormente. ¿Estás contento?
+
+
+
+
+ESCENA II
+
+LOS MISMOS _y_ RUIZ
+
+
+MANRIQUE. Ahí está.
+
+AZUCENA. ¿Esperabas a ese hombre?
+
+MANRIQUE. Sí, madre.
+
+AZUCENA. No temas, no me verá. (_Se aparta a un lado._)
+
+RUIZ. ¿Estáis pronto?
+
+MANRIQUE. ¿Eres tú, Ruiz?
+
+RUIZ. El mismo; todo está preparado.
+
+MANRIQUE. Marchemos.
+
+
+
+
+ESCENA III
+
+AZUCENA
+
+
+AZUCENA. Se ha ido sin decirme nada, sin mirarme siquiera.
+¡Ingrato! No parece sino que conoce mi secreta...
+¡Ah! Que no sepa nunca[60]... Si yo le dijera: «Tú
+no eres mi hijo, tu familia lleva un nombre esclarecido, no
+me perteneces...» me despreciaría y me dejaría abandonada
+en la vejez. Estuvo en poco que no se lo descubriera[61]...
+¡Ah! No, no lo sabrá nunca. ¿Por qué le
+perdoné la vida sino para que fuera mi hijo?
+
+
+
+
+ESCENA IV
+
+_El teatro representa una celda; en el fondo, a la izquierda, habrá
+un reclinatorio, en el cual estará arrodillada_ LEONOR; _se
+ve un crucifijo pendiente de la pared delante del reclinatorio_
+
+
+LEONOR. Ya el sacrificio que odié
+mi labio trémulo y frió
+consumó... perdón, Dios mío,
+perdona si te ultrajé.
+Llorar triste y suspirar
+sólo puedo; ay, Señor, no...
+tuya no debo ser yo,
+recházame de tu altar.
+Los votos que allí te hiciera
+fueron votos de dolor,
+arrancados al temor
+de un alma tierna y sincera.
+Cuando en el ara fatal
+eterna fe te juraba
+mi mente ¡ay Dios! se extasiaba
+en la imagen de un mortal.
+Imagen que vive en mí,
+hermosa, pura y constante...
+No, tu poder no es bastante
+a separarla de aquí.
+Perdona, Dios de bondad;
+perdona, sé que te ofendo;
+vibra tu rayo tremendo,
+y confunde mi impiedad.
+Mas no puedo en mi inquietud
+arrancar del corazón
+esta violenta pasión,
+que es mayor que mi virtud.
+Tiempos en que amor solía
+calmar piadoso mi afán,
+¿qué os hicisteis?[62] ¿Dónde están
+vuestra gloria y mi alegría?
+¿De amor el suspiro tierno
+y aquel placer sin igual,
+tan breve para mi mal
+aunque en mi memoria eterno?
+Ya pasó... mi juventud
+los tiranos marchitaron,
+y a mi vida prepararon
+junto al altar el ataúd.
+Ilusiones engañosas,
+livianas como el placer,
+no aumentéis mi padecer...
+¡Sois por mi mal tan hermosas!
+
+(_Una voz, acompañada de un laúd, canta las siguientes
+estrofas después de un breve preludio, Leonor manifiesta
+entre tanto la mayor agitación._)
+
+Camina orillas del Ebro
+caballero lidiador,
+puesta en la cuja la lanza
+que mil contrarios venció.
+Despierta, Leonor,
+Leonor.
+
+Buscando viene anhelante
+a la prenda[63] de su amor,
+a su pesar consagrada
+en los altares de Dios.
+Despierta, Leonor,
+Leonor.
+
+LEONOR. Sueños, dejadme gozar...
+no hay duda... él es... Trovador...
+(_Viendo entrar a_ MANRIQUE.)
+¿será posible?...
+
+MANRIQUE. ¡Leonor!
+
+LEONOR. ¡Gran Dios! Ya puedo espirar.
+
+
+
+
+ESCENA V
+
+MANRIQUE _y_ LEONOR
+
+
+MANRIQUE. Te encuentro al fin, Leonor.
+
+LEONOR. Huye; ¿qué has hecho?
+
+MANRIQUE. Vengo a salvarte, a quebrantar osado
+los grillos que te oprimen, a estrecharte
+en mi seno, de amor enajenado.
+¿Es verdad, Leonor? Dime si es cierto
+que te estrecho en mis brazos, que respiras
+para colmar hermosa mi esperanza,
+y que extasiada de placer me miras.
+
+LEONOR. ¡Manrique!
+
+MANRIQUE. Sí; tu amante que te adora
+más que nunca feliz.
+
+LEONOR. ¡Calla!...
+
+MANRIQUE. No temas;
+todo en silencio está como el sepulcro.
+
+LEONOR. ¡Ay! Ojalá que en él feliz durmiera
+antes que delincuente profanara,
+torpe esposa de Dios, su santo velo.
+
+MANRIQUE. ¡Su esposa tú!... Jamás.
+
+LEONOR. Yo desdichada,
+Yo no ofendiera con mi llanto al cielo.[64]
+
+MANRIQUE. No, Leonor; tus votos indiscretos
+no complacen a Dios; ellos le ultrajan.
+¿Por qué temes? Huyamos; nadie puede
+separarme de ti... ¿Tiemblas?... ¿Vacilas?
+
+LEONOR. ¡Sí; Manrique!... ¡Manrique!... Ya no puede
+ser tuya esta infeliz; nunca... mi vida,
+aunque llena de horror y de amargura,
+ya consagrada está, y eternamente,
+en las aras de un Dios omnipotente.
+Peligroso mortal, no más te goces
+envenenando ufano mi existencia;
+demasiado sufrí, déjame al menos
+que triste muera aquí con mi inocencia.
+
+MANRIQUE. ¡Esto aguardaba yo! ¡Cuando creía
+que más que nunca enamorada y tierna
+me esperabas ansiosa, así te encuentro,
+sorda a mi ruego y a mis halagos fría!
+¿Y tiemblas, di, de abandonar las aras
+donde tu puro afecto y tu hermosura
+sacrificaste a Dios...? ¡Pues qué![65]... ¿No fueras
+antes conmigo que con Dios perjura?
+Sí; en una noche...
+
+LEONOR. ¡Por piedad!
+
+MANRIQUE. ¿Te acuerdas?
+En una noche plácida y tranquila...
+¡Qué recuerdo, Leonor! Nunca se aparta
+de aquí, del corazón; la luna hería
+con moribunda luz tu frente hermosa,
+y de la noche el aura silenciosa
+nuestros suspiros tiernos confundía.
+«Nadie cual yo te amó,» mil y mil veces
+me dijiste falaz: «Nadie en el mundo
+como yo puede amar»; y yo, insensato,
+fiaba en tu promesa seductora,
+y feliz y extasiado en tu hermosura,
+con mi esperanza allí me halló la aurora.
+¡Quimérica esperanza! ¡Quién diría
+que la que tanto amor así juraba,
+juramento y amor olvidaría!
+
+LEONOR. Ten de mí compasión; si por ti tiemblo,
+por ti y por mi virtud, ¿no es harto triunfo?
+Sí; yo te adoro aún; aquí, en mi pecho,
+como un raudal de abrasadora llama
+que mi vida consume, eternos viven
+tus recuerdos de amor; aquí, y por siempre,
+por siempre aquí estarán, que en vano quiero,
+bañada en lloro, ante el altar postrada,
+mi pasión criminal lanzar del pecho.
+
+No encones más mi endurecida llaga;
+si aún amas a Leonor, huye, te ruego;
+libértame de ti.
+
+MANRIQUE. ¡Que huya me dices!...
+¡Yo, que sé que me amas!
+
+LEONOR. No, no creas...
+no puedo amarte yo... si te lo he dicho,
+si perjuro mi labio te engañaba,
+¿lo pudiste creer?... Yo lo decía,
+pero mi corazón... te idolatraba.
+
+MANRIQUE. ¡Encanto celestial! Tanta ventura
+puedo apenas creer.
+
+LEONOR. ¿Me compadeces?...
+
+MANRIQUE. Ese llanto, Leonor, no me lo ocultes;
+deja que ansioso en mi delirio goce
+un momento de amor; injusto he sido,
+injusto para ti... vuelve tus ojos,
+y mírame risueño y sin enojos.
+¿Es verdad que en el mundo no hay delicia
+para ti sin mi amor?
+
+LEONOR. ¿Lo dudas?...
+
+MANRIQUE. Vamos...
+pronto huyamos de aquí.
+
+LEONOR. ¡Si ver pudieses
+la lucha horrenda que mi pecho abriga!
+¿Qué pretendes de mí? ¿Que infame, impura,
+abandone el altar, y que te siga
+amante tierna a mi deber perjura?
+Mírame aquí a tus pies, aquí te imploro
+que del seno me arranques de la dicha;
+tus brazos son mi altar, seré tu esposa,
+y tu esclava seré; pronto, un momento,
+un momento pudiera descubrirnos
+y te perdiera entonces.
+
+MANRIQUE. ¡Ángel mío!
+
+LEONOR. Huyamos, sí... ¿No ves allí en el claustro
+una sombra?... ¡Gran Dios!
+
+MANRIQUE. No hay nadie, nadie...
+fantástica ilusión.
+
+LEONOR. ¡Ven, no te alejes;
+tengo un miedo! No, no... te han visto... vete...
+pronto, vete por Dios... mira el abismo
+bajo mis pies abierto; no pretendas
+precipitarme en él.
+
+MANRIQUE. Leonor, respira,
+respira por piedad; yo te prometo
+respetar tu virtud y tu ternura.
+No alienta; sus sentidos trastornados...
+me abandonan sus brazos... no, yo siento
+su seno palpitar... Leonor, ya es tiempo
+de huir de esta mansión, pero conmigo
+vendrás también. Mi amor, mis esperanzas,
+tú para mí eres todo, ángel hermoso.
+¿No me juraste amarme eternamente
+por el Dios que gobierna el firmamento?
+Ven a cumplirme, ven, tu juramento.
+
+
+
+
+ESCENA VI
+
+Calle corta;[66] a la izquierda se ve la fachada de una iglesia
+
+
+RUIZ _y un momento después_ UN SOLDADO
+
+RUIZ. ¡Es mucho tardar! Me temo que esta dilación...
+¡Oiga! ¿Quién va?
+
+SOLDADO. ¿Ruiz?
+
+RUIZ. El mismo. ¡Ah! ¿Eres tú? ¿Ha llegado la
+gente?
+
+SOLDADO. Ya está cerca del muro, la puerta está guardada.
+
+RUIZ. ¿Cómo! ¡Alguno nos ha vendido tal vez?
+
+SOLDADO. El Rey ha salido esta noche de la ciudad.
+
+RUIZ. Algo ha sabido.
+
+SOLDADO. Sin duda. ¿Con cuántos hombres podemos
+contar dentro de la ciudad?
+
+RUIZ. Apenas llegan a ciento.
+
+SOLDADO. Bastan para atacar la puerta si nos ayudan
+los de fuera.
+
+RUIZ. Dices bien.
+
+SOLDADO. Vamos.
+
+RUIZ. (¿Y don Manrique?)
+
+SOLDADO. ¿Temes?
+
+RUIZ. ¡Yo!... No; pero queda mi señor todavía en el
+convento.
+
+SOLDADO. ¡Diablo! Ya... pero es cosa de un momento;
+un ataque imprevisto por la espalda y por la frente[67]...
+después ya no corre peligro.
+
+RUIZ. Vamos.
+
+
+
+
+ESCENA VII
+
+LEONOR _y_ MANRIQUE
+
+
+MANRIQUE. Alienta; en salvo estamos.
+
+LEONOR. ¡Ay!
+
+MANRIQUE. Ya vuelve[68]...
+
+LEONOR. ¿Dónde estoy?
+
+MANRIQUE. En mis brazos, Leonor. (_Se oye dentro
+ruido lejano de armas._)
+
+LEONOR. ¿Qué rumor es ése?...
+
+MANRIQUE. ¡Cielos!... Tal vez...
+
+LEONOR. ¿Adonde me llevas? Suéltame por Dios...
+¿no ves que te pierdes?
+
+MANRIQUE. ¿Qué me importa, si no te pierdo a ti?
+
+LEONOR. ¿Pero qué significa ese ruido?
+
+MANRIQUE. No es nada, nada.
+
+LEONOR. Ese resplandor... esas luces que se divisan
+a lo lejos.
+
+MANRIQUE. Es verdad, pero no temas, estoy a tu lado...
+
+LEONOR. ¿No oyes estruendo de armas?
+
+MANRIQUE. Sí, confusamente se percibe.
+
+LEONOR. ¿Si vienen en nuestra busca?
+
+MANRIQUE. No puede ser.
+
+LEONOR. Pero esos hombres que se acercan... he distinguido
+los penachos.
+
+MANRIQUE. No temas.
+
+LEONOR. ¿Qué van a hacer contigo? Huye, huye por
+Dios.
+
+MANRIQUE. Si fueran mis soldados...
+
+LEONOR. Vete; se acercan... ¿No lo ves? ¡Es el
+Conde!
+
+MANRIQUE. Don Nuño. ¡Es verdad...! ¡Gran Dios!
+¿Y he de perderte? (_Se oye tocar a rebato._)
+
+LEONOR. ¿Escuchas?
+
+MANRIQUE. Sí; ésta es la señal.
+
+DENTRO. Traición, traición.
+
+MANRIQUE. Estamos libres. (_Desenvainando la espada._)
+
+DENTRO. ¡Traición!
+
+LEONOR. ¿Qué haces?
+
+
+
+
+ESCENA VIII
+
+_En este momento salen por la izquierda_ DON NUÑO, DON
+GUILLÉN, DON LOPE _y_ SOLDADOS _con luces, y por la
+derecha_ RUIZ _y varios soldados que se colocan al lado de_
+DON MANRIQUE, _éste defenderá a_ LEONOR, _ocultándose
+entre los suyos[69] y peleando con_ DON GUILLÉN _y_ DON
+NUÑO; _entre tanto no cesarán de tocar a rebato._
+
+
+MANRIQUE. Aquí, mis valientes.
+
+NUÑO. El es.
+
+GUILLÉN. Traidor.
+
+LEONOR. Piedad, piedad.
+
+
+
+
+JORNADA CUARTA
+
+LA REVELACIÓN
+
+
+El teatro representa un campamento con varias tiendas; algunos
+soldados se pasean por el fondo.
+
+
+
+
+ESCENA PRIMERA
+
+DON NUÑO, DON GUILLÉN, _y_ JIMENO
+
+
+NUÑO. Bien venido, don Guillén;
+ya cuidadoso esperaba
+vuestra vuelta... ¿Qué habéis visto?
+
+GUILLÉN. Como mandasteis, al alba
+salí a explorar todo el campo.
+y me interné en la montaña.
+
+NUÑO. ¿No encontrasteis los rebeldes?
+
+GUILLÉN. Encerrados nos aguardan
+en Castellar.
+
+NUÑO. ¿Nos esperan!
+
+GUILLÉN. A tanto llega su audacia.
+
+NUÑO. ¿Sabéis si está don Manrique?
+
+GUILLÉN. Don Manrique es quien los manda.
+
+NUÑO. Albricias, don Guillén, hoy
+recobraréis vuestra hermana.
+
+GUILLÉN. No sabéis cuál lo deseo,
+por lavar la torpe mancha
+que esa pérfida ha estampado
+en el blasón de mis armas.
+Allí con su seductor...
+no quiero pensarlo... ¡infamia
+inaudita! Y está allí...
+¿y yo no voy a arrancarla
+con el corazón villano
+el torpe amor que la abrasa?
+
+NUÑO. Sosegáos.
+
+GUILLÉN. No; no sosiega
+el que así de su prosapia
+ve el blasón envilecido...
+Honrado nací en mi casa,
+y a la tumba de mis padres
+bajará mi honor sin mancha.
+
+NUÑO. Sin mancha, yo os lo prometo.
+
+GUILLÉN. ¡El traidor! ¡Que se escapara[70]
+la noche que en Zaragoza
+entre el rumor de las armas,
+la arrancó del claustro!
+
+NUÑO. En vano
+perseguirle procuraba;
+se me ocultó entre los suyos[71]...
+
+GUILLÉN. Que bien pagaron su audacia.
+
+NUÑO. Que levanten esas tiendas
+para ponernos en marcha
+al instante... ¡Nos esperan!
+¿Tienen mucha gente?
+
+GUILLÉN. Basta
+para guardar el castillo
+la que he visto... y bien armada.
+Catalanes[72] son los más,
+y toda gente lozana.
+
+NUÑO. No importa; de Zaragoza
+hoy nos llegaron cien lanzas
+y seiscientos ballesteros,
+que nos hacían gran falta.[73]
+No se escaparán si Dios
+quiere ayudar nuestra causa.
+¿Qué ruido es ése?
+(_Se oye dentro rumor y algazara._)
+
+
+
+
+ESCENA II
+
+LOS MISMOS _y_ GUZMÁN
+
+
+GUZMÁN. ¿Señor?
+
+NUÑO. ¿Qué motiva esa algazara?
+¿Qué traéis?
+
+GUZMÁN. Vuestros soldados,
+que por el campo rondaban,
+han preso a una bruja.
+
+NUÑO. ¿Qué?
+
+GUZMÁN. Sí, Señor, a una gitana.
+
+NUÑO. ¿Por qué motivo?
+
+GUZMÁN. Sospechan,
+al ver que de huir trataba
+cuando la vieron, que venga
+a espiar.
+
+NUÑO. ¿Y por qué arman
+ese alboroto?[74] ¿Qué es eso?
+(_Mirando adentro._)
+
+GUZMÁN. ¿No veis como la maltratan?
+
+NUÑO. Traédmela, y que ninguno
+sea atrevido[75] a tocarla.
+
+
+
+
+ESCENA III
+
+LOS MISMOS _y_ AZUCENA, _conducida por_ SOLDADOS _y
+con las manos atadas_
+
+
+AZUCENA. Defendedme de esos hombres
+que sin compasión me matan...
+defendedme...
+
+NUÑO. Nada temas;
+nadie te ofende.
+
+AZUCENA. ¿Qué causa
+he dado para que así
+me maltraten?
+
+GUILLÉN. ¡Desgraciada!
+
+NUÑO. ¿A dónde ibas?
+
+AZUCENA. No sé...
+por el mundo; una gitana
+por todas partes camina,
+y todo el mundo es su casa.
+
+NUÑO. ¿No estuvisteis en Aragón
+nunca?
+
+AZUCENA. Jamás.
+
+JIMENO. ¡Esa cara!
+
+NUÑO. ¿Vienes de Castilla?
+
+AZUCENA. No;
+vengo, Señor, de Vizcaya,
+que la luz primera vi
+en sus áridas montañas.
+Por largo tiempo he vivido
+en sus crestas elevadas,
+donde, pobre y miserable,
+por dichosa me juzgaba.
+Un hijo solo tenía,
+y me dejó abandonada;
+voy por el mundo a buscarle,
+que no tengo otra esperanza.
+¡Y le quiero tanto! El es
+el consuelo de mi alma,
+Señor, y el único apoyo
+de mi vejez desdichada.
+¡Ay! Sí... Dejadme, por Dios,
+que a buscar a mi hijo vaya,
+y a esos hombres tan crueles
+decid que mal no me hagan.
+
+GUZMÁN. Me hace sospechar, don Nuño.
+
+NUÑO. Teme, mujer, si me engañas.
+
+AZUCENA. ¿Queréis que os lo jure?
+
+NUÑO. No;
+mas ten cuenta que te habla
+el Conde de Luna.
+
+AZUCENA. ¡Vos! (_Sobresaltada._)
+¿Sois vos? (¡Gran Dios!)
+
+JIMENO. ¡Esa cara!
+Esa turbación...
+
+AZUCENA. Dejadme...
+permitidme que me vaya...
+
+JIMENO. ¿Irte?... Don Nuño, prendedla.
+
+AZUCENA. Por piedad, no... ¡Qué! ¿No bastan
+los golpes de esos impíos,
+que de dolor me traspasan?
+
+NUÑO. Que la suelten.
+
+JIMENO. No, don Nuño.
+
+NUÑO. Está loca.
+
+JIMENO. Esa gitana
+es la misma que a don Juan,
+vuestro hermano...
+
+NUÑO. ¿Qué oigo!
+
+AZUCENA. ¡Calla!
+No se lo digas, cruel,
+que si lo sabe me mata.
+
+NUÑO. Atadla bien.
+
+AZUCENA. Por favor,
+que esas cuerdas me quebrantan
+las manos... ¡Manrique, hijo,
+ven a librarme!
+
+GUILLÉN. ¿Qué habla?
+
+AZUCENA. Ven, que llevan a morir
+a tu madre.
+
+NUÑO. ¡Tú, inhumana,
+tú fuiste!
+
+AZUCENA. No me hagáis mal,
+os lo pido arrodillada...
+Tened compasión de mí.
+
+NUÑO. Llevadla de aquí... Apartadla
+de mi vista.
+
+AZUCENA. No fui yo;
+ved, don Nuño, que os engañan.
+
+
+
+
+ESCENA IV
+
+LOS MISMOS, _menos_ AZUCENA _y los_ SOLDADOS
+
+
+NUÑO. Tomad, don Lope, cien hombres,
+y a Zaragoza llevadla;
+vos de ella me respondéis
+con vuestra cabeza.
+
+GUILLÉN. ¿Marcha
+el campo?
+
+NUÑO. Sí, a Castellar.
+¡Es hijo de una gitana!...
+¿No lo oisteis, don Guillén,
+que a Manrique demandaba?
+
+GUILLÉN. Sí, sí...
+
+NUÑO. Pronto a Castellar,
+que esta tardanza me mata...
+yo os prometo no dejar
+una piedra en sus murallas.
+
+
+
+
+ESCENA V
+
+Habitación de Leonor en la torre de Castellar, con dos puertas
+laterales.
+
+
+LEONOR _y_ RUIZ
+
+
+RUIZ. ¿Qué mandarme tenéis?
+
+LEONOR. ¿Y don Manrique?
+
+RUIZ. Aún reposando está.
+
+(_Leonor hace una seña, y se retira Ruiz._)
+
+LEONOR. Duerme tranquilo,
+mientras rugiendo atroz sobre tu frente
+rueda la tempestad, mientras llorosa
+tu amante criminal tiembla azorada.
+¿Cuál es mi suerte? ¡Oh Dios! ¿Por qué tus aras
+ilusa abandoné? La paz dichosa
+que allí bajo las bóvedas sombrías
+feliz gozaba tu perjura esposa...
+¿Esposa yo de Dios? No puedo serlo;
+jamás, nunca lo fui... tengo un amante
+que me adora sin fin, y yo le adoro,
+que no puedo olvidar sólo un instante.
+
+Y con eternos vínculos el crimen
+a su suerte me unió... nudo funesto,
+nudo de maldición que allá en su trono
+enojado maldice un Dios terrible.
+
+
+
+
+ESCENA VI
+
+LEONOR _y_ MANRIQUE
+
+
+LEONOR. ¡Manrique! ¿Eres tú?
+
+MANRIQUE. Sí, Leonor querida.
+
+LEONOR. ¿Qué tienes?
+
+MANRIQUE. Yo no sé...
+
+LEONOR. ¿Por qué temblando
+tu mano está? ¿Qué sientes?
+
+MANRIQUE. Nada, nada.
+
+LEONOR. En vano me lo ocultas.
+
+MANRIQUE. Nada siento.
+Estoy bueno... ¿Qué dices? ¿Que temblaba
+mi mano?... No... ilusión... nunca he temblado.
+¿Ves cómo estoy tranquilo?
+
+LEONOR. De otra suerte
+me mirabas ayer... tu calma fría
+es la horrorosa calma de la muerte.
+¿Pero qué causa, dime, tus pesares?
+
+MANRIQUE. ¿Quieres que te lo diga?
+
+LEONOR. Sí, lo quiero.
+
+MANRIQUE. Ningún temor real; nada que pueda
+hacerte a ti infeliz ni entristecerte
+causa mi turbación... mi madre un día
+me contó cierta historia, triste, horrible,
+que no puedes saber, y desde entonces
+como un espectro me persigue eterna
+una imagen atroz... no lo creyeras,
+y a contártelo yo,[76] te estremecieras.
+
+LEONOR. Pero...
+
+MANRIQUE. No temas, no; tan sólo ha sido[77]
+un sueño, una ilusión, pero horrorosa...
+un sudor frío aún por mi frente corre.
+Soñaba yo que en silenciosa noche,
+cerca de la laguna que el pie besa
+del alto Castellar, contigo estaba.
+Todo en calma yacía; algún gemido
+melancólico y triste
+sólo llegaba lúgubre a mi oído.
+Trémulo como el viento, en la laguna
+triste brillaba el resplandor siniestro
+de amarillenta luna.
+Sentado allí en su orilla y a tu lado
+pulsaba yo el laúd, y en dulce trova
+tu belleza y mi amor tierno cantaba,
+y en triste melodía
+el viento, que en las aguas murmuraba,
+mi canto y tus suspiros repetía.
+Mas súbito, azaroso, de las aguas
+entre el turbio vapor, cruzó luciente
+relámpago de luz que hirió un instante
+con brillo melancólico tu frente.
+Yo vi un espectro que en la opuesta orilla
+como ilusión fantástica vagaba
+con paso misterioso
+y un quejido lanzando lastimoso
+que el nocturno silencio interrumpía,
+ya triste nos miraba,
+ya con rostro infernal se sonreía.
+De pronto el huracán cien y cien truenos
+retemblando sacude,
+y mil rayos cruzaron,
+y el suelo y las montañas
+a su estampido horrísono temblaron.
+Y envuelta en humo la feroz fantasma,
+huyó, los brazos hacia mí tendiendo.
+«¡Véngame!» dijo, y se lanzó a las nubes;
+«¡Véngame!» por los aires repitiendo.
+Frío con el pavor tendí los brazos
+a donde estabas tú... tú ya no estabas,
+y sólo hallé a mi lado
+un esqueleto, y al tocarle osado,[78]
+en polvo se deshizo, que violento
+llevose al punto retronando el viento.
+Yo desperté azorado; mi cabeza
+hecha estaba un volcán, turbios mis ojos;
+mas logro verte al fin, tierna, apacible,
+y tu sonrisa calma mis enojos.[79]
+
+LEONOR. ¿Y un sueño solamente
+te atemoriza así?
+
+MANRIQUE. No; ya no tiemblo,
+ya todo lo olvidé... mira, esta noche
+partiremos al fin de este castillo...
+no quiero estar aquí.
+
+LEONOR. Temes acaso...
+
+MANRIQUE. Tiemblo perderte; numerosa hueste
+del rey usurpador viene a sitiarnos,
+y este castillo es débil con extremo;
+nada temo por mí, mas por ti temo.
+
+
+
+
+ESCENA VII
+
+LOS MISMOS _y_ RUIZ
+
+
+MANRIQUE. ¿Qué me vienes a anunciar?
+
+RUIZ. Señor, ya el Conde marchando
+con la gente de su bando
+se dirige a Castellar.
+Todo lo lleva a cuchillo[80]
+y por los montes avanza,
+sin duda con la esperanza
+de poner cerco al castillo.
+
+MANRIQUE. No osarán, que son traidores,
+y es cobarde la traición.
+
+RUIZ. Estas las noticias son
+que traen nuestros corredores.
+Demás, por lo que advirtieron,
+añaden que esta mañana
+han cogido una gitana
+que venir hacia acá vieron.
+
+MANRIQUE. ¿Una gitana?... ¿Y quién era?
+
+RUIZ. ¿Quién puede saberlo... pues...?
+
+MANRIQUE. ¡Cielos!
+
+RUIZ. Vieja dicen que es,
+con sus puntas de hechicera.[81]
+
+MANRIQUE. (¡Es ella!... ¿Y podré salvarla?...)
+Avisa que a partir vamos...
+ármense todos... (Corramos
+a lo menos a vengarla.)
+
+LEONOR. ¿Qué dices?... Partir...
+
+MANRIQUE. Sí, sí...
+¿qué te detiene?
+
+RUIZ. Señor...
+
+MANRIQUE. Pronto, o teme mi furor.
+
+LEONOR. ¿Y me dejarás aquí?
+
+
+
+
+ESCENA VIII
+
+MANRIQUE _y_ LEONOR
+
+
+MANRIQUE. Un secreto, Leonor...
+sé que vas a despreciarme;
+ya era tiempo... esa gitana,
+ésa, Leonor, es mi madre.
+
+LEONOR. ¡Tu madre!
+
+MANRIQUE. Llora si quieres;
+maldíceme porque infame
+uní tu orgullosa cuna
+con mi cuna miserable.
+Pero déjame que vaya
+a salvarla si no es tarde;
+si ha muerto, la vengaré
+de su asesino cobarde.
+
+LEONOR. ¡Eso me faltaba!...
+
+MANRIQUE. Sí;
+yo no debía engañarte
+por más tiempo... Vete, vete;
+soy un hombre despreciable.
+
+LEONOR. Nunca para mí.
+
+MANRIQUE. Eres noble,
+y yo, ¿quién soy? Ya lo sabes.
+Vete a encerrar con tu orgullo
+bajo el techo de tus padres.
+
+LEONOR. ¡Con mi orgullo! Tú te gozas,
+cruel, en atormentarme.
+Ten piedad...
+
+MANRIQUE. Pero soy libre
+y fuerte para vengarme...
+Y me vengaré... ¿Lo dudas?
+
+LEONOR. Si necesitas mi sangre,
+aquí la tienes.
+
+MANRIQUE. ¡Leonor!
+¡Qué desgraciada en amarme
+has sido! ¿Por qué, infeliz,
+mis amores escuchaste?
+¿Y no me aborreces?
+
+LEONOR. No.
+
+MANRIQUE. ¿Sabes que presa mi madre
+espera tal vez la muerte?
+¡Venganza infame y cobarde!
+¿qué espero yo...?
+
+LEONOR. Ven... No vayas...
+Mira, el corazón me late,
+y fatídico me anuncia
+tu muerte.
+
+MANRIQUE. ¡Llanto cobarde!
+Por una madre morir,
+Leonor, es muerte envidiable.
+¿Quisieras tú que temblando
+viera derramar su sangre,
+o si salvarla pudiera
+por salvarla no lidiase?
+
+LEONOR. Pues bien, iré yo contigo;
+allí correré a abrazarte
+entre el horror y el estruendo
+del fratricido[82] combate.
+Yo opondré mi pecho al hierro
+que tu vida amenazare;
+sí, y a falta de otro muro,
+muro será mi cadáver.
+
+MANRIQUE. Ahora te conozco, ahora
+te quiero más.
+
+LEONOR. Si tú partes,
+iré contigo; la muerte
+a tu lado ha de encontrarme.
+
+MANRIQUE. Venir tú... no; en el castillo
+queda custodia bastante
+para ti... ¿Escuchas? Adiós.
+
+(_Suena un clarín._)
+
+El clarín llama al combate.
+
+LEONOR. Un momento...
+
+MANRIQUE. Ya no puedo
+detenerme ni un instante.
+
+
+
+
+ESCENA IX
+
+LEONOR
+
+
+LEONOR. Manrique, espera... Partió
+sin escucharme... ¡Inhumano!
+¿Por qué con delirio insano
+mi corazón le adoró?
+¿Y es éste tu amor? ¡Ay! Ven...
+No burles así tu suerte,
+que allí te espera la muerte,
+y está en mis brazos tu bien.
+Ya no escuchas el clamor
+de aquella Leonor querida...
+
+(_Vuelve a sonar el clarín._)
+
+¡Gran Dios! Protege su vida,
+te lo pido por tu amor.
+
+
+
+
+JORNADA QUINTA
+
+EL SUPLICIO
+
+Inmediaciones de Zaragoza; a la izquierda vista de uno de
+los muros del palacio de la Aljafería, con una ventana cerrada
+con una fuerte reja.
+
+
+
+
+ESCENA PRIMERA
+
+LEONOR _y_ RUIZ
+
+
+RUIZ. Ya estamos en Zaragoza
+y es bien entrada la noche;
+nadie conoceros puede.
+
+LEONOR. Ruiz di, ¿No es ésta la torre
+de la Aljafería?
+
+RUIZ. Sí.
+
+LEONOR. ¿Están aquí las prisiones?
+
+RUIZ. Ahí se suelen custodiar
+los que a su rey son traidores.
+
+LEONOR. ¿Trajiste lo que te dije?
+
+RUIZ. Aquí está;
+
+(_Saca un pomo de plata, que entrega a Leonor._)
+
+por un jarope
+que no vale seis cornados[83]...
+
+LEONOR. El precio nada te importe.
+Toma esa cadena tú.
+
+RUIZ. Judío al fin.
+
+LEONOR. No te enojes.
+
+RUIZ. Diez maravedís de plata
+me llevó el Iscariote.
+
+LEONOR. Vete ya, Ruiz.
+
+RUIZ. ¿Os quedáis
+sola aquí? No, que me ahorquen
+primero...
+
+LEONOR. Quiero estar sola.
+
+RUIZ. Si os empeñáis... Buenas noches.
+
+
+
+
+ESCENA II
+
+LEONOR
+
+
+LEONOR. Esa es la torre; allí está,
+y maldiciendo su suerte
+espera triste la muerte,
+que no está lejos quizá.
+¡Esas murallas sombrías,
+esas rejas y esas puertas,
+al féretro sólo abiertas,
+verán tus últimos días!
+¿Por qué tan ciega le amé?
+¡Infeliz! ¿Por qué, Dios mío,
+con amante desvarío
+mi vida le consagré?
+Mi amor te perdió, mi amor...
+yo mi cariño maldigo,
+pero moriré contigo
+con veneno abrasador.
+¡Si me quisiera escuchar
+el Conde!... Si yo lograra
+librarte así, ¿qué importara?...
+Sí; voy tu vida a salvar.
+A salvarte... No te asombre
+si hoy olvido mi desdén.
+
+UNA VOZ, _dentro_. Hagan bien para hacer bien
+por el alma de este hombre.[84]
+
+LEONOR. Ese lúgubre clamor...
+¿O tal vez lo escuché mal?
+No, no... ¡Ya la hora fatal
+ha llegado, trovador!
+Manrique, partamos ya,
+no perdamos un instante.
+
+DENTRO. ¡Ay!
+
+LEONOR. Esa voz penetrante...
+¡Si no fuera tiempo ya!
+
+(_Al querer partir se oye tocar un laúd; un momento después
+canta dentro Manrique._)
+
+Despacio viene la muerte,
+que está sorda a mi clamor;
+para quien morir desea
+despacio viene, por Días.
+¡Ay! Adiós, Leonor,
+Leonor.
+
+LEONOR. ¡El es; y desea morir
+cuando su vida es mi vida!
+¡Si así me viera afligida
+por él al cielo pedir!...
+
+MANRIQUE, _dentro_. No llores si a saber llegas
+que me matan por traidor,
+que el amarte es mi delito,
+y en el amor no hay baldón.
+¡Ay! Adiós, Leonor,
+Leonor.
+
+LEONOR. ¡Que no llore yo, cruel!
+No sabe cuánto le quiero.
+¡Que no llore, cuando muero
+en mi juventud por él!
+Si a esa reja te asomaras
+y a Leonor vieras aquí,
+tuvieras piedad de mí
+y de mi amor no dudaras.
+Aquí te buscan mis ojos,
+a la luz de las estrellas,
+y oigo, a par de tus querellas,
+el rumor de los cerrojos.
+Y oigo en tu labio mi nombre
+con mil suspiros también.
+
+UNA VOZ, _dentro_. Hagan bien para hacer bien
+por el alma de este hombre.
+
+LEONOR. No, no morirás; yo iré
+a salvarte; del tirano
+feroz la sangrienta mano
+con mi llanto bañaré.
+¿Temes? Leonor te responde
+de su cariño y virtud.
+¿Aún dudas con inquietud?
+
+(_Apura el pomo._)
+
+Ya no puedo ser del Conde.[85]
+
+
+
+
+ESCENA III
+
+Cámara del Conde de Luna; éste estará sentado cerca de
+una mesa y don Guillén a su lado de pie.
+
+DON NUÑO _y_ DON GUILLÉN
+
+
+NUÑO. ¿Visteis, don Guillén, al reo?
+
+GUILLÉN. Dispuesto a morir está.
+
+NUÑO. ¿Don Lope?
+
+GUILLÉN. Presto vendrá.
+
+NUÑO. Que al punto llegue deseo.
+No quiero que se dilate
+el suplicio ni un momento;
+cada instante es un tormento
+que mi paciencia combate.
+
+GUILLÉN. ¿Le avisaré?
+
+NUÑO. No, esperad...
+Tardar no puede en venir.
+Para ayudarle a morir
+a un religioso avisad.
+Y despachaos con presteza.
+
+GUILLÉN. ¡El hijo de una gitana!
+
+NUÑO. Cierto; diligencia es vana.
+
+GUILLÉN. ¿Mas no dais cuenta a su Alteza?
+
+NUÑO. ¿Para qué? Ocupado está
+en la guerra de Valencia.[86]
+
+GUILLÉN. Si no aprueba la sentencia...
+
+NUÑO. Yo sé que la aprobará.
+Para aterrar la traición
+puso en mi mano la ley...
+mientras aquí no esté el Rey,
+yo soy el Rey de Aragón.
+Mas... ¿vuestra hermana?
+
+GUILLÉN. Yo mismo
+nada de su suerte sé;
+pero encontrarla sabré
+aunque la oculte el abismo.
+Entonces su torpe amor
+lavará con sangre impura...
+Sólo así el honor se cura,
+y es muy sagrado el honor.
+
+NUÑO. Ni tanto rigor es bien
+emplear.
+
+GUILLÉN. Mi ilustre cuna...
+
+NUÑO. Si algo apreciáis al de Luna,
+no la ofendáis, don Guillén.
+
+GUILLÉN. ¿Tenéis algo que mandar?
+
+NUÑO. Dejadme solo un instante.
+
+
+
+
+ESCENA IV
+
+DON NUÑO, _después_ DON LOPE
+
+
+NUÑO. Leonor, al fin en tu amante
+tu desdén voy a vengar.
+Al fin en su sangre impura
+a saciar voy mi rencor;
+también yo puedo, Leonor,
+gozarme de tu desventura.
+Fatal tu hermosura ha sido
+para mí, pero fatal
+también será a mi rival,
+a ese rival tan querido.
+Tú lo quisiste; por él
+mi ternura despreciaste...
+¿Por qué, Leonor, no me amaste?
+Yo no fuera tan cruel.
+Ángel hermoso de amor,
+yo como a un Dios te adoraba,
+y tus caricias gozaba
+un oscuro trovador.
+Harto la suerte envidié
+de un rival afortunado;
+harto tiempo despreciado
+su ventura contemplé.
+¡Ah! Perdonarle quisiera...
+no soy tan perverso yo.
+Pero es mi rival... no, no...
+es necesario que muera.
+
+LOPE. Vuestras órdenes, Señor,
+se han cumplido; el reo espera
+su sentencia.
+
+NUÑO. Y bien, que muera,
+pues a su Rey fue traidor.
+¿A qué aguardáis?
+
+LOPE. Si así os plugo[87]...
+
+NUÑO.. ¿No fue perjuro a la ley
+y rebelde con su Rey?
+Pues bien, ¿qué espera el verdugo?
+Esta noche ha de morir.
+
+LOPE. ¿Esta noche? ¡Pobre mozo!
+
+NUÑO.. Junto al mismo calabozo...
+¿entendéis?
+
+LOPE. No hay más decir.
+
+NUÑO.. ¿La bruja?...
+
+LOPE. Con él está
+en su misma prisión.
+
+NUÑO.. Bien.
+
+LOPE. ¿Pero ha de morir?
+
+NUÑO.. También.
+
+LOPE. ¿De qué muerte morirá?
+
+NUÑO.. Como su madre,[88] en la hoguera.
+
+LOPE. ¿Por último confesó
+que a vuestro hermano mató?
+Maldiga Dios la hechicera.
+
+NUÑO.. Molesto, don Lope, estáis...
+idos ya.
+
+LOPE. Señor, si pude
+ofenderos...
+
+NUÑO. No lo dude.
+
+LOPE. Mi deber...
+
+NUÑO. Es que os vayáis.
+
+(_Hace don Lope que se va y vuelve._)
+
+LOPE. Perdonad; se me olvidaba
+con la maldita hechicera.
+
+NUÑO. ¡Don Lope!
+
+LOPE. Señor, ahí fuera
+una dama os aguardaba.
+
+NUÑO. ¿Y qué objeto aquí la trae?
+¿Dice quién es?
+
+LOPE. Encubierta
+llegó, Señor, a la puerta
+que al campo de Toro cae.
+
+NUÑO. Que entre, pues; vos despejad.
+
+LOPE. El Conde, Señora, espera.
+
+NUÑO. Vos os podéis quedar fuera,
+y hasta que os llame aguardad.
+
+
+
+
+ESCENA V
+
+DON NUÑO _y_ LEONOR
+
+
+LEONOR. ¿Me conocéis? (_Descubriéndose._)
+
+NUÑO. ¡Desgraciada!
+¿Qué buscáis, Leonor, aquí?
+
+LEONOR. ¿Me conocéis, Conde?
+
+NUÑO. Sí,
+por mi mal, desventurada,
+por mi mal te conocí.
+
+¿A qué viniste, Leonor?
+
+LEONOR. Conde, ¿dudarlo queréis?
+
+NUÑO. ¡Todavía el trovador!...
+
+LEONOR. Sé que todo lo podéis,
+y que peligra mi amor.
+Duélaos, don Nuño, mi mal.
+
+NUÑO. ¿A eso vinistes, ingrata,
+a implorar por un rival?
+¡Por un rival! ¡Insensata!
+Mal conoces al de Artal.
+No; cuando en mis brazos veo
+la venganza apetecida,
+cuando su sangre deseo...
+Imposible...
+
+LEONOR. No lo creo.
+
+NUÑO. Sí, creedlo por mi vida.
+Largo tiempo también yo
+aborrecido imploré
+a quien mis ruegos no oyó,
+y de mi afán se burló;
+no pienses que lo olvidé.
+
+LEONOR. ¡Ah! Conde, Conde, piedad.
+
+(_Arrodillándose._)
+
+NUÑO. ¿La tuviste tú de mí?
+
+LEONOR. Por todo un Dios.[89]
+
+NUÑO. Apartad.
+
+LEONOR. No, no me muevo de aquí.
+
+NUÑO. Pronto, Leonor, acabad.
+
+LEONOR. Bien sabéis cuanto le amé;
+mi pasión no se os esconde...
+
+NUÑO. ¡Leonor!
+
+LEONOR. ¿Qué he dicho? No sé,
+no sé lo que he dicho, Conde;
+¿queréis?... le aborreceré.
+¡Aborrecerle! ¡Dios mío!
+Y aún amaros a vos, sí,
+amaros con desvarío
+os prometo... ¡Amor impío,
+digno de vos y de mí!
+
+NUÑO. Es tarde, es tarde, Leonor.
+¿Y yo perdonar pudiera
+a tu infame seductor,
+al hijo de una hechicera?
+
+LEONOR. ¿No os apiada mi dolor?
+
+NUÑO. ¡Apiadarme! Más y más
+me irrita, Leonor, tu lloro,
+que por él vertiendo estás;
+no lo negaré, aún te adoro,
+mas perdonarle... jamás.
+Esta noche, en el momento...
+Nada de piedad.
+
+LEONOR, _con ternura_. ¡Cruel!
+¡Cuando en amarte consiento!
+
+NUÑO. ¿Qué me importa tu tormento,
+si es por él, sólo por él?
+
+LEONOR. Por él, don Nuño, es verdad;
+por él con loca impiedad
+el altar he profanado.
+¡Y yo, insensata, le he amado
+con tan ciega liviandad!
+
+NUÑO. Un hombre oscuro...
+
+LEONOR. Sí, sí...
+nunca mereció mi amor.
+
+NUÑO. Un soldado, un trovador...
+
+LEONOR. Yo nunca os aborrecí.
+
+NUÑO. ¿Qué quieres de mí, Leonor?
+¿Por qué mi pasión enciendes,
+que ya entibiándose va?
+Di que engañarme pretendes,
+dime que de un Dios dependes,
+y amarme no puedes ya.
+
+LEONOR. ¿Qué importa, Conde? ¿No fui
+mil y mil veces perjura?
+¿Qué importa, si ya vendí
+de un amante la ternura,
+que a Dios olvide por ti?
+
+NUÑO. ¿Me lo juras?
+
+LEONOR. Partiremos
+lejos, lejos de Aragón,
+do felices viviremos,
+y siempre nos amaremos
+con acendrada pasión.
+
+NUÑO. ¡Leonor... delicia inmortal!
+
+LEONOR. Y tú en premio a mi ternura...
+
+NUÑO. Cuanto quieres.
+
+LEONOR. ¡Oh, ventura!
+
+NUÑO. Corre, dile que el de Artal
+su libertad le asegura,
+pero que huya de Aragón,
+que no vuelva, ¿lo has oído?
+
+LEONOR. Sí, sí...
+
+NUÑO. Dile que atrevido
+no persista en su traición,
+que tu amor ponga en olvido.
+
+LEONOR. Sí... lo diré... (Dios eterno,
+tu nombre bendeciré!)
+
+NUÑO. Cuidad, que os observaré.
+
+LEONOR. (Ya no me aterra el infierno,
+pues que su vida salvé.)
+
+
+
+
+ESCENA VI
+
+_Calaboso oscuro con una ventana con reja a la izquierda y una
+puerta en el mismo lado; otra ventana alta en el fondo, cerrada.
+Debajo de la ventana, y en un escaño, estará recostada_
+AZUCENA; _en el lado opuesto_ MANRIQUE, _sentado_
+
+
+MANRIQUE. ¿Dormís, madre mía?
+
+AZUCENA. No... bastante lo he deseado, pero el sueño
+huye de mis ojos.
+
+MANRIQUE. ¿Tenéis frío tal vez?
+
+AZUCENA. No... te he oído suspirar a menudo... ven
+aquí... ¿Qué tienes?[90] ¿Por qué no me confías todos tus
+padecimientos? ¿Por qué no los depositas en el seno de una
+madre? Porque yo soy tu madre, y te quiero como a mi vida.
+
+MANRIQUE. ¡Mis padecimientos!
+
+AZUCENA. He orado por ti toda la noche; es lo único
+que puedo hacer ya.
+
+MANRIQUE. Descansad un momento.
+
+AZUCENA. Yo quisiera escaparme de aquí, porque me
+sofoca el aire que aquí respiro... porque van a matarme.
+Pero tú me defenderás, tú no consentirás que te roben a
+tu madre.
+
+MANRIQUE. ¡Gran Dios!
+
+AZUCENA. Pero estoy afligiéndote, ¿es verdad?
+
+MANRIQUE. No; decid, decid lo que queráis.
+
+AZUCENA. Tú no podrás socorrerme; vendrán muchos
+contra ti, y tus fuerzas se agotarán; pero no temas por mí,
+yo estoy libre de su furor.
+
+MANRIQUE. ¿Vos?
+
+AZUCENA. Sí; los tiranos no mandan sobre el sepulcro,
+ni el verdugo puede martirizar una carne que no siente.
+Acércate... Mira esta frente pálida; ¿no está pintada en
+ella la muerte?
+
+MANRIQUE. ¿Qué decís?
+
+AZUCENA. Sí; desde esta mañana he sentido que me
+abandonaban las fuerzas, que mis miembros se torcían; un
+velo de sangre ha ofuscado más de una vez mis ojos, y un
+zumbido espantoso ha resonado continuamente en mis
+oídos... se me figuraba que oía el llamamiento a la eternidad...
+¡La eternidad! Y ya voy a salir de esta vida
+con el alma emponzoñada...
+
+MANRIQUE. Por favor.
+
+AZUCENA. Y van a matarme...
+
+MANRIQUE. ¡A mataros! ¿Y por qué? ¡Porque sois
+mi madre, y yo soy la causa de vuestra muerte! ¡Madre
+mía, perdón!
+
+AZUCENA. No temas. ¿A qué llorar por mí? No, no
+tendrán el placer de tostarme como a mi madre; siento que
+mi vida se acaba por instantes,[91] pero quisiera morir pronto.
+¿No es verdad que se llenarán de rabia cuando vengan a
+buscar una víctima y encuentren un cadáver, menos que
+un cadáver... un esqueleto? ¡Ja... ja... ja...!
+Quisiera yo verlo para gozarme de su desesperación. Cuando
+vean mis ojos quebrados, cuando toquen mi mano seca y
+fría como el mármol...
+
+MANRIQUE. ¡No me atormentéis, por piedad!
+
+AZUCENA. ¿Oyes? ¿Oyes ese ruido? Mátame...
+pronto, para que no me lleven a la hoguera. ¿Sabes tú
+qué tormento es el fuego?
+
+MANRIQUE. ¿Y tendrán valor?
+
+AZUCENA. Sí; lo tuvieron para mi madre; debe ser
+horroroso ese tormento...¡La hoguera! Y siempre la
+tengo delante, y siempre con sus llamas que queman, que
+quitan la vida con desesperados tormentos.
+
+MANRIQUE. No más, no más. 5
+
+AZUCENA. Me acuerdo de cuando achicharraron a tu
+abuela; iba cubierta de harapos; sus cabellos, negros como
+las alas del cuervo, ocultaban casi enteramente su cara; yo,
+tendida en el suelo, arañando frenética mi rostro, había
+apartado mis ojos de aquel espectáculo, que no podía suportar;
+pero mi madre me llamó, y yo corrí hasta los pies
+del cadalso... los verdugos me rechazaron con aspereza,
+no me dejaron darla siquiera un beso, y la metieron en el
+fuego... Todavía retiembla en mi oído el acento de aquel
+grito desesperado que le arrancó el dolor... Debe ser
+horrible, precisamente horrible ese suplicio; aquel grito
+desentonado expresaba todos los tormentos de su cuerpo, y
+los verdugos se reían de sus visajes, porque la llama había
+quemado sus cabellos, y sus facciones contraídas, convulsas,
+y sus ojos desencajados, daban a su rostro una expresión
+infernal...¡Y esto les hacía reír!
+
+MANRIQUE. ¿No podéis olvidar todo eso? ¿Por qué
+no procuráis descansar?
+
+AZUCENA. Sí; eso querría, pero...¿y la hoguera?
+¿Y si durmiendo me llevan a la hoguera?
+
+MANRIQUE. No, no vendrán.
+
+AZUCENA. ¿Me lo prometes tú?
+
+MANRIQUE. Os lo ofrezco, madre mía; podéis reposar
+un momento.
+
+AZUCENA. ¡Tengo mucha necesidad de dormir! ¡He
+estado despierta tanto tiempo! Dormiré, y luego nos iremos;
+¿qué razón hay para que no nos dejen ir? Cuando
+sea de día[92]... Pero aquí no se sabe cuando es de día...
+Aunque sea de noche, a cualquier hora, sí, porque quiero
+respirar; aquí me ahogo.
+
+MANRIQUE. (¡Qué tormento!)
+
+AZUCENA. Y correremos por la montaña, y tú cantarás
+mientras yo estaré durmiendo, sin temor a esos verdugos
+ni a ése suplicio de fuego.
+
+MANRIQUE. Descansad.
+
+AZUCENA. Voy... pero calla... calla... (_Se queda
+dormida; un momento de silencio._)
+
+MANRIQUE. Duerme, duerme, madre mía,
+mientras yo te guardo el sueño,
+y un porvenir más risueño
+durmiendo allá te sonría.
+Al menos ¡ay! mientras dura
+tu sueño, no acongojado
+veré tu rostro bañado
+con lágrimas de amargura.
+
+
+
+
+ESCENA VII
+
+MANRIQUE, LEONOR, _y_ AZUCENA
+
+
+LEONOR. ¡Manrique!
+
+MANRIQUE. ¿No es ilusión!
+¿Eres tú?
+
+LEONOR. Yo, sí... yo soy;
+a tu lado al fin estoy,
+para calmar tu aflicción.
+
+MANRIQUE. Sí; tú sola mi delirio
+puedes, hermosa, calmar;
+ven, Leonor, a consolar
+amorosa mi martirio.
+
+LEONOR. No pierdas tiempo, por Dios...
+
+MANRIQUE. Siéntate a mi lado, ven.
+¿Debes tú morir también?
+Muramos juntos los dos.
+
+LEONOR. No, que en libertad estás.
+
+MANRIQUE. ¿En libertad!
+
+LEONOR. Sí; ya el Conde...
+
+MANRIQUE. ¿Don Nuño, Leonor! Responde,
+responde... ¡Cielo! ¿Esto más!
+¡Tú a implorar por mi perdón
+del tirano a los pies fuiste!...
+Quizá también le vendiste
+mi amor y tu corazón.
+No quiero la libertad
+a tanta costa comprada.
+
+LEONOR. Tu vida...
+
+MANRIQUE. ¿Qué importa? Nada...
+quítamela, por piedad;
+clava en mi pecho un puñal
+antes que verte perjura,
+llena de amor y ternura,
+en los brazos de un rival.
+¡La vida! ¿Es algo la vida?
+Un doble martirio, un yugo...
+llama que venga el verdugo
+con el hacha enrojecida.
+
+LEONOR. ¿Qué debí hacer? Si supieras
+lo que he sufrido por ti,
+no me insultaras así,
+y a más me compadecieras.
+Pero, huye, vete, por Dios,
+y bástete ya saber
+que suya, no puedo ser.
+
+MANRIQUE. Pues bien, partamos los dos,
+mi madre también vendrá.
+
+LEONOR. Tú solamente.
+
+MANRIQUE. No, no.
+
+LEONOR. Pronto, vete.
+
+MANRIQUE. ¡Solo yo!
+
+LEONOR. Que nos observan quizá.
+
+MANRIQUE. ¿Qué importa? ¡Aquí moriré,
+moriremos, madre mía!
+Tú sola no fuiste impía
+de un hijo tierno a la fe.
+
+LEONOR. ¡Manrique!
+
+MANRIQUE. Ya no hay amor,
+en el mundo no hay virtud.
+
+LEONOR. ¿Qué te dice mi inquietud?
+
+MANRIQUE. Tarde conocí mi error.
+
+LEONOR. ¡Si vieras cuál se extremece
+mi corazón! ¿Por qué, di,
+obstinarte? Hazlo por mí,
+por lo que tu amor padece.
+Sí; este momento quizá...
+¿No ves cuál tiemblo? Quisiera
+ocultarlo si pudiera;
+pero no, no es tiempo ya.
+Bien sé que voy tu aflicción
+a aumentar, pero ya es hora
+de que sepas cuál te adora
+la que acusas sin razón.
+Aborréceme, es mi suerte;
+maldíceme si te agrada,
+mas toca mi frente helada
+con el hielo de la muerte.
+Tócala, y si hay en tu seno
+un resto de compasión,
+alivia mi corazón,
+que abrasa un voraz veneno...
+
+MANRIQUE. ¡Un veneno!... ¿Y es verdad?
+Y yo, ingrato, la ofendí
+cuando muriendo por mí...
+un veneno...
+
+LEONOR. Por piedad,
+ven aquí, por compasión,
+a consolar mi agonía.
+¿No sabes que te quería
+con todo mi corazón?
+
+MANRIQUE. Me matas.
+
+LEONOR. Manrique, aquí,
+aquí me siento abrasar.
+¡Ay! ¡ay! Quisiera llorar,
+y no hay lágrimas en mí.
+¡Ay! juventud malograda,
+por tiranos perseguida!
+¡Perder tan pronto una vida
+para amarte consagrada!
+
+(_Se ve brillar un momento el resplandor de una luz en
+la ventana de la izquierda._)
+
+¡Mira, Manrique, esa luz...
+vienen a buscarte ya;
+no te apartes, ven acá,
+por el que murió en la cruz!
+
+MANRIQUE. Que vengan... ya entregaré
+mi cuello sin resistir;
+lo quiero; anhelo morir...
+muy pronto te seguiré.
+
+LEONOR. ¡Ay! Acércate...
+
+MANRIQUE. ¡Amor mío!...
+
+LEONOR. Me muero, me muero ya
+sin remedio; ¿dónde está
+tu mano?
+
+MANRIQUE. ¡Qué horrible frío!
+
+LEONOR. Para siempre... ya...
+
+MANRIQUE. ¡Leonor!
+
+LEONOR. ¡Adiós!... ¡adi... os!
+
+(_Espira; un momento de pausa._)
+
+MANRIQUE. ¡La he perdido!
+¡Ese lúgubre gemido!
+es el último de amor.
+Silencio, silencio; ya
+viene el verdugo por mí...
+Allí está el cadalso, allí,
+y Leonor aquí está.
+Corta es la distancia, vamos,
+que ya el suplicio me espera.
+
+(_Tropieza con Azucena._)
+
+¿Quién estaba aquí? ¿Quién era?
+
+AZUCENA. ¿Es hora de que partemos?
+
+(_Entre sueños._)
+
+MANRIQUE. A morir dispuesto estoy...
+Mas no; esperad un instante;
+a contemplar su semblante,
+a adorarla otra vez voy.
+Aquí está... Dadme el laúd;
+en trova triste y llorosa,
+en endecha lastimosa
+os contaré su virtud.
+Una corona de flores
+dadme también; en su frente
+será aureola luciente,
+será diadema de amores.
+Dadme, vereisla brillar
+en su frente hermosa y pura;
+mas llorad su desventura
+como a mí me veis llorar.
+¡Qué funesto resplandor!
+¿Tan pronto vienen por mí?
+El verdugo es aquél... sí;
+tiene el rostro de traidor.
+
+
+
+
+ESCENA VIII
+
+_Los de la escena anterior_, DON NUÑO, DON GUILLÉN, DON
+LOPE _y_ SOLDADOS _con luces_
+
+
+NUÑO. ¿Leonor?
+
+MANRIQUE. ¿Quién la llama? ¿Por qué vienen
+a apartarla de mí? La desdichada
+ya a nadie puede amar. ¡Si yo pudiera
+ocultarla a sus ojos!
+
+(_La cubre con su ferreruelo, que tendrá al lado._)
+
+NUÑO. ¿Leonor?
+
+MANRIQUE. Calla...
+No turbes el silencio de la muerte.
+
+NUÑO. ¿Dónde está Leonor?
+
+MANRIQUE. ¿Dónde? Aquí estaba.
+¿Venís a arrebatármela en la tumba?
+
+NUÑO. ¿Ha muerto?
+
+MANRIQUE. Sí... Ya ha muerto.
+
+(_Descubriendo el rostro pálido de Leonor._)
+
+GUILLÉN. ¿Quién? ¡Mi hermana!
+
+MANRIQUE. Ya no palpita el corazón; sus ojos
+ha cerrado la muerte despiadada.
+Apartad esas luces; mi amargura
+piadosos respetad... no me acordaba...
+
+(_A don Nuño._)
+
+¡Sí; tú eres el verdugo! Acaso buscas
+una víctima... ven... ya preparada
+para la muerte está.
+
+NUÑO. Llevadle al punto,
+llevadle, digo, y su cabeza caiga.
+
+(_Varios soldados rodean a Manrique._)
+
+MANRIQUE. Muy pronto, sí...
+
+NUÑO. Marchad...
+
+MANRIQUE. ¿Qué miro! Vamos...
+
+(_Reparando en Azucena._)
+
+No le digáis, por Dios, a la cuitada
+que va su hijo a morir... ¡Madre infelice,
+hasta la tumba, adiós...! (_Al salir._)
+
+
+
+
+ESCENA IX
+
+LOS MISMOS, _menos_ MANRIQUE
+
+
+AZUCENA, _incorporándose_. ¿Quién me llamaba?
+El era, él era. ¡Ingrato... se ha marchado
+sin llevarme también!
+
+NUÑO. ¡Desventurada!
+Conoce al fin tu suerte.
+
+AZUCENA. ¡El hijo mío!
+
+NUÑO. Ven a verle morir.
+
+AZUCENA. ¿Qué dices? ¡Calla!
+¡Morir... morir!... No, madre,[93] yo no puedo;
+perdóname, lo quiero con el alma.
+Esperad, esperad,...
+
+NUÑO. Llevadla.
+
+AZUCENA. ¡Conde!
+
+NUÑO. Que le mire espirar.
+
+AZUCENA. Una palabra,
+un secreto terrible; haz que suspendan
+el suplicio un momento.[94]
+
+NUÑO. No; llevadla.
+
+(_La toma por una mano y la arrastra hasta la ventana._)
+
+Ven, mujer infernal... goza en tu triunfo.
+Mira el verdugo, y en su mano el hacha
+que va pronto a caer...
+
+(_Se oye un golpe que figura ser él de la cuchilla._)
+
+AZUCENA. ¡Ay! ¡Esa sangre!
+
+NUÑO. Alumbrad a la víctima, alumbradla.
+
+AZUCENA. ¡Sí, sí... luces... él es... tu hermano, imbécil!
+
+NUÑO. ¡Mi hermano, maldición!...
+
+(_La arroja al suelo, empujándola, con furor._)
+
+AZUCENA. ¡Ya estás vengada![95]
+
+(_Con un gesto de amargura, y espira._)
+
+
+
+
+NOTES
+
+
+[1] =Luna=, a village 30 miles north of Saragossa on the Arba-de-Biel.
+
+[2] =Aragón=, formerly a kingdom of Spain comprising the present
+provinces of Saragossa, Huesca, and Teruel. The King of Aragon at the
+time of "El Trovador" was Alfonso V, the Magnanimous.
+
+[3] =Zaragoza=, _Saragossa_, the capital of Aragon, a city of 100,000
+inhabitants, situated on the right bank of the Ebro.
+
+[4] =sala corta=, a _drop-scene_, in order to allow the arrangement of
+the scenery for Scene 2.
+
+[5] =Aljafería.= The Castillo de la Aljafería, outside of the western
+gate, owes its name to the sheik Abou Dja'far Ahmed who built it. It
+served later as the residence of the kings of Aragon and the palace of
+the Inquisition. Partially destroyed in 1809, it has been restored and
+now serves as a barracks. In visiting it one is shown the "Torreta," the
+prison which figures in Act V.
+
+[6] =a palos=, _with blows_.
+
+[7] =al otro día=, _on the next day_.
+
+[8] =a guiarse por mis consejos=, _if they had let themselves be guided
+by my counsels_.
+
+[9] =¡Pues por supuesto!= _Of course._
+
+[10] =Dime con quién andas=, _y te diré quién eres_, an old Spanish
+proverb resembling our "birds of a feather," etc.
+
+[11] =ni por ésas=, _nor was that of avail_.
+
+[12] =unos ojos tan relucientes=, "_unos_ sometimes seems to mean little
+more than 'a pair of.'" (_Hills and Ford's Spanish Grammar._)
+
+[13] =un no sé qué de diabólico=, _something diabolical_.
+
+[14] =en tiempos de antaño=, _last year_.
+
+[15] =Urgel=, the seat of a bishopric on the south slope of the
+Pyrenees, northeast of Saragossa.--=que en mala hora naciera=, _curse
+him_; lit. "who would that he were born in an evil hour."
+
+[16] =en cuanto a lo demás=, i.e. _in other respects_.
+
+[17] =para lo cual=, i.e. _para entrar en la habitación de Leonor_.
+
+[18] =a lo más oculto del jardín=, the neuter form of the article is
+used before the masculine form of an adjective, when the adjective is
+used substantively as the name of a color or as an abstract noun.
+
+[19] =con quién se las había=, "with whom she was having them," i.e.
+_with whom she was speaking_.
+
+[20] =llegan a saber=, _come to know_.
+
+[21] =para lo que ha dormido=, i.e. _para lo poco que ha dormido_.
+
+[22] =no nos eche de menos=, _let him not miss us_.
+
+[23] =Guillén= (or _Guilhén_), a Catalan form. The Castillian form of
+this name is _Guillermo_ or _Guillelmo_.
+
+[24] =al de Luna=, "Before a relative clause, and before a phrase
+introduced by _de_, the definite article is generally used instead of a
+demonstrative or personal pronoun." (_Hills and Ford's Spanish
+Grammar._)
+
+[25] =vos= instead of _usted_ is archaic.
+
+[26] =Nunca lo fuerais, por Dios=, _would to God that you were not_.
+
+[27] =¡Ay de mi!= _Alas for me!_
+
+[28] =¿Os pesa de mi venida?= _Are you sorry because of my coming?_
+
+[29] =no tengo nada=, _nothing is the matter with me_.
+
+[30] =vía=, poetic for _veía_.
+
+[31] =sino=, _if not_. Notice the etymological meaning of the word.
+
+[32] =hidalgo de pobre cuna= is vocative.
+
+[33] =le debieron de matar=, _they must have killed him_.
+
+[34] =¿cómo os va de aquella herida?= _How is your wound?_
+
+[35] =Jerusalén.= There still exists a "Convento de Jerusalén" in
+Saragossa in the Paseo de la Independencia.
+
+[36] =Velilla.= A small town on the Ebro below Saragossa, so-called from
+the alarm bell of its church, San Nicolas, which was said to toll of its
+own accord whenever a great calamity was to befall Aragon. It was cast
+by the Goths who, according to tradition, threw into the fused metal one
+of the thirty pieces of silver received by Judas.
+
+[37] =lo=, i.e. _religiosa_.
+
+[38] =del mismo altar=, _of the altar itself_.
+
+[39] =entre=, subjunctive after a verb of commanding.
+
+[40] =la voy a perder=, _I am going to lose her_.
+
+[41] =Hoy mismo=, _this very day_.
+
+[42] =entrar a saco=, _to sack_.
+
+[43] =Castellar=, a castle situated about 10 miles west of Saragossa.
+
+[44] =Debe de haber=, _there must be_. Cf. _hay_, "there is."
+
+[45] =puerta del Sol=, a square in the eastern part of Saragossa.
+
+[46] =Pluguiera=, from _placer_, optative subjunctive.
+
+[47] =no las tengo yo todas conmigo=, _I am disturbed_; literally, "I
+haven't them all with me," i.e. my wits, self-confidence.
+
+[48] =Quiera=, optative subjunctive.
+
+[49] =haga=, subjunctive after a relative with indefinite antecedent.
+
+[50] =de la hoguera en derredor=, i.e. _en derredor de la hoguera_.
+
+[51] =al siniestro resplandor=, i.e. _de la llama trémula_.
+
+[52] =niño=, _young_.
+
+[53] =Haro=, a city of 7976 inhabitants and centre of the celebrated
+vineyards of Rioja, situated on the Ebro 220 kilometres above Saragossa.
+
+[54] =Vizcaya=, one of the "Basque" provinces in the north of Spain. Its
+capitol, Bilbao, now a city of 74,093 inhabitants, was founded in 1300
+by Diego Lopez de Haro, the person mentioned in this passage.
+
+[55] =Alcázar=, a Moorish word.
+
+[56] =dieron en decir=, _insisted in saying_ or _people would have it
+that_.
+
+[57] =mal de ojo=, _the evil eye_.
+
+[58] =Yo no hacía otra cosa que=, _I did nothing but_.
+
+[59] =Artal=, the family name of Nuño.
+
+[60] =Que no sepa nunca=, optative subjunctive.
+
+[61] =Estuvo en poco que no se lo descubriera=, _He came very near
+finding it out_.
+
+[62] =¿qué os hicisteis?= Leonor is addressing the "_tiempos en que amor
+solía_..."
+
+[63] =a la prenda=, notice the "personal _a_."
+
+[64] =al cielo=, notice "personal _a_."
+
+[65] =Pues que=, _well then_.
+
+[66] =Calle corta=, _drop-scene_.
+
+[67] =por la espalda y por la frente=, _from in front and behind_.
+
+[68] =Ya vuelve=, _she is coming to consciousness_.
+
+[69] =los suyos=, i.e. _sus soldados_.
+
+[70] =Que se escapara=, _to think that he should have escaped_.
+
+[71] =los suyos=, see page 45, note 1.
+
+[72] =Catalanes=, from Cataluña, the northeastern province of Spain.
+
+[73] =que nos hacían gran falta=, _of whom we had great need_.
+
+[74] =por qué arman ese alboroto=, _Why do they raise this disturbance_?
+
+[75] =sea atrevido a=, _dare to_.
+
+[76] =a contártelo yo=, _upon my letting it to you_; _if I were to tell
+you_.
+
+[77] =tan sólo ha sido=, see vocabulary under _tan_.
+
+[78] =al tocarle osado=, _upon boldly touching it_.
+
+[79] Manrique's dream, though having no importance in the solution of
+the drama, is of considerable dramatic value as it foreshadows the
+catastrophe. The phantom of the dream is to be interpreted as Azucena,
+and the change of Leonor in the dream foreshadows her death in Act V.
+
+[80] =lleva a cuchillo=, _takes with the sword_, or _puts to the sword_.
+
+[81] =puntas de hechicera=, cf. Act I, Scene 1, _ribetes de bruja_.
+
+[82] =fratricido=, Leonor uses this word in a general sense, of course
+not knowing the specific sense which the spectator may apply to it.
+
+[83] Ruiz is complaining because he has had to pay a high price for the
+bottle.
+
+[84] =Hagan bien para hacer bien=, "do good that good be done," i.e.
+_pray_. This is from the prayer for those about to die.
+
+[85] =Ya no puedo ser del Conde=, _I cannot be the Count's_.
+
+[86] =Valencia=, a city on the eastern coast of Spain, at this time in
+state of civil warfare.
+
+[87] =plugo=, from _placer_.
+
+[88] =Como su madre=, i.e. Azucena's.
+
+[89] =por todo un Dios=, _for heaven's sake_.
+
+[90] =¿Qué tienes?= _What is the matter with you?_
+
+[91] =se acaba por instantes=, _is slowly ebbing away_.
+
+[92] =día=, _by day_.
+
+[93] Azucena addresses her own mother.
+
+[94] Azucena has not the courage to see Manrique die and is going to
+reveal his identity in order to prevent the execution, but she is too
+late.
+
+[95] See page 80, note 1.
+
+
+
+
+VOCABULARY
+
+
+A
+
+=a=, to, at, in, for, by.
+
+=abandonar=, to abandon.
+
+=abierto=, _p. p. of_ =abrir=, _adj._, open.
+
+=abismo=, _m._, abyss, hell.
+
+=aborrecer=, to hate, abhor.
+
+=abrasador=, _adj._, burning.
+
+=abrasar=, to burn.
+
+=abrazar=, to embrace.
+
+=abrigar=, to shelter.
+
+=abrir=, to open.
+
+=abuela=, _f._, grandmother.
+
+=abultarse=, to grow, become distorted.
+
+=aburrir=, to bore, tire;
+  =--se=, to become tired.
+
+=acá=, hither, here.
+
+=acabar=, to finish;
+  =-- de --=, to have just.
+
+=acariciar=, to fondle, caress, embrace.
+
+=acaso=, perhaps, perchance.
+
+=acaudillar=, to command, lead.
+
+=acción=, _f._, action.
+
+=aceite=, _m._, oil.
+
+=acendrar=, to purify.
+
+=acento=, _m._, accent.
+
+=acerca=, _adv._,
+  =-- de --=, about, concerning.
+
+=acercarse=, to draw near.
+
+=acero=, _m._, steel.
+
+=acompañar=, to accompany.
+
+=acongojado=, vexed, afflicted.
+
+=acordar=, to remind;
+  =--se=, to remember.
+
+=acto=, _m._, act.
+
+=acusar=, to accuse.
+
+=achicharrar=, to burn, char.
+
+=adelante=, forward, onward.
+
+=adentro=, within, behind the scenes.
+
+=adiós=, good-bye.
+
+=adivinar=, to guess.
+
+=admirar=, to cause surprise; to
+admire.
+
+=admitir=, to admit, grant.
+
+=adonde=, whither.
+
+=¿adónde?= whither?
+
+=adorar=, to adore.
+
+=advertir=, to notice; to warn, instruct,
+advise, mark.
+
+=afán=, _m._, trouble.
+
+=afecto=, _m._, affection.
+
+=aflicción=, _f._, affliction.
+
+=afligido=, afflicted.
+
+=afligir=, to afflict.
+
+=afortunado=, fortunate.
+
+=agitación=, _f._, agitation.
+
+=agonía=, _f._, agony.
+
+=agotar=, to exhaust.
+
+=agradar=, to please.
+
+=agua=, _f._, water.
+
+=aguardar=, to expect, await.
+
+=¡ah!= _exclamation_, ah!
+
+=ahí=, there.
+
+=ahogar=, to choke, suffocate.
+
+=ahora=, now.
+
+=ahorcar=, to hang.
+
+=aire=, _m._, air, breeze.
+
+=al = a el=.
+
+=ala=, _f._, wing.
+
+=alarmar=, to alarm.
+
+=alba=, _f._, dawn.
+
+=alborotado=, turbulent.
+
+=alboroto=, _m._, disturbance.
+
+=albricias=, _f. pl._, good news, joy.
+
+=alcanzar=, to reach, avail, attain
+to, get.
+
+=alcázar=, _m._, palace.
+
+=alcoba=, _f._, bedroom, alcove.
+
+=alegrarse=, to rejoice, be happy.
+
+=alegría=, _f._, happiness.
+
+=alejar=, to remove;
+  =----se=, to withdraw.
+
+=alentar=, to breathe.
+
+=algazara=, _f._, hubbub, noise.
+
+=algo=, something, somewhat;
+  =tener en algo=, to value.
+
+=alguien=, some one.
+
+=algún=, =alguno=, some, any.
+
+=aliviar=, to alleviate, relieve,
+lighten.
+
+=Aljafería=, _f._, _proper name_.
+
+=alma=, _f._, soul.
+
+=altar=, _m._, altar.
+
+=alteza=, _f._, highness.
+
+=alto=, high.
+
+=altura=, _f._, height.
+
+=alumbrar=, to light, kindle.
+
+=alzar=, to raise;
+  =----se=, to rise.
+
+=allá=, there, thither.
+
+=allí=, there;
+  =por ----=, thereabout.
+
+=amante=, _m._, lover;
+  _adj._, loving.
+
+=amar=, to love.
+
+=amargura=, _f._, bitterness, sorrow.
+
+=amarillento=, yellowish.
+
+=ambición=, _f._, ambition.
+
+=ambicionar=, to hope for; to set
+one's ambition upon.
+
+=amenazar=, to threaten.
+
+=amenguar=, to diminish.
+
+=amiga=, _f._, friend.
+
+=amigo=, _m._, friend.
+
+=amo=, _m._, master.
+
+=amor=, _m._, love.
+
+=amoroso=, loving.
+
+=andar=, to go.
+
+=ángel=, _m._, angel.
+
+=angustia=, _f._, anguish.
+
+=anhelar=, to pant _or_ long for; to
+desire.
+
+=animalejo=, _m._, small animal.
+
+=anoche=, last night.
+
+=ansioso=, anxious.
+
+=antaño=, _m._, last year, former
+years.
+
+=ante=, _prep._, before.
+
+=anterior=, former, earlier.
+
+=antes=, _adv._, before;
+  =-- que=, rather than.
+
+=anunciar=, to announce.
+
+=añadir=, to add.
+
+=año=, _m._, year.
+
+=apacible=, pleasant, calm, placid.
+
+=apagar=, to extinguish.
+
+=aparecer=, to appear.
+
+=apartar=, to withdraw; to turn away; to set aside; to take away;
+  =--se=, to withdraw.
+
+=apellido=, _m._, family name.
+
+=apenas=, hardly.
+
+=apetecer=, to seek; to yearn for.
+
+=apiadar=, to cause pity.
+
+=apoderarse (de)=, to get possession
+of.
+
+=apostar=, to wager.
+
+=apoyar=, to support.
+
+=apoyo=, _m._, support.
+
+=apreciar=, to esteem, treasure,
+appreciate.
+
+=aprecio=, _m._, appreciation.
+
+=aprobar=, _m._, to approve.
+
+=apuesto=, _adj._, elegant.
+
+=apurar=, to drain.
+
+=aquel=, =aquella=, =aquello=, that.
+
+=aquél=, _etc._, _pron._, that.
+
+=aquí=, here;
+  =por --=, hereabout.
+
+=ara=, _f._, altar.
+
+=Aragón=, _m._, Aragon.
+
+=arañar=, to scratch; to claw.
+
+=arder=, to burn.
+
+=árido=, arid.
+
+=arma=, _f._, arm.
+
+=armado=, armed.
+
+=armar=, to arm.
+
+=Artal=, _proper name_.
+
+=arte=, _m. and f._, art.
+
+=arzobispo=, _m._, archbishop.
+
+=arrancar=, to tear from.
+
+=arrastrar=, to drag along.
+
+=arrebatar=, to carry off.
+
+=arrepentirse=, to repent.
+
+=arriesgado=, _adj._, dangerous.
+
+=arrodillado=, kneeling.
+
+=arrodillarse=, to fall on one's
+knees.
+
+=arrojar=, to hurl, dismiss, send
+away.
+
+=arrojo=, _m._, boldness.
+
+=arrostrar=, to encounter cheerfully.
+
+=asegurar=, to affirm, assure.
+
+=asentar=, to sit down.
+
+=asesino=, _m._, assassin.
+
+=así=, thus;
+  =-- como=, just as.
+
+=asir=, to seize.
+
+=asomarse=, to appear;
+  =-- a la ventana=, to look out of the window.
+
+=asombrarse=, to take fright; to
+be astonished.
+
+=aspereza=, _f._, harshness.
+
+=atacar=, to attack.
+
+=ataque=, _m._, attack.
+
+=atar=, to bind.
+
+=ataúd=, _m._, coffin.
+
+=atemorizar=, to terrify.
+
+=atenacear=, to torment with red-hot
+tongs.
+
+=aterrar=, to destroy, appal.
+
+=atormentar=, to torment.
+
+=atrapar=, to catch.
+
+=atravesar=, to traverse.
+
+=atreverse=, to dare.
+
+=atrevido=, bold.
+
+=atroz=, cruel, atrocious.
+
+=audacia=, _f._, boldness, audacity.
+
+=aumentar=, to augment, increase.
+
+=aún=, yet, still, even.
+
+=aunque=, although.
+
+=aura=, _f._, breeze.
+
+=aureola=, _f._, halo, aureole.
+
+=aurora=, _f._, dawn.
+
+=avanzar=, to advance.
+
+=avisar=, to inform, advise, warn.
+
+=¡ay!= alas! ah!
+
+=aya=, _f._, nurse.
+
+=ayer=, yesterday.
+
+=ayudar=, to help.
+
+=azaroso=, unfortunate, ominous.
+
+=azorado=, terrified, irritated, restless.
+
+=Azucena=, _proper name_.
+
+
+B
+
+=bajar=, to descend.
+
+=bajo=, _adj._, low.
+
+=bajo=, under, below.
+
+=baldón=, _m._, censure, reproach.
+
+=ballestero=, _m._, archer.
+
+=bando=, _m._, band, company.
+
+=bañar=, to bathe.
+
+=bárbaro=, _m._, barbarian.
+
+=bastante=, sufficient, enough, rather.
+
+=bastar=, to suffice.
+
+=belleza=, _f._, beauty.
+
+=bello=, beautiful.
+
+=bendecir=, to bless.
+
+=besar=, to kiss.
+
+=beso=, _m._, kiss.
+
+=bien=, _m._, welfare, treasure.
+
+=bien=, well, very;
+  =-- venido=, welcome;
+  =mas --=, rather.
+
+=bizarría=, _f._, gallantry.
+
+=blasón=, _m._, blazon, coat of
+arms.
+
+=boca=, _f._, mouth.
+
+=bondad=, _f._, kindness.
+
+=borrar=, to efface;
+  =--se=, to become effaced.
+
+=bote=, _m._, thrust.
+
+=bóveda=, _f._, vault.
+
+=bramar=, to roar.
+
+=brazo=, _m._, arm.
+
+=breve=, short.
+
+=brillante=, brilliant.
+
+=brillar=, to flash, gleam.
+
+=brillo=, _m._, splendor.
+
+=bruja=, _f._, witch.
+
+=bueno=, good, well;
+  =sentirse --=, to feel well;
+  =buenas noches=, good night.
+
+=búho=, _m._, owl.
+
+=burlar=, to make fun, jest;
+  =-- de=, to mock.
+
+=busca=, _f._, search;
+  =en nuestra --=, in search of us.
+
+=buscar=, to seek.
+
+
+C
+
+=caballeresco=, knightly, chivalrous.
+
+=caballero=, _m._, gentleman, sir,
+knight.
+
+=caballo=, _m._, horse;
+  =a --=, on horseback.
+
+=cabaña=, _f._, cabin, hut.
+
+=cabello=, _m._, hair (_generally plural_).
+
+=cabeza=, _f._, head.
+
+=cada=, each, every.
+
+=cadalso=, _m._, scaffold.
+
+=cadáver=, _m._, dead body.
+
+=cadena=, _f._, chain.
+
+=caer=, to fall, open upon.
+
+=calabozo=, _m._, dungeon.
+
+=calma=, _f._, calm.
+
+=calmar=, to calm.
+
+=callar=, to be quiet, silent.
+
+=calle=, _f._, street.
+
+=cámara=, _f._, room.
+
+=caminar=, to go, walk.
+
+=camino=, _m._, road.
+
+=campamento=, _m._, encampment.
+
+=campo=, _m._, field, camp.
+
+=canción=, _f._, song.
+
+=cantar=, to sing.
+
+=cántico=, _m._, song, canticle.
+
+=canto=, _m._, song.
+
+=cantor=, _m._, singer.
+
+=cara=, _f._, face.
+
+=caricia=, _f._, caress.
+
+=cariño=, _m._, affection.
+
+=carne=, _f._, flesh.
+
+=casa=, _f._, house.
+
+=casi=, almost.
+
+=¡cáspita!= great Scott! wonderful!
+
+=Castellar=, _proper name_.
+
+=castigar=, to punish.
+
+=Castilla=, _f._, Castille.
+
+=castillo=, _m._, castle.
+
+=Catalán=, _m._, Catalan.
+
+=caudillo=, _m._, leader, commander.
+
+=causa=, _f._, cause.
+
+=causar=, to cause.
+
+=cegar=, to blind.
+
+=celada=, _f._, helmet.
+
+=celda=, _f._, cell in a convent.
+
+=celeste=, heavenly.
+
+=celestial=, celestial.
+
+=celo=, _m._, jealousy.
+
+=celoso=, jealous.
+
+=cerca=, near;
+  =-- de=, near.
+
+=cerco=, _m._, blockade;
+  =poner -- a=, to lay siege to.
+
+=ceremonia=, _f._, ceremony.
+
+=cerrar=, to close.
+
+=cerrojo=, _m._, bolt.
+
+=cesar=, to cease.
+
+=ciego=, blind.
+
+=cielo=, _m._, heaven.
+
+=cien=, =ciento=, hundred.
+
+=cierto=, certain, sure, certainly;
+  =por --=, for sure.
+
+=cinco=, five.
+
+=ciudad=, _f._, city.
+
+=clamor=, _m._, lament, cry.
+
+=clarín=, _m._, trumpet.
+
+=claustro=, _m._, cloister.
+
+=clavar=, to fix, cleave.
+
+=cobarde=, _m._, coward.
+
+=cobarde=, _adj._, cowardly.
+
+=coger=, to seize, catch.
+
+=colmar=, to fulfil, heap up.
+
+=colmo=, _m._, height, climax.
+
+=colocar=, to place together.
+
+=combate=, _m._, combat.
+
+=combatir=, to combat.
+
+=comisión=, _f._, commission.
+
+=como=, as, like;
+  =-- que=, since;
+  =cómo=, how.
+
+=¿cómo?= how? why?
+
+=¡cómo!= how!
+
+=compadecer=, to pity, feel for.
+
+=compasión=, _f._, pity.
+
+=complacer=, to please;
+  =--se=, to be pleased.
+
+=comprar=, to buy.
+
+=comprender=, to understand.
+
+=común=, common.
+
+=comunicar=, to communicate.
+
+=con=, with, by, to.
+
+=concluida=, _f._, end, conclusion.
+
+=conde=, _m._, count.
+
+=condenar=, to condemn.
+
+=conducir=, to lead, conduct.
+
+=confesar=, to confess.
+
+=confeso=, _m._, confessed criminal.
+
+=confianza=, _f._, confidence.
+
+=confiar=, to confide.
+
+=confundir=, to confound, confuse.
+
+=confusamente=, confusedly.
+
+=conmigo=, with me.
+
+=conocer=, to know, be acquainted
+with.
+
+=conquistar=, to conquer.
+
+=consagrar=, to consecrate.
+
+=conseguir=, to succeed, accomplish.
+
+=consejo=, _m._, counsel.
+
+=consentir=, to consent.
+
+=consigo=, with oneself, with him,
+them, _etc._
+
+=consiguiente=, =de= _or_ =por --=,
+consequently.
+
+=consolar=, to console.
+
+=constante=, constant.
+
+=consternado=, in consternation.
+
+=consternarse=, to be thrown into
+confusion.
+
+=consuelo=, _m._, consolation.
+
+=consumar=, to carry out, finish.
+
+=consumir=, to consume.
+
+=contar=, to tell, recount, count.
+
+=contemplar=, to contemplate.
+
+=contentar=, to content.
+
+=contento=, content, happy.
+
+=contestar=, to answer.
+
+=contigo=, with you.
+
+=continuamente=, continually.
+
+=contra=, against, opposite to.
+
+=contraído=, contracted.
+
+=contrario=, _m._, opponent, obstacle.
+
+=convento=, _m._, convent.
+
+=convertir=, to convert.
+
+=convulsión=, _f._, convulsion.
+
+=convulsivo=, convulsive.
+
+=convulso=, convulsed.
+
+=corazón=, _m._, heart.
+
+=cornado=, _m._, small copper coin.
+
+=corona=, _f._, crown.
+
+=cortar=, to cut.
+
+=corto=, short, small;
+  =escena corta=, drop-scene.
+
+=corredor=, _m._, courier.
+
+=correr=, to run.
+
+=cosa=, _f._, thing.
+
+=costa=, _f._, cost.
+
+=costar=, to cost.
+
+=creer=, to believe.
+
+=cresta=, _f._, crest, summit.
+
+=criado=, _m._, servant.
+
+=criatura=, _f._, creature.
+
+=crimen=, _m._, crime.
+
+=criminal=, criminal.
+
+=Cristo=, _m._, Christ.
+
+=crítico=, critical.
+
+=crucifijo=, _m._, crucifix.
+
+=cruel=, cruel.
+
+=cruz=, _f._, cross.
+
+=cruzar=, to cross.
+
+=cual=, like, how (_with article_, which, who).
+
+=cualquier=, whatever, any.
+
+=cuando=, when.
+
+=¿cuándo?= when?
+
+=cuanto=, how much;
+  =en -- a=, in regard to.
+
+=cuarenta=, forty.
+
+=cuarto=, _m._, room.
+
+=cubierto=, covered.
+
+=cubrir=, to cover.
+
+=cuchilla=, _f._, knife.
+
+=cuchillo=, _m._, knife.
+
+=cuello=, _m._, neck.
+
+=cuenta=, _f._, account.
+
+=cuento=, _m._, story.
+
+=cuerda=, _f._, cord.
+
+=cuerpo=, _m._, body.
+
+=cuervo=, _m._, crow, raven.
+
+=cuidad=, _f._, care;
+  =-- que=, take care for.
+
+=cuidadoso=, anxious, careful.
+
+=cuitado=, anxious, miserable.
+
+=cuja=, _f._, bag fastened to the
+saddle and into which a
+spear was put for easier
+carriage.
+
+=culpa=, _f._, fault, blame, guilt.
+
+=cumplir=, to fulfil, comply with.
+
+=cuna=, _f._, cradle, family.
+
+=curar=, to cure.
+
+=curioso=, curious.
+
+=custodia=, _f._, guard.
+
+=custodiar=, to guard.
+
+
+Ch
+
+=chico=, _m._, little boy.
+
+=chillido=, _m._, shriek.
+
+=chillino=, _m._, shriek.
+
+
+D
+
+=dama=, _f._, lady.
+
+=daño=, _m._, harm.
+
+=dar=, to give;
+  =-- en=, to strike.
+
+=de=, of, from, on, in, by, than
+(_before numerals_).
+
+=debajo=, under;
+  _-- de_, under.
+
+=deber=, _m._, duty.
+
+=deber=, to owe, ought to, be
+(about) to.
+
+=débil=, weak.
+
+=decidir=, to decide.
+
+=decir=, to say;
+  =--se=, to be said.
+
+=defender=, to defend.
+
+=dejar=, to leave, cease, let, allow;
+  =-- de=, to cease, stop.
+
+=del= = =de el=.
+
+=delante=, before;
+  =-- de=, before, in front of.
+
+=delicia=, _f._, delight, satisfaction.
+
+=delincuente=, offending, delinquent.
+
+=delirio=, _m._, delirium, madness.
+
+=delito=, _m._, crime.
+
+=demandar=, to ask, demand.
+
+=demás=, besides;
+  =lo --=, the rest.
+
+=demasiado=, too, too much.
+
+=dentro=, within, behind the scenes;
+  =-- de= _or_ =en=, within.
+
+=depender=, to depend.
+
+=depositar=, to deposit.
+
+=derecha=, _f._, right (hand);
+  =a --=, to the right.
+
+=derramar=, to spill, pour.
+
+=derredor=, _m._, circuit;
+  =en --=, around about.
+
+=desaparecer=, to disappear.
+
+=desarmar=, to disarm.
+
+=desatentado=, thoughtless, inconsiderate,
+imprudent, frenzied.
+
+=descansar=, to rest.
+
+=desconocido=, unknown.
+
+=descubrir=, to discover, disclose;
+to take off one's hat or helmet.
+
+=desde=, since, from.
+
+=desdén=, _m._, scorn.
+
+=desdichado=, unhappy.
+
+=desear=, to desire, wish.
+
+=desencajado=, bulging, disjointed.
+
+=desentonado=, discordant.
+
+=desenvainar=, to unsheath.
+
+=deseo=, _m._, desire.
+
+=desesperación=, _f._, desperation.
+
+=desesperado=, despairing.
+
+=desgraciado=, unfortunate, unhappy.
+
+=desgreñado=, dishevelled.
+
+=deshacer=, to destroy;
+  =--se=, to crumble.
+
+=desierto=, deserted.
+
+=designio=, _m._, plan, design.
+
+=deslizarse=, to slip.
+
+=desmayado=, fainted.
+
+=desnudar=, to bare.
+
+=despacio=, slowly; _m._, slowness,
+respect.
+
+=despachar=, to dispatch;
+  =--se=, to hurry.
+
+=despegar=, to unfasten;
+  =--se=, to creep.
+
+=despejarse=, to take one's leave.
+
+=desperado=, despairing.
+
+=despertar=, to awaken.
+
+=despiadado=, pitiless.
+
+=despierto=, awake.
+
+=despreciable=, mean, to be
+scorned.
+
+=despreciar=, to despise, scorn.
+
+=desprecio=, _m._, scorn.
+
+=después=, after, afterwards;
+  =-- de=, after.
+
+=desque=, since.
+
+=desvarío=, delirium, madness.
+
+=desventura=, _f._, misfortune.
+
+=desventurado=, unhappy, unfortunate.
+
+=detener=, to stop;
+  =--se=, to halt, stop.
+
+=detestar=, to detest.
+
+=devorar=, to devour.
+
+=día=, _m._, day;
+  =a los pocos días=, in a few days.
+
+=diablo=, _m._, devil.
+
+=diabólico=, diabolical.
+
+=diadema=, _f._, diadem, crown.
+
+=¡diantre!= the deuce!
+
+=dicha=, _f._, happiness, good fortune.
+
+=dichoso=, fortunate, happy.
+
+=diez=, ten.
+
+=difunto=, _m._, dead man.
+
+=digno=, worthy.
+
+=dilación=, _f._, delay.
+
+=dilatarse=, to be delayed.
+
+=diligencia=, _f._, diligence.
+
+=Dios=, _m._, God.
+
+=dirigirse=, to direct oneself.
+
+=disparate=, _m._, nonsense.
+
+=disponer=, to dispose.
+
+=dispuesto=, ready, disposed.
+
+=distancia=, _f._, distance.
+
+=distinguir=, to distinguish.
+
+=diverso=, different.
+
+=divisar=, to perceive;
+  =----se=, to be perceived.
+
+=do=, where.
+
+=doblar=, to bend, stoop, submit,
+double.
+
+=doble=, double.
+
+=doler=, to cause grief, pain or
+sorrow.
+
+=dolor=, _m._, grief, pain.
+
+=Don Diego de Haro=, _proper
+name_.
+
+=Don García=, the archbishop.
+
+=Don Guillén=, _proper name_.
+
+=Don Juan=, _proper name_.
+
+=Don Lope=, _proper name_.
+
+=Don Manrique=, the Trovador.
+
+=Don Nuño=, Count of Luna.
+
+=doncel=, _m._, young man.
+
+=donde=, where.
+
+=¿dónde?= where?
+
+=Doña Leonor=, _proper name_.
+
+=dorado=, golden, gilded.
+
+=dormir=, to sleep.
+
+=dos=, two.
+
+=duda=, _f._, doubt.
+
+=dudar=, to doubt, hesitate.
+
+=duelo=, _m._, duel.
+
+=dueño=, _m._, master.
+
+=dulce=, sweet.
+
+=durar=, to last, endure.
+
+=duro=, harsh, cruel.
+
+
+E
+
+=Ebro=, _proper noun_.
+
+=echar=, to throw;
+  =-- de menos=, to miss.
+
+=efectivamente=, effectually, actually,
+to be sure.
+
+=ejército=, _m._, army.
+
+=el=, =la=, =lo=, _definite article_.
+
+=él=, he, him, it.
+
+=elevado=, high.
+
+=elevar=, to elevate.
+
+=ella=, she, her, it.
+
+=ello=, it.
+
+=embargo=, _m._, =sin --=, nevertheless,
+however.
+
+=empeñarse=, to persist.
+
+=empeño=, _m._, ardor.
+
+=empezar=, to begin.
+
+=emplear=, to employ.
+
+=emponzoñar=, to poison.
+
+=empujar=, to push, shove, press.
+
+=en=, in, on, into, among.
+
+=enajenado=, alienated, withdrawn,
+enraptured, frenzied.
+
+=enajenamiento=, _m._, alienation,
+rapture, frenzy.
+
+=enamorado= (=de=), in love with;
+   _m._, one in love.
+
+=encanto=, _m._, charm.
+
+=encargar=, to charge.
+
+=encender=, to kindle, light.
+
+=encerrar=, to shut up.
+
+=enconar=, to irritate.
+
+=encontrar=, to meet, find;
+  =--se=, to be found.
+
+=encubierto=, covered, wrapped
+_or_ hidden in a cloak or
+helmet.
+
+=endecha=, dirge.
+
+=endurecer=, to harden.
+
+=enemigo=, hostile;
+  _m._, enemy.
+
+=enfermo=, ill.
+
+=enfin=, finally, in fine.
+
+=enflaquecer=, to weaken, fade.
+
+=engañar=, to deceive;
+  =--se=, to deceive oneself.
+
+=engañoso=, deceitful.
+
+=engordar=, to become fat.
+
+=enlace=, _m._, alliance.
+
+=enojar=, to annoy, irritate, trouble;
+  =--se=, to become angry, offended; to be bored.
+
+=enojo=, _m._, anger, trouble.
+
+=enrojecido=, reddened.
+
+=ensayo=, _m._, trial.
+
+=enteramente=, entirely.
+
+=entender=, to listen, understand;
+  =--se=, to go without saying.
+
+=entibiarse=, to become tepid.
+
+=entonces=, then.
+
+=entrada=, _f._, entrance.
+
+=entrar=, to enter;
+  =--se=, to enter.
+
+=entre=, among, between.
+
+=entregar=, to give, deliver.
+
+=entristecer=, to make sad.
+
+=envenenar=, to poison.
+
+=envidiable=, enviable.
+
+=envidiar=, to envy.
+
+=envilecer=, to debase.
+
+=envuelto=, enclothed, wrapped.
+
+=equivocar=, to mistake;
+  =--se=, to be mistaken.
+
+=erizar=, to bristle, stand on end.
+
+=error=, _m._, mistake.
+
+=esa=, _see_ =ese=.
+
+=escalera=, _f._, staircase.
+
+=escaño=, _m._, bench.
+
+=escaparse=, to escape.
+
+=escarmiento=, _m._, warning.
+
+=escena=, _f._, scene.
+
+=esclarecido=, illustrious.
+
+=esclava=, _f._, slave.
+
+=esconder=, to hide.
+
+=escuchar=, to listen.
+
+=escudar=, to shield.
+
+=escudero=, _m._, squire.
+
+=escudo=, _m._, shield;
+  -- de armas, coat of arms.
+
+=ese=, =esa=, that, that one.
+
+=eso=, n., that.
+
+=espacio=, _m._, space, slowness, respect.
+
+=espada=, _f._, sword.
+
+=espalda=, _f._, shoulder, back.
+
+=espantar=, to frighten.
+
+=espantoso=, frightful, fearful.
+
+=espectáculo=, _m._, sight, spectacle.
+
+=espectro=, _m._, spectre.
+
+=esperanza=, _f._, hope.
+
+=esperar=, to expect, await, hope.
+
+=espesísimo=, very thick.
+
+=espiar=, to spy.
+
+=espirar=, to die.
+
+=espiritual=, ghastly, spiritual.
+
+=esposa=, _f._, spouse.
+
+=esqueleto=, _m._, skeleton.
+
+=esta=, _see_ =este=.
+
+=estampar=, to stamp.
+
+=estampido=, _m._, crash.
+
+=estar=, to be;
+  =-- bueno=, to be well.
+
+=este=, =esta=, this, this one.
+
+=estimar=, to esteem.
+
+=esto=, this.
+
+=estorbar=, to hinder, prevent, be in the way.
+
+=estrechar=, to clasp.
+
+=estrella=, _f._, star.
+
+=estremecer=, to tremble.
+
+=estrofa=, _f._, verse, strophe.
+
+=estruendo=, _m._, clamor.
+
+=estupendo=, marvellous, stupendous.
+
+=eternamente=, eternally.
+
+=eternidad=, _f._, eternity.
+
+=eterno=, eternal.
+
+=exclamar=, to exclaim.
+
+=existencia=, _f._, existence.
+
+=existir=, to exist.
+
+=experimentar=, to experience.
+
+=explorar=, to explore.
+
+=exponer=, to expose.
+
+=expresar=, to express.
+
+=expresión=, _f._, expression.
+
+=extasiado=, enthusiastic, in ecstasy.
+
+=extasiarse=, to be in ecstasy.
+
+=extrañar=, to censure, wonder at.
+
+=extremo=, _m._, extreme, utmost point;
+  =con --=, in the extreme;
+  =en ----=, extremely.
+
+
+F
+
+=facciones=, _f. pl._, features.
+
+=facilidad=, _f._, facility, ease.
+
+=fachada=, _f._, façade.
+
+=falange=, _f._, phalanx.
+
+=falaz=, deceitful.
+
+=falso=, false.
+
+=falta=, _f._, lack;
+  =hacer --=, to be lacking;
+  =a -- de=, for lack of, in want of.
+
+=faltar=, to lack;
+  =eso me faltaba=, this is the last straw.
+
+=familia=, _f._, family.
+
+=fantasma=, _f._, phantom.
+
+=fantástico=, fantastic.
+
+=fatal=, fatal.
+
+=fatídico=, prophetic.
+
+=favor=, _m._, favor;
+  =por --=, if you please, heavens!
+
+=favorecer=, to favor.
+
+=fe=, faith.
+
+=felicidad=, _f._, happiness.
+
+=feliz=, happy.
+
+=féretro=, _m._, coffin.
+
+=feroz=, fierce.
+
+=Ferrando=, _proper name_.
+
+=ferreruelo=, _m._, a long coat.
+
+=fiar=, to confide, trust.
+
+=fiel=, faithful.
+
+=figura=, _f._, face, figure, form.
+
+=figurar=, to seem; --se, to imagine.
+
+=fijar=, to fix, fasten.
+
+=fin=, _m._, end;
+  =al --=, finally, to the last;
+  =en --=, in fine, finally.
+
+=firmamento=, _m._, firmament.
+
+=flor=, _f._, flower.
+
+=florín=, _m._, a silver coin.
+
+=fondo=, _m._, bottom, back (_of the
+theatre, etc._).
+
+=fortuna=, _f._, fortune.
+
+=fratricido=, fratricidal.
+
+=frenético=, wild.
+
+=frente=, _f._, brow, forehead.
+
+=frío=, cold.
+
+=frío=, _m._, cold.
+
+=fuego=, _m._, fire.
+
+=fuera=, outside.
+
+=fuerte=, strong.
+
+=fuerza=, _f. pl._, force, strength;
+  =ser ---- de=, to be necessary.
+
+=funesto=, lamentable, sad, ominous.
+
+=furioso=, wild.
+
+=furor=, _m._, fury, wildness.
+
+
+G
+
+=galán=, gallant.
+
+=galantear=, to pay court.
+
+=galería=, _f._, corridor, hall.
+
+=gana=, _f._, desire.
+
+=garlito=, _m._, snare, trap.
+
+=gemido=, _m._, groan.
+
+=gente=, _f._, people.
+
+=gesto=, _m._, gesture.
+
+=gitano=, _f._, gypsy.
+
+=gloria=, _f._, glory.
+
+=gobernar=, to govern.
+
+=golpe=, _m._, blow.
+
+=gotera=, _f._, gutter.
+
+=gozar= (=de=), to enjoy;
+  =--se=, to delight in.
+
+=grabar=, to engrave.
+
+=gracias=, _f. pl._, thanks.
+
+=gran=, =grande=, great, large.
+
+=gratarse=, to engrave itself.
+
+=grato=, pleasing.
+
+=gravemente=, seriously.
+
+=grillo=, _m._, bar.
+
+=gritar=, to cry.
+
+=grito=, _m._, cry.
+
+=guardar=, to keep, guard.
+
+=guerra=, _f._, war.
+
+=guiar=, to guide.
+
+=guisa=, mode, manner, mood.
+
+=gusto=, _m._, pleasure.
+
+=Guzmán=, _proper name_.
+
+
+H
+
+=haber=, to have (_as on auxiliary_); to be;
+  =-- de=, to be about to;
+  =habérselas=, to dispute.
+
+=habitación=, _f._, room.
+
+=hablar=, to speak.
+
+=hacer=, to make, do;
+  =hace un año=, it is a year since.
+
+=hacia=, towards.
+
+=hacha=, _f._, axe.
+
+=halagar=, to caress, flatter.
+
+=halago=, _m._, caress.
+
+=hallar=, to find.
+
+=harapos=, _m. pl._, rags.
+
+=Haro=, _proper name_.
+
+=harto=, enough.
+
+=hasta=, to, until.
+
+=hay=, there is, there are.
+
+=hechicera=, _f._, witch, hag.
+
+=hechizar=, to bewitch.
+
+=helar=, to freeze.
+
+=herida=, _f._, wound.
+
+=herir=, to strike.
+
+=hermana=, _f._, sister.
+
+=hermano=, _m._, brother.
+
+=hermoso=, beautiful.
+
+=hermosura=, _f._, beauty.
+
+=hidalgo=, _m._, noble.
+
+=hildaguía=, _f._, nobility.
+
+=hielo=, _m._, frost, coldness.
+
+=hierro=, _m._, iron.
+
+=hija=, _f._, daughter.
+
+=hijo=, _m._, son.
+
+=historia=, _f._, story.
+
+=hoguera=, _f._, fire, pyre.
+
+=hombre=, _m._, man.
+
+=honor=, _m._, honor.
+
+=honrado=, honored.
+
+=hora=, _f._, hour, time.
+
+=horrendo=, horrible.
+
+=horrible=, horrible.
+
+=horrísono=, horrible sounding.
+
+=horror=, _m._, horror.
+
+=horroroso=, horrible.
+
+=horroso=, horrible.
+
+=hoy=, to-day.
+
+=hueso=, _m._, bone.
+
+=hueste=, _f._, army, host.
+
+=huir=, to flee.
+
+=humilde=, humble, lowly.
+
+=humillar=, to humiliate.
+
+=humo=, _m._, smoke.
+
+=huracán=, _m._, hurricane.
+
+
+I
+
+=idolatrar=, to idolize.
+
+=iglesia=, _f._, church.
+
+=igual=, equal.
+
+=ilusión=, _f._, illusion.
+
+=iluso=, deluded.
+
+=ilustre=, illustrious.
+
+=imagen=, _f._, image.
+
+=imaginar=, to imagine.
+
+=imbécil=, _m._, imbecile, fool.
+
+=impaciencia=, _f._, impatience.
+
+=impiedad=, _f._, impiety, cruelty.
+
+=impío=, impious, cruel.
+
+=implorar=, to implore.
+
+=importar=, to be of import.
+
+=importuno=, troublesome.
+
+=imposible=, impossible.
+
+=imprevisto=, unforeseen.
+
+=impunemente=, with impunity.
+
+=impuro=, impure.
+
+=inaudito=, unheard.
+
+=incomodar=, to incommode.
+
+=inconveniente=, _m._, discomfort,
+inconvenience.
+
+=incorporarse=, to rise.
+
+=indiscreto=, indiscreet.
+
+=indómito=, wild, ungoverned.
+
+=infame=, infamous.
+
+=infamia=, _f._, infamy.
+
+=infelice=, unhappy.
+
+=infeliz=, unhappy.
+
+=infernal=, infernal.
+
+=infiel=, faithless.
+
+=infierno=, _m._, hell.
+
+=ingrato=, ungrateful, unpleasing.
+
+=inhumano=, inhuman.
+
+=injusto=, unjust.
+
+=inmediaciones=, _f. pl._, surroundings.
+
+=inmediatamente=, immediately.
+
+=inmortal=, immortal.
+
+=inmundo=, unclean.
+
+=inocencia=, _f._, innocence.
+
+=inocente=, innocent.
+
+=inquietud=, _f._, inquietude.
+
+=insano=, unwell, insane.
+
+=insensato=, insensate.
+
+=insolente=, insolent.
+
+=instante=, _m._, instant.
+
+=instruir=, to instruct.
+
+=insultar=, to insult.
+
+=intento=, _m._, intent.
+
+=interior=, _m._, interior.
+
+=interiormente=, inwardly.
+
+=internar=, to penetrate.
+
+=interrumpir=, to interrupt.
+
+=introducir=, to introduce;
+  =--se=, to enter.
+
+=ir=, to go;
+  =--se=, to go away.
+
+=irritar=, to irritate.
+
+=Iscariote=, _m._, Iscariot.
+
+=izquierda=, left (hand).
+
+
+J
+
+=¡ja!= ha!
+
+=jamás=, never.
+
+=jardín=, _m._, garden.
+
+=jarope=, _m._, soothing-syrup.
+
+=Jerusalén=, _proper name_.
+
+=Jesucristo=, _m._, Christ.
+
+=Jesús=, _m._, Jesus.
+
+=Jimena=, _proper name_.
+
+=Jimeno=, _proper name_.
+
+=jornada=, _f._, act.
+
+=judío=, _m._, Jew.
+
+=jugar=, to play.
+
+=jum=, hum.
+
+=junto=, together;
+  =-- a=, near.
+
+=juramento=, _m._, oath.
+
+=jurar=, to swear.
+
+=justicia=, _f._, justice.
+
+=Justicia=, _f._, Justice.
+
+=juventud=, _f._, youth.
+
+=juzgar=, to judge.
+
+
+L
+
+=labio=, _m._, lip.
+
+=lado=, _m._, side.
+
+=lágrima=, _f._, tear.
+
+=laguna=, _f._, lagoon.
+
+=lamento=, _m._, lamentation, cry.
+
+=lámpara=, _f._, lamp.
+
+=lance=, sudden quarrel, transaction.
+
+=Lanuza=, _proper name_.
+
+=lanza=, _f._, lance.
+
+=lanzar=, to utter, throw, lance.
+
+=largo=, large, long.
+
+=lastimoso=, complaining, sad.
+
+=lateral=, lateral, at the side.
+
+=latir=, to palpitate.
+
+=laúd=, _m._, lute.
+
+=lavar=, to wash.
+
+=lechuza=, _f._, screech owl.
+
+=legión=, _f._, legion.
+
+=lejano=, distant.
+
+=lejos=, afar;
+  =de ----=, from afar.
+
+=lengua=, _f._, tongue.
+
+=Leonor=, _proper name_.
+
+=levantar=, to raise;
+  =--se=, to rise.
+
+=ley=, _f._, law.
+
+=libertad=, _f._, liberty.
+
+=libertar=, to free.
+
+=librar=, to free.
+
+=libre=, free.
+
+=lidiador=, _m._, combatant.
+
+=lidiar=, to fight.
+
+=límite=, _m._, limit, bound.
+
+=liviandad=, _f._, imprudence, madness.
+
+=liviano=, light, unsteady, imprudent,
+mad.
+
+=lo=, _neuter article_.
+
+=loco=, crazy, mad.
+
+=locura=, _f._, madness, foolishness.
+
+=locutorio=, _m._, parlor in a convent.
+
+=lograr=, to succeed.
+
+=lozano=, sprightly.
+
+=luciente=, shining.
+
+=lucha=, _f._, combat.
+
+=luego=, then, soon;
+  =muy --=, very soon.
+
+=lugar=, _m._, place, occasion.
+
+=lúgubre=, sad, funereal.
+
+=Luna=, proper name.
+
+=luna=, _f._, moon.
+
+=luz=, _f._, light.
+
+
+Ll
+
+=llaga=, _f._, wound.
+
+=llama=, _f._, flame.
+
+=llamamiento=, _m._, call.
+
+=llamar=, to call.
+
+=llanto=, _m._, tears.
+
+=llave=, _f._, key.
+
+=llegar=, to reach; to get to; to
+arrive.
+
+=llenar=, to fill.
+
+=lleno=, full;
+  =-- de=, full of.
+
+=llevar=, to take, carry, take from;
+  =--se=, to rise.
+
+=llorar=, to weep.
+
+=lloro=, _m._, tears.
+
+=lloroso=, weeping, tearful.
+
+
+M
+
+=madre=, _f._, mother.
+
+=madrugada=, _f._, dawn.
+
+=madurez=, _f._, judgment, maturity.
+
+=mal=, evil, ill.
+
+=mal=, _m._, evil, harm, ill, sorrow.
+
+=maldecir=, to curse.
+
+=maldición=, _f._, a curse.
+
+=maldito=, accursed.
+
+=malo=, evil, bad, badly.
+
+=malogrado=, unfortunate.
+
+=maltratar=, to maltreat.
+
+=mancha=, _f._, blot.
+
+=mandar=, to order, command.
+
+=manera=, _f._, way.
+
+=manifestar=, to manifest.
+
+=mano=, _f._, hand.
+
+=mansión=, _f._, house.
+
+=mañana=, _f._, morning.
+
+=maravedí=, _m._, maravedí (a
+coin).
+
+=marcha=, _f._, march.
+
+=marchar=, to march;
+  =--se=, to go away.
+
+=marchitar=, to wear away, deprive
+of vigor.
+
+=mármol=, _m._, marble.
+
+=martirio=, _m._, martyrdom.
+
+=martirizar=, to martyrize.
+
+=marzo=, _m._, month of March.
+
+=más=, more, better, most;
+  =poco -- o menos=, just about;
+  =los --=, the greater part;
+  =a --=, besides.
+
+=mas=, but.
+
+=matar=, to kill.
+
+=mayor=, larger, older, greater;
+  =-- como=, greater than.
+
+=mayorcito=, the older little one.
+
+=me=, me.
+
+=medida=, _f._, measure.
+
+=medio=, _m._, means.
+
+=mejor=, better.
+
+=mejorar=, to improve.
+
+=melancólico=, sad.
+
+=melodía=, _f._, melody.
+
+=memoria=, memory.
+
+=menester=, _m._, necessity, need;
+  =ser --=, to be necessary.
+
+=menos=, less;
+  =a lo --=, at least.
+
+=menospreciar=, to depreciate.
+
+=mente=, _f._, mind.
+
+=menudo=, small;
+  =a --=, often.
+
+=merecer=, to deserve.
+
+=mes=, _m._, month.
+
+=mesa=, _f._, table.
+
+=mi=, my.
+
+=mí=, me.
+
+=miedo=, _m._, fear.
+
+=miembro=, _m._, limb.
+
+=mientras=, =mientra=, while.
+
+=mil=, thousand.
+
+=ministrar=, to give scope.
+
+=minuto=, _m._, minute.
+
+=mío=, my.
+
+=mirada=, _f._, look.
+
+=mirar=, to look, look at.
+
+=miserable=, wretch.
+
+=miseria=, _f._, misery.
+
+=mismo=, same, very.
+
+=misterioso=, mysterious.
+
+=modo=, _m._, way, manner.
+
+=molesto=, troublesome.
+
+=momento=, _m._, moment.
+
+=montaña=, _f._, mountain.
+
+=monte=, _m._, mountain.
+
+=moribundo=, dying, pale.
+
+=morir=, to die.
+
+=mortal=, mortal.
+
+=mostrar=, to show.
+
+=motivar=, to cause; to occasion.
+
+=motivo=, _m._, motive.
+
+=mover=, to move.
+
+=mozo=, _m._, fellow, boy.
+
+=mucho=, much, many.
+
+=mucho=, _adv._, much.
+
+=muerte=, _f._, death.
+
+=mujer=, _f._, woman.
+
+=mundo=, _m._, world.
+
+=muralla=, _f._, wall.
+
+=murmurar=, to murmur.
+
+=muro=, _m._, wall.
+
+=muy=, very.
+
+
+N
+
+=nacer=, to be born.
+
+=nada=, _f._, nothing.
+
+=nadie=, no one.
+
+=natural=, natural.
+
+=necesario=, necessary.
+
+=necesidad=, _f._, necessity.
+
+=necesitar=, to need.
+
+=necio=, foolish.
+
+=negar=, to deny.
+
+=negro=, black.
+
+=ni=, even, not even;
+  neither...nor.
+
+=ninguno=, not one.
+
+=niño=, _m._, son, boy.
+
+=no=, not, no.
+
+=noble=, noble.
+
+=nocturno=, nocturnal.
+
+=noche=, _f._, night;
+  =de, por la --=, at night.
+
+=nombre=, _m._, name.
+
+=nos=, we.
+
+=notícia=, _f._, news, notice.
+
+=nube=, _f._, cloud.
+
+=nudo=, _m._, bond, knot.
+
+=nuestro=, our;
+  =el --=, our.
+
+=nueva=, _f._, news.
+
+=nuevo=, new.
+
+=numeroso=, numerous.
+
+=nunca=, never.
+
+=Nuño=, _proper name_.
+
+
+O
+
+=o=, or.
+
+=objeto=, _m._, object, aim.
+
+=obligar=, to force, oblige.
+
+=observar=, to observe.
+
+=obstinarse=, to be obstinate.
+
+=ocasión=, _f._, occasion.
+
+=ocultar=, to hide.
+
+=oculto=, hidden.
+
+=ocupar=, to occupy.
+
+=odiar=, to hate.
+
+=ofender=, to offend.
+
+=ofrecer=, to offer.
+
+=ofuscar=, to prevent from using,
+from being seen; to cloud.
+
+=oído=, _m._, hearing.
+
+=oír=, to hear.
+
+=ojalá=, would to God.
+
+=ojo=, _m._, eye.
+
+=olvidar=, to forget.
+
+=olvido=, _m._, oblivion.
+
+=omnipotente=, all-powerful.
+
+=oponer=, to oppose.
+
+=oprimir=, to oppress.
+
+=opuesto=, opposite.
+
+=orar=, to pray.
+
+=orden=, _f._, order.
+
+=orgullo=, _m._, pride.
+
+=orgulloso=, proud.
+
+=orilla=, _f._, shore.
+
+=oro=, _m._, gold.
+
+=os=, to you, you, _etc._
+
+=osado=, daring, bold.
+
+=osar=, to dare.
+
+=oscurecer=, to obscure.
+
+=oscuridad=, _f._, darkness.
+
+=oscurísimo=, very dark.
+
+=oscuro=, dark, obscure.
+
+=otro=, other.
+
+
+P
+
+=paciencia=, _f._, patience, suffering.
+
+=padecer=, to suffer.
+
+=padecimento=, _m._, suffering.
+
+=padre=, _m._, father, parent.
+
+=padre nuestro=, prayer.
+
+=pagar=, to pay.
+
+=pago=, _m._, payment.
+
+=palabra=, _f._, word.
+
+=palacio=, _m._, palace.
+
+=pálido=, pale.
+
+=palo=, _m._, blow.
+
+=palpitar=, to palpitate.
+
+=par=, =a par de=, as, in measure as.
+
+=para=, to, for, in order to.
+
+=pardiez=, by Heaven.
+
+=parecer=, to seem.
+
+=pared=, _f._, wall.
+
+=parrillas=, _f. pl._, gridiron.
+
+=parte=, _f._, part, portion;
+  =a --=, apart;
+  =por todas --s=, in all parts.
+
+=particular=, strange.
+
+=particularmente=, particularly.
+
+=partidario=, _m._, partisan.
+
+=partir=, to break, cleave, leave.
+
+=pasado=, past.
+
+=pasar=, to pass, happen.
+
+=pasear=, to lead;
+  =--se=, to walk.
+
+=pasión=, _f._, passion.
+
+=paso=, _m._, step.
+
+=pausar=, to pause; to beat time, measure.
+
+=pavor=, _m._, fear.
+
+=paz=, _f._, peace.
+
+=pecho=, _m._, breast.
+
+=pedir=, to ask, beg.
+
+=pelear=, to fight.
+
+=peligrar=, to run danger, be dangerous.
+
+=peligro=, _m._, danger.
+
+=peligroso=, dangerous.
+
+=pelota=, _f._, ball.
+
+=penacho=, _m._, feather of a helmet.
+
+=pender=, to hang.
+
+=penetrante=, penetrating.
+
+=pensar=, to think.
+
+=peor=, worse.
+
+=percibir=, to perceive.
+
+=perder=, to lose;
+  =--se=, to lose or ruin oneself.
+
+=perdición=, _f._, perdition.
+
+=perdidamente=, madly.
+
+=perdón=, _f._, pardon.
+
+=perdonar=, to pardon.
+
+=pérfido=, perfidious.
+
+=perjuro=, perjured, false.
+
+=permitir=, to allow, permit.
+
+=pero=, but.
+
+=perseguir=, to follow, persecute.
+
+=persistir=, to persist.
+
+=persona=, _f._, person, character.
+
+=personaje=, _m._, dramatis personæ.
+
+=pertenecer=, to belong.
+
+=perverso=, perverse, wicked.
+
+=pesar=, _m._, regret;
+  =a -- de=, in spite of.
+
+=pesar=, to weigh, be heavy;
+  =-- a= alguien, to regret.
+
+=pesiar=, to curse.
+
+=piadoso=, pious, piteous.
+
+=pica=, _f._, pike.
+
+=pícaro=, _m._, wretch.
+
+=pie=, _m._, foot.
+
+=piedad=, _f._, pity;
+  =por --=, for pity's sake.
+
+=piedra=, _f._, stone.
+
+=pillar=, to catch, seize, pillage.
+
+=pintar=, to paint.
+
+=placer=, _m._, pleasure.
+
+=placer=, to please.
+
+=plácido=, calm, placid.
+
+=plata=, _f._, silver.
+
+=pobre=, poor.
+
+=pobretón=, poor (man).
+
+=pobreza=, _f._, poverty.
+
+=poco=, few, little.
+
+=poder=, _m._, power.
+
+=poder=, to be able.
+
+=polvo=, _m._, dust, ashes.
+
+=pomo=, _m._, bottle, vial.
+
+=pompa=, _f._, pomp.
+
+=poner=, to put, place;
+  =--se a=, to set to work to.
+
+=por=, to, through, towards.
+
+=por qué=, why.
+
+=porque=, because.
+
+=porvenir=, _m._, future.
+
+=posible=, possible.
+
+=postrar=, to humiliate, prostrate;
+  =--se=, to prostrate oneself.
+
+=precio=, _m._, price.
+
+=precipitado=, hasty.
+
+=precipitar=, to precipitate.
+
+=precisamente=, precisely, truly.
+
+=preciso=, necessary.
+
+=preferir=, to prefer.
+
+=preguntar=, to question.
+
+=preludio=, _m._, prelude.
+
+=premio=, _m._, prize, reward,
+pledge.
+
+=prenda=, _f._, proof, token, pledge.
+
+=prender=, to arrest, take.
+
+=preparar=, to prepare.
+
+=presencia=, _f._, presence.
+
+=presteza=, _f._, agility.
+
+=presto=, quick, quickly.
+
+=pretender=, to plan, pretend.
+
+=pretensión=, _f._, pretension.
+
+=primero=, first, rather.
+
+=príncipe=, prince.
+
+=prisión=, _f._, prison.
+
+=privar=, to deprive.
+
+=probar=, to try, prove.
+
+=procurar=, to obtain; to try.
+
+=prodigar=, to give generously.
+
+=profanar=, to profane.
+
+=profesar=, to take the vows.
+
+=profundo=, deep.
+
+=prolongar=, to prolong.
+
+=promesa=, _f._, promise.
+
+=prometer=, to promise.
+
+=pronto=, prompt, ready, rapid, soon;
+  =de --=, suddenly.
+
+=propio=, self.
+
+=proporcionar=, to proportion, obtain;
+  =--se=, to provide oneself with.
+
+=propósito=, _m._, intention, plan;
+  =a --=, fitting.
+
+=prosa=, _f._, prose.
+
+=prosapia=, _f._, race, family.
+
+=proscripto=, proscribed, outlawed.
+
+=prosternado=, prostrate.
+
+=prostrarse=, to prostrate oneself.
+
+=proteger=, to protect.
+
+=proyecto=, plan.
+
+=prudentemente=, prudently.
+
+=prueba=, _f._, trial, proof.
+
+=públicamente=, publicly.
+
+=pueblo=, _m._, town, people, crowd.
+
+=puerta=, _f._, door;
+  =Puerta del Sol=, square in Saragossa.
+
+=pues=, but then.
+
+=puesto=, _p. p. of_ =poner=, put.
+
+=pujanza=, _f._, strength.
+
+=pulsar=, to play.
+
+=puñal=, _m._, dagger.
+
+=punta=, _f._, point, appearance.
+
+=punto=, _m._, point;
+  =al --=, immediately.
+
+=puro=, pure.
+
+
+Q
+
+=que=, that, than, _etc._
+
+=¿qué?= what? which? _etc._
+
+=quebrantar=, to break, cut.
+
+=quebrar=, to break;
+  =quebrado=, lifeless.
+
+=quedar=, to remain;
+  =--se=, to remain.
+
+=queja=, _f._, complaint.
+
+=quejido=, _m._, wail.
+
+=quemar=, to burn.
+
+=querella=, _f._, quarrel, complaint.
+
+=querer=, to wish, want, love.
+
+=querido=, beloved.
+
+=quien=, who.
+
+=¿quién?= who?
+
+=quimérico=, chimerical.
+
+=quitar=, to take away.
+
+=quizá=, =quizás=, perhaps.
+
+
+R
+
+=rabia=, _f._, rage.
+
+=raro=, rare.
+
+=rasgar=, to tear, lacerate.
+
+=rato=, _m._, time;
+  =a poco --=, in a short time.
+
+=raudal=, _m._, torrent.
+
+=rayo=, _m._, thunderbolt, lightening.
+
+=razón=, _f._, reason, mind.
+
+=real=, real.
+
+=rebato=, _m._, alarm;
+  =tocar a --=, to sound an alarm.
+
+=rebelde=, rebel.
+
+=rebozar=, to wrap up in a coat.
+
+=recibir=, to receive.
+
+=recién=, =reciente=, recent, recently.
+
+=reclinatorio=, _m._, prayer-stool.
+
+=recobrar=, to recover.
+
+=recompensar=, to reward.
+
+=reconocer=, to recognize.
+
+=reconvención=, _f._, reproach.
+
+=recordar=, to recall.
+
+=recostarse=, to lean.
+
+=recuerdo=, _m._, souvenir, memory.
+
+=recurso=, _m._, recourse, refuge, means.
+
+=rechazar=, to repulse.
+
+=redentor=, _m._, redeemer.
+
+=regularmente=, regularly.
+
+=reina=, _f._, queen.
+
+=reírse=, to laugh at.
+
+=reja=, _f._, grill.
+
+=relámpago=, _m._, streak of lightning.
+
+=religiosa=, _f._, nun.
+
+=religioso=, _m._, priest.
+
+=reluciente=, shining.
+
+=remedio=, _m._, remedy.
+
+=rencor=, _m._, hatred.
+
+=reo=, _m._, wretch, criminal.
+
+=reparar=, to notice.
+
+=repente=, =de --=, suddenly.
+
+=repetir=, to repeat.
+
+=reposar=, to rest.
+
+=representar=, to represent.
+
+=resentirse=, to resent, suffer, be
+out of order.
+
+=resignarse=, to resign oneself.
+
+=resistencia=, _f._, resistance.
+
+=resonar=, to sound.
+
+=respetar=, to respect.
+
+=respirar=, to breathe.
+
+=resplandor=, _m._, splendor, glare.
+
+=responder=, to answer.
+
+=responso=, _m._, chant.
+
+=restar=, to remain.
+
+=resuelto=, resolved.
+
+=retar=, to speak haughtily, challenge.
+
+=retemblar=, to cause to shiver,
+tremble, resound.
+
+=retirarse=, to retire.
+
+=retronar=, to thunder again.
+
+=revelación=, _f._, revelation.
+
+=revolotear=, to flutter.
+
+=revuelta=, _f._, revolt.
+
+=rey=, _m._, king.
+
+=rezar=, to pray, recite.
+
+=ribete=, _m._, adjunct.
+
+=rigor=, _m._, rigor, severity.
+
+=risueño=, smiling.
+
+=rival=, _m._, rival.
+
+=robar=, to steal.
+
+=rodar=, to roll.
+
+=rodear=, to wander about, surround.
+
+=rogar=, to beg.
+
+=rollizo=, robust.
+
+=ronco=, rough, hoarse.
+
+=rondar=, to make the night
+round, spy.
+
+=rostro=, _m._, face.
+
+=ruego=, _m._, prayer.
+
+=rugir=, to roar.
+
+=ruido=, _m._, noise.
+
+=Ruiz=, _m._, _proper name_.
+
+=rumor=, _m._, noise, rumor.
+
+
+S
+
+=saber=, to know.
+
+=sacar=, to draw out, seize.
+
+=sacerdote=, _m._, priest.
+
+=saciar=, satiate, quench.
+
+=saco=, _m._, sack.
+
+=sacrificar=, to sacrifice.
+
+=sacrificio=, _m._, sacrifice.
+
+=sacrosanto=, most holy.
+
+=sacudir=, to shake, beat.
+
+=sagrado=, sacred.
+
+=sala=, _f._, hall.
+
+=salir=, to go out; to come on the
+stage.
+
+=salvar=, to save.
+
+=salvo=, safe;
+  =estar en --=, to be in safety.
+
+=sangre=, _f._, blood.
+
+=sangriento=, bloody.
+
+=santo=, holy.
+
+=Satanás=, _m._, Satan.
+
+=se=, _refl._, himself, herself, _etc._
+
+=seco=, dry.
+
+=secreto=, _m._, secret.
+
+=secreto=, _adj._, secret.
+
+=seductor=, _m._, seducer, abductor.
+
+=seductor=, _adj._, seductive.
+
+=seductora=, _f._, one who leads astray.
+
+=seguir=, to follow.
+
+=segundo=, second.
+
+=seguramente=, surely.
+
+=seguro=, sure.
+
+=seis=, six.
+
+=seiscientos=, six hundred.
+
+=semblante=, _m._, face.
+
+=semejante=, similar.
+
+=sempiterno=, eternal.
+
+=seno=, _m._, breast.
+
+=sentado=, seated.
+
+=sentar=, to seat; to sit;
+  =----se=, to sit down.
+
+=sentencia=, _f._, sentence.
+
+=sentido=, _m._, senses.
+
+=sentir=, to feel, regret.
+
+=señal=, signal.
+
+=señalar=, to signal.
+
+=señor=, _m._, sir, master.
+
+=separar=, to separate.
+
+=sepulcro=, _m._, grave.
+
+=séquito=, _m._, procession, suite.
+
+=ser=, _m._, being.
+
+=ser=, to be.
+
+=servicio=, _m._, service.
+
+=servir=, to serve.
+
+=Sesé=, =proper name=.
+
+=si=, if, whether.
+
+=sí=, yes, indeed.
+
+=sí=, _refl._, himself, herself, _etc._
+
+=siempre=, always.
+
+=siglo=, _m._, century.
+
+=significar=, to mean.
+
+=siguiente=, following.
+
+=silencio=, _m._, silence.
+
+=silenciosamente=, silently.
+
+=silencioso=, silent.
+
+=simple=, simple.
+
+=sin=, without.
+
+=sincero=, sincere.
+
+=siniestro=, sinister.
+
+=sino=, but, except, if not.
+
+=siquiera=, at least, even.
+
+=sitiar=, to besiege.
+
+=sitio=, _m._, place.
+
+=soberbio=, proud, haughty.
+
+=sobre=, upon.
+
+=sobrecoger=, to seize.
+
+=sobresaltado=, startled.
+
+=sobresaltar=, to startle.
+
+=socorrer=, to help, aid.
+
+=sofocar=, to suffocate.
+
+=sol=, _m._, sun.
+
+=solamente=, only, alone.
+
+=solar=, _m._, castle.
+
+=soldado=, _m._, soldier.
+
+=soler=, to be accustomed.
+
+=solo=, _adj._, one, single.
+
+=sólo=, _adv._, only, alone.
+
+=soltar=, to free.
+
+=sombra=, _f._, shadow.
+
+=sombrío=, dark, sombre.
+
+=sonar=, to sound;
+  =--se=, to be said.
+
+=sonreír=, =sonreírse=, to smile.
+
+=sonrisa=, _f._, smile.
+
+=soñar=, to dream.
+
+=sorberse=, to swallow, sip.
+
+=sordo=, deaf.
+
+=sorprender=, to surprise.
+
+=sosegar=, to calm, quiet.
+
+=sospechar=, to suspect.
+
+=sostener=, to support.
+
+=su=, his, her, its, _etc._
+
+=súbito=, suddenly.
+
+=suceder=, to happen.
+
+=suceso=, _m._, event.
+
+=sucumbir=, to succumb.
+
+=sudor=, _m._, sweat.
+
+=suelo=, _m._, ground.
+
+=sueño=, _m._, sleep, dream.
+
+=suerte=, _f._, fate, way;
+  =de esa --=, in this way.
+
+=sufrir=, to allow, suffer.
+
+=suministrar=, to minister, afford.
+
+=superar=, to surpass.
+
+=superior=, higher, superior,
+above.
+
+=suplicio=, _m._, suffering, execution.
+
+=suponer=, to think, plan, suppose.
+
+=suportar=, to bear.
+
+=supremo=, supreme.
+
+=supuesto=, supposed.
+
+=suspender=, to suspend.
+
+=suspirar=, to sigh.
+
+=suspiro=, _m._, sigh.
+
+=suyo=, his, her, its, _etc._
+
+
+T
+
+=tal=, as, such a;
+  =-- vez=, perhaps.
+
+=también=, also, equally.
+
+=tan=, so, as;
+  =-- solo=, only.
+
+=tanto=, so much;
+  =entre --=, meanwhile;
+  =a --=, to such a degree;
+  =-- como=, as much as.
+
+=tardanza=, _f._, delay.
+
+=tardar=, to delay.
+
+=tarde=, _f._, afternoon.
+
+=tarde=, _adv._, late.
+
+=te=, thee, you.
+
+=teatro=, _m._, theatre.
+
+=techo=, _m._, roof.
+
+=tema=, _m._, theme.
+
+=temblar=, to tremble.
+
+=temblor=, _m._, trembling.
+
+=temer=, to fear.
+
+=temor=, _m._, fear.
+
+=tempestad=, _f._, tempest.
+
+=temprano=, early.
+
+=tender=, to stretch.
+
+=tener=, to have;
+  =-- que=, to have to, be obliged to;
+  =-- cuenta=, to bear in mind.
+
+=tercero=, third.
+
+=ternura=, _f._, tenderness.
+
+=terrible=, terrible.
+
+=terror=, _m._, terror.
+
+=ti=, thee.
+
+=tiempo=, _m._, time.
+
+=tienda=, _f._, tent, pavilion.
+
+=tierno=, affectionate, dear, sweet.
+
+=tirano=, tyrant.
+
+=tocar=, to strike, knock, play an
+  instrument.
+
+=todavía=, still, yet, again.
+
+=todo=, all.
+
+=tomar=, to take.
+
+=torcer=, to twist.
+
+=tormento=, _m._, torment.
+
+=torneo=, _m._, tourney.
+
+=torpe=, disgraceful.
+
+=torre=, _f._, tower.
+
+=tostar=, to roast.
+
+=traer=, to drag, to bring.
+
+=traición=, _f._, treason.
+
+=traidor=, _m._, traitor.
+
+=traidor=, _adj._, treacherous.
+
+=trama=, _f._, plot.
+
+=tranquilo=, quiet.
+
+=trasformar=, to transform.
+
+=traslucirse=, to be divulged; to
+leak through, be transparent.
+
+=traspasar=, to penetrate, go
+through, transfix.
+
+=trastornar=, to excite, upset.
+
+=tratar=, to treat, try.
+
+=travesura=, _f._, joke, prank.
+
+=tremendo=, terrible, tremendous.
+
+=trémulo=, tremulous.
+
+=tres=, three.
+
+=triste=, sad, alas.
+
+=tristemente=, sadly.
+
+=triunfo=, _m._, triumph.
+
+=trono=, _m._, throne.
+
+=tropezar=, to stumble.
+
+=trova=, _f._, verse, serenade.
+
+=trovador=, _m._, troubadour.
+
+=trueno=, _m._, thunder.
+
+=tú=, thou.
+
+=tu=, thy.
+
+=tumba=, _f._, tomb.
+
+=turbación=, _f._, trouble, worry,
+excitement.
+
+=turbar=, to trouble.
+
+=turbio=, dark.
+
+=tuyo=, thy, thine.
+
+
+U
+
+=ufano=, proud.
+
+=últimamente=, at last, lately.
+
+=último=, last;
+  =por --=, finally.
+
+=ultrajar=, to offend, outrage.
+
+=un=, =una=, a, one.
+
+=único=, one, single, unique.
+
+=unir=, to unite.
+
+=universo=, _m._, world.
+
+=uno=, a, one.
+
+=Urgel=, _proper name_.
+
+=Urrea=, _proper name_.
+
+=uso=, _m._, use.
+
+=usurpador=, usurping.
+
+
+V
+
+=vacilar=, to hesitate, vacillate.
+
+=vagabundo=, _m._, vagabond.
+
+=vagar=, to wander.
+
+=valiente=, valiant, brave.
+
+=valor=, strength, courage.
+
+=vanagloriar=, to boast.
+
+=vano=, vain;
+  _en --_, in vain.
+
+=vapor=, _m._, mist.
+
+=vario=, various, some, a number
+of.
+
+=vasallo=, vassal.
+
+=vejez=, _f._, old age.
+
+=vela=, _f._, candle.
+
+=Velilla=, _proper name_.
+
+=velo=, _m._, veil.
+
+=vencer=, to conquer.
+
+=vender=, to sell.
+
+=veneno=, _m._, poison.
+
+=venganza=, _f._, vengeance.
+
+=vengar=, to avenge.
+
+=venida=, _f._, coming.
+
+=venir=, to come.
+
+=ventaja=, _f._, advantage.
+
+=ventana=, _f._, window.
+
+=ventura=, _f._, happiness;
+  =por --=, perchance.
+
+=ver=, to see.
+
+=verdad=, _f._, truth.
+
+=verdugo=, _m._, executioner.
+
+=verificar=, to take place;
+  =--se=, to be realized.
+
+=verso=, _m._, verse.
+
+=vertiendo=, pouring, shedding.
+
+=vez=, _f._, time;
+  =tal --=, perhaps.
+
+=vía=, _f._, way, road.
+
+=vibrar=, to vibrate, shake, wield.
+
+=víctima=, _f._, victim.
+
+=vida=, _f._, life.
+
+=viejo=, old.
+
+=viento=, _m._, wind.
+
+=vil=, vile, base.
+
+=villano=, _m._, peasant, wretch.
+
+=villano=, _adj._, low, mean.
+
+=vínculo=, _m._, chain.
+
+=violento=, violent.
+
+=virtud=, _f._, virtue.
+
+=virtuoso=, virtuous.
+
+=visaje=, face, wry face.
+
+=visera=, _f._, visor.
+
+=visión=, _f._, vision.
+
+=vista=, _f._, sight.
+
+=vivir=, to live.
+
+=vivir=, _m._, life.
+
+=vivo=, alive.
+
+=Vizcaya=, _proper name_.
+
+=volcán=, _m._, volcano.
+
+=voluntad=, _f._, will.
+
+=volver=, to turn;
+  =-- a ver=, to see again;
+  =-- en sí=, to come to one's senses.
+
+=voraz=, voracious.
+
+=vos=, you.
+
+=voto=, _m._, vow.
+
+=voz=, _f._, voice, rumor.
+
+=vuelta=, _f._, return.
+
+=vuestro=, your, yours.
+
+
+Y
+
+=ya=, already.
+
+=yacer=, to lie.
+
+=yermo=, _m._, desert.
+
+=yugo=, _m._, yoke.
+
+
+Z
+
+=Zaragoza=, _f._, Saragossa.
+
+=zumbido=, _m._, buzzing.

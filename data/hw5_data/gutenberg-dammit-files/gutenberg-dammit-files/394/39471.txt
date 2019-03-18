@@ -1,0 +1,1554 @@
+Zoological Illustrations,
+
+OR
+
+ORIGINAL FIGURES AND DESCRIPTIONS
+
+OF
+
+NEW, RARE, OR INTERESTING
+
+ANIMALS,
+
+SELECTED CHIEFLY FROM THE CLASSES OF
+
+Ornithology, Entomology, and Conchology,
+
+AND ARRANGED ON THE PRINCIPLES OF
+
+CUVIER AND OTHER MODERN ZOOLOGISTS.
+
+
+
+BY
+
+WILLIAM SWAINSON, F.R.S., F.L.S.,
+
+MEMBER OF THE WERNERIAN SOCIETY OF EDINBURGH, ETC.
+
+
+
+VOL. I.
+
+
+
+London:
+
+PRINTED BY R. AND A. TAYLOR, SHOE-LANE:
+
+FOR BALDWIN, CRADOCK, AND JOY, PATERNOSTER-ROW;
+AND W. WOOD, STRAND.
+
+
+
+1820-1.
+
+
+
+
+PREFACE.
+
+
+
+The termination of the first volume of the Zoological Illustrations is
+accomplished, and its contents will not only enable our readers to discern
+the nature of the work, but likewise to form a judgement, on that degree of
+improvement which we have introduced since its first publication, and they
+may safely rely on the continuation being in no respect inferior.
+
+In commencing a work of this nature, we have had two principal objects in
+view: the diffusion of original observations, which, while they might
+further the ends of science, would also be interesting to the general
+reader; and that of discouraging the publication of distorted figures
+copied from old authors, by accustoming the public eye to original designs
+and correct representations of natural objects. How far we may have
+succeeded in this latter object, remains to be judged by others; we are
+however satisfied with having made the attempt, and we hope that abler
+pencils than our own, may engage in the prosecution of this most desirable
+object; for it is only by the publication of original matter, that a check
+can be given to the increasing number of compilations and multiplied copies
+of "ill-shaped" figures, by which error is perpetuated, and science
+retarded.
+
+The only original work that has appeared in this country similar to our
+own, is the Zoological Miscellany by Dr. Leach, which, as it was
+discontinued after the third volume, it may be presumed was unsuccessful:
+although little can be said of many of the figures in the early volumes,
+those in the latter are much to be praised, and the whole are original; the
+descriptions also abound with details highly interesting to the scientific
+world, for which indeed the learned author principally intended it;
+nevertheless it is a question, whether science in the end would not have
+been equally, and perhaps more advanced, had this work been more adapted to
+general readers. Instruction in these days of refinement must be made easy,
+palatable, and enticing; the eye must be pleased, while the understanding
+is improved, and Wisdom in her simple dignified garb will often be deserted
+for Ignorance, decked out in the glittering trappings of Folly.
+
+The _Naturalist's Miscellany_ conducted by Dr. Shaw, in its miscellaneous
+nature also resembled the present work, and reached to the extent of
+twenty-four volumes. What an invaluable fund of information these might
+have contained had their contents been original! Unfortunately, however,
+the exceptions are so few, that the whole may be termed a loose
+compilation, the descriptions being mostly given in as few words as
+possible, and the figures not only copied from wretched representations
+found in old authors, but often coloured from their descriptions only! It
+is indeed lamentable that the Author, whose talents and abilities were
+unquestionable, should have exerted them so little, and thus have descended
+to the rank of a voluminous compiler, for little better can be said of the
+General Zoology, begun and continued under his name: little original matter
+can there be found, excepting in the latter volumes, yet even in these no
+notice whatever is taken of the immense number of new species discovered in
+Africa by Le Vaillant, and long ago published in the _Oiseaux d'Afrique_:
+the engravings also are in like manner copied from old prints, enlarged or
+diminished as occasion offers, without even a regard to the selection of
+the best. It may be as well to observe in this place, that a great number
+of generic distinctions have been made in the two last volumes; which, as
+they have not been followed by any of the great and acknowledged Zoologists
+on the Continent, and appear to us in many instances trivial and
+unnecessary, will not be adopted in this work.
+
+It will be unnecessary to point out with regard to the scientific
+arrangement, that we have avowedly adopted the principles of the modern
+classification; which the strict followers of Linnaeus (in this country
+alone) have so long, but so ineffectually opposed. The first has been
+designated as the natural, and the other the artificial system; and,
+without entering into a critical disquisition on these definitions, it will
+be sufficient to observe, that by the Artificial System we bend nature to
+conform to certain arbitrary principles, which we lay down and to which we
+insist all her productions known and unknown will conform; while in the
+Natural method, we endeavour by tracing her modifications, to adapt our
+system to that which appears to regulate her operations. In the one we give
+laws, in the other receive them; by the first we are taught to believe that
+the highest attainment of the science, is that of ascertaining the name of
+an object in our Museum, or of giving a new one; we record it in our
+favourite system as a grammarian enters a new word in his dictionary, and
+there the matter terminates. Where the artificial system ends, the natural
+begins; for we then proceed to the investigation of affinities founded on
+anatomical construction, economy, and geographic distribution; our
+attention ceases to be confined to individuals, and extends to large
+groups; general facts enable us to draw general conclusions, till the mind
+begins faintly to discern a vast and mighty plan, by which the zones of the
+earth are peopled by their own respective races of animate beings; blending
+their confines unto each other with divine harmony, beauty, and usefulness.
+
+That these inquiries and results have had a most wonderful effect on the
+natural sciences of late years, is abundantly evident. Geology, a subject
+hardly thought of in this country a few years ago, is now found to be a
+science of the first importance; with this, however, Conchology is so
+intimately connected, that without a certain knowledge of it, the geologist
+is frequently unable to prosecute inquiries of the most interesting nature;
+and there is little doubt but that Botany has been raised to the rank it
+now so justly holds, solely because its natural system has been more
+generally studied and advocated in this country, than that of any other
+branch of Natural History. In this science at least, we possess a
+superiority which our continental neighbours cannot dispute; and the name
+of Brown will be enrolled in the brightest page of our philosophic
+inquirers.
+
+That the prejudiced adherence to the strict Linnaean system, has been the
+primary cause why Zoology has been more neglected with us than on the
+Continent, will admit of little doubt; for by shutting the door to all
+further improvement, it has impressed the generality of our countrymen with
+an idea, that the highest object of the Naturalist was to label the
+contents of a museum, and to arrange stuffed animals, like quaint patterns
+of old china, in glass cases: to thinking minds no less than to the vulgar,
+this idea has produced a feeling of contempt and ridicule, and very few of
+those qualified by nature for accurate investigation and philosophic
+reasoning, have been induced to make the science a study; and thus from
+such an unfortunate prejudice, to use the words of a powerful writer of the
+present day, "some future historian of the progress of human knowledge,
+will have to state that England, till within the few last years, stood
+still at the bottom of the steps where Linnaeus had left her; while her
+neighbours were advancing rapidly towards the entrance of the temple[1]."
+
+Finally--Linnaeus to a comprehensive genius united indefatigable industry;
+yet he could not see and study those innumerable productions that have been
+discovered since his death: in proportion as our knowledge of objects
+increases, so must our systems change, until the natural one is fully
+developed; and the question simply comes to this, Whether the Linnaean
+method should be upheld as a solitary exception to the mutability of human
+wisdom.
+
+The sun of truth must however finally prevail, and there is every reason to
+think it has already broke, and will gradually disperse these mists of
+prejudice. It is however much to be regretted, that our public institutions
+are wholly inadequate to facilitate not only the advancement of students,
+but the researches of those who are already engaged in prosecuting their
+inquiries: in Scotland alone are founded any Professorships of Natural
+History, and the establishment of our National Museum (in this branch only)
+is confessedly difficult: materials for study are more necessary in this
+science than any other; yet the public Institutions and libraries of the
+metropolis, "rich and rare" in every other department of knowledge, in most
+instances are deficient in this of the most elementary books; setting aside
+those of illustration, which, from being unavoidably expensive and within
+the reach of few purchasers, are more particularly adapted for such general
+repositories of learning. The protracted ill-health of its noble possessor,
+was the cause no doubt of the Banksian magnificent library being left
+deficient in several of the latest continental works; and that of the
+British Museum I have reason to think is still more defective. To the
+honour however of the keepers of the Bodleian and Radcliffe Libraries, it
+should be mentioned, that no pains or expense have been spared to render
+them as perfect in this branch as possible; and we have been told that the
+latter particularly is the most magnificent in the kingdom.
+
+We shall now as briefly as possible advert to the contents of this volume.
+
+In the Ornithological department the systems of Cuvier and Temminck have
+mostly superseded all others: as a whole, we give a decided preference to
+the latter, as being more natural, though it may be doubted if the generic
+distinctions are not too few, while those of Cuvier are too many: both
+however can be considered only as sketches, subject to improvement--as
+natural affinities are more studied.
+
+Regarding that part of our work which relates to Entomology, we have given
+a decided preference to the Lepidoptera, for the simple reason that this
+order has received less attention from all writers, concerning their real
+characters and affinities, than any other; indeed they have been most
+unaccountably neglected even by Latreille, the great founder of the modern
+school: we have therefore thought it necessary to propose in this
+department many new genera, and only have to regret that their definitions
+could not be made more perfect without the destruction of the specimens,
+frequently not our own, and which therefore was unattainable: a more
+extended knowledge of the natural affinities existing in this tribe, will
+alone confirm or annul the propriety of these distinctions.
+
+In _Conchology_ many of the genera long established on the Continent, but
+new to our own collectors, have been characterized and illustrated, as well
+as specific distinctions defined between shells hitherto considered as
+varieties; and here it must be observed that so much latitude has been
+given to the meaning of the term _variety_, that in its general acceptation
+its definition becomes impossible: our own idea of its true meaning is, a
+shell possessing one or more characters which are changeable and uncertain,
+and which consequently will not serve as indications by which it may
+infallibly be distinguished from all others; _variety_ depends on local
+circumstances, and affects the size, colour, and greater or less
+development of the same modification of structure; a _species_ is
+permanent, its structure always the same though more or less developed,
+producing and perpetuating its kind, and depending on formation,
+discernible in youth, and matured in age: we cannot therefore comprehend
+the contradictory term of _permanent varieties_ in a state of nature
+(though such occur in domesticated animals), which some authors have used,
+and which has led to, in many instances, the most erroneous conclusions.
+
+It is lamentable to see the opposition which is still made by our own
+writers against all the modern improvements; yet although Linnaean
+Introductions to Conchology are constantly issuing from the press, the
+desire of being acquainted with a more natural and intelligible
+classification has already appeared; and as we are frequently questioned on
+the subject, we cannot in this place do better than refer the young student
+to the valuable article on Conchology contained in the late supplement to
+the _Encyclopedia Britannica_, the perusal of which will convey more solid
+information, and less perplexity, than all the Introductions our
+booksellers can boast of.
+
+With respect to the quotations or synonyms, it should be observed that we
+have in most instances limited them only to original works, all doubtful
+ones have been rejected, and such only given as have been actually
+consulted; indeed to this latter cause must be attributed the occasional
+omission of some, existing in books we had not the immediate power of
+consulting; our own library is not small; but the difficulty and expense of
+procuring all the new continental publications, and the impossibility of
+meeting with them at our public libraries[2], may have sometimes led us
+into error, and unintentionally to have passed over the discoveries of
+others.
+
+With the few additions contained in the Appendix we shall now conclude;
+trusting that in the remarks drawn from us by the present state of the
+science in this country, our zeal for truth will not give us an appearance
+of want of candour or of vanity. The truth of our remarks on the labours of
+others, every one at all acquainted with the subject can inquire into, and
+either acknowledge or disprove: we neither deprecate nor despise criticism:
+an author who presumes to instruct others, should have his pretensions
+publicly canvassed, his merits admitted, or his deficiency exposed; no one
+is more sensible than we are that our own pretensions chiefly consist in
+having set an example for others more able to follow: and if we have in any
+way advocated the cause of truth and science, our object will be attained,
+and we shall then gladly retire in the shade.
+
+  LONDON,
+  Sept. 15, 1821.
+
+
+
+
+LIST OF BOOKS REFERRED TO.
+
+    _Bruguire, Encycl. Meth._ Histoire Naturelle des Vers, par M. Bruguire,
+    1 vol. 4to. and 4 vols. of Plates, forming part 10, 19, 21, 23, of the
+    "Encyclopedie Methodique." Paris, 1789-1792.
+
+    _Bloch._ Histoire Naturelle des Poissons, en 6 parties, 8vo. Berlin,
+    1796.
+
+    _Cramer._ Papillons Exotiques, 4 vols. 4to. Amsterdam, 1779-1782.
+
+    _Cuvier._ Le Regne Animal, 4 vols. 8vo. Paris, 1817.
+
+    _Chemnitz, Martini._ Neus Systematisches Conchylein Cabinet, 11 vols.
+    Nurnburg, 1781-1795.
+
+    _Dill._ A Descriptive Catalogue of Recent Shells. By F. W. Dillwyn, 2
+    vols. 8vo. London, 1817.
+
+    _Edwards._ A Natural History of uncommon Birds, &c.; and Gleanings of
+    Natural History. By G. Edwards, 7 vols. 4to. 1763, &c.
+
+    _Fab. Ent. Syst._ Entomologia Systematica, emendata et aucta. J. C.
+    Fabricius, 4 vols. 4to. Hafnia, 1792-1794.
+
+    _Gen. Zool._ General Zoology, commenced by Dr. Shaw, and continued by
+    Mr. Stevens, 11 vols. 8vo. to 1819.
+
+    _Gmelin Linn. Syst. Nat._ C. Linne Systema Naturae. Cura J. F. Gmelin.
+    Lipsiae, 1788-1793.
+
+    _Godart in Encycl. Method._ Encyclopedie Methodique, t. 9. p. 1. 1819.
+
+    _Gualtieri._ Index Testarum Conchyliorum quae adservantur in Musaeo N.
+    Gualtieri. Florentiae, 1742.
+
+    _Illiger._ Prod. Systematis Mammalium et Avium, 8vo. Berolini, 1811.
+
+    _Knorr._ Les Delices des Yeux et de l'Esprit, 6 P., 4to. Nuremb. 1760,
+    &c.
+
+    _Klein Hist. Pisc._ Historiae Nat. Piscium promovendae Missus, 6, 4to.
+    Dantzic, 1740-49.
+
+    _Linn. Syst. Nat._ See Gmelin.
+
+    _Linn. Trans._ Transactions of the Linnean Society of London, 13 vols.
+    4to. 1791-1821.
+
+    _Lister._ M. Lister Historia Conchyliorum, folio. Oxonii, 1770.
+
+    _Lamarck Syst._ Hist. Nat. des Animaux sans Vertebres. Par le Chevalier
+    de Lamarck, 6 vols. 8vo. Paris, 1815-1819.
+
+    ---- _Anal. Mus._ Annales du Museum d'Histoire Naturelle de Paris, 4to.
+    1802-1821.
+
+    _Lath. Synop. Suppl._ A General Synopsis of Birds. By Dr. J. Latham, 3
+    vols, and 2 Supplements, 4to. London, 1782, &c.
+
+    ---- _Index Ornith._ Index Ornithologicus, 2 vols. 4to. London, 1790.
+
+    _Martyn Univ. Conch._ The Universal Conchologist. By T. Martyn, 4 vols.
+    4to. London, 1784, &c.
+
+    _Martini._ See Chemnitz.
+
+    _Pennant._ British Zoology. By T. Pennant, 4 vols. 8vo. London, 1812.
+
+    _Risso Icth._ Ichtyologie de Nice, 1 vol. 8vo. Paris, 1810.
+
+    _Rumph._ Thesaurium Imaginum Piscium, &c., folio. Hagae, 1739.
+
+    _Seba._ Albertus Seba Rerum Naturalium Thesauri, 4 vols. folio.
+    Amsterdam, 1734-1765.
+
+    _Say._ Description of the Land and Fresh-water Shells of the United
+    States. By Thomas Say. Philadelphia, 1819.
+
+    _Shaw in Gen. Zool._ See General Zoology.
+
+    _Temminck Pig. et Gall._ Histoire Naturelle Generale des Pigeons et des
+    Gallinaces. Par C. J. Temminck, 2 vols. 8vo. Amst. 1813.
+
+    ---- _Manuel._ Manuel d'Ornithologie, 2d edit., 2 vols. 8vo. 1820.
+
+    _Le Vaill._ Hist. Nat. des Toucans et des Barbus, folio. Paris, 1806.
+
+    ---- Hist. Nat. des Perroquets, 2 vols. folio. Paris, 1801.
+
+    _White's Voyage._ Journal of a Voyage to N. S. Wales, 4to. Lond. 1790.
+
+
+
+
+Pl. 1
+
+[Illustration]
+
+PSITTACUS Cayennensis.
+
+_Cayenne gold-winged Parakeet._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum breve, crassum, validissimum, ad basin cute tectum; mandibula
+    superiore adunca; inferiore sub-recurvata, breviore. Nares rotundae,
+    nudae, ferme verticales. Pedes scansorii._
+
+    Bill short, thick, very strong, covered at the base by a cere; upper
+    mandible sharply hooked; under mandible obtuse, curving upwards, and
+    much shorter. Nostrils round, naked, nearly vertical. Feet scansorial.
+
+
+
+SPECIFIC CHARACTER.
+
+    _P. viridis, alis spuriis aurantiis, remigibus exterioribus basi
+    caeruleis, cauda brevi cuneata._
+
+    Green Parakeet, with the spurious wings golden-orange: outer quills
+    blue at their base. Tail short, wedged.
+
+    Le Perruche a tache souci. _Le Vaill. pl._ 58, 59. _p._ 169.
+
+
+
+We only thoroughly identified this beautiful little bird, by an inspection
+of the costly work of Le Vaillant on this family, in the Banksian Library:
+for the description of the orange-winged Parakeet of Dr. Latham is not
+applicable; and Dr. Shaw has persisted in the old error of considering this
+species a variety of the Toui Parakeet, although the question had been put
+at rest by the original description and sound reasons of Le Vaillant. There
+is a wide difference between naturalists who compile, and form their
+theories from books, and those who study nature, and think for themselves;
+and nothing will result from the first but mischief to the science, and
+perplexity to the student.
+
+Our figure is from a specimen brought from Demerara by C. Edmonston, Esq.;
+another is in the possession of A. MacLeay, Esq. Though rare in our
+cabinets, M. Le Vaillant says it is common in Cayenne. He has given a
+beautiful figure of the female, which is entirely green.
+
+Total length six inches. Plumage above entirely green, beneath paler and
+inclining to yellow; just under the lower mandible is a small
+snuff-coloured spot, and a very narrow line of the same in front just above
+the nostrils; the quills dark-green, the greater ones on their outside base
+are blue, with which the head is also tinged. The spurious wings are
+entirely of a rich and clear orange. Inner wing-covers green. Quills inside
+greenish-blue, except on each side the shafts, where there is a line of
+black. Tail short, cuneated, hardly projecting an inch beyond the wings,
+both above and below green: the interior margin dirty-yellow, the feathers
+pointed. Bill and legs flesh-colour.
+
+
+
+
+Pl. 2
+
+[Illustration]
+
+SITTA frontalis.
+
+_Blue Nuthatch._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum rectissimum, acutum, compressum; utroque mandibulo ad apicem
+    aeque inclinato; apice integro cuneo compresso simili. Nares basales,
+    ovales, apertae, plumis setaceis incumbentibus extrinsecus tectae.
+    Pedes tribus digitis anticis; uno postico; digitus interior minimus;
+    exterior ad basin medio connexus; hallux productus validus. Ungues
+    compressissimi; antici subaequales; posticus maximus. Cauda brevis,
+    rectricibus duodecim subaequalibus._
+
+Typus Genericus _S. Europaea_.
+
+    Bill very straight, sharp-pointed, compressed; both mandibles equally
+    inclining to the tip, which is entire, and resembles a compressed
+    wedge. Nostrils basal, oval, open, covered externally with incumbent
+    setaceous feathers. Feet with three toes forward and one backward;
+    inner toe very small; outer toe connected to the middle at its base;
+    hind toe lengthened, strong. Claws much compressed; anterior nearly
+    equal, posterior largest. Tail short, of twelve nearly equal feathers.
+
+Generic Type _Sitta Europaea_.
+
+
+
+SPECIFIC CHARACTER.
+
+    _S. supra caerulea; supercilio, fronte, et remigibus lateralibus in
+    medio nigris; subtus cinereo-fusca, auribus lilacinis, mento albo._
+
+    Nuthatch, above blue: line above the eye, front, and middle of the
+    lateral tail-feathers black; beneath cinereous brown, ears lilac, chin
+    white.
+
+    ...
+
+
+
+The present species is one of the many interesting birds collected in Java
+by my friend Dr. Horsfield: it was not, however, until I had described and
+engraved another specimen, sent to Sir J. Banks from Ceylon, that I
+discovered the species had already been included in the Doctor's account of
+the birds of Java, presented to the Linnaean Society, where he has
+described it under the name of _Orthorynchus frontalis_.
+
+The specific name of its first describer is of course retained: with
+respect, however, to its generic situation, I must be allowed to dissent
+from considering it as a distinct genus, merely from the prolongation of
+the hinder toe being somewhat more developed than in _Sitta Europaea_ and
+_Carolinensis_, both which birds are now before me, and which in themselves
+differ in the relative proportion of this part: thus in _S. Carolinensis_
+the hind toe and claw is two-tenths of an inch shorter than the leg; in _S.
+Europaea_ it is one-tenth shorter; and in the present species it just
+exceeds that of the leg: in every other respect not the slightest
+difference I apprehend will be observed ....
+
+Total length five inches. Size of the European Nuthatch. Bill, from the
+angle of the mouth to the tip, eight lines; front of the head velvet-black,
+continued in a stripe of the same colour over the eye, and terminating
+above the ear feathers: the upper plumage is of a rich blue, more brilliant
+on the head, and paler on the front, and external margins of the quills.
+Spurious wings and lesser quills black margined with blue. Inner
+wing-covers deep black; the under plumage is a light-brown, changing to
+lilac on the ears and sides of the neck, and tinged with cinereous on the
+flanks and vent: the chin is white; tail even, the two middle feathers
+blue, the rest more or less black, having the external margins and tips
+blue. The outer quill of the wings is short, the second and third longest
+and equal, the fourth rather less; the hind toe with the claw, measures one
+inch in a straight line.
+
+
+
+
+Pl. 3
+
+[Illustration]
+
+MITRA zonata.
+
+_Zoned Mitre._
+
+
+
+GENERIC CHARACTER.
+
+    _Testa inaequaliter fusiformis, spira producta attenuata, labio
+    exteriore intus edentulo. Columella plicata._
+
+    Shell unequally fusiform. Spire lengthened, attenuated. Outer lip
+    simple, not toothed within. Columella plaited.
+
+
+
+SPECIFIC CHARACTER.
+
+    _M. epidermide lutea, fulvo-marmorata, anfractibus inferne basi nigris,
+    columella quinque-plicata. Linn. Trans. xii. p. 338._
+
+    Mitre, with the epidermis marbled with brownish-yellow; volutions at
+    their base black; columella five-plaited.
+
+    Mitra zonata. _Marryat in Linn. Trans. vol._ xii. _pl._ 10. _fig._ 1.
+    2.
+
+
+
+This unique and beautiful Mitre has been already described by Captain
+Marryat in the Linnaean Transactions: the figures, however, are uncoloured,
+and give a very indifferent idea of the graceful symmetry of its form. My
+friend Dr. Leach, with his usual liberality, permitted me to draw the
+accompanying figure of it at the British Museum, where it is now deposited.
+
+It appears to have been taken near Nice in the Mediterranean, adhering to a
+sounding-line, in very deep water; a very singular locality, since nearly
+all the Mitres have generally been supposed to inhabit the tropical seas,
+or at least far from the coasts of Europe. It should, however, be remarked,
+that _Cypraea lurida_, an Asiatic shell, I have found on the shores of
+Greece: and C. Ulysses, in his travels in the kingdom of Naples, enumerates
+several shells as inhabiting the warm shores of the Tarentine Bay, which
+are generally known only as natives of the Red Sea and Indian Ocean. These
+facts, with many others, prove the physical distribution of _Molluscae_ to
+be less decidedly marked than almost any other class of animals.
+
+This genus is included with that of _Voluta_ by Linnaeus and our own
+writers, although long ago justly separated by the continental zoologists.
+
+
+
+
+Pl. 4
+
+[Illustration]
+
+BULIMUS melastomus.
+
+_Blackmouthed Bulimus._
+
+
+
+GENERIC CHARACTER.
+
+    _Testa ovalis, vel oblongo-ovalis. Spira elevata. Os integrum,
+    sub-ovale. Columella laevis, simplex. Labium externum crassum,
+    reflexum. Internum ultra medium cavo-inflexum. Operculum nullum._
+
+    Shell oval or oblong-oval. Spire elevated. Mouth entire, sub-oval.
+    Column smooth, simple. Exterior lip thick, reflected. Interior lip
+    beyond the middle inflected, and hollowed beneath. Operculum none.
+
+
+
+SPECIFIC CHARACTER.
+
+    _B. testa oblongo-ovata, alba, cinereo marmorata, spirae anfractibus
+    longitudinaliter plicatis, labio exteriore complanato; apertura nigra._
+
+    Shell oblong-ovate, white, marbled with cinereous. Spiral whorls
+    longitudinally plaited. Outer lip flattened; aperture black.
+
+
+
+The genus _Bulimus_ was long ago formed by Scopoli out of the heterogeneous
+mixture of shells thrown together in the Linnaean genus _Helix_[3], &c.: it
+comprehends some of the larger and most beautiful of the exotic land
+shells, among which the present species will stand conspicuous both in
+beauty of colouring and excessive rarity. While travelling among the
+forests of Brazil, in the province of Bahia, I found the shell here figured
+one morning on the leaves of a _Solanum_. I not only searched myself, but
+promised as a reward to any of my Indians who would bring me another, a
+two-bladed Birmingham knife!--the greatest temptation they could have!--but
+in vain; for I never saw another before or since.
+
+There are many peculiar characters presented in this species independent of
+its colour: the spiral whorls are strongly plaited longitudinally about
+half their length, and marked very slightly (but sufficiently distinct)
+with several oblique indented striae; the principal whorl has a row of
+indented and unequal sulcations near the suture, and a slight appearance of
+elevation along the white transverse band; the outer lip is thick, broad,
+and flattened beneath; but the margin is reflected back, and forms a
+prominent rim on the upper surface. The shell, when viewed closely, appears
+rough with minute scale-like elevations, very much resembling shagreen.
+
+
+
+
+Pl. 5
+
+[Illustration]
+
+COLIAS Statira.
+
+
+
+GENERIC CHARACTER.
+
+    _Palpi breves, curvati, compressi ad linguam, squamis dense tecti.
+    Articulis tribus; primo longissimo, ad basin curvato, ultra erecto;
+    secundo erecto, brevi; tertio minimo, proclivi; apice nudo, obtuso.
+    Antennae breves, cylindraceae, ad apicem nudum et abrupte truncatum
+    sensim incrassatae. Alae anteriores trigonae. Abdomen maris, ultimo
+    articulo acuto, et subtus tenui unco incurvato; valvis magnis,
+    attenuatis, aduncis._
+
+Typus Genericus _Colias Ebule._
+
+    Palpi short, curved, compressed on the tongue, thickly covered with
+    scales. Articulations three; the first very long, curved at the base,
+    erect beyond; the second erect, short; the third minute, inclining
+    forward; the tip naked, obtuse. Antennae short, cylindric, gradually
+    thickening to their tip, which is naked and abruptly truncate. Anterior
+    wings trigonal. Abdomen of the male with the last joint pointed, and a
+    slender incurved hook beneath; the valves large, attenuated and hooked.
+
+Generic Type _Colias Ebule_.
+
+
+
+    SPECIFIC CHARACTER.
+
+    _C. alis dilute flavis, vel fulvis; anticis supra, puncto medio
+    margineque extimo, nigris; subtus ferrugineis; posticis subtus,
+    singulis duobus niveis punctis inaequalibus; palpis productis._
+
+    Wings diluted yellow or fulvous; anterior with a black border and
+    central dot, which beneath is ferrugineous; posterior beneath, each
+    with two unequal snowy spots; palpi lengthened.--_Female._
+
+    Papilio Statira. _Cramer, pl._ cxx. _fig._ C. D.
+
+
+
+The present insect is selected to illustrate a very elegant family of
+Butterflies, whose predominant tints are composed of orange, yellow, and
+white, variously blended and disposed in a greater or less degree
+throughout all the species. The generic characters above given will
+distinguish them as peculiar to the tropics, and principally those of South
+America; one or two species only being found in Africa, and five or six
+inhabiting India.
+
+I have no doubt this is the _Pap. Statira_ of Cramer; it is found only in
+Brazil, and has been erroneously considered by Godart and Latreille as a
+variety of _C. Jugurthina_, an Indian insect, and which in fact is not in
+itself a species, being no other than the female of _C. Alcmeone_, as an
+attentive examination of a vast number of both, collected in Java by Dr.
+Horsfield, enabled me to ascertain.
+
+The extraordinary prolongation of the last joint of the palpi, and the
+white borderless spots beneath, which are never silvered, will distinguish
+this species through all the variations; in the ground colour of its wings,
+which in no two specimens are exactly alike, and one before me is nearly
+white; the lesser snowy dot is sometimes very obscure, and often wanting;
+but the prolongation of the palpi is even expressed in Cramer's figure
+above quoted.
+
+I have examined about a dozen specimens, mostly captured by myself, and all
+have been females; and I strongly suspect future and more decided
+observations will prove _C. Evadne_ to be the other sex: it has the palpi
+lengthened, though in a less degree; and the articulations of the antennae
+in both insects will be found somewhat thickened at their termination when
+viewed under a magnifier, a peculiarity I have seen in no other species;
+and although I have examined near thirty specimens of _C. Evadne_, they
+have invariably proved to be males.
+
+The palpi in this insect will be found at variance with the generic
+character now given; a striking proof that in a natural system no single
+part can be taken as an unerring criterion for generic distinction, without
+making it eventually an artificial one. The _Colias Drya_ of Fabricius has
+the same formation of palpi, but is a totally different insect.
+
+
+
+
+Pl. 6
+
+[Illustration]
+
+COLIAS Leachiana.
+
+_Leachian Colias._
+
+
+
+GENERIC CHARACTER.--See Pl. 5.
+
+
+
+SPECIFIC CHARACTER.
+
+    _C. alis subrotundatis, integris, virescenti-albidis, anticis supra
+    fulvis, margine punctoque medio nigris, singulis subtus macula centrali
+    ferruginea._ Encycl. Method.
+
+    (Male) wings slightly rounded, entire, greenish white; anterior pair
+    above orange, at their tips, margin, and central dot black: each pair
+    beneath with a central ferrugineous spot. Female ----?
+
+    C. Leachiana. _Godart in Encycl. Method._ vol. ix. p. 91.
+
+
+
+In size this insect is the largest of the genus yet discovered; it was
+first noticed by Godart, who has given it the name of my learned and valued
+friend, Dr. W. E. Leach, of the British Museum, whose talents are too well
+known to need any eulogium in this place.
+
+It appears to inhabit both the northern and southern extremities of Brazil;
+for I have seen it in a box sent from Para, and my specimens were captured
+in Minas Geraes by my friend Dr. Langsdorff. It is, however, a rare
+species; for I have only seen seven or eight specimens, and they were all
+males: the female, when found, will probably differ as remarkably as in
+most of this genus.
+
+The opaque spot on the inferior wings above is very large; but the tuft of
+hair corresponding beneath the superior wings, is entirely wanting. It
+should be likewise observed, that although this insect in every outward
+respect resembles a genuine _Colias_ (the type of which may be _C. Ebule_),
+it differs very materially in the terminal appendages of the abdomen; the
+last joint being the shortest, and scarcely pointed; and the hook, instead
+of being concealed beneath this segment, is exserted beyond it, and met by
+two others, one at the base of each lateral valve: these valves are also
+much shorter, ovate, and not attenuated, although ending in an incurved
+hook. In the present ignorance in which a true knowledge of the Lepidoptera
+is involved, it is impossible to say how far these dissimilarities may
+point out natural groups; it is therefore of the highest importance to the
+science such facts should be noticed.
+
+
+
+
+Pl. 7
+
+[Illustration]
+
+CARDUELIS cucullata.
+
+_Hooded Seed-eater._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum breve, validum, conicum, rectissimum; mandibulis
+    subaequalibus; apice immarginato, recto, acuto; mandibula superiore
+    culmine convexa; inferiore basi marginis angulata, utrinque subtusque
+    convexa._
+
+Typus Genericus _Fringilla Canaria_. Lath., &c.
+
+    Bill short, stout, very conic, without any curvature above; both
+    mandibles nearly equal, the tip entire, straight and sharp; upper
+    mandible convex above: lower one at the base of the margin with an
+    obtuse angle, the sides and under part convex.
+
+Generic Type _Fringilla Canaria_. Latham, &c.
+
+
+
+SPECIFIC CHARACTER.
+
+    _C. aurantia: capite, gutture, fascia trans tectrices, remigibus
+    caudaque nigris; remigibus primoribus basi oblique aurantio fasciatis._
+
+    Orange: head, front of the neck, bar across the wing-covers, quills and
+    tail black; greater quills at their base obliquely barred with orange.
+
+
+
+A richly coloured little bird, much smaller than our Goldfinch, and
+approaching very near to the _Bouvreuil de Bourbon_ of Buffon, from which,
+however, I think it quite distinct. The only one I have yet seen is in the
+possession of E. Falkner, Esq. of Fairfield near Liverpool, who received it
+with a few other rare birds from the Spanish Main.
+
+Total length four inches. Bill blackish and very sharp. The whole head and
+forepart of the neck is black. The plumage of the body is a fine
+reddish-orange, duller on the back and brightest beneath: wing-covers the
+same; the greater ones at their base black, which forms a bar: the quills
+are also black, the greater ones having at their base an oblique bar of
+orange, and some of the lesser ones slightly margined externally with
+white. Tail divaricated and black; some of the lateral feathers faintly
+margined with orange. Spurious wings black. Legs and claws brown.
+
+The _Bouvreuil de Bourbon_, and the _B. du Cap de Bonne Esperance_ of
+Buffon (_Pl. Enl. pl._ 204. _fig._ 1, 2.) appear to have been described as
+the different sexes of one bird (the Orange Grossbeak of Latham) on mere
+conjecture. I think them quite distinct, inhabiting different countries,
+and having all the appearance (in the figures) of being two male birds; for
+the females in this family seldom possess the rich colours of the male; and
+the figure of the last of these birds, has not the slightest habit of a
+female.
+
+The present genus was formed by Cuvier, (though but very slightly defined,)
+and includes the common Goldfinch and Canary-bird.
+
+
+
+
+Pl. 8
+
+[Illustration]
+
+MEROPS urica.
+
+_Javanese Bee-eater._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum productum, laeve, subcurvatum, compressum; apice acuto, basi
+    trigono; culmine carinato. Pedes brevissimi, gressorii. Alae
+    attenuatae._
+
+Typus Genericus _M. apiaster_. Linn., &c.
+
+    Bill lengthened, smooth, slightly curved, terminating in a sharp point;
+    the base triangular, the sides much compressed, the back carinated.
+    Feet very short, gressorial. Wings pointed.
+
+Generic Type _Merops apiaster_. Linn., &c.
+
+
+
+SPECIFIC CHARACTER.
+
+    _M. viridis, infra pallidior; capite, collo supra rufo; mento, jugulo,
+    sulphureis; linea temporali et torque colli nigris; tegminibus
+    uropygioque caeruleis; cauda subfurcata._
+
+    Green, beneath paler. Head and neck above rufous; chin and throat
+    sulphur; line under the eyes, and collar round the neck, black.
+    Tail-covers and rump pale blue. Tail slightly forked.
+
+    Merops urica. _Horsfield in Linn. Trans._
+
+
+
+The true Bee-eaters are confined to the old world, principally inhabiting
+Africa and Asia; one species only, the European Bee-eater, being known with
+any degree of certainty to be found in Europe; and this is occasionally
+seen in England. They are all gregarious, feeding on the wing, and in
+general migratory.
+
+Most unwillingly I have again in this instance anticipated my friend Dr.
+Horsfield in describing this bird, which he found in Java, and which I
+engraved after one sent from Ceylon, without knowing it had also fallen
+under his observation.
+
+The figure is less than the natural size, which is nearly that of our
+European species. Bill an inch and a half long from the gape, and black.
+Nostrils small, basal, round, not sulcated, partially defended by incumbent
+hairs; at the angle of the mouth is a row of short, stiff bristles; a black
+line commences from the nostrils, passes under the eye, and terminates with
+the ears. The upper part of the head, neck, and between the wings, rufous.
+The rump and upper tail-covers pale blue: the chin and throat sulphur
+tinged with rufous, where an irregular and narrow collar of black crosses
+the neck. The remaining under parts yellowish-green. Wings and quills
+fulvous green, the latter tipt with black, and all the inner shafts more or
+less rufous: the second quill longest, and the lesser quills and
+tail-feathers notched at their tips. Tail green, slightly forked; the tips
+and under side dusky-black, and three inches and a half long. Wings, when
+closed, four inches one line in length. Vent blueish-white.
+
+The females in this genus may generally be distinguished by the two middle
+tail-feathers being but slightly or not at all elongated.
+
+
+
+
+Pl. 9
+
+[Illustration]
+
+HELIX auriculata.
+
+_Eared Helix._
+
+
+
+GENERIC CHARACTER.
+
+    _Testa orbicularis vel globosa. Spira depressa vel paululum elevata.
+    Apertura integra. Labium exterius marginatum. Operculum nullum._
+
+    Shell orbicular or globose. Spire depressed, or but slightly elevated.
+    Aperture entire. Outer lip margined. Operculum, none.
+
+
+
+SPECIFIC CHARACTER.
+
+    _H. testa depressissima, ferrugineo-marmorata et bifasciata, umbilico
+    magno, profundo, apertura auriformi; labio exteriore incrassato,
+    margine interiore dente obsoleto._
+
+    Shell much depressed, marbled and doubly-banded with ferrugineous.
+    Umbilicus large, deep. Aperture ear-shaped. Outer lip thickened,
+    reflected, with a gibbous obsolete tooth within.
+
+
+
+A shell no less remarkable for its form than its extreme rarity. The mouth
+bears a most striking resemblance to the human ear; and the only specimen
+known in this country is the one here figured, from the cabinet of Ch.
+Dubois, Esq., who obligingly favoured me with it for examination; neither
+does the exquisite work on the Land Shells, by M. de Ferrusac, now
+publishing at Paris, contain this species among the numerous matchless
+figures already given of this family.
+
+In the present uncertainty respecting the natural groups of the genus
+_Helix_, as left by Lamarck, I have preferred for the present following the
+example of Cuvier and de Ferrusac, in placing it with that family, in
+preference to adopting the ill-defined and palpably artificial distribution
+of them by D. de Montfort, or of forming a new genus for its reception.
+
+The variegations in its colouring are better seen in the figures than
+described. The whole shell is slightly marked with obsolete longitudinal
+striae; the umbilicus is very deep, and the tooth does not extend
+externally beyond the margin of the lip.
+
+
+
+
+Pl. 10
+
+[Illustration]
+
+STROMBUS.
+
+
+
+GENERIC CHARACTER.
+
+    _Testa ventricosa; basis canali brevi, truncato vel emarginato; labium
+    exterius simpliciter alatum, ala ad basin inferne emarginata; supra
+    dilatata._
+
+    _Animal marinum, carnivorum, trachelipodum; corpore spirali; pede
+    compresso ad cervicis basin inferiorem._ Leach in Zool. Misc. vol. i.
+    p. 51.
+
+Typus Genericus _S. pugilis._ Linn.
+
+    Shell ventricose; base with a short canal, which is either emarginate
+    or truncate; external lip dilated into a simple wing, notched at the
+    base, and prominent above.
+
+    Animal marine, carnivorous; body spiral, with a compressed foot at the
+    inferior base of the neck.
+
+Generic Type _S. pugilis._ Linn.
+
+
+
+STROMBUS minimus.
+
+_Little Strombus--central figures._
+
+    _S. testa nodose plicata; spira subtilissime striata; labio interiore
+    reflecto, incrassato, supra obtuse-acuminato; exteriore intra laevi,
+    supra alte-lobato, anfractui secundo spirali adjuncto._
+
+    Shell with nodulous plaits; the spire finely striated; inner lip
+    thickened and reflected, and obtusely pointed above. Outer lip smooth
+    within, deeply lobed above, attached to the second spiral volution.
+
+    _Lister_ 859. 15. _Chemnitz. tab._ 156. _fig._ 1491, 1492. _Rumph.
+    tab._ 36, P. _Gualtieri, tab._ 32, G.
+
+    Strombus marginatus. _Dillwyn's Cat._ p. 665. no. 18.
+
+
+
+A pretty and diminutive species, scarcely ever more than one inch three
+lines long. The spire long in proportion, and occupying half an inch: when
+in perfection the colour is a deep chesnut, minutely broken into finely
+serrated darker lines, with one, two, or three interrupted bands of white
+on the body whorl, the spire, and margin of the outer lip paler; there are
+two or three nodules above; and the spiral volutions have the carinated row
+of tubercles usual in the _Strombi_, and are besides finely striated
+transversely. The base of the shell is more deeply and distinctly striated;
+both the lips are much thickened, tumid, white, and highly polished;
+terminating above in obtuse points on the second spiral whorl, leaving a
+narrow ascending channel between; the inside of the aperture is a fine
+yellow.
+
+Inhabits the Indian seas, but is not common.
+
+By some unaccountable oversight, Mr. Dillwyn has very well described this
+shell, but under the name and supposition of its being the _S. marginatus_
+of Linnaeus; though a few pages after he brings all the true synonyms
+referring to his shell, under a description purporting to be that of _S.
+minimus_, but which in reality is more applicable to our next species. Why
+this writer should doubt the correctness of Gmelin, Chemnitz, &c.
+respecting the true _S. marginatus_ of Linnaeus, does not appear,
+particularly as he has substituted for it a well known species. I have
+little doubt myself they all mean one and the same shell, which is nothing
+more than a scarce variety of _S. accinctus_, now before me, with which
+Linnaeus's original description pretty well agrees.
+
+
+
+STROMBUS variabilis.
+
+_Variable Strombus--upper figure._
+
+    _S. testa nodose plicata, spira striis nullis; labio interiore
+    simplice, exteriore reflecto, intra laevi, supra leviter lobato._
+
+    Shell with nodulous plaits, the spire not striated. Inner lip simple.
+    Outer lip reflected, smooth within, and slightly lobed above.
+
+
+
+Shell two inches and a quarter long, the spire occupying little more than
+half an inch. The ground colour generally is white with numerous undulated
+short lines of a darker colour, sometimes crossed by four or five obsolete
+whitish bands: it approaches very near _S. minimus_, but is easily
+distinguished by being in general much larger, by having the inner lip not
+at all thickened above, the outer lip very slightly lobed, and only
+advancing on the first volution of the spire: it varies, however, amazingly
+in colour. There is a small variety, having a brown spot beneath, from
+India; and others (labelled from the So. Seas) in the Banksian collection,
+also small, are purplish-brown, with three or four well-defined bands of
+white: the aperture is always pure white.
+
+
+
+
+Pl. 11
+
+[Illustration]
+
+DRUSILLA Horsfieldii.
+
+
+
+GENERIC CHARACTER.
+
+    _Antennae mediocres, clava producta, gracili, cylindracea. Palpi
+    breves, compressissimi, obtusi, remoti, linguam non attingentes;
+    lateribus utrisque hirsutissimis, articulos obtegentibus. Abdomen (in
+    maribus) 7-articulatum: 1mo longissimo, ultimo simplici, truncato,
+    supra integro, subtus unco incurvato, valvis nullis. Alae anticae (in
+    maribus) basi postica dilatatae, fasciculum in alas posticas
+    obtegentes._
+
+    (OBS. _Alae integerrimae, subdiaphanae, posticae magnae, orbiculares.
+    Pedes antici spurii; antennarum articuli basales ad apicem
+    incrassati._)
+
+Typus Genericus _Papilio Jairus_. Fabr.
+
+    Antennae moderate, the club lengthened, slender, cylindric. Palpi
+    short, much compressed, obtuse, remote, not touching the tongue,
+    covered equally on both sides with thickset hairs concealing the
+    joints. Abdomen (in the male) 7-jointed, the first very long, the last
+    simple, truncate, and entire above, without valves, and with an
+    incurved hook beneath. Anterior wings (in the male) dilated at the
+    posterior base, concealing a tuft of hair on the inferior wings.
+
+Generic Type _Papilio Jairus_. Fabr.
+
+    (OBS. Wings very entire, sub-diaphanous. Hinder wings large, orbicular.
+    Fore-legs spurious. Basal articulations of the antennae thickened at
+    the end.)
+
+
+
+SPECIFIC CHARACTER.
+
+    _D. alis anticis angustatis, fuscis, concoloribus; margine posteriore
+    et exteriore aequalibus: posticis albidis; margine exteriore fusco,
+    supra uni-ocellato, subtus bi-ocellato._
+
+    Wings, anterior, narrowed, the posterior and exterior margins equal,
+    uniform brown; posterior cream-coloured, with a brown margin, one
+    ocellate spot above, and two beneath.
+
+
+
+This new and elegant insect was discovered by my worthy friend Dr.
+Horsfield (after whom I have named it) in the interior of Java: it forms a
+part of the extensive collections made there by this zealous naturalist for
+the East India Company, and which will make a most important addition to
+our present confined knowledge of the productions of that interesting
+island: indeed these collections exceed in extent, preservation, and value,
+any which have been brought to this country.
+
+The general resemblance of this species with _Papilio Jairus_ of Fabricius
+is so great, that it might pass on a cursory view as a mere variety, did
+not the form of the anterior wings at once point out the difference. In the
+present insect the posterior and exterior margins are of equal length,
+giving a narrow appearance to the wings, much resembling some of the true
+_Papilionidae_; but in _P. Jairus_, these wings are much broader, more
+obtuse, and the length of the posterior margin much greater; other minor
+differences exist in the colouring and markings. My valued friend A. H.
+Haworth, Esq., F.L.S., &c. possesses a fine pair of the true _P. Jairus_ in
+his rich and extensive collection; and the liberality with which it is
+constantly and freely opened to me, deserves my warmest thanks.
+
+From these two species I have formed the present genus, the characters of
+which will distinguish it from that of _Haetera_ (Fabr.), a scanty genus
+confined to South America; and this seems to occupy its place in India:
+both will come in the natural family of _Hipparchidae_. Only one specimen
+(a male) exists in Dr. Horsfield's collections; I could not therefore
+dissect the mouth, &c. On the inner borders of the inferior wings is a
+lengthened tuft of fine hairs: the _anus_ beneath has on each side an
+obtuse lengthened process, partially attached, and which appears to supply
+the place of the lateral valves. It is represented on a sprig of
+
+GAERTNERA _racemosa_,
+
+which, although differing slightly from the figure of Dr. Roxburgh's
+Coromandel Plants, p. 19. t. 18, Dr. Horsfield considers as the same plant.
+The Javanese name is _Kakas_.
+
+
+
+
+Pl. 12
+
+[Illustration]
+
+GOBIUS Suerii.
+
+_Suerian Goby._
+
+
+
+GENERIC CHARACTER.
+
+    _Caput parvum. Oculi approximati. Pinnae dorsales duae, radiis
+    flexilibus: ventrales conjunctae, infundibuliformes. Branchiarum
+    apertura contracta, membrana 4-radiata._
+
+Typus Genericus _Gobius niger_. Pennant.
+
+    Head small. Eyes approximating. Dorsal fins two, the rays flexible.
+    Ventral fins united into the form of a funnel. Gill aperture
+    contracted, the membrane four-rayed.
+
+Generic Type _Gobius niger_. Pennant.
+
+
+
+SPECIFIC CHARACTER.
+
+    _G. olivaceus, cauda atro-purpurea. Capite, operculis, pinna dorsali et
+    caudali longitudinaliter flavo-lineatis._
+
+    Olivaceous Goby. Tail obscure purple. Head, gills, dorsal and caudal
+    fins with yellow longitudinal lines.
+
+    Gobius Suerii. _Risso Icth. p._ 387. _pl._ 11. _fig._ 43.
+
+
+
+This beautiful little fish never exceeds the size here represented. It is
+not uncommon on the coast of Sicily in the spring months: it has likewise
+been discovered on the shores of Nice by Risso, who is its first describer:
+his figure, however, is so remarkably bad, that it would be impossible to
+recognise it but for his description: in fact, the fish is so delicate,
+that unless the fins are very carefully expanded in water their form and
+colouring will never be seen correctly. It has been named after M. C. A. Le
+Sueur (who accompanied Peron in the French circumnavigation), an able
+zoologist and most inimitable draftsman and engraver.
+
+General colour pale olivaceous yellow, with a few obscure large spots along
+the body somewhat brighter. The head has four yellow oblique bands, between
+which, and behind the eye, is a bright blue spot. Ventral fins blackish.
+The first dorsal fin is trigonal, and has the third ray lengthened and
+longest; the three last rays tipt with deep-black; the second fin is
+lengthened, broadest at the end, the membrane greyish-white with narrow
+longitudinal lines of yellow. Caudal fin lanceolate, pointed,
+blackish-purple, margined and marked with yellow lines parallel with the
+borders. Pectoral fin ovately rounded, with faint yellow transverse bands.
+Anal fin resembling the second dorsal, greyish, with the margin
+dull-purple. Scales large, very deciduous; lateral line invisible; lower
+jaw longest; teeth minute. Body and fins semi-transparent. The first dorsal
+fin has seven rays; the second fifteen; anal fifteen; pectoral twelve;
+caudal seventeen; ventral fourteen.
+
+
+
+
+Pl. 13
+
+[Illustration]
+
+PLATYRHYNCHUS Ceylonensis.
+
+_Ceylonese Flat-bill._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum breve, rectum, depressissimum, ferme trigonum; mandibula
+    superiore ad apicem abrupte adunca, emarginata; inferiore recta,
+    breviore; marginibus superioris inferiorem superplicantibus. Os et
+    Nares longis rigidis vibrissis obtectae. Nares, mediae inter apicem et
+    hiatum rostri. Cauda plerumque aequalis, rectricibus duodecim. Pedes et
+    Tarsi breves, graciles._
+
+    Typi Generici. Div. I. _Todus Platyrhynchos._ Gm. Div. II. _Muscicapa
+    barbata._ Lath.
+
+    Bill short, straight, thin, very depressed, and nearly triangular; the
+    upper mandible abruptly hooked at the tip, and notched; the margins
+    folding over those of the under mandible, which is straight and
+    shorter. Mouth and nostrils defended by long stiff bristles. Nostrils
+    medial between the tip and gape of the bill. Tail mostly even, of
+    twelve feathers. Legs and toes short, slender.
+
+    Generic Types. Div. I. _Todus Platyrhynchos._ Gm. Div. II. _Muscicapa
+    barbata._ Lath.
+
+
+
+SPECIFIC CHARACTER.
+
+_P. olivaceus, subtus flavus; capite mentoque cinereis._
+
+Olivaceous Flat-bill, beneath yellow. Head and chin cinereous.
+
+
+
+The sober tints of this little bird accord more with those of Europe than
+of India, of which country however it is a native, having been sent from
+Ceylon to the British Museum: it is the only one I have yet seen, and
+appears hitherto undescribed.
+
+The stiff bristles at the corner of the mouth are nearly the length of the
+bill, which is quite flattened: the tail is even, and the whole bird in
+every respect but colour closely resembles the bearded Flycatcher (_Musc.
+barbata_ Lath.).
+
+Cuvier and other modern zoologists have done much in distributing the
+Linnaean _Muscicapae_ into their natural families; but as we are acquainted
+with a great number from descriptions only, the arrangement is by no means
+perfect.
+
+The generic characters now given of the genus _Platyrhynchos_ (very
+slightly noticed by Vieillot) will be found perfectly applicable to the
+separate divisions here formed; the first comprising the _Todus
+Platyrhynchos_ of Gmelin, and a few others having the bill larger and more
+dilated than the second division, which includes the present species,
+together with _M. barbata_, _caerulea_, _cuneata_, and no doubt many
+others. The construction of the bill in all these birds will be found
+precisely the same, though more or less developed in each division, and
+even in the species; it thus becomes impossible to draw the line of
+demarcation without refining too much on generic distinctions. Their bills,
+although so broad, are by no means stout; thus enabling them to prey with
+greater readiness on the _Lepidoptera_ and other large winged insects with
+soft bodies; while the long stiff bristles at the base of the bill seem
+intended to confine the resistance their prey would otherwise make by their
+wings. The illustrious Cuvier has well observed, that the true Flycatchers
+have the bill longer, narrowed, less compressed, and the tip but slightly
+bent.
+
+
+
+
+Pl. 14
+
+[Illustration]
+
+PICUS rubiginosus.
+
+_Brown Woodpecker._
+
+
+
+GENERIC CHARACTER.
+
+    _Rostrum polyedrum, rectum, in apicem compressum, cuneatum, attenuatum.
+    Nares basales, ovales, patulae, plumis angustis recumbentibus tectae.
+    Lingua longissima, jaculatoria, apice sagittato. Cauda rectricibus
+    validis, rigidis, acuminatis,_ 10, _intermediis duabus longioribus.
+    Pedes scansorii._
+
+Typus Genericus _Picus viridis_.
+
+    Bill many-sided, straight, the tip resembling a compressed pointed
+    wedge. Nostrils basal, oval, open, covered externally with narrow
+    recumbent feathers. Tongue very long, retractile, the tip barbed.
+    Tail-feathers ten, strong, rigid, acuminated; the two middle ones
+    longest. Feet climbing.
+
+Generic Type _Picus viridis_.
+
+
+
+SPECIFIC CHARACTER.
+
+    _P. supra rubiginosus: vertice nigrescente; occipite rubro, subtus
+    fulvo, fusco-fasciato._
+
+    Above tawny rufous. Crown blackish; hind head crimson, beneath fulvous,
+    with brown transverse bands.
+
+
+
+The Woodpeckers form a most natural family of birds, and are dispersed in
+every part of the known world, excepting the Polar regions. Eight species
+inhabit Europe, five of which are found in our own country. The largest
+however of these, the Great Black Woodpecker, is very rare; and even the
+others are less frequently seen than formerly, from the gradual diminution
+of our few remaining forests.
+
+The present appears an undescribed species, and was sent from the Spanish
+Main to E. Falkner, Esq. of Fairfield. I have since seen the male, which,
+like many others of this genus, is distinguished by a patch of red below
+the eye.
+
+Total length, eight inches and a half; bill one inch long, blackish; front
+and crown cinereous black; the hind head and nape crimson; a dusky whitish
+line (beginning at the nostrils) includes the eye and ear-feathers; below
+this on each side blackish, with longitudinal whitish dots, which in the
+male is mixed near the bill with crimson; chin blackish, speckled with
+white. The general plumage above is uniform tawny rufous brown, becoming
+more olive on the rump. Under parts olivaceous yellow, crossed with
+numerous close bands of blackish brown. Quills with the inner web black,
+the margin pale yellow; shafts and outer web tawny; tail the same, the
+shafts and outer half black, excepting the last pair, which have yellowish
+shafts and dusky tips. Wings inside, pale orange. Legs and claws dusky
+green.
+
+Two or three other individuals have since fallen under my observation: the
+male I saw at Mr. Leadbeater's, Animal Preserver, in Brewer-street, of
+whose liberality and integrity in every way, I can bear the most
+unqualified and cheerful testimony.
+
+
+
+
+Pl. 15
+
+[Illustration]
+
+LICINIA Melite.
+
+
+
+GENERIC CHARACTER.
+
+    _Antennae graciles; clava elongata, fusiformi, compressa. Palpi
+    brevissimi, vix ultra caput producti, ad linguam compressi, squamis
+    linearibus tecti, margine ciliati, articulo ultimo sub-nudo, secundo
+    subaequali. Abdomen elongatum, gracile, in maribus 6-articulatum,
+    articulo ultimo integro; valvis plerumque elongatis, attenuatis, apice
+    acutis. Alae anticae (in maribus) angustae, obtuse-attenuatae, (in
+    foeminis) latiores, oblique rotundatae. Alae posticae (in maribus)
+    dilatatae, longitudine anticis pene aequales; margine antico opaco, in
+    foeminis breviores, suborbiculares._
+
+Typus Genericus _L. Melite_. Nobis.
+
+    Antennae slender, the club elongated, fusiform, and compressed. Palpi
+    very short, hardly projecting beyond the head, compressed on the
+    tongue, covered with scales and margined externally with long hairs,
+    the last joint nearly naked and almost as long as the second joint.
+    Body elongated, slender, in the male with 6 joints, the last entire.
+    Valves generally elongated, attenuated, their tips acutely pointed.
+    Anterior wings (in the male) narrow, obtusely attenuated; in the female
+    broader, and obliquely rounded. Posterior (in the male) dilated, nearly
+    as long as the anterior wings, the fore margin opaque; in the female
+    shorter, and nearly orbicular.
+
+Generic Type _L. Melite_.
+
+
+
+SPECIFIC CHARACTER.
+
+    _L. (Mas.) alis flavis; anteriore supra nigra, fascia obliqua flava, et
+    linea, basali transversa, margine posteriore flavo. (Foem.) Alis supra
+    albis; anteriore apice stigmateque marginali obliquo nigris; posteriore
+    supra nigro marginata, subtus (in utroque sexu) flavescente, lineis
+    duabus transversis fuscis._
+
+    Male. Wings yellow, anterior above black, with an oblique yellow band
+    and transverse basal line; posterior margin yellow. Fem. Wings above
+    white; anterior, with the tips and marginal oblique stigma black.
+    Posterior, above margined with black; beneath (in both sexes) yellow,
+    with two transverse brown lines.
+
+    Papilio Melite. _Fab. Ent. Syst._ 160, 494. _Cramer, tab._ 153. C. D.
+
+
+
+The remarkable size of the under wings in the male insects of this genus
+will distinguish them even to a casual observer as forming a natural group.
+They are all natives of South America, where I discovered nine species. The
+females differ most strikingly, and have hitherto been mistaken by authors
+not only for distinct species, but as belonging to different genera.
+
+Their natural situation will be among the _Pieridae_, with whose general
+habit they accord.
+
+The female of this species resembles _Pap. Licinia_ of Cramer, except in
+having a short black stigma in the middle of the anterior border of the
+fore wings, pointing obliquely to the exterior margin. Cramer's insect,
+however, is the female of another undescribed species in my cabinet.
+
+The under side of the posterior wings in both sexes is the same.
+
+
+
+
+Pl. 16
+
+[Illustration]
+
+ISMENE Oedipodea.
+
+
+
+GENERIC CHARACTER.
+
+    _Antennae cylindraceae, juxta medium crassissimae, versus apicem
+    subulatae, articulis numerosis brevissimis pene detectis. Palpi crassi
+    squamosi, fronte obtusa, lateribus compressis, marginibus exterioribus
+    ciliatis, articulo ultimo nudo, producto, subhorizontali, lineari,
+    compresso. Oculi (in maribus) magni. Corpus (in maribus) 7-articulatum,
+    articulo ultimo supra appendice transverso truncato subemarginato
+    terminante, subtus duobus uncis recurvis obtusis, fasciculo tectis;
+    articulo 1mo et ultimo brevissimis: (in foeminis) articulo ultimo
+    producto, subacuminato._
+
+    Antennae cylindrical, thickest near the middle, the terminal half
+    subulate; articulations numerous, very short, hardly perceptible. Palpi
+    thick, scaly; frontal side obtuse; lateral sides compressed; the
+    margins externally fringed with hair; the last joint naked, lengthened,
+    nearly horizontal, linear, compressed. Eyes (in the male) very large.
+    Body (in the male) of seven joints, the last with a transverse,
+    slightly emarginate, truncate appendage above; and two obtuse recurved
+    hooks below, concealed by a tuft of hair; the first and last segment
+    shortest. Body in the female with the last joint lengthened and
+    pointed.
+
+
+
+SPECIFIC CHARACTER.
+
+    _I. alis supra fuscis, basi nitide-caerulea, posticis aurantio
+    marginatis, subtus rufo-fusco nebulosis, basi puncto nigro: anticis (in
+    maribus) basi aurantiis, macula nigra tomentosa._
+
+    Wings above fuscous, shining blue at their base; posterior margined
+    with orange; beneath clouded with rufous and brown, and a black dot at
+    the base of the posterior wings. Anterior wings (in the male) orange at
+    the base, and a large velvet-like spot of black.
+
+
+
+The resplendent and changeable azure blue which ornaments the body and part
+of the wings in this very singular insect, can be but ill expressed in the
+figure. It is one of the many new and interesting subjects in entomology
+discovered in Java by Dr. Horsfield; and by his kindness and liberality I
+am enabled to add the figures of the caterpillar and chrysalis, which were
+copied out of a fine series of drawings made in Java under his own eye:
+they do not appear to differ in their formation from others of this family,
+although the perfect insect possesses such striking and peculiar generic
+characters; one of the many facts which prove the impossibility of making
+the _Larvae_ a primary consideration in forming the genera of Lepidoptera.
+
+This is a rare insect, I have therefore been obliged to leave the generic
+character imperfect, as the dissection of the mouth, &c. would destroy the
+specimen. The posterior margin in the wings of the male is sinuated; in the
+female it is nearly straight; the underside of the wings in both sexes is
+the same; the anterior pair reddish-brown, paler in the middle; the tip and
+posterior margin whitish: inferior wings reddish-orange towards the inner
+margin, with an obsolete central curved band of the same, and a black dot
+at the base of the inferior wings. The head, palpi, and thorax are margined
+with orange, less conspicuous in the female.
+
+Our knowledge of the genus _Hesperia_ of Latreille (under which the present
+insect would come) is little more than what was known of _Scarabaeus_
+twenty years ago; nor has Fabricius even noticed one half of the species
+figured by Cramer. The larva feeds on
+
+GAERTNERA _Javensis_
+
+    _Foliis ovatis, obtuse-acuminatis, caule volubili ramosissimo, ramulis
+    diffusis, deflexis,_
+
+a new species, discovered in Java by Dr. Horsfield, who has distinguished
+it by the above specific character. He informs me the natives give it the
+name of _Kakas-rambat_, which last word signifies twining or trailing. In
+the inflorescence and fruit it differs not from _G. racemosa_.
+
+
+
+
+Pl. 17
+
+[Illustration]
+
+BULIMUS zonatus.
+
+_Zoned Bulimus._
+
+
+
+GENERIC CHARACTER.--See Pl. 4.
+
+
+
+SPECIFIC CHARACTER.
+
+    _B. testa laevi conica; spirae anfractibus quinque; ultimo aliquantulum

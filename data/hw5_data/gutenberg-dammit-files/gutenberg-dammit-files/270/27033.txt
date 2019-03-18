@@ -1,0 +1,1763 @@
+= Quelles sont vos suggestions pour un véritable multilinguisme sur le web?
+
+Les recherches sur la traduction automatique devraient permettre une traduction
+automatique dans les langues souhaitées, mais avec des applications pour toutes
+les langues et non les seules dominantes (ex: diffusion de documents en
+japonais, si l'émetteur est de langue japonaise, et lecture en breton, si le
+récepteur est de langue bretonne...). Il y a donc beaucoup de travaux à faire
+dans la direction de la traduction automatique et écrite de toutes les langues.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et malvoyants?
+
+Des études sont faites en Californie, et sûrement ailleurs, pour l'utilisation
+de l'informatique et des télécoms (donc le web) par les malvoyants. Je connais
+trop mal le sujet pour avoir un avis.
+
+= Comment définissez-vous le cyberespace?
+
+Le cyberespace est un monde où je suis relié par l'image et le son et sans fil
+avec qui je veux, quand je veux et où je veux, où j'ai accès à toutes les
+documentations et informations souhaitées, et dans lequel ma vie est facilitée
+par les agents intelligents et les objets communicants.
+
+= Et la société de l'information?
+
+Une société dans laquelle tout membre de cette société a accès immédiatement à
+toutes les informations souhaitées.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Les premiers méls.
+
+= Et votre pire souvenir?
+
+Le temps passé à la réception d'images.
+
+
+GERARD FOURESTIER (Nice)
+
+
+#Créateur de Rubriques à Bac, bases de données destinées aux étudiants du
+premier cycle universitaire
+
+Oeuvre de Gérard Fourestier, professeur de français et diplômé en science
+politique, Rubriques à Bac (RaBac) propose deux bases de données (accessibles
+par souscription, avec version démo en accès libre) à destination des étudiants
+du Bac au Deug et de leurs professeurs, et à tous ceux que le sujet intéresse.
+ELLIT (Éléments de littérature) est une base de données sur la littérature
+française du 12e siècle à nos jours regroupant plus de 350 articles liés entre
+eux par 8.500 liens, ainsi qu'un répertoire de 450 auteurs (y compris en
+sciences et philosophie) qui ont joué un rôle majeur dans la formation de cette
+littérature. RELINTER (Relations internationales depuis 1945) propose plus de
+2.000 liens sur l'évolution de la situation du monde contemporain de la deuxième
+guerre mondiale à nos jours. Gérard Fourestier est aussi l'auteur de Bac-L
+(baccalauréat section lettres), un site en accès libre lancé en juin 2001 dans
+le prolongement d'ELLIT.
+
+*Entretien du 9 octobre 2000
+
+= Pouvez-vous décrire Rubriques à Bac?
+
+Rubriques à Bac est une branche des activités du GRIMM (Groupe de recherche et
+d'information sur le multimédia), un groupement associatif de personnes
+physiques et morales qui pratiquent la recherche et l'information sur
+l'informatique, le multimédia et la communication.
+
+Cependant, les perspectives ouvertes par une fréquentation du site en
+progression rapide, et compte tenu de la mission que j'ai assignée aux recettes
+de cette activité, à savoir la réalisation de projets éducatifs en Afrique,
+Rubriques à Bac se constituera prochainement en entité juridique propre.
+
+= En quoi consiste le site web?
+
+Le site de Rubriques à Bac a été créé il y a deux ans pour répondre au besoin de
+trouver sur le net, en un lieu unique, l'essentiel, suffisamment détaillé et
+abordable par le grand public, dans le but:
+
+a) de se forger avant tout une culture tout en préparant à des examens
+probatoires à des études de lettres - c'est la raison d'ELLIT (Eléments de
+littérature), base de données en littérature française;
+
+b) de comprendre le monde dans lequel nous vivons en en connaissant les tenants
+et les aboutissants, d'où RELINTER (Relations internationales).
+
+J'ai développé ces deux matières car elles correspondent à des études que j'ai,
+entre autres, faites en leur temps, et parce qu'il se trouve que, depuis une
+dizaine d'années, j'exerce des fonctions de professeur dans l'enseignement
+public (18 établissements de la 6e aux Terminales de toutes sections et de tous
+types d'établissements). Faute de temps, je n'ai pu réaliser que ces deux
+thèmes, mais je ne désespère pas de développer aussi d'autres sujets qui font
+partie de ma panoplie universitaire et d'autodidacte curieux de tout comme la
+philosophie, l'analyse sociétale, l'analyse sémantique ou encore l'écologie, et
+que je tiens "au chaud dans mes cartons". Ceci étant, je suis à l'affût de
+toutes autres idées, venant d'ailleurs, pour ne me réserver alors que la
+supervision du contenu mis en forme, la dernière main dans la réalisation
+informatique et la gestion en tant que site spécialisé.
+
+= En quoi consiste exactement votre activité professionnelle?
+
+Pour l'instant et faute de mieux, en raison de mon âge, la cinquantaine, et non
+de mes compétences, je m'occupe de mes élèves en les préparant à leurs examens
+tout en leur donnant envie d'être utiles, ne serait-ce que pour eux-mêmes et en
+leur apportant le sens des responsabilités, en un mot un message humaniste.
+J'aime ce métier car, pour moi, le savoir, ça se donne, et le maître, comme en
+boudhisme, ne peut avoir qu'un seul but: que son élève le dépasse. En outre,
+alors que j'ai eu dans le passé d'importantes fonctions de fondé de pouvoir, et
+que j'ai dirigé pour mon compte quelques entreprises, je suis maître à bord dans
+mes classes et j'organise mon travail comme je l'entends. C'est pour moi
+essentiel.
+
+= En quoi consiste exactement votre activité liée à l'internet?
+
+Comme je l'ai laissé entendre tout à l'heure, mon initiative à propos d'internet
+n'est pas directement liée à mes fonctions de professeur. J'ai simplement voulu
+répondre à un besoin plus général et non pas étroitement scolaire, voire
+universitaire. Débarrassé des contraintes du programme, puisque j'agis en mon
+nom et pour mon compte et non "es-qualité", mais tout en en donnant la matière
+grise qui me paraît indispensable pour mieux faire une tête qu'à la bien
+remplir, je laisse à d'autres le soin de ne préparer qu'à l'examen. Pour
+répondre plus précisément, peut-être, à votre question, mon activité liée à
+internet consiste tout d'abord à en sélectionner les outils, puis à savoir les
+manier pour la mise en ligne de mes travaux et, comme tout a un coût et doit
+avoir une certaine rentabilité, organiser le commercial qui permette de dégager
+les recettes indispensables; sans parler du butinage indispensable pour la
+recherche d'informations qui seront ensuite traitées.
+
+= Comment voyez-vous l'avenir?
+
+Je le vois en Afrique, là où je suis certainement plus utile, par égard à ce que
+je m'estime redevable en tant que nanti et parce que je suis aussi spécialiste
+de ce que l'on nomme les bouts de ficelles. Pour des raisons particulières, aux
+conséquences coûteuses pour mes finances, je n'ai pu mener à bien cette année
+mon projet d'un centre culturel au Sénégal au profit d'une communauté de
+villages en Casamance. Mais je ne désespère pas!
+
+= Utilisez-vous encore des documents papier?
+
+Oui, mais beaucoup moins qu'avant!
+
+= Quelle est votre opinion sur le livre électronique?
+
+Un plus, mais il faudra encore du temps et, pour l'instant, le prix, comme pour
+la "voiture propre", n'est pas très attractif. Ceci dit, j'accepte qu'on m'en
+offre un, j'en ferai la pub :-) Quoi qu'il en soit, si la chose devait prendre
+de l'ampleur, j'ai sous la main, si je puis dire (dans des cartons), une petite
+fortune de toutes sortes en "produits Gutenberg" Avis aux collectionneurs qui,
+comme chacun sait, sont pour le progrès!.... et pour cause!
+
+= Quelles sont vos suggestions pour un meilleur respect du droit d'auteur sur le
+web?
+
+Les mesures de respect: oui, mais de protection: non! Et, quoi qu'il en sera,
+que cela n'aboutisse pas à freiner la création, tant il est vrai que chaque
+auteur en a digéré d'autres.
+
+= Quelles sont vos suggestions pour une meilleure répartition des langues sur le
+web?
+
+Je suis de langue française. J'ai appris l'allemand, l'anglais, l'arabe, mais je
+suis encore loin du compte quand je surfe dans tous les coins de la planète. Il
+serait dommage que les plus nombreux ou les plus puissants soient les seuls qui
+"s'affichent" et, pour ce qui est des logiciels de traduction, il y a encore
+largement à faire. Je ne sais quoi suggérer au juste sinon, pour l'instant, de
+connaître suffisament d'anglais et de créer beaucoup plus encore en français.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et malvoyants?
+
+Ils ont aussi droit de cité dans le cyberspace à la république des lettres et à
+la démocratie du savoir et, bien qu'ils soient encore loin de nos technologies,
+n'oublions pas les dizaines de millions d'aveugles et de malvoyants du sud.
+
+= Comment définissez-vous le cyberespace?
+
+Un espace sans odeurs mais pour tous les goûts.
+
+= Et la société de l'information?
+
+Un espace où l'esprit d'examen et le sens critique sont particulièrement de
+mise.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Quand j'ai sorti mon premier ordinateur de son emballage.
+
+= Et votre pire souvenir?
+
+Cet été, à la plage: mes ordinateurs étaient en panne :-)
+
+*Entretien du 3 mai 2001
+
+= Quoi de neuf depuis notre premier entretien?
+
+La routine d'un travail de plus en plus prenant et qui, faute de vivre une vie
+tranquille en m'attelant à des entreprises pour le moins accaparantes, me laisse
+peu de temps à me prélasser sur le sable.
+
+Alors, quand je le peux et pour respirer autre chose, je m'évade vers d'autres
+horizons si le prix du billet me le permet, ne serait-ce que pour retrouver ma
+compagne qui enseigne à l'étranger, dans son pays, et qui, comme bien d'autres,
+se demande pourquoi je ne me range pas bien sagement dans la carrière.
+
+Comme je vous le disais il y a déjà quelque temps, je suis professeur mais j'ai
+fait bien d'autres choses dans ma vie professionnelle, et je ne peux m'empêcher
+de suivre autant que je le peux ce qui me passionne - et j'ai bien peur que tout
+me passionne - passant le plus clair de mon temps à découvrir ce que je ne sais
+pas encore.
+
+Faute d'avoir une famille dont il faudrait que je m'occupe quotidiennement là où
+je vis en France, je peux consacrer le temps que je veux à développer mes
+projets... et la seule écriture sur mon clavier m'occupe déjà pas mal. Mais tout
+n'est pas vain et je peux me vanter en toute modestie :-) et sans ego démesuré
+que ce que j'entreprends me procure la satisfaction de le voir grandir sans le
+devoir à personne.
+
+Rubriques à Bac est le prototype de ce genre de phénomène chez moi et,
+précisément pour parler du net, je constate tous les jours que ce que j'y fais
+est utile, si j'en juge d'après la fréquentation presque frénétique du site. Il
+est vrai que, les échéances s'approchant, il est bien normal que le nombre des
+visites s'accroisse à deux mois du Bac ou des examens d'une manière générale;
+cela relève du bouche à oreilles - bien sûr avec un travail de marketing
+derrière - mais au bout du compte cela paye. Ceci dit je ne suis pas riche, loin
+de là, et ce n'est peut être pas le moment. Pour l'heure, ce qui rentre, quand
+ce n'est pas réinvesti, va dans ce que j'ai décidé de faire en Afrique.
+
+A ce propos, je vous avais dit combien j'étais comme aimanté par ce continent et
+en particulier par le Sénégal où je me suis découvert de nombreuses attaches au
+point que, si Dieu le veut - mais il est grand et miséricordieux :-), je me suis
+proposé en personne pour concourir à un projet social, éducatif et de
+développement. En partenariat avec quelques-uns de mes amis indigènes, j'ai mis
+au point un système d'organisation qui permette, par contrat, la réalisation de
+projets individuels où chacun, par synergie, à la manière d'une tontine - pour
+faire court, apporte ce qu'il a de savoir-faire et de "pouvoir le faire" pour
+l'édification d'une maison commune ouverte à la réunion d'humains qui cherchent
+le bonheur dans la solidarité. Cela prend plus de temps que prévu mais ça
+avance, puique nous voilà déjà avec un toît là-bas et que, dans quelques mois,
+un jeune Sénégalais qui n'a pas envie de vider les poubelles chez nous va
+pouvoir, grâce à Rubriques à Bac, venir en Europe quelques mois, recevoir une
+formation dans le domaine de l'informatique, la stratégie d'organisation et
+repartir en Casamance avec un ordinateur pour la création d'un relais internet
+(un nom de domaine est déjà déposé) au bénéfice de la population locale pour
+m'aider à assurer ma disponibilité en dispense de cours et de savoir-faire en
+élaboration de projets d'intérêt local.
+
+J'enrage que les choses n'aillent pas plus vite, oh... pas pour moi! mais bien
+pour eux, quand on sait de quoi, comment et où vivent ces gens-là.
+Tiers-mondiste? Oui, quelque part et sans illumination ou parti-pris
+idéologique, lucide simplement sur ce que j'ai à faire et... dois le faire parce
+que il y a une demande de savoirs en face et que le savoir-faire dont ils ont
+besoin souvent en procède ou y contribue... n'en déplaise à l'un des mots fameux
+de Figaro dans la réplique célèbre que lui fait dire Beaumarchais. :-)
+
+Tout cela peut paraître presque simplet, mais qu'en ai-je à faire de ce que l'on
+pourrait penser, je ne cherche pas de médailles...ça déséquilibre les
+funambules! :=) En revanche je recherche toujours des sponsors qui pourraient
+faire que les choses aillent plus vite et je renouvelle mon appel; pourquoi pas
+pour plusieurs ordinateurs dont un au moins qui soit portable? Neufs ou
+"d'occase" et qui marchent avec modem de connection, le tout gratos bien sûr,
+car je n'ai toujours pas les moyens de tout faire!... et j'ai même déjà fort à
+faire pour me sortir de ce que l'on nomme un revers de fortune. Moyennant -
+pourquoi pas - de la pub à finalité culturelle via Rubriques à Bac, et sans que
+ça me prive du fruit de mon travail ou le dénature pour le transformer en banal
+produit marchand.
+
+Et puisque voilà la chose dite, et pour ne pas passer éventuellement pour un
+bonimenteur, je tiens, à qui voudrait faire le geste qu'ils attendent, les
+statistiques de fréquentation du site de Rubriques à Bac pour continuer plus
+vite l'aventure africaine.
+
+
+PIERRE FRANCOIS GAGNON (Montréal)
+
+
+#Fondateur d'Editel, pionnier de l'édition littéraire francophone en ligne
+
+Pierre François Gagnon, éditeur en ligne québécois, vit dans l'agglomération
+montréalaise depuis plus de vingt ans. Ardent défenseur de la langue française,
+il est un des pionniers de l'internet littéraire francophone. Dès avril 1995, il
+crée Editel, le premier site web d'auto-édition collective de langue française,
+devenu ensuite un site de cyberédition non commerciale en partenariat avec les
+auteurs maison.
+
+*Entretien du 14 juillet 2000
+
+= En quoi Editel est-il pionnier?
+
+En fait, tout le monde et son père savent ou devraient savoir que le premier
+site d'édition en ligne commercial fut Cylibris (fondé par Olivier Gainon en
+août 1996, ndlr), précédé de loin lui-même, au printemps de 1995, par nul autre
+qu'Editel, le pionnier d'entre les pionniers du domaine, bien que nous fûmes
+confinés à l'action symbolique collective, faute d'avoir les moyens de déboucher
+jusqu'ici sur une formule de commerce en ligne vraiment viable et abordable,
+bien qu'il n'existe toujours pas de support de lecture "grand public" qui soit
+crédible pour la publication payante de livres numériques. Nous l'attendons
+toujours dans le courant de l'an 2000!
+
+= En quoi consiste exactement votre activité?
+
+Nous sommes actuellement trois mousquetaires (Pierre François Gagnon, Jacques
+Massacrier et Mostafa Benhamza, ndlr) à développer le contenu original et inédit
+du webzine littéraire qui continuera de servir de façade d'animation gratuite,
+offerte personnellement par les auteurs maison à leur lectorat, à d'éventuelles
+activités d'édition en ligne payantes, dès que possible au point de vue
+technico-financier. Est-il encore réaliste de rêver à la démocratie économique?
+
+= Comment voyez-vous l'avenir?
+
+Tout ce que j'espère de mieux pour le petit éditeur indépendant issu, comme
+Editel, directement du net et qui cherche à y émerger enfin, c'est que les
+nouveaux supports de lecture, ouverts et compatibles grâce au standard OeB (Open
+eBook), s'imposeront d'emblée comme des objets usuels indispensables,
+c'est-à-dire multifonctionnels et ultramobiles, intégrant à la fois
+l'informatique, l'électronique grand public et les télécommunications, et pas
+plus dispendieux qu'une console de jeux vidéo: le concept d'origine d'un Marc
+Poret chez General Magic en 1994, poignardé dans le dos par cet avorton de
+Newton d'Apple!
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Le web doit ouvrir toute grande pour les auteurs une nouvelle fenêtre
+d'exploitation de leurs droits exclusifs, et j'ose croire qu'est concevable une
+solution de chiffrement qui soit étanche, non propriétaire, mais transparente et
+sans douleur pour l'utilisateur final.
+
+= Comment voyez-vous l'évolution vers un internet multilingue?
+
+Je pense que, si les diverses langues de la planète vont occuper chacune le net
+en proportion de leur poids démographique respectif, la nécessité d'une langue
+véhiculaire unique se fera sentir comme jamais auparavant, ce qui ne fera
+qu'assurer davantage encore la suprématie planétaire de l'anglais, ne serait-ce
+que du fait qu'il a été adopté définitivement par l'Inde et la Chine. Or la
+marche de l'histoire n'est pas plus comprimable dans le dé à coudre d'une
+quelconque équation mathématique que le marché des options en bourse!
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+La découverte de quelques amitiés affinitaires, indéfectibles, m'enchante
+encore, tandis que l'étroitesse de vision, le scepticisme négatif qu'affichait
+la vaste majorité des auteurs de science-fiction et de fantastique vis-à-vis du
+caractère pourtant immanent et inéluctable de ce qui n'est après tout qu'un
+fantasme à la Star Trek, qui hante depuis longtemps l'imaginaire collectif, soit
+l'e-book tout communicant qui tienne dans le creux de la paume, ne cesse pas de
+m'étonner et de me laisser pantois rétrospectivement.
+
+= Une conclusion?
+
+Je dirai, pour conclure, que je me trouve vraiment fait pour être "éditeur en
+ligne, poète et essayiste, et peut-être même un jour, romancier"! Fait à noter,
+c'est curieusement de la part des poètes, toujours visionnaires quand ils sont
+authentiques, que le concept de livre numérique a reçu le meilleur accueil!
+
+
+OLIVIER GAINON (Paris)
+
+
+#Fondateur et gérant de CyLibris, maison d'édition littéraire en ligne
+
+Créé en août 1996 à Paris par Olivier Gainon, CyLibris (de Cy, cyber et Libris,
+livre) utilise l'internet et le numérique pour s'affranchir des contraintes
+liées à l'économie traditionnelle du livre. L'éditeur peut ainsi se consacrer à
+la découverte et à la promotion de nouveaux auteurs littéraires francophones, et
+à la publication de leurs premières oeuvres (romans, poésie, théâtre, policier,
+science-fiction, fantastique, etc.). Si CyLibris est avant tout un tremplin pour
+les nouveaux talents, les auteurs confirmés y ont aussi leur place (voir à ce
+sujet l'entretien avec Emmanuel Ménard, directeur des publications, qui expose
+en détail la procédure éditoriale de Cylibris).
+
+Vendus uniquement sur le web (avec des extraits en téléchargement libre au
+format texte), les livres (52 titres en juin 2001) sont imprimés à la commande
+et envoyés directement au client, ce qui permet d'éviter le stock et les
+intermédiaires. Le site web procure des informations pratiques à destination des
+auteurs en herbe: comment envoyer un manuscrit à un éditeur, ce que doit
+comporter un contrat d'édition, comment protéger ses manuscrits, etc. Depuis le
+printemps 2000, CyLibris est membre du Syndicat national de l'édition (SNE).
+
+Par ailleurs, l'équipe de CyLibris lance en mai 1999 une lettre d'information
+électronique sur le monde de l'édition francophone. Souvent humoristique et
+décapante, la lettre, d'abord mensuelle, paraît deux fois par mois à compter de
+février 2000. Elle change de nom en février 2001 pour devenir Edition-actu.
+Depuis ses débuts, son objectif n'est pas tant de promouvoir les livres de
+l'éditeur que de présenter l'actualité du livre tous azimuts.
+
+*Entretien du 23 décembre 2000
+
+= Quelle est l'activité de CyLibris?
+
+CyLibris a été créé d'abord comme une maison d'édition spécialisée sur un
+créneau particulier de l'édition et mal couvert à notre sens par les autres
+éditeurs: la publication de premières oeuvres, donc d'auteurs débutants. Nous
+nous intéressons finalement à la littérature qui ne peut trouver sa place dans
+le circuit traditionnel: non seulement les premières oeuvres, mais les textes
+atypiques, inclassables ou en décalage avec la mouvance et les modes littéraires
+dominantes.
+
+Ce qui est rassurant, c'est que nous avons déjà eu quelques succès éditoriaux
+(grand prix de la Société des gens de lettres (SGDL) en 1999 pour La Toile de
+Jean-Pierre Balpe, prix de la litote pour Willer ou la trahison de Jérôme Olinon
+en 2000, etc.).
+
+Ce positionnement de "défricheur" est en soi original dans le monde de
+l'édition, mais c'est surtout son mode de fonctionnement qui fait de CyLibris un
+éditeur atypique. Créé dès 1996 autour de l'internet, CyLibris a voulu
+contourner les contraintes de l'édition traditionnelle grâce à deux innovations:
+la vente directe par l'intermédiaire d'un site de commerce sur internet, et le
+couplage de cette vente avec une impression numérique en "flux tendu".
+
+Cela permettait de contourner les deux barrières traditionnelles dans l'édition:
+les coûts d'impression (et de stockage), et les contraintes de distribution.
+Notre système gérait donc des flux physiques: commande reçue par internet -
+impression du livre commandé - envoi par la poste. Je précise que nous
+sous-traitons l'impression à des imprimeurs numériques, ce qui nous permet de
+vendre des livres de qualité équivalente à celle de l'offset, et à un prix
+comparable. Notre système n'est ni plus cher, ni de moindre qualité, il obéit à
+une économie différente, qui, à notre sens, devrait se généraliser à terme.
+
+Aujourd'hui, CyLibris développe une activité de distribution de "livres
+numériques", c'est-à-dire de fichiers téléchargeables. Nous n'avons pas lancé
+cette activité au départ car il nous semblait que les outils de sécurisation
+(c'est-à-dire permettant une réelle prise en charge des droits d'auteur)
+n'existaient pas il y a quatre ans. Les technologies évoluent, et nous sommes en
+train de tester plusieurs technologies pour lancer une réelle activité de livres
+numériques en 2001.
+
+Nous quittons donc notre métier d'éditeur pur pour nous intéresser de plus en
+plus aux technologies autour du livre sur internet. Bien entendu, nous pensons à
+faire bénéficier d'autres éditeurs de ce savoir-faire que nous sommes en train
+d'acquérir.
+
+= En quoi consiste exactement votre activité professionnelle?
+
+Je suis le créateur et le gérant de CyLibris. Je décrirais donc mon activité
+comme double. D'une part celle d'un éditeur traditionnel dans la sélection des
+manuscrits et leur retravail (je m'occupe directement de la collection
+science-fiction), mais également le choix des maquettes, les relations avec les
+prestataires, etc.
+
+D'autre part, une activité internet très forte qui vise à optimiser le site de
+CyLibris et mettre en oeuvre une stratégie de partenariat permettant à CyLibris
+d'obtenir la visibilité qui lui fait parfois défaut.
+
+Enfin, je représente CyLibris au sein du SNE (Syndicat national de l'édition).
+
+= Comment voyez-vous l'avenir?
+
+CyLibris est aujourd'hui une petite structure. Elle a trouvé sa place dans
+l'édition, mais est encore d'une économie fragile sur internet. Notre objectif
+est de la rendre pérenne et rentable et nous nous y employons. Je pense que les
+choses changent et j'espère qu'en 2002 nous aurons doublé notre taille et que
+nous serons proche de l'équilibre.
+
+Mon avenir personnel sur internet est cependant légèrement distinct de celui de
+CyLibris, au sens où même si CyLibris disparaît, je resterai actif sur
+l'internet à l'avenir, cela ne fait pas de doute pour moi. Sous quelle forme et
+pour faire quoi? On verra bien...
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Oui, pour lire des textes, etc. Cela dit, je lis de plus en plus sur écran, mais
+dans un cadre professionnel (par exemple les lettres d'information auxquelles je
+suis abonné, etc.), dès que l'on parle de lecture-plaisir (roman, détente,
+etc.), je ne lis pas sur écran, j'imprime (si ce n'est pas déjà le cas), et je
+lis sur papier.
+
+Je me rends également compte que j'ai du mal à lire sur écran un document long
+et complexe. Bref, je lis des informations brèves et ponctuelles, mais pas
+véritablement des dossiers complexes.
+
+= Les jours du papier sont-ils comptés?
+
+Tout dépend de quoi l'on parle. Le papier comme support simple de document écrit
+est un peu limité: texte et image simplement / pas d'évolution en temps réel /
+reproduction complexe / etc. L'électronique offre beaucoup plus d'avantages.
+
+En revanche, sur les aspects plus "pratiques" ("la valeur d'usage"), le papier
+reste aujourd'hui imbattable: peu cher, léger, on peut le plier, le déchirer, le
+tordre, le laisser tomber, il peut en plus être physiquement agréable,
+esthétiquement beau, etc. Sans même parler du confort de lecture qui, pour moi
+aujourd'hui, donne un grand avantage au papier...
+
+Bref, tout cela pour dire que je pense que le papier va décroître dans son
+utilisation à terme - mais que ce sera un processus long, et plutôt une question
+de génération, quand nos enfants n'auront plus la même relation que nous pouvons
+avoir avec le papier...
+
+= Quelle est votre opinion sur le livre électronique?
+
+Je ne crois pas trop à un objet qui a des inconvénients clairs par rapport à un
+livre papier (prix / fragilité / aspect / confort visuel / etc.), et des
+avantages qui me semblent minimes (taille des caractères évolutifs / plusieurs
+livres dans un même appareil / rétro-éclairage de l'écran / etc.).
+
+De même, je vois mal le positionnement d'un appareil exclusivement dédié à la
+lecture, alors que nous avons les ordinateurs portables d'un côté, les
+téléphones mobiles de l'autre et les assistants personnels (dont les pocket PC)
+sur le troisième front.
+
+Bref, autant je crois qu'à terme la lecture sur écran sera généralisée, autant
+je ne suis pas certain que cela se fera par l'intermédiaire de ces objets. On
+verra si on en parle encore dans un an, mais je peux me tromper - et j'espère me
+tromper, comme éditeur sur internet, CyLibris bénéficierait forcément d'un
+développement de ce type d'appareil.
+
+= Quelles solutions pratiques suggérez-vous pour le respect du droit d'auteur
+sur le web?
+
+Il faut distinguer deux aspects: le droit d'auteur et l'application de ce droit.
+
+Pour moi, il ne fait aucun doute que le droit d'auteur s'applique sur internet
+(peu de gens le contestent désormais d'ailleurs), ce qui signifie que ce n'est
+pas parce qu'une création est mise en libre disponibilité sur le réseau que
+n'importe qui peut venir la copier, la commercialiser, etc. Et là, on touche
+surtout à de la pédagogie: je crois que les internautes ne sont pas sensibilisés
+à ces questions et qu'une première démarche pédagogique peut permettre de régler
+un certain nombre de problèmes. Autre démarche, il me semble nécessaire pour les
+auteurs d'indiquer les droits qu'ils laissent à une oeuvre en libre accès sur
+internet: si je peux télécharger une création visuelle sur un site, il vaut
+mieux que l'auteur indique, par exemple, s'il laisse la libre réutilisation de
+cette image du moment que ce n'est pas une démarche commerciale et sous réserve
+que son nom soit cité, s'il est contre toute réutilisation de cette image, etc.
+Là, tout est possible. A mon sens, sur trop de sites, on trouve des créations
+librement téléchargeables, et rien n'indique ce que l'on peut faire ou non avec.
+
+La vraie difficulté aujourd'hui réside dans l'application du droit d'auteur dans
+un contexte international face à des actes de piratages manifestes (c'est-à-dire
+la réutilisation à des fins commerciales de l'oeuvre d'un ou plusieurs artistes
+sans que ces derniers ne perçoivent quoi que ce soit). Et là, ce sera forcément
+plus lent parce qu'il faut définir des modes de coopération internationale,
+s'entendre sur des règles et mettre en place des procédures judiciaires
+adéquates. C'est un processus lent qui prendra plusieurs années, mais je suis
+optimiste.
+
+Finalement, tout cela est assez classique: pédagogie d'un côté, réglementation
+de l'autre.
+
+= Quelles solutions pratiques suggérez-vous pour une meilleure répartition des
+langues sur le web?
+
+Première étape: le respect des particularismes au niveau technique. Il faut que
+le réseau respecte les lettres accentuées, les lettres spécifiques, etc. Je
+crois très important que les futurs protocoles de transmission permettent une
+transmission parfaite de ces aspects - ce qui n'est pas forcément simple (dans
+les futures évolutions de l'HTML, ou des protocoles IP, etc.). Donc, il faut que
+chacun puisse se sentir à l'aise avec l'internet et que ce ne soit pas
+simplement réservé à des (plus ou moins) anglophones. Il est anormal aujourd'hui
+que la transmission d'accents puisse poser problème dans les courriers
+électroniques. La première démarche me semble donc une démarche technique.
+
+Si on arrive à faire cela, le reste en découle: la représentation des langues se
+fera en fonction du nombre de connectés, et il faudra envisager à terme des
+moteurs de recherche multilingues.
+
+= Comment définissez-vous le cyberespace?
+
+Pas de définition particulièrement. Pour moi, c'est plutôt un concept pour nos
+auteurs de science-fiction.
+
+= Et la société de l'information?
+
+Ce que nous vivons aujourd'hui, c'est la mise en réseau de notre société, au
+sens où, à terme, beaucoup des objets quotidiens seront connectés au Réseau
+(avec un grand R, qui sera lui-même composé de dizaines de réseaux différents).
+Bref, c'est une nouvelle manière de vivre et, à terme, certainement une nouvelle
+société. S'agit-il d'une société de "l'information", je n'en suis pas certain.
+Faut-il que nous définissions collectivement ce que nous voulons dans cette
+société, cela me semble urgent, et c'est un débat qui concerne tout le monde,
+pas uniquement les "connectés"? Bref, sur quelles valeurs de société fonder
+notre action future? Voilà un vrai débat.
+
+J'en profite d'ailleurs pour faire un peu de pub pour un auteur CyLibris: La
+Toile de Jean-Pierre Balpe me semble aujourd'hui la meilleure illustration de ce
+débat. La société qu'il décrit au travers de ce roman est à mon sens la plus
+probable à court terme (l'action se passe en 2015). Est-ce cela que nous
+voulons? Est-ce ce type d'organisation? Peut-être, mais mon souci, c'est que ce
+choix soit conscient et non subi.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+La première fois que des étudiants dans une école d'ingénieurs m'ont montré le
+web. C'était en 1992, et j'ai trouvé cela génial. D'où la création de CyLibris
+en 1996 (j'ai quand même mis quatre ans).
+
+= Et votre pire souvenir?
+
+La disparition progressive de CyLibris dans certains moteurs de recherche parce
+que, soit nous ne voulions pas payer, soit des accords d'exclusivité avaient été
+signés avec des libraires en ligne et que nous étions déréférencés brutalement
+(passer de la première page à la cinquième page est une forme de déréférencement
+brutal). Bref, aujourd'hui plus rien ne me trouble et on a appris à vivre avec
+ce genre de phénomène. Il n'empêche qu'une structure comme CyLibris qui se
+créerait juste aujourd'hui aurait les pires difficultés pour être visible sur
+internet.
+
+
+JACQUES GAUCHEY (San Francisco)
+
+
+#Spécialiste en industrie des technologies de l'information, "facilitator" entre
+les Etats-Unis et l'Europe, journaliste
+
+Jacques Gauchey est l'auteur de La vallée du risque - Silicon Valley, paru fin
+1990 chez Plon. Son métier - "facilitator" entre les Etats-Unis et l'Europe -
+est très lié à ses relations personnelles. En 1993, grâce au réseau qu'il a
+constitué de part et d'autre de l'Atlantique, il crée la société G.a
+Communications, qui aide les sociétés américaines spécialisées en technologies
+de l'information à définir et mettre en place leur politique européenne,
+particulièrement en matière de stratégie, de partenariat et de visibilité.
+
+Ses activités dans le domaine des nouvelles technologies sont multiples:
+directeur du Multimedia Development Group (MDG) en 1996-1997; responsable du
+International Group du MDG de 1994 à 1996, avec des activités allant de la
+conférence M3 du MDG (1994) à la publication des éditions 1995 et 1996 du guide
+Going Global: Multimedia Marketing & Distribution; président de manifestions
+telles que les "only-for-CEOs IT conferences"; ETRE (en Europe) et ATRE (en
+Asie) (1990, 1991 et 1992), le "World Multimedia: A Mosaic of Markets" du MDG
+(San Francisco, 1994), Multimedia Live! (San Francisco, 1995), le séminaire des
+AI (Artificial Intelligence) Soft International Partners (Tokyo, 1996), etc. Il
+préside régulièrement des groupes de travail en industrie des technologies de
+l'information.
+
+Entre 1985 et 1992, Jacques Gauchey a été le correspondant de la côte ouest des
+Etats-Unis pour La Tribune, quotidien parisien économique, financier et
+boursier. Auparavant, il a travaillé pour Le Figaro et Le Point.
+
+*Entretien du 31 juillet 1999
+
+= Dans quelle mesure l'internet a-t-il changé votre vie professionnelle?
+
+Complètement. Le monde entier est sur mon écran d'ordinateur. Chaque individu a
+maintenant accès à une base de données globale. A cet individu d'apprendre à y
+naviguer ou de s'y noyer.
+
+= Comment voyez-vous l'avenir?
+
+Mes clients sont tous maintenant des sociétés internet. Mes outils de travail
+sont ou seront bientôt tous liés à l'internet que ce soit mon téléphone mobile,
+mon PDA (personal digital assistant) et mon PC.
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Le droit d'auteur dans son contexte traditionnel n'existe plus. Les auteurs ont
+besoin de s'adapter à un nouveau paradigme, celui de la liberté totale du flot
+de l'information. Le contenu original est comme une empreinte digitale: il est
+incopiable. Il survivra et prospérera donc.
+
+= Comment voyez-vous l'évolution vers un internet multilingue?
+
+La technologie résoudra le problème éventuellement. Et que le meilleur gagne.
+L'internet a vraiment décollé aux Etats-Unis à cause d'un concept
+révolutionnaire: une langue unique - l'anglais. Le mouvement "politically
+correct" pour l'enseignement obligatoire multi-linguistique dans les écoles
+américaines et le respect des différentes sous-cultures est un désastre pour
+l'avenir de ce pays (comme il l'est déjà en Europe). Aux individus de décider,
+chez eux, s'ils veulent apprendre une autre langue.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+J'ai publié quelques numéros d'une lettre d'information en anglais gratuite il y
+a quatre ans sur internet. Une dizaine de lecteurs par numéro jusqu'au jour (en
+janvier 1996) où l'édition électronique de Wired Magazine créa un lien. En une
+semaine j'ai eu une centaine de courriers électroniques - y compris de lecteurs
+francais de mon livre La vallée du risque - Silicon Valley, contents de me
+retrouver.
+
+= Et votre pire souvenir?
+
+L'internet est un médium et comme tout médium un facteur d'éclatement du pire.
+La fusillade d'Atlanta fin juillet 1999 par un "day trader". La pornographie. La
+vente libre des armes en ligne. Les mails non sollicités.
+
+
+RAYMOND GODEFROY (Valognes, Normandie)
+
+
+#Ecrivain-paysan, publie son recueil Fables pour les années 2000 sur le web
+avant de le publier sur papier
+
+Né en 1923 dans une famille rurale d'Octeville-l'Avenel (Cotentin, Normandie),
+Raymond Godefroy obtient en 1938 son brevet d'ajusteur mécanicien à l'Ecole
+pratique de Cherbourg. Il parcourt ensuite pendant seize ans tout le nord du
+Cotentin en tant que conducteur d'une entreprise de battage.
+
+Marié en 1953 - son épouse est également de souche paysanne - il fait valoir à
+partir de cette année-là le domaine de la Cour de Lestre. A partir de 1966, il y
+pratique l'agrobiologie, une forme de culture pour laquelle il ne cessera de
+militer. Partageant ses loisirs entre la mécanique et l'écriture, il dépose
+plusieurs brevets de machines agricoles et il écrit de nombreux articles dans la
+revue Agriculture et vie. Il s'oriente ensuite vers la fiction, sous forme de
+contes et nouvelles.
+
+Raymond Godefroy est membre de l'Association internationale des écrivains
+paysans (AIEP), fondée en 1972 dans le but de rassembler et promouvoir les
+auteurs servant la pensée paysanne. A sa retraite, il déménage à Valognes, et
+l'exploitation du domaine de la Cour de Lestre est reprise par son fils Pierre.
+
+*Entretien du 23 décembre 1999
+
+= Pouvez-vous vous présenter?
+
+Je suis né dans le Nord Cotentin de vieille souche paysanne. Je suis âgé de 77
+ans. J'ai quitté l'école primaire à 12 ans avec le certificat d'études et, trois
+ans plus tard, l'Ecole pratique de Cherbourg avec un brevet d'ajusteur
+mécanicien. Je suis rentré à la ferme paternelle pour pratiquer l'agriculture
+avec mes parents. Je me suis marié à 30 ans. Six enfants sont nés de ce mariage.
+J'ai pratiqué l'agrobiologie sur cette ferme pendant 17 ans en militant pour
+cette agriculture nouvelle. J'ai écrit des articles sur ce sujet, puis des
+contes et des nouvelles du genre fantastique, enfin à 70 ans mes premiers poèmes
+et fables.
+
+= Comment vous est venu le désir d'écrire?
+
+Mon désir d'écrire s'est manifesté très tard dans la vie et très lentement. J'ai
+publié mes premiers articles dans Agriculture et vie entre 40 et 50 ans,
+découvrant là une façon de m'exprimer différente de la parole, qui m'obligeait à
+affiner ma pensée pour transmettre un message clair et agréable à lire.
+
+Pour attirer l'attention des lecteurs j'ai inventé des histoires courtes à
+morale écologique mais aussi fantastique. Ainsi sont nées toutes ces histoires
+publiées ensuite sous le titre de Contes écologiques et fantastiques (Caen,
+Editions Charles Corlet, 1988 - réédités en 1995 à la suite des Extravagantes
+histoires de Graundaru, ndlr).
+
+A 60 ans j'ai souffert d'une crise aiguë de polyarthrite. Ne pouvant plus
+travailler ni me déplacer, j'ai écrit le Couguard et d'autres nouvelles,
+publiées sous le titre: Trois histoires étranges (Marigny, Editions Paoland,
+1995, ndlr) (prix Octave Mirebeau 1997). La même année sont parues Les
+extravagantes histoires du Graundaru (Marigny, Editions Paoland, 1995, ndlr).
+
+Mais il me restait quelque chose d'inassouvi: la poésie. Tous les essais
+s'étaient soldés par un échec, blocage au deuxième vers et pas d'inspiration
+sauf des banalités, je n'étais pas mûr pour le faire. Puis un jour - j'avais
+alors 70 ans - grattant un plafond, travail ingrat, j'eus subitement une
+inspiration, c'est ainsi qu'est né Les fleurs de mon jardin (poème qui n'est pas
+encore publié, ndlr). D'autres ont suivi presque dans interruption. C'est après
+l'avoir écrite que j'ai découvert que Les peupliers et le saule pleureur était
+une fable. Les autres ont été voulues. Ainsi sont nées Fables pour l'an 2000,
+entre septembre 1996 et avril 1999.
+
+= Pourquoi des fables? Pourquoi l'an 2000?
+
+Je m'explique dans la préface de mon recueil:
+
+"Trois siècles après le grand La Fontaine, que peut-on ajouter à une oeuvre
+aussi pleine de nuances et de richesse psychologique?
+
+Si depuis tous les temps, la nature humaine est restée toujours la même, par
+contre la connaissance et la vision du monde ont beaucoup changé. Et le rôle des
+fables est de révéler aux hommes, un peu comme un miroir fantastique, cette
+image d'eux-mêmes que leurs habitudes journalières dissimulent à leur vue. La
+fable permet aussi d'aborder les problèmes de société, comme de courtes comédies
+très proches de la nature. Mais depuis peu les hommes ont acquis un immense
+pouvoir: celui de détruire le monde, soit d'une façon violente, soit petit à
+petit en l'empoisonnant et le surexploitant.
+
+Arrivés en l'an 2000, après plus de cinq siècles d'humanisme rationnel et
+scientifique cherchant à faire reculer le mystère, voilà qu'ils découvrent (...)
+qu'ils n'en viendraient jamais à bout et qu'il fait partie de leur propre
+nature. (...) Le prochain millénaire sera-t-il celui de la révélation mystique
+comme certains l'ont prédit? Ou bien, la violence destructrice l'emportant, le
+monde pourrait-il être détruit par les hommes eux-mêmes?
+
+C'est peu probable, si chacun peut s'exprimer sans provoquer d'intransigeantes
+réactions et qu'enfin arrivés à la tolérance, les fabulistes puissent à leur
+manière - sans être rejetés comme des moralistes démodés - contribuer à travers
+l'humour, à une meilleure connaissance les uns des autres. N'oublions pas que La
+Fontaine a reçu les honneurs du Roi, qu'il n'avait pourtant pas plus ménagé que
+les autres dans le personnage du Lion.
+
+Les éditeurs ont aussi leur rôle à jouer afin que la culture soit la plus
+diversifiée possible, pour repousser le mythe de la culture unique et mondiale
+qui nous menace.
+
+Le troisième millénaire c'est demain. C'est une page blanche dont le début est
+déjà écrit, mais où le présent n'étant toujours qu'un court passage entre deux
+infinis, rend si difficile la réflexion humaine."
+
+= Avez-vous une fable préférée?
+
+Ma fable préférée est Les borgnes. Puis viennent La République des grenouilles
+et Les animaux malades de la violence. Mais à chacun de retirer la conclusion
+qui lui convient à chacune des fables, car toute opinion est respectable. Seul
+est intolérable de vouloir l'imposer aux autres d'une façon contrainte ou
+détournée.
+
+= Que représente l'internet pour vous?
+
+Internet représente pour moi un formidable outil de communication qui nous
+affranchit des intermédiaires, des barrages doctrinaires et des intérêts des
+médias en place. Soumis aux mêmes lois cosmiques, les hommes, pouvant mieux se
+connaître, acquerront peu à peu cette conscience du collectif, d'appartenir à un
+même monde fragile pour y vivre en harmonie sans le détruire.
+
+Internet est absolument comme la langue d'Esope, la meilleure et la pire des
+choses, selon l'usage qu'on en fait, et j'espère qu'il ne permettra de
+m'affranchir en partie de l'édition et de la distribution traditionnelle qui,
+refermée sur elle-même, souffre d'une crise d'intolérance pour entrer à reculons
+dans le prochain millénaire (voir à ce sujet la fable Le poète et l'éditeur,
+ndlr).
+
+= Quel est votre meilleur souvenir de l'année 1999?
+
+La démonstration faite par vous de la possibilité de publier les Fables pour
+l'an 2000 sur internet (publiées sur le site des éditions du Choucas en décembre
+1999, avec un design de Nicolas Pewny, ndlr). Mes meilleurs instants de bonheur
+sont aussi ceux qui naissent après avoir terminé l'écriture d'une fable ou d'un
+poème.
+
+= Et votre pire souvenir?
+
+Mon pire souvenir est celui de ma post-réanimation après un pontage coronarien
+en juillet.
+
+= Quels sont vos souhaits pour l'an 2000 et les années suivantes?
+
+Une meilleure tolérance et une plus grande pluralité des cultures.
+
+*Entretien du 26 janvier 2001
+
+= Quoi de neuf depuis notre premier entretien?
+
+J'ai rencontré le président du Centre régional des lettres de Basse-Normandie,
+qui s'est vivement intéressé aux Fables pour les années 2000. Il a proposé une
+aide de la région Basse-Normandie pour une édition imprimée sous forme de
+recueil. Le travail est très avancé et la publication pourrait avoir lieu au
+printemps.
+
+= Pourquoi avoir modifié le titre, devenu Fables pour les années 2000 au lieu de
+Fables de l'an 2000?
+
+Tout simplement parce que, les ayant écrites avant l'an 2000, je pensais
+qu'elles seraient publiées avant le changement de millénaire, et que maintenant
+en voilà pour mille ans avant le prochain. Cela donne le vertige au-delà de
+toute imagination.
+
+= Avez-vous quelque chose à ajouter à vos propos de 1999 relatifs à l'internet?
+
+Non. Sauf qu'il serait indispensable pour moi d'y être raccordé le plus vite
+possible pour mes besoins en documentation et aussi pour la communication.
+
+= Les jours du papier sont-ils comptés?
+
+Non, pas du tout! Le papier est un support qui va subsister encore très
+longtemps et qui garde certains avantages. Il est cependant gourmand en matière
+première, le bois. Les autres supports sont complémentaires, et présentent des
+avantages, surtout pour la circulation et la reproduction à longue distance.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Je ne l'ai pas encore utilisé. Je pense qu'il a cependant beaucoup d'intérêt. Il
+économise le papier. Je l'imagine dans les bibliothèques pour la lecture au
+public. L'usage et le temps nous apporteront une réponse, mais l'informatique
+n'a pas fini de nous étonner.
+
+= Comment définissez-vous le cyberespace?
+
+Le cyberespace est un moyen pour supprimer l'espace.
+
+= Et la société de l'information ?
+
+La société de l'information est un moyen de satisfaire l'appétit de
+connaissances et de curiosité qu'ont les hommes de par le monde.
+
+
+MURIEL GOIRAN (Rhône-Alpes)
+
+
+#Libraire à la librairie Decitre
+
+En région Rhône-Alpes, les huit librairies Decitre sont particulièrement
+dynamiques dans le domaine des nouvelles technologies et de l'internet. Decitre
+propose aussi une librairie en ligne de 430.000 titres.
+
+*Entretien du 8 juin 1998
+
+= Que représente l'internet pour vous?
+
+C'est pour l'instant juste un moyen de communication de plus (mail) avec nos
+clients des magasins et nos clients bibliothèques et centres de documentation.
+Nous avons découvert son importance en organisant DOCForum, le premier forum de
+la documentation et de l'édition spécialisée, qui s'est tenu à Lyon en novembre
+1997 (la prochaine édition est fixée en novembre 1999). Il nous est apparu
+clairement qu'en tant que libraires, nous devions avoir un pied dans le Net.
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+Internet est très important pour notre avenir. Nous allons mettre en ligne notre
+base de 400.000 livres français à partir de fin juillet 1998, et elle sera en
+accès gratuit pour des recherches bibliographiques (l'achat des livres sera
+payant bien sûr!). Ce ne sera pas une n-ième édition de la base de Planète
+Livre, mais notre propre base de gestion, que nous mettons sur internet.
+
+
+MARCEL GRANGIER (Berne)
+
+
+#Responsable de la section française des services linguistiques centraux de
+l'Administration fédérale suisse
+
+*Entretien du 14 janvier 1999
+
+= Quel est l'apport de l'internet dans un service de traduction?
+
+Travailler sans internet est devenu tout simplement impossible: au-delà de tous
+les outils et commodités utilisés (messagerie électronique, consultation de la
+presse électronique, activités de services au profit de la profession des
+traducteurs), internet reste pour nous une source indispensable et inépuisable
+d'informations dans ce que j'appellerais le "secteur non structuré" de la toile.
+Pour illustrer le propos, lorsqu'aucun site comportant de l'information
+organisée ne fournit de réponse à un problème de traduction, les moteurs de
+recherche permettent dans la plupart des cas de retrouver le chaînon manquant
+quelque part sur le réseau.
+
+= Comment voyez-vous l'expansion du multilinguisme sur le web?
+
+Le multilinguisme sur internet peut être considéré comme une fatalité heureuse
+et surtout irréversible. C'est dans cette optique qu'il convient de creuser la
+tombe des rabat-joie dont le seul discours est de se plaindre d'une suprématie
+de l'anglais. Cette suprématie n'est pas un mal en soi, dans la mesure où elle
+résulte de réalités essentiellement statistiques (plus de PC par habitant, plus
+de locuteurs de cette langue, etc.). La riposte n'est pas de "lutter contre
+l'anglais" et encore moins de s'en tenir à des jérémiades, mais de multiplier
+les sites en d'autres langues. Notons qu'en qualité de service de traduction,
+nous préconisons également le multilinguisme des sites eux-mêmes.
+
+La multiplication des langues présentes sur internet est inévitable, et ne peut
+que bénéficier aux échanges multiculturels. Pour que ces échanges prennent place
+dans un environnement optimal, il convient encore de développer les outils qui
+amélioreront la compatibilité. La gestion complète des diacritiques ne constitue
+qu'un exemple de ce qui peut encore être entrepris.
+
+*Entretien du 25 janvier 2000
+
+= En quoi consiste votre site web?
+
+Conçu d'abord comme un service intranet, notre site web se veut au service
+d'abord des traducteurs opérant en Suisse, qui souvent travaillent sur la même
+matière que les traducteurs de l'administration fédérale, mais également, par
+certaines rubriques, au service de n'importe quel autre traducteur où qu'il se
+trouve. Les dictionnaires électroniques ne sont qu'une partie de l'ensemble, et
+d'autres secteurs documentaires ont trait à l'administration, au droit, à la
+langue française, etc., sans parler des informations générales. Le site abrite
+par ailleurs les pages de la CST (Conférence des services de traduction des
+états européens).
+
+= En quoi consiste exactement votre activité professionnelle?
+
+Je suis responsable de la section française des services linguistiques centraux
+(SLC-f) de la Chancellerie fédérale suisse, c'est-à-dire en charge des questions
+organisationnelles de la traduction pour l'ensemble des services linguistiques
+du gouvernement suisse.
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Le problème est réel même si la solution n'est pas évidente. On peut toutefois
+regretter que la lutte contre ce genre de fraude finira par justifier, avec
+d'autres dérives, une "police du WWW" malheureusement bien éloignée de l'esprit
+dans lequel la toile a été créée.
+
+= Comment voyez-vous l'évolution vers un internet multilingue?
+
+Nous y sommes, à l'internet multilingue: reste à le consolider et à veiller à
+l'égalité des chances d'accès, ce qui prendra probablement un peu plus de temps.
+
+
+BARBARA GRIMES (Hawaii)
+
+
+#Directrice de publication de l'Ethnologue, une encyclopédie des langues
+
+Cette encyclopédie très documentée, qui en est à sa 14e édition, existe en
+version web, sur CD-Rom et en version imprimée. Elle répertorie 6.700 langues,
+avec de multiples critères de recherche. Barbara F. Grimes en est la directrice
+de publication.
+
+*Entretien du 18 août 1998 (entretien original en anglais)
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+L'internet nous est utile, c'est un outil pratique qui apporte un complément à
+notre travail. Nous l'utilisons principalement pour le courrier électronique.
+C'est aussi un moyen commode pour mettre notre documentation à la disposition
+d'une audience plus large que celle de l'Ethnologue imprimé.
+
+D'un autre côté, l'Ethnologue sur l'internet n'atteint en fait qu'une audience
+limitée disposant d'ordinateurs. Or, dans les personnes que nous souhaitons
+atteindre, nombreux sont ceux qui n'ont pas accès à des ordinateurs. Je pense
+particulièrement aux habitants du dit "Tiers-monde".
+
+= Envisagez-vous des pages web multilingues?
+
+Les pages web multilingues sont de plus en plus utiles, mais elles sont plus
+onéreuses à gérer. Nous avons eu des demandes nous demandant l'accès à
+l'Ethnologue dans plusieurs autres langues, mais nous n'avons pas le personnel
+ni les fonds pour la traduction ou la réactualisation, indispensables puisque
+notre site est constamment mis à jour.
+
+*Entretien du 15 janvier 2000 (entretien original en anglais)
+
+= En quoi consiste exactement l'Ethnologue?
+
+Il s'agit d'un catalogue des langues dans le monde, avec des informations sur
+les endroits où elles sont parlées, une estimation du nombre de personnes qui
+les parlent, la famille linguistique à laquelle elles appartiennent, les autres
+noms utilisés pour ces langues, les noms de dialectes, d'autres informations
+socio-linguistiques et démographiques, les dates des Bibles publiées, un index
+des noms de langues, un index des familles linguistiques et des cartes
+géographiques relatives aux langues.
+
+= Quelle est exactement votre activité?
+
+Je suis la directrice de publication de l'Ethnologue, depuis 1971 et jusqu'en
+2000 (8e-14e éditions).
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Tous les copyrights doivent être respectés, de la même façon que pour l'imprimé.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Le fait de recevoir des corrections et de nouvelles informations fiables.
+
+= Et votre pire souvenir?
+
+Des critiques peu aimables sans proposition de corrections.
+
+
+MICHAEL HART (Illinois)
+
+
+#Fondateur du Projet Gutenberg, la plus ancienne bibliothèque numérique sur
+l'internet
+
+Créé par Michael Hart en 1971 alors qu'il était étudiant à l'Université
+d'Illinois (Etats-Unis), le Projet Gutenberg s'est donné comme mission de mettre
+à la disposition de tous le plus grand nombre possible d'oeuvres du domaine
+public. La plus ancienne bibliothèque numérique sur l'internet est aussi la plus
+importante puisqu'elle propose en téléchargement libre et gratuit 3.700 oeuvres
+(chiffres de juillet 2001) patiemment numérisées en mode texte par 600
+volontaires de nombreux pays. Un total de 1.000 nouveaux livres devrait être
+traité en 2001. Si certains documents anciens sont parfois saisis ligne après
+ligne, le plus souvent parce que le texte original manque de clarté, les oeuvres
+sont en général scannées en utilisant un logiciel OCR (optical character
+recognition), puis elles sont relues et corrigées à double reprise, parfois par
+deux personnes différentes. D'abord essentiellement anglophones, les collections
+deviennent peu à peu multilingues. Michael Hart se définit lui-même comme un fou
+de travail dédiant toute sa vie à son projet, qu'il voit comme étant à l'origine
+d'une révolution néo-industrielle.
+
+*Entretien du 23 août 1998 (entretien original en anglais)
+
+= Comment voyez-vous la relation entre l'imprimé et l'internet?
+
+Nous considérons le texte électronique comme un nouveau médium, sans véritable
+relation avec le papier. Le seul point commun est que nous diffusons les mêmes
+oeuvres, mais je ne vois pas comment le papier peut concurrencer le texte
+électronique une fois que les gens y sont habitués, particulièrement dans les
+établissements d'enseignement.
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+Ma carrière n'aurait pas existé sans l'internet, et le Projet Gutenberg n'aurait
+jamais eu lieu... Vous savez sûrement que le Projet Gutenberg a été le premier
+site d'information sur l'internet.
+
+= Comment voyez-vous l'avenir?
+
+Mon projet est de mettre 10.000 textes électroniques sur l'internet. Si je
+pouvais avoir des subventions importantes, j'aimerais aller jusqu'à un million
+et étendre aussi le nombre de nos usagers potentiels de 1,x% à 10% de la
+population mondiale, ce qui représenterait la diffusion de 1.000 fois un
+milliard de textes électroniques au lieu d'un milliard seulement.
+
+*Entretien du 23 juillet 1999 (entretien original en anglais)
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+Les débats actuels sont totalement irréalistes. Ils sont menés par
+"l'aristocratie terrienne de l'âge de l'information" et servent uniquement ses
+intérêts. Un âge de l'information? Et pour qui? J'ai été le principal opposant
+aux extensions du copyright (loi du 27 octobre 1998, ndlr), mais Hollywood et
+les grands éditeurs ont fait en sorte que le Congrès ne mentionne pas mon action
+en public.
+
+= En quoi consiste exactement cette loi?
+
+Le copyright a été augmenté de 20 ans. Aupararant on devait attendre 75 ans, on
+est maintenant passé à 95 ans. Bien avant, le copyright durait 28 ans (plus une
+extension de 28 ans si on la demandait avant l'expiration du délai) et il avait
+lui-même remplacé un copyright de 14 ans (plus une extension de 14 ans si on la
+demandait avant l'expiration du délai). Comme vous le voyez, on assiste à une
+dégradation régulière et constante du domaine public.
+
+= Comment voyez-vous l'évolution vers un internet multilingue?
+
+J'espère que nous aurons un jour un bon Babelfish (le service de traduction
+automatique d'Altavista, ndlr). Pour notre bibliothèque numérique, j'introduis
+une nouvelle langue par mois maintenant, et je vais poursuivre cette politique
+aussi longtemps que possible.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Le courrier que je reçois me montre combien les gens apprécient que j'aie passé
+ma vie à mettre des livres sur l'internet. Certaines lettres sont vraiment
+émouvantes, et elles me rendent heureux pour toute la journée.
+
+= Et votre pire souvenir?
+
+Etre convoqué par le président de l'Université d'Illinois suite à une plainte
+déposée par l'Université d'Oxford. Mais j'ai été défendu par une équipe de six
+avocats, la moitié étant de l'Université d'Illinois, et j'ai gagné le procès. On
+pourrait voir cela comme un bon souvenir, mais je hais ce genre de politique
+politicienne... Le président de l'université se trouvait être l'oncle de Tom
+Cruise, amusant, non?
+
+
+ROBERTO HERNANDEZ MONTOYA (Caracas)
+
+
+#Directeur de la bibliothèque numérique du magazine électronique Venezuela
+Analítica
+
+Roberto Hernández Montoya est licencié ès lettres de l'Université centrale du
+Venezuela. Il publie des articles dans El Nacional, Letras, Imagen et
+InternetiWorld Venezuela. Il est membre de l'équipe éditoriale de Venezuela
+Cultural, Venezuela Analítica et Imagen. Il a fait des études d'analyse du
+discours à l'Ecole des hautes études en sciences sociales (EHESS) de Paris. Il a
+été le président fondateur de l'Association vénézuélienne des éditeurs, et le
+rédacteur en chef de l'Ateneo de Caracas.
+
+Magazine électronique conçu comme un forum public pour l'échange d'idées sur la
+politique, l'économie, la culture, la science et la technologie, Venezuela
+Analítica a créé en mai 1997 BitBlioteca, une bibliothèque numérique en
+espagnol, qui comprend aussi quelques titres en anglais, français et portugais.
+
+*Entretien du 3 septembre 1998
+
+= Comment voyez-vous la relation entre l'imprimé et l'internet?
+
+Je crois qu'ils sont complémentaires. On ne peut pas remplacer le texte imprimé
+sur papier, au moins dans un futur proche. Le livre en papier est un objet
+formidable. On ne peut pas feuilleter un texte électronique de la même façon
+qu'un livre en papier. Mais un texte électronique permet de localiser beaucoup
+plus rapidement un mot ou un groupe de mots. D'une certaine manière on peut le
+lire avec plus de profondeur, même avec l'incommodité que représente la lecture
+sur écran. Le texte électronique est moins cher et peut être distribué plus
+facilement au monde entier (si on ne prend pas en ligne de compte le coût de
+l'ordinateur et de la connexion à l'internet).
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+L'internet a été très important pour moi personnellement. Il est devenu ma
+principale activité. Il a donné à notre organisme la possibilité de communiquer
+avec des milliers de personnes alors que ceci aurait été impossible du point de
+vue financier si on avait publié un magazine sur papier. Je crois que, dans les
+années à venir, l'internet va devenir le médium primordial de communication et
+d'échange d'information.
+
+
+RANDY HOBLER (Dobbs Ferry, New York)
+
+
+#Consultant en marketing internet, notamment chez Globalink, société spécialisée
+en produits et services de traduction
+
+Randy Hobler a été successivement consultant en marketing et internet chez IBM,
+Johnson & Johnson, Burroughs Wellcome, Pepsi, Heublein, etc. En 1998, il était
+consultant en marketing internet chez Globalink, société spécialisée en produits
+et services de traduction. "J'aime pouvoir combiner ensemble mes compétences en
+tant que formateur en haute technologie et en marketing avec ma passion pour les
+langues, écrivait-il. Aimer ce que je fais et faire ce que j'aime." Globalink a
+été racheté par Lernout & Hauspie en 1999.
+
+*Entretien du 3 septembre 1998 (entretien original en anglais)
+
+= Comment voyez-vous l'évolution vers un web multilingue?
+
+En 1998, 85 % du contenu du web est en anglais, et ce chiffre est à la baisse.
+Il y a non seulement plus de sites web et d'internautes non anglophones, mais
+aussi une localisation plus grande de sites de sociétés et d'organismes, et un
+usage accru de la traduction automatique pour traduire des sites web à partir ou
+vers d'autres langues.
+
+Comme l'internet n'a pas de frontières nationales, les internautes s'organisent
+selon d'autres critères propres au médium. En termes de multilinguisme, vous
+avez des communautés virtuelles, par exemple ce que j'appelle les "nations des
+langues", tous ces internautes qu'on peut regrouper selon leur langue maternelle
+quel que soit leur lieu géographique. Ainsi la nation de la langue espagnole
+inclut non seulement les internautes d'Espagne et d'Amérique latine, mais aussi
+tous les hispanophones vivant aux Etats-Unis, ou encore ceux qui parlent
+espagnol au Maroc.
+
+= Comment voyez-vous l'avenir de la traduction automatique?
+
+Nous arriverons rapidement au point où une traduction très fidèle du texte et de
+la parole sera si commune qu'elle pourra faire partie des plate-formes ou même
+des puces. A ce point, quand le développement de l'internet aura atteint sa
+vitesse de croisière, que la fidélité de la traduction atteindra plus de 98% et
+que les différentes combinaisons de langues possibles auront couvert la grande
+majorité du marché, la transparence de la langue (toute communication d'une
+langue à une autre) sera une vision trop restrictive pour ceux qui vendent cette
+technologie. Le développement suivant sera la "transparence transculturelle et
+transnationale" dans laquelle les autres aspects de la communication humaine, du
+commerce et des transactions au-delà du seul langage entreront en scène. Par
+exemple, les gestes ont un sens, les mouvements faciaux ont un sens, et ceci
+varie en fonction des sociétés. La lettre O réalisée avec le pouce et l'index
+signifie "OK" aux Etats-Unis alors qu'en Argentine c'est un geste obscène.
+
+Quand se produira l'inévitable développement de la vidéoconférence multilingue
+multimédias, il sera nécessaire de corriger visuellement les gestes. Le Media
+Lab du MIT (Massachussets Institute of Technology), Microsoft et bien d'autres
+travaillent à la reconnaissance informatique des expressions faciales,
+l'identification des caractéristiques biométriques par le biais du visage, etc.
+Il ne servira à rien à un homme d'affaires américain de faire une excellente
+présentation à un Argentin lors d'une vidéoconférence multilingue sur le web,
+avec son discours traduit dans un espagnol argentin parfait, s'il fait en même
+temps le geste O avec le pouce et l'index. Les ordinateurs pourront intercepter
+ces types de messages et les corriger visuellement.
+
+Les cultures diffèrent de milliers de façons, et la plupart d'entre elles
+peuvent être modifiées par voie informatique lorsqu'on passe de l'une à l'autre.
+Ceci inclut les lois, les coutumes, les habitudes de travail, l'éthique, le
+change monétaire, les différences de taille dans les vêtements, les différences
+entre le système métrique et le système de mesure anglophone, etc. Les sociétés
+dynamiques répertorieront et programmeront ces différences, et elles vendront
+des produits et services afin d'aider les habitants de la planète à mieux
+communiquer entre eux. Une fois que ceux-ci seront largement répandus, ils
+contribueront réellement à une meilleure compréhension à l'échelle
+internationale.
+
+*Entretien du 10 septembre 2000 (entretien original en anglais)
+
+= Quelle est votre opinion sur le livre électronique?
+
+Les livres électroniques continueront de se développer avec l'amélioration de
+l'affichage sur écran et d'un matériel plus polyvalent et plus léger. Les
+premiers utilisateurs seront notamment les établissements d'enseignement, du
+fait de tous les avantages que peuvent procurer les livres électroniques aux
+étudiants: téléchargement des lectures de tout un trimestre, investissement peu
+coûteux, liens avec les examens et les dissertations, informations aisément
+transférables, équipement léger au lieu de piles de livres à transporter.
+
+
+EDUARD HOVY (Marina del Rey, Californie)
+
+
+#Directeur du Natural Language Group de l'Université de Californie du Sud
+
+Le Natural Language Group de l' USC/ISI (University of Southern California /
+Information Sciences Institute) traite de plusieurs aspects du traitement du
+langage naturel: traduction automatique, résumé automatique de texte, accès
+multilingue aux verbes et gestion du texte, développement de taxonomies de
+concepts (ontologies), discours et génération de texte, élaboration d'importants
+lexiques pour plusieurs langues, et communication multimédias.
+
+Son directeur, Eduard Hovy, est docteur en informatique (spécialité:
+intelligence artificielle) de l'Université de Yale (doctorat obtenu en 1987). Il
+est membre des départements informatiques de l'Université de Californie du Sud
+et de l'Université de Waterloo. Ses recherches concernent principalement la
+traduction automatique, le résumé automatique de texte, l'organisation et la
+génération de textes, et l'élaboration semi-automatique d'importants lexiques et
+banques terminologiques. Tous ces thèmes sont des sujets de recherche au Natural
+Language Group.
+
+Eduard Hovy est également l'auteur ou le directeur de publication de quatre
+ouvrages et d'une centaine d'articles techniques. Il a fait partie des comités
+de rédaction de Computational Linguistics et du Journal of the Society of
+Natural Language Processing of Japan. Il est actuellement le président de
+l'Association of Machine Translation in the Americas (AMTA, et le vice-président
+de l'Association for Computational Linguistics (ACL).
+
+*Entretien du 27 août 1998 (entretien original en anglais)
+
+= Le multilinguisme sur le web est-il un atout ou une barrière?
+
+Dans le contexte de la recherche documentaire et du résumé automatique de texte,
+le multilinguisme sur le web est un facteur qui ajoute à la complexité du sujet.
+Les gens écrivent dans leur propre langue pour diverses raisons : commodité,
+discrétion, communication à l'échelon local, mais ceci ne signifie pas que
+d'autres personnes ne soient pas intéressées de lire ce qu'ils ont à dire ! Ceci
+est particulièrement vrai pour les sociétés impliquées dans la veille
+technologique (disons une société informatique qui souhaite connaître tous les
+articles de journaux et périodiques japonais relatifs à son activité) et des
+services de renseignements gouvernementaux (ceux qui procurent l'information la
+plus récente, utilisée ensuite par les fonctionnaires pour décider de la
+politique, etc.). Un des principaux problèmes auquel ces services doivent faire
+face est la très grande quantité d'informations. Ils recrutent donc du personnel
+bilingue "passif" qui peut scanner rapidement les textes afin de mettre de côté
+ce qui est sans intérêt et de donner ensuite les documents significatifs à des
+traducteurs professionnels. Manifestement, une combinaison de résumé automatique
+de texte et de traduction automatique sera très utile dans ce cas. Comme la
+traduction automatique est longue, on peut d'abord résumer le texte dans la
+langue étrangère, puis effectuer une traduction automatique rapide à partir du
+résultat obtenu, en laissant à un être humain ou un classificateur de texte (du
+type recherche documentaire) le soin de décider si on doit garder l'article ou
+le rejeter.
+
+Pour ces raisons, durant ces cinq dernières années, le gouvernement des
+Etats-Unis a financé des recherches en traduction automatique, en résumé
+automatique de texte et en recherche documentaire, et il s'intéresse au
+lancement d'un nouveau programme de recherche en informatique documentaire
+multilingue. On sera ainsi capable d'ouvrir un navigateur tel que Netscape ou
+Explorer, entrer une demande en anglais, et obtenir la liste des documents dans
+toutes les langues. Ces documents seront regroupés par sous-catégorie avec un
+résumé pour chacun et une traduction pour les résumés étrangers, toutes choses
+qui seraient très utiles.
+
+En consultant MuST (multilingual information retrieval, summarization, and
+translation system), vous aurez une démonstration de notre version de ce
+programme de recherche, qui utilise l'anglais comme langue de l'utilisateur sur
+un ensemble d'environ 5.000 textes en anglais, japonais, arabe, espagnol et
+indonésien.
+
+Entrez votre demande (par exemple, "baby", ou tout autre terme) et appuyez sur
+la touche Retour. Dans la fenêtre du milieu vous verrez les titres (ou bien les
+mots-clés, traduits). Sur la gauche vous verrez la langue de ces documents: "Sp"
+pour espagnol, "Id" pour indonésien, etc. Cliquez sur le numéro situé sur la
+partie gauche de chaque ligne pour voir le document dans la fenêtre du bas.
+Cliquez sur "Summarize" pour obtenir le résumé. Cliquez sur "Translate" pour
+obtenir la traduction (attention, les traductions en arabe et en japonais sont
+extrêmement lentes! Essayez plutôt l'indonésien pour une traduction rapide mot à
+mot).
+
+Ce programme de démonstration n'est pas (encore) un produit. Nous avons de
+nombreuses recherches à mener pour améliorer la qualité de chaque étape. Mais
+ceci montre la direction dans laquelle nous allons.
+
+*Entretien du 8 août 1999 (entretien original en anglais)
+
+= Quoi de neuf depuis notre premier entretien?
+
+Durant les douze derniers mois, j'ai été contacté par un nombre surprenant de
+nouvelles sociétés et start-up en technologies de l'information. La plupart
+d'entre elles ont l'intention d'offrir des services liés au commerce
+électronique (vente en ligne, échange, collecte d'information, etc.). Etant
+donné les faibles résultats des technologies actuelles du traitement de la
+langue naturelle - ailleurs que dans les centres de recherche - c'est assez
+surprenant. Quand avez-vous pour la dernière fois trouvé rapidement une réponse
+correcte à une question posée sur le web, sans avoir eu à passer en revue
+pendant un certain temps des informations n'ayant rien à voir avec votre
+question? Cependant, à mon avis, tout le monde sent que les nouveaux
+développements en résumé automatique de texte, analyse des questions, etc.,
+vont, je l'espère, permettre des progrès significatifs. Mais nous ne sommes pas
+encore arrivés à ce stade.
+
+Il me semble qu'il ne s'agira pas d'un changement considérable, mais que nous
+arriverons à des résultats acceptables, et que l'amélioration se fera ensuite
+lentement et sûrement. Ceci s'explique par le fait qu'il est très difficile de
+faire en sorte que votre ordinateur "comprenne" réellement ce que vous voulez
+dire - ce qui nécessite de notre part la construction informatique d'un réseau
+de "concepts" et des relations de ces concepts entre eux - réseau qui, jusqu'à
+un certain stade au moins, reflèterait celui de l'esprit humain, au moins dans
+les domaines d'intérêt pouvant être regroupés par sujets. Le mot pris à la
+"surface" n'est pas suffisant - par exemple quand vous tapez: "capitale de la
+Suisse", les systèmes actuels n'ont aucun moyen de savoir si vous songez à
+"capitale administrative" ou "capitale financière". Dans leur grande majorité,
+les gens préféreraient pourtant un type de recherche basé sur une expression
+donnée, ou sur une question donnée formulée en langage courant.
+
+Plusieurs programmes de recherche sont en train d'élaborer de vastes réseaux de
+"concepts", ou d'en proposer l'élaboration. Ceci ne peut se faire en deux ans,
+et ne peut amener rapidement un résultat satisfaisant. Nous devons développer à
+la fois le réseau et les techniques pour construire ces réseaux de manière
+semi-automatique, avec un système d'auto-adaptation. Nous sommes face à un défi
+majeur.
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+Quelles solutions pratiques suggérez-vous?
+
+En tant qu'universitaire, je suis bien sûr un des parasites de notre société, et
+donc tout à fait en faveur de l'accès libre à la totalité de l'information. En
+tant que co-propriétaire d'une petite start-up, je suis conscient du coût que
+représente la collecte et la présentation de l'information, et de la nécessité
+de faire payer ce service d'une manière ou d'une autre.
+
+Pour équilibrer ces deux tendances, je pense que l'information à l'état brut -
+et certaines ressources à l'état brut: langages de programmation ou moyens
+d'accès à l'information de base comme les navigateurs web - doivent être
+disponibles gratuitement. Ceci crée un marché et permet aux gens de les
+utiliser. Par contre l'information traitée et les systèmes vous permettant
+d'obtenir et structurer très exactement ce dont vous avez besoin doivent être
+payants. Cela permet de financer ceux qui développent ces nouvelles
+technologies.
+
+Prenons un exemple: à l'heure actuelle, un dictionnaire n'est pas disponible
+gratuitement. Les sociétés éditrices de dictionnaires refusent de les mettre
+librement à la disposition des chercheurs et de toute personne intéressée, et
+elles avancent l'argument que ces dictionnaires ont demandé des siècles de
+travail (j'ai eu plusieurs discussions à ce sujet avec des sociétés de
+dictionnaires). Mais de nos jours les dictionnaires sont des instruments
+stupides: on doit connaître le mot avant de le trouver! J'aimerais avoir un
+outil qui me permette de donner une définition approximative, ou peut-être une
+phrase ou deux incluant un espace pour le mot que je cherche, ou même
+l'équivalent de ce mot dans une autre langue, et que la réponse me revienne avec
+le(s) mot(s) que je cherche. Un tel outil n'est pas compliqué à construire, mais
+il faut d'abord le dictionnaire de base. Je pense que ce dictionnaire de base
+devrait être en accès libre. Par contre on pourrait facturer l'utilisation du
+moteur de recherche ou du service permettant d'entrer une information -
+partielle ou non - qui soit très "ciblée", afin d'obtenir le meilleur résultat.
+
+Voici un deuxième exemple. On devrait avoir accès librement à la totalité du
+web, et à tous les moteurs de recherche "de base" du type de ceux qu'on trouve
+aujourd'hui. Pas de copyright et pas de licence. Mais si on a besoin d'un moteur
+de recherche qui procure une réponse très "ciblée" et très fiable, je pense
+qu'il ne serait pas déraisonnable que ce service soit facturé.
+
+Le créateur d'une encyclopédie ne va naturellement pas aimer ma proposition.
+Mais je lui suggérerais d'équiper son encyclopédie d'un système d'accès
+performant. Sans ce système, l'information brute donnée par cette encyclopédie
+n'est qu'un stock d'informations et rien d'autre, et ce stock peut aisément se
+perdre dans une masse considérable d'informations qui augmente tous les jours.
+
+*Entretien du 2 septembre 2000 (entretien original en anglais)
+
+= Quoi de neuf depuis notre dernier entretien?
+
+Je vois de plus en plus de petites sociétés utiliser d'une manière ou d'une
+autre les technologies liées aux langues, pour procurer des recherches, des
+traductions, des rapports ou d'autres services permettant de communiquer. Le
+nombre de créneaux dans lesquels ces technologies peuvent être utilisées
+continue de me surprendre, et cela va des rapports financiers et leurs mises à
+jour aux communications d'une société à l'autre en passant par le marketing.
+
+En ce qui concerne la recherche, la principale avancée que je vois est due à
+Kevin Knight, un collègue de l'ISI (Institut des sciences de l'information de
+l'Université de Californie du Sud), ce dont je suis très honoré. L'été dernier,
+une équipe de chercheurs et d'étudiants de l'Université Johns Hopkins (Maryland)
+a développé une version à la fois meilleure et plus rapide d'une méthode
+développée à l'origine par IBM (et dont IBM reste propriétaire) il y a douze ans
+environ. Cette méthode permet de créer automatiquement un système de traduction
+automatique, dans la mesure où on lui fournit un volume suffisant de texte
+bilingue. Tout d'abord la méthode trouve toutes les correspondances entre les
+mots et la position des mots d'une langue à l'autre, et ensuite elle construit
+des tableaux très complets de règles entre le texte et sa traduction, et les
+expressions correspondantes.
+
+Bien que la qualité du résultat soit encore loin d'être satisfaisante - personne
+ne pourrait considérer qu'il s'agit d'un produit fini, et personne ne pourrait
+utiliser le résultat tel quel - l'équipe a créé en vingt-quatre heures un
+système (élémentaire) de traduction automatique du chinois vers l'anglais. Ceci
+constitue un exploit phénoménal, qui n'avait jamais été réalisé avant. Les
+détracteurs du projet peuvent bien sûr dire qu'on a besoin dans ce cas de trois
+millions de phrases disponibles dans chaque langue, et qu'on ne peut se procurer
+une quantité pareille que dans les parlements du Canada, de Hong-Kong ou
+d'autres pays bilingues. Ils peuvent bien sûr arguer également de la faible
+qualité du résultat. Mais le fait est que, tous les jours, on met en ligne des
+textes bilingues au contenu à peu près équivalent, et que la qualité de cette
+méthode va continuer de s'améliorer pour atteindre au moins celle des logiciels
+de traduction automatique actuels, qui sont conçus manuellement. J'en suis
+absolument certain.
+
+D'autres développements sont moins spectaculaires. On observe une amélioration
+constante des résultats dans les systèmes pouvant décider de la traduction
+opportune d'un terme (homonyme) qui a des significations différentes (par
+exemple père, pair et père, ndlr). On travaille beaucoup aussi sur la recherche
+d'information par recoupement de langues (qui vous permettront bientôt de
+trouver sur le web des documents en chinois et en français même si vous tapez
+vos questions en anglais). On voit également un développement rapide des
+systèmes qui répondent automatiquement à des questions simples (un peu comme le
+populaire AskJeeves utilisé sur le web, mais avec une gestion par ordinateur et
+non par des êtres humains). Ces systèmes renvoient à un grand volume de texte
+permettant de trouver des "factiodes" (et non des opinions ou des motifs ou des
+chaînes d'événements) en réponse à des questions telles que: "Quelle est la
+capitale de l'Ouganda?", ou bien: "Quel âge a le président Clinton?", ou bien:
+"Qui a inventé le procédé Xerox?", et leurs résultats obtenus sont plutôt
+meilleurs que ce à quoi je m'attendais.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Je ne crois pas au livre électronique. Encore plus que d'assister à un concert
+en public ou d'aller voir un film au cinéma, j'aime l'expérience physique
+d'avoir un livre sur les genoux et de prendre plaisir à son odeur, son contact
+et son poids. Les concerts à la télévision, les films à la télévision et les
+livres électroniques font qu'on perd un peu de ce plaisir. Et, pour les livres
+particulièrement, je ne suis pas prêt à cette perte. Après tout, dans mon
+domaine d'activité, il est beaucoup plus facile et beaucoup plus économique de
+se procurer un livre qu'une place de concert ou de cinéma. Tous mes souhaits
+vont aux fabricants de livres électroniques, mais je suis heureux avec les
+livres imprimés. Et je ne pense pas changer d'avis de sitôt, et me ranger dans
+la minorité qui utilise les livres électroniques. Je crains beaucoup moins la
+disparition des livres que je n'ai craint autrefois la disparition des cinémas.
+
+= Comment définissez-vous le cyberespace?
+
+Pour moi, le cyberespace est représenté par la totalité des informations
+auxquelles nous pouvons accéder par l'internet et les systèmes informatiques en
+général. Il ne s'agit bien sûr pas d'un espace, et son contenu est sensiblement
+différent de celui des bibliothèques. Par exemple, bientôt mon réfrigérateur, ma
+voiture et moi-même seront connus du cyberespace, et toute personne disposant
+d'une autorisation d'accès (et d'une raison pour cela) pourra connaître
+précisément le contenu de mon réfrigérateur et la vitesse de ma voiture (ainsi
+que la date à laquelle je devrai changer les amortisseurs), et ce que je suis en
+train de regarder maintenant.
+
+En fait, j'espère que la conception de la publicité va changer, y compris les
+affiches et les présentations que j'ai sous les yeux en marchant, afin que cette
+publicité puisse correspondre à mes connaissances et à mes goûts, tout
+simplement en ayant les moyens de reconnaître que "voici quelqu'un dont la
+langue maternelle est l'anglais, qui vit à Los Angeles et dont les revenus sont
+de tant de dollars par mois". Ceci sera possible du fait de la nature dynamique
+d'un cyberespace constamment mis à jour (contrairement à une bibliothèque), et
+grâce à l'existence de puces informatiques de plus en plus petites et bon
+marché.
+
+Tout comme aujourd'hui j'évolue dans un "espace social" (socialspace) qui est un
+réseau de normes sociales, d'expectations et de lois, demain, j'évoluerai aussi
+dans un cyberespace composé d'informations sur lesquelles je pourrai me baser
+(parfois), qui limiteront mon activité (parfois), qui me réjouiront (souvent,
+j'espère) et qui me décevront (j'en suis sûr).
+
+= Et la société de l'information?
+
+Une société de l'information est une société dans laquelle la majorité des gens
+a conscience de l'importance de cette information en tant que produit de base,
+et y attache donc tout naturellement du prix. Au cours de l'histoire, il s'est
+toujours trouvé des gens qui ont compris combien cette information était
+importante, afin de servir leurs propres intérêts. Mais quand la société, dans
+sa majorité, commence à travailler avec et sur l'information en tant que telle,
+cette société peut être dénommée société de l'information. Ceci peut sembler une
+définition tournant un peu en rond ou vide de sens, mais je vous parie que, pour
+chaque société, les anthropologues sont capables de déterminer quel est le
+pourcentage de la société occupé au traitement de l'information en tant que
+produit de base. Dans les premières sociétés, ils trouveront uniquement des
+professeurs, des conseillers de dirigeants et des sages. Dans les sociétés
+suivantes, ils trouveront des bibliothécaires, des experts à la retraite
+exerçant une activité de consultants, etc.
+
+Les différentes étapes de la communication de l'information - d'abord verbale,
+puis écrite, puis imprimée, puis électronique - ont chaque fois élargi (dans le
+temps et dans l'espace) le champ de propagation de cette information, en rendant
+de ce fait de moins en moins nécessaire le réapprentissage et la répétition de
+certaines tâches difficiles. Dans une société de l'information très évoluée, je
+suppose, il devrait être possible de formuler votre objectif, et les services
+d'information (à la fois les agents du cyberespace et les experts humains)
+oeuvreraient ensemble pour vous donner les moyens de réaliser cet objectif, ou
+bien se chargeraient de le réaliser pour vous, et réduiraient le plus possible
+votre charge de travail en la limitant au travail vraiment nouveau ou au travail
+nécessitant vraiment d'être refait à partir de documents rassemblés pour vous
+dans cette intention.
+
+
+CHRISTIANE JADELOT (Nancy)
+
+
+#Ingénieur d'études à l'INaLF (Institut national de la langue française)
+
+Laboratoire du CNRS (Centre national de la recherche scientifique), l'INaLF a
+pour mission de développer des programmes de recherche sur la langue française,
+tout particulièrement son lexique. Les données, traitées par des systèmes
+informatiques spécifiques et originaux, constamment enrichies et renouvelées,
+portent sur tous les registres du français: langue littéraire (du 14e au 20e
+siècle), langue courante (écrite, parlée), langue scientifique et technique
+(terminologies), et régionalismes. Ces données, qui constituent un matériau
+d'étude considérable, sont progressivement mises à la disposition de tous ceux
+que la langue française intéresse (enseignants et chercheurs, mais aussi
+industriels, secteur tertiaire et grand public), soit par des publications, soit
+par la consultation de banques et bases de données.
+
+Le domaine de compétence de Christiane Jadelot est la lexicographie
+informatisée. Elle est actuellement chargée de la mise en ligne de la huitième
+édition du Dictionnaire de l'Académie française (1932-1935).
+
+*Entretien du 8 juin 1998
+
+= Quel est l'historique du site web de l'INaLF?
+
+Les premières pages sur l'INaLF ont été mises sur l'internet au milieu de
+l'année 1996, à la demande de Robert Martin, directeur de l'INaLF. Je peux en
+parler, car j'ai participé à la mise sous internet de ces pages, avec des outils
+qui ne sont pas comparables à ceux que l'on utilise aujourd'hui. J'ai en effet
+travaillé avec des outils sous Unix, qui n'étaient pas très faciles
+d'utilisation. Nous avions peu d'expérience de la chose, à l'époque, et les
+pages étaient très verbeuses. Mais la direction a senti la nécessité urgente de
+nous faire connaître par l'internet, que beaucoup d'autres entreprises
+utilisaient déjà pour promouvoir leurs produits. Nous sommes en effet "Unité de
+recherche et de service" et nous avons donc à trouver des clients pour nos
+produits informatisés, le plus connu d'entre eux étant la base textuelle
+Frantext. Il me semble que la base Frantext était déjà sur internet (depuis
+début 1995, ndlr), ainsi qu'une maquette du tome 14 du TLF (Trésor de la langue
+francaise, dictionnaire en 16 volumes publié par le CNRS entre 1971 et 1994, et
+dont le 14e volume a été consultable en ligne pendant quelque temps, ndlr). Il
+était donc nécessaire de faire connaître l'ensemble de l'INaLF par ce moyen.
+Cela correspondait à une demande générale.
+
+= Quel est l'apport de l'internet dans votre vie professionnelle?
+
+J'ai commencé à utiliser vraiment l'internet en 1994, je crois, avec un logiciel
+qui s'appelait Mosaic. J'ai alors découvert un outil précieux pour progresser
+dans mes connaissances en informatique, linguistique, littérature... Tous les
+domaines sont couverts. Il y a le pire et le meilleur, mais en consommateur
+averti, il faut faire le tri de ce que l'on trouve. J'ai surtout apprécié les
+logiciels de courrier, de transfert de fichiers, de connexion à distance.
+J'avais à cette époque des problèmes avec un logiciel qui s'appelait Paradox et
+des polices de caractères inadaptées à ce que je voulais faire. J'ai tenté ma
+chance et posé la question dans un groupe de News approprié. J'ai reçu des
+réponses du monde entier, comme si chacun était soucieux de trouver une solution
+à mon problème! Je n'étais pas habituée à ce type de solidarité. Les habitudes
+en France sont plutôt de travailler avec des cloisons étanches.
+
+= Comment voyez-vous l'avenir?
+
+Je pense qu'il faut équiper de plus en plus de laboratoires avec du matériel de
+pointe, qui permette d'utiliser tous ces médias. Nous avons des projets en
+direction des lycées et des chercheurs. Le ministère de l'Education nationale a
+promis de câbler tous les établissements, c'est plus qu'une nécessité nationale.
+J'ai vu à la télévision une petite école dans un village faisant l'expérience de
+l'internet. Les élèves correspondaient avec des écoles de tous les pays, ceci ne
+peut être qu'une expérience enrichissante, bien sûr sous le contrôle des adultes
+formés pour cela. Voilà ma petite expérience. Je me suis équipée maintenant à
+domicile dans un but plus ludique, en espérant convaincre ma fille d'utiliser au
+mieux tous ces outils.
+
+*Entretien du 10 août 1999
+
+= Que pensez-vous des débats liés au respect du droit d'auteur sur le web?
+
+L'INaLF est au coeur des problèmes de droits d'auteur et d'éditeur avec sa base
+de textes Frantext. Il me semble que les règles devraient s'assouplir, car pour
+le moment cette base a un accès restreint, ce qui est dommageable pour sa
+diffusion et la diffusion de la langue française en général.
+
+= Comment voyez-vous l'évolution vers un internet multilingue?
+
+Personnellement je n'ai pas d'état d'âme par rapport à l'usage de la langue
+anglaise. On doit la prendre comme un banal outil de communication. Cela dit,
+les sites doivent proposer un accès par l'anglais et par la langue du pays
+d'origine.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+Mon meilleur souvenir est celui évoqué en 1998, lorsque, pour mon problème de
+polices de caractères, qui était très local, j'ai reçu des réponses du monde
+entier!
+
+= Et votre pire souvenir?
+
+Celui d'avoir envoyé un courrier électronique à une personne qui n'était pas
+destinataire. Ce mode de communication doit être utilisé avec prudence parfois.
+Il va plus vite que la pensée elle-même, et peut être utilisé de manière très
+perverse, après coup, par le destinataire.
+
+
+GERARD JEAN-FRANCOIS (Caen)
+
+
+#Directeur du centre de ressources informatiques de l'Université de Caen
+
+Directeur du centre de ressources informatiques de l'Université de Caen (CRIUC),
+Gérard Jean-François est chargé de l'exploitation et du développement des
+technologies de la communication pour la recherche et la pédagogie.
+
+*Entretien du 13 mars 2001
+
+= Pouvez-vous décrire l'activité de votre organisme?
+
+L'Université de Caen Basse-Normandie compte 24.000 étudiants. Elle est unique,
+donc pluridisciplinaire pour la région. De ce fait, elle est répartie sur une
+douzaine de sites. Les activités principales sont évidemment l'enseignement et
+la recherche.
+
+= En quoi consiste exactement votre activité professionnelle?
+
+Mon activité professionnelle consiste à effectuer la veille technologique et à
+mettre en place les moyens nécessaires à l'activité de l'établissement. Ces
+moyens sont essentiellement le réseau de communication, les serveurs et les
+équipements individuels. Sur ces équipements sont mis en place les services
+(messageries, bases de données, visioconférence...) nécessaires aux utilisateurs
+(étudiants, enseignants/chercheurs, personnels techniques et administratifs).
+
+= Et votre activité liée à l'internet?
+
+Par rapport à internet, je me dois de fournir l'accès internet à l'ensemble de
+l'établissement mais également de rendre visible l'établissement sur internet,
+ceci dans le strict respect de la législation en appliquant toutes les mesures
+de sécurité qui incombent à mon rôle de responsable sécurité du système
+informatique.
+
+= Comment voyez-vous l'avenir?
+
+Pour l'avenir, les évolutions suivantes se précisent à l'horizon :
+
+- les développements techniques pour la prise en compte des différents médias,
+
+- la "démocratisation" de l'internet, qui amènera la mise en place de réseaux
+professionnels,
+
+- la multiplication des problèmes de sécurité liés à la dématérialisation de
+l'information.
+
+= Utilisez-vous encore beaucoup de documents papier?
+
+Pour mon activité professionnelle, j'utilise encore le papier pour travailler
+hors de mon bureau, de même que pour des livres autres que techniques. En effet,
+si des documents techniques (qui sont des bases de données) sont facilement
+consultables sous forme électronique, il n'en est pas de même pour des ouvrages
+de fond. Au sujet de la presse, il est hors de question de la supprimer pour la
+lecture, mais pour l'archivage oui.
+
+= Le papier a-t-il encore de beaux jours devant lui?
+
+La réponse est oui mais les usages changeront.
+
+= Quelle est votre opinion sur le livre électronique?
+
+Le livre électronique, c'est quoi? Le livre électronique tel qu'il existe
+actuellement est une base de données documentaires qui permet si on le souhaite
+de télécharger le contenu et ensuite de l'éditer. Les écrans étant ce qu'ils
+sont et ce qu'ils resteront longtemps, on ne peut pas espérer lire n'importe où
+et n'importe quand un texte de quelque difficulté qu'il soit. Pour des documents
+ne comportant que des images, cela peut en être autrement.
+
+= Quel est votre avis sur les débats relatifs au respect du droit d'auteur sur
+le web?
+
+A mon avis, il n'y a pas de débat. Si on met quelque chose sur le web,
+c'est-à-dire ouvert à tout le monde, cela signifie qu'on l'offre gratuitement à
+tout le monde. Si on veut en faire du commerce, les moyens existent pour
+sécuriser les accès et les copies, il faut tout simplement les mettre en oeuvre.
+A l'heure actuelle (et c'est peut-être une bonne chose) on n'a que deux
+alternatives, ou bien on met ses créations dans un tiroir et on vend, ou bien on
+offre.
+
+= Quelles sont vos suggestions pour une meilleure accessibilité du web aux
+aveugles et mal-voyants?
+
+Les progrès techniques concernant les réseaux devraient permettre de mettre sur
+le web davantages de documents sonores. Une piste qui peut avoir de l'avenir:
+prendre les textes des pages web et les synthétiser sous forme sonore sur son
+propre PC.
+
+= Comment définissez-vous le cyberespace?
+
+Le cyberspace peut être considéré comme l'ensemble des informations qui sont
+accessibles sans aucune restriction sur le réseau internet.
+
+= Et la société de l'information?
+
+Il n'y a pas de société de l'information particulière. De tout temps, elle a
+toujours existé. Ce qu'il faut noter, c'est son évolution continue. Gutenberg
+l'a fait évoluer, de même internet.
+
+= Quel est votre meilleur souvenir lié à l'internet?
+
+La remarque faite par un internaute d'Outre-Atlantique qui, ayant examiné une
+photo, nous a averti qu'elle était à l'envers.
+
+= Et votre pire souvenir?
+
+Pas vraiment de mauvais souvenirs, simplement une amertume envers les mauvais
+usages qui en sont faits.
+
+
+JEAN-PAUL (Paris)
+
+
+#Webmestre des cotres furtifs, un site hypermédia qui raconte des histoires en
+3D
+
+Webmestre des cotres furtifs, Jean-Paul - qui a choisi son prénom comme
+pseudonyme - s'est toujours intéressé à l'écriture, imprimée ou chantée, avant
+de centrer son intérêt sur les nouvelles formes qu'annoncent le numérique et la
+technique de l'hyperlien, l'architecture par liens, le système des
+correspondances dans un réseau où sinon les parfums du moins "les couleurs et
+les sons se répondent"... Depuis 1999, il anime des soirées publiques sur le
+thème de l'hypertexte à La Maroquinerie (Paris). En 2000, il fait partie de la

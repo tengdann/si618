@@ -1,0 +1,2783 @@
+AMERICAN SOCIETY OF CIVIL ENGINEERS
+
+INSTITUTED 1852
+
+
+TRANSACTIONS
+
+Paper No. 1159
+
+
+THE NEW YORK TUNNEL EXTENSION OF THE PENNSYLVANIA RAILROAD.
+
+THE EAST RIVER TUNNELS.[A]
+
+BY JAMES H. BRACE, FRANCIS MASON, AND S. H. WOODARD, MEMBERS, AM. SOC.
+C. E.
+
+
+This paper will be limited to a consideration of the construction of the
+tunnels, the broader questions of design, etc., having already been
+considered in papers by Brig.-Gen. Charles W. Raymond, M. Am. Soc. C.
+E., and Alfred Noble, Past-President, Am. Soc. C. E.
+
+The location of the section of the work to be considered here is shown
+on Plate XIII of Mr. Noble's paper. There are two permanent shafts on
+each side of the East River and four single cast-iron tube tunnels, each
+about 6,000 ft. long, and consisting of 3,900 ft. between shafts under
+the river, and 2,000 ft. in Long Island City, mostly under the depot and
+passenger yard of the Long Island Railroad. This tube-tunnel work was
+naturally a single job. The contract for its construction was let to S.
+Pearson and Son, Incorporated, ground being broken on May 17th, 1904.
+Five years later, to a day, the work was finished and received its final
+inspection for acceptance by the Railroad Company.
+
+The contract was of the profit-sharing type, and required an audit, by
+the Railroad Company, of the contractor's books, and a careful system of
+cost-keeping by the Company's engineers, so that it is possible to
+include in the following some of the unit costs of the work. These are
+given in two parts: The first is called the unit labor cost, and is the
+cost of the labor in the tunnel directly chargeable to the thing
+considered. It does not include the labor of operating the plant, nor
+watchmen, yardmen, pipemen, and electricians. The second is called "top
+charges," a common term, but meaning different things to different
+contractors and engineers. Here, it is made to include the cost of the
+contractor's staff and roving laborers, such as pipemen, electricians,
+and yardmen, the cost of the plant and its operation, and all
+miscellaneous expenses, but does not include any contractor's profit,
+nor cost of materials entering permanent work.
+
+The contractor's plant is to be described in a paper by Henry Japp,[B]
+M. Am. Soc. C. E., and will not be dealt with here.
+
+The contractors carried on their work from three different sites. From
+permanent shafts, located near the river in Manhattan, four shields were
+driven eastward to about the middle of the river; and, from two similar
+shafts at the river front in Long Island City, four shields were driven
+westward to meet those from Manhattan. From a temporary shaft, near East
+Avenue, Long Island City, the land section of about 2,000 ft. was driven
+to the river shafts.
+
+[Footnote A: Presented at the meeting of December 15th, 1909.]
+
+[Footnote B: _Transactions_, Am. Soc. C. E., Vol. LXIX. p. 1.]
+
+
+TUNNELS FROM EAST AVENUE TO THE RIVER SHAFTS.
+
+The sinking of the temporary shaft at East Avenue was a fairly simple
+matter. Rough 6 by 12-in. sheet-piling, forming a rectangle, 127 by 34
+ft., braced across by heavy timbering, was driven about 28 ft. to rock
+as the excavation progressed. Below this, the shaft was sunk into rock,
+about 27 ft., without timbering. As soon as the shaft was down, on
+September 30th, 1904, bottom headings were started westward in Tunnels
+_A_, _B_, and _D_. When these had been driven about half the distance to
+the river shafts, soft ground was encountered. (See Station 59, Plate
+XIII.) As the ground carried considerable water, it was decided to use
+compressed air. Bulkheads were built in the heading, and, with an air
+pressure of about 15 lb. per sq. in., the heading was driven through the
+soft ground and into rock by ordinary mining methods. The use of
+compressed air was then discontinued. West of this soft ground, a top
+heading, followed by a bench, was driven to the soft ground at about
+Station 66. Tunnel _C_, being higher, was more in soft ground, and at
+first it was the intention to delay its excavation until it had been
+well drained by the bottom headings in the tunnels on each side. A
+little later it was decided to use a shield without compressed air. This
+shield had been used in excavating the stations of the Great Northern
+and City Tunnel in London. It was rebuilt, its diameter being changed
+from 24 ft. 8-1/2 in. to 23 ft. 5-1/4 in. It proved too weak, and after
+it had flattened about 4 in. and had been jacked up three times, the
+scheme was abandoned, the shield was removed, and work was continued by
+the methods which were being used in the other tunnels. The shield was
+rather light, but probably it would have been strong enough had it been
+used with compressed air, or had the material passed through been all
+earth. Here, there was a narrow concrete cradle in the bottom, with rock
+up to about the middle of the tunnel, which was excavated to clear the
+shield, and gave no support on its sides. The shield was a cylinder
+crushed between forces applied along the top and bottom.
+
+With the exception of this trial of a shield in Tunnel _C_, and a novel
+method in Tunnel _B_, where compressed air, but no shield, was used, the
+description of the work in one tunnel will do for all.
+
+From the bottom headings break-ups were started at several places in
+each tunnel where there was ample cover of rock above. Where the roof
+was in soft ground, top headings were driven from the points of break-up
+and timbered. As soon as the full-sized excavation was completed, the
+iron lining was built, usually in short lengths.
+
+It will be noticed on Plate XIII that there is a depression in the rock
+between Station 65 and the river shafts, leaving all the tunnels in soft
+ground. As this was directly under the Long Island Railroad passenger
+station, it was thought best to use a shield and compressed air. This
+was done in Tunnels _A_, _C_, and _D_, one shield being used
+successively for all three. It was first erected in Tunnel _D_ at
+Station 64 + 47. From there it was driven westward to the river shaft.
+It was then taken apart and re-erected in Tunnel _C_ at Station 63 + 63
+and driven westward to the shaft. It was then found that there would not
+be time for one shield to do all four lines. The experience in Tunnels
+_C_ and _D_ had proven the ground to be much better than had been
+expected. There was considerable clay in the sand, and, with the water
+blown out by compressed air, it was very stable. A special timbering
+method was devised, and Tunnel _B_ was driven from Station 66 + 10 to
+the shaft with compressed air, but without a shield. In the meantime the
+shield was re-erected in Tunnel _A_ and was shoved through the soft
+ground from Station 65 + 48 nearly to the river shaft, where it was
+dismantled.
+
+There was nothing unusual about the shield work; it was about the same
+as that under the river, which is fully described elsewhere. In spite of
+great care in excavating in front of the shield, and prompt grouting
+behind it, there was a small settlement of the building above, amounting
+to about 1-1/2 in. in the walls and about 5 in. in the ground floors
+which were of concrete laid like a sidewalk directly upon the ground.
+Whether this settlement was due to ground lost in the shield work or to
+a compacting of the ground on account of its being dried out by
+compressed air, it is impossible to say.
+
+The interesting features of this work from East Avenue to the river
+shafts are the mining methods and the building of the iron tube without
+a shield.
+
+
+EXCAVATION IN ALL ROCK.
+
+Where the tunnel was all in good rock two distinct methods were used.
+The first was the bottom-heading-and-break-up, and the second, the
+top-heading-and-bench method. The first is illustrated by Figs. 1 and 2,
+Plate LXIII. The bottom heading, 13 ft. wide and 9 ft. high, having
+first been driven, a break-up was started by blasting down the rock,
+forming a chamber the full height of the tunnel. The timber platform,
+shown in the drawing, was erected in the bottom heading, and extended
+through the break-up chamber. The plan was then to drill the entire face
+above the bottom heading and blast it down upon the timber staging, thus
+maintaining a passage below for the traffic from the heading and
+break-ups farther down the line. Starting with the condition indicated
+by Plate XIII, the face was drilled, the columns were then taken down
+and the muck pile was shoveled through holes in the staging into muck
+cars below. The face was then blasted down upon the staging, the drill
+columns were set up on the muck pile, and the operation was repeated.
+This method has the advantage that the bottom heading can be pushed
+through rapidly, and from it the tunnel may be attacked at a number of
+points at one time. It was found to be more expensive than the
+top-heading-and-bench method, and as soon as the depression in the rock
+at about Station 59 was passed, a top heading about 7 ft. high, and
+roughly the segment of a 23-ft. circle, was driven to the next soft
+ground in each of the four tunnels. The remainder of the section was
+taken out in two benches, the first, about 4 ft. high, was kept about
+15 ft. ahead of the lower bench, which was about the remaining 11 ft.
+high.
+
+
+EXCAVATION IN EARTH AND ROCK.
+
+About 2,500 ft. of tunnel, the roof of which was in soft ground, was
+excavated in normal air by the mining-and-timbering method. In the
+greater part of this the rock surface was well above the middle of the
+tunnel. The method of timbering and mining, while well enough known, has
+not been generally used in the United States.
+
+[Illustration: PLATE LXIII]
+
+Starting from the break-up in all rock, as described above, and
+illustrated on Plate XIII, when soft ground was approached, a top
+heading was driven from the rock into and through the earth. This
+heading was about 7 ft. high and about 6 ft. wide. This was done by the
+usual post, cap, and poling-board method. The ground was a running sand
+with little or no clay, and, at first, considerable water, in places.
+All headings required side polings. The roof poling boards were about
+2-1/2 or 3 ft. above the outside limit of the tunnel lining, as
+illustrated by Figs. 3, 4, and 5, Plate LXIII. The next step was to
+place two crown-bars, _AA_, usually about 20 ft. long, under the caps.
+Posts were then placed under the bars, and poling boards at right angles
+to the axis of the tunnel were then driven out over the bars. As these
+polings were being driven, the side polings of the original heading were
+removed, and the earth was mined out to the end of these new transverse
+polings. Breast boards were set on end under the ends of the transverse
+polings when they had been driven out to their limit. Side bars, _BB_,
+were then placed as far out as possible and supported on raking posts.
+These posts were carried down to rock, if it was near, if not, a sill
+was placed.
+
+A new set of transverse polings was driven over these side bars and the
+process was repeated until the sides had been carried down to rock or
+down to the elevation of the sills supporting the posts, which were
+usually about 4 ft. above the axis of the tunnel.
+
+The plan then was to excavate the remainder of the section and build the
+iron lining in short lengths, gradually transferring the weight of the
+roof bars of the iron lining as the posts were taken out. This meant
+that not more than four rings, and often only one ring, could be built
+before excavation and a short length of cradle became necessary. Before
+the posts under the roof bars could be built and the weight transferred
+to the iron lining, a grout dam was placed at the leading end of the
+iron lining, and grout was brought up to at least 45° from the top. Such
+workings were in progress at as many as eight places in one tunnel at
+the same time. Where there was only the ordinary ground-water to contend
+with, the driving of the top heading drained the ground very thoroughly,
+and the enlarging was done easily and without a serious loss of ground.
+Under these conditions the surface settlement was from 6 in. to 2 ft.
+
+Under Borden Avenue, there was more water, which probably came from a
+leaky sewer; it was not enough to form a stream, but just kept the
+ground thoroughly saturated. There was a continued though hardly
+perceptible flow of earth through every crevice in the timbering during
+the six or eight weeks between the driving of the top heading and the
+placing of the iron lining; and here there was a settlement of from 4 to
+8 ft. at the surface.
+
+
+TUNNELING IN COMPRESSED AIR WITHOUT A SHIELD.
+
+When it became evident that there would not be time for one shield to do
+the soft ground portions of all four tunnels under the Long Island
+Railroad station, a plan was adopted and used in Tunnel B which, while
+not as rapid, turned out to be as cheap as the work done by the shields.
+Figs. 6 and 7, Plate LXIII, and Fig. 1, Plate LXIV, illustrate this work
+fairly well. The operation of this scheme was about as follows: Having
+the iron built up to the face of the full-sized excavation, a hole or
+top heading, about 3 ft. wide and 4 or 5 ft. high, was excavated to
+about 10 ft. in advance. This was done in a few hours without timbering
+of any kind; but, as soon as the hole or heading was 10 ft. out, 6 by
+12-in. laggings or polings were put up in the roof, with the rear ends
+resting on the iron lining and the leading ends resting on vertical
+breast boards. The heading was then widened out rapidly and the lagging
+was placed, down to about 45° from the crown. The forward ends of the
+laggings were then supported by a timber rib and sill. Protected by this
+roof, the full section was excavated, and three rings of the iron lining
+were built and grouted, and then the whole process was repeated.
+
+[Illustration: PLATE LXIV, FIG. 1.--TUNNELING IN COMPRESSED AIR WITHOUT
+SHIELD.]
+
+[Illustration: PLATE LXIV, FIG. 2.--T-HEAD AIR-LOCK.]
+
+[Illustration: PLATE LXIV, FIG. 3.--CUTTING EDGE OF CAISSON ASSEMBLED.]
+
+[Illustration: PLATE LXIV, FIG. 4.--CAISSON SUPPORTED ON JACKS AND
+BLOCKS.]
+
+
+CONCRETE CRADLES, HAND-PACKED STONE AND GROUTING.
+
+Had the East Avenue Tunnel been built by shields, as was contemplated at
+the time of its design, the space between the limits of excavation
+and the iron lining would have been somewhat less than by the method
+actually used, especially in the earth portions. This space would have
+been filled with grout ejected through the iron lining. The change in
+the method of doing the work permitted the use of cheaper material, in
+place of part of the grout, and, at the same time, facilitated the work.
+
+The tube of cast-iron rings is adapted to be built in the tail of the
+shield. Where no shield was used, after the excavation was completed and
+all loose rock was removed, timbers were fixed across the tunnel from
+which semicircular ribs were hung, below which lagging was placed. The
+space between this and the rough rock surface was filled with concrete.
+This formed a cradle in which the iron tube could be erected, and, at
+the same time, occupied space which would have been filled by grout, at
+greater cost, had a shield been used.
+
+As soon as each ring of iron was erected, the space between it and the
+roof of the excavation was filled with hand-packed stone. At about every
+sixth ring a wall of stone laid in mortar was built between the lining
+and the rock to serve as a dam to retain grout. The interstices between
+the hand-packed stones were then filled with 1 to 1 grout of cement and
+sand, ejected through the iron lining. The concrete cradles averaged
+1.05 cu. yd. per ft. of tunnel, and cost, exclusive of materials, $6.70
+per cu. yd., of which $2.25 was for labor and $4.45 was for top charges.
+The hand-packed stone averaged 1-1/2 cu. yd. per ft. of tunnel, and cost
+$2.42 per cu. yd., of which $0.98 was for labor and $1.44 was for top
+charges.
+
+
+ERECTION OF IRON LINING.
+
+The contractors planned to erect the iron lining with erectors of the
+same pattern as that used on the shield under the river, mounted on a
+traveling stage. These will be described in detail in Mr. Japp's paper.
+Two of these stages and erectors worked in each tunnel at different
+points. The tunnel was attacked from so many points that these erectors
+could not be moved from working to working. The result was that about
+58% of the lining was built by hand. At first thought, this seems to be
+a crude and extravagant method, as the plates weighed about 1 ton each
+and about 20,000 were erected by hand. As it turned out, the cost was
+not greater than for those erected by machinery, taking into account the
+cost of erectors and power. This, however, was largely because the hand
+erection reduced the amount of work to be done by the machines so much
+that the machines had an undue plant charge.
+
+The hand erection was very simple. A portable hand-winch, with a 3/8-in.
+wire rope, was set in any convenient place. The wire rope was carried to
+a snatch-block fastened to the top of the iron previously built; or,
+where the roof was in soft ground, the timbering furnished points of
+attachment. The end of the wire rope was then hooked to a bolt hole in a
+new plate, two men at the winch lifted the plate, and three or four
+others swung it into approximate place, and, with the aid of bars and
+drift-pins, coaxed it into position and bolted it. Where there was no
+timbering above the iron, sometimes the key and adjoining plates were
+set on blocking on a timber staging and then jacked up to place.
+
+
+LONG ISLAND SHAFTS.
+
+The river shafts were designed to serve both as working shafts and as
+permanent openings to the tunnels, and were larger and more substantial
+than would have been required for construction purposes. Plate X of Mr.
+Noble's paper shows their design. They consist of two steel caissons,
+each 40 by 74 ft. in plan, with walls 5 ft. thick filled with concrete.
+A wall 6 ft. thick separated each shaft into two wells 29 by 30 ft.,
+each directly over a tunnel. Circular openings for the tunnel, 25 ft. in
+diameter, were provided in the sides of the caissons. During the sinking
+these were closed by bulkheads of steel plates backed by horizontal
+steel girders. The shafts were sunk as pneumatic caissons to a depth of
+78 ft. below mean high water. There have been a few caissons which were
+larger and were sunk deeper than these, but most large caissons have
+been for foundations, such as bridge piers, and have been stopped at or
+a little below the surface of the rock. The unusual feature of the
+caissons for the Long Island shaft is that they were sunk 54 ft. through
+rock.
+
+It had been hoped that the rock would prove sound enough to permit
+stopping the caissons at or a little below the surface and continuing
+the excavation without sinking them further; for this reason only the
+steel for the lower 40 ft. of the caissons was ordered at first.
+
+The roof of the working chamber was placed 7 ft. above the cutting edge.
+It was a steel floor, designed by the contractors, and consisted of
+five steel girders, 6 ft. deep, 29 ft. long, and spaced at 5-ft.
+centers. Between were plates curved upward to a radius of 4 ft. Each
+working chamber had two shafts, 3 ft. by 5 ft. in cross-section, with a
+diaphragm dividing it into two passages, the smaller for men and the
+larger for muck buckets. On top of these shafts were Moran locks.
+Mounted on top of the caisson was a 5-ton Wilson crane, which would
+reach each shaft and also the muck cars standing on tracks on the ground
+level beside the caissons. Circular steel buckets, 2 ft. 6 in. in
+diameter and 3 ft. high, were used for handling all muck. These were
+taken from the bottom of the working chamber, dumped in cars, and
+returned to the bottom without unhooking. Work was carried on by three
+8-hour shifts per day. The earth excavation was done at the rate of
+about 67 cu. yd. per day from one caisson. The rock excavation,
+amounting to about 6,200 cu. yd. in each caisson, was done at the rate
+of about 44.5 cu. yd. per day. The average rate of lowering, when the
+cutting edge of the south caisson was passing through earth, was 0.7 ft.
+per day. In rock, the rate was 0.48 ft. per day in the south caisson,
+and 0.39 ft. per day in the north caisson.
+
+At the beginning all lowering was done with sixteen hydraulic jacks.
+Temporary brackets were fastened to the outside of the caisson. A
+100-ton hydraulic jack was placed under each alternate bracket and under
+each of the others there was blocking. The jacks were connected to a
+high-pressure pump in the power-house. As the jacks lifted the caisson,
+the blocking was set for a lower position, to which the caisson settled
+as the jacks were exhausted. After the caisson had penetrated the earth
+about 10 ft., the outside brackets were removed and the lowering was
+regulated by blocking placed under brackets in the working chamber. The
+caisson usually rested on three sets of blockings on each side and two
+on each end. The blocking was about 4 ft. inside the cutting edge. In
+the rock, as the cutting edge was cleared for a lowering of about 2 ft.,
+6 by 8-in. oak posts were placed under the cutting-edge angle. When a
+sufficient number of posts had been placed, the blocking on which the
+caisson had rested was knocked or blasted out, and the rock underneath
+was excavated. The blocking was then re-set at a lower elevation. The
+posts under the cutting edge were then chopped part way through and the
+air pressure was lowered about 10 lb., which increased the net weight to
+more than 4,000,000 lb. The posts then gradually crushed and the
+caissons settled to the new blocking. The tilt or level of the caisson
+was controlled by chopping the posts more on the side which was desired
+to move first.
+
+The caisson nearly always carried a very large net weight, usually about
+870 tons. The concrete in the walls, which was added as the caisson was
+being sunk, was kept at about the elevation of the ground. There was
+generally a depth of from 5 to 20 ft. of water ballast on top of the
+roof of the working chamber. The air pressure in the working chamber was
+usually much less than the hydrostatic head outside the caisson. For
+example, the average air pressure in the south caisson during January,
+1906, was 16-1/2 lb., while the average head was 62.5 ft., equivalent to
+27 lb. per sq. in. Under these conditions, there was a continued but
+small leakage into the caisson of from 15,000 to 20,000 gal. per day.
+
+In the rock the excavation was always carried from 2 to 5 in. outside
+the cutting edge. As soon as the cutting edge was cleared, bags of clay
+were placed under it in a well-tiered, solid pile, so that when the
+caisson was lowered the bags were cut through and most of the clay, bags
+and all, was squeezed back of the cutting edge between the rock and the
+caisson.
+
+Table 1 shows the relation of the final position of the caissons to that
+designed.
+
+The cost of rock excavation in the caisson was $4.48 per cu. yd. for
+labor and $10.54 for top charges.
+
+The bottom of the shaft is an inverted concrete arch, 4 ft. thick,
+water-proofed with 6-ply felt and pitch. As soon as the caisson was down
+to its final position and the excavation was completed, concrete was
+deposited on the uneven rock surfaces, brought up to the line of the
+water-proofing, and given a smooth 1-in. mortar coat. The felt was stuck
+together in 3-ply mats on the surface with hot coal-tar pitch. These
+were rolled and sent down into the working chamber, where they were put
+down with cold pitch liquid at 60° Fahr. Each sheet of felt overlapped
+the one below 6 in. The water-proofing was covered by a 1-in. mortar
+plaster coat, after which the concrete of the 4-ft. inverted arch was
+placed. While the water-proofing and concreting were being done, the air
+pressure was kept at from 30 to 33 lb. per sq. in., the full hydrostatic
+head at the cutting edge. After standing for ten days, the air pressure
+was taken off, and the removal of the roof of the working chamber was
+begun. The water-proofing was done by the Union Construction and
+Waterproofing Company.
+
+TABLE 1.--RELATION OF THE FINAL POSITION OF THE CAISSONS TO THAT
+DESIGNED.
+
+================================================================
+LOCATION.|                   LONG ISLAND CITY.                 |
+
+Shaft.   |          North.          |         South.           |
+
+Corner.  |  High. | East.  | North. | High.  | East.  | North. |
+
+Northeast|0.21 ft.|0.08 ft.|0.05 ft.|0.32 ft.|0.15 ft.|0.28 ft.|
+Northwest|0.22  " |0.08  " |0.02  " |0.00  " |0.15  " |0.12  " |
+Southwest|0.27  " |0.14  " |0.02  " |0.18  " |0.45  " |0.12  " |
+Southeast|0.23  " |0.14  " |0.05  " |0.39  " |0.45  " |0.28  " |
+================================================================
+
+=============================================================================
+LOCATION.|                      MANHATTAN.                                  |
+
+Shaft.   |          North.          |             South.                    |
+
+Corner.  | High.  | East.  | South. | High.  | East or West.|North or South.|
+
+Northeast|0.23 ft.|0.74 ft.|0.38 ft.|0.00 ft.|0.06 ft. east.|0.04 ft. south.|
+Northwest|0.00  " |0.74  " |0.22  " |0.08  " |0.06  "    "  |0.13  "  north.|
+Southwest|0.11  " |0.31  " |0.22  " |0.21  " |0.45  "  west.|0.13  "    "   |
+Southeast|0.46  " |0.31  " |0.38  " |0.04  " |0.45  "    "  |0.04  "  south.|
+=============================================================================
+
+The cost of labor in compressed air chargeable to concreting was $3.40
+per cu. yd.
+
+After the roof of each working chamber had been removed, the shield was
+erected on a timber cradle in the bottom of the shaft, in position to be
+shoved out of the opening in the west side of the caisson. Temporary
+rings of iron lining were erected across the shaft in order to furnish
+something for the shield jacks to shove against.
+
+The roof of the working chamber was then re-erected about 35 ft. above
+its original position and about 8 ft. above the tunnel openings. This
+time, instead of the two small shafts which were in use during the
+sinking of the caisson, a large steel shaft with a T-head lock was
+built. This is illustrated in Fig. 2, Plate LXIV. The shaft was 8 ft. in
+diameter. Inside there was a ladder and an elevator cage for lowering
+and hoisting men and the standard 1-yd. tunnel cars. At the top, forming
+the head of the T, there were two standard tunnel locks.
+
+
+MANHATTAN SHAFTS.
+
+A permanent shaft, similar to the river shafts in Long Island City, was
+constructed at Manhattan over each pair of tunnels. Each shaft was
+located across two lines, with its longer axis transverse to the
+tunnels. Plate XIII shows their relative positions. They were divided
+equally by a reinforced concrete partition wall transverse to the line
+of the tunnels. On completion, the western portions were turned over to
+the contractor for the cross-town tunnels for his exclusive use.
+
+_South Shaft._--Work on the south shaft was started on June 9th, 1904,
+with the sinking of a 16 by 16-ft. test pit in the center of the south
+half of the south shaft, which reached disintegrated rock at a depth of
+about 20 ft.
+
+Starting in August, the full shaft area, 74 by 40 ft., was taken out in
+an open untimbered cut to the rock, and a 20 by 50-ft. shaft was sunk
+through the rock to tunnel grade, leaving a 10 or 12-ft. berm around it.
+(Fig. 1, Plate LXX.)
+
+The erection of the caisson was started, about the middle of January, on
+the rock berm surrounding the 20 by 50-ft. shaft and about 15 ft. below
+the surface. Fig. 3, Plate LXIV, shows the cutting edge of the caisson
+assembled. The excavation of the small shaft had shown that hard rock
+and only a very small quantity of water would be encountered, and that
+the caisson need be sunk only a short distance below the rock surface.
+Therefore, no working-chamber roof was provided, the caisson was built
+to a height of only 40 ft., and the circular openings were permanently
+closed.
+
+The assembling of the caisson took 2-1/2 months, and on April 2d
+lowering was started. Inverted brackets were bolted temporarily to the
+cutting-edge stiffening brackets, and the sinking was carried on by
+methods similar to those used at Long Island. The jacks and blocking
+supporting the caisson are shown in Fig. 4, Plate LXIV. As soon as the
+cutting edge entered the rock, which was drilled about 6 in. outside of
+the neat lines, the space surrounding the caisson was back-filled with
+clay and muck to steady it and provide skin friction. As the friction
+increased, the walls were filled with concrete, and as the caisson
+slowly settled, it was checked and guided by blocking. The cutting edge
+finally came to rest 31 ft. below mean high water, the sinking having
+been accomplished in about seven weeks, at an average rate of 0.50 ft.
+per day.
+
+The final position of the cutting edge in relation to its designed
+position is shown in Table 1.
+
+A berm about 4 ft. wide was left at the foot of the caisson below which
+the rock was somewhat fissured and required timbering. The cutting edge
+of the caisson was sealed to the rock with grout on the outside and a
+concrete base to the caisson walls on the inside, the latter resting on
+the 4-ft. berm. Following the completion of the shaft, the permanent
+sump was excavated to grade for use during construction.
+
+_North Shaft._--The north shaft had to be sunk in a very restricted
+area. The east side of the caisson cleared an adjoining building at one
+point by only 1 ft., while the northwest corner was within the same
+distance of the east line of First Avenue. As in the case of the Long
+Island shafts, the steelwork for only the lower 40 ft. was ordered at
+the start. This height was completely assembled before sinking was
+begun. The caisson was lowered in about the same manner as those
+previously described. The bearing brackets for the hydraulic jacks were
+attached, as at the south shaft, to the inside of the cutting-edge
+brackets. The east side of the caisson was in contact with the
+foundations of the neighboring building, while the west side was in much
+softer material. As a consequence, the west side tended to settle more
+rapidly and thus throw the caisson out of level and position. To
+counteract that tendency, it was necessary to load the east wall heavily
+with cast-iron tunnel sections, in addition to the concrete filling in
+the walls.
+
+Soon after sinking was begun, a small test shaft was sunk to a point
+below the elevation of the top of the tunnels. The rock was found to be
+sound, hard, and nearly dry. It was then decided to stop the caisson as
+soon as a foundation could be secured on sound rock. The latter was
+found at a depth of 38 ft. below mean high water. With the cutting edge
+seated at that depth, the top of the caisson was only 2 ft. above mean
+high water, and as this was insufficient protection against high tides,
+a 10-ft. extension was ordered for the top. Work, however, went on
+without delay on the remainder of the excavation. The junction between
+the cutting edge and the rock was sealed with concrete and grout. The
+caisson was lowered at an average rate of 0.53 ft. per day. The size of
+the shaft below the cutting edge was 62 ft. 7 in. by 32 ft. The average
+rate of excavation during the sinking in soft material was 84 cu. yd.
+per day. The average rate of rock excavation below the final position of
+the cutting edge was 125 cu. yd. per day. There were night and day
+shifts, each working 10 hours. Excavation in earth cost $3.96 per cu.
+yd., of which $1.45 was for labor and $2.51 for top charges, etc. The
+excavation of rock cost $8.93 per cu. yd., $2.83 being for labor and
+$6.10 for top charges.
+
+The final elevations of the four corners of the cutting edge, together
+with their displacement from the desired positions, are shown in Table
+1.
+
+
+RIVER TUNNELS.
+
+The four river tunnels, between the Manhattan and Long Island City
+shafts, a distance of about 3,900 ft., were constructed by the shield
+method. Eight shields were erected, one on each line in each shaft, the
+four from Manhattan working eastward to a junction near the middle of
+the river with the four working westward from Long Island City. Toward
+the end of the work it was evident that the shields in Tunnels _B_, _C_,
+and _D_ would meet in the soft material a short distance east of the
+Blackwell's Island Reef if work were continued in all headings. In order
+that the junction might be made in firm material, work from Manhattan in
+those three tunnels was suspended when the shields reached the edge
+of the ledge. The shields in Tunnel _A_ met at a corresponding point
+without the suspension of work in either. An average of 1,760 ft. of
+tunnel was driven from Manhattan and 2,142 ft. from Long Island City.
+
+[Illustration: PLATE LXV, FIG. 1.--SHIELD FITTED WITH SECTIONAL SLIDING
+HOODS AND SLIDING EXTENSIONS TO THE FLOORS.]
+
+[Illustration: PLATE LXV, FIG. 2.--SHIELD FITTED WITH FIXED HOODS AND
+FIXED EXTENSIONS TO THE FLOORS.]
+
+
+TUNNELS DRIVEN EASTWARD FROM MANHATTAN.
+
+_Materials and Inception of Work._--The materials encountered are shown
+in the profile on Plate XIII, and were similar in all the tunnels. In
+general, they were found to be about as indicated in the preliminary
+borings. The materials met in Tunnel _A_ may be taken as typical of all.
+
+From the Manhattan shaft eastward, in succession, there were 123 ft. of
+all-rock section, 87 ft. of part earth and part rock, 723 ft. of all
+earth, 515 ft. of part rock and part earth, 291 ft. of all rock, and 56
+ft. of part rock and part earth.
+
+The rock on the Manhattan side was Hudson schist, while that in the reef
+was Fordham gneiss. Here, as elsewhere, they resembled each other
+closely; the gneiss was slightly the harder, but both were badly seamed
+and fissured. Wherever it was encountered in this work, the rock surface
+was covered by a deposit of boulders, gravel, and sand, varying in
+thickness from 4 to 10 ft. and averaging about 6 ft.
+
+The slope of the surface of the ledge on the Manhattan side averaged
+about 1 vertical to 4 horizontal. The rock near the surface was full of
+disintegrated seams, and was badly broken up. It was irregularly
+stratified, and dipped toward the west at an angle of about 60 degrees.
+Large pieces frequently broke from the face and slid into the shield,
+often exposing the sand. The rock surface was very irregular, and was
+covered with boulders and detached masses of rock embedded in coarse
+sand and gravel. The sand and gravel allowed the air to escape freely.
+By the time the shields had entirely cleared the rock, the material in
+the face had changed to a fine sand, stratified every few inches by very
+thin layers of chocolate-colored clayey material. This is the material
+elsewhere referred to as quicksand. As the shield advanced eastward, the
+number and thickness of the layers of clay increased until the clay
+formed at least 20% of the entire mass, and many of the layers were 2
+in. thick.
+
+At a distance of about 440 ft. beyond the Manhattan ledge, the material
+at the bottom of the face changed suddenly to one in which the layers
+of clay composed probably 98% of the whole. The sand layers were not
+more than 1/16 in. thick and averaged about 2 in. apart. The surface of
+the clay rose gradually for a distance of 40 ft. in Tunnels _A_ and _B_,
+and 100 ft. in Tunnels _C_ and _D_, when gravel and boulders appeared at
+the bottom of the shield. At that time the clay composed about one-half
+of the face.
+
+The surfaces of both the clay and gravel were irregular, but they rose
+gradually. After rock was encountered, the formations of gravel and clay
+were roughly parallel to the rock surface.
+
+As the surface of the rock rose they disappeared in order and were again
+encountered when the shields broke out of rock on the east side of the
+Blackwell's Island Reef. East of the reef a large quantity of coarse
+open sand was present in the gravel formations before the clay appeared
+below the top of the cutting edge. In Tunnels _C_ and _D_ this was
+especially difficult to handle. It appears to be a reasonable assumption
+that the layer of clay was continuous across the reef. Wherever the clay
+extended above the top of the shield it reduced the escape of air
+materially. It is doubtless largely due to this circumstance that the
+part-rock sections in the reef were not the most difficult portions of
+the work.
+
+While sinking the lower portions of the shafts the tunnels were
+excavated eastward in the solid rock for a distance of about 60 ft.,
+where the rock at the top was found to be somewhat disintegrated. This
+was as far as it was considered prudent to go with the full-sized
+section without air pressure. At about the same time top headings were
+excavated westward from the shafts for a distance of 100 ft., and the
+headings were enlarged to full size for 50 ft. The object was to avoid
+damage to the shaft and interference with the river tunnel when work was
+started by the contractor for the cross-town tunnel.
+
+[Illustration: PLATE LXVI, FIG. 1.--REAR OF SHIELD SHOWING COMPLETE
+FITTINGS.]
+
+[Illustration: PLATE LXVI, FIG. 2.--SHIELD WITH LOWER PORTION OF
+BULKHEAD REMOVED.]
+
+The shields were erected on timber cradles in the shaft, and were shoved
+forward to the face of the excavation. Concrete bulkheads, with the
+necessary air-locks, were then built across the tunnels behind the
+shields. The shields were erected before the dividing walls between the
+two contracts were placed. Rings of iron tunnel lining, backed by
+timbers spanning the openings on the west side, were erected temporarily
+across the shafts in order to afford a bearing for the shield jacks
+while shoving into the portals. The movement of the shield eastward was
+continued in each tunnel for a distance of about 60 ft., and the
+permanent cast-iron tunnel lining was erected as the shield advanced.
+Before breaking out of rock, it was necessary to have air pressure in
+the tunnels. This required the building of bulkheads with air-locks
+inside the cast-iron linings just east of the portals. Before erecting
+the bulkheads it was necessary to close the annular space between the
+iron tunnel lining and the rock. The space at the portal was filled with
+a concrete wall. After about twenty permanent rings had been erected in
+each tunnel, two rings were pulled apart at the tail of the shield and a
+second masonry wall or dam was built. The space between the two dams was
+then filled with grout. To avoid the possibility of pushing the iron
+backward after the air pressure was on, rings of segmental plates, 5/8
+in. thick and 13-7/8 in. wide, were inserted in eighteen circumferential
+joints in each tunnel between the rings as they were erected. The plates
+contained slotted holes to match those in the segments. After the rings
+left the shield, the plates were driven outward, and projected about 5
+in. When the tunnel was grouted, the plates were embedded.
+
+The bulkheads were completed, and the tunnels were put under air
+pressure on the following dates:
+
+Line _D_, on October 5th, 1905;
+Line _C_, on November 6th, 1905;
+Line _B_, on November 25th, 1905;
+Line _A_, on December 1st, 1905.
+
+This marked the end of the preparatory period.
+
+In the deepest part of the river, near the pier-head line on the
+Manhattan side, there was only 8 ft. of natural cover over the tops of
+the tunnels. This cover consisted of the fine sand previously described,
+and it was certain that the air would escape freely from the tunnels
+through it. To give a greater depth of cover and to check the loss of
+air, the contractor prepared to cover the lines of the tunnels with
+blankets of clay, which, however, had been provided for in the
+specifications. Permits, as described later, were obtained at different
+times from the Secretary of War, for dumping clay in varying thicknesses
+over the line of work. The dumping for the blanket allowed under the
+first permit was completed in February, 1906. The thickness of this
+blanket varied considerably, but averaged 10 or 12 ft. on the Manhattan
+side. The original blanket was of material advantage, but the depth of
+clay was insufficient to stop the loss of air.
+
+The essential parts of the shields in the four tunnels were exactly
+alike. Those in Tunnels _B_ and _D_, however, were originally fitted
+with sectional sliding hoods and sliding extensions to the floors of the
+working chambers, as shown by Fig. 1, Plate LXV. The shields in Tunnels
+_A_ and _C_ were originally fitted with fixed hoods and fixed extensions
+to the floors, as shown in Fig. 2, Plate LXV. A full description of the
+shields will be found in Mr. Japp's paper.
+
+The shields in each pair of tunnels were advanced through the solid rock
+section about abreast of each other, until test holes from the faces
+indicated soft ground within a few feet. As the distance between the
+sides of the two tunnels was only 14 ft., it was thought best to let
+Tunnels _B_ and _D_ gain a lead of about 100 ft. before Tunnels _A_ and
+_C_ opened out into soft ground, in order that a blow from one tunnel
+might not extend to the other. Work in Tunnel _C_ was shut down on
+December 23d, 1905, after exposing sand to a depth of 3 ft. at the top,
+and it remained closed for seven weeks. Work in Tunnel _A_ was suspended
+on September 29th, 1905. By the time Tunnel _B_ had made the required
+advance, it, together with Tunnels _C_ and _D_, was overtaxing the
+capacities of the compressor plant. Only a little work was done in
+Tunnel _C_ until July, 1906, and work in Tunnel _A_ was not resumed
+until October 22d, 1906.
+
+
+TUNNELS DRIVEN WESTWARD FROM LONG ISLAND CITY.
+
+_Materials and Inception of the Work._--The materials met in Tunnel A
+are typical of all four tunnels. From the Long Island shafts westward,
+in succession, there were 124 ft. of all-rock section, 125 ft. of part
+rock and part earth section, 22 ft. of all-rock section, 56 ft. of part
+rock and part earth section, 387 ft. of all-rock section, 70 ft. of part
+earth and part rock section, and 1,333 ft. of all-earth section.
+
+[Illustration: PLATE LXVII]
+
+The materials passed through are indicated on Plate XIII. The rock was
+similar to that of the Blackwell's Island Reef, and was likewise covered
+by a layer of sand and boulders. The remainder of the soft ground was
+divided into three classes. The first was a very fine red sand, which
+occurred in a layer varying in thickness from 6 ft. to at least 15 ft.
+It may have been much deeper above the tunnel. It is the quicksand
+usually encountered in all deep foundations in New York City. The
+following is the result of the sifting test of this sand:
+
+                  Held on No.  30 sieve 0.6%
+Passed  No.  30,   "   "  No.  40   "   0.4%
+  "     No.  40,   "   "  No.  50   "   0.7%
+  "     No.  50,   "   "  No.  60   "   2.4%
+  "     No.  60,   "   "  No.  80   "  14.9%
+  "     No.  80,   "   "  No. 100   "  54.0%
+  "     No. 100,   "   "  No. 200   "   8.0%
+  "     No. 200                     "  19.0%
+
+                                      100.0%
+
+This means that grains of all but 4% of it were less than 0.0071 in. in
+diameter. The 19% which passed the No. 200 sieve, the grains of which
+were 0.0026 in. or less in diameter, when observed with a microscope
+appeared to be perfectly clean grains of quartz; to the eye it looked
+like ordinary building sand, sharp, and well graded from large to small
+grains. This sand, with a surplus of water, was quick. With the water
+blown out of it by air pressure, it is stable, stands up well, and is
+very easy to work. It appears to be the same as the reddish quicksand
+found in most deep excavations around New York City.
+
+The second material was pronounced "bull's liver" by the miners as soon
+as it was uncovered. "Bull's liver" seems to be a common term among
+English-speaking miners the world over. It is doubtful, however, if it
+is always applied to the same thing. In this case it consisted of layers
+of blue clay and very fine red sand. The clay seemed to be perfectly
+pure and entirely free from sand. It would break easily with a clean,
+almost crystalline, fracture, and yet it was soft and would work up
+easily. The layers of clay varied in thickness from 1/16 in. to 1 in.,
+while the thickness of the sand layer varied from 1/4 in. to several
+inches. The sand was the same as the quicksand already described.
+
+The "bull's liver" was ideal material in which to work a shield. It
+stood up as well and held the air about as well as clay, and was much
+easier to handle.
+
+The third material was a layer of fine gray sand which was encountered
+in the top of all the tunnels for about 400 ft. just east of Blackwell's
+Island Reef. It was very open, and had grains of rather uniform size.
+
+During the starting out of the tunnels from the shafts, and for more
+than a year afterward, the roof of the working chamber in the caissons
+and the locks previously described under the Long Island shafts took the
+place of the bulkhead across the tunnels for confining the air pressure.
+
+The first work in air pressure was to remove the shield plug closing the
+opening in the side of the shaft. This being done, the shield was shoved
+through the opening, and excavation begun.
+
+At the start the shields were fitted with movable platforms, but no
+hoods of any kind were placed until after the rock excavation was
+completed.
+
+
+METHODS OF EXCAVATION.
+
+The distribution of materials to be excavated, as previously outlined,
+divided the excavation into three distinct classes, for which different
+methods had to be developed.
+
+These three classes were:
+
+_First._--All-rock section.
+_Second._--Rock in the bottom, earth in the top.
+_Third._--All-earth section.
+
+The extent of the second and third classes was much greater than that of
+the first, and they, of course, determined the use of the shield.
+Shields had not previously been used extensively in rock work, either
+where the face was wholly or partly in rock, and it was necessary to
+develop the methods by experience. The specifications required that
+where rock was present in the bottom, a bed of concrete should be laid
+in the form of a cradle on which to advance the shield.
+
+_All Rock._--At different times, three general methods were used for
+excavating in all-rock sections. They may be called: The bottom-heading
+method; the full-face method; and the center-heading method.
+
+The bottom-heading method was first tried. A heading, about 8 ft. high
+and 12 ft. wide, was driven on the center line, with its bottom as
+nearly as possible on the grade line of the bottom of the tunnel. It was
+drilled in the ordinary manner by four drills mounted on two columns.
+The face of the headings varied from 10 to 30 ft. in advance of the
+cutting edge. After driving the heading for about 10 ft., the bottom was
+cleared out and a concrete cradle was set. The width of the cradles
+varied, but was generally from 8 to 10 ft.
+
+The excavation was enlarged to full size as the shield advanced, the
+drills being mounted in the forward compartments of the shield, as
+shown by Fig. 1, Plate LXVII, which represents the conditions after the
+opening had been cut in the bulkhead, but before the new methods,
+mentioned later, had been developed.
+
+[Illustration: PLATE LXVIII]
+
+The sides and top were shot downward into the heading. The area of the
+face remaining behind the heading was large, and a great number of holes
+and several rounds were required to fire the face to advantage. As soon
+as firing was started at the face, the heading was completely blocked,
+and operations there had to be suspended until the mucking was nearly
+completed. The bottom-heading method was probably as good as any that
+could be devised for use with the shields as originally installed. All
+the muck had to be taken from the face by hand and handled through the
+chutes or doors. By drilling from the shield, some muck was blasted on
+to the extensions of the floors and could be handled from the upper
+compartments. At best, however, the shield with the closed transverse
+bulkhead was a serious obstacle to rapid work in rock sections.
+
+The full-face method was only used where the rock was not considered
+safe for a heading. A cut was fired at the bottom, together with side
+holes, in a manner quite similar to that adopted in the first set of
+holes for a bottom heading. The cradle was then placed, in lengths of
+either 2.5 or 5 ft., after which the remainder of the face was fired in
+the same manner as for the bottom-heading method. The closed transverse
+bulkhead with air-locks, as shown in Fig. 1, Plate LXVI, was placed in
+the shield in the hope that it would only be necessary to maintain the
+full air pressure in the working compartments in front of the bulkhead.
+It was also thought that some form of bulkhead which could be closed
+quickly and tightly would be necessary to prevent flooding the tunnel in
+case of blows. While no attempt was ever made to reduce the pressure
+behind the shield bulkhead, it was obvious from the experience with
+Tunnels _B_ and _D,_ while working in the sand between Manhattan and the
+reef, that the plan was not practicable, and that the closed bulkhead in
+the bottom was a hindrance instead of a safeguard. As soon as rock was
+encountered in those tunnels at the west edge of the reef, the
+contractor cut through the bulkheads and altered them, as shown in Fig.
+2, Plate LXVI.
+
+Taking advantage of the experience gained, openings were cut through the
+bulkheads in Shields _A_ and _C_, while they were shut down near the
+edge of the Manhattan ledge. In erecting the shields at Long Island
+City in May and June, 1906, openings were also provided. These shields
+had to pass through about 700 ft. of rock at the start, the greater
+portion of which was all-rock section. It was at that point that
+openings were first used extensively and methods were developed, which
+would not have been possible except where ears could be passed through
+the shield. The bottom-heading method was first tried, but the working
+space in front of the shield was cramped, and but few men could be
+employed in loading the cars. To give more room, the heading was
+gradually widened. The enlargement at the top, when made from the
+shield, blocked all work at the face of the heading while the former
+operation was in progress. To reduce the delays, the heading was raised,
+thus reducing the quantity of rock left in the top, and the bottom was
+taken out as a bench. To avoid blocking the tracks when firing the top,
+a heavy timber platform was built out from the floors of the middle
+working compartments. Most of the muck from the top was caught on the
+platform and dropped into cars below. This method of working is shown by
+Fig. 2, Plate LXVII. The platforms were not entirely satisfactory, and,
+later, the drills in the heading were turned upward and a top bench was
+also drilled and fired, as shown by Fig. 3, Plate LXVII. There was then
+so little excavation left in the top that the muck was allowed to fall
+on the tracks and was quickly cleared away. The method just outlined is
+called the center-heading method, and was the most satisfactory plan
+devised for full-rock sections.
+
+_Excavation in Part Rock and Part Earth._--This was probably the most
+difficult work encountered, particularly when the rock was covered with
+boulders and coarse sharp sand which permitted a free escape of air. It
+was necessary, before removing the rock immediately under the soft
+ground, to excavate the earth in advance of the shield to a point beyond
+where the rock was to be disturbed, and to support, in some way, the
+roof, sides, and face of the opening thus made. The hoods were designed
+mainly for the purpose of supporting the roof and the sides. With the
+fixed hood it was necessary either to excavate for the distance of the
+desired shove in front of it or else to force the hood into the
+undisturbed material. To avoid this difficulty, the sliding hoods were
+tried as an experiment.
+
+In using the sliding hood, which will be described in detail in Mr.
+Japp's paper, the segments commencing at the top were forced forward by
+the screw rod, one at a time, as far as possible into the undisturbed
+material. Just enough material was then removed from underneath and in
+front of the section to free it, and it was again forced forward. These
+operations were repeated until the section had been extended far enough
+for a shove. As soon as two or three sections had been pushed forward in
+this way, the face near the advance end of the sliding hood was
+protected by a breast board set on edge and braced from the face.
+Gradually, all the segments were worked forward, and, at the same time,
+the whole soft ground face was sheeted with timber. At times polings
+were placed over the extended segments in order to make room for a
+second shove, as shown on Plate LXVIII. When the shield was advanced the
+nuts on the screw rods were loosened and the sections of the hoods were
+telescoped on to the shield. The idea was ingenious, but proved
+impracticable, because of the unequal relative movements of the top and
+bottom of the shield in shoving, bringing transverse strains on the hood
+sections.
+
+[Illustration: PLATE LXIX]
+
+With the fixed hood, poling boards were used to support the roof and
+sides, and the face was supported in the manner described for the
+sliding hoods. The polings were usually maple or oak planks, 2 in.
+thick, about 8 in. wide, and 6-1/2 ft. long. In advancing the face, the
+top board of the old breast was first removed, then the material was
+carefully worked out for the length of the poling. The latter was then
+placed, with the rear end resting over the hood and the forward end
+forced as far as possible into the undisturbed material. When two or
+three polings had been placed, a breast board was set. After several
+polings were in position, their forward ends were supported by some form
+a cantilever attached to the hood. Plate LXIX shows one kind of
+supports. In this way all the soft material was excavated down to the
+rock surface, and the roof, sides, and face were sheeted with timber. In
+shoving, the polings in the roof and sides were lost. It was found that
+the breast could usually be advanced 5 ft. with safety. The fixed hood
+made it possible to set the face about 7 or 8 ft. in front of the
+cutting edge without increasing the length of the polings. This distance
+was ample for two shoves, and was generally adopted, although a great
+many faces were set for one shove only.
+
+Fixed hoods were substituted for those of the sliding type, originally
+placed on Shields _B_ and _D_ at Manhattan, at about the time the latter
+encountered the rock at the reef.
+
+In placing the polings and breasting, all voids behind them were filled
+as far as possible with marsh hay or bags of sawdust or clay. To prevent
+loss of air in open material, the joints between the boards were
+plastered with clay especially prepared for the purpose in a pug mill.
+The sliding extensions to the floors of the working compartments were
+often used, in the early part of the work, to support the timber face or
+loose rock, as shown in Fig. 1, Plate LXVIII. At such times the front of
+the extensions was held tightly against the planking by the pressure of
+the floor jacks. While shoving, the pressure on the floor jacks was
+gradually released, allowing the floors to slide back into the shield
+and still afford support to the face. The extensions also afforded
+convenient working platforms. They were subject to severe bending
+strains while the shield was being shoved, however, and the cast-iron
+rams were frequently broken or jammed. The extensions did not last
+beyond the edge of the ledge at Manhattan, nor more than about half
+through the rock work at Long Island City. The fixed extensions
+originally placed on Shields _A_ and _C_ at Manhattan were not
+substantial enough, and lasted only a few days.
+
+Wherever the rock face was sufficiently sound and high, a bottom heading
+was driven some 20 or 30 ft. in advance of the shield. The heading was
+driven and the cradle placed independently of the face of the soft
+ground above, and in the manner described for all-rock sections. The
+remainder of the rock face was removed by firing top and side rounds
+into the bottom heading after the soft ground had been excavated. Great
+care had to be taken in firing in order not to disturb the timber work
+or break the rock away from under the breast boards. If either occurred,
+a serious run was likely to follow. The bottom-heading method is shown
+by Figs. 1, 2, and 3, Plate LXVIII, and the breasting and poling by Fig.
+2, Plate LXX.
+
+In the early part of the work, where a bottom heading was impracticable,
+the soft ground was first excavated as described above, and the rock was
+drilled by machines mounted on tripods, and fired as a bench. By this
+plan no drilling could be done until the soft ground was removed. This
+is called the rock-bench method.
+
+Later the rock-cut method was devised. Drills were set up on columns in
+the bottom compartments of the shield, and the face was drilled while
+work was in progress on the soft ground above. The drilling was done
+either for a horizontal or vertical cut and side and top rounds. The
+drillers were protected while at work by platforms of timber built out
+from the floors of the compartments above. This plan, while probably not
+quite as economical of explosives, saved nearly all the delay due to
+drilling the bench.
+
+[Illustration: PLATE LXX, FIG. 1.--SMALL SHAFT SUNK TO ROCK.]
+
+[Illustration: PLATE LXX, FIG. 2.--BREASTING AND POLING IN FRONT OF
+SHIELD.]
+
+[Illustration: PLATE LXX, FIG. 3.--SHUTTERS ON FRONT OF SHIELD.]
+
+[Illustration: PLATE LXX, FIG. 4.--HYDRAULIC ERECTOR PLACING SEGMENT.]
+
+_All-Earth Section._--As described by Messrs. Hay and Fitzmaurice, in a
+paper on the Blackwall Tunnel,[C] the contractor had used, with marked
+success, shutters in the face of the shield for excavating in loose open
+material. He naturally adopted the method for the East River work. When
+the shields in Tunnels _B_ and _D_, at Manhattan, the first to be driven
+through soft ground, reached a point under the actual bulkhead line,
+work was partly suspended and shutters were put in place in the face of
+the top and center compartments. The shutters in the center compartments
+in Shield _D_ are shown in Fig. 3, Plate LXX, while the method of work
+with the shutters is shown by Figs. 4, 5, 6, and 7, Plate LXVIII. Fig. 4
+on that plate shows the shield ready for a shove. As the pressure was
+applied to the shield jacks, men loosened the nuts on the screws holding
+the ends of the shutters, and allowed the latter to slide back into the
+working compartments. At the end of the shove, the shutters were in the
+position shown in Fig. 5, Plate LXVIII. In preparing for a new shove,
+the slides in the shutters were opened, and the material in front was
+raked into the shield. At the same time, the shutters were gradually
+worked forward. The two upper shutters in a compartment were generally
+advanced from 12 to 15 in., after which the muck could be shoveled out
+over the bottom shutters, as shown on Fig. 6, Plate LXVIII, and Fig. 3,
+Plate LXX. No shutters were placed in the bottom compartments, and as
+the air pressure was not generally high enough to keep the face dry at
+the bottom, these compartments were pretty well filled with the soft,
+wet quicksand. Just before shoving, this material was excavated to a
+point where it ran in faster than it could be taken out. Much of the
+excavation in the bottom compartment was done by the blow-pipe. During
+the shove the material from the bottom compartment often ran back
+through the open door in the transverse bulkhead, as shown by Fig. 5,
+Plate LXVIII.
+
+In the Blackwall Tunnel the material was reported to have been loose
+enough to keep in close contact with the shutters at all times. In the
+East River Tunnels this was not the case. The sand at the top was dry
+and would often stand with a vertical face for some hours. In advancing
+the shutters, it was difficult to bring them into close contact with the
+face at the end of the operation. The soft material at the bottom was
+constantly running into the lower compartment and undermining the stiff
+dry material at the top. The latter gradually broke away, and, at times,
+the actual face was some feet in advance of the shutters. Under those
+circumstances, the air escaped freely through the unprotected sand face.
+The joints of the shutters were plastered with clay, but this did not
+keep the air from passing out through the lower compartments. This
+condition facilitated the formation of blows, which were of constant
+occurrence where shutters were used in the sand. In Tunnels _B_ and _D_,
+at Manhattan, the shutters were used in the above manner clear across to
+the reef. In Tunnel _C_, which was considerably behind Tunnels _B_ and
+_D_, the shutters, although placed, were never used against the face,
+and the excavation was carried on by poling the top and breasting the
+face. The change resulted in much better progress and fewer blows. The
+excavation through the soft material in Tunnel _C_ had just been
+completed when Tunnel _A_ was started, and the gangs of workmen were
+exchanged.
+
+The work in soft ground in Tunnel _A_ thus gained the benefit of the
+experience in Tunnel _C_. Shutters were placed only in the top
+compartments in this tunnel, and, as in Tunnel _C_, were never used in
+contact with the face. The method of work is shown by Figs. 1, 2, and 3,
+Plate LXXI. The result was still more rapid progress in Tunnel _A_, and
+although the loss of air was fully as great in this tunnel as in the
+other three, there was only one blow which caused any considerable loss
+of pressure. In Tunnels _A_ and _C_ the diaphragms in the rear of the
+center compartments of the lower tiers of working chambers were removed
+before the shields entered the soft ground. The change was not of as
+much advantage in soft ground as in rock, but it facilitated the removal
+of the soft wet sand in the bottom. In Tunnel _A_, after encountering
+gravel, a belt conveyor was suspended from the traveling stage with one
+end projecting through the opening into the working compartment. The use
+of the conveyor made it possible to continue mucking at the face while
+the bottom plates of the iron lining were being put in place, and
+resulted in a material increase in the rate of progress.
+
+[Illustration: PLATE LXXI]
+
+The shutters were not placed on the Long Island shields at all. Just
+before the shields passed into all soft ground, a fixed hood was
+attached to each.
+
+The method of working in soft ground from Long Island City is
+illustrated by Plate LXXII. The full lines at the face of the shield
+show the position of the earth before a shove of the shield, and the
+dotted lines show the same after the shove. The face was mined out to
+the front of the hood and breasted down to a little below the floor of
+the top pockets of the shield. In the middle pocket the earth was
+allowed to take its natural slope back on the floor. Toward the rear of
+the bottom pockets it was held by stop-planks. The air pressure was
+always about equal to the hydrostatic head at the middle of the shield,
+so that the face in the upper and middle pockets was dry. In the lower
+pockets it was wet, and flowed under the pressure of shoving the shield.
+By this method 4,195 lin. ft. of tunnel was excavated by the four Long
+Island shields in 120 days, from November 1st, 1907, to March 1st, 1908.
+This was an average of 8.74 ft. per day per shield.
+
+The rate of progress, the nature of the materials, and the methods
+adopted are shown in Table 2.
+
+_Preparations for Junction of Shields._--As previously mentioned, the
+Manhattan shields were stopped at the edge of the reef. Before making
+the final shove of those shields, special polings were placed with
+unusual care. The excavation was bell-shaped to receive the Long Island
+shields. The arrangement of the polings is shown by Figs. 4 and 5, Plate
+LXXI. After the shields were shoved into final position, as shown at the
+right in Fig. 5, the rear end of the polings rested over the cutting
+edge and allowed room for the removal of the hood. After the latter had
+been accomplished, the temporary bulkheads of concrete and clay bags
+were built as a precaution against blows when the shields were close
+together. An 8-in. pipe was then driven forward through the bulkhead for
+distances varying from 30 to 100 ft., in order to check the alignment
+and grade between the two workings before the shields were actually
+shoved together. The errors in the surveys were negligible, but here, as
+elsewhere, the shields were not exactly in the desired position, and it
+took careful handling to bring the cutting edges together. The Long
+Island shields were driven to meet those from Manhattan.
+
+TABLE 2.--RATE OF PROGRESS, NATURE OF MATERIALS, AND METHODS ADOPTED IN
+CONSTRUCTION OF EAST RIVER TUNNELS.
+
+LINE A, LONG ISLAND.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |     Station:      |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+All rock      |Bottom heading   | 69+39.9 | 69+79   |Aug.  2, '06|Sept 25, '06|
+              |                 |         |         |            |            |
+All rock      |Center heading   | 69+79   | 70+64   |Sept 25, '06|Nov. 21, '06|
+              |                 |         |         |            |            |
+Earth and rock|Center heading   | 70+64   | 71+34   |Nov. 21, '06|Dec. 30, '06|
+              |                 |         |         |            |            |
+Earth and rock|Bottom heading   | 71+34   | 71+89   |Dec. 30, '06|Feb. 13, '07|
+              |                 |         |         |            |            |
+All rock      |Bottom heading   | 71+89   | 72+11   |Feb. 13, '07|Feb. 21, '07|
+              |                 |         |         |            |            |
+Earth and rock|Center heading   | 72+11   | 72+67   |Feb. 21, '07|Mar. 19, '07|
+              |                 |         |         |            |            |
+All rock      |Center heading   | 72+67   | 76+54   |Mar. 19, '07|Sept  6, '07|
+              |                 |         |         |            |            |
+Earth and rock|Going out of rock| 76+54   | 77+24   |Sept  6, '07|Oct.  4, '07|
+              |                 |         |         |            |            |
+All earth     |Soft ground      | 77+24   | 90+57.3 |Oct.  4, '07|Mar. 26, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+All rock      |   54 |   39.1 |  0.724 |                                      |
+              |      |        |        |                                      |
+All rock      |   57 |   85   |  1.49  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   39 |   70   |  1.79  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   45 |   55   |  1.22  |                                      |
+              |      |        |        |                                      |
+All rock      |    8 |   22   |  2.75  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   26 |   56   |  2.15  |                                      |
+              |      |        |        |                                      |
+All rock      |  171 |  387   |  2.26  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   28 |   70   |  2.50  |                                      |
+              |      |        |        |                                      |
+All earth     |  174 |1,333.3 |  7.66  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE B, LONG ISLAND.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |     Station:      |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+All rock      |Bottom heading   | 69+29.6 | 70+46   |Oct. 16, '06|Nov. 20, '06|
+              |                 |         |         |            |            |
+Earth and rock|Bottom heading   | 70+46   | 71+95   |Nov. 20, '06|Feb. 23, '07|
+              |                 |         |         |            |            |
+All rock      |Bottom heading   | 71+95   | 72+25   |Feb. 23, '07|Mar.  6, '07|
+              |                 |         |         |            |            |
+Earth and rock|Center heading   | 72+25   | 72+60   |Mar.  6, '07|Mar. 24, '07|
+              |                 |         |         |            |            |
+All rock      |Going out of rock| 72+60   | 76+57   |Mar. 24, '07|Aug.  7, '07|
+              |                 |         |         |            |            |
+Earth and rock|Soft ground      | 76+57   | 77+30   |Aug.  7, '07|Sept  5, '07|
+              |                 |         |         |            |            |
+All earth     |Soft ground      | 77+30   | 90+49.6 |Sept  5, '07|Mar. 19, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+All rock      |   35 |  116.4 |  3.33  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   95 |  149   |  1.57  |                                      |
+              |      |        |        |                                      |
+All rock      |   11 |   30   |  2.73  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   18 |   35   |  1.94  |                                      |
+              |      |        |        |                                      |
+All rock      |  136 |  397   |  2.92  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   29 |   73   |  2.52  |                                      |
+              |      |        |        |                                      |
+All earth     |  196 |1,319.6 |  6.73  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE C, LONG ISLAND.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |     Station:      |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+All rock      |Bottom heading   | 68+61.9 | 69+93   |June 11, '06|Oct. 16, '06|
+              |                 |         |         |            |            |
+Earth and rock|Bottom heading   | 69+93   | 71+65   |Oct. 16, '06|Feb.  7, '07|
+              |                 |         |         |            |            |
+All rock      |Bottom heading   | 71+65   | 71+91   |Feb.  7, '07|Feb. 13, '07|
+              |                 |         |         |            |            |
+All rock      |Center heading   | 71+91   | 75+81   |Feb. 13, '07|July 20, '07|
+              |                 |         |         |            |            |
+Earth and rock|Going out of rock| 75+81   | 76+56   |July 20, '07|Aug. 25, '07|
+              |                 |         |         |            |            |
+All earth     |Soft ground      | 76+56   | 90+44.4 |Aug. 25, '07|Mar. 17, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+All rock      |  127 |  131.1 |  1.03  |                                      |
+              |      |        |        |                                      |
+Earth and rock|  114 |  172   |  1.51  |                                      |
+              |      |        |        |                                      |
+All rock      |    6 |   26   |  4.33  |                                      |
+              |      |        |        |                                      |
+All rock      |  157 |  390   |  2.48  |                                      |
+              |      |        |        |                                      |
+Earth and rock|   36 |   75   |  2.08  |                                      |
+              |      |        |        |                                      |
+All earth     |  205 |1,388.4 |  6.77  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE D, LONG ISLAND.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |     Station:      |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+Rock          |Bottom heading   | 68+50.6 | 69+77   |June  2, '06|Oct. 24, '06|
+              |                 |         |         |            |            |
+Earth and rock|Bottom heading   | 69+77   | 71+22   |Oct. 24, '06|Jan. 13, '06|
+              |                 |         |         |            |            |
+All rock      |Bottom heading   | 71+23   | 72+00   |Jan. 13, '07|Mar.  3, '07|
+              |                 |         |         |            |            |
+All rock      |Center heading   | 72+00   | 75+73   |Mar.  3, '07|July 10, '07|
+              |                 |         |         |            |            |
+Earth and rock|Going out of rock| 75+73   | 77+63   |July 10, '07|Sept 25, '07|
+              |                 |         |         |            |            |
+All earth     |Soft ground      | 77+63   | 90+38.6 |Sept 25, '07|Mar.  7. '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+Rock          |144   |  126.4 |  0.87  |                                      |
+              |      |        |        |                                      |
+Earth and rock| 81   |  145   |  1.79  |                                      |
+              |      |        |        |                                      |
+All rock      | 49   |   78   |  1.59  |                                      |
+              |      |        |        |                                      |
+All rock      |129   |  373   |  2.89  |                                      |
+              |      |        |        |                                      |
+Earth and rock| 77   |  190   |  2.47  |                                      |
+              |      |        |        |                                      |
+All earth     |164   |1,275.6 |  7.78  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE A, MANHATTAN.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |     Station:      |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+             {|Top heading      |108+43   |107+74   |July 20, '05|Aug.  3, '05|
+Rock         {|Top lift of bench|108+43   |107+74   |Aug.  8, '05|Aug. 23, '05|
+             {|Bottom lift of   |108+43   |107+74   |Aug. 30, '05|Sept 27, '05|
+             {|  bench          |         |         |            |            |
+              |                 |         |         |            |            |
+Rock         {|Bottom heading   |107+74   |107+21   |Sept 27, '05|Oct. 23, '05|
+             {|Bottom heading   |107+74   |107+21   |Nov. 30, '05|Dec. 29, '05|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   |107+21   |106+99   |Oct. 26, '06|Nov. 20, '06|
+              |                 |         |         |            |            |
+Mixed         |Rock bench       |106+99   |106+34   |Nov. 20, '06|Jan. 13, '07|
+              |                 |         |         |            |            |
+Earth         |Poling and       |106+34   | 99+11   |Jan. 13, '07|Apr. 17, '07|
+              |  breasting      |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 99+11   | 93+96   |Apr. 17, '07|Oct. 24, '07|
+              |                 |         |         |            |            |
+Rock          |Bottom heading   | 93+96   | 93+58   |Oct. 24, '07|Nov. 14, '07|
+              |                 |         |         |            |            |
+Rock          |Center heading   | 93+58   | 92+42   |Nov. 14, '07|Dec. 27, '07|
+              |                 |         |         |            |            |
+Rock          |Bottom heading   | 92+42   | 91+05   |Dec. 27, '07|Feb. 24, '08|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 91+05   | 90+57   |Feb. 24, '08|Mar. 20, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+             {| 14}  |        |       {|Excavation in normal air, and before  |
+Rock         {| 15}57|   69   |  1.21 {|advance of shield.                    |
+             {| 28}  |        |       {|                                      |
+             {|      |        |       {|                                      |
+              |      |        |        |                                      |
+Rock         {| 26}55|   53   |  0.96 {|Bottom heading timbered to avoid the  |
+             {| 29}  |        |       {|possibility of a break.               |
+              |      |        |        |                                      |
+Mixed         | 25   |   22   |  0.88  |Bottom heading timbered.              |
+              |      |        |        |                                      |
+Mixed         | 54   |   65   |  1.20  |                                      |
+              |      |        |        |                                      |
+Earth         | 94   |  723   |  7.69  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Mixed         |190   |  515   |  2.71  |                                      |
+              |      |        |        |                                      |
+Rock          | 21   |   38   |  1.81  |                                      |
+              |      |        |        |                                      |
+Rock          | 46   |  116   |  2.52  |                                      |
+              |      |        |        |                                      |
+Rock          | 59   |  137   |  2.32  |                                      |
+              |      |        |        |                                      |
+Mixed         | 25   |   48   |  1.92  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE B, MANHATTAN.
+--------------+-----------------+-------------------+-------------------------+
+              |                 |      Station:     |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+             {|Top heading      |108+35   |107+87   |July  6, '05|July 27, '05|
+             {|Top lift of bench|108+35   |107+87   |Aug.  3, '05|Aug. 14, '05|
+Rock         {|Bottom lift of   |         |         |            |            |
+             {|  bench          |108+35   |108+15   |Aug. 26, '05|Aug. 30, '05|
+             {|Bottom lift of   |         |         |            |            |
+             {|  bench          |108+15   |107+87   |Sept 11, '05|Sept 26, '05|
+              |                 |         |         |            |            |
+Rock          |Bottom heading   |107+87   |107+00   |Oct. 23, '05|Jan. 17, '06|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   |107+00   |106+64   |Jan. 17, '06|Feb. 12, '06|
+              |                 |         |         |            |            |
+Mixed         |Rock bench       |106+64   |106+31   |Feb. 12, '06|Mar.  1, '06|
+              |                 |         |         |            |            |
+Earth         |Poling and       |106+31   |105+58   |Mar.  1, '06|Apr.  3, '06|
+              |  breasting      |         |         |            |            |
+              |                 |         |         |            |            |
+              |Shutters in      |         |         |            |            |
+Earth         |  contact with   |105+58   | 99+19   |Apr.  9, '06|Nov.  1, '06|
+              |  face           |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Rock bench       | 99+19   | 98+44   |Nov.  1. '06|Dec. 29, '06|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   | 98+44   | 97+76   |Dec, 29, '06|Feb. 12, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 97+66   | 93+84   |Feb. 12, '07|Aug.  6, '07|
+              |                 |         |         |            |            |
+Rock          |Full face        | 93+84   | 93+21   |Aug.  6, '07|Sept  2, '07|
+              |                 |         |         |            |            |
+Rock          |Center Heading   | 93+21   | 92+30   |Sept  2, '07|Oct. 12, '07|
+              |                 |         |         |            |            |
+Rock          |Bottom heading   | 92+30   | 90+99   |Oct. 12, '07|Dec.  6, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 90+99   | 90+49.6 |Dec.  6, '07|Jan.  3, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+             {| 21}  |        |       {|                                      |
+             {| 11}  |        |       {|                                      |
+Rock         {|   }51|   48   |  0.94 {|Excavation done in normal air and     |
+             {|  4}  |        |       {|before advance of shield.             |
+             {|   }  |        |       {|                                      |
+             {| 15}  |        |       {|                                      |
+              |      |        |        |                                      |
+Rock          | 86   |   87   |  1.01  |                                      |
+              |      |        |        |                                      |
+Mixed         | 26   |   36   |  1.38  |                                      |
+              |      |        |        |                                      |
+Mixed         | 17   |   33   |  1.94  |                                      |
+              |      |        |        |                                      |
+Earth         |      |        |        |                                      |
+              | 33   |   73   |  2.21  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Earth         |206   |  639   |  3.10  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Mixed         | 58   |   75   |  1.30  |                                      |
+              |      |        |        |                                      |
+Mixed         | 45   |   68   |  1.51  |                                      |
+              |      |        |        |                                      |
+Mixed         |175   |  392   |  2.24  |                                      |
+              |      |        |        |                                      |
+Rock          | 27   |   63   |  2.33  |                                      |
+              |      |        |        |                                      |
+Rock          | 40   |   91   |  2.28  |                                      |
+              |      |        |        |                                      |
+Rock          | 55   |  131   |  2.38  |                                      |
+              |      |        |        |                                      |
+Mixed         | 28   |   49.4 |  1.76  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE C, MANHATTAN.
+
+--------------+-----------------+-------------------+-------------------------+
+              |                 |      Station:     |          Date:          |
+              |                 |---------+---------+------------+------------+
+              |                 |         |         |            |            |
+  Material.   |     Method.     |  From   |   To    |    From    |     To     |
+--------------+-----------------+---------+---------+------------+------------+
+             {|Top heading      |107+79.03|107+69   |Dec. 20, '04|Dec. 27, '04|
+             {|Top heading      |107+69   |107+23   |Jan.  1, '05|Jan. 15, '05|
+Rock         {|Excavating bench |107+79   |107+23   |Jan. 21, '05|Feb. 28, '05|
+             {|Bottom heading   |107+23   |106+72   |Mar.  1, '05|Mar. 11, '05|
+             {|Bottom heading   |107+23   |107+15   |Oct. 12, '05|Oct. 27, '05|
+             {|                 |         |         |            |            |
+              |                 |         |         |            |            |
+Rock          |Bottom heading   |107+15   |106+62   |Nov.  6, '05|Dec.  2, '05|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   |106+62   |106+55   |Dec.  2, '05|Dec. 23, '05|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   |106+55   |106+17   |Feb. 12, '06|Mar. 22, '06|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         |106+17   |105+85   |Apr.  2, '06|Apr. 20, '06|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         |105+85   |105+55   |July 27, '06|Aug. 26, '06|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Earth         |Breasting and    |105+55   | 99+40   |Aug. 26, '06|Jan.  2, '07|
+              |  poling         |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 99+40   | 98+70   |Jan.  2, '07|Feb.  6, '07|
+              |                 |         |         |            |            |
+Rock          |Full face        | 98+70   | 98+60   |Feb.  6, '07|Feb. 12, '07|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   | 98+60   | 98+39   |Feb. 12, '07|Mar.  6, '07|
+              |                 |         |         |            |            |
+Rock          |Bottom heading   | 98+39   | 98+17   |Mar.  6, '07|Mar. 15, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 98+17   | 95+68   |Mar. 15, '07|July 30, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 95+68   | 94+61   |July 30, '07|Aug. 21, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 94+61   | 93+56   |Aug. 21, '07|Oct.  3, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 93+56   | 92+73   |Oct.  3, '07|Nov. 11, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 92+73   | 90+55   |Nov. 11, '07|Feb. 13, '08|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 90+55   | 90+44.4 |Feb. 25, '08|Mar.  3, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+             {|  7}  |        |       {|Stopped to brace portal. No work done |
+             {| 14}  |        |       {|from March 12th to October 11th, 1905,|
+Rock         {| 38}  |   54   |  0.77 {|except a little trimming in September.|
+             {| 10}  |        |       {|All work up to this date done in      |
+             {| 15}  |        |       {|normal air. Heading advanced to 106+70|
+             {|   }  |        |       {|and bulkheaded.                       |
+              |      |        |        |                                      |
+Rock          | 26   |   53   |  2.04  |                                      |
+              |      |        |        |                                      |
+              |      |        |       {|Heading advanced to 106 + 40. Shut    |
+Mixed         | 21   |    7   |  0.33 {|down in order that Line D might have a|
+              |      |        |       {|lead.                                 |
+              |      |        |        |                                      |
+Mixed         | 38   |   38   |  1.00 {|Shut down on account of air shortage. |
+              |      |        |        |                                      |
+Mixed         | 18   |   32   |  1.78  |Shut down on account of air shortage. |
+              |      |        |        |                                      |
+Mixed         | 30   |   30   |  1.00  |Shut down April 20th to July 27th,    |
+              |      |        |        |1906.                                 |
+              |      |        |        |                                      |
+Earth         |127   |  615   |  4.84  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Mixed         | 35   |   70   |  2.00  |                                      |
+              |      |        |        |                                      |
+Rock          |  6   |   10   |  1.66  |                                      |
+              |      |        |        |                                      |
+Mixed         | 22   |   21   |  0.95  |                                      |
+              |      |        |        |                                      |
+Rock          |  9   |   22   |  2.44  |                                      |
+              |      |        |        |                                      |
+Mixed         |110   |  249   |  2.26  |Heading advanced to 97+82.            |
+              |      |        |        |                                      |
+Rock          | 49   |  107   |  2.18  |  "         "    "  94+35.            |
+              |      |        |        |                                      |
+Mixed         | 43   |  106   |  2.46  |                                      |
+              |      |        |        |                                      |
+Rock          | 39   |   83   |  2.13  |                                      |
+              |      |        |        |                                      |
+Mixed         | 94   |  218   |  2.32  |Shut down until Line D shields met.   |
+              |      |        |        |                                      |
+Mixed         |  6   |   11   |  1.83  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+
+LINE D, MANHATTAN.
+--------------+-----------------+---------+---------+------------+------------+
+             {|Top heading      |107+70.49|107+16   |Dec.  9, '04|Jan. 31, '05|}
+             {|Removing bench   |107+70.49|107+35   |Jan.  1, '05|Jan. 27, '05|}
+Rock         {|Bottom heading   |107+35   |106+80   |Jan. 30, '05|Feb. 10, '05|}
+             {|Trimming         |107+70   |106+80   |Mar. 29, '05|Apr. 12, '05|}
+             {|Trimming         |107+70   |106+80   |Aug. 31, '05|Sept 19, '05|}
+              |                 |         |         |            |            |
+Rock          |Bottom heading   |106+80   |106+67   |Oct.  5, '05|Nov.  8, '05|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   |106+67   |106+39   |Nov.  8, '05|Dec. 23, '05|
+              |                 |         |         |            |            |
+              |Sliding hood and |         |         |            |            |
+Mixed         |breasting. Rock  |106+29   |105+70   |Dec. 23, '05|Jan. 24, '06|
+              |bench            |         |         |            |            |
+              |                 |         |         |            |            |
+Earth         |Poling and       |105+70   |104+61   |Jan. 24, '06|Feb. 27, '06|
+              |breasting        |         |         |            |            |
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Earth         |Poling, breasting|104+61   |103+90   |Mar.  2, '06|Mar. 31, '06|
+              |  and shutters   |         |         |            |            |
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Earth         |Shutters         |103+90   | 99+41   |Apr. 20, '06|Sept  3, '06|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Bottom bench     | 99+41   | 99+17   |Sept  3, '06|Sept 23, '06|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   | 99+17   | 98+50   |Oct.  2, '06|Nov. 24, '06|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Rock          |Bottom heading   | 98+50   | 97+72   |Nov. 24, '06|Jan. 16, '07|
+              |                 |         |         |            |            |
+Mixed         |Bottom heading   | 97+72   | 97+27   |Jan. 16, '07|Feb. 10, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 97+27   | 95+72   |Feb. 10, '07|Apr. 23, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 95+72   | 95+57   |Apr. 23, '07|May  11, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 95+57   | 94+65   |May  23, '07|June 17, '07|
+              |                 |         |         |            |            |
+              |                 |         |         |            |            |
+Mixed         |Middle heading   | 94+65   | 94+41   |June 17, '07|June 25, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 94+41   | 94+03   |June 25, '07|July 13, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 94+03   | 92+64   |July 13, '07|Sept 12, '07|
+              |                 |         |         |            |            |
+Mixed         |Middle heading   | 92+64   | 92+54   |Sept 12, '07|Sept 20, '07|
+              |                 |         |         |            |            |
+Rock          |Middle heading   | 92+54   | 92+50   |Sept 20, '07|Sept 21, '07|
+              |                 |         |         |            |            |
+Mixed         |Rock cut         | 92+50   | 90+38.66|Sept 21, '07|Jan.  8, '08|
+--------------+-----------------+---------+---------+------------+------------+
+
+--------------+------+--------+--------+--------------------------------------+
+              |      |        |Rate of |                                      |
+              |Number|        |progress|                                      |
+              |  of  | Linear |in feet |                                      |
+  Material.   | days.| feet.  |per day.|          Remarks                     |
+--------------+------+--------+--------+--------------------------------------+
+             {|      |        |        |                                      |
+             {|      |        |        |                                      |
+Rock         {|123   |   90   |  0.73  |In normal air.                        |
+             {|      |        |        |                                      |
+             {|      |        |        |                                      |
+              |      |        |        |                                      |
+Rock          | 34   |   13   |  0.40  |Bottom heading timbered.              |
+              |      |        |        |                                      |
+Mixed         | 45   |   38   |  0.84  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Mixed         | 32   |   59   |  1.84  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+Earth         | 31   |  109   |  3.41  |                                      |
+              |      |        |        |                                      |
+              |      |        |        |                                      |
+              |      |        |        |Three days' delay to set shutters in  |
+Earth         | 29   |   71   |  2.45  |top.  Shut down 20 days to permit     |
+              |      |        |        |consolidation of the river bed and to |
+              |      |        |        |repair broken plates.                 |
+              |      |        |        |                                      |
+Earth         |136   |  449   |  3.40  |Four days of 136, delay account of    |
+              |      |        |        |flood.                                |
+              |      |        |        |                                      |
+Mixed         | 20   |   24   |  1.20  |                                      |
+              |      |        |        |                                      |
+Mixed         | 53   |   67   |  1.27  |Thirteen days' shut-down to put on    |
+              |      |        |        |hood.                                 |
+              |      |        |        |                                      |
+Rock          | 53   |   78   |  1.47  |                                      |
+              |      |        |        |                                      |
+Mixed         | 25   |   45   |  1.40  |                                      |
+              |      |        |        |                                      |
+Mixed         | 72   |   155  |  2.15  |                                      |
+              |      |        |        |                                      |
+Rock          | 18   |  15    |  0.83  |                                      |
+              |      |        |        |                                      |
+Rock          | 25   |  92    |  3.68  |Twelve days' delay to repair cutting  |
+              |      |        |        |edge.                                 |
+              |      |        |        |                                      |
+Mixed         |  8   |   24   |  3.00  |                                      |
+              |      |        |        |                                      |
+Mixed         | 18   |   38   |  2.11  |                                      |
+              |      |        |        |                                      |
+Rock          | 61   |  139   |  2.28  |                                      |
+              |      |        |        |                                      |
+Mixed         |  8   |   10   |  1.25  |                                      |
+              |      |        |        |                                      |
+Rock          |  1   |    4   |  4.00  |                                      |
+              |      |        |        |                                      |
+Mixed         |109   |  211.34|  1.94  |                                      |
+--------------+------+--------+--------+--------------------------------------+
+
+Openings were made between the headings as follows:
+
+Tunnel _D_, February 20th, 1908;
+Tunnel _B_, March      3d, 1908;
+Tunnel _C_, March     5th, 1908;
+Tunnel _A_, March    18th, 1908.
+
+It was necessary to cut away the projecting floors of the working
+compartments before the cutting edges could be shoved together.
+
+_Contractor's Organization._--Tunnel operations were carried on
+continuously for thirteen days out of fourteen, regular work being shut
+down for repairs on alternate Sundays. When the required pressure was
+more than 32 lb., four gangs of laborers were employed, each gang
+working two shifts of 3 hours each, with an intermission of 3 hours
+between the shifts. When the pressure was less than 32 lb., three gangs
+were employed, each gang covering 8 hours, but with an intermission of
+about 1/2 hour in low pressure for lunch.
+
+_Air Pressures Required._--During the greater portion of the work in
+soft ground, pressure was maintained which would about balance the
+hydrostatic head at the axis of the tunnel. This required a pressure
+varying from 30 to 34 lb. per sq. in. above that of the atmosphere. In
+Tunnels _B_ and _D_, at Manhattan, during the work in soft ground,
+pressures as high as 37 lb. were maintained for considerable periods of
+time; in the firm material near the reef 28 lb. was often sufficient.
+While removing the broken plates, the pressure was raised for a short
+time to 42 lb., and was maintained between 37-1/2 and 40 lb. for a
+little more than one month.
+
+_Air Supply._--For regular operation the contractor furnished four
+compressors on each side of the river, each having a rated capacity of
+5,000 cu. ft. of free air per minute delivered at 50 lb. above normal,
+when running at the rate of 100 rev. per min. An additional compressor
+of the same capacity was supplied on each side of the river, in
+compliance with the requirement for 25% excess capacity; the additional
+compressors had also high-pressure air cylinders which could be
+connected at will, and in which the pressure could be increased to 150
+lb., and the air used to supply rock drills, grouting machines, etc. The
+entire combination on each side of the river, therefore, was rated at
+25,000 cu. ft. of free air per minute, or a mean of 6,250 cu. ft. per
+heading. Its safe working capacity was not far from 20,000 cu. ft. per
+min.
+
+The shields broke through rock surface in Tunnels _B_, _C_, and _D_, at
+Manhattan, in November and December, 1905. The consumption of air in the
+four tunnels soon exceeded 15,000 cu. ft. for 24 hours, and in Tunnel
+_D_, on several occasions, it exceeded 7,000 cu. ft. for a like period.
+Blows had become frequent, and it was evident that the air plant was
+inadequate for driving four tunnels at once in the open material east of
+the Manhattan rock. Work in Tunnel _A_, therefore, was not resumed,
+after the suspension on December 29th, for about ten months, and Tunnel
+_C_ was also closed down for more than four months of the time between
+December, 1905, and July, 1906. During this period the capacity of the
+plant was increased from the rated 25,000 cu. ft. of free air per
+minute, to 35,000. In Tunnel _D_ the material had gradually become
+firmer, with more clay and less escape of air, as the Blackwell's Island
+Reef was approached, and, at the end of the period, the rock surface was
+within 3 ft. of the top of the shield; in Tunnel _B_, the rock of the
+reef was still a little below the shield, but the overlying material
+contained a large proportion of clay and held air very well. Tunnel _C_
+was still in open material, but, with two lines safe and with the
+increased air plant, it was deemed best to resume work in Tunnel _A_,
+which was done on October 23d, 1906. Thenceforward work was continuous
+in all headings until the meeting points with the Long Island shields
+were reached.
+
+This period, January to October, 1906, inclusive, was the most strenuous
+of the entire work, particularly the first six months. With one and, at
+times, two tunnels closed down, the consumption of air in the headings
+from Manhattan was an average of more than 20,000 cu. ft. per min. for
+periods of from 30 to 60 days; it was often more than 25,000 cu. ft. for
+24 hours, with a maximum of nearly 29,000 cu. ft., and doubtless this
+was exceeded considerably for shorter periods. On several occasions the
+quantity supplied to a single tunnel averaged more than 15,000 cu. ft.
+per min. for 24 hours. The greatest averages for 24 hours were obtained
+later in Tunnel _A_, after the resumption of work there, and exceeded
+19,000 cu. ft., but the conditions in the headings of the other lines
+were then so favorable that the work was carried on continuously in all.
+
+The deficiency in the original plant at Manhattan was so marked, and the
+need of driving all headings from Long Island simultaneously so clear,
+that it was decided to increase the rated capacity of the Long Island
+compressor plant to 45,400 cu. ft. of free air per minute, which was
+10,400 cu. ft. greater than the capacity of the Manhattan plant after
+the latter had been augmented.
+
+[Illustration: PLATE LXXII]
+
+The earth encountered on emerging from rock, when driving westward from
+Long Island, was far more compact and less permeable to air than on the
+Manhattan side, but for a distance of from 400 to 600 ft. immediately
+east of the reef, it was a clean open sand, and, while the shields were
+passing through this, the quantity of air supplied to the four headings
+seldom fell below 20,000 cu. ft. per min.; it was usually more than
+25,000 cu. ft., with a recorded maximum of 33,400 cu. ft. Although this
+was greater than ever used on the Manhattan side, it was more uniformly
+distributed among the several headings, and in none equalled the maximum
+observed on the Manhattan side, the largest having been 12,700 cu. ft.
+per min. for 24 hours; it must be remembered, however, that at one time
+only two tunnels were in progress in the bad material in the tunnels
+from Manhattan.
+
+From the foregoing experience, it would seem that the plant finally
+furnished at Long Island, having a rated capacity of 45,400 cu. ft. of
+free air per minute, would have been a reasonable compliance with the
+original actual needs on the Manhattan side and _vice versa_; the plant
+finally developed on the Manhattan side, having a rated capacity of
+35,000 cu. ft. of free air per minute, would have sufficed for the Long
+Island side.
+
+The total quantity of free air compressed for the supply of the working
+chambers of the tunnels and the Long Island caissons was 34,109,000,000
+cu. ft., and, in addition, 10,615,000,000 cu. ft. were compressed to
+between 80 and 125 lb. for power purposes, of which at least 80% was
+exhausted in the compressed-air working chambers. The total supply of
+free air to each heading while under pressure, therefore, averaged about
+3,550 cu. ft. per min.
+
+The quantity of air escaping during a sudden blow-out is apparently much
+smaller than might be supposed. Investigation of a number of cases,
+showing large pressure losses combined with a long stretch of tunnel
+supplying a relatively large reservoir of air, disclosed that a maximum
+loss of about 220,000 cu. ft. of free air occurred in 10 min. This
+averages only a little more than 19,000 cu. ft. per min., the maximum
+recorded supply to one tunnel for a period of 24 hours. Of this
+quantity, however, probably from 30 to 40% escaped in the first 45
+seconds, while the remainder was a more or less steady loss up to the
+time when the supply could be increased sufficiently to maintain the
+lowered pressure. Very few blows showed losses approaching this in
+quantity, but the inherent inaccuracy of the observations make the
+foregoing figures only roughly approximate.
+
+[Footnote C: _Minutes of Proceedings_, Inst. C. E., Vol. CXXX, p. 50.]
+
+
+SPECIAL DIFFICULTIES.
+
+The most serious difficulties of the work came near the start. In Tunnel
+_D_ blows and falls of sand from the face were frequent after soft
+ground was met in the top. About six weeks after entering the full sand
+face, and before the shutters had been installed, the shield showed a
+decided tendency to settle, carrying the tunnel lining down with it and
+resulting in a number of badly broken plates in the bottom of the rings.
+Notwithstanding the use of extremely high vertical leads,[D] the sand
+was so soft that the settlement of the shield continued for about
+fifteen rings, the maximum being nearly 9 in. below grade. The
+hydrostatic head at mid-height of the tunnel was 32-1/2 lb., and the
+raising of the air pressure to 37 lb., as was done at this time, was
+attended with grave danger of serious blows, on account of the recent
+disturbance of the natural cover by the pulling and re-driving of piles
+in the reconstruction of the Long Island ferry slips directly above. It
+dried the face materially, however, and the shield began to rise again,
+and had practically regained the grade when the anticipated blow-outs
+occurred, culminating with the entrance of rip-rap from the river bed
+into the shield and the flooding of the tunnel with 4 ft. of sand and
+water at the forward end. The escape of air was very great, and, as a
+pressure of more than 28 lb. could not be maintained, the face was
+bulkheaded and the tunnel was shut down for three weeks in order to
+permit the river bed to consolidate.
+
+This was the most serious difficulty encountered on any part of the
+work, and, coming at the very start, was exceedingly discouraging.
+During the shut-down the broken plates were reinforced temporarily with
+steel ribs and reinforced concrete (Fig. 1, Plate LXXIII) which, on
+completion of the work, were replaced by cast-steel segments, as
+described elsewhere. Practically, no further movement of iron took
+place, and the loss of grade caused by the settlement of the shield,
+which was by far the largest that ever occurred in this work, was not
+sufficient to require a change in the designed grade or alignment of the
+track. Work was resumed with the shutters in use at the face as an aid
+to excavation. The features of extreme seriousness did not recur, but
+for two months the escape of air continued to be extremely large, an
+average of 15,000 cu. ft. per min. being required on many days during
+this period.
+
+[Illustration: PLATE LXXIII, FIG. 1.--TEMPORARY REINFORCEMENT OF BROKEN
+PLATES AND REMOVAL OF A PLATE IN SECTIONS.]
+
+[Illustration: PLATE LXXIII, FIG. 2.--HEAVY CAST-STEEL PATCH ATTACHED TO
+BENT SEGMENT OF CUTTING EDGE.]
+
+[Illustration: PLATE LXXIII, FIG. 3.--INFLOW OF SOFT CLAY THROUGH
+SHIELD.]
+
+[Illustration: PLATE LXXIII, FIG. 4.--REINFORCEMENT OF BROKEN PLATE WITH
+LONG POLT AND TWISTED STEEL RODS.]
+
+In Tunnel _B_, after passing out from under the bulkhead line, in April,
+1906, the loss of air became very great, and blow-outs were of almost
+daily occurrence until the end of June. At the time of the blows the
+pressure in the tunnel would drop from 2 to 8 lb., and it generally took
+some hours to raise the pressure to what it was before the blow. During
+that time regular operations were interrupted. In the latter part of
+June a permit was obtained allowing the clay blanket to be increased in
+thickness up to a depth of water of 27 ft. at mean low tide. The
+additional blanket was deposited during the latter part of June and
+early in July, and almost entirely stopped the blows.
+
+By the end of the month the natural clay, previously described, formed
+the greater portion of the face, and, from that time forward, played an
+important part in reducing the quantity of air required. During April
+and the early part of May the work was under the ferry racks of the Long
+Island Railroad. The blanket had to be placed by dumping the clay from
+wheel-barrows through holes in the decking.
+
+In Tunnel _A_ a bottom heading had been driven 23 ft. in advance of the
+face at the time work was stopped at the end of 1905. During the ten
+months of inactivity the seams in the rock above opened. The rock
+surface was only from 2 to 4 ft. below the top of the cutting edge for a
+distance of about 60 ft. Over the rock there were large boulders
+embedded in sharp sand. It was an exceedingly difficult operation to
+remove the boulders and place the polings without starting a run. The
+open seams over the bottom heading also frequently caused trouble, as
+there were numerous slides of rock from the face which broke up the
+breasting and allowed the soft material from above to run into the
+shield. There were two runs of from 50 to 75 cu. yd. and many smaller
+ones.
+
+[Footnote D: The lead of the shield is the angular divergence of its
+axis from the axis of the tunnel and, in this tunnel, was measured as
+the offset in 23 ft. It was called + when the shield was pointed upward
+from grade, and - when pointed downward.]
+
+
+GUIDING THE SHIELDS.
+
+Little difficulty was experienced at any time in driving the shield
+close to the desired line, but it was much harder to keep it on grade.
+In rock section, where the cradle could be set far enough in advance to
+become hard before the shield was shoved over it, there was no trouble
+whatever. Where the cradle could be placed only a very short time before
+it had to take the weight of the shield, the case was quite different.
+The shield had a tendency to settle at the cutting edge, and when once
+pointed downward it was extremely difficult to change its direction. It
+was generally accomplished by embedding railroad rails or heavy oak
+plank in the cradle on solid foundation. This often had to be repeated
+several times before it was successful. In soft ground it was much
+easier to change the direction of the shield, but, owing to the varying
+nature of the material, it was sometimes impossible to determine in
+advance how the shield should be pointed. It was found by experience at
+Manhattan that the iron lining remained in the best position in relation
+to grade when the underside of the bottom of the shield at the rear end
+was driven on grade of the bottom of the iron, but if the rate of
+progress was slow, it was better to drive the shield a little higher.
+
+In the headings from Long Island, which, as a rule, were in soft ground,
+the cutting edges of the shields were kept from 4 to 8 in. higher, with
+respect to the grade line, than the rails. The shields would then
+usually move parallel to the grade line, though this was modified
+considerably by the way the mucking was done and by the stiffness of the
+ground at the bottom of the shield.
+
+On the average, the shields were shoved by from ten to twelve of the
+bottom jacks, with a pressure of about 4,000 lb. per sq. in. The jacks
+had 9-in. plungers, which made the average total force required to shove
+the shield 2,800,000 lb. In the soft ground, where shutters were used,
+all of the twenty-seven jacks were frequently used, and on several
+occasions the pressure exceeded 6,000 lb. per sq. in. With a unit
+pressure of 6,000 lb. per sq. in., the total pressure on the shield with
+all twenty-seven jacks in operation was 5,154 tons.
+
+
+INJURIES TO SHIELDS.
+
+There were only two instances of damage to the essential structural
+features of the shields. The most serious was in Tunnel _D_ where the
+cutting edge at the bottom of the shield was forced up a slightly
+sloping ledge of rock. A bow was formed in the steel casting which was
+markedly increased with the next few shoves. Work was suspended, and a
+heavy cast-steel patch, filling out the bow, was attached to the bent
+segments, as shown in Fig. 2, Plate LXXIII. No further trouble was
+experienced with the deformed portion. The other instance was in Tunnel
+_B_, from Long Island, where a somewhat similar but less serious
+accident occurred and was treated in a like manner.
+
+_Bulkheads._--At Manhattan, bulkheads had to be built near the shafts
+before the tunnels could be put under pressure. After 500 ft. of tunnel
+had been built on each line, the second bulkheads were constructed. The
+air pressure between the first and second bulkheads was then reduced to
+between 15 and 20 lb. When the shields had been advanced for 1,500 ft.,
+the third set of bulkheads was built. Nearly all the broken plates which
+were removed were located between the first and third bulkheads at
+Manhattan. Before undertaking this operation, the doors of the locks in
+the No. 3 bulkheads were reversed to take pressure from the west. By
+this means it was possible to carry on the work of dismantling the
+shields under comparatively low pressure simultaneously with the removal
+of the broken plates.
+
+At Long Island City the roofs of the caissons served the purpose of the
+No. 1 bulkheads. Two other sets of bulkheads were erected, the first
+about 500 ft. and the second about 1,500 ft. from the shafts.
+
+
+SETTLEMENT AT SURFACE OF GROUND.
+
+The driving of such portions of the river tunnels, with earth top, as
+were under the land section, caused a settlement at the surface varying
+usually from 3 to 6 in. The three-story brick building at No. 412 East
+34th Street required extensive repairs. This building stood over the
+section of part earth and part rock excavation where the tunnels broke
+out from the Manhattan ledge and where there were a number of runs of
+sand into the shield. In fact, the voids made by those runs eventually
+worked up to the surface and caused the pavement of the alley between
+the buildings to drop 4 or 5 ft. over a considerable area. The tunnels
+also passed directly under the ferry bridges and racks of the Long
+Island Railroad at East 34th Street. Tunnels _B_ and _D_ were constantly
+blowing at the time, and, where progress was slow, caused so much
+settlement that one of the racks had to be rebuilt. Tunnel _A_, on the
+other hand, where progress was rapid, caused practically no settlement
+in the racks.
+
+
+CLAY BLANKET.
+
+As previously mentioned, clay was dumped over the tunnels in varying
+depths at different times. A material was required which would pack
+into a compact mass and would not readily erode under the influence of
+the tidal currents of the river and the escape of the great volumes of
+air which often kept the water in the vicinity of the shields in violent
+motion. Suitable clay could not be found in the immediate vicinity of
+the work. Materials from Shooter's Island and from Haverstraw were tried
+for the purpose. The Government authorities did not approve of the
+former, and the greater portion of that used came from the latter point.
+Although a number of different permits governing the work were granted,
+there were three important ones. The first permit allowed a blanket
+which roughly followed the profile of the tunnels, with an average
+thickness of 10 ft. on the Manhattan side and somewhat less on the Long
+Island City side. The second general permit allowed the blanket to be
+built up to a plane 27 ft. below low water. This proved effective in
+checking the tendency to blow, but allowed considerable loss of air.
+Finally, dumping was allowed over limited and marked areas up to a plane
+of 20 ft. below low water. Wherever advantage was taken of this last
+authority, the excessive loss of air was almost entirely stopped. After
+all the shields had been well advanced out into the river, the blanket
+behind them was dredged up, and the clay used over again in advance of
+the shield.
+
+Soundings were taken daily over the shields, and, if marked erosion was
+found, clay was dumped into the hole. Whenever a serious blow occurred,
+a scowload of clay was dumped over it as soon as possible and without
+waiting to make soundings. For the latter purposes a considerable
+quantity of clay was placed in storage in the Pidgeon Street slip at
+Long Island City, and one or two bottom-dump scows were kept filled
+ready for emergencies. Mr. Robert Chalmers, who had charge of the
+soundings for the contractor, states that "the depressions in the
+blanket caused by erosion due to the escape of air were, as a rule,
+roughly circular in plan and of a curved section somewhat flat in the
+center." Satisfactory soundings were never obtained in the center of a
+violent blow, but the following instance illustrates in a measure what
+occurred. Over Tunnel _B_, at Station 102+80, there was normally 36 ft.
+of water, 7 ft. of clay blanket, and 20 ft. of natural cover. Air was
+escaping at the rate of about 10,000 cu. ft. per min., and small blows
+were occurring once or twice daily. On June 22d, soundings showed 54 ft.
+of water. A depth of 18 ft. of the river bottom had been eroded in about
+two days. On the next day there were taken out of the shield boulders
+which had almost certainly been deposited on the natural river bed. Clay
+from the blanket also came into the shields on a number of occasions
+during or after blows. The most notable occasion was in September, 1907,
+when the top of the shield in Tunnel _D_ was emerging from the east side
+of Blackwell's Island Reef. The sand in the top was very coarse and
+loose, and allowed the air to escape very freely. The fall of a piece of
+loose rock from under the breast precipitated a run of sand which was
+followed by clay from the blanket, which, in this locality, was largely
+the softer redredged material. Mucking out the shield was in progress
+when the soft clay started flowing again and forced its way back into
+the tunnel for a distance of 20 ft., as shown in Fig. 3, Plate LXXIII.
+Ten days of careful and arduous work were required to regain control of
+the face and complete the shove, on account of the heavy pressure of the
+plastic clay.
+
+The clay blanket was of the utmost importance to the work throughout,
+and it is difficult to see how the tunnels could have been driven
+through the soft material on the Manhattan side without it.
+
+The new material used in the blanket amounted to 283,412 cu. yd., of
+which 117,846 cu. yd. were removed from over the completed tunnels and
+redeposited in the blanket in advance of the shields. A total of 88,059
+cu. yd. of clay was dumped over blows. The total cost of placing and
+removing the blanket was $304,056.
+
+
+IRON LINING.
+
+The standard cast-iron tunnel lining was of the usual tube type, 23 ft.
+in outside diameter. The rings were 30 in. wide, and were composed of
+eleven segments and a key. The webs of the segments were 1-1/2 in. thick
+in the central portion, increasing to 2-3/8 in. at the roots of the
+flanges, which were 11 in. deep, 2-1/4 in. thick at the root, and 1-1/2
+in. at the edge, and were machined on all contact faces. Recesses were
+cast in the edge of the flanges, forming a groove, when the lining was
+in place, 1-1/2 in. deep and about 3/8 in. wide, to receive the
+caulking. The bolt holes were cored in the flanges, and the bosses
+facing the holes were not machined. The customary grout hole was tapped
+in the center of each plate for a standard 1-1/4-in. pipe. In this work,
+experience indicated that the standard pipe thread was too fine, and
+that the taper was objectionable. Each segment weighed, approximately,
+2,020 lb., and the key weighed 520 lb., the total weight being 9,102 lb.
+per lin. ft. of tunnel. Fig. 1 shows the details of the standard heavy
+lining.
+
+In addition to the standard cast-iron lining, cast-steel rings of the
+same dimensions were provided for use in a short stretch of the tunnel,
+when passing from a rock to a soft ground foundation, where it was
+anticipated that unequal settlement and consequent distortion and
+increase in stress might occur, but, aside from the small regular drop
+of the lining as it passed out of the tail of the shield, no such
+settlement was observed.
+
+Two classes of lighter iron, one with 1-in. web and 8-in. flanges and
+the other with 1-1/4-in. web and 9-in. flanges--the former weighing
+5,166 lb. per lin. ft. of tunnel and the latter, 6,776 lb.--were
+provided for use in the land sections between East Avenue and the Long
+Island City shafts. Two weights of extra heavy segments for use at the
+bottom of the rings were also furnished. The so-called _XX_ plates had
+webs and flanges 1/4 in. thicker than the standard segment and the _YY_
+plates were similarly 1/2 in. heavier. The conditions under which they
+were used will be referred to later. All the castings were of the same
+general type as shown by Fig. 1.
+
+Rings tapering 3/4 in. and 1-1/2 in. in width were used for changes in
+alignment and grade, the former being used approximately at every fourth
+ring on the 1° 30' curves. The 1-1/2-in. tapers were largely used for
+changes in grade where it was desired to free the iron from binding on
+the tail of the shield. Still wider tapers would have been advantageous
+for quick results in this respect.
+
+No lug was cast on the segments for attachment to the erector, but in
+its place the gadget shown on Fig. 4, Plate LXX, was inserted in one of
+the pairs of bolt holes near the center of the plate, and was held in
+position by the running nut at one end.
+
+In the beginning it was expected that the natural shape of the rings
+would not show more than 1 in. of shortening of the vertical diameter;
+this was slightly exceeded, however, the average distortion throughout
+the tunnels being 1-7/16 in. The erectors were attached to the shield
+and in such a position that they were in the plane of the center of the
+ring to be erected when the shove was made without lead and just far
+enough to permit placing the segments. If the shield were shoved too
+far, a rare occurrence, the erection was inconvenienced. In driving with
+high vertical leads, which occurred more frequently, the disadvantage
+of placing the erector on the shield was more apparent. Under such
+conditions the plane of the erector's motion was acutely inclined to the
+plane of the ring, and, after placing the lower portion of the ring, it
+was usually necessary to shove the shield a few inches farther in order
+to place the upper plates. The practical effect of this action is
+referred to later.
+
+[Illustration: FIG. 1.]
+
+At first the erection of the iron in the river tunnels interfered
+somewhat with the mucking operations, but the length of time required to
+complete the latter was ample for the completion of the former; and the
+starting of a shove was seldom postponed by reason of the non-completion
+of a ring. After the removal of the bottom of the diaphragms, permitting
+the muck cars to be run into the shield and beyond, the two operations
+were carried on simultaneously without serious interference. The
+installation of the belt conveyor for handling the soft ground spoil in
+Tunnel _A_ was of special benefit in this respect.
+
+Preparatory to the final bolt tightening of each ring as erected, a
+15-ton draw-jack, consisting of a small pulling-jack inserted in a light
+eye-bar chain, was placed on the horizontal diameter, and frequently the
+erectors were also used to boost the crown of the iron, the object being
+to erect the ring truly circular. Before shoving, a 1-1/4-in.
+turn-buckle was also placed on the horizontal diameter in order to
+prevent the spreading of the iron, previous to filling the void outside
+with grout. The approach of the supports for the upper floor of the
+trailing platform necessitated the removal of these turnbuckles from all
+but the three leading rings, but if the iron showed a tendency to
+continue distortion, they were re-inserted after the passage of the
+trailing platform and remained until the arch of the concrete lining was
+placed.
+
+The cost of handling and erecting the iron varied greatly at different
+times, averaging, for the river tunnels, $3.32 per ton for the directly
+chargeable labor of handling and erecting, to which must be added $7.54
+for "top charges." The cost of repairing broken plates is included in
+this figure.
+
+_Broken Plates._--During the construction of the river section of the
+tunnels, a number of segments were found to have been broken while
+shoving the shield. The breaks, which with few exceptions were confined
+to the three or four bottom plates, almost invariably occurred on the
+advanced face of the ring, and rarely extended beyond the bottom of the
+flange. A careful study of the breaks and of the shoving records
+disclosed several distinct types of fracture and three principal known
+causes of breakage by the shield.
+
+In the first case, the accidental intrusion of foreign material between
+the jack head and the iron caused the jack to take its bearings on the
+flange above its normal position opposite the web of the ring, and
+resulted usually in the breaking out of a piece of the flange or in
+several radiating cracks with or without a depression of the flange.
+These breaks were very characteristic, and the cause was readily
+recognizable, even though the intruding substance was not actually
+observed.
+
+In the second case, the working of a hard piece of metal, such as a
+small tool, into the annular space between the iron and the tail of the
+shield, where it was caught on the bead and dragged along as the shield
+advanced, was the known cause of a number of broken segments. Such
+breaks had no particular characteristic, but were usually close above
+the line of travel of the lost tool or metal. Their cause was determined
+by the finding of a heavy score on the underside of the segment or the
+discovery of the tool wedged in the tail of the shield or lying under
+the broken plate when it was removed. It is probable that a number of
+breaks ascribed to unknown causes should be placed in this class.
+
+The third cause includes the largest number of breaks, and, while
+difficult to define closely, is the most interesting. Broadly speaking,
+the breaks resulted from the movements of the shield in relation to the
+position of the tunnel lining. While shoving through soft ground, it was
+frequently difficult to apply sufficient power to the lower jacks to
+complete the full shove of 30 in. on the desired alignment. The shield,
+therefore, was driven upward at the beginning of the shove, and, as the
+sand packed in front of the shield and more power was required, it was
+furnished by applying the upper jacks. The top of the shield was slowly
+pushed over, and, at the close of the shove, the desired position had
+been obtained; but the shield had been given a rocking motion with a
+decided lifting of the tail toward the close of the shove. A similar
+lifting of the tail occurred when, with high vertical leads, the top of
+the shield was pushed over in order to place the upper plates of the
+ring. Again, when the shield was driven above grade and it was desired
+to descend, the passage of the shield over the summit produced a like
+effect. In all these movements, with the space between the tail of the
+shield and the iron packed tight with pugging, the upward thrust of the
+shield tended to flatten the iron in the bottom and occasional broken
+plates were the result. The free use of the taper rings, placed so as to
+relieve the binding of the lining on the tail of the shield, forces the
+tunnel to follow the variations in the grade of the shield, but reduces
+greatly the injuries to the rings from this action.
+
+In Tunnel _D_, where very high vertical leads were required through the
+soft sand, combined with a marked tendency of the shield to settle, the
+shield was badly cramped on the iron and dragged along it at the top.
+The bearing of the iron on its soft foundation tended to thrust up the
+bottom in this case also, as shown by the opening of the bottom
+cross-joints when the bolts were slackened to relieve the strain during
+a shove. The anticipated cracks in the crown plates, which have been
+more frequently observed in other tunnels, did not occur here, and were
+not found elsewhere except in one place in Tunnel _B_ where they were
+traced to a similar action of the shield. The cracks resulting from the
+movements of the shield, as briefly described above, in this third case
+were not confined to any particular type, but occurred more frequently
+at the extreme end of the circumferential flange than at any other
+point.
+
+The number of broken plates occurring in the river tunnels was 319, or
+0.42% of the total number erected. Of these, 52 were found and removed,
+either before or immediately after a shove, by far the greater number
+being broken in handling before or during erection. The remaining 267
+are considered below.
+
+_Repair of Broken Plates._--On the completion of a shove, the tail of
+the shield lacked about 5 in. of covering the full width of the last
+ring, and the removal of a plate broken during the shove, therefore,
+would have exposed the ground at the tail of the shield. With a firm
+material in the bottom, this introduced no particular difficulties, and,
+under such conditions, a broken plate was usually removed at once. In
+the sand, however, and especially on the Manhattan side where it was
+quick and flowing, the removal of a plate was attended with some danger,
+and such plates were usually left to be removed on the completion of the
+tunnel. Many of these had been reinforced by the use of _XX_, _YY_, and
+steel segments placed adjacent to the break in the following rings.
+
+After the meeting of the shields, the postponed replacement of the
+broken segments was taken up. The pressure was raised sufficiently to
+dry thoroughly the sand outside the segments, which were drilled and
+broken out usually in quarters as shown on Fig. 1, Plate LXXIII. A steel
+segment was then inserted in the ring and drawn into place by
+turnbuckles. The application of the draw-jack, with a pull of about 30
+tons to each end successively, brought the plate to a firm bearing on
+the radial joints at the ends.
+
+Where the broken plate was isolated and was reinforced by steel or extra
+heavy segments in the adjacent ring, the crack, if slight, was simply
+caulked to insure water-tightness. If, however, the crack was opened or
+extended to the web of the plate, the cross-flanges were tied together
+by a 1-1/2-in. by 7-ft. bolt, inserted through the bolt holes nearest
+the broken flange. The long bolt acted in the nature of a bow string,
+and was provided at its ends with two nuts set on opposite sides of the
+cross-joints to replace the standard bolts removed for its insertion.
+Fig. 4, Plate LXXIII shows one of these bolts in place. In addition, all
+broken plates remaining in the tunnel were reinforced with 1-in.
+twisted-steel rods in the concrete lining, also shown in Fig. 4, Plate
+LXXIII.
+
+_Special Construction at River Shield Junctions._--Dismantling the
+shields was started as soon as they came to rest in their final position
+with the cutting edges together. The plans contemplated their entire
+removal, with the exception of the cylindrical skins and cast-steel
+cutting edges. Inside the former the standard tunnel lining was erected
+to within 4 ft. of the heels of the cutting edges. Spanning the latter,
+and forming the continuous metal tunnel lining, the special construction
+shown by Fig. 2 was built. This consisted of a 1-1/4 in. rolled-steel
+ring, 7 ft. long, erected inside the cutting edges, with an annular
+clearance of 1 in., and two special cast-iron rings shaped to connect
+the rolled-steel ring with the normal lining. One flange of the special
+cast-iron rings was of the standard type, the other was returned 9 in.
+in the form of a ring, the inside diameter of which was the same as the
+outside diameter of the rolled-steel ring to which it was bolted.
+
+The space between the standard and special construction was of varying
+width at the various shields, and was filled with a closure ring cast to
+the lengths determined in the field. Fig. 2 shows the completed
+construction.
+
+Hook-bolts, screwed through threaded holes and buried in 1 to 1 Portland
+cement grout ejected through similar holes, reinforced the rolled-steel
+ring against external water pressure. In two of the tunnels the concrete
+lining was carried completely through the junction, and covered the
+whole construction, while in the remaining two tunnels it was omitted at
+the rolled-steel ring, leaving the latter exposed and set back about 3
+in. from the face of the concrete.
+
+[Illustration: FIG. 2.]
+
+
+GROUTING.
+
+Except as previously noted, the voids outside of the tunnel lining were
+filled with grout ejected through the grout holes in each segment. The
+possibility was always present that Portland cement, if used for grout
+in the shield-driven tunnels, would flow forward around the shield and
+set hard, "freezing" the shield to the rock or the iron lining, or at
+least forming excrescences upon it, which would render its control
+difficult. With this in mind, the contractors proposed to substitute an
+English Blue Lias lime as a grouting material. Grout of fresh English
+lime containing a moderate quantity of water set very rapidly in air to
+the consistency of chalk. Its hydraulic properties, however, were
+feeble, and in the presence of an excess of water it remained at the
+consistency of soft mud. It was not suitable, therefore, as a supporting
+material for the tunnel.
+
+An American lime, made in imitation of the Lias lime, but having greater
+hydraulic properties, was tried, but proved unsatisfactory. Two brands
+of natural cement were also tried and rejected, but a modified
+quick-setting natural cement, manufactured especially for this work, was
+eventually made satisfactory, and by far the largest part of the
+river-tunnel grouting was done with this material mixed 1 to 1 by
+volume. East of the Long Island shafts the work which was built without
+shields was grouted principally with Portland cement and sand mixed 1 to
+1 by volume.
+
+In the river tunnels large quantities of the English lime were used neat
+as grout over the top of the tunnel in attempts to stop losses of air
+through the soft ground. It was not of great efficiency, however, in
+this respect until the voids outside of the lining had been filled above
+the crown. Its properties of swelling and quick setting in the dry sand
+at that point then became of value. The use of dry lime in the face,
+where the escaping air would carry it into the voids of the sand and
+choke them, was much more promptly efficacious in checking the loss.
+
+With the exception of the English lime, all grout was mixed 1 to 1 with
+sand in a Cockburn continuous-stirring machine operated by a 3-cylinder
+air engine. The grout machine was placed on the lower floor of the
+trailing platform shown on Plate LXXII, while the materials were placed
+on the upper platform, and, together with the water, were fed into the
+machine through a hole in the upper floor. The sand was bagged in the
+yard, and the cars on which the materials were sent into the tunnels
+were lifted by an elevator to the level of the upper floor of the
+trailing platform before unloading.
+
+Great difficulty was experienced in preventing the waste of the fluid
+grout ahead of the shield and into the tail through the space between it
+and the iron lining. In a full soft ground section, the first condition
+did not usually arise. In the full-rock sections the most efficient
+method of checking the waste was found to be the construction of dams or
+bulkheads outside the lining between it and the rock surface. For this
+purpose, at intervals of about 30 ft., the leading ring and the upper
+half of the preceding one were disconnected and pulled forward
+sufficiently to give access to the exterior. A rough dam of rubble, or
+bags of mortar or clay, was then constructed outside the iron, and the
+rings were shoved back and connected up. In sections containing both
+rock and soft ground, grout dams were built at the cutting edge at
+intervals, and were carried up as high as circumstances permitted.
+
+The annular space at the tail of the shield was at all times supposed to
+be packed tight with clay and empty bags, but the pugging was difficult
+to maintain against the pressure of the grout. For a time, 1/2-in.
+segmental steel plates, slipped down between the jackets and the iron,
+were used to retain the pugging, but their displacement resulted in a
+number of broken flanges, and their use was abandoned. In their place,
+2-in. segmental plates attached to the jack heads were substituted with
+more satisfactory results. Notwithstanding these devices, the waste of
+grout at the tail was very great.
+
+The soft ground material on various portions of the work acted very
+differently. The clay and "bull's liver" did not cave in upon the iron
+lining for several hours after the shield had passed, sometimes not for
+a day or more, which permitted the space between it and the iron to be
+grouted. The fine gray or beach sand and the quicksand closed in almost
+at once. The quicksand has a tendency to fill in under the iron from the
+sides and in places to leave a cavity at about the horizontal diameter
+which was not filled from above, as the sand, being dried out by the
+air, stood up fairly well and did not cave against the iron, except
+where nearly horizontal at the top.
+
+The total quantity of grout used on the work was equivalent in set
+volume to 249,647 bbl. of 1 to 1 Portland cement grout, of which 233,647
+bbl. were ejected through the iron lining, an average of 14.93 bbl. per
+lin. ft. The cost of grout ejected outside of the river tunnels was 93
+cents per bbl. for labor and $2.77 for "top charges." East of the Long
+Island shaft the corresponding costs were $0.68 and $1.63, the
+difference being partly due to the large percentages of work done in the
+normal air at the latter place.
+
+
+CAULKING AND LEAKAGE.
+
+Up to August, 1907, the joints between the segments of the cast-iron
+lining were caulked with iron filings and sal ammoniac, mixed in the
+proportion of 400 to 1 by weight. With the air pressure balancing the
+hydrostatic head near the tunnel axis, it was difficult to make the
+rust-joint caulking tight below the axis against the opposing water
+pressure; this form of caulking was also injured in many places by
+water dripping from service pipes attached to the tunnel lining. A few
+trials of lead wire caulked cold gave such satisfactory results that it
+was adopted as a substitute. Pneumatic hammers were used successfully on
+the lead caulking, but were only used to a small extent on the rust
+borings, which were mostly hand caulked. Immediately before placing the
+concrete lining, all leaks, whether in the rust borings or lead, were
+repaired with lead, and the remainder of the groove was filled with 1 to
+1 Portland cement mortar, leaving the joints absolutely water-tight at
+that time. The subsequent development of small seepages through the
+concrete would seem to indicate that the repair work should have been
+carried on far enough in advance of the concreting to permit the
+detection of secondary leaks which might develop slowly. The average
+labor cost chargeable against the caulking was 12 cents per lin. ft., to
+which should be added 21.8 cents for "top charges."
+
+Unfortunately, it was necessary to place the greater part of the
+concrete lining in the river tunnels during the summer months when the
+temperature at the point of work frequently exceeded 85°; and the
+temperature of the concrete while setting was much higher. This abnormal
+heat, due to chemical action in the cement, soon passed away, and, with
+the approach of winter, the contraction of the concrete resulted in
+transverse cracks. By the middle of the winter these had developed quite
+uniformly at the ends of each 30-ft. section of concrete arch as placed,
+and frequently finer cracks showed at about the center of each 30-ft.
+section.
+
+While the temperature of the concrete was falling, a like change was
+taking place in the cast-iron lining, with resulting contraction. The
+lining had been erected in compressed air, the temperature of which
+averaged about 70° in winter and higher in summer. Compressed air having
+been taken off in the summer of 1908, the tunnels then acquired the
+lower temperature of the surrounding earth, slowly falling until
+mid-winter. The contraction of the concrete, firmly bedded around the
+flanges of the iron, and showing cracks at fairly uniform intervals,
+probably localized the small corresponding movements of the iron near
+the concrete cracks, and resulted in a loosening of the caulking at
+these points. With the advent of cold weather, damp spots appeared in
+numerous places on the concrete, and small seepages showed through quite
+regularly at the temperature cracks, in some cases developing
+sufficiently to be called leaks. Only a few, however, were measurable in
+amount.
+
+Early in January small brass plugs were firmly set on opposite sides of
+a large number of cracks, and caliper readings and air temperature
+observations were taken regularly throughout the winter and spring. The
+widths of the cracks and the amount of leakage at them increased with
+each drop in temperature and decreased as the temperature rose again,
+but until spring the width of the cracks did not return to the same
+point with each return of temperature.
+
+The leakage was similar in all four tunnels, but was largest in amount
+in Tunnel _D_, where, at the beginning of February, the ordinary flow
+was about 0.0097 cu. ft. per sec., equivalent to 0.00000347 cu. ft. per
+sec. per lin. ft. of tunnel. Of this amount 0.0065 cu. ft. per sec.
+could be accounted for at eight of the cracks showing measurable
+leakage, leaving 0.0032 cu. ft. per sec. or 0.00000081 cu. ft. per sec.
+per lin. ft. of tunnel to be accounted for as general seepage
+distributed over the whole length.
+
+It was not feasible to stop every leak in the tunnel, most of which were
+indicated simply by damp spots on the concrete; a rather simple method
+was devised, however, for stopping the leaks at the eight or ten places
+in each tunnel where water dripped from the arch or flowed down the face
+of the concrete. The worst leak in any tunnel flowed about 0.0023 cu.
+ft. per sec. To stop these leaks, rows of 1-in. holes, at about 4-in.
+centers, were drilled with jap drills through the concrete to the flange
+of the iron. These rows were from 3 to 18 ft. long, extending 1 ft. or
+more beyond the limits of the leak. The bottoms of the holes were
+directly on the caulking groove and the pounding of the drill usually
+drove the caulking back, so that the leak became dry or nearly so after
+the holes were drilled. If left alone the leaks would gradually break
+out again in a few hours or a few days and flow more water than before.
+They were allowed to do this, however, in only a few cases as
+experiments. After the holes were drilled, the bottom 4 in. next the
+flange was filled with soft neat cement mortar. Immediately on top of
+this was placed two plugs of neat cement about 2-1/2 in. long, which
+were 5 or 6 hours old and rather hard. Each was tamped in with a round
+caulking tool of the size of the hole driven with a sledge hammer. On
+top of this were driven in the same way two more plugs of neat cement of
+the same size, which were hard set. These broke up under the blows of
+the hammer, and caulked the hole tight. When finished, the tamping tool
+would ring as though it was in solid rock. Great pressure was exerted on
+the plastic mortar in the bottom of the hole, which resulted in the
+re-caulking of the joint of the iron. No further measurable leakage
+developed in the repaired cracks, during a period of four months, and
+the total leakage has been reduced to about 0.002 cu. ft. per sec. in
+each tunnel, an average of 0.00000051 cu. ft. per sec. per lin. ft.
+
+
+SUMP AND PUMP CHAMBERS.
+
+To take care of the drainage of the tunnels, a sump with a pump chamber
+above it was provided for each pair of tunnels. The sumps were really
+short tunnels underneath the main ones and extending approximately
+between the center lines of the latter. They were 10 ft. 9-1/2 in. in
+outside diameter and 44 ft. long. The water drops directly from the
+drains in the center lines of the tunnels into the sumps. Above the
+sumps and between the tunnels, a pump chamber 19 ft. 5 in. long was
+built. Above the end of the latter, opposite the sump, a cross-passage
+was constructed between the bench walls of the two tunnels. This passage
+gives access from either tunnel through an opening in the floor to the
+pump chamber and through the latter to the sump.
+
+From the preliminary borings it was thought that the sumps were located
+so that the entire construction would be in rock. This proved to be the
+case on Tunnels _C_ and _D_, but not on Tunnels _A_ and _B_. The
+position of the rock surface in the latter is shown by Fig. 3. After the
+excavation was completed in Tunnel _B_, January 1st, 1908, the plates
+were removed from the side of the tunnel at the cross-passage, and a
+drift was driven through the earth above the rock surface across to the
+lining of Tunnel _A_. The heading was timbered as shown by Fig. 3. There
+was practically no loss of air from the drift, but the clay blanket had
+been removed from over this locality and the situation caused some
+anxiety. In order to make the heading as secure as possible, the 24-in.
+I-beams, shown on Fig. 3, were attached to the lining of the two
+tunnels. The beams formed a support for the permanent concrete roof arch
+of the passage, which was placed at once. At the same time plates were
+removed from the bottom in Tunnel _B_ over the site of the sump, and a
+heading was started on the line of the sump toward Tunnel _A_. As soon
+as the heading had been driven beyond the center line of the pump
+chamber, a bottom heading was driven from a break-up westward in the
+pump chamber and a connection was made with the cross-passage. The iron
+lining of the pump chamber was next placed, from the cross-passage
+eastward. The soft ground was excavated directly in advance of the
+lining, and the ground was supported by polings in much the same manner
+as described for shield work. On account of bad ground and seams of sand
+encountered in the rock below the level of the cross-beams, the entire
+west wall of the pump chamber was placed before enlarging the sump to
+full size. This was also judicious, in order to support as far as
+possible the iron lining of the tunnels. The sump was then excavated to
+full size. The iron lining of the sump and the east wall of the pump
+chamber were placed as soon as possible. The voids outside the iron
+lining of the sump and the pump chamber were filled as completely as
+possible with concrete, and then thoroughly grouted. Finally, the
+concrete lining was put in place inside of the iron.
+
+As shown by Fig. 3, the excavation of these chambers left a considerable
+portion of the iron lining of the tunnels temporarily unsupported on the
+lower inner quarter. To guard against distortion, a system of diagonals
+and struts was placed as shown.
+
+The floor of the pump chamber was water-proofed with felt and pitch in a
+manner similar to that described for the caissons at Long Island City.
+It was not possible to make the felt stick to the vertical walls with
+soft pitch, which was the only kind that could be used in compressed
+air, and, therefore, the surfaces were water-proofed by a wall of
+asphalt brick laid in pitch melting at 60° Fahr. Forms were erected on
+the neat line, and the space to the rock was filled with concrete making
+a so-called sand-wall similar to that commonly used for water-proofing
+with felt and pitch. The bricks were then laid to a height of four or
+five courses. The joints were filled with pitch instead of mortar.
+Sheets of tin were then placed against the face of the wall and braced
+from the concrete forms. As much pitch as possible was then slushed
+between the brick and the sand-wall, after which the concrete in the
+main wall was filled up to the top of the water-proofing course. The tin
+was then withdrawn and the operation repeated. This method was slow and
+expensive, but gave good results. Ordinary pitch could not be used on
+account of the fumes, which are particularly objectionable in
+compressed air. The 60° pitch was slightly heated in the open air before
+using.
+
+[Illustration: FIG. 3.]
+
+The sump and pump chamber on Tunnels _C_ and _D_ differed from the one
+described only in minor details; but, being wholly constructed in rock,
+presented fewer difficulties and permitted a complete envelope of
+water-proofing to be placed in the top.
+
+
+CONCRETE LINING.
+
+The placing of concrete inside the iron tube was done by an organization
+entirely separate from the tunneling force. A mixing plant was placed in
+each of the five shafts. The stone and sand bins discharged directly
+into mixers below, which, in turn, discharged into steel side-dump
+concrete cars. All concrete was placed in normal air.
+
+The first step, after the iron lining was scraped clean and washed down
+and all leaks were stopped, was the placing of biats, marked _B_ on
+Plate LXXIV. These were made up of a 6 by 12-in. yellow pine timber, 17
+ft. long, with two short lengths of the same size spliced to its ends by
+pieces of 12-in. channels, 3 ft. 9 in. long, clamped upon the sides.
+These biats were placed every 5 ft. along the tunnel in rings having
+side keys. Next, a floor, 13 ft. wide, was laid on the biats and two
+tracks, of 30-in. gauge and 6-1/2-ft. centers, were laid upon the floor.
+There were three stages in the concreting. Fig. 2, Plate LXXIV, shows
+the concrete in place at the end of the first, and Fig. 3, Plate LXXIV,
+at the end of the second stage. The complete arch above the bench walls
+was done in the last operation.
+
+Two 3 by 10-in. soldiers (_SS_ in Figs. 1 and 2, Plate LXXIV) were
+fastened to each biat and braced across by two horizontal and two
+diagonal braces. To each pair of soldiers a floor template, _T_, was
+then nailed. The form for the center drain was then suspended as shown
+in Fig. 1, Plate LXXIV. Three pieces of shuttering, _FFF_, 20 ft. long,
+were then nailed to the bottom of the soldiers. One is all that would
+have been needed for the first concrete placed, but it was easier to
+place them at this stage than later, when there was less room. Three
+rough shutters were also nailed to the curved portion for the floor
+template. Opposite each biat, a bracket, _bb_, was then nailed, which
+carries a set of rough boards which formed the risers for the duct
+steps. Everything was then ready for concreting except that, where
+refuge niches occurred, a form for the portion of the niche below the
+seat was nailed to the shuttering. This form is shown at _R_ in Fig. 1,
+Plate LXXIV.
+
+[Illustration: PLATE LXXIV]
+
+The concrete was dumped down on each side from side-dump cars standing
+on the track, and, falling between the risers for the duct steps, ran or
+was shoveled under the forms and down into the bottom. The horizontal
+surface on each side the center drain was smoothed off with a shovel.
+The workmen became very skillful at this, and got a fairly smooth
+surface. This concrete was usually placed in lengths of 45 or 60 ft.
+After setting for about 24 hours, the brackets, _bb_, were removed,
+together with the shuttering on the steps. The triangular pieces, _t_ in
+Fig. 1, Plate LXXIV, were not removed until later. Instead, a board was
+laid upon this lower step on which the duct layers could work. This and
+the triangular piece were not removed until just before the bench
+concrete was placed. This was important, as otherwise the bond between
+the old and new concrete would be much impaired by dirt ground into the
+surface of the old concrete. The ducts were then laid, as shown in Fig.
+2, Plate LXXIV.
+
+The remaining shutters for the face of the bench walls were then placed.
+The remainder of the forms for the refuge niches, _RR_, in Fig. 1, Plate
+LXXIV, were nailed to the shutters, the steel beam over the niche was
+laid in place, the forms for the ladders, _L_ in Fig. 2, Plate LXXIV,
+which occur every 25 ft., were tacked to the shutters, the shutters and
+forms were given a coat of creosote oil, and then all was ready for
+placing the bench concrete.
+
+The specifications required a 2-in. mortar face to be placed on all
+exposed surfaces and the remainder to be smoothed with a trowel and
+straight-edge. After about 48 hours, the biats were blocked up on the
+bench, and all forms between the bench walls below the working floor
+were removed.
+
+The centering for the arch concrete consisted of simple 5 by 3-1/2 by
+5/16-in. steel-angle arch ribs, curved to the proper radius, spaced at
+5-ft. intervals. Each rib was made up of two pieces spliced together at
+the top. Two men easily handled one of these pieces. After splicing, the
+rib was supported by four hanger-bolts fastened to the iron lining as
+shown in Fig. 3, Plate LXXIV.
+
+In the early part of the work, two additional bolts were used about half
+way up on the side between the upper and lower hanger-bolts. It was soon
+found that by placing the strut between the tunnel lining and the crown
+of the rib, these hanger-bolts could be dispensed with. The lagging was
+of 3-in. dressed yellow pine, 12 in. wide, and in 15-ft. lengths. Each
+piece had three saw cuts on the back, from end to end, allowing it to be
+bent to the curve of the arch; it was kept curved by an iron strap
+screwed to the back. The arches were put in, either in 15, 30 or 45-ft.
+lengths, depending on what was ready for concrete and what could be done
+in one continuous working. The rule was that when an arch was begun, the
+work must not stop until it was finished. An arch length always ended in
+the middle of a ring. The lagging was placed to a height of about 6 ft.
+above the bench before any concreting was done. When the concrete had
+been brought up to that point, lagging was added, one piece at a time,
+just ahead of the concrete, up to the crown, where a space of about 18
+in. was left. When the lagging had reached the upper hanger-bolts, they
+were removed, which left only the two bottom bolts fixed in the
+concrete. Most of these were unscrewed from the eye and saved, as tin
+sleeves were placed around them before concreting. Two cast-iron eyes
+were lost for every 5 ft. of tunnel. To place the key concrete, a stage
+was set up in the middle of the floor, and, beginning at one end, about
+2 ft. of block lagging was placed. Over this, concrete was packed,
+filling the key as completely as possible. This was done partly by
+shoveling and using a short rammer, and partly by packing with the hands
+by the workmen, who wore rubber gloves for the purpose. Another 2 ft. of
+lagging was then placed, and the operation was repeated, and thus
+working backward, foot by foot, the key was completed. This is the usual
+way of keying a concrete arch, but in this case the difficulty was
+increased by the flanges of the iron lining. It was practically
+impossible to fill all parts of the pockets formed by these flanges. To
+meet this difficulty, provision was made for grouting any unfilled
+space. As the concrete was being put in, tin pipes were placed with
+their tops nearly touching the iron lining, and their bottoms resting on
+the lagging. Each pocket was intended to have two of these pipes, one to
+grout through and the other to act as a vent for the escape of air. Each
+center key ring had six pipes, and each side key had eight. The bottoms
+of the pipes were held by a single nail driven half way into the
+lagging. This served to keep the pipes in position and to locate them
+after the lagging was taken down.
+
+The cost of labor in the tunnels directly chargeable to concrete was
+$1.80 per cu. yd. The top charges, exclusive of the cost of materials
+(cement, sand, and stone), amounted to $3.92.
+
+
+ELECTRIC CONDUITS.
+
+In one bench wall of each tunnel there were fifteen openings for power
+cables and in the other, between the river shafts, there were forty
+openings for telephone, telegraph, and signal cables. East of the Long
+Island shaft, the number of the latter was reduced to twenty-four. The
+telephone ducts were all of the four-way type. The specifications
+required that the power ducts should have an opening of not less than
+3-1/2 in., nor more than 3-7/8 in., and that after laying they should
+pass a 4-ft. mandrel, 3-3/8 in. at the leading end and 2-5/8 in. at the
+other. The outside dimension was limited between 5 and 5-3/8 in. The
+openings of the four-way ducts were required to be not less than 3-3/8
+in., nor more than 3-5/8 in., and after laying to pass a 5-ft. mandrel,
+3-1/4 in. at the leading end and 2-1/2 in. at the other. The outside
+dimensions were limited between 9 and 9-1/2 in. All were to be laid in
+1/4-in. beds of mortar. The specifications were not definite as to the
+shape of the opening, but those used were square with corners rounded to
+a radius of 3/8 in. The four-ways were 3 ft. long, and the singles, 18
+in.
+
+A study of the foregoing dimensions will show that the working limits
+were narrow. Such narrow limits would not pay for the ordinary conduit
+line in a street, where there is more room. In the tunnel greater
+liberality meant either reducing the number of conduits or encroaching
+on the strength of the concrete tunnel lining. The small difference of
+only 1/8 in. in the size of the mandrel, or a clearance of only 1/16 in.
+on each side, no doubt did increase the cost of laying somewhat, though
+not as much as might at first be supposed. All bottom courses were laid
+to a string, in practically perfect line and grade, and all joints were
+tested with mandrels which were in all openings, and pulled forward as
+each piece of conduit was laid. As the workmen became skillful, the
+progress was excellent.
+
+All costs of labor in the tunnel chargeable to duct laying amounted to
+$0.039 per ft. of duct; top charges brought this up to $0.083.
+
+The serious problem was to guard against grout and mortar running into
+the duct opening through the joints from the concrete, which was a
+rather wet mixture. Each joint was wrapped, when laid, with canvas,
+weighing 10 oz. per sq. yd., dipped in cement grout immediately before
+using. These wraps were 6 in. wide, and were cut long enough to go
+around the lap about the middle of the duct. As soon as all the ducts
+were laid, the entire bank was plastered over with fairly stiff mortar,
+which, when properly done, closed all openings. The plastering was not
+required by the specifications, but was found by the contractor to
+result in a saving in ultimate cost.
+
+The concrete on the two sides of the bank of ducts was bonded together
+by 2 by 1/8-in. steel bonds between the ducts, laid across in horizontal
+joints. Both ends were split into two pieces, 1 in. long, one of which
+was turned up and the other down. These bonds projected 1-1/2 in. into
+the concrete on either side. Where the bond came opposite the risers of
+the duct step, against which the ducts were laid, recesses were provided
+for the projecting bond. This was done by nailing to the rough shutters
+for the steps a form which when removed left a dove-tailed vertical
+groove. This form was made in two pieces, one tapering inward and the
+other with more taper outward. As the bonds were placed, these grooves
+were filled with mortar.
+
+The ducts usually received their final rodding with the specification
+mandrel a month or more after they were laid, after which all openings
+into splicing chambers were stopped by wooden plugs, 8 in. long tapering
+from 3-3/4 in. at one end to 2-3/4 in. at the other end, and shaped to
+fit the opening tightly. At first the plugs were paraffined, to keep
+them from swelling and breaking the ducts, but were not successful, as
+the paraffin lubricated them so that they would not stay in place. They
+were expensive, and there was some swelling in the best that were
+obtained. A better plug was made by using no paraffin, but by making six
+saw cuts, three horizontal and three vertical, in the larger end,
+cutting to within about 2 in. of the smaller end. The swelling of the
+wood was then taken up by the saw cuts and the spring of the wood.
+
+The splicing chambers are at 400-ft. intervals. They are 6 ft. long, 4
+ft. 9 in. high, with a width varying from 3 ft. 2 in. at the top to 1
+ft. 2 in. at the bottom.

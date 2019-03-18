@@ -1,0 +1,1829 @@
+﻿Greek in a Nutshell,
+
+An Outline of
+
+GREEK GRAMMAR
+
+with
+
+BRIEF READING LESSONS;
+
+Designed for Beginners in the New Testament.
+
+BY
+
+JAMES STRONG, S.T.D.,
+Professor of Exegetical Theology in Drew Theological Seminary
+
+NEW YORK: EATON & MAINS
+CINCINNATI: JENNINGS & GRAHAM
+
+
+Entered according to Act of Congress, in the year 1876, by
+NELSON & PHILLIPS, In the Office of the Librarian of Congress
+at Washington.
+
+
+
+
+PREFACE.
+
+
+
+This little Manual was originally prepared for the NORMAL CLASS, at
+the request of the editor of that Journal, and was at the same time
+expected to form an instruction book at the Sunday-School Assembly
+annually held at Chautauqua. This accounts for its form in twelve
+series of two pages each.  The reading lessons, however, have been
+made sufficiently full for subsequent study. Of course the simplest
+elements only of the Greek language can be comprised in such narrow
+limits; nor can a full vocabulary or ready facility be acquired in so
+short a course. Nevertheless, a good beginning may be made, and that
+is "half the battle" in any enterprise. It is believed that a thorough
+mastery of this small volume will prove a conquest over all the real
+difficulties of the original tongue of the New Testament.
+
+J. S.
+
+
+
+
+LESSON I.
+
+
+
+READING
+
+
+§ 1. THE ALPHABET.
+
+Form.                 Name.            Sound.
+A  α                  Al'pha           _a_ in _man_, [_arm._[1]]
+Β  β                  Be'ta            _b_
+Γ  γ                  Gam'ma           _g_ in _go_, [_king._[2]]
+Δ  δ                  Del'ta           _d_
+Ε  ε                  Ep'silon         _e_ in _met_.
+Ζ  ζ                  Ze'ta            _dz_ in _adze_.
+Η  η                  E'ta             _e_ in _they_.
+Θ  ϑ or θ             The'ta           _th_ in _thin_.
+Ι  ι                  Io'ta            _i_ in _tin_, [_machine_[3]]
+Κ  κ or ϗ             Kap'pa           _k_
+Λ  λ                  Lamb'da          _l_
+Μ  μ                  Mu               _m_
+Ν  ν                  Nu               _n_
+Ξ  ξ                  Xi               _x_
+Ο  ο                  Om'icron         _ο_ in _not_.
+Π  π                  Pi               _p_
+Ρ  ρ                  Rho              _r_
+Σ  σ, final ς         Sig'ma           _s_ in _this_.
+Τ  τ                  Tau              _t_ in _it_.
+Υ  υ                  U'psilon         _u_ in _full_.
+Φ  φ                  Phi              _f_
+χ  χ                  Khi              _kh_ (German _ch_.)
+ψ  ψ                  Psi              _ps_
+Ω  ω                  O'mega           _ο_ in _no_.
+
+
+§ 2. Notes on the Alphabet.
+
+
+1. α sounds broad, like _a_ in _arm_, at the end of a word,
+and before ρ final or ρ followed by a different consonant.
+
+2. γ has the nasal sound, like _ng_ in _king_, before γ,
+κ, χ, or ξ.
+
+3. ι has its long sound, like _i_ in _machine_, at the end
+of a syllable.
+
+Every letter is sounded, and, with the above exceptions, invariably
+the same.
+
+
+
+2. ACCENT.
+
+
+§ 3. Each word, except a very few monosyllables, has one of the
+following accents written over a vowel in it, which marks the place of
+the spoken tone. A few small words, called _enclitics_, generally
+throw their accent, as an acute, on the last syllable of the preceding
+word.
+
+§ 4. The _acute_ ('), which is the foundation of all the
+accents, stands on one of the last three syllables. In verbs, with the
+exception of certain forms, it stands as far toward the beginning of
+the word as the rules below allow. In other parts of speech it stands
+on the same syllable as in the ground-form, (that given in the
+lexicon,) except as required by these rules. When the last syllable
+has a long vowel or diphthong it stands on the syllable before the
+last.
+
+§ 5. The _grave_ accent (`) is only written in place of the
+acute on the last syllable when not before a pause, or when
+unemphatic.  It is understood to belong to all other syllables.
+
+§ 6. The _circumflex_ (~) is placed on a syllable formed by
+the combination of two, the first of which had an acute and the second
+a grave; hence only on the last, or next to the last syllable, and
+only on a long vowel or a diphthong. When the last syllable has a
+short vowel, such a penult, if accented, takes the circumflex.
+
+
+
+3. BREATHINGS, VOWELS, DIPHTHONGS, ETC.
+
+
+§ 7. A vowel beginning a word takes either the _rough
+breathing_, (῾), which is pronounced like _h_, or else, to
+show the absence of that, _the smooth breathing_, (᾿), which
+has no appreciable sound. Initial ρ and υ always take the rough
+breathing; and double ρ in the middle of a word takes the smooth
+breathing on the first, and the rough on the second.
+
+§ 8. The vowels are short, (ε and ο,) long, (η and ω,) or
+doubtful, (α, ι, and υ,) which last, although naturally short, are
+sometimes lengthened by derivation.
+
+§ 9. The diphthongs are as follows:--
+
+   Proper.          With Iota Subscript.           Improper.
+αι sounds ay             ᾳ = α                   ηυ = η and υ
+ει    "    i             ῃ = η                   ωυ = ω and υ
+οι    "   oy             ῳ = ω
+υι    "   we
+αυ    "   ow
+ευ    "   yu
+ου    "   oo
+
+§ 10. In diphthongs the breathing and accent are written over the
+_second_ vowel. A capital (initial) letter in other cases takes
+them _before_ it.
+
+§ 11. The punctuation marks are the comma, (,), the semicolon, (·),
+the period, (.), and the interrogation point, (;).
+
+
+
+LESSON   II.
+
+EUPHONIC CHANGES.
+
+
+§ 12. When two _consonants_ come together the first is made
+homogeneous with the second, as follows:--
+
+§ 13. Mutes of a different class must have the same degree of
+hardness according to the following classification:--
+
+                         Smooth.      Middle.   Rough.    Sibilant (with _s_.)
+Kappa-mutes.               κ            γ         χ            ξ
+Pi-mutes                   π            β         φ            ψ
+Tau-mutes                  τ            δ         ϑ            ζ
+
+§ 14. A _smooth_ final mute is roughened before a vowel with the
+rough breathing. A rough mute is not doubled, nor can successive
+syllables begin with an aspirate. A tau-mute is sometimes dropped
+before σ, and always before κ; before a different tau-mute it is
+changed into σ.
+
+§ 15. Before μ a kappa-mute is changed into γ, a pi-mute into μ,
+and a tau-mute into σ.
+
+§ 16. ν before a kappa-mute becomes γ, before a pi-mute μ, before
+a liquid (λ, μ, ν, or ρ) it is changed into the same liquid,
+before σ or ζ it is dropped.
+
+§ 17. ν is appended to certain endings in σι or ε before a pause
+or a vowel.
+
+§ 18. There are several other less important rules, and some
+exceptions to most of the above.
+
+§ 19. A _long vowel_ or _diphthong_ is used as an
+equivalent for two (usually short) vowels in immediate succession, or
+as a compensation for the omission of a consonant, sometimes for both.
+
+§ 20. The changes in the union of two vowels are various, depending
+upon their comparative strength, position, and relation to the long
+vowels, or diphthongs respectively. They are readily learned by
+practice.
+
+§ 21. Compensation is not always thus made for the omission of a
+consonant. Sometimes the omission occurs too far back in the
+derivation to be easily traced.
+
+§ 22. A final vowel is sometimes elided before another vowel, and its
+place indicated by the apostrophe, (').
+
+§ 23. There are several _dialects_, which chiefly affect the
+vowels, (like provincial pronunciation;) but in later Greek (to which
+the New Testament belongs) they were merged in "the common dialect,"
+the Attic pre-dominating.
+
+
+NOUNS.
+
+Nouns are of three declensions, three genders, three numbers, and five
+cases, all indicated by changes of termination.
+
+§ 24. The declensions (numbered 1, 2, and 3) are only different modes
+of inflection.
+
+§ 25. Names and designations of males, nations, the months, rivers,
+and winds, are almost invariably _masculine_; those of females,
+countries, islands, cities, trees, and plants, are usually
+_feminine_; of the _neuter_ gender are most names of fruits
+and diminutives, and always the names of the letters, infinitives,
+clauses, indeclinable words, and words used as the symbol of a
+sound. In the third declension especially the (grammatical) gender in
+many instances is arbitrary.
+
+§ 26. The _singular_ and _plural_ are used as in
+English. The _dual_ denotes two or a pair; it is comparatively
+rare, and never occurs in the New Testament.
+
+§ 27. The _cases_ express the relations of words to each other
+in a sentence, as follows:--
+
+   Name.                   Use.                        Equivalent.
+Nominative.       Subject of a finite verb.        (Simple form.)
+Genitive.         Origin or ownership.             _From, of,_ etc.
+Dative.           Position or manner.              _In, by, for, to,_ etc.
+Accusative.       Direction or object.             _Toward, into,_ etc.
+Vocative.         Address.                         _O!_
+
+§ 28. The following are the terminations of the _First
+Declension_:--
+
+   Singular.                        Cases.                      Plural.
+  _Masc._      _Fem._                                     _Masc. and Fem._
+ας or ης      α  or η           Nominative.                       αι
+   ον         ας or ης          Genitive.                         ῶν
+         ᾳ  or η                Dative.                           αις
+         αν or ην               Accusative.                       ας
+         α  or η                Vocative.                         αι
+
+  _Dual._ Nom., Acc., Voc., α; Gen., Dat., αιν.
+
+§ 29. The α in the terminations of the singular is mostly used when
+ρ, ε,or ι precedes it; and in the Nom., Acc., and Voc. when λ or
+σ, and frequently when ν, precedes it. A few nouns have α in the
+Gen. sing.
+
+
+
+LESSON   III.
+
+NOUNS--Continued.
+
+§ 30. The following are the terminations of the _Second
+Declension_:--
+
+   Singular.                      Cases.                   Plural.
+  _Masc._     _Neut._                                     _Masc._     _Neut._
+     ος        ον                Nominative.                οι           α
+         ου                      Genitive.                        ων
+         ῳ                       Dative.                          οις
+         ον                      Accusative.                ους          α
+     ε         ον                Vocative.                  οι           α
+
+  _Dual._ Nom., Acc., Voc., ω; Gen., Dat., οιν.
+
+§ 31. The few fem. nouns of this declension take the
+masc. terminations. The Voc. masc. sing. is occasionally ος.
+
+§ 32. The following are the terminations of the _Third Declension_:--
+
+   Singular.                                      Cases.                   Plural.
+  _Masc. and Fem._         _Neut._                            _Masc. and Fem._         _Neut._
+ς (or long vowel         (naked stem.)        Nominative.             ες                 α
+before final letter.)
+                      ος                      Genitive.                          ων
+                      ι                       Dative.                            σι(ν)
+     ν or α              (naked stem.)        Accusative.             ας                 α
+(like Nom. or Neut.)     (naked stem.)        Vocative.               ες                 α
+
+  _Dual._ Nom., Acc., Voc., ε; Gen., Dat., οιν.
+
+§ 33. The Nom. sing. is so often changed by the euphonic rules that
+the stem of the noun is best seen in the Gen. Nouns in ις, υς, and
+ευς take the (Attic) Gen. εως, (ω regarded as _short_.)
+The α of the Acc. sing. is usually after a consonant. Many
+irregularities and some anomalies occur, which may generally be
+learned from the lexicon.
+
+
+ADJECTIVES.
+
+§ 34. These are _declined_ like nouns, having sometimes three
+sets of terminations for the respective genders, sometimes two, (masc.
+and fem. alike,) rarely but one, (all genders alike.) The masc. and
+neut. are always of the same declension, (second or third,) and the
+fem., when different, always of the first. _Participles_ are
+declined like adjectives.
+
+§ 35. Adjectives are _compared_ either by using an adverb
+expressive of degree, or, more regularly, by adding to the stem of the
+positive the syllables ότερος or ίων for the comparative, and
+ότατος or ιστος for the superlative. Some euphonic changes
+occur in making these additions, which then take the regular
+declensional endings.
+
+
+NUMERALS.
+
+§ 36. The _cardinal_ numbers are either simple, (the units,
+tens, and a few others,) or compound, (intermediate numbers.) Those
+from one to four inclusive, and the hundreds and thousands, are
+declined like adjectives. They may all be learned from the lexicon.
+
+§ 37. The _ordinals_ are mostly formed from the cardinals by
+adjective endings.
+
+
+PRONOUNS.
+
+§ 38. Of the _personal_ pronouns, those of the 1st and 2d
+persons only are specially noteworthy, being declined as nouns
+irregularly:--
+
+              _I_ or _Me_.  _We_ or _Us_.  _Thou_ or _Thee_.  _Ye_ or _You_.
+Nominative.      ἐγώ            ἡμεῖς             σύ              ὑμεῖς
+Genitive.       (ἐ)μοῦ          ἡμῶν              σοῦ             ὑμῶν
+Dative.         (ἐ)μοί          ἡμῖν              σοί             ὑμῖν
+Accusative.     (ἐ)μέ           ἡμᾶς              σέ              ὑμᾶς
+
+§ 39. The rest are declined as adjectives--masc. ος, fem, η,
+neut. ο; often compounded, one or both parts being declined; but,
+with the exception of τις, (interrogative τίς, indefinite
+τὶς,) neut. τι, Gen. τινος, of the third declension, the
+_article_ (definite only) and the _demonstrative_ alone are
+very peculiar in declension, as follows:--
+
+   Singular.                 The.                Plural.
+  _Masc.  Neut.  Fem._                     _Masc.  Neut.  Fem._
+   ὁ       τό    ἡ         Nominative.      οἱ     τά     αἱ
+       τοῦ       τῆς       Genitive.           τῶν    τῶν
+       τῷ        τῇ        Dative.             τοῖς   ταῖς
+   τόν     τό    τήν       Accusative.      -ούς    τά    τάς
+
+  _Dual._ Nom., Acc., Voc., τώ, τά; Gen., Dat., τοῖν, ταῖν.
+
+   Singular.              This, These.            Plural.
+_Masc.  Neut.  Fem._                        _Masc.   Neut.  Fem._
+οὗτος  τοῦτο  αὕτη        Nominative.        οὗτοι   ταῦτα  αὗται
+   τούτου     ταύτης      Genitive.             τούτων      τούτων
+   τούτῳ      -αύτῃ       Dative.               τούτοις     ταύταις
+τουτου τοῦτο  ταυτην      Accusative.        τούτους ταῦτα  ταύτας
+
+  _Dual._ Nom., Acc., Voc., τούτω, ταῦτα; Gen., Dat., τούτοιν, ταύταιν
+
+
+
+LESSON IV.
+
+VERBS.
+
+
+§ 40. There are three VOICES, _Active, Middle,_ and
+_Passive,_ generally distinguished by the _termination_.
+
+The Middle is properly _reflexive_. Some of its tenses have an
+_active_ meaning. A few verbs, called _deponent_, are
+throughout pass. in form, but act. or mid. in meaning.
+
+§ 41. There are five MOODS in each voice, the _Indicative,
+Imperative, Subjunctive, Optative,_ and _Infinitive_, to which
+may be added the _Participles_; they are mostly known by means of
+the _union-vowel_--that which immediately precedes the
+termination.
+
+§ 42. The Indic., Imper., Infin., and Participles correspond to the
+English, and have a _short_ union-vowel, (ε, ο, or α,) except
+the Perf. and Pluperf. pass., which have no union-vowel; the
+Pluperf. act. and mid., which have ει; and the Aorists pass., which
+have η or its equivalent.
+
+§ 43. The Imper. has but two persons. 2d and 3d. The Infin. has but
+one termination for all numbers and persons, and is very often used as
+a neut. noun, with the article, etc., yet retaining its construction
+as a verb.
+
+§ 44. The Subj. and Opt. are used in certain _dependent_
+relations, like the English subjunctive and potential; the former has
+a _long_ union-vowel, (η or ω,) and the latter a diphthong,
+(οι, αι, or ει.) The former generally represents an act as
+contingent upon outward circumstances, and the latter upon a will.
+
+§ 45. The TENSES are nine, the _Present, Imperfect, Perfect,
+Pluperfect,_ two _Aorists_, (1st and 2d, equivalent in sense,)
+and three _Futures_, (1st and 2d, equivalent to each other, and
+3d, very rarely used;) they are distinguished by certain letters
+prefixed, inserted, or added to the stem or root of the verb. They
+represent time as compared with the _present_, and never date
+from that of a preceding verb.
+
+§ 46. The Pres., Perf., Pluperf., and Fut. answer very nearly to the
+same tenses in English.
+
+§ 47. The Imperf. denotes an act as going on, but incomplete or
+habitual at some time past: "was doing," etc.
+
+§ 48. The Aorists indicate a single act at a definite time, (past in
+the Indic., but undetermined in the others moods.)
+
+§ 49. All the tenses with respect to form may be classed thus:--
+
+I. _Primary_, or Absolute.  Present. Perfect. Futures.
+
+II. _Secondary_, or Historical. Imperfect. Pluperfect. Aorists.
+
+These classes usually have the following endings respectively:--
+
+         Active Form.                Persons.           Middle and Passive.
+      I.              II.                                   I.       II.
+Pres. and Fut.   Perf.  Opt.          Sing.
+      ο           -   ν  μι            1st                 μαι       μην
+      ις              ς                2d                  σαι      (σ)ο
+      ι               -                3d                  ται       το
+                                      Plur.
+                     μεν               1st                     μεϑα
+                     τε                2d                      σϑε
+      (ντ) σι (ν)      (σα)ν           3d                  νται      ντο
+[2d, τον, 3d, την.   Dual. 1st, μεϑον, 2d, σϑον, 3d, σϑην.]
+
+_Notes on the Table of Verb Endings._
+
+§ 50. In the Pres. and Fut. the ο of the 1st sing. act. is
+contracted (with the union-vowel) into ω, and the σαι of the 2d
+sing. pass.  into ῃ or ει.
+
+§ 51. Signification limits the primary terminations to the Indic. and
+Subj., and the secondary to the Indic. and Opt.: likewise the
+Imperf. and Pluperf. to the Indic., and the Imper. to the Pres., the
+Aorists and (rarely) the Perf.
+
+§ 52. The _active_ terminations are assumed throughout by the
+Perf. and Pluperf. mid., and the Aorists pass.
+
+§ 53. The terminations of the Imper. are analogous to the secondary
+in the act., and in the mid. and pass. they are merely the same
+strengthened, thus: _Sing._ 2d,--[Aor. pass, ϑι, 1st
+Aor. act. (σ)ov] (pass. ο [1st Aor. mid. ι] or σο); 3d, τω
+(pass. σϑω,) _Plur._ 2d, τε (pass. σϑε); 3d, τωσαν
+[or contr. ντων] (pass, σϑωσαν. [_Dual._ 2d, τον
+(σϑον); 3d, των (σϑων,)]
+
+§ 54. The Infin. in the act. forms ends in εν, [contr., with
+union-vowel into ειν] (Pres., Fut., and 2d Aor.,) αι, (1st Aor.,)
+or ναι, (Perf. act. and mid. and both Aor. pass.;) elsewhere in
+σϑαι.
+
+§ 55. In the Participles the stem ends in ντ in the act. forms,
+(except the Perf. act. and mid., which have ότ;) the rest take
+μεν, (Perf. pass, μέν.) These latter are [masc. and neut.] of
+the second declension, the others of the third.
+
+§ 56. Verbs in μι insert σ before the final ι of the 3d
+pers. sing. Pres. Indic. act., and vary in a few other terminations,
+chiefly by contraction.
+
+
+
+LESSON  V.
+
+VERBS--Continued.
+
+
+§ 57. The root of every _primitive_ verb is a monosyllable,
+consisting of a short vowel (α, ε, ι, ο, or υ) between two
+(usually simple) consonants. Sometimes one or the other of the latter
+has been dropped far back in the etymology. This root is most readily
+found in the 1st Fut., subject only to euphonic changes. The 2d
+Aor. always has a monosyllabic root, with a single vowel never long;
+but this may be somewhat different from the true root. Primitive verbs
+only have a 2d Aor.
+
+§ 58. The Pres. and Imperf. commonly _strengthen_ the root,
+either by adding a hard consonant, (sometimes more than one,) or
+(oftener) by changing the root vowel into the corresponding long one
+or diphthong.
+
+§ 59. The following tenses add certain _characteristic_ letters
+to the root:--
+
+    1st Fut. and 1st Aor. act. and mid.,
+        (of verbs not liquid,) and 3d Fut.                   ο
+    1st Aor. pass.                                           ϑ
+    1st Fut. pass.                                           ϑησ
+    2d Fut. pass.                                            ηο
+    2d (in liquid verbs 1st) Fut. act. and mid.              ε
+    Perf. and Pluperf. Act. of pure and liquid verbs         κ
+    Perf. and pluperf. act. ending in a pi- or kappa-mute    (῾)
+
+§ 60. Tenses expressing _past time_ (Imperf. and Aorists Indic.)
+prefix ε ("syllabic _augment") to the root; this coalesces with
+an initial vowel ("temporal augment") into the corresponding long
+vowel or diphthong. The Perf., Pluperf., and 3d Fut. not only do the
+same throughout the moods, but also prefix to the _syllabic_
+augment the initial consonant of the root ("reduplication") when this
+is a simple consonant or a mute followed by a liquid. The
+Pluperf. prefixes a second syllabic augment to the reduplication.
+
+§ 61. Initial ρ, (which is doubled after the syllabic augment,)
+βλ, γλ, and γν, do not, except in a few cases, allow the
+reduplication.  Verbs compounded with a preposition generally take the
+augment, etc., between it and the primitive. A few other
+irregularities occur.
+
+§ 62. Verbs are classified in conjugation according to the radical
+letter following the root vowel, or diphthong, in the 1st pers. sing.
+Pres. Indic. act., lexicon form: in "liquid" verbs (not derivatives in
+άνω, which is merely strengthened for άω) this is a
+_liquid_; in "pure" verbs it is absent, so that the root appears
+to end in a vowel, etc. Very many verbs seem to be anomalous in some
+of their forms in consequence of deriving these from an obsolete
+kindred root. The lexicon gives most of these peculiarities.
+
+§ 63. _Liquid_ verbs almost always strengthen their root in the
+Pres. and Imperf.; they lengthen it in the 1st Aor. act. and mid. by
+changing the root vowel, if α into η, if ε into ει, while ι and
+ν merely become long. ε as a root vowel is generally changed into α
+in the 1st Aor. and 1st Fut. pass., the Perf. and Pluperf. act. and
+pass., and the 2d Aor. and 2d Fut. throughout, and again into ο in
+the Perf.  and Pluperf. mid.
+
+§ 64. The above strengthening in the Pres. and Imperf. consists in
+doubling λ, annexing ν to μ; or, in case of ν or ρ, in adding ι
+to a preceding α or ε, or lengthening ι or υ. The radical ν is
+often dropped in Perf. and Pluperf.
+
+§ 65. Verbs with ε followed by a pi- or kappa-mute in the root
+frequently neglect to strengthen it in the Pres. and Imperf.; and
+verbs with ε in the root preceded by a liquid, usually change it into
+α and ο in the same tenses as liquid verbs, except in the 1st
+Aor. and Fut.  pass.
+
+§ 66. _Pure_ verbs lengthen the root vowel before a tense
+characteristic, also in the Perf. and Pluperf. pass. A few
+occasionally neglect this, and some insert σ instead.
+
+§ 67. Verbs in μι (lexicon form instead of ω) are but another mode
+of conjugating pure verbs (being the only primitives of that class
+whose root ends in α, ε, or o) in the Pres., Imperf., and 2d Aor.;
+in all which tenses the union-vowel coalesces with the root vowel.
+They have a peculiar inflection, chiefly by reason of the Imperf. and
+2d Aor. act. taking throughout the terminations of the Aorists
+pass. The Pres. and Imperf. reduplicate with ι the initial consonant,
+(prefixing simply ί if that cannot be done, and sometimes adopting
+other modes of strengthening,) and in the act. they lengthen the root
+in the Indic., α or ε into η, ο into ω. The 2d Aor. (those in
+υμι being factitious have not this tense) has in the act. a long
+vowel or diphthong throughout, except the Imperative ε or o, and the
+Participle.
+
+
+_Notes on Certain Verbs in μι._
+
+§ 68. τίϑημι [_to put_] has, in the Act., 1st Aor. ἒϑηκα, Perf.
+τέϑεικα; ὀίὀωμι [_to give_] has, 1st Aor., ἒδωκα.
+
+§ 69. εἰμί [_to be_] is inflected thus: εὶ [_thou art_], ἐστί(ν)
+[_is_], ἐσμέν, ἐστί, εἰσί(ν) [_we, ye, they are_], ἱσϑι [_be thou_],
+ὤν [_being_], etc.; the rest mostly regular. See the lexicon
+for these, and for ἵημι [_to send_], and εἰμι [_to go_].
+
+§ 70. Several verbs annex σκω, ίνω, (ν)νυμι, etc., instead
+of μι, etc., in the Pres. and Imperf.
+
+
+
+LESSON VI.
+
+SYNTAX.--CONCORD.
+
+
+§ 71. All words placed under the same construction agree together in
+all the accidents which they possess in common.
+
+§ 72. "Apposition" occurs as in English.
+
+§ 73. Adjectives agree with their nouns in gender, number, and case.
+
+§ 74. The noun is often understood, especially if neut., ("things.")
+
+§ 75. Sometimes a relative is "attracted" into the case of the
+omitted antecedent.
+
+§ 76. A verb agrees with its subject nominative in number and person.
+
+§ 77. The case of the subject of the Infin. depends upon other
+relations.
+
+§ 78. Neuters plur. generally have a sing. verb.
+
+
+GOVERNMENT.
+
+§ 79. Any word may govern another (or others) which in sense is
+_dependent_ upon it in the case appropriate for expressing such
+relation either with or without a preposition.
+
+     |                >>>---|----->                |
+  Genitive.              Dative.              Accusative.
+
+§ 80. GENITIVE, denoting _origin_, answering to _Whence?_
+and expressed by _from_.
+
+§ 81. "_Local_," involving _external_ relations of space,
+either in a literal or a figurative sense. This includes actual
+_motion_ from an object, generally with a preposition, (ἀπό
+ἐκ παρά;) _separation_ from it, usually with verbs
+compounded with a preposition; and _commencement_.
+
+§ 82. "_Causal_," denoting a more _internal_ relation, as
+if the outgoing of some agency or property, as follows:--
+
+§ 83. _Active_, either direct, inferential, or
+metaphysical. This includes relations of source, (e.g., derivation,
+[commonly with ἐκ, sometimes ἀπό, direct authorship with
+ὐπό,] possession, property, [often with an Infin.])
+_partitive_ use, (e.g., a class, material, partial relations,)
+and the Gen. of time, (in the _course_ of which,) especially the
+"Gen. absolute," with a Participle, as affording occasion.
+
+§ 84. _Passive_, that is, indirect, the act being for the sake
+of the Gen. This includes verbs implying a _mental operation_,
+adjectives, and other words denoting _skill_, and the Gen. of
+_crime_ or _purpose_, (the last mostly an Infin. with the
+article.)
+
+§ 85. _Mutual_, e.g., _comparison_ and _price_ or _penalty_.
+
+§ 86. The "attributive Gen." is a comprehensive relation, arising
+under several of the above heads, between two nouns designating
+_different_ objects, which may be thus expressed: _When two
+nouns are connected with each other, that one which completes the idea
+of the other and defines it more fully is put in the Gen._
+
+§ 87. DATIVE, denoting _position_, answering to _Where?_
+and expressed by _at_.
+
+§ 88. "_Local_," involving the more palpable relations of
+position. This includes the place, (at, by, near, in the midst of;
+generally with ἐν, ἐπί, παρά, etc.,) _association,
+accompaniment,_ (frequently with σύν,) and the _time_ (as a
+date) or _circumstances_ of a transaction.
+
+§ 89. "_Causal_," denoting the object _upon which_ the act
+or state appears, thus conceived as sharing in producing it, as
+follows:--
+
+§ 90. _Personal_, either actually or so imagined. This includes
+words expressing a _correlative_ idea, as community, (in varied
+relations,) likeness, possession, agency, reference, etc.
+
+§ 91. _Instrumental_, as the mediate cause, e.g., the ground or
+reason, the means, the instrument, manner, and the measure of excess
+or deficiency.
+
+§ 92. In comprehensive phrase the "attributive Dat." expresses many
+indirect relations of an object _to_ or _for_ which an act
+is performed or a condition sustained.
+
+§ 93. ACCUSATIVE, denoting _direction_, answering to
+_Whither?_ and expressed by _toward_.
+
+§ 94. "_Local_" involving the boundary, place, or object of
+motion, especially with εἰς.
+
+§ 95. "_Causal_," involving an influence, change, or result, as
+impressed upon the object, as follows:--
+
+§ 96. The _effect_, either the thing effected, an attribute of
+the effect, or the effect intended.
+
+§ 97. The _object acted upon_, e.g., with directly transitive
+verbs, those expressing a good or bad influence, patience, swearing,
+sometimes a mental affection, etc.; also the _space_ or
+_way_ after a verb of motion; the time, (_throughout_
+which,) measure, and weight; and finally ("Attributive Accusative")
+with any verb or adj. (sometimes other words) to define its
+application more closely, especially if of kindred signification.
+
+
+ORDER OF WORDS IN A SENTENCE.
+
+§ 98. This is usually not, as in English, that of _grammatical_
+dependence, but rather the order of _thought_; important or
+emphatic words come first, after the connecting particles;
+prepositions and the article precede their nouns; and qualifying terms
+are grouped in a harmonious balance around the principal ones.
+
+
+
+LESSON VII.
+
+EXERCISE ON JOHN 1, 1-5.
+
+
+1 Ἐν1    ἀρχῇ2             ἦν3 ὁ4  Λόγος,5 καὶ6 ὁ4  Λόγος6 ἦν3
+  In    _the_    beginning was the Word,   and  the Word   was
+
+2 πρὸς7 τὸν8 θεόν,9 καὶ6 θεὸς10 ἦν3 ὁ4  Λόγος.5 Οὗτος11
+  with       God,   and  God    was the Word.   This   _one_
+
+3 ἦν3 ἐν1    ἀρχῇ2             πρὸς7 τὸν8 θεόν.9 Πάντα12           δι'13
+  was in    _the_    beginning with       God.   All   _things_    by
+
+  αὐτοῦ14 ἐγένετο,15 καὶ6 χωρὶς16 αὐτοῦ14 ἐγένετο15   οὐδὲ17
+  him     were made, and  without him     was made    not even
+
+4 ἓν18             ὃ19      γέγονεν.20     Ἐν1 αὐτῷ21  ζωὴ22  ἦν,3 καὶ6
+  one   _thing_    which    has been made. In  him     life   was, and
+
+5 ἡ23  ζωὴ22 ἦν3 τὸ24 φῶς25 τῶν26 ἀνϑρώπων·27 καὶ6 τὸ24
+  the  life  was the  light       of men;     and  the
+
+  φως25 ἐν1 τῇ28 σκοτίᾳ29 φαίνει,30 καὶ6 ἡ23 σκοτία31
+  light in  the  darkness shines,   and  the darkness
+
+  αὐτὸ32 οὐ33 κατέλαβεν.34
+  it     not  admitted.
+
+DIRECTIONS.--Spell the Greek, giving the _English_ equivalents of
+the consonants, (as in § 1,) and the exact _phonetic_ value or
+sound of the vowels. Call the rough breathing _h_. Be careful to
+put the spoken _accent_ where it is written. Continue this
+practice through all the passages given in the following lessons,
+until the words can be pronounced readily and accurately. Familiarize
+yourself with the forms of the letters by _writing_ them. Let the
+pupil do this while learning the foregoing grammatical lessons, and
+after the recitation of each of them let the teacher direct attention,
+while the passage at the head of the reading lessons is pronounced, to
+the examples illustrating each point, as they occur--by way of
+paradigm.
+
+
+PARSING NOTES ON THE ABOVE.
+
+1. Ἐν--prep. atonic, § 3; stands first, § 98.
+
+2. ἀρχῇ--noun, from nom. ἀρχή, 1st decl. fem., § 28;
+circumflex, § 6; local dat., § 88; emphatic position, § 98.
+
+3. ἦν--verb, irreg. in μι, § 69; 3d
+pers. sing. imperf. indic. act., § 47; ν appended irreg. as ending,
+§ 49; long vowel, § 67.
+
+4. ὁ--art., nom. masc. sing., § 39; agrees with its noun, § 73;
+following, § 98.
+
+5. Αόγος--noun, 2d decl. nom. sing. masc., § 30; subject of
+ἡν, § 76; balances clause, § 98.
+
+6. καί--conj., changed accent, § 5; position, § 98.
+
+7. πρός--prep., lit., _towards_; gov. acc., § 27; accent, § 5.
+
+8. τόν--art., acc. sing. masc., § 39; agreement, § 73.
+
+9. θεόν--noun, lit., [the] _deity_; 2d decl. masc., § 25;
+acc. sing., § 30; government, §94; position, § 98.
+
+10. θεός--same as 9; nom. agreeing with subj., § 71; without the
+art. because the predicate; emphatic position, § 98.
+
+11. Οὖτος--pron., § 39; agrees with Αόγος, understood (§
+73) as subj. of sentence; first as connective; accent, § 6; and
+breathing, § 10.
+
+12. Πάντα --adj. pron., from τάς, (stem, πάντ); 3d
+decl. nom. plur. neut., § 32; indef. without noun expressed, § 74;
+subject of sentence; emphatic position, § 98.
+
+13. δι'--prep, for δια, with final letter elided, § 22.
+
+14. αὐτοῦ--adj. pron. used as personal; gen. masc. sing., §
+30; causal, § 82. Gen. and dat. of 1st and 2d decl. are always
+circumflex when accented on last syllable.
+
+15. ἐγένετο--verb, _came to be_, lit., _was born_;
+from γίνομαι, (for γίγνομαι, strengthened [§ 63] by
+reduplication, [§ 67,] and then contracted for γιγεν;) depon.,
+§ 40; true root γεν, [our _kin_,] § 57, here appearing in 2d
+aor. mid., § 48; ἐ is simple aug., (hence the verb is in the
+indic., § 60;) third ε is mood-vowel, § 42; το is 3d
+pers. sing. mid., § 49; agreement with subj., § 78.
+
+16. χωρίς--prep., lit., _apart_; accent, § 5; case after,
+§ 81.
+
+17. οὐδέ--compound neg. particle, from οὐ and δε.
+
+18. ἓv--numeral adj., § 36; indef., § 74; 3d
+decl. nom. sing. neut., § 32; subj. of ἐγένετο.
+
+19. ὃ--relative adj., § 39; 2d decl. nom.  sing. neut., § 34;
+agreement, § 73; subj. of γέγονε.
+
+20. γέγονεν--verb, same as 15; root-vowel changed in
+perf. mid., § 63; γε is reduplication, § 60; last ε is mood-vowel
+of indic., § 42; no additional ending, § 44; hence 3d
+pers. sing. (perf.) act., § 52; final ν added before pause, § 17.
+
+21. αὐτῳ-- pron., same as 14; dat. sing. masc., § 30;
+government, as 2.
+
+22. ζωή --noun, 1st decl. fem. nom. sing., § 28; subject of verb
+following.
+
+23. ἡ--art., fem. nom. sing., § 39; agrees with ζωή, § 73;
+atonic, § 3.
+
+24. τό--art., neut. nom. sing., § 39; agrees with φῶς.
+
+25. φῶς--noun, 3d. decl. nom. sing. neut., (stem φῶτ for
+φάοτ); ς here added (as some neut.  nouns have) and τ dropped,
+§ 14; predicate nom., § 71.
+
+26. τῶν--art., gen. plur. masc., § 39; agreement, § 73.
+
+27. ἀνϑρώπων--noun, from ἄν. ϑρωπος; 2d
+decl. gen. plur. masc., § 32; government, § 86; accent, § 4.
+
+28. τῇ--art., dat. sing. fem., § 39; agreement, § 73.
+
+29. σκοτία--noun from σκοτία; 1st decl. dat. sing. fem.,
+§ 29; final α, § 29; ι subscript, § 9; government, § 88.
+
+30. φαίνει--verb, from φαίνω; root, φαν, strengthened,
+§ 64; ε is mood-vowel of indic., § 42; final ι is tense-ending of
+pres. 3d sing. act., § 49; agrees with φῶς, § 76.
+
+31. σκοτία--noun, as 29; nom. sing., subj. of clause.
+
+32. αὐτό--pron., as 21; acc. neut. sing., § 39; object of
+κατέλαβε, § 97.
+
+33. οὐ-- simple neg. adv.; atonic, § 3.
+
+34. κατέλαβεν--verb, from καταλαμβάνω; comp. of
+κατά, _down_, and λαμβάνω, _I receive_; the root
+of the simple verb is λαβ, here appearing in the 2d Aor., § 57;
+aug., § 60, excluding final α of prep., § 61; last ε likewise
+shows indic., § 42; no tense-ending in 3d pers. sing. act. secondary,
+§ 49 ν appended. § 17. The tense expresses the act of the Jews in
+rejecting Christ.
+
+
+
+LESSON  VIII.
+
+EXERCISE ON JOHN 1, 6-11.
+
+
+ 6 Ἐγένετο1  ἄνϑρωπος2 ἀπεσταλμένος3 παρὰ4 θεοῦ,5 ὄνομα6
+     _There_    was a man   sent          from  God,     _the_    name
+
+ 7 αὐτῷ7       Ἰωάννης8  οὗτος9      ἠλϑεν10 εἰς11 μαρτυρίαν,12 ἵνα13
+   to him was     _John:_     this   _one_    came    for   testimony    that
+
+   μαρτυρήσῃ14           περὶ15    τοῦ16 Φωτός,17 ἵνα13 πάντες18
+     _he_    might testify concerning the   Light,   that  all      might
+
+ 8 πιστεύσωσι19 δι'20   αὐτοῦ.21 Οὐκ22 ἦν23 ἐκεῖνος24       τὸ25 Φῶς,26
+   believe      through him.     Not   was  that   _one_    the  Light,
+
+ 9 ἀλλ'27 ἵνα13          μαρτυρήσῃ14   περὶ15     τοῦ16 Φωτός.17 Ἠν23
+   but    that   _he_    might testify concerning the   Light.     _There_    was
+
+   τὸ25 Φῶς26 τὸ25 ἀληϑινόν,28      ὃ29   φωτίζει30 πάντα31 ἄνϑρωπον,32
+   the  Light the  true   _one_,    which lights    every   man,
+
+10 ἐρχόμενον33 εἰς11 τὸν34 κόσμον.35 Ἐν36 τῷ37 κόσμῳ38 ἦv,23
+   coming      into  the   world.    In   the  world     _he_    was,
+
+   καὶ39 ὁ40 κόσμος41 δι'20   αὐτοῦ21 ἐγένετο,1 καὶ39 ὁ40 κόσμος41
+   and   the world    through him     was made, and   the world
+
+11 αὐτὸν42 οὐκ22 ἔγνω.43 Εἰς11 τὰ44 ἴδια45               ἧλϑε,10 καὶ39 οἱ46
+   him     not   knew.   To    the  own   _things he_    came,   and   the
+
+   ἴδιοι47            αὐτὸν42 οὐ22 παρέλαβαν.48
+   own   _persons_    him     not  received.
+
+
+1. Ἐγένετο--See lesson vii, No. 15.
+
+2. ἄνϑρωπος--See vii, 27; subj. of sentence.
+
+3. ἀπεσταλμένος--part. from ἀποστέλλω, lit., _I send away_;
+comp. of prep, ἀπό, _off_, and στέλλω, _I send_; root στελ,
+vowel changed, § 63; aug. cuts off final ο of prep., § 61;
+no reduplication, § 60; perf. tense because aug. beyond
+indic., § 60; and no union-vowel, § 42; pass. part. ending
+μεν, (§ 55,) accent; ος is nom. masc. sing., §§ 34, 30;
+agrees with ἄνϑρωπος, § 73.
+
+4. παρά--prep., lit., _near_; with gen., =_from near_.
+
+5. θεοῦ--See vii, 9, 10; here gen., § 81.
+
+6. ὄνομα--noun; neut, 3d decl. nom. sing.; (stem, ονοματ, final
+mute always dropped for euphony;) subj. to _was_ understood,
+(copula may freely be supplied.)
+
+7. αὐτῷ--pers. adj. pron.; dat. sing. masc. from αὐτός,
+vii, 14; governed, § 92.
+
+8. Ἰωάννης--prop. noun; 1st decl. masc. nom. sing., § 28;
+predicate after neut. verb, (understood,) agreeing with subj., § 71.
+
+9. οὗτος--See vii, 11.
+
+10. ἠλϑεν--verb, assigned to ἔρχομαι, but really from
+defective ἐλεύϑω; root, ελϑ; temporal aug., [ε+ε=η,] § 60;
+hence indic., as union-vowel (ε) following also shows, § 42; simple
+root 2d aor., § 57; hence no tense ending in 3d pers. sing. act., §
+49; ν appended, § 17; accent, § 6.
+
+11. εἰς--prep., lit., _to_, that is, here, _for the purpose
+of_; atonic, § 3.
+
+12. μαρτυρίαν--noun; 1st decl. fem. acc. sing., from ία, §
+28; governed, § 96.
+
+13. ἵνα--conj., meaning, _in order that_; introducing
+dependent clause.
+
+14. μαρτυρήσῃ--verb, from μαρτυρέω; first η is
+root-vowel, lengthened before tense-sign, (§ 66,) which is σ of 1st
+fut., § 59; ῃ is union-vowel of subj., (§ 44,) the subscribed ι
+being 3d pers. sing. act., § 49; accent, § 4.
+
+15. περῖ--prep., lit., _around_; governs gen., § 82.
+
+16. τοῦ--art.; gen. sing. neut., § 39.
+
+17. Φωτός--noun, see vii, 25. Gen. (sing.) and dat. (sing. and
+plur.) of monosyllables of 3d decl. accent the ultimate.
+
+18. πάντες--See vii, 12; nom. masc. plur., _men_ being
+understood, § 74; subj. of clause.
+
+19. πιστεύσωσι--verb, from πιστεύω; second σ is sign
+of 1st fut., § 59; ω sign of subj., § 44; σι 3d plur. act., § 49.
+
+20. δἰ--See vii, 13.
+
+21. αὐτοῦ--See vii, 14.
+
+22. Οὐκ--neg. adv., same as οὐ, (vii, 83,) with euphonic κ
+before a vowel.
+
+23. ἦν--See vii, 3.
+
+24. ἐκεῖνος--demonst, adj. pron., § 39; =_he_,
+nom. masc. sing., subj. of sentence, § 27; accent, § 6.
+
+25. τὸ--See vii, 24.
+
+26. Φῶς--See vii, 25.
+
+27. ἀλλ'--conj. for ἀλλά, final vowel elided, § 22.
+
+28. ἀληϑινόν--adj., from ἀληϑινός; neut. 2d decl.,
+§ 34; nom.  sing., § 30; agreeing with Φῶς, § 73.
+
+29. ὃ--See vii, 19.
+
+30. φωτίζει--verb, from φωτίζω; strengthened root, § 58;
+ε union vowel of indic., § 42; final ι 3d sing. (pres.) act., §
+49.
+
+31. πάντα--indef. adj., see No. 18; acc. sing. masc. agreeing
+with ἄνϑρωπον, § 73.
+
+32. ἄνϑρωπον--noun, see No. 2; acc. sing., § 30; governed,
+§ 97.
+
+33. ἐρχόμενον--part. from ἔρχομαι, see No. 10;
+deponent, § 40; pres.  pass., § 55; sing., § 30; either acc. masc.,
+(and then agreeing with ἄνϑρωπον,) or, as is better, (see
+John iii, 19,) nom. neut., (and then agreeing with φῶς.)
+
+34. τόν--See vii, 8.
+
+35. κόσμον--noun, from κόσμος; acc. sing. 2d decl., § 30;
+governed, § 94.
+
+36. ἐν--See vii, 1.
+
+37. τῷ--art., dat. sing. masc., § 39; agrees with κοσμῳ, § 73.
+
+38. κόσμῳ--noun, see No. 35; dat. sing., § 8.
+
+39. καί--See vii, 6.
+
+40. ὁ--See vii, 4.
+
+41. κόσμος--noun, see No. 35; subj., § 27.
+
+42. αὐτὸν--pron., see No. 7; acc. sing. masc., § 97.
+
+43. ἔγνω--verb, from γιγνώσκω, (strengthened [§ 70] from
+root γνω, [§ 67,] =our _know_); 2d aor., § 57; ε is augment
+of indic., § 60; ω is root and union-vowel, § 67; no other ending,
+hence 3d sing. act., § 49.
+
+44. τὰ--art., plur. neut. acc., § 39.
+
+45. ἴδια--adj., fr. ἴδιος; plur. neut. acc., § 30;
+agreement, § 74; meaning _home_ here, (lit., _the own_
+things of him;) government, § 44.
+
+46. οἱ--art., nom. plur. masc., § 39.
+
+47. ἴδιοι--adj., see No. 45; nom. plur. masc., § 30; meaning
+_family_ here, § 74; subj., § 27.
+
+48. παρέλαβον--verb from παραλαμβάνω, compounded
+with παρά, _near_, (see No. 4,) as in vii, 34; 2d aor., §
+57; indic., § 42; 3d plur., § 49.
+
+
+
+LESSON IX.
+
+EXERCISE ON JOHN 1, 12-18.
+
+
+12 Ὁσοι1    δὲ2      ἔλαβον3  αὐτόν,4 ἔδωκεν5 αὐτοῖς6 ἐξσυσίαν7
+   Whoever, however, received him,    he gave to them privilege
+
+   τέκνα8      θεοῦ9 γενέσϑαι,10 τοῖς11             πιστεύουσιν12 εἰς13 τὸ14
+   children of God   to become,  to the   _ones_    believing     to    the
+
+13 ὄνομα15 αὐτοῦ·16 οἳ17 οὐκ18 ἐξ19 αἱμάτων,20 οὐδὲ21 ἐκ
+   name    of him;  who  not   out  of bloods, nor    out of
+
+   ϑελήματος22 σαρκός,23 οὐδὲ ἐκ  ϑελήματος22 ἀνδρός,24 ἀλλ'25 ἐκ
+   will        of flesh, nor  out of will     of man,   but    out
+
+14 θεοῦ   ἐγεννήϑησαν.26 Καὶ ὁ   Λόγος27 σὰρξ28 ἐγένετο,29 καὶ
+   of God were born.     And the Word    flesh  became,    and
+
+   ἐσκήνωσεν30 ἐν31  ἡμῖν,32 (καὶ ἐϑεασάμεϑα33 τὴν δόξαν34
+   tented      among us,      and we beheld    the glory   of
+
+   αὐτοῦ, δόξαν ὡς35 μονογενοῦς36           παρά37    Πατρός,38)        πλήρης39
+   him,   glory as   of   _an_    only-born near from   _a_    Father,) full
+
+15 χάριτος40 καὶ ἀληϑείας.41 Ἰωάννης42 μαρτυρεῖ43 περὶ44
+   of grace  and truth.      John      testifies  about
+
+   αὐτοῦ, καὶ κέκραγε45  λέγων·46 Οὗτος47 ἦν48          ὃν49  εἶπον·50 Ὁ
+   him,   and has cried, saying.  This    was   _he_    whom  I said,  The
+
+   ὀπίσω51           μοῦ52 ἐρχόμενος53 ἔμπροσϑέν54 μου γέγονεν,55  ὅτι56
+     _one_    behind me    coming,     before      me  has become; because
+
+16 πρῶτός57 μου   ἦν.     Καὶ ἐκ  τοῦ    πληρώματος58 αὐτοῦ  ἡμεῖς59
+   first    of me he was. And out of the fullness     of him WE
+
+17 πάντες60 ἐλάβομεν,61 καὶ62 χάριν63 ἀντὶ64 χάριτος· ὅτι     ὁ
+   all      received,   and   grace   for    grace:   because the
+
+   νόμος65 δίὰ     Μωϋσέως66 εδόϑη,67   ἡ   χάρις καὶ ἡ   ἀλήϑεια
+   law      through Moses     was given; the grace and the truth
+
+18 διὰ     Ἰησοῦ68 Χριστοῦ69 ἐγένετο.70 θεὸν71 οὐδείς72 ἐώρακε73
+   through Jesus   Christ    became.    God    no-one   has seen
+
+   πώποτε·74 ὁ   μονογενὴς75 Υἱός,76 ὁ               ὢν77  εἰς78  τὸν
+   ever;     the only-born   Son,    the   _one_     being into   the
+
+   κόλπον79 τοῦ    Πατρός, ἐκεῖνος80       ἐξηγήσατο.81
+   bosom    of the Father, that   _one_    explained _Him_.
+
+
+1. Comp. ὅσος, § 39; nom. plur. masc., § 30.
+
+2. Not first, § 98.
+
+3. λαμβάνω, vii, 34; 3 plur. 2 aor. act.
+
+4. vii, 14; acc. sing. masc., § 39; gov., § 97.
+
+5. διδωμι, § 68; 3 sing., § 49; aug., § 60; mood-vowel, § 42;
+ν, § 17.
+
+6. No. 4; dat. plur. masc., § 92.
+
+7. ἐξονσία, § 28; acc. sing., § 97.
+
+8. τέκυον, § 30; acc. sing., after neut. verb γενέσϑαι,
+§ 72.
+
+9. vii, 9; gen. sing. § 86.
+
+10. vii, 15; 2 aor. mid. infin., § 54; accent peculiar.
+
+11. vii, 4; dat. plur. masc., § 73.
+
+12. πιστεύω; str. pres., § 58; act. part., § 55; οντς (§
+42) becomes ους, §§ 14, 16, 19; 3 decl., § 55; dat. plur., § 32;
+agrees with αὐτοῖς, § 72; as if a noun, § 74.
+
+13. viii, 9; denotes _close union_.
+
+14. § 39; agree., § 73.
+
+15. neut. 3 decl. acc. sing., § 32; τ dropped in stem υατ, § 18;
+gov., § 94.
+
+16. As No. 6; gov., § 86.
+
+17. vii, 19; nom. plur. masc., § 30; subj. of ἐγεννήϑησαν,
+§ 27.
+
+18. viii, 8.
+
+19. For ἐκ before a vowel, § 18; atonic, § 3.
+
+20. αἷμα, neut. 3 decl. like No. 15; gen., § 81; plur. is
+Hebraistic, of natural descent; accent, § 4.
+
+21. vii, 17, used as conj.
+
+22. ϑέλημα, like No. 15; gov., § 81.
+
+23. σάρξ, fem. 3 decl., § 32; gov., § 86; accent special.
+
+24. ἀνήρ, irreg. 3 decl.; gen. sing., § 86.
+
+25. vii, 20.
+
+26. γεννάω, strictly, _I beget_; prim. as vii, 15; 2
+aor. pass. 3 plur., (analyze.)
+
+27. vii, 5.
+
+28. No. 23; nom. sing., § 32; ξ, § 13.
+
+29. vii, 15.
+
+30. σκηνόω, from σκῆνος, _a tent_; 1 aor. act. 3
+sing., (analyze.)
+
+31. vii, 1.
+
+32. § 38; gov., § 88.
+
+33. ϑείομαι, depon., § 40; 1 aor, mid., 1 plur., (analyze;)
+subj. ἡμεῖς understood, _unemphatic_.
+
+34. δόξα, § 29; acc. sing., § 97.
+
+35. atonic, § 3.
+
+36. μονογενής, 3 decl., two term., § 34; gen. sing. masc.,
+§ 86; έος becomes οῦς, § 6.
+
+37. Takes gen., dat., or acc.
+
+38. πατήρ, 3 decl., contr. like No. 24; gov., § 81.
+
+39. 3 decl., like No. 36; nom. sing. masc., § 73.
+
+40. χάρις, (τ dropped, § 14); 3 decl. fem. sing., § 83.
+
+41. ἀλήϑεια, § 29; gen.sing., § 83; accent, § 4.
+
+42. 1 decl. masc., § 28.
+
+43. μαρτυρέω, § 62; pres. ind. act., § 42; 3 sing., § 49;
+έει becomes εῖ, § 20.
+
+44. Gen. as if _from_ the center, § 81.
+
+45. κράξω, (§ 58) for κραγ, § 57; perf. act., § 60;
+irreg., § 59; 3 sing., § 49.
+
+46. λέγω, § 65; pres. part. act., § 55; nom. masc. sing., § 32;
+ων for οντς, § 19, and viii, 5.
+
+47. § 39.
+
+48. vii, 3.
+
+49. vii, 19; acc. sing. masc., attrib., § 97.
+
+50. Def. verb; 2 aor. act. ind., 3 sing. for εεπ, (analyze.)
+
+51. Gov. gen. like No. 44.
+
+52. § 38.
+
+53. ἔρχομαι, depon., § 40; pres. part., § 55;
+nom. masc. sing., § 30.
+
+54. No. 51; accent from "enclitic," § 3.
+
+55. vii, 20.
+
+56. Conj.
+
+57. For πρότατος, § 35; gov. gen. compar., (§ 85,) or
+attrib., § 86.
+
+58. πλήρωμα, like No. 22; gov., § 81.
+
+59. § 38; emphat., No. 33.
+
+60. vii, 12; nom. plur. masc., § 73.
+
+61. No. 3; 1 plur., § 49.
+
+62. _Even._
+
+63. No. 40; acc. sing., § 32; depends upon ἐλάβομεν, § 97;
+τ of stem dropped, § 18.
+
+64. Gov. gen., § 85.
+
+65. § 30.
+
+66. Μωϋσέως, § 32; Attic gen., § 33; gov., § 82.
+
+67. δίδωμι, § 67; reg. in 1 aor. pass., § 59; irreg. short
+root vowel, § 66; long union-vowel, § 42; 3 sing., § 52.
+
+68. Irreg. gen. sing. from Ἰησοῦς, § 30.
+
+69. Χριστός, § 40.
+
+70. vii, 15.
+
+71. vii, 9.
+
+72. Comp. of οὐδέ, vii, 17, and εἷς, numeral, irreg.
+
+73. ὁράω, irreg. redup., § 60; perf. act., § 59; 3 sing.
+
+74. Comp. adv.
+
+75. No. 36.
+
+76. § 30.
+
+77. εἰμί, § 69; like No. 46.
+
+78. No 13.
+
+79. § 30.
+
+80. viii, 19.
+
+81. Depon. ἐξηγήομαι, § 40; 1 aor. mid., § 59; aug. merged
+in first η, § 61; indic., § 42; 3 sing., § 49.
+
+
+
+LESSON X.
+
+EXERCISE ON OUR LORD'S PRAYER, (Matt, vi, 9-13; Luke xi, 2-4.)
+
+
+Οὕτως οὖν       προσεύχεσϑε1 ὑμεῖς· (Ὅταν     προσεύχησϑε,2
+Thus  therefore pray         YE:    (Whenever ye pray,
+
+λέγετε·3) Πάτερ4 ἡμῶν   ὁ              ἐν τοῖς οὐρανοῖς,5 ἁγιασϑήτω6      τὸ
+say:)     Father of us, the   _one_    in the  heavens,   let be hallowed the
+
+ὄνομά7 σου,     έλϑέτω8  ἡ   βασιλεία9 σον,     γενηϑήτω10   τὸ
+name   of thee; let come the kingdom   of thee; let be done  the
+
+ϑέλημἄ11 σου      ως ἐν οὐρανῷ12 καὶ  ἐπὶ  τῆς γῆς,13 τὸν ἄρτον14
+will     of thee, as in heaven,  also upon the earth; the bread
+
+ἡμῶν   τὸν ἐπιούσιον15 δὸς16 (δίδον17) ἡμῖν  σήμερον,18          (τὸ19
+of us, the needful,    give  (give)    to us to-day;   _as to_    the   _time_
+
+καϑ᾽20 ἡμέραν,21) καὶ ἄφες22  ἡμῖν  τὰ  ὀφειλήματα23 (τὰς ἁμαρτίας24)
+by     day;       and forgive to us the debts        (the sins)
+
+ἡμῶν,  ὡς καὶ  ἡμεῖς ἀφίεμεν25 τοῖς   ὀφειλέταις26 ἡμῶν,  (καὶ
+of us, as also we    forgive   to the debtors      of us; (and _this do_,
+
+γὰρ αὐτοἱ27          ἀφίεμεν25         παντὶ28             ὀφε λοντι29 ἡμῖν,)  καὶ μὴ
+for   _our_selves      _we_    forgive to every   _one_    owing       to us;) and not
+
+εἰσενέγκῃς30     ἡμᾶς εἰς  πειρασμόν,31 ἀλλὰ ῥῦσαι32      ἡμᾶς ἀπὸ
+mayest thou lead us   into trial;       but  deliver thou us   away
+
+τοῦ      πονηροῦ·33 [ὅτι     σοῦ     ἐστὶν34 ἡ   βασιλεία,9 καὶ  ἡ
+from the evil:      [because of THEE is      the kingdom,   and  the
+
+δύναμις,35 καὶ ἡ   δόξα36 εἰς τοὺς αἰῶνας.37 ἀμήν.38]
+power,     and the glory  to  the  ages.     Amen.]
+
+REMARK.--The words above in parentheses are the variations in the
+passage of Luke. The concluding doxology in brackets is not found in
+the oldest manuscripts, and is probably spurious.
+
+1. προσεύχομαι, lit., _pray towards_; depon., § 40;
+pres., § 58; indic., § 42; 2d plur. mid., § 49.
+
+2. Subj., § 42; required by conditional particle preceding, § 44.
+
+3. λέγω; pres., § 65; imper., § 42; 2d plur. act., § 49.
+
+4. πατήρ, (accent irregularly shifted;) 3d decl., § 32;
+voc. sing., § 27.
+
+5. οὐρανός, § 30; dat. plur., § 88.
+
+6. ἁγιάζω, root ἁγιαδ, from ἅγιος =_holy_; 1st
+aor. pass., § 59; σ for δ, § 14; η in imper., § 42; 3d
+pers. sing., § 53; as if act., § 52.
+
+7. ix, 5; accent, § 3.
+
+8. viii, 8; 2d aor. § 48; imper. § 42; 3d sing. act., § 53.
+
+9. Nom. sing. fem., § 29; cannot take the enclitic's accent (§ 3)
+like No. 7, as another acute immediately precedes.
+
+10. γίνομαι, vii, 15; 1st aor. pass., No. 6; first η assumed
+irreg. as if a deriv.
+
+11. No. 7.
+
+12. No. 5; dat. sing., § 88.
+
+13. γῆ, § 28; gen. sing., of place all _over_, like time, §
+83.
+
+14. ἄρτος. § 30; acc. sing. § 97.
+
+15. ἐπιούσιος, prob. comp. of ἐπί, _for_, and οὐσία,
+_subsistence_; used only here; acc. sing. masc., § 34.
+
+16. From δίδωμι, § 67; irreg,, 2d aor. imp. 2d sing. act.
+
+17. Same verb; irreg. pres. imper. 2d sing. act.
+
+18. Compound adv.
+
+19. Elliptical, § 74; "attrib. acc." § 97.
+
+20. For κατά, §§ 22, 14.
+
+21. From ἡμέρα, § 29; acc. sing. of time, § 97; here
+distributive, _daily_.
+
+22. From ἀφίημι=_send away_; ἀπό and ἵημι, § 69;
+irreg. 2d aor. imper.; 2d sing. act., like No. 16.
+
+23. From ὀφείλημα, like No. 7; acc. plur. neut., § 32.
+
+24. From ἁμαρτία. § 28.
+
+25. From same as No. 22; pres. ind. 1st plur. act., § 49;
+
+26. From ὀφειλέτης, § 28; dat. plur., § 92.
+
+27. Def. adj. pron., § 39; used as pers. of all persons.
+
+28. From πᾶς, see vii, 12; dat. sing. masc., § 32.
+
+29. Pres. act. part, of ὀφείλω, like ix, 12; dat. sing. masc.,
+§ 92.
+
+30. Assigned to εἰσφέρω, but really belonging to the defective
+cognate, εἰσήνεγκα, irreg. reduplicate, 1st aor., from
+εἰς, _into_, and an obsolete ἔγκω, (for ενκω, §
+16;) subj., § 41, (dependent end upon an implied verb of wishing or
+deprecating § 44;) 2d sing. act., § 51.
+
+31. From πειρασμός, § 30; acc. sing., § 94.
+
+32. From ῥύομαι, § 62; depon., § 40; 1st aor., § 59;
+imper. union-vowel α, § 42; 2d sing. mid., § 53.
+
+33. Noun implied, § 74; 2d decl., § 34; gen. sing. neut., § 81.
+
+34. From εἰμί, § 69.
+
+35. See § 33.
+
+36. See ix, 34.
+
+37. From αἰών, § 32; acc. plur., § 94.
+
+38. Adv. from the Heb., _verily_.
+
+
+
+
+LESSON XI.
+
+EXERCISE ON LUKE i, 1-4.
+
+
+Ἐπειδήπερ1  πολλοὶ2 ἐπεχείρησαν3 ἀνατάξασϑαι4 διήγησιν5   περὶ
+Inasmuch as many    undertook    to arrange   a narrative about
+
+τῶν πεπλήροφορημένων6 ἐν    ἡμῖν7 πραγμάτων,8   καϑὼς9  παρέδοσαν10
+the fully believed    among us    transactions, just as transmitted _them_
+
+ἡμῖν7 oἱ  ἀπ᾽11           ἀρχῆς12   αὐτόπται13    καὶ ὑπηρέται14
+to us the from   _the_    beginning eye-witnesses and ministers
+
+τοῦ    λόγον·15 ἔόοξε16               κάμοί17     παρηκολονϑηκότι18     ἄvωϑεν19
+of the word;    it seemed   _good_    to me also, having followed close from _the_ first
+
+πᾶσιν20              ἀκριβῶς,21 καϑεξῆς22    σοι  γράψαι,23  κράτιστε24
+to all   _things_    carefully, regularly to thee to write,  most excellent
+
+Θεόφιλε,25  ἵνα                ἐπιγνῷς26        περὶ  ὧν27      κατηχήϑης28
+Theophilus, in order that thou mayest recognize about what thou wast instructed
+
+λόγων τὴν ἀσφάλειαν.29
+words the certainty.
+
+1. Comp. of ἐπεί, _since_, (from ἐπί, _upon_, εἴ, _if_,)
+δή, _now_, and the intensive particle, περ.
+
+2. Irreg. from πολύς, really an old πολλός;
+nom. plur. masc., § 34; _persons_ understood, § 74.
+
+3. From ἐπιχείρέω, _lay hand upon_, from ἐπί,
+_upon_, and χείρ, _a hand_; aug., § 61; η, § 66; 1st
+aor., § 59; Ind., § 42; 3d plur. act.; § 49.
+
+4. From ἀνατάσσομαι, (comp. of ἀνά, _up_, i.e.,
+_thoroughly_, and τάσσω, _arrange_;) depon., § 40; 1st
+aor., (root, ταγ, str. in pres. by σσ, § 58, which excludes the
+γ,) § 59, (ξ=γσ, § 13;) infin. mid., § 54; depends, like a
+nom. (§ 25) in the acc. upon ἐπεχ., § 97.
+
+5. From διήγησις, (like πολις in the paradigm,) § 33;
+acc. sing. depend. on ἀνατ., § 97.
+
+6. From πληροφορέω, comp. of πλήρης, _full_,
+φορέω, _bear_, i.e., in mind; redupl., § 60; η, § 66; no
+tense sign, § 59; perf. pass. part., § 55; gen. plur., § 30; agrees
+with πραγμ., § 73.
+
+7. See § 38.
+
+8. Like σῶμα in the paradigm; gen. plur., see viii, 13.
+
+9. Comp. of κατά, (see x, 20,) _down_, i.e., _exactly_,
+and ὠς, _as_.
+
+10. From παραδίδωμι, comp. of παρά, _near_, i.e.,
+from one to another, and δίδωμι, § 68; 2d aor., (δο,) § 57;
+indic., § 60, also § 42; 3d plur. act., § 49.
+
+11. See § 22.
+
+12. See vii. 2.
+
+13. From αὐτόπτης, comp. of αὐτός, self, and
+ὄπτομαι, _I see_; nom. plur. masc., § 28.
+
+14. From ὑπηρέτης, (comp. of ὐπό, _under_, and
+ἐρέτης, _rower_,) § 28.
+
+15. See paradigm.
+
+16. From δοκέω, really an obsol. δόκω; 1st aor., § 59;
+indic., § 60; 3d sing. act., § 49.
+
+17. Comp. of καί, (§ 22,) and ἐμοί, § 38; case, § 92.
+
+18. From παρακολουϑέω, comp. of παρά, _near_, and
+ἀκολονϑέω; aug., (α+ε=η,) § 60; perf. act., § 59;
+second η, § 66; part., § 55; dat. sing., (§ 32,) masc., § 34;
+agrees with ἐμοί, § 73.
+
+19. Deriv. adv., lit., _from above_, i.e., from top to bottom.
+
+20. See viii, 16; dat. plur., § 88.
+
+21. Adv. from ἀκριβής, _exact_.
+
+22. Adv. comp. of κατά, (as No. 17,) and ἑξῆς,
+_orderly_, an old gen., § 31.
+
+23. From γράφω, (_not_ str., § 58;) 1st aor., as No. 4;
+infin. act., § 54; subj. of ἔδοξε.
+
+24. From κράτιστος, § 34; superl., (§ 35,) of an
+obsol. κρατύς, _strong_, assigned to ἀγαϑός,
+_good_; Voc. sing. masc., § 30.
+
+25. Nom, Θεόφιλος, § 30.
+
+26. From ἐπιγινώκω, comp. of ἐπί, _upon_, i.e., by
+means of some reminding or determining circumstance, and
+γινώσκω, _I know_, for γίγνωσκω, § 70, (root
+γνο, know,) contracted like γίνομαι, vii, 15; 2d aor., § 57;
+subj., § 44; 2d sing. act., § 51.
+
+27. Rel., § 39; gen. plur., § 30; agrees with λόγων, § 75; for
+τῶν λόγων, (§ 75,) οἶς, § 91.
+
+28. From κατηχέω, (comp. of κατά, _down_, as in
+No. 17, and ἠχέω, _I echo_,) whence our _catechize_;
+1st. aor. pass., § 59; exception to § 14; second η, § 66; third
+η, § 42; 2d sing., § 52.
+
+29. From ἀσφάλεια, lit., _non-tottering_; acc. sing., § 29;
+depends upon ἐπιγ., § 97.
+
+
+
+PARADIGMS OF NOUNS OF THE FIRST DECLENSION.
+
+                   Feminine.                     Masculine.
+Cases.       Shadow. Door.  Root.  Honor.     Youth.   Judge.
+Nominative.  σκιά    ϑύρα   ῥίζα   τιμή       νεανίας  κριτής
+Genitive.    σκιᾶς   ϑύρας  ῥίζης  τιλῆς      νεανίου  κριτοῖ
+Dative.      σκιᾷ    ϑύρᾳ   ῥίζῃ   τιμῇ       νεανίᾳ   κριτῇ
+Accusative.  σκιάν   ϑύραν  ῥίζαν  τιμήν      νεανίαν  κριτήν
+Vocative.    σκιά    ϑύρα   ῥίζα   τιμή       νεανία   κριτά
+
+Nominative.  σκιαί   ϑύραι  ῥίζαι  τιμαί      νεανίαι  κριταί
+Genitive.    σκιῶν   ϑυρῶν  ῥιζῶν  τιμῶν      νεανιῶν  κριτῶν
+Dative.      σκιαῖς  ϑύραις ῥίζαις τιμαῖς     νεανίαις κριταῖς
+Accusative.  σκιάς   ϑύρας  ῥίζας  τιμάς      νεανίας  κριτάς
+Vocative.    σκιαί   ϑύραι  ῥίζαι  τιμαί      νεανίαι  κριταί
+
+
+
+PARADIGMS OF NOUNS OF THE SECOND DECLENSION.
+
+                     Masculine.                 Neuter.
+                Word.          Jesus.            Fig.
+Cases.       Sing.   Plur.                  Sing.    Plur.
+Nominative.  λόγος   λόγοι     Ἰησοῦς       σῦκον    σῦκα
+Genitive.    λόγου   λόγων     Ἰησοῦ        σύκου    σύκων
+Dative.      λόγῳ    λόγοις    Ἰησοῦ        σύκῳ     σύκοις
+Accusative.  λόγον   λόγους    Ἰησοῦν       σῦκον    σῦκα
+Vocative.    λόγε    λόγοι     Ἰησοῦ        σῦκον    σῦκα
+
+
+
+PARADIGMS OF NOUNS OF THE THIRD DECLENSION
+
+                 Masculine and Feminine.                 Neuter.
+Cases.         Shepherd. Lion.   Hair.  City.      Body.   Light. Wall.
+Sing.
+Nominative.    ποιμήν    λέων    ϑρίξ   πόλις      σῶμα    φῶς    τεῖχος
+Genitive.      ποιμένος  λέοντος τρίχός πόλεως     σώματος φωτός  τείχους
+Dative.        ποιμένι   λέοντι  τριχί  πόλει      σώματι  φωατί  τείχει
+Accusative.    ποιμένα   λέοντα  τρίχα  πόλιν      σῶμα    φῶς    τεῖχος
+Vocative.      ποιμήν    λέον    ϑρίξ   πόλι       σῶμα    φῶς    τεῖχος
+
+Plur.
+Nominative.    ποιμένες  λέοντες τρίχες πόλεις     σώματα  φῶτά   τείχη
+Genitive.      ποιμένων  λεόντων τριχῶυ πόλεων     σωμάτων φωτῶν  τειχῶν
+Dative.        ποιμέσι   λέονσι  ϑριξί  πόλεσι     σώμασι  φωσί   τείχεσι
+Accusative.    ποιμένας  λέοντας τρίχας πόλεις     σώματα  φῶτα   τείχη
+Vocative.      ποιμένες  λέοντες τρίχες πόλεις     σώματα  φῶτα   τείχη
+
+
+
+PARADIGMS OF ADJECTIVES, (of three terminations, § 34.)
+1st and 2d Decl.--καλός, _Fair_.
+
+                     Singular.              Plural.
+Cases.         Masc.   Fem.   Neut.   Masc.  Fem.   Neut.
+Nominative.    καλός  καλή   καλόν    καλοί  καλαί  καλά
+Genitive.      καλοῦ  καλῆς  καλοῦ    καλῶν  καλῶν  καλῶν
+Dative.        καλῷ   καλῇς  καλῷ     καλοῖς καλαῖς καλοῖς
+Accusative.    καλόν  καλήν  καλόν    καλούς καλάς  καλά
+Vocative.      καλέ   καλή   καλόν    καλοί  καλαί  καλά
+  Similarly, δίκαιος, δικαία, δίκαιον, _Just_.
+
+1st and 3d Decl.--πᾶς, _All_.
+
+                     Singular.              Plural.
+Cases.         Masc.   Fem.   Neut.   Masc.  Fem.   Neut.
+Nominative.    πᾶς     πᾶσα   πᾶν     πάντες πᾶσαι  πάντα
+Genitive.      παντός  πάσης  παντός  πάντων πᾶσών  πάντων
+Dative.        παντί   πάσῃ   παντί   πᾶσι   πάσαις πᾶσι
+Accusative.    πάντα   πάσην  πᾶν     παντας πάσας  πάντα
+Vocative.      πᾶς     πᾶσα   πᾶν     πάντες πᾶσαι  πάντα
+
+Similarly those ending in
+
+M.   F.    N.  M.&N.      M.   F.    N.   M.&N.       M.  F.   N.  M.&N.
+ας   αινα  αν  G. ανος    ούς  οῦσα  όν   G. όντος    ώς  νῖα  ός  G. ότος
+εις  εσσα  εν  G. εντος   ων   ουσα  ον   G. οντος    ῶς  ῶσα  ῶς  G. ῶτός
+είς  εῖσα  έν  G. έντος   ῶν   ῶσα   ῶν   G. ῶντος    ύς  εῖα  ύ   G. έος
+ην   εινα  εν  G. ενος    ῶν   οῦσα  οῦν  G. οῦντος   ύς  ῦσα  ύν  G. ύντος
+
+Forms in two terminations are similar; for example:--
+
+M.&F.  N.  Gen.    M.&F.  N.   Gen.    M.&F.  N.  Gen.
+ας     αν  αντος   ις     ι    ιτος    ων     ον  ονος
+ην     εν  ενος    ος     ον   ου      ωρ     ορ  ορος
+ής     έν  έος     ους    ουν  οδος    ως     ων  ω
+                                       υς     υ   υος
+
+
+SYNOPSIS (1st sing., etc.) OF REGULAR (Mute) VERBS.--τύπτω, Strike.
+
+_Active Voice._
+
+        Indic.    Imper.  Optat.    Subj.   Infin.    Part.
+Pres.   τύπτω     τύπτε             τύπτω   τύπτειν   τύπτων
+Imp'f.  ἔτυπτον           τύπτοιμι
+1st A.  τύψω              τύψοιμι           τύψειν    τύψων
+1st F.  ἔτυψα     τύψον   τύψαιμι   τύψω    τύψαι     τύψας
+Perf.   τέτυφα    τέτυφε            τετύφω  τετυφέναι τετυφώς
+Plup.   ἐτετύφειν         τετύφοιμι
+2d A.   ἔτυπον    τύπε    τύποιμι   τύπω    τυπεῖν    τυπών
+2d F.   τυπῶ              τυποῖμι           τυπεῖν    τυπῶν
+
+
+_Passive Voice._
+
+        Indic.     Imper.  Optat.      Subj.      Infin.      Part.
+Pres.   τύπτομαι   τύπτου              τύπτωμαι   τύπτεσϑαι   τυπτόμενος
+Imp'f.  ἐτυπτόμην          τυπτοίμην         [ὠ
+Perf.   τέτυμμαι   τέτυψο      [εἴην   τετυμμένος τετύφϑαι    τετυμμένος
+Plup.   ἐτετύμμην          τετυμμένος
+1st A.  ἐτύφϑην    τύφϑητι τυφϑείην    τυφϑὼ      τυφϑῆναι    τυφϑείς
+1st F.  τυφϑήσομαι         τυφϑησοίμην            τυφϑήσεσϑαι τυφϑησόμενος
+2d A.   ἐτύπην     τύπηϑι  τυπείην     τυπῶ       τυπῆναι     τυπείς
+2d F.   τυπήσομαι          τυπησοίμην             τυπήσεσϑαι  τυπησόμενος
+3d F.   τετύψομαι          τετυψοίμην             τετύψεσϑαι  τετυψόμενος
+
+
+_Middle Voice._
+
+        Indic.     Imper.  Optat.      Subj.      Infin.      Part.
+Pres.                  Same throughout as the Passive.
+Imp'f.                 Same throughout as the Passive.
+Perf.   τέτυπα     τέτυπε              τετύπω     τετυπέναι   τετυπώς
+Plup.   ἐτετύπειν          τετύποιμι
+1st A.  ἐτυψάμην   τύψαι   τυψαίμην    τύψωμαι    τύψασϑαι    τυψάμενος
+1st F.  τύψομαι            τυψοίμην               τύψεσϑαι    τυψόμενος
+2d A.   ἐτυπόμην   τυποῦ   τυποίμην    τύπωμαι    τυπέσϑαι    τυπόμενος
+2d F.   τυποῦμαι           τυποίμην               τυπεῖσϑαι   τυπούμενος
+
+
+
+REGULAR VERB-ENDINGS, (including mood-vowel.)
+
+_Active_ (includ. § 52.)
+                                    1     2      3
+Ind.of Pres. and Fut.          _s._ ω     εις    ει
+                               _p._ ομεν  ετε    ουσι
+
+Subjunctive throughout         _s._ ω     ης     ῃ
+                               _p._ ωμεν  ητε    ωσι
+
+Ind. of Perf. and 1 Aor.       _s._ α     ας     ε
+                               _p._ αμεν  ατε    ασι[1]
+
+Ind. of Imp. and 2 Aor.        _s._ ον    ες     ε
+                               _p._ ομεν  ετε    ον
+
+Ind. of Aor., Pass., & Opt.[2] _s._ ην    ης     η
+                               _p._ ημεν  ητε    ησαν
+
+Indic. of Plup.                _s._ ειν   εις    ει
+                               _p._ ειμεν ειτε   εισαν
+
+Opt., exc. as ab've & bel'w    _s._ οιμι  οις    οι
+                               _p._ οιμεν οιτε   οιεν
+
+Opt. of 1 Aor.                 _s._ αιμι  αις    αι
+                               _p._ αιμεν αιτε   αιεν
+
+Imp. of Pres., 2 Aor., & Perf. _s._       ε      έτω
+                               _p._       ετε    έτωσαν
+
+Imper. of 1 Aor.               _s._       ον     άτω
+                               _p._       ατε    άτωσαν
+
+Imper. of Aor. Pass.           _s._       ηθι[3] ήτω
+                               _p._       ητε    ήτωσαν
+
+_Mid._ and _Pass._ (except § 52.)
+                                    1      2      3
+Ind. of Pres. and Fut.         _s._ ομαι   ῃ      εται
+                               _p._ όμεϑα  εσϑε   ονται
+
+Subj. throughout               _s._ ωμαι   ῃ      ηται
+   (exc. Perf. Pass.[4])       _p._ ώμεϑα  ησϑε   ωνται
+
+Ind. of 1 Aor. Mid.            _s._ άμην   ω      ατο
+                               _p._ άμεϑα  ασϑε   αντο
+
+Ind. of Imp. and               _s._ όμην   ου     ετο
+        2 Aor. Middle.         _p._ όμεϑα  εσϑε   οντο
+
+Ind. of Perf. Pass.[4]         _s._ μαι    σαι    ται
+                               _p._ μεϑα   σϑε    νται
+
+Ind. of Plup. Pass.[4]         _s._ μην    σο     το
+                               _p._ μεϑα   σϑε    ντο
+
+Opt., exc. as bel'w            _s._ οίμην  οιο    οιτο
+       (and Perf. Pass.[4])    _p._ οίμεϑα οισϑε  οιντο
+
+Opt. of 1 Aor. Mid.            _s._ αίμην  αισο   αιτο
+                               _p._ αίμεϑα αισϑε  αιντο
+
+Imper. of Pres.                _s._        ου     έσϑω
+       and 2 Aor. (Mid.)       _p._        εσϑε   έσϑωσαν
+
+Imper. of 1 Aor. Mid.          _s._        αι     άσϑω
+                               _p._        ασϑε   άσϑωσαν
+
+Imper. of 1 Perf. Pass.[4]     _s._        σο     ϑω
+                               _p._        σϑε    σϑωσαν
+
+[Footnote 1: But αν in 1st Aor.]
+
+[Footnote 2: The Opt. has an extra mood-diphthong, ει, before
+ending.]
+
+[Footnote 3: But ητι in 1st Aor., see § 14.]
+
+[Footnote 4: The Perf. and Plup. Pass. are often inflected
+periphrastically (especially in the Opt. and Subj.) by means of an
+auxiliary (from εἰμί, _to be_. with the participle.]
+
+
+
+SYNOPSIS OF VERBS IN μι.
+
+_Active Voice._
+
+       Indic.  Imper.   Optat.  Subj.  Infin.   Part.
+Pres.  ἵστημι  ἵστσϑι           ἱστῶ   ἱστάναι  ἱστάς
+Imp.   ἵστην            ἱσταίην
+2 A.   ἕστην   στῆϑι    σταίην  στῶ   στῆναι    στάς
+
+Pres.  τίϑημι  τίϑετι           τιϑῶ  τιϑέναι   τιϑείς
+Imp.   ἐτίϑην           τιϑείην
+2 A.   ἔϑην    ϑές      ϑείην   ϑῶ    ϑῆναι     ϑείς
+
+Pres.  δίδωμι  δίδοϑι           δίδῶ  δίδόναι   δίδούς
+Imp.   ἐδίδων           διδοίην
+2 A.   ἔδων    δός      δοίην   δῶ    δοῦναι    δούς
+
+Pres.  δείκνυμι δέικννϑι               δεικνύναι δεικνύς
+Imp.   ἐδείκνυν
+
+
+
+SYNOPSIS OF VERBS IN μι.--(_Continued._)
+
+_Middle Voice_, (including Pres. and Imper. Pass.)
+
+       Indic.    Imper.  Optat.   Subj.   Infin.     Part.
+Pres.  ἵσταμαι   ἵστασο           ἱστῶμαι ἵστασϑαι   ἱστάμενος
+Imp.   ἱστάμην           ἱσταίμην
+2 A.   ἑσταμην   στάσο   σταίμην  στῶμαι  στάσϑαι    στάμενος
+
+Pres.  τίϑεμαι   τιϑεσο           τιϑῶμαι τίϑεσϑαι   τιϑέμενος
+Imp.   ἐτιϑέμην          τιϑείμην
+2 A.   ἐϑέμην    ϑέτσο   ϑείμην   ϑῶμαι   ϑέσϑαι     ϑέμενος
+
+Pres.  δίδομαι   δίδοσο           διδῶμαι δίδοσϑαι   διδόμενος
+Imp.   ἐδιδόμην          διδοίμην
+2 A.   ἐδόμην    δόσο    δοίμην   δῶμαι   δόσϑαι     δόμενος
+
+Pres.  δείκνυμαι δείκνυσο                 δείκνυσϑαι δεικνύμενοζ
+Imp.   ἐδείκυμην
+
+All the other tenses are regular, as if from στάω, ϑέω, δόω,
+δεικνύω, meaning respectively to _stand, put, give,_ and
+_show_.
+
+
+
+PECULIAR ENDINGS OF VERBS IN μι
+
+     Singular.                                     Plural.
+   ἵστη-     -|   1. -μι          ἵστα-     -|                |- ἵστασι
+   τίϑη-      |=  2. -ς           τιϑε-      |=   1. -μεν  3.-|  τιϑεισι
+   δίδω-      |=  3. -σι          δίδο-      |=   2. -τε      |  δίδουσι
+   δέικνυ-   -|                   δέικνυ-   -|                |- δέικνυσι
+
+Λίδωμι has ω as a union-vowel throughout the subj. (pres. and
+2d aor.) of both voices, and ἵστημι has α in the 2d and 3d
+sing., and 2d plur. of the subj. pres. All the other forms follow the
+inflection of the regular verb.

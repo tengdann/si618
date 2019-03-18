@@ -1,0 +1,893 @@
+DIGITAL PDP15 PRICE LIST; April 1970
+
+
+
+
+[Illustration: digital]
+
+PRICE LIST
+
+APRIL, 1970
+
+[Illustration: pdp15]
+
+DIGITAL EQUIPMENT CORPORATION
+
+
+
+
+                                               Price    1-Shift  Discount
+                                                        Service  Status
+=PDP-15/10: BASIC SYSTEM=
+
+4,096 18-bit, 800-ns core memory              $15,600   $150.00    Yes
+  with KSR-33 Teletype--PC15 required         $16,200   $175.00    Yes
+  with ASR-33 Teletype                        $16,500   $180.00    Yes
+  with KSR-35 Teletype--PC15 required         $17,800   $172.00    Yes
+  with ASR-35 Teletype                        $19,300   $175.00    Yes
+
+
+=PDP-15/20: ADVANCED MONITOR SYSTEM=          $36,000   $278.00    Yes
+
+8,192 18-bit, 800-ns core memory
+KSR-35 Teletype
+PC15 High Speed Paper Tape Reader and Punch
+KE15 Extended Arithmetic Element
+TC02D DECtape Control
+TU56 Dual DECtape Transport
+
+
+=PDP-15/30: BACKGROUND/FOREGROUND SYSTEM=     $59,200   $384.00    Yes
+
+16,384 18-bit, 800-ns core memory
+KSR-35 Teletype for BACKGROUND use
+KSR-33 Teletype for FOREGROUND use
+LT15A Single-Teletype Control
+PC15 High-Speed Paper Tape Reader and Punch
+KE15 Extended Arithmetic Element
+KA15 Automatic Priority Interrupt
+KM15 Memory Protection
+KW15 Real-Time Clock
+TC02D DECtape Control
+2 TU56 Dual DECtape Transports
+
+
+=PDP-15/40: DISK-ORIENTED                     $91,000   $532.00    Yes
+BACKGROUND/FOREGROUND SYSTEM=
+
+24,576 18-bit, 800-ns core memory
+KSR-35 Teletype for Background use
+KSR-33 Teletype for Foreground use
+LT15A Single-Teletype Control
+PC15 High Speed Paper Tape Reader and Punch
+KE15 Extended Arithmetic Element
+KA15 Automatic Priority Interrupt
+KM15 Memory Protection
+KW15 Real-Time Clock
+TC02D DECtape Control
+TU56 Dual DECtape Transport
+RF15 DECdisk Control
+2 RS09 DECdisk Drives
+
+     NOTE: Note 1 applies to all systems (see last page of price list)
+
+
+
+
+                                    Pre-  1-Shift  Field        Discount
+                             Notes  req.  Service  Inst.  Price  Status
+
+=MEMORY EXPANSION AND OPTIONS=
+
+MM15-A 4K Memory Module          7  PC15     $20   $100  $8,000    Yes
+       with Space to Add
+       Additional MK15-A
+
+MK15-A Expands MM15-A to            MM15A     20     60   6,000    Yes
+       8K Increases
+       PDP-15/10 to 8K
+
+MP15   Memory Parity for         2  None      15          1,500    Yes
+       each 4K of Memory
+       added
+
+KT15   Memory Relocation            KM15      25    125   3,000    Yes
+
+MX15   Memory Multiplexer           None                  5,000    Yes
+
+
+=CENTRAL PROCESSOR OPTIONS=
+
+KE15   Extended Arithmetic          None      20     60   2,800    Yes
+       Element
+
+KM15   Memory Protect               None      10    100   2,900    Yes
+
+KF15   Power Fail                   None       2     60   1,000    Yes
+
+KP15A  Dual Memory Bus--One      8  2 or more             5,000    Yes
+       bus for I/O Processor        MX15's
+       One Bus for Central
+       Processor
+
+
+=INPUT/OUTPUT PROCESSOR OPTIONS=
+
+KA15   Automatic Priority           KW15      15    100   3,900    Yes
+       Interrupt
+
+KW15   Real Time Clock, Line        None       2     60     500    Yes
+       Frequency
+
+DW15A  Positive to Negative         None      15    100   2,000    Yes
+       Bus Converter
+
+
+=MASS STORAGE DEVICES=
+
+TC02D  DECtape control for       3  DW15A     20    240   5,400    Yes
+       up to 4 TU56 DECtape
+       transport units
+
+TU56   Dual DECtape Transport       TC02D     12     60   4,700    Yes
+
+TC59D  Magnetic Tape Transport   3  DW15A
+       Control for up to 8          KW15      25    400   8,000    Yes
+       TU20, TU20A, TU30, TU30A
+       Magnetic Tape Transport
+       Units
+
+TU20B  7-Track, 45 ips Magnetic     TC59D     70    400  12,000     No
+       Tape Transport 200, 556
+       and 800 bpi
+
+TU20A  9-Track, 45 ips Magnetic     TC59D     80    400  13,000     No
+       Tape Transport 800 bpi
+
+TU30B  7-Track, 75 ips Magnetic     TC59D     80    400  21,000     No
+       Tape Transport 200, 556
+       and 800 bpi
+
+TU30A  9-Track, 75 ips Magnetic     TC59D     90    400  22,000     No
+       Tape Transport 800 bpi
+
+RF15   DECdisk Control for up       None      30    180   6,000    Yes
+       to 8 RS09 DECdisk Drives
+
+RS09   262,144 Word DECdisk         RF15      40    240   9,000    Yes
+
+RP15   Disk Pack Control for        None     100    450  18,000    Yes
+       up to 8 RP02 Disk Pack
+       Drives
+
+RP02   10.24 Million word Disk      RP15     100    400  26,000     No
+       Pack Drive Unit
+       Includes one RP02P Disk
+       Pack
+
+RP02P  Disk Pack                                            650     No
+
+
+
+
+                                    Pre-  1-Shift  Field        Discount
+                             Notes  req.  Service  Inst.  Price  Status
+
+=DISPLAY DEVICES=
+
+VP15A   Storage Tube Display     6  None      86    200   5,800  $3,000
+        VT01 Storage Display                                       not
+        Unit, Control, and                                        disc.
+        Mounting Hardware
+
+VP15B   Oscilloscope Display        None      21     70   3,600   $ 800
+        Tektronix RM503 X-Y                                        not
+        Oscilloscope, Control,                                    disc.
+        and Mounting Hardware
+
+VP15BL  Oscilloscope Display                                      $ 800
+        Tektronix RM503 X-Y         None      24    150   5,225    not
+        Oscilloscope, Control,                                    disc.
+        Mounting Hardware, and
+        DEC Type 370 Light Pen
+
+VP15C   Oscilloscope Display        None      38    220   5,250    Yes
+        VR12 X-Y Display Unit
+        (7" x 9" CRT), Control,
+        and Mounting Hardware
+
+VP15CL  Oscilloscope Display        None      41    300   6,875    Yes
+        VR12 X-Y Display Unit
+        (7" x 9" CRT), Control,
+        Mounting Hardware, and
+        DEC Type 370 Light Pen
+
+VP15M   Display Multiplexer         None                  3,900    Yes
+        for up to 8 VT01's
+
+VT01    Storage Tube Display     6  VP15M                 3,000     No
+        *(+$300 for cables                                  300*
+        and connectors)
+
+VT15    Graphic Display             None      70    500  14,400    Yes
+        Processor
+
+VT04    Graphic Display             VT15      25    250   4,500     No
+        Console
+
+LK35    Keyboard                    VT04,     30    120   1,200     No
+                                    LT15A
+                                     or
+                                    LT19
+                                    Series
+
+VL04    Light Pen                   VT04       5     75     700    Yes
+
+
+=CARD INPUT=
+
+CR03B   Card Reader--200 cpm   3,6  DW15A     50    240   5,200     No
+        Reader and Control
+
+
+=PAPER TAPE INPUT=
+
+PC15    Paper Tape Station--        None      24    320   3,900    Yes
+        300 cps Reader
+        50 cps Punch
+
+
+=PRINTERS=
+
+LP15F   Line Printer--356 lpm       None     110    250  14,000     No
+        80 column Line Printer
+        and Control
+
+LP15C   Line Printer--1000 lpm      None     135    280  40,000     No
+        132 column Line Printer
+        and Control
+
+
+=CALCOMP PLOTTERS AND CONTROL=
+
+        12-Inch Drum Plotter,
+        Model 565, and Control
+
+XY15AA  0.01-Inch Step         3,6  DW15A     22    280   8,900     No
+        18,000 Steps/Minute
+
+XY15AB  0.005-Inch Step        3,6  DW15A     27    280   8,900     No
+        18,000 Steps/Minute
+
+        31-Inch Drum Plotter,
+        Model 563, and Control
+
+XY15BA  0.01-Inch Step         3,6  DW15A     27    320  13,400     No
+        12,000 Steps/Minute
+
+XY15BB  0.005-Inch Step        3,6  DW15A     32    320  13,400     No
+        18,000 Steps/Minute
+
+XY15    Control Only             3  DW15A     15    200   3,000     No
+
+
+
+
+                                    Pre-  1-Shift  Field        Discount
+                             Notes  req.  Service  Inst.  Price  Status
+
+=DATA COMMUNICATIONS=
+
+LT19D   Multi-Station          3,5  DW15A      2    160   1,200    Yes
+        Teletype Control
+        Separate Transmit
+        Clock per Channel
+        Accommodates up to
+        5 LT19E Line Units
+
+LT19E   Line Unit                   LT19A      2    120     800    Yes
+        (One Required for
+        each Teletype or EIA
+        Line Adapter)
+
+LT19F   EIA Line Adapter            LT19A, B   2     60     100    Yes
+        (Per Line)
+
+LT19H   Cable Set for
+        Interprocessor Buffer
+        for use with
+        LT19H/LT19F or
+        LT19F/PT08F
+        Combinations.
+        Specify Length.
+
+        LT19HA      50 feet         LT19F                    60    Yes
+        LT19HB     100 feet         LT19F                    65    Yes
+        LT19HC     150 feet         LT19F                    70    Yes
+        LT19HD     200 feet         LT19F                    75    Yes
+        LT19HE     250 feet         LT19F                    80    Yes
+
+LT15A   Single Teletype             None       2    160   1,200    Yes
+        Control
+
+KSR-33  Teletype Model 33           None      25     80   1,200     No
+        Keyboard Send-Receive
+        Unit
+
+ASR-33  Teletype Model 33                     30    120   1,500     No
+        Automatic Send-Receive
+        Unit with Paper Tape
+        Reader and Punch
+
+KSR-35  Teletype Model 35                     22     80   3,000     No
+        Keyboard Send-Receive
+        Unit
+
+ASR-35  Teletype Model 35                     25    150   4,500     No
+        Automatic Send-Receive
+        Unit with Paper Tape
+        Reader and Punch
+
+DP09A   Data Communications      3  DW15A     20    200   6,000    Yes
+        System Compatible
+        with EIA RS 232B
+        Interface, Bell System
+        Type 201 Dataphone
+
+
+=INPUT/OUTPUT BUFFERS=
+
+DB99A   PDP-15 (9 or 9/L) to   3,4  DW15A     15    250   7,000    Yes
+        PDP-15 (9 or 9/L)
+        Interprocessor Buffer
+
+DB98A   PDP-15 (9 or 9/L) to   3,4  DW15A     15    250   7,000    Yes
+        PDP-8 (or 8/I)
+        Interprocessor Buffer
+
+DR09A   18-Bit Relay             3  DW15A      8    300   2,000    Yes
+        Output Buffer
+
+
+=DIGITAL-TO-ANALOG OPTIONS=
+
+AA15A   Multiplexer Control                               2,600    Yes
+        for up to 16 12-Bit
+        Digital-to-Analog
+        Converter Channels
+        Type AAC2
+
+AAC2    Digital-to-Analog           AA15                    350    Yes
+        Converter Single
+        Buffered, 0V to +-10V
+
+
+
+
+                                    Pre-  1-Shift  Field        Discount
+                             Notes  req.  Service  Inst.  Price  Status
+
+=ANALOG-TO-DIGITAL OPTIONS=
+
+AF01B   6-12 Bit Analog-to-      3  DW15A      8    240   5,000    Yes
+        Digital Converter
+        (conversion time of
+        9-35_ mu_sec) with
+        Multiplexer Control.
+        Uses A121 Switches to
+        implement up to 64
+        Single-Ended, High-
+        Level (0V to -10V)
+        Analog Inputs.
+
+A121    4-Channel FET               AF01B      1      8      65    Yes
+        Multiplexer Switch
+        (implements four
+        AF01B Channels)
+
+AH02    One-Channel of              AF01B      6    150     500    Yes
+        Sample-and-Hold
+        (Used between
+        Analog-to-Digital
+        Converter and
+        Multiplexer or
+        with AC01B)
+
+AH03    Scaling Amplifier           AF01B      1    100     300    Yes
+
+AC01B   8-Channel                   1-AH02    25    250   1,600    Yes
+        Sample-and-Hold             per
+        Control                     channel
+
+ADC1/9  6-12 Bit Analog-to-      3  DW15A      8    160   3,265    Yes
+        Digital Converter for
+        single-ended, high-level
+        (0V to -10V) Analog
+        inputs
+
+AM09    Multiplexer Control         ADC1/9    14    250   2,500    Yes
+        for 1024 Channels
+
+AM02A   Mounting Panel and          AM09    None     60   2,200    Yes
+        High-Level Analog
+        Input Connectors for
+        4-128 Channels
+        Implemented by a
+        Maximum of 32A122
+        Switches
+
+        NOTE: One AM02A is required for
+              each group of 128 Channels
+
+A122    4-Channel FET               AM02       1     60      65    Yes
+        Multiplexer Switch
+
+AM03    Mounting Panel and          AG01
+        Low-Level (differential)    AM09    None     60   1,500    Yes
+        Quick-Disconnect Analog
+        Input Connectors for
+        2-64 Channels
+        Implemented by a Maximum
+        of 32-A111 Switches
+
+AG01    Differential Amplifier      None       8     60   1,200     No
+
+A111    2-Channel Multiplexer       AM03       2     40      93    Yes
+        Switch (guarded James
+        MicroScan relay)
+
+AF04B   Integrating Digital      3  DW15A    100   1050  18,000     No
+        Voltmeter Analog
+        Input Subsystem with
+        Multiplexer Control
+        for 10-1000 3-wire
+        High or Low Level
+        Differential Analog
+        Inputs (+-10 mV to +-300V
+        full scale ranges with
+        programmable range and
+        auto-ranging).
+        Includes mounting panel
+        for 200 channels
+
+        The AF04B has the
+        following options:
+
+AF04S   10-Channel Guarded Reed     AF04B      2     40     330     No
+        Relay Multiplexer Switch
+
+AF04X   Expansion Mounting Panel    AF04B      4     60   1,800     No
+        for 200 Channels (one
+        required for each
+        additional 200 channel
+        group)
+
+
+=SUPPLIES KITS=
+
+SK15-A  For PDP-15/20/30/40 Systems
+
+        Contains 18 Certified DECtapes,                  400.00     No
+        1 DECtape carrying case,
+        250 blue DECtape ribbons,
+        2 teletype ribbons,
+        2 boxes of form-feed teletype paper,
+        1 case of fan fold paper tape,
+        4 paper tape plastic storage trays.
+
+SK15-B  For PDP-15/10 Systems
+
+        Contains 2 teletype ribbons,                      80.00     No
+        2 boxes of rolled, non-perforated
+        teletype paper,
+        1 case of fanfold paper tape,
+        6 paper tape plastic storage trays.
+
+
+
+
+                                                                Discount
+                                                          Price  Status
+=CABINETS=
+
+H960-A    Free standing cabinet. Includes filter,        650.00    Yes
+          fan, casters, levelers, rear mounting
+          panel door, door cover, end panels, and
+          63 inch open front. (See Module Products
+          price list for front options.)
+
+H961-A    H960-A without end panels                      430.00    Yes
+
+
+=INPUT/OUTPUT BUS=
+
+For connecting negative logic devices to the
+negative PDP-15 bus (DW15A converted
+positive bus). Two required per device.
+
+BC09A      2 foot                                        180.00    Yes
+           7 foot                                        190.00    Yes
+           15 foot                                       210.00    Yes
+           25 foot                                       230.00    Yes
+
+For connecting positive logic devices
+to the positive PDP-15 bus. One required
+per device.
+
+BC09B        2 foot                                      300.00    Yes
+             3 foot                                      301.00    Yes
+             4 foot                                      302.00    Yes
+             5 foot                                      303.00    Yes
+             7 foot                                      305.00    Yes
+            10 foot                                      308.00    Yes
+            12 foot                                      309.00    Yes
+            15 foot                                      310.00    Yes
+            25 foot                                      320.00    Yes
+            50 foot                                      345.00    Yes
+           100 foot                                      395.00    Yes
+
+For connecting positive logic devices
+to the negative PDP-15 bus (DW15A
+converted positive bus). One required
+per device.
+
+BC09C        2 foot                                      400.00    Yes
+             3 foot                                      401.00    Yes
+             4 foot                                      402.00    Yes
+             5 foot                                      403.00    Yes
+             7 foot                                      405.00    Yes
+            10 foot                                      408.00    Yes
+            12 foot                                      409.00    Yes
+            15 foot                                      410.00    Yes
+            25 foot                                      420.00    Yes
+            50 foot                                      445.00    Yes
+           100 foot                                      495.00    Yes
+
+
+=NOTES:=
+
+        1. Only one of each peripheral controller may be attached to a PDP-15 system.
+           Multiple controllers are available through Computer Special Systems.
+
+        2. Mixtures of core with and without parity not allowed.
+
+        3. Only one DW15A required per PDP-15 system.
+
+        4. DW15A required for PDP-15 systems only. No prerequisites for PDP-9 or 9/L.
+
+        5. Four LT19D peripheral controllers may be attached to a PDP-15 system.
+
+        6. Table-top unit.
+
+        7. PC15 is required if system software is to operate in more than 8K.
+           If software is not required, PC15 is not required.
+
+        8. Not field installable.
+
+
+
+
+DIGITAL EQUIPMENT CORPORATION [digital logo] WORLD-WIDE SALES AND SERVICE
+
+MAIN OFFICE AND PLANT
+
+146 Main Street, Maynard, Massachusetts, U.S.A. 01754 . Telephone:
+From Metropolitan Boston: 646-8600 . Elsewhere: (617)-897-5111 . TWX:
+710-347-0212 Cable: DIGITAL MAYN Telex
+
+UNITED STATES
+
+=NORTHEAST=
+_REGIONAL OFFICE:_
+15 Lunda Street, Waltham, Massachusetts 02154
+Telephone: (617)-891-1030      TWX: 710-324-0919
+
+_WALTHAM_
+15 Lunda Street, Waltham, Massachusetts 02154
+Telephone: (617)-891-6310/6315 TWX: 710-324-0919
+
+_CAMBRIDGE/BOSTON_
+899 Main Street, Cambridge, Massachusetts 02139
+Telephone: (617)-491-6130      TWX: 710-320-1167
+
+_ROCHESTER_
+130 Allens Creek Road, Rochester, New York 14618
+Telephone: (716)-461-1700      TWX: 710-599-3211
+
+_CONNECTICUT_
+1 Prestige Drive, Meriden, Connecticut 06450
+Telephone: (203)-237-8441      TWX: 710-461-0054
+
+=MID-ATLANTIC--SOUTHEAST=
+_REGIONAL OFFICE:_
+U.S. Route 1, Princeton, New Jersey 08540
+Telephone: (609)-452-9150      TWX: 510-685-2338
+
+_NEW YORK_
+95 Cedar Lane, Englewood, New Jersey 07631
+Telephone: (201)-871-4984, (212)-594-6955, (212)-736-0447
+TWX: 710-991-9721
+
+_NEW JERSEY_
+1259 Route 46, Parsippany, New Jersey 07054
+Telephone: (201)-335-3300      TWX: 710-987-8319
+
+_PRINCETON_
+Route One and Emmons Drive,
+Princeton, New Jersey 08540
+Telephone: (609)-452-2940      TWX: 510-685-2337
+
+_LONG ISLAND_
+1919 Middle Country Road
+Centereach, L.I., New York 11720
+Telephone: (516)-585-5410      TWX: 510-228-6505
+
+_PHILADELPHIA_
+1100 West Valley Road, Wayne, Pennsylvania 19087
+Telephone: (215)-687-1405      TWX: 510-668-4461
+
+_WASHINGTON_
+Executive Building
+7100 Baltimore Ave., College Park, Maryland 20740
+Telephone: (301)-779-1100      TWX: 710-826-9662
+
+_DURHAM/CHAPEL HILL_
+2704 Chapel Hill Boulevard
+Durham, North Carolina 27707
+Telephone: (919)-489-3347      TWX: 510-927-0912
+
+_HUNTSVILLE_
+Suite 41--Holiday Office Center
+3322 Memorial Parkway S.W., Huntsville, Ala. 35801
+Telephone: (205)-881-7730      TWX: 810-726-2122
+
+_ORLANDO_
+Suite 232, 6990 Lake Ellenor Drive, Orlando, Fla. 32809
+Telephone: (305)-851-4450      TWX: 810-850-0180
+
+_ATLANTA_
+Suite 116, 1700 Commerce Drive, N.W.
+Atlanta, Georgia 30318
+Telephone: (404)-351-2822      TWX: 810-751-3251
+
+_KNOXVILLE_
+5731 Lyons View Pike, S.W., Knoxville, Tenn. 37919
+Telephone: (615)-588-6571      TWX: 810-583-0123
+
+=CENTRAL=
+_REGIONAL OFFICE:_
+1850 Frontage Road, Northbrook, Illinois 60062
+Telephone: (312)-498-2560      TWX: 910-686-0655
+
+_PITTSBURGH_
+400 Penn Center Boulevard
+Pittsburgh, Pennsylvania 15235
+Telephone: (412)-243-8500      TWX: 710-797-3657
+
+_CHICAGO_
+1850 Frontage Road, Northbrook, Illinois 60062
+Telephone: (312)-498-2500      TWX: 910-686-0655
+
+_ANN ARBOR_
+230 Huron View Boulevard, Ann Arbor, Michigan 48103
+Telephone: (313)-761-1150      TWX: 810-223-6053
+
+_INDIANAPOLIS_
+21 Beechway Drive--Suite G
+Indianapolis, Indiana 46224
+Telephone: (317)-243-8341      TWX: 810-341-3436
+
+_MINNEAPOLIS_
+15016 Minnetonka Industrial Road
+Minnetonka, Minnesota 55343
+Telephone: (612)-935-1744      TWX: 910-576-2818
+
+_CLEVELAND_
+Park Hill Bldg., 35104 Euclid Ave.
+Willoughby, Ohio 44094
+Telephone: (216)-946-8484      TWX: 810-427-2608
+
+_ST. LOUIS_
+Suite 110, 115 Progress Pky., Maryland Heights,
+Missouri 63043
+Telephone: (314)-872-7520      TWX: 910-764-0831
+
+_DAYTON_
+3101 Kettering Blvd., Dayton, Ohio 45439
+Telephone: (513)-299-7377      TWX: 810-459-1676
+
+_DALLAS_
+8855 North Stemmons Freeway, Suite 204
+Dallas, Texas 75247
+Telephone: (214)-638-3660      TWX: 910-861-4000
+
+_HOUSTON_
+3417 Milam Street, Suite A, Houston, Texas 77002
+Telephone: (713)-524-2961      TWX: 910-881-1651
+
+=WEST=
+_REGIONAL OFFICE:_
+560 San Antonio Road, Palo Alto, California 94306
+Telephone: (415)-328-0400      TWX: 910-373-1266
+
+_ANAHEIM_
+801 E. Ball Road, Anaheim, California 92805
+Telephone: (714)-776-6932 or (213)-625-7669
+TWX: 910-591-1189
+
+_WEST LOS ANGELES_
+2002 Cotner Avenue, Los Angeles, California 90025
+Telephone: (213)-479-3791      TWX: 910-342-6999
+
+_SAN FRANCISCO_
+560 San Antonio Road, Palo Alto, California 94306
+Telephone: (415)-326-5640      TWX: 910-373-1266
+
+_ALBUQUERQUE_
+6303 Indian School Road, N.E.
+Albuquerque, N.M. 87110
+Telephone: (505)-296-5411      TWX: 910-989-0614
+
+_DENVER_
+2305 South Colorado Blvd., Suite #5
+Denver, Colorado 80222
+Telephone: (303)-757-3332      TWX: 910-931-2650
+
+_SEATTLE_
+1521 130th N.E., Bellevue, Washington 98004
+Telephone: (206)-454-4058      TWX: 910-443-2306
+
+_SALT LAKE CITY_
+431 South 3rd East, Salt Lake City, Utah 84111
+Telephone: (801)-328-9838      TWX: 910-925-5834
+
+
+INTERNATIONAL
+
+=CANADA=
+
+Digital Equipment of Canada, Ltd.
+
+_CANADIAN HEADQUARTERS_
+150 Rosamond Street, Carleton Place, Ontario
+Telephone: (613)-257-2615      TWX: 610-561-1651
+
+_OTTAWA_
+120 Holland Street, Ottawa 3, Ontario
+Telephone: (613)-725-2193      TWX: 610-562-8907
+
+_TORONTO_
+230 Lakeshore Road East, Port Credit, Ontario
+Telephone: (416)-278-6111      TWX: 610-492-4306
+
+_MONTREAL_
+9675 Cote de Liesse Road
+Dorval, Quebec, Canada 760
+Telephone: (514)-636-9393      TWX: 610-422-4124
+
+_EDMONTON_
+5331-103 Street
+Edmonton, Alberta, Canada
+Telephone: (403)-434-9333      TWX: 610-831-2248
+
+=EUROPEAN HEADQUARTERS=
+
+Digital Equipment Corporation International-Europe
+81 Route De L'Aire
+1227 Carouge / Geneva, Switzerland
+Telephone: 42 79 50      Telex: 22 683
+
+=GERMANY=
+
+Digital Equipment GmbH
+
+_COLOGNE_
+5 Koeln, Bismarckstrasse 7, West Germany
+Telephone: 52 21 81      Telex: 888-2269
+Telegram: Flip Chip Koeln
+
+_MUNICH_
+8000 Muenchen 19, Leonrodstrasse 58
+Telephone: 516 30 54      Telex: 524226
+
+=ENGLAND=
+
+Digital Equipment Co., Ltd.
+
+_READING_
+Arkwright Road, Reading, Berkshire, England
+Telephone: Reading 85131      Telex: 84327
+
+_MANCHESTER_
+8 Upper Precinct, Worsley
+Manchester, England m28 5az
+Telephone: 061-790-4591/2      Telex: 668666
+
+_LONDON_
+Bilton House, Uxbridge Road, Ealing, London W.5.
+Telephone: 01-579-2781      Telex: 22371
+
+=FRANCE=
+
+Equipment Digital S.A.R.L.
+
+_PARIS_
+233 Rue de Charenton, Paris 12, France
+Telephone: 344-76-07      Telex: 21339
+
+=BENELUX=
+
+Digital Equipment N.V.
+(serving Belgium, Luxembourg, and The Netherlands)
+
+_THE HAGUE_
+Koninginnegracht 65, The Hague, Netherlands
+Telephone: 635960      Telex: 32533
+
+=SWEDEN=
+
+Digital Equipment Aktiebolag
+
+_STOCKHOLM_
+Vretenvagen 2, S-171 54 Solna, Sweden
+Telephone: 08 98 13 90      Telex: 170 50
+Cable: Digital Stockholm
+
+=SWITZERLAND=
+
+Digital Equipment Corporation S.A.
+
+_GENEVA_
+81 Route De L'Aire
+1227 Carouge / Geneva, Switzerland
+Telephone: 42 79 50      Telex: 22 683
+
+=ITALY=
+
+Digital Equipment S. p. A.
+
+_MILAN_
+Corso Garibaldi, 49, 20121 Milano, Italy
+Telephone: 872 748, 872 694, 872 394      Telex: 33615
+
+=AUSTRALIA=
+
+Digital Equipment Australia Pty. Ltd.
+
+_SYDNEY_
+75 Alexander St., Crows Nest, N.S.W. 2065, Australia
+Telephone: 439-2566      Telex: 20740
+Cable: Digital, Sydney
+
+_MELBOURNE_
+60 Park Street, South Melbourne, Victoria, 3205
+Telephone: 69-6142      Telex: 30700
+
+_WESTERN AUSTRALIA_
+643 Murray Street
+West Perth, Western Australia 6005
+Telephone: 21-4993      Telex: 92140
+
+_BRISBANE_
+139 Merivale Street, South Brisbane
+Queensland, Australia 4101
+Telephone: 44047      Telex: 40616
+
+=JAPAN=
+
+_TOKYO_
+Rikei Trading Co., Ltd. (sales only)
+Kozato-Kaikan Bldg.
+No. 18-14, Nishishimbashi 1-chome
+Minato-Ku, Tokyo, Japan
+Telephone: 5915246      Telex: 7814208
+
+Digital Equipment Corporation International
+(engineering and services)
+Fukuyoshicho Building, No. 2-6, Roppongi 2-Chome,
+Minato-Ku, Tokyo
+Telephone: 585-3624      Telex: No.: 0242-2650
+
+Printed in U.S.A.
+
+155X 00370 AKU

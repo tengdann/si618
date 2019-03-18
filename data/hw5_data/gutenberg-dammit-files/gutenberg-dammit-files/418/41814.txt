@@ -1,0 +1,487 @@
+Machine translation can be defined as the automated process of
+translating a text from one language to another language. MT
+analyzes the text in the source language and automatically
+generates the corresponding text in the target language. With the
+lack of human intervention during the translation process, machine
+translation differs from computer-assisted translation (CAT),
+based on interaction between the translator and the computer.
+
+Computer-assisted translation (CAT) software were developed for
+professional translators, based on "translation memory" with
+terminology processing in real time, for example Wordfast, created
+in 1999 by Yves Champollion. Worldfast was compatible with the
+software of other key players like IBM and SDL Trados. Available
+for any platform (Windows, Mac, Linux), Wordfast had 14,000
+customers worldwide in 2010, including the United Nations, Coca-
+Cola and Sony.
+
+According to Tim McKenna, a writer and philosopher interviewed in
+October 2000: "When software gets good enough for people to chat
+or talk on the web in real time in different languages, then we
+will see a whole new world appear before us. Scientists, political
+activists, businesses and many more groups will be able to
+communicate immediately without having to go through mediators or
+translators."
+
+A further step could be "transcultural, transnational
+transparency", as stated in September 1998 by Randy Hobler, a
+consultant in internet marketing of translation software and
+services: "We are rapidly reaching the point where highly accurate
+machine translation of text and speech will be so common as to be
+embedded in computer platforms, and even in chips in various ways.
+At that point, and as the growth of the web slows, the accuracy of
+language translation hits 98% plus, and the saturation of language
+pairs has covered the vast majority of the market, language
+transparency (any-language-to-any-language communication) will be
+too limiting a vision for those selling this technology. The next
+development will be 'transcultural, transnational transparency',
+in which other aspects of human communication, commerce and
+transactions beyond language alone will come into play. For
+example, gesture has meaning, facial movement has meaning and this
+varies among societies. ({~HORIZONTAL ELLIPSIS~})
+
+There are thousands of ways in which cultures and countries differ,
+and most of these are computerizable to change as one goes from
+one culture to the other. They include laws, customs, business
+practices, ethics, currency conversions, clothing size differences,
+metric versus English system differences, etc. Enterprising
+companies will be capturing and programming these differences and
+selling products and services to help the peoples of the world
+communicate better. Once this kind of thing is widespread, it will
+truly contribute to international understanding."
+
+
+
+2004 > THE WEB 2.0, COMMUNITY AND SHARING
+
+
+[Summary]
+The term "web 2.0" was invented in 2004 by Tim O'Reilly, founder
+of O'Reilly Media, a publisher of computer books, as a title for a
+series of conferences he was organizing. The web 2.0 was based on
+community and sharing, with a wealth of websites whose content was
+supplied by users, such as blogs, wikis, social networks and
+collaborative encyclopedias. Wikipedia, Facebook and Twitter, of
+course, but also tens of thousands of others. The web 2.0 may
+begin to fulfill the dream of Tim Berners-Lee, who invented the
+web in 1990, and wrote in an essay dated April 1998: "The dream
+behind the web is of a common information space in which we
+communicate by sharing information. Its universality is essential:
+the fact that a hypertext link can point to anything, be it
+personal, local or global, be it draft or highly polished. ("The
+World Wide Web: A very short personal history", available on his
+webpage on the W3C website)
+
+
+
+The term "web 2.0" was invented in 2004 by Tim O'Reilly, founder
+of O'Reilly Media, a publisher of computer books, as a title for a
+series of conferences he was organizing.
+
+The web 2.0 was based on community and sharing, with a wealth of
+websites whose content was supplied by users, such as blogs, wikis,
+social networks and collaborative encyclopedias. Wikipedia,
+Facebook and Twitter, of course, but also tens of thousands of
+others.
+
+The web 2.0 may begin to fulfill the dream of Tim Berners-Lee, who
+invented the web in 1990, and wrote in an essay dated April 1998:
+"The dream behind the web is of a common information space in
+which we communicate by sharing information. Its universality is
+essential: the fact that a hypertext link can point to anything,
+be it personal, local or global, be it draft or highly polished."
+("The World Wide Web: A very short personal history", available on
+his webpage on the W3C website)
+
+The first blog was launched in 1997. A blog is an online diary
+kept by a person or a group, usually in reverse chronological
+order, and can be updated every minute or once a month. There were
+14 million blogs worldwide in July 2005, with 80,000 new blogs per
+day. According to Technorati, the first blog search engine, there
+were 65 million blogs in December 2006, with 175,000 new blogs per
+day. Some blogs are devoted to photos (photoblogs), music
+(audioblogs or podcasts), and videos (vlogs or videoblogs).
+
+The wiki concept became quite popular in 2000. Deriving from the
+Hawaiian term "wiki" ("fast"), a wiki is a website allowing
+multiple users to collaborate online on the same project. Users
+can contribute to drafting content, editing it, improving it, and
+updating it. The software can be simple or more elaborate. A
+simple program handles text and hyperlinks. With a more elaborate
+program, one can embed images, charts, tables, etc. The most
+famous wiki is Wikipedia.
+
+Facebook was founded in February 2004 by Mark Zuckerberg and his
+fellow students as a social network. Originally created for the
+students of Harvard University, it was then available to students
+from any university in the U.S. before being open to anyone
+worldwide in September 2006, to connect with relatives, friends
+and strangers. Facebook was the second most visited website after
+Google, with 500 million users in June 2010, while sparking
+debates on privacy issues.
+
+Founded in 2006 by Jack Dorsey and Biz Stone, Twitter is a social
+networking and micro-blogging tool to send free short messages of
+140 characters maximum, called tweets, via the internet, IM or SMS.
+Sometimes described as the SMS of the internet, Twitter gained
+worldwide popularity, with 106 million users in April 2010, and
+300,000 new users per day. As for tweets, there were 5,000 per day
+in 2007, 300,000 in 2008, 2.5 million in 2009, 50 million in
+January 2010, and 55 million in April 2010, with the archiving of
+public tweets by the Library of Congress as a reflection of the
+trends of our time.
+
+We now try to fulfill the second part of Tim Berners-Lee's dream,
+according to his essay dated April 1998: "There was a second part
+of the dream, too, dependent on the web being so generally used
+that it became a realistic mirror (or in fact the primary
+embodiment) of the ways in which we work and play and socialize.
+That was that once the state of our interactions was online, we
+could then use computers to help us analyze it, make sense of what
+we are doing, where we individually fit in, and how we can better
+work together."
+
+
+
+2007 > THE ISO 639-3 STANDARD TO IDENTIFY LANGUAGES
+
+
+[Summary]
+The first standard to identify languages was ISO 639-1, adopted by
+the International Organization for Standardization (ISO) in 1988
+as a set of two-letter identifiers. The ISO 639-2 standard
+followed in 1998 as a set of three-letter codes identifying 400
+languages. Published by SIL International, the Ethnologue, an
+encyclopedic catalog of living languages, had also developed its
+own three-letter codes in its database since 1971, with their
+inclusion in the publication itself since 1984 (10th edition). ISO
+639-2 quickly became outdated. In 2002, at the invitation of the
+International Organization for Standardization, SIL International
+prepared a new standard that reconciled the complete set of
+identifiers used in the Ethnologue with the identifiers already in
+use in ISO 639-2, as well as identifiers developed by the Linguist
+List to handle ancient and constructed languages. Published in
+2007, the ISO 639-3 standard provided three-letter codes for
+identifying 7,589 languages. SIL International was named the
+registration authority for the inventory of language identifiers.
+
+
+
+Published in 2007, the ISO 639-3 standard provided three-letter
+codes for identifying 7,589 languages.
+
+The first standard to identify languages was ISO 639-1, adopted by
+the International Organization for Standardization (ISO) in 1988
+as a set of two-letter language identifiers.
+
+The ISO 639-2 standard followed in 1998 as a set of three-letter
+codes identifying 400 languages. The standard was a convergence of
+ISO 639-1 and the ANSI Z39.53 standard (ANSI: American National
+Standards Institute). The ANSI standard corresponded to the MARC
+(Machine Readable Cataloging) language codes, a set of three-
+letter identifiers developed by the library community and adopted
+as an American National Standard in 1987.
+
+Published by SIL International, the Ethnologue, an encyclopedic
+catalog of living languages, had also developed its own three-
+letter codes in its database since 1971, with the inclusion in the
+encyclopedia itself from the 10th edition (1984) onwards.
+
+ISO 639-2 quickly became insufficient because of the small number
+of languages it could handle. In 2002, at the invitation of the
+International Organization for Standardization, SIL International
+prepared a new standard that reconciled the complete set of codes
+used in the Ethnologue with the codes already in use in ISO 639-2,
+as well as codes developed by the Linguist List -- a main
+distribution list for linguists -- to handle ancient and
+constructed languages.
+
+Approved in 2006 and published in 2007, the ISO 639-3 standard
+provided three-letter codes for identifying 7,589 languages, with
+a list of languages as complete as possible, living and extinct,
+ancient and reconstructed, major and minor, and written and
+unwritten. SIL International was named the registration authority
+for the inventory of language identifiers, and administers the
+annual cycle for changes and updates.
+
+
+
+2007 > GOOGLE TRANSLATE
+
+
+[Summary]
+Launched by Google in October 2007, Google Translate is a free
+online language translation service that instantly translates a
+section of text, document or webpage into another language. Users
+paste texts in the web interface or supply an hyperlink. The
+automatic translations are produced by statistical analysis rather
+than traditional rule-based analysis. Prior to this date, Google
+used a Systran based translator like Babel Fish in Yahoo! As an
+automatic translation tool, Google Translate can help the reader
+understand the general content of a foreign language text, but
+doesn't deliver accurate translations. In 2009, the text could be
+read by a speech program, with new languages added over the months.
+Released in June 2009, Google Translator Toolkit is a web service
+allowing (human) translators to edit the translations
+automatically generated by Google Translate. In January 2011,
+people could choose different translations for a word in Google
+Translate.
+
+
+
+Launched by Google in October 2007, Google Translate is a free
+online language translation service that instantly translates a
+section of text, document or webpage into another language.
+
+Users paste texts in the web interface or supply an hyperlink. The
+automatic translations are produced by statistical analysis rather
+than traditional rule-based analysis.
+
+As an automatic translation tool, Google Translate can help the
+reader understand the general content of a foreign language text,
+but doesn't deliver accurate translations.
+
+Prior to this date, Google used a Systran based translator like
+Babel Fish in Yahoo!, with several stages for the language options:
+
+First stage: English to French, German, and Spanish, and vice
+versa.
+Second stage: English to Portuguese and Dutch, and vice versa.
+Third stage: English to Italian, and vice versa.
+Fourth stage: English to simplified Chinese, Japanese and Korean,
+and vice versa.
+Fifth stage (April 2006): English to Arabic, and vice versa.
+Sixth stage (December 2006): English to Russian, and vice versa.
+Seventh stage (February 2007): English to traditional Chinese, and
+simplified Chinese to traditional Chinese, and vice versa.
+
+Here were the first language options for Google's translation
+system:
+
+First stage (October 2007): All language pairs previously
+available were available in any language combination.
+Second stage: English to Hindi, and vice versa.
+Third stage (May 2008): Bulgarian, Croatian, Czech, Danish,
+Finnish, Greek, Norwegian, Polish, Romanian, Swedish, with any
+combination.
+Fourth stage (September 2008): Catalan, Filipino, Hebrew,
+Indonesian, Latvian, Lithuanian, Serbian, Slovak, Slovene,
+Ukrainian, Vietnamese.
+Fifth stage (January 2009): Albanian, Estonian, Galician,
+Hungarian, Maltese, Thai, Turkish.
+Sixth stage (June 2009): Persian.
+Seventh stage (August 2009): Afrikaans, Belarussian, Icelandic,
+Irish, Macedonian, Malay, Swahili, Welsh, Yiddish.
+Eighth stage (January 2010): Haitian Creole.
+Ninth stage (May 2010): Armenian, Azeri, Basque, Georgian, Urdu.
+Tenth stage (October 2010): Latin.
+Etc.
+
+A speech program was launched in 2009 to read the translated text,
+with new languages added over the months. In January 2011, people
+could choose different translations for a word in Google Translate.
+
+Google Translator Toolkit is a web service allowing (human)
+translators to edit the translations automatically generated by
+Google Translate. Translators can also use shared translations,
+glossaries and translation memories. Starting in June 2009 with
+English as a source language and 47 target languages, Google
+Translator Toolkit supported 100,000 language pairs in May 2011,
+with 345 source languages into 345 target languages.
+
+
+
+2009 > 6,909 LIVING LANGUAGES IN THE ETHNOLOGUE
+
+
+[Summary]
+6,909 living languages were cataloged in the 16th edition (2009)
+of "The Ethnologue: Languages of the World", an encyclopedic
+reference work freely available on the web since 1996, with a
+print book for sale. As stated by Barbara Grimes, its editor from
+1971 to 2000, the Ethnologue is "a catalog of the languages of the
+world, with information about where they are spoken, an estimate
+of the number of speakers, what language family they are in,
+alternate names, names of dialects, other socio-linguistic and
+demographic information, dates of published Bibles, a name index,
+a language family index, and language maps." A core team of
+researchers in Dallas, Texas, has been helped by thousands of
+linguists gathering and checking information worldwide. A new
+edition of the Ethnologue is published approximately every four
+years.
+
+
+
+6,909 living languages were cataloged in the 16th edition (2009)
+of "The Ethnologue: Languages of the World", an encyclopedic
+reference work freely available on the web since 1996, with a
+print book for sale.
+
+As stated by Barbara Grimes, its editor from 1971 to 2000, the
+Ethnologue is "a catalog of the languages of the world, with
+information about where they are spoken, an estimate of the number
+of speakers, what language family they are in, alternate names,
+names of dialects, other socio-linguistic and demographic
+information, dates of published Bibles, a name index, a language
+family index, and language maps."
+
+A core team of researchers in Dallas, Texas, has been helped by
+thousands of linguists gathering and checking information
+worldwide. A new edition of the Ethnologue is published
+approximately every four years.
+
+The Ethnologue has been an active research project since 1950. It
+was founded by Richard Pittman as a catalog of minority languages,
+to share information on language development needs around the
+world with his colleagues at SIL International and other language
+researchers.
+
+Richard Pittman was the editor of the 1st to 7th editions (1951-
+1969).
+
+Barbara Grimes was the editor of the 8th to 14th editions (1971-
+2000). In 1971, information was expanded from primarily minority
+languages to encompass all known languages of the world. Between
+1967 and 1973, Barbara completed an in-depth revision of the
+information on Africa, the Americas, the Pacific, and a few
+countries of Asia. During her years as editor, the number of
+identified languages grew from 4,493 to 6,809. The information
+recorded on each language expanded so that the published work more
+than tripled in size.
+
+In 2000, Raymond Gordon Jr. became the third editor of the
+Ethnologue and produced the 15th edition (2005).
+
+In 2005, Paul Lewis became the editor, responsible for general
+oversight and research policy, with Conrad Hurd as managing editor,
+responsible for operations and database management, and Raymond
+Gordon as senior research editor, leading a team of regional and
+language-family focused research editors.
+
+In the Introduction of the 15th edition (2009), the Ethnologue
+defines a language as such: "How one chooses to define a language
+depends on the purposes one has in identifying that language as
+distinct from another. Some base their definition on purely
+linguistic grounds. Others recognize that social, cultural, or
+political factors must also be taken into account. In addition,
+speakers themselves often have their own perspectives on what
+makes a particular language uniquely theirs. Those are frequently
+related to issues of heritage and identity much more than to the
+linguistic features of the language(s) in question."
+
+As explained in the introduction, one feature of the database
+since its inception in 1971 has been a system of three-letter
+language identifiers (for example "fra" for French), that were
+included in the publication itself from the 10th edition (1984)
+onwards.
+
+At the invitation of the International Organization for
+Standardization (ISO) in 2002, SIL International prepared a new
+standard that reconciled the complete set of codes used in the
+Ethnologue with the codes already in use in the ISO 639-2 standard
+(1998), that identified only 400 languages, as well as codes
+developed by Linguist List to handle ancient and constructed
+languages. Published in 2007, the ISO 639-3 standard provided
+three-letter codes for identifying nearly 7,500 languages. SIL
+International was named the registration authority for the
+inventory of language identifiers, and administers the annual
+cycle for changes and updates.
+
+
+
+2010 > A UNESCO ATLAS FOR ENDANGERED LANGUAGES
+
+
+[Summary]
+In 2010, UNESCO (United Nations Educational, Scientific and
+Cultural Organization) launched a free Interactive Atlas of the
+World's Languages in Danger. The online edition is a complement of
+the print edition (3rd edition, 2010), edited by Christopher
+Moseley, and available in English, French and Spanish, with
+previous editions in 1996 and 2001. 2,473 languages were listed on
+4 June 2011, with a search engine by country and area, language
+name, number of speakers from/to, vitality and ISO 639-3 code. The
+language names have been indicated in English, French and Spanish
+transcriptions. Alternate names (spelling variants, dialects or
+names in non-Roman scripts) are also provided.
+
+
+
+In 2010, UNESCO (United Nations Educational, Scientific and
+Cultural Organization) launched a free Interactive Atlas of the
+World's Languages in Danger.
+
+The online edition is a complement of the print edition (3rd
+edition, 2010), edited by Christopher Moseley, and available in
+English, French and Spanish, with previous editions in 1996 and
+2001.
+
+2,473 languages were listed on 4 June 2011, with a search engine
+by country and area, language name, number of speakers from/to,
+vitality and ISO 639-3 code.
+
+The language names have been indicated in English, French and
+Spanish transcriptions. Alternate names (spelling variants,
+dialects or names in non-Roman scripts) are also provided.
+
+# About language vitality
+
+UNESCO's Language Vitality and Endangerment framework has
+established six degrees of vitality/endangerment: safe, vulnerable,
+definitely endangered, severely endangered, critically endangered,
+extinct.
+
+"Safe" -- not included in the atlas -- means that the language is
+spoken by all generations and that intergenerational transmission
+is uninterrupted.
+
+"Vulnerable" means that most children speak the language, but it
+may be restricted to certain domains, for example at home.
+
+"Definitely endangered" means that children no longer learn the
+language as a mother tongue in the home.
+
+"Severely endangered" means that the language is spoken by grand-
+parents and older generations. While the parent generation may
+understand it, they don't speak it to children or among themselves.
+
+"Critically endangered" means that the youngest speakers are
+grandparents and older, and they speak the language partially and
+infrequently.
+
+"Extinct" means there are no speakers left. The atlas includes
+presumably extinct languages since the 1950s.
+
+# How to define an endangered language
+
+When exactly is a language considered as endangered? As explained
+by UNESCO on the interactive altas' website: "A language is
+endangered when its speakers cease to use it, use it in fewer and
+fewer domains, use fewer of its registers and speaking styles,
+and/or stop passing it on to the next generation. No single factor
+determines whether a language is endangered."
+
+UNESCO experts have identified nine factors that should be
+considered together: (1) intergenerational language transmission;
+(2) absolute number of speakers; (3) proportion of speakers within
+the total population; (4) shifts in domains of language use; (5)
+response to new domains and media; (6) availability of materials
+for language education and literacy; (7) governmental and
+institutional language attitudes and policies including official
+status and use; (8) community members' attitudes towards their own
+language; (9) amount and quality of documentation.
+
+What are the causes of language endangerment and disappearance? "A
+language disappears when its speakers disappear or when they shift
+to speaking another language -- most often, a larger language used
+by a more powerful group. Languages are threatened by external
+forces such as military, economic, religious, cultural or
+educational subjugation, or by internal forces such as a
+community's negative attitude towards its own language. Today,
+increased migration and rapid urbanization often bring along the
+loss of traditional ways of life and a strong pressure to speak a
+dominant language that is -- or is perceived to be -- necessary
+for full civic participation and economic advancement."
+
+
+Copyright (C) 2012 Marie Lebert

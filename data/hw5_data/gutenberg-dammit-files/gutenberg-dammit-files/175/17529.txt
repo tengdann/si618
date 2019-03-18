@@ -1,0 +1,6416 @@
+OTHELLO
+
+Kirj.
+
+William Shakespeare
+
+
+Paavo Cajanderin suomennos ilmestyi v. 1884.
+
+
+
+Näytelmän henkilöt:
+
+VENETIAN DOGI.
+BRABANTIO, senaattori.
+Toisia senaattoreita.
+GRATIANO, Brabantion veli.
+LODOVICO, Brabantion sukulainen.
+OTHELLO, maurilainen ylimys, Venetian valtion palveluksessa.
+CASSIO, hänen luutnanttinsa.
+JAGO, hänen vänrikkinsä.
+RODRIGO, venetialainen ylimys.
+MONTANO, Kypron maaherra.
+Narri, Othellon palveluksessa.
+DESDEMONA, Brabantion tytär, Othellon puoliso.
+EMILIA, Jagon puoliso.
+BIANCA, Cassion lemmikki.
+Merimiehiä, sanansaattajia, airut, sotaherroja, ylimyksiä,
+soittoniekkoja ja palvelijoita.
+
+Tapahtumapaikka: ensimmäisessä näytöksessä Venetia, seuraavissa
+Kypron satama.
+
+
+
+
+ENSIMMÄINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Venetia. Katu.
+    Rodrigo ja Jago tulevat.
+
+RODRIGO.
+Vait! Mitä puhut! Kovin se mua loukkaa,
+Jos, Jago, sua, jok' omanasi käytät
+Mun kukkarotani, noin kohdellaan.
+
+JAGO.
+Mut, hitto vieköön, ettehän mut kuule!
+Jos tuommoista ma koskaan uneksinkaan,
+Niin kammokaa mua.
+
+RODRIGO.
+                   Kerroithan sa mulle
+Vihaavas häntä.
+
+JAGO.
+                Jos en sitä tee,
+Niin inhokaa mua. Kolme mahtimiestä
+Aneli, lakki kourass', että tekis
+Mun luutnantikseen hän, -- niin mies kuin olen,
+Kykyni tunnen: täyttää voin sen paikan.
+Mut oikkupäisenä ja ylpeänä
+Hän heitä kiertää pöyhkeill' estetyillä,
+Joit' inhoittavin sotalausein höystää;
+Ja päätteeks, anojille kiellon antaa;
+Sill', "uskokaa", hän sanoi,
+"Valinnut sotaherrani jo olen".
+Ja ken se oli tuo?
+Niin, aatelkaapas, suuri laskuherra,
+Florensilainen, eräs Michael Cassio,
+Mies tuiki rakastunut pulskaan naikkoon;
+Ei kenttäjoukkoj' ole johtanut hän,
+Enemmän sotarinnast' ei hän tiedä
+Kuin kehruutyttö; kaikk' on kirjan mukaan,
+Jost' yhtä hyvin kielipalko neuvos
+Rupattaa osaa; lorua sen miehen
+On sotatiedot, kokemusta vailla.
+Sai paikan tuo, ja mun -- jonk' arvon nähnyt
+Hän Rhodoss' on ja Kyprossa ja muissa
+Niin pakanain kuin kristittyjen maissa --
+Tuo "debet-kredit" pitää tuulen alla;
+Numeromiesi tuo, hän -- onneks olkoon! --
+Nyt luutnantt' on, ja minä, herra nähköön,
+Vaan hänen Mustuutensa vänrikki!
+
+RODRIGO.
+Sen pyövel' ennen oisin, jumaliste!
+
+JAGO.
+Ei auta; se on virka-uran kirous:
+Ylennykseen vie suositus ja armo
+Eik' etuoikeus, jonka mukaan toinen
+Edeltäjänsä perii. Tuomitkaa nyt,
+Mist' olen velkapäänä maurilaista
+Rakastamaan.
+
+RODRIGO.
+             Ma hänt' en palvelis.
+
+JAGO.
+Oi, huolet' olkaa; häntä palvelenkin
+Vaan kostuakseni. Me emme kaikki
+Voi herroj' olla, eikä kaikki herrat
+Voi uskotuita palvelijoita saada.
+On moni nöyrä, köyryselkä raukka,
+Jok', orjankahleisiinsa ihastunna,
+Jatustaa aikansa, kuin herran aasi,
+Rehusta vaan, ja vihdoin hyljyks joutuu.
+Hyi, moista rehti-elukkaa! Taas toisill'
+On katsanto ja ulkomuoto nöyrä,
+Mut sydän kiintynyt on itsehensä;
+Isäntiään he näöks palvelevat
+Ja voivat hyvin, ja kun täys' on tasku,
+He herroj' ovat. Moisill' ymmärryst' on;
+Tuot' olen karvaa minä, sen ma myönnän.
+Kah, ystävä, niin totta kuin Rodrigo
+Te olette, jos mauri oisin, Jagon'
+En olla tahtois. Häntä palvellessa
+Vaan itseäni palvelen; en lemmest',
+En ystävyydestä, sen tietköön taivas,
+Mut näöks vaan ja omaks hyödykseni.
+Jos, nähkääs, ulkomuodossani koskaan
+Sydämen tosi-olento ja laatu
+Ilmaantuis, olis aika silloin kantaa
+Hihalla sydän, jossa sitä naakat
+Hakata sais. En ole mikä olen.
+
+RODRIGO.
+Kuin suuri on sen turpahuulen onni,
+Jos hänet saa hän!
+
+JAGO.
+                   Herättäkää isä,
+Vainotkaa miestä, myrkyttäkää naute;
+Asia huutoon, heimo ilmiraivoon!
+Vaikk' Eedenissäkin hän asuis, purkoot
+Hänt' itikat! Jos ilolt' ilo tuntuu,
+Sekoittakaa sen verran tuskaa siihen,
+Ett' osan karvastaan se kauhduttaa!
+
+RODRIGO.
+Täss' isä asuu; äänehen ma huudan.
+
+JAGO.
+Mut hirveällä tuskan ulvonnalla,
+Kuin suurissa on kaupungeissa laita,
+Kun äkist' yöllä tulipalo uhkaa.
+
+RODRIGO.
+Brabantio, hoi! Signor Brabantio, hoi! hoi!
+
+JAGO.
+Herätkää, hoi, Brabantio!
+Varkaita, varkaita! Hoi, huonettanne
+Varokaa, tytärtänne, kirstujanne!
+Varkaita, varkaita!
+
+    (Brabantio ilmestyy ylhäälle ikkunaan.)
+
+BRABANTIO.
+Mik' on noin hirveähän meluun syynä?
+Mik' on nyt hätä?
+
+RODRIGO.
+                  Onko perehenne
+Kotona kaikki?
+
+JAGO.
+               Lukossako ovet?
+
+BRABANTIO.
+No kuinka niin?
+
+JAGO.
+                Olette ryöstetty.
+Pukeukaa joutuun, hitto vie! Pois puolet
+On sielustanne, sydän pirstaleina.
+Nyt, juur' nyt vanha musta jäärä astuu
+Valkoista uuhtanne. Oi, nouskaa, nouskaa!
+Hereille korrostajat, kello soimaan!
+Tekeepi piru teidät tuoraks muuten.
+Nouskaatte, sanon!
+
+BRABANTIO.
+                   Mitä? Miss' on järkes?
+
+RODRIGO.
+Arvoisa herra, äänen' on kai tuttu?
+
+BRABANTIO.
+Ei; ken se on?
+
+RODRIGO.
+               Rodrigo nimeni.
+
+BRABANTIO.
+No, sitä kirotumpi! Kielsinhän,
+Ett'et sais koskaan ovelleni tulla.
+Olethan suoraan sanovan mun kuullut:
+Tytärtäni et saa; ja nyt kuin hullu,
+Ahmattuna ja viinan vimmassa,
+Täynn' ilkeätä koiruutta, sa tulet
+Ja rauhan multa ryöstät.
+
+RODRIGO.
+                         Herra, herra!
+
+BRABANTIO.
+Mut tuntoni ja arvoni, se tiedä,
+Voi tekos tehdä sulle katkeraksi.
+
+RODRIGO.
+Tyyn' olkaa!
+
+BRABANTIO.
+             Mitä ryöstöstä sa haastat?
+Venetiass' ollaan nyt; ei metsätölli
+Mun taloni ole.
+
+RODRIGO.
+                Arvoisa Brabantio,
+Suorassa, puhtaass' aikehessa liikun.
+
+JAGO.
+Tuhat tulimmaista! Te, herra, olette niitä, jotka eivät Jumalata tahdo
+palvella, vaikka perkele käskis. Kun tulemme ja teemme teille hyvän
+työn, pidätte meitä riitapukareina; tahdotte tyttärenne antaa
+barbarialaisen oriin astuttavaksi; tahdotte että lapsenne lapset teille
+hirnuisivat, tahdotte saada konkareita langoiksenne ja ravureita
+orpanoiksenne.
+
+BRABANTIO.
+Ken olet sinä, rietas herjaaja?
+
+JAGO.
+Mies, joka tulen teille kertomaan, että tyttärenne ja mauri par'aikaa
+leikkivät "kaksiselkäistä".
+
+BRABANTIO.
+Sin' olet konna.
+
+JAGO.
+                 Ja te -- senaattori.
+
+BRABANTIO.
+Tuon sinä vastaat; tunnen sun, Rodrigo.
+
+RODRIGO.
+Ma kyllä kaikkeen vastaan. Mutta kuulkaa;
+Jos teidän tietenne ja luvallanne --
+Jolt' aivan näyttää -- kaunis tyttärenne,
+Näin synkkään kesk'-yön aikaan -- turvanansa
+Ei paremp' eikä pahempi kuin halpa,
+Rahalla saatu gondolieri -- viedään
+Himokkaan maurin ruokottomaan helmaan;
+Jos sen te tiesitte ja hyväksyitte,
+On loukkauksemme julkea ja raaka.
+Mut jos sit' ette tienneet, silloin syyttä
+Torutte meitä, tuntoni sen sanoo.
+Niin säädyttömäks älkää mua luulko,
+Ett' ilvehtisin näin ma arvollanne.
+Jos teilt' ei lupaa tyttärenne saanut, --
+Sen sanon vielä, -- suur' on hänen syynsä.
+Kun sulon, älyn, rikkauden ja onnen
+Näin uhraa vierahalle seikkailijalle,
+Maankulkurille. Hankkikaapa varmuus:
+Jos huoneessaan tai taloss' on hän vaan,
+Lain kova koura rangaiskoon mua siitä,
+Ett' teitä petin näin.
+
+BRABANTIO.
+                       Tult' iskekää!
+Minulle tuohus! -- Väki valvehille! --
+Tää tapaus uneheni vivahtaa;
+Sen pelkkä uskominen mun jo murtaa. --
+Hoi, tulta, tulta, kuulkaa!
+
+    (Poistuu.)
+
+JAGO.
+                            Hyvästi!
+Mun täytyy mennä: hyödyllist' ei liene
+Eik asemani mukaist' esiin nousta
+Othelloa vastaan, -- niinkuin minun täytyy,
+Jos tänne jään; -- ei valtio, sen tiedän --
+Alentavaa vaikk' onkin tämä hälle --
+Voi häntä jättää; syyt niin tärkit tänne
+Anoneet hänt' on Kypron sotaa varten,
+Jok' edess' on nyt, -- että, vaikka kuolis,
+Niin sopivaa, kuin hän on, siihen toimeen
+Ei saata löytää. Siihen nähden, vaikka
+Hänt' inhoan kuin tuskaa helvetin,
+Mun sentään, hengenpiteen vuoksi, täytyy
+Uskollisuuden lippu nostaa: merkki,
+Jok' on vaan merkki. Varmaan häntä löytääksenne
+Hakijat "joutsilinnaan" johtakaa;
+Siell' olen hänen kanssaan. Hyvästi!
+
+    (Lähtee.)
+
+    (Brabantio tulee ja palvelijoita, soihdut kädessä.)
+
+BRABANTIO.
+Se tott' on, paha kyllä! Hän on poissa.
+Mit' inhast' elämästäni nyt jääpi,
+On pelkkää katkeruutta. -- No, Rodrigo,
+Sa mistä hänet näit? -- O, häijy tyttö! --
+Kuin? Maurin kanssa? -- Voi, ett' olen isä!
+Kuin hänet tunsit? -- Petost' ääretöntä! --
+Hän mitä sanoi? -- Tulta lisää! -- Heimo
+Hereille! -- Lienevätkö naimisissa?
+
+RODRIGO.
+Varmaankin, luulen sen.
+
+BRABANTIO.
+                        O, taivaan taatto!
+Kuink' ulos pääs hän? -- Veren kavallusta! --
+O, isät, älkää tytärtenne mieltä
+Töist' arvostelko! -- Eikö taikaa, jolla
+Voi nuoruuden ja kainouden pettää?
+Siit' olettenko lukenut, Rodrigo?
+
+RODRIGO.
+Kyll' olen.
+
+BRABANTIO.
+            Herättäkää veljeni! --
+Oi, te jos tytön olisitte saanut! --
+Mies tuonne, toinen tuonne! -- Tiedättenkö,
+Kuin kiinni saisin hänet sekä maurin?
+
+RODRIGO.
+Sen luulen tietäväni: kelpo vahti
+Minulle suokaa vaan ja mukaan käykää.
+
+BRABANTIO.
+Edellä! Joka talon luona huudan;
+Voin vaikka käskeäkin. -- Miekkoj' oiti!
+Yövartijata pari tänne tuokaa. --
+Kas niin, Rodrigo; -- vaivanne ma maksan.
+
+                              (Lähtevät.)
+
+
+
+Toinen kohtaus.
+
+    Toinen katu.
+
+    (Othello, Jago ja seuralaisia, soihdut kädessä, tulee.)
+
+JAGO.
+Surmannut vaikka sodass' olen monta,
+Niin tunto sentään ehdon-murhan kieltää.
+Välistä kauna häijyytt' olis tarpeen.
+Olenpa miettinyt sen seitsemästi
+Tokaista häntä noin vaan kylkeen hiukan.
+
+OTHELLO.
+Parempi niin kuin on.
+
+JAGO.
+                      Mut kas, hän loukkas
+Ja sätti, herjas teidän armoanne
+Niin ilkeästi,
+Ett' oma pieni hurskauteni tuota
+Voi tuskin sietää. Mutta, anteeks, herra!
+Todella, olettenko nainut? Tietkääs,
+Magnifico on sangen suosittu,
+Ja hänen sanans' yhtä paljon painaa
+Kuin doginkin; hän teidät eroittaa,
+Tai keksii kaikki kiusat, harmit, joihin
+Pakosta laki hälle vallan antaa.
+
+OTHELLO.
+Pahintaan koittakoon hän! Valtiolle
+Tekemät työni voittaa kaikki kanteet.
+Ei ole tietty, -- mut kun kuulen että
+Kehulla arvon saa, niin julistan sen, --
+Ett' olen synnyltä ja hengeltäni
+Kuninkaan verta; ansioni voivat
+Niin ylhäist' onnea, kuin tää on mulle,
+Kypäri päässä puhutella. Tiedäs,
+Suloista Desdemonaa jos en lempis,
+Tilaani vapaata ja koditonta
+En kahleisiin ma kytkis, vaikka saisin
+Merenkin aarteet. -- Kah! mi valo tuolla?
+
+JAGO.
+Hakeva isä ystäväinsä kanssa.
+Pois poistukaa.
+
+OTHELLO.
+                En, min' en tahdo piillä:
+Nimeni, arvoni ja tuntoni.
+Ei pelkää julkisuutta. Nekö ovat?
+
+JAGO.
+Ei, kautta Janon, sit' en luule.
+
+    (Cassio ja muutamia sotaherroja tulee, soihdut kädessä.)
+
+OTHELLO.
+Luutnanttini, ja dogin miehiä. --
+Yön vallat suosikoot teit', ystävät!
+Mit' uutta?
+
+CASSIO.
+            Dogi teitä tervehtii
+Ja vaatii kiireen kautta teitä luokseen
+Nyt oiti.
+
+OTHELLO.
+          Mikä, luuletten, on asia?
+
+CASSIO.
+Jotakin Kyprosta, jos oikein arvaan;
+Palavan kiire toimi; laivastosta
+Lähettiläit' on tusinoittain tullut
+Tän' yönä, toinen toisen kantapäillä.
+Senaattorit on nousseet, dogin luona
+He kooss' on. Kiivaast' etsitähän teitä;
+Kun teit' ei löytty kotoa, niin laittoi
+Senaatti kolme eri joukkokuntaa
+Teit' etsimään.
+
+OTHELLO.
+                Hyv' että löysitte mun.
+Ma oiti tulen, taloon tuohon annan
+Vaan sanan.
+
+CASSIO.
+            Mitä toint' on hällä täällä?
+
+JAGO.
+Maalaivaan iskenyt hän on tän' yönä;
+Jos hän sen pitää saa, niin hänen kelpaa.
+
+CASSIO.
+En ymmärrä.
+
+JAGO.
+            He, hän on nainut.
+
+CASSIO.
+                               Kenen?
+
+    (Othello palajaa.)
+
+JAGO.
+No niin, tuon -- Tulkaa, kenraal'.
+
+OTHELLO.
+                                   Olen valmis.
+
+CASSIO.
+Kas, tuossa teitä toinen joukko etsii.
+
+JAGO.
+Se on Brabantio; varuill' olkaa, herra;
+Häll' aikeet pahat on.
+
+    (Brabantio, Rodrigo ja oikeudenpalvelijoita, soihdut
+    ja miekat kädessä, tulee.)
+
+OTHELLO.
+                      Hoilaa, ja seis!
+
+RODRIGO.
+Kas, se on mauri.
+
+BRABANTIO.
+                  Tappakaa se varas!
+
+    (Kumpikin puoli paljastaa miekkansa.)
+
+JAGO.
+Rodrigo, te! No, tulkaa, koitellaanpa!
+
+OTHELLO.
+Pois miekat kirkkaat, kaste ruostuttaa ne.
+Paremmin ijällänne hallitsette
+Kuin miekallanne, hyvä herra.
+
+BRABANTIO.
+                              Sinä,
+Likainen rosvo! Miss' on tyttäreni?
+Kirottu mies, sa hänet lumosit.
+Kaikelta, mill' on järki, kysyn: kuinka --
+Jos hänt' ei kietonut ois noidan paulat --
+Noin hento, kaunis, onnellinen impi,
+Niin naimiselle nurja, että hylkäs
+Nuo rikkaat, hienot kansan suosikitkin,
+Hän julkipilkaks tullaksensa karkais
+Kotoa moisen mustan pedon helmaan,
+Jok' ennen kammon tuo, kuin lemmen nostaa!
+Tuomitkoon mailma, eikö päivänselvää,
+Ett' olet lemmon taikaa käyttänyt sä,
+Lumoten myrkyillä ja hurmajuomill'
+Ihanan nuoruuden. Se tutkittakoon,
+Se luultavaa ja järjenmukaist' on.
+Senvuoksi sun nyt vangitsen ja syytän
+Sua kansanvimmaajaksi, joka käytät
+Luvattomia noidan keinoja.
+Hänehen iskekää! Jos vastustaa hän,
+Niin pieskää hänet pehmeäks.
+
+OTHELLO.
+                             Seis,
+Te, jotka puollatten mua, ja te toiset!
+Tapella jos mun tulee, kuiskuttajaa
+En siihen toimeen kaipaa. Mihin teill' on
+Mua mieli viedä?
+
+BRABANTIO.
+                 Tyrmään, kunnes oikeus
+Lain mukaan ajan määrääpi ja kutsuu
+Sun vastaamaan.
+
+OTHELLO.
+                Mut jos ma totteleisin,
+Kuink' olis dogi siihen tyytyväinen,
+Jonk' airut tässä vieress' on ja kutsuu
+Tärkeissä valtakunnan asioissa
+Mua hänen luo?
+
+OIKEUDENPALVELIJA.
+               Niin oikein: dogi istuu
+Nyt neuvostossa, johon teitäkin on
+Haettu varmaan.
+
+BRABANTIO.
+                Dogi neuvostossa!
+Näin keskell' yötä! -- Viekää hänet sinne.
+En turhaa minä kanna. Dogiin itseen
+Ja kaikkiin virkaveljihini koskee
+Tää loukkaus niin, kuin itse he sen tuntis.
+Lain asiaks jos moista työt' et tee,
+Pakanat, orjat kohta vallitsee.
+
+                    (Lähtevät.)
+
+
+
+Kolmas kohtaus.
+
+    Neuvoshuone.
+
+    (Dogi ja senaattorit istuvat pöydän ympärillä.
+    Oikeudenpalvelijoita.)
+
+DOGI.
+Näist' uutisista puuttuu sopusointu,
+Jok' uskottaviks sais ne.
+
+1 SENAATTORI.
+                          Niinpä kyllä.
+Ne yht' ei pidä: minun kirjeessäni
+On mainittuna satakuusi laivaa.
+
+DOGI.
+Mun sataneljäkymmentä.
+
+2 SENAATTORI.
+                        Mun kaksisataa.
+Mut vaikk' ei luku yhteen sovi aivan, --
+Niin kuin käy arviolta laskeiss' aina, --
+Niin turkkilaisen laivaston he kaikki
+Sanovat purjehtivan Kyproon päin.
+
+DOGI.
+Kun tuumitaan, se mahdollist' on kyllä.
+Niin ei mua petä harhalaskut, ett'en
+Pääasiaa ma pelvoll' uskois todeks.
+
+MERIMIES (ulkoa).
+Hoi, hoilaa, hoilaa!
+
+PALVELIJA.
+                     Airut laivastosta!
+
+    (Merimies tulee sisään.)
+
+DOGI.
+Mik' asiasi?
+
+MERIMIES.
+             Turkkilaisten aikeet
+On Rhodos-saareen; signor Angelo
+Sen ilmoittaa mun käski neuvostolle.
+
+DOGI.
+Mit' arvelette tästä muutoksesta?
+
+1 SENAATTORI.
+Jos kuinka harkitaan, se mahdotont' on;
+Lumetta vaan, jok' ohjaa näön harhaan.
+Jos muistetaan, kuin tähdellinen Kypros
+On Turkille, ja ajatellaan että,
+Samalla kuin se sopivamp' on hälle
+Kuin Rhodos, se myös helpomp' anastaa on,
+Se kun, näet, ei niin varustettu ole,
+Vaan kokonansa puuttuu sitä turvaa
+Kuin Rhodoll' on; -- kun tuota ajatellaan,
+Niin turkkilainen meist' ois liian tyhmä,
+Jos parhaan palan viimeiseksi jättäis,
+Hyläten helpost' anastetun voiton
+Vaan hyödyttömään vaaraan syöstäksensä.
+
+DOGI.
+Niin kyllä, Rhodos häll' ei mieless' ole.
+
+1 PALVELIJA.
+Kah, lisää uutisia!
+
+    (Sanansaattaja tulee.)
+
+SANANSAATTAJA.
+Arvoisat, viisaat herrat, turkkilaisiin,
+Jotk' äsken purjehtivat Rhodoon suoraan,
+Siell' yhtynyt on toinen laivasto.
+
+1 SENAATTORI.
+Tuot' arvelin. -- Kuin monta heitä lienee?
+
+SANANSAATTAJA.
+Noin kolmekymment' alusta; nyt suuntaa
+He muuttavat ja käyvät peittämättä
+Kyproa kohti. Signor Montano,
+Rehellinen ja uljas palvelijanne,
+Tän teille alamaisest' ilmoittaa
+Ja pyytää, että häntä uskoisitte.
+
+DOGI.
+Siis tottakin on Kyproon heillä matka. --
+Marcus Lucchese, hän onko kaupungissa?
+
+1 SENAATTORI.
+Hän Florensiss' on.
+
+DOGI.
+                    Kirjoittakaa hälle,
+Ett' oiti tänne saapuu hän.
+
+    (Brabantio, Othello, Jago, Rodrigo ja oikeudenpalvelijoita tulee.)
+
+1 SENAATTORI.
+                            Tuoss' ompi
+Brabantio ja urhollinen mauri.
+
+DOGI.
+Urhollinen Othello, turkkilaista,
+Yhteistä vihamiestä vastaan teidän
+Nyt oiti mentäv' on. --
+    (Brabantiolle)
+                        Kah, teit' en nähnyt;
+No, terve, jalo signor! Neuvojanne
+Ja apuanne täällä kaipasimme.
+
+BRABANTIO.
+Ja minä teidän. Anteeks, jalo dogi!
+Ei ammattini eikä virkakäskyt
+Mua vuoteelt' ajaneet; ei yhteishyvä
+Mua koske nyt; vaan yksityinen murhe,
+Kuin hyökyvirta, tulvallaan mun peittää,
+Niin että surut muut se itseens' ahmii
+Ja aina sama on.
+
+DOGI.
+                 Mik' asianne?
+
+BRABANTIO.
+Oi, tyttäreni! Oi, mun tyttäreni!
+
+1 SENAATTORI.
+Hän onko kuollut?
+
+BRABANTIO.
+                  Kuollut on hän mulle.
+Häväisty, viety multa pois ja taikain
+Ja puoskajuomain kautta noiduttu.
+Noin hullust' ei voi horjahtua luonto --
+Jos ei se tylsä ole, sokko, rampa --
+Muun kautta paitse taian.
+
+DOGI.
+                          Ken se liekin
+Noin ilkeästi häntä houkutellut
+Pois itsestään ja teistä, -- itse saatte
+Lukea lain niin ankaraks, kuin suinkin
+Te tahdotte, vaikk' omaa poikaanikin
+Kanteenne koskis.
+
+BRABANTIO.
+                  Kiitän nöyrimmästi! --
+Täss' on se mies, tää mauri, joka, näen mä,
+On valtakunnan asioissa saanut
+Teilt' eri kutsun.
+
+DOGI &  SENAATTORI.
+Surkuteltavaa!
+
+DOGI (Othellolle).
+No, mitä vastaatten te puolestanne?
+
+BRABANTIO.
+Ei muuta mitään kuin ett' on se niin.
+
+OTHELLO.
+Arvoisat, mahtavat ja suuret herrat,
+Te ylevät ja taatut suosijani!
+Tuon vanhan miehen tyttären ma vein,
+Se totta on; nain hänet, se on totta;
+Niin suur' on päästä päähän rikokseni,
+Sen suuremp' ei. On haasti mulla raaka,
+Ja rauhan hempukieltä tuskin tunnen;
+Siit' alkain, seitsemän kun vuoden voima
+Mull' oli käsivarressani tuossa,
+Yheksää kuuta vailla, tähän päivään
+Päätoimi sen on telttakentäll' ollut.
+En suurta mailmata paljon tunne,
+Pait mikä sotaa, tappelua koskee;
+Senvuoks en puoltopuheill' asiaani
+Juur' kaunistele. Mut jos suvaitsette,
+Niin koko rakkauteni juoksun kerron
+Koristamatta, suoraan; rohdot, juomat
+Ja loihtehet ja tenhot mahtavat, --
+Sellaisist' olen, nähkääs, syytettynä --
+Joill' immen tuon ma voitin.
+
+BRABANTIO.
+                             Tyttö kaino,
+Niin tyynen siivo, että tunnettaankin
+Jo punastuu hän; hänkö -- luonnon, ijän
+Ja maansa, maineensa ja kaiken pilkaks --
+Rakastuis mieheen, jota nähdä pelkää!
+Sen järki vajaa, rampa on, jok' uskoo,
+Ett' avuisuus noin saattaa hairahtua
+Pois luonnon uralta; ja luulla täytyy
+Kavalan hornan juonet siihen syyksi.
+Senvuoks ma vielä kerran väitän, että
+Hän verta-hurmaavilla nestehillä
+Tai muilla tehokkailla juomill' ompi
+Lumonnut hänet.
+
+DOGI.
+                Todistust' ei väite,
+Jos teill' ei ole häntä vastaan syitä
+Parempia kuin moinen tyhjä luulo
+Ja ainainen ja kurja todenmoisuus.
+
+1 SENAATTORI.
+Mut sanokaa, Othello: olettenko
+Kavalin pakkokeinoin myrkyttänyt
+Ja tytön mielen vallannut, vai onko
+Pyyteenne siivo ollut, moinen, joka
+Lähentää sielun sieluun?
+
+OTHELLO.
+                         Tehkää hyvin
+Ja "joutsilinnast'" impi noutakaa;
+Minusta isän kuullen haastakoon hän.
+Jos tytön puhe minut viekkaaks näyttää,
+Niin antamanne luottamus ja toimi
+Pois ottakaa, niin, viekää vaikka henki!
+
+DOGI.
+No, tuokaa Desdemona tänne.
+
+OTHELLO.
+                            Mukaan,
+Vänrikki! Paikan tunnette te parhain.
+    (Jago ja muutamia seuralaisia lähtee.)
+Siks kunnes saapuu hän, niin totta kuin ma
+Vikani taivahalle tunnustan,
+Niin totta teille korvin kuullaksenne
+Nyt kerron, kuin tuon kaunon lemmen voitin,
+Ja minun hän.
+
+DOGI.
+              Othello, kertokaa se.
+
+OTHELLO.
+                                    Immen isä
+Mua suosi, kutsui minut usein luokseen,
+Kyseli elämäni kaikki vaiheet
+Vuodesta vuoteen, taistelut ja voitot
+Ja muutkin kohtaloni. Kaikki hälle
+Ma selvittelin, poikavuosist' alkain
+Ja itse tarinoimishetkeen saakka.
+Mont' onnetonta seikkaa siinä kerroin
+Ja julmaa vaaraa merellä ja maalla;
+Kuin rynnätessä tuskin surman vältin;
+Kuink' otti korska vihamies mun vangiks
+Ja orjaks myi mun; kuinka pelastuin ma;
+Ja kulkuretkieni kummat vaiheet.
+Tilaisuutt' oli siinä puheeks ottaa
+Avarat rotkot, karut auhdot, vuoret
+Ja louhokset ja lumihuippu-vaarat
+Ja toisiansa syövät kannibalit
+Ja antropophagit ja muut, joill' oli
+Pää hartioitten alla. Desdemona
+Hän harras oli näitä kuulemaan,
+Mut pois hänt' usein askarehet vaati,
+Ja kun ne kiireest' oli suorittanna,
+Palasi taas hän sekä ahnain korvin
+Puhettan' ahmi. Tuon kun huomasin ma,
+Valitsin ajan, keksin keinon, jolla
+Häneltä lypsin pyynnön hartahan,
+Ett' tarinoisin retkeilyni kaikki,
+Joist' oli hän vaan kuullut kappaleita
+Ja niitäkään ei tarkoin. Minä suostuin,
+Ja monast' itkun houkuttelin hältä,
+Kun jonkun kovan kohtauksen kerroin,
+Mink' olin nuorna kärsinyt. Kun päätin,
+Sain mailman täyden huokauksia palkaks;
+Hän vakuutti: "Oi kummaa, kumman kummaa!
+Oi, sääli tuota, ihmeen sääli!" Toivoi,
+Ett'ei hän tuota kuullut ois, mut sitten
+Hän toivoi, ett' ois hänkin moinen mies.
+Mua kiitti, pyytäin, jos mull' ystäv' olis,
+Ken häntä lempis, että kertomahan
+Hänt' opettaisin näin, niin hänet varmaan
+Hän ottais. Yskän ymmärsin ja kosin.
+Hän kohtaloni vuoksi mua lempi,
+Ma häntä hänen säälintänsä tähden.
+Tuo ainoa on taika mitä käytin.
+Täss' ompi hän: todistakoon hän itse.
+
+    (Desdemona ja Jago seuralaisineen tulevat.)
+
+DOGI.
+Minunkin tyttäreni voittais varmaan
+Tarina tuo. Brabantio hyvä, parhaaks
+Nyt kääntäkäätte mit' on rikottu:
+Parempi miekan tyngell' otella
+Kuin käsin paljain.
+
+BRABANTIO.
+                    Pyydän, häntä kuulkaa;
+Jos puolekskin hän kosineensa myöntää,
+Periköön ikisurma mun, jos miestä
+Ma vielä soimaan. -- Tule tänne, daami;
+Täss' oiva seurassa ket' enimmin
+Sun kuulla tulee?
+
+DESDEMONA.
+                  Kunnon isääni.
+On kuuliaisuus tässä jaettu, nään mä.
+Teilt' elo, kasvatus on, niistä kiitän,
+Ja teitä kunnioittamaan mua neuvoo
+Elo ja kasvatus. Te kuuliaisuuteni
+Olette herra, sillä tyttärenne
+Min' olen. Mutta täss' on puolisoni.
+Sen verran kuuliaisuutta kuin äitin'
+Osoitti teille, kun hän teitä katsoi
+Paremmaks isää, samaa minun tulee
+Osoittaa maurille, mun herralleni.
+
+BRABANTIO.
+Jumala kanssanne! -- Mun työn' on tehty.
+Nyt valtatoimiin, jos niin suvaitsette.
+Parempi ottolaps kuin oma siitos! --
+Lähemmäks, mauri! Sydämestän' aivan
+Täss' annan sulle, minkä sydämestä
+Sult' epäisin, jos sull' ei jo sit' oisi. --
+Ja sinä, helmi, mitä sinuun tulee,
+Iloitsen, ett'ei toist' ole lasta mulla;
+Sun pakos mun niin julmaks saattais, että
+Sen löisin kahleisiin. -- Mun työn' on tehty.
+
+DOGI.
+Puhua mun nyt suokaa puolestanne
+Ja tehdä tuomio, joka portaan lailla
+Nuo lempiväiset suosioonne saattaa.
+Mit' ei voi auttaa, turha sit' on surra,
+Pahinta kokenutt' ei mikään murra.
+Tuhoa mennyttä ken vaikertaa,
+Se uuden tuhon niskoillensa saa.
+Mit' ei voi kovan onnen kourist' estää,
+Parasta pilkaten sen herjat kestää.
+Varasta nauramalla varkaan ketät,
+Mut joutavia surren itses petät.
+
+BRABANTIO.
+Siis Kypron meiltä vieköön turkkilainen,
+Sit' ei hän saa, jos nauraa voimme vainen.
+Se tuomion hyvin kantaa, jok' ei siitä
+Muut' itselleen kuin lohdutusta niitä.
+Mut sitä tuomio ja suru painaa,
+Ken tuskain hinnaks kärsimystä lainaa.
+Kaksmieliset on moiset lausumat,
+Sokuriksi ja sapeks kelpaavat.
+Mut sanat sanoj' on; en koskaan kuullut,
+Ett' ehjäks sydän korvan kautt' on tullut.
+
+Nöyrimmästi pyydän, että nyt käymme valtiotoimiin käsiksi.
+
+DOGI.
+Turkkilainen lähestyy suunnattomilla voimilla Kypron saarta. -- Te,
+Othello, tunnette parhaiten paikan varustukset, ja vaikka meillä siellä
+on maaherrana erittäin kyvykkääksi tunnustettu mies, niin kuitenkin
+yleinen mieli, tuo tapausten yksinvaltainen haltijatar, pitää teidät
+paljon luotettavampana. Teidän täytyy siis hyväntahtoisesti hämmentää
+uuden onnenne kirkkaus ryhtymällä tähän karkeaan ja myrskyiseen
+toimeen.
+
+OTHELLO.
+Totunnan hirmuvalta, jalot herrat,
+On sodan pii- ja teräsvuoteen mulle
+Pehmeimmäks höyhenpatjaks tehnyt. Myönnän,
+Ett' iloisuuden luontevan ja raittiin
+Tuo mulle vastukset, ja valmis olen
+Nykyiseen sotaan turkkilaista vastaan.
+Kumartain nöyräst' anon senaatilta
+Vaan kelpo huolenpidon vaimostani,
+Sopivan asunnon ja elintarpeet
+Ja moista mukavuutta sekä seuraa,
+Kuin hänen säätyyns' sopii.
+
+DOGI.
+                            Isän luona,
+Jos suvaitsette.
+
+BRABANTIO.
+                 Ei, sit' en ma tahdo.
+
+OTHELLO.
+En minäkään.
+
+DESDEMONA.
+             En minäkään. En siellä
+Asua tahdo; vaivaks olis hälle
+Alati mua nähdä. Armas dogi,
+Lempeihin korviin pyyntön' ottakaa
+Ujoudelleni avuks tullen suokaa --
+Äänenne mulle turvakirjaksi.
+
+DOGI.
+No, mitä tahdotten te, Desdemona?
+
+DESDEMONA.
+Rakastuin mauriin elääkseni hälle:
+Sen kohtaloni tuima äkkimyrsky
+Julistakohon julki. Puolisoni
+Noill' avuillaan juur' sydämmeni voitti.
+Othellon kasvoissa ma sielun näin,
+Ja hänen maineelleen ja urhoudelleen
+Pyhitin onneni ja sydämeni.
+Jos minä, hyvät herrat, rauhan koina
+Kodissa oljeksin, kun hän käy sotaan,
+Jään lemmen juhlatapoja ma vaille
+Ja armaan poissa-olless' aikaa raskast'
+Elellä saan. Mun suokaa mennä mukaan.
+
+OTHELLO.
+Ma pyydän, myöntykää! Hän tahtons' saakoon.
+En tätä rukoile, sen taivas tietköön,
+Himoille kulkkulaen kutkukkeeksi
+Tai veren tyydykkeeks, tuon nuorten hurman,
+Jok' itsessäni jo on lauhtunut;
+Vaan suloiseksi mielinouteeks hälle.
+Varjelkoon taivas teitä luulemasta,
+Ett' tarkin, suuren työnne laiminlöisin
+Siks että hän mua seuraa! Ei, jos lemmen,
+Tuon löyhkäsulan, hääreet hekumallaan
+Niin huumauttaa huomion ja tarmon,
+Ett' ilonhumut tehtäväni tärvää,
+Padaksi kypärini muuttukoon,
+Ja kaikki inhat, halvat kommelukset
+Mun mainettani vastaan rynnätkööt!
+
+DOGI.
+Määrätkää keskenänne, lähteekö hän
+Vai jääkö; kiireisyyttä vaatii toimi,
+Ja joutuun täytyy vastata.
+
+1 SENAATTORI.
+                           Tän' yönä
+On teidän lähteminen.
+
+OTHELLO.
+                      Mielist' aivan.
+
+DOGI.
+Yheksält' aamull' yhdytähän täällä. --
+Othello, joku tänne jättäkää,
+Ken toimittaa voi valtakirjan teille
+Ja muuta, mikä koskee toimianne
+Ja virkaanne.
+
+OTHELLO.
+              Jos suotte, vänrikkini;
+Rehellinen hän on ja taattu mies;
+Ma hänen haltuuns' uskon puolisoni
+Ja mitä, herra dogi, hyväks näätte
+Jäljestä lähettää.
+
+DOGI.
+                   No, olkoon niin. --
+Hyv' yötä kaikki! --
+    (Brabantiolle.)  Ja te, jalo herra:
+Jos hyve itsessään on kaunistusta, --
+Vävynne kaunis ompi eikä musta.
+
+1 SENAATTORI.
+Hyväst', uljas mauri! Desdemonaa helli.
+
+BRABANTIO.
+Jos silmät sull' on, varo häntä, oi!
+Hän petti isän, pettää sunkin voi.
+
+    (Dogi, senaattorit y.m. lähtevät.)
+
+OTHELLO.
+Hänt' uskolliseks takaan hengelläni. --
+Sun haltuus, kelpo Jago, Desdemonan
+Ma heitän nyt; suo vaimos hälle seuraks;
+Ens' tilassa tuo heidät luokseni. --
+Tule, Desdemona; tiima mulla vaan
+On maallisilta toimilta ja töiltä
+Lemmellen' antaa. Aikaa täytyy kuulla.
+
+    (Othello ja Desdemona lähtevät.)
+
+RODRIGO.
+Jago! --
+
+JAGO.
+Mitä sanot, jalo henki?
+
+RODRIGO.
+Tiedätkö, mitä aion tehdä?
+
+JAGO.
+Kaiketi mennä levolle ja nukkua.
+
+RODRIGO.
+Aion tuossa paikassa itseni hukuttaa.
+
+JAGO.
+Jos sen teet, niin emme enää ikänä ole ystäviä. Oi, mikä typerä
+keikari olet!
+
+RODRIGO.
+Typerätä on elää, kun elämä on pelkkää tuskaa, ja silloin meillä on
+määräys kuolla, kun kuolema on lääkärinämme.
+
+JAGO.
+O, kuinka viheliäistä! Minä olen katsellut mailmaa neljä kertaa
+seitsemän vuotta, ja siitä saakka, kun saatoin toisistaan eroittaa
+hyvän työn ja solvauksen, en ole vielä ikänä tavannut ihmistä, joka
+ymmärtäisi itseänsä rakastaa. Ennenkuin itseni menisin hukuttamaan
+rakkaudesta tuollaiseen helmikanaan, vaihtaisin vaikka muotoa
+babiaanin kanssa.
+
+RODRIGO.
+Mitä tehdä? Häpeän, suoraan puhuen, että näin olen rakastunut, mutta
+minussa ei ole kuntoa sitä seikkaa auttamaan.
+
+JAGO.
+Kuntoako? Joutavia! Itsestämme riippuu, olemmeko sitä tai tätä.
+Ruumiimme on yrttitarha, jonka tarhurina tahtomme on; jos nyt tahdomme
+siihen nokkosia panna tai vuohenkaalia kylvää, isoppia istuttaa tai
+ajuruohoa siitä karkoittaa; yhtä siemenlajia siihen juurruttaa tai
+vuorotella useammalla; antaa sen kesantona karjettua tai ahkerasti sitä
+ruokota, -- kyky siihen, näetkös, ja johtava voima on tahdossamme. Jos
+ei elämän vaa'an toisella laudalla olisi järki pitämässä tasapainossa
+toista, aistillisuuden lautaa, niin saattaisi veremme ja luontomme
+heikkous vietellä meitä mitä hullunkurisimpiin johtopäätöksiin. Mutta
+meillä on järki, jolla voimme jäähdyttää raivokkaita halujamme, lihan
+kutkutuksia ja hillittömiä himojamme, joista luullakseni se, minkä
+te rakkaudeksi sanotte, on vaan istukas tai siitos-oksa.
+
+RODRIGO.
+Mahdotonta!
+
+JAGO.
+Se on vaan veren kiihkoisuutta ja tahdon myöntymistä. Rohkaise mieltäsi
+ja ole mies! Vai hukuttaa itsesi? Kissoja hukutetaan ja sokeita
+koiranpentuja. Olen itseni ystäväksesi julistanut, ja tunnustan olevani
+lujimmilla ja kestävimmillä varppiköysillä ansioihisi sidottuna; en ole
+milloinkaan voinut sinulle olla suuremmaksi avuksi kuin nyt. Pane
+kultaa kukkaroosi; mene mukana sotaan; muuta tekoparralla muotosi;
+kultaa kukkaroon, sanon minä! Mahdotonta on, että Desdemona ajan
+pitkään saattaa mauria rakastaa, -- kultaa kukkaroon! -- eikä mauri
+häntä. Alku oli niin kiivas, ja saatpa nähdä, että loppu on
+samanlainen; kultaa vaan kukkaroon! -- Nuo maurilaiset ovat
+muuttelevaisia haluissaan; -- kukkaro täyteen kultaa! -- se ruoka, mikä
+nyt maistuu hänelle makealta kuin akasiapuu, muuttuu pian katkeraksi
+kuin karvas kurkki. Vaimo kaipaa vaihetusta niinkuin nuoret ainakin;
+kun hän miehestään on kyllänsä saanut, huomaa hän pian valinnassaan
+erehtyneensä. Hänellä pitää olla vaihetusta, pitää; siis, kultaa
+kukkaroon! Jos kaikin mokomin tahdot hornaan syöstä, niin on tämä keino
+paljon hauskempi kuin hukuttauminen. Ota kultaa niin paljon, kuin irti
+saat. Jos ei tekopyhyys ja tyhjä vala barbarilaisen kulkurin ja
+nokkelan venetiattaren välillä ole älyni ja koko helvetin joukkokuntaa
+voimakkaammat, niin sinä hänet saat; siis hanki vaan kultaa. Hiiteen
+koko tuo hukuttaminen. Se ei ole sinulle laisinkaan sallittu. Parempi
+sinulle sittenkin tulla hirtetyksi kesken nautintojasi kuin hukuttaa
+itsesi ja jäädä hänestä osattomaksi.
+
+RODRIGO.
+Saanko sinuun toivoni kiinnittää, jos uskallan koettaa?
+
+JAGO.
+Luota minuun. Mene vaan ja hanki kultaa. Olen usein sinulle sanonut, ja
+sanon sen vieläkin kerran ja vielä sittenkin kerran, että vihaan tuota
+mauria. Mulla on siihen sisimmästä sydämestäni syytä, eikä sullakaan
+sen vähemmän; pitäkäämme yhtä kostaessamme hänelle. Jos saat hänet
+aisankannattajaksi, niin teet sillä itsellesi huvin ja minulle
+hauskuuden. Paljon on sattumuksia ajan kohdussa, jotka vaan synnytystä
+odottavat. Eteenpäin vaan! Kas niin, hanki kultaa kukkaroon. Enemmän
+huomenna tästä asiasta. Hyvästi!
+
+RODRIGO.
+Missä huomenna yhdymme?
+
+JAGO.
+Minun luonani.
+
+RODRIGO.
+Hyvään aikaan saavun.
+
+JAGO.
+Hyvä on; hyvästi! -- Kuules, Rodrigo!
+
+RODRIGO.
+Mitä?
+
+JAGO.
+Hukuttauminen sikseen; -- kuuletko?
+
+RODRIGO.
+Olen mieltä muuttanut! Myyn kaikki tilukseni.
+
+JAGO.
+Hyvä on; hyvästi! Pane vaan tarpeeksi kultaa kukkaroon.
+    (Rodrigo lähtee.)
+Näin narrej' aina kukkarona käytän;
+Opitun taidon häväisemist' oisi
+Kuluttaa aikaa moisen hölmön kanssa,
+Jos siit' ei lähtis hyötyä ja hupaa,
+Ma vihaan mauria; ja hoetaanpa,
+Ett' on hän vihkivuoteessani käynyt;
+En tiedä, onko niin, mut toimin sulast'
+Epäilyksestä niin, kuin ois se varma.
+Mua suosii hän: se hankettani auttaa.
+Ihana mies on Cassio -- annas nähdä!
+Tydytän kostoni ja paikan sieppaan, --
+Kaks konnantyötä! -- Miten? -- Annas olla: --
+Othellon korvaan joskus kuiskaan, ett' on
+Cassio Desdemonan suosittu;
+Häll' epäluulon-alainen on muoto
+Ja käytös -- naisten viettelijäksi luotu.
+On vilpitön ja suora maurin luonne;
+Hän rehdiks uskoo sen, ken siltä näyttää,
+Nokasta hänt' on yhtä helppo vetää
+Kuin aasia. --
+Kas niin! Se siitty on: tuon epäluoman
+Nyt yön ja hornan pitää ilmaan tuoman.
+
+                             (Lähtee.)
+
+
+
+
+TOINEN NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Merikaupunki Kyprossa. Satama.
+
+    (Montano ja kaksi ylimystä tulee.)
+
+MONTANO.
+Näkyykö mitään niemelt' ulapalla?
+
+1 YLIMYS.
+Ei mitään; korkealle aallot tyrskyy.
+En yhtä purjett' eroittaa voi taivaan
+Ja meren välillä.
+
+MONTANO.
+                  Minusta tuuli
+Rajusti maalle puskee; noin ei koskaan
+Puistellut ole tornejamme myrsky.
+Merellä jos se näin on meuhannut,
+Niin mitkä tammikaaret pysyis koossa,
+Kun päälle hyökkää vuoret? Kuinka käynee?
+
+2 YLIMYS.
+Hajonnut Turkin laivasto on varmaan.
+Käykääpä rantaan vaahtoiseen, -- on niinkuin
+Vihaansa laine pilviin saakka purskuis,
+Ja niinkuin hyöky, myrskyn pieksemänä,
+Harjaansa julmaa nostaisi ja vettään
+Otavan silmiin sylkis sammuttaakseen
+Ikuisen taivaannavan tähtivahdit.
+Äkäistä mert' en ole koskaan nähnyt
+Noin raivoissaan.
+
+MONTANO.
+                  Jos turkkilaisten laivat
+Ei tuulen suojaan päässeet, vei ne hukka;
+Ei mointa saata kestää.
+
+    (Kolmas ylimys tulee.)
+
+3 YLIMYS.
+                        Uutisia!
+Lopussa nyt on sota; raivo myrsky
+Niin turkkilaist' on piessyt, että ontuu
+Hän hankkeissaan. Venetialainen haaksi
+Kamalan häviön ja puutteen vallass'
+On suuren osan laivastosta nähnyt.
+
+MONTANO.
+Kuin? Tottako?
+
+3 YLIMYS.
+               Veronalainen laiva
+On satamahan tullut; Michael Cassio,
+Urhoisan maurin luutnantti, on maalla,
+Mut mauri itse vielä merell' on
+Ja kohta valtiaana Kyproon saapuu.
+
+MONTANO.
+No, sepä hauskaa: kelpo kuvernööri!
+
+3 YLIMYS.
+Mut Cassio, vaikka lohdukkaasti haastaa
+Hän Turkin häviöstä, murheissansa
+Rukoilee maurin puolesta: näet, heidät
+Eroitti tuima myrsky.
+
+MONTANO.
+                      Jumal' auksi!
+Hänt' olen palvellut: hän uhka sotur'
+On päällikkönä. Lähtekäämme rantaan,
+Niin äsken tulleen laivan saamme nähdä
+Ja urhokast' Othelloa tähystää,
+Siks että ulappa ja sinitaivas
+Sulaapi silmiss' yhdeksi.
+
+1 YLIMYS.
+                          Sen teemme.
+Jokainen hetki uutten tulokkaiden
+Odottamista on.
+
+    (Cassio tulee.)
+
+CASSIO.
+                Ma kiitän teitä,
+Te tämän urhosaaren urhot miehet,
+Näin mauria kun suositten. -- Oi, taivas
+Turvatkoon häntä luonnon voimaa vastaan!
+Myrskyisen meren valtaan jäi hän multa.
+
+MONTANO.
+Hyv' onko laiva?
+
+CASSIO.
+                 Lujaa tekoa,
+Ja perämiesi tunnettu on taatuks
+Ja taidokkaaksi. Siis voi toivonikin,
+Kun viel' ei kuolonsairaaks kiihtynyt se,
+Odottaa luottavasti parannusta.
+
+(ULKOA.)
+Kah, purje, purje!
+
+    (Sanansaattaja tulee.)
+
+CASSIO.
+                   Mit' on ääntä tuo?
+
+SANANSAATTAJA.
+Kaupunki tyhj' on. Meren rantaa pitkin
+Riveissä kansaa seisoo, huutain: "purje!"
+
+CASSIO.
+Mua toivon' uskottaa, ett' on se mauri.
+
+    (Laukauksia kuuluu.)
+
+2 YLIMYS.
+He tervehtivät höylist' ampumalla;
+Varmaankin ystäviä.
+
+CASSIO.
+                    Menkää, herra,
+Ja tuokaa tieto tulijasta.
+
+2 YLIMYS.
+                           Kyllä.
+
+    (Lähtee.)
+
+MONTANO.
+Luutnantti hyvä, onko naimisissa
+Tuo kenraalinne?
+
+CASSIO.
+                 Onnellisiss' aivan;
+Hän tytön sai, mi kaikkein kuvausten
+Ja rohkeimmankin maineen kanssa kilpaa;
+Somimman kynän kehutkin hän voittaa
+Ja puhtahassa luonnon pukimessaan
+Saa taiteen ymmälle. --
+    (2 ylimys palajaa.)
+                        No, ken on tullut?
+
+2 YLIMYS.
+Othellon vänrikki vaan, eräs Jago.
+
+CASSIO.
+Sep' aivan onnekas ja joutu matka.
+Säät rajut, vinhat myrskyt, karjaspäät,
+Lietselät, umpiluodot, jotka piillen
+Salassa viatonta taikaa väijyy,
+Kuin kauneutta he tuntis, murhamielens'
+Unohtavat, ja ehjän' ohi kulkee
+Tuo jumalatar Desdemona.
+
+MONTANO.
+                         Ken se?
+
+CASSIO.
+Hän, josta puhuin, valtiaamme valtias,
+Jot' uljas Jago saattaa: tulollaan hän
+Ehdätti toivehemme viikon päivät. --
+Zeus suuri! varjele Othelloa,
+Sen purjeet täytä henkes voimall', että
+Aluksellaan hän valkamamme siunais,
+Sylihin Desdemonan hehkuin vaipuis,
+Lois sammuneihin mieliin uutta tulta
+Ja koko Kypron lohduttais.
+    (Desdemona, Emilia, Jago, Rodrigo seuralaisineen tulevat.)
+                           Oi, kas!
+Kas, laivan rikkaus on maalle noussut! --
+Sen eteen polvillenne, Kypron miehet! --
+Signora, terve sulle! Taivaan armo
+Edestä, takoa ja kaikin puolin
+Sua ympäröitköön!
+
+DESDEMONA.
+                  Kiitos, uljas Cassio!
+Mit' uutta minun miehestäni kuuluu?
+
+CASSIO.
+Hän viel' ei ole tullut; muut' en tiedä,
+Kuin ett' on terve hän ja kohta saapuu.
+
+DESDEMONA.
+Oo! mutta pelkään. -- Miten jäi hän teistä?
+
+CASSIO.
+Tuo pilvien ja meren suuri kiista
+Eroitti meidät. Mutta, vaiti! Laiva!
+
+(ULKOA.)
+Kah! laiva, laiva!
+
+    (Laukauksia kuuluu.)
+
+2 YLIMYS.
+He linnaa tervehtivät: nekin kai
+On ystäviä.
+
+CASSIO.
+            Tieto hankkikaa. --
+    (Ylimys lähtee.)
+Vänrikki, terveeks! --
+    (Emilialle.)       Tervetullut, rouva! --
+Pahaksi älkää panko, Jago, vaikka
+Tapaani käytän: kasvatus se minut
+Näin rohkean on kohteliaaksi tehnyt.
+
+    (Suutelee Emiliaa.)
+
+JAGO.
+Jos huuliltaan hän suo sen verran teille,
+Kuin tarjoaa hän mulle kieleltänsä,
+Niin saatte kyllin.
+
+DESDEMONA.
+                    Raukka tuskin puhuu!
+
+JAGO.
+Ma mitä kuulen! Liiaksikin paljon!
+Sen aina huomaan, kun ma maata tahdon.
+Edessä teidän armonne, sen arvaan,
+Hän kielens' alas sydämeensä nielee
+Ja aatoksissaan haukkuu.
+
+EMILIA.
+                         Syyt' ei sulla
+Sanoa tuota.
+
+JAGO.
+             Eipä vainen! Ulkon'
+Olette niinkuin kuvat, kotoisalla
+Kuin porokellot, kyökissänne pedot,
+Paheessa pyhät, loukattuina pirut,
+Hotikot töissä, maaten työtyrit.
+
+DESDEMONA.
+Hyi suas, parjaaja!
+
+JAGO.
+Jos tott' ei tuo, mun saatte Turkkiin myödä:
+Te päivät leikitten, yöt teette työtä.
+
+EMILIA.
+Ylistystän' et kirjoittaa saa sinä.
+
+JAGO.
+En tahdokaan.
+
+DESDEMONA.
+              No, mitä kirjoittaisit,
+Jos minua sun tulis ylistää?
+
+JAGO.
+Oi, armas rouva, mua säästäkäätte:
+Ei minusta, jos en saa sättiä.
+
+DESDEMONA.
+No, koita! -- Valkamaan kai joku lähti?
+
+JAGO.
+Kyll', armas rouva.
+
+DESDEMONA (syrjään).
+Iloinen en ma ole, mutta peitän
+Tosi-oloni ja toiselt' aivan näytän. --
+No, entä ylistykses?
+
+JAGO.
+                     Olen työssä;
+Mut voi! mun keksintöni päästä lähtee
+Kuin karvakankahasta linnunliima:
+Se aivot vie ja kaikki. -- Runotarpa
+Väettää jo, ja näin se synnyttää:
+Jos suloinen ja älykäs on tuo,
+Hän älyn käyttää, sulon käytöks suo.
+
+DESDEMONA.
+Hyvä ylistys! Entä jos hän on älykäs ja musta?
+
+JAGO.
+Ken musta on ja lisäks älyinen,
+Parikseen kyllä löytää valkoisen.
+
+DESDEMONA.
+Hullua hullumpaa vaan!
+
+EMILIA.
+Entä jos kaunis ja houkkamainen?
+
+JAGO.
+Ei kaunis ole koskaan houkkamainen:
+Näet, houkkanakin äidiks kelpaa nainen.
+
+DESDEMONA.
+Vanhoja tyhmiä loruja, jotka saattavat hupsuja olutkapakassa naurattaa.
+Kuinka viheliäinen lieneekään ylistyksesi naisesta, joka on ruma ja
+houkka?
+
+JAGO.
+Niin rumaa houkkaa ei lie, ett'ei tään
+Voi käydä niin kuin kauniin älykkään.
+
+DESDEMONA.
+Voi, kauheata älyttömyyttä! Pahimmalle paras ylistys! Vaan mitenkä
+ylistät sitten oikein kelpo naista, semmoista, joka ansioittensa
+nojalla voisi vaatia itse ilkeyttä todistamaan puolestaan?
+
+JAGO.
+Ken aina kaunis on, ei koskaan pöyhkä,
+Nopea kieleltänsä, mut ei röyhkä;
+Ken rikas on, mut kultiaan ei näytä;
+Tahtonsa saada voi, mut sit' ei käytä;
+Vihoissaan kostollen voi sijaa antaa,
+Mut kiukun karkoittaa ja herjan kantaa;
+Ken järjeltään niin lyhyt olla kaihtaa,
+Ett' turskan päähän lohen hännän vaihtaa.
+Ken aatella ja vaiti olla voi
+Ja miestä saadakseen ei kiemuroi;
+Semmoinen olento hän voi -- niin, mitä?
+
+DESDEMONA.
+No, mitä?
+
+JAGO.
+Imettää narreja ja olutkirjaa pitää.
+
+DESDEMONA.
+Oi, mikä rampa ja ontuva johtopäätös! Älä ota häneltä oppia, Emilia,
+vaikka hän miehesikin on. -- Mitä luulette, Cassio, eikö hän ole sangen
+jumalaton ja kevytmielinen leikinlaskija?
+
+CASSIO.
+Hän puhuu suoraa kieltä, rouvaseni; häntä pitää enemmän soturina kuin
+oppineena arvostella.
+
+JAGO (syrjään).
+Hän tarttuu hänen käteensä; niin, oikein! Kuiskuttelevaan! Tuollaiseen
+pieneen lukinseittiin kiedon minä kärpäsen, Cassion suuruisen. Niin,
+hymyile hänelle, hymyile! Tartut kuin tartutkin vielä omiin
+kiemuroihisi. Oikein puhuttu, aivan niin! Jos tuollaisten elkeitten
+tähden virkasi menettäisit, niin olisi parasta, ett'et niin usein
+suutelisi noita kolmea sormeasi, joilla nytkin taas niin mukavasti
+hienoutta osoittelet. Oivallista! Kelpo suudelma! Perhanan kauniita
+kumarruksia! -- Niin, niin, aivan niin! -- Kas niin, taasko sormet
+suuhun? Jospa edes olisivat peräruiskuja! -- (Torvi kuuluu.) Mauri! Se
+on hänen torvensa.
+
+CASSIO.
+Niin totta onkin.
+
+DESDEMONA.
+Käykäämme kohti, ottamahan vastaan.
+
+CASSIO.
+Kah, tuossa hän jo tulee.
+
+    (Othello seuralaisineen tulee.)
+
+OTHELLO.
+Urottareni kaunis, oi!
+
+DESDEMONA.
+                       Othelloni!
+
+OTHELLO.
+Oi ihme, suuri kuin mun ihastuksen',
+Ett' ennen mua saavuit! Mikä autuus!
+Jos joka myrskyn jälkeen näin on tyyntä,
+Niin riehukoon se, kunnes herää tuoni!
+Kavutkoon laiva ylös lainevuorta
+Olympon korkuista, ja taas niin syvään,
+Kuin horna taivaast' on, se alas syösköön!
+Kuink' onnellista kuolla nyt! Niin täysi
+Nyt autuuteni määrä on, ma pelkään, --
+Ett' tulevaisuus helmassaan tällaist' ei
+Iloa toista tuo.
+
+DESDEMONA.
+                 Evätköön taivas,
+Ett' ilo, lempi päiviemme kanssa
+Ei kilvan kasvais!
+
+OTHELLO.
+                   Amen, armaat vallat! --
+Julistaa en voi autuuttani kyllin,
+Se tähän jää: täss' iloa on liiaks!
+Tuo, tuo,
+    (Suutelee häntä)
+          se suurin epäsointu olkoon
+Sydämissämme!
+
+JAGO (syrjään).
+              Hyv' on sointu vielä!
+Mut minä säristän tuon soiton kielet,
+Niin totta kuin ma olen kunnon mies.
+
+OTHELLO.
+Käykäämme linnaan. -- Uutisia kuulkaa:
+Sota lopuss' on ja Turkki upotettu. --
+Kuin voivat vanhat ystävämme täällä? --
+Sä, armas, olet Kyproon tervetullut;
+Minusta paljon pitävät he täällä.
+Oi, kulta, joutavia juttelen:
+Mua oma autuus hurmaa. -- Jago hyvä,
+Käy valkamaan ja tavarani nouda
+Ja laivaherra sieltä linnaan käske;
+Hän kelpo mies on, tunnustusta vaatii
+Hän ansioistaan. -- Tule, Desdemona;
+Ja vielä kerran: tervetullut Kyproon!
+
+    (Othello ja Desdemona seuralaisineen lähtevät.)
+
+JAGO (palvelijalle).
+Mene oiti valkamaan ja varro mua siellä. -- (Rodrigolle.) Käy tänne.
+Jos olet mies -- sillä sanotaan, että pelkuritkin, kun rakastuvat,
+saavat luonteeseensa jotakin jaloa, jota se synnynnältään on vailla --
+kuule mua. Luutnantti on tänä yönä linnassa vahdinpidossa; -- mutta
+ensin tulee sinun tietää yksi asia: Desdemona on häneen oikein
+rakastunut.
+
+RODRIGO.
+Häneen! Mahdotonta!
+
+JAGO.
+Pane sormesi -- noin, ja ota oppiaksesi. Huomaa, millä kiihkeydellä hän
+alussa mauria rakasti, tämä kun osasi kehua ja luonnottomia valheita
+hänelle ladella; ja ijätikö hän moista lörppäkieltä rakastaisi? Älä,
+järkevä ystävä, sitä luule. Hänen silmänsä kaipaavat ravintoa; ja mitä
+iloa hänellä on paholaisen katselemisesta? Kun veri on nautinnoissa
+raukeaksi käynyt, niin on tarpeen -- jotta se taasen tulistuisi
+ja kylläisyys saisi uutta kiihoitusta -- suloinen ulkomuoto,
+sopusointuisuus ijässä, tavoissa ja ihanuudessa; jota kaikkea mauri on
+vailla. Näitä välttämättömiä ehtoja kaivatessaan tuntee hänen hieno
+aistinsa itsensä pettyneeksi, mauri alkaa häntä iljetyttää, innoittaa
+ja kuottaa; luonto itse ajaa häntä ja pakoittaa uutta valikoimaan. No,
+ystävä, tämän myönnettyämme, -- joka on aivan selvä ja luonnollinen
+edellytys, -- kukapa seisoo tämän onnen portailla niin korkealta kuin
+Cassio, tuo kielipalko veitikka, siinä vaan tunnokas, että pukeutuu
+siistin ja siivon käytöksen ulkonaiseen verhoon voidakseen sitä
+paremmin tyydyttää salaisia, irstaita ja hillittömiä himojansa? Ei
+kukaan, ei kukaan! Liukas ja viekas veitikka; hyvien tilaisuuksien
+urkkija; jonka silmä sepittää ja mukailee keinoja, vaikk'ei kelpo
+keinoja koskaan ole tarjona. Pirullinen konna! Lisäksi se kanalja on
+sievä ja nuori ja kaikki ne ominaisuudet hänellä, joita tyhmyys ja
+kypsymätön äly tähystelee. Kirottu konna läpi läpensä! Ja naikko on jo
+häneen silmänsä iskenyt.
+
+RODRIGO.
+En saata tuota vaimosta uskoa; hänellä on aivan hurskas mielenlaatu.
+
+JAGO.
+Hurskas! Jopa jotakin! Se viini, jota hän juo, on rypäleistä tehtyä.
+Jos hän olisi hurskas ollut, ei hän olisi mauriin rakastunut. Hurskasta
+hakkelusta! Etkös nähnyt, miten hän sormillaan hänen kättään
+kutkutteli? Etkö sitä huomannut?
+
+RODRIGO.
+Kyllä; mutta se oli vaan kohteliaisuutta.
+
+JAGO.
+Haureutta, niin totta kuin tämä käsi on mun! Alkulause vaan ja hämärä
+johdanto näytelmään: "hekumat ja irstaat ajatukset!" Heidän huulensa
+kohtasivat toisiansa niin läheltä, että henget joutuivat kiemailukseen.
+Häijyjä ajatuksia, Rodrigo! Kun tällainen tuttavallisuus on
+edelläkävijänä, tulee heti jäljessä itse valta- ja pääjoukko: yhdistävä
+loppupäätös. Hyi! -- Mutta, ystävä, kuule neuvoani; minä olen sinut
+Venetiasta tuonut. Mene yöksi vahtiin; määräyksestäsi minä pidän
+huolta. Cassio ei sinua tunne; minä en ole sinusta kaukana. Keksi
+keinoja suututtaaksesi Cassiota, joko suureen ääneen puhumalla tai
+soimaamalla hänen sotakelpoansa tai muulla lailla, minkä tilaisuuteen
+nähden sopivimmaksi huomaat.
+
+RODRIGO.
+Hyvä!
+
+JAGO.
+Hän on pikainen ja tuittupäinen; kentiesi hän sinua lyökin; ärrytäpäs
+häntä siihen. Muuta en tarvitse saadakseni Kyprossa aikaan kapinan,
+jota ei hyvällisesti saata muulla asettaa kuin eroittamalla Cassion.
+Näin saat sinä lyhemmän päivämatkan toiveittesi perille, niiden
+keinojen avulla, joita minä keksin niitä edistääkseni; ja kaikki esteet
+poistetaan voitollisesti, jota ilman emme voisi mitään menestystä
+toivoakaan.
+
+RODRIGO.
+Minä suostun, jos vaan sinä hankit sopivan tilaisuuden.
+
+JAGO.
+Siitä kyllä vastaan. Tule heti linnalle tapaamaan minua; minun täytyy
+nyt toimittaa hänen tavaransa maalle. Herran haltuun!
+
+RODRIGO.
+Hyvästi!
+
+    (Lähtee.)
+
+JAGO.
+Että Cassio häntä lempii,
+Sen uskon; mutta hänkö Cassiota?
+Miks ei? Se luultavaa ja mahdollist' on!
+Othellolla -- vaikk' en ma häntä kärsi --
+On luja, lempeä ja jalo luonto;
+Hän Desdemonalle, sen vakaast' uskon,
+On hyvä mies. Minäkin häntä lemmin;
+En suoraan himosta, -- vaikk' ehkä voisin
+Ma synnin niinkin suuren päällen' ottaa,
+Vaan kostoani ravitakseni:
+Ma varon, näät, ett' irstas mauri tuo
+On tarhassani käynyt, ja se aatos
+Kuin tuima myrkky sisuksia leikkaa.
+Ei mikään voi, ei saa mua tyydyttää,
+Siks kun on tasan pantu -- eukost' eukko.
+Tai tuo jos pettää, saatan vihdoin maurin
+Niin julman luulevaiseks, ett'ei häntä
+Paranna järkikään. Sen täyttääkseni --
+Jos vaan tuo Venetian rakki-raukka,
+Jot' ajonani pidän, ajon kestää, --
+Ma Michael Cassiota lonkkaan isken;
+Hänt' irstaaks hemmuks maurille ma parjaan;
+On hänkin, näät, mua petkuttanut, pelkään. --
+Mua mauri sitten suosii, kostaa, kiittää,
+Kun hänest' aasin suoraan tein ja hältä
+Vein levon, rauhan, tuoden sijaan raivon.
+Se tuolla vielä piilee niinkuin yössä;
+Kasvonsa konnuus näyttää vasta työssä.
+
+                             (Lähtee.)
+
+
+
+Toinen kohtaus.
+
+    Katu.
+
+    (Airut tulee, kädessä julistus; kansaa jäljessä.)
+
+AIRUT.
+Othellon, jalon ja urhokkaan päällikkömme toivo on, että nyt, kun on
+tullut varmat tiedot turkkilaisen laivaston täydellisestä perikadosta,
+jokainen osoittakoon julkisesti iloansa, mikä tanssilla, mikä
+ilotulituksilla, mikä miltäkin huvilla ja leikillä, halunsa mukaan
+kukin; sillä, paitse tätä iloista tapausta, vietetään tänään myöskin
+hänen häitään. Tämä hänen käskystään julki julistetaan. Kaikki linnan
+huoneet ovat avoinna, ja siellä on vapaa kestitys tästä, viidennestä,
+hetkestä alkain siihen saakka, kunnes kello on yksitoista lyönyt.
+Jumala siunatkohon Kypron saarta ja jaloa päällikköämme, Othelloa!
+
+    (Lähtee.)
+
+
+
+Kolmas kohtaus.
+
+    Linnan sali.
+
+    (Othello, Desdemona, Cassio ja seuralaisia tulee.)
+
+OTHELLO.
+Tän' yönä, Michael, vahdist' ota vaari.
+Olkaamme hyväks esimerkiks itse,
+Kuink' ilollakin tulee raja olla.
+
+CASSIO.
+Jagolla on jo käsky mitä tehdä;
+Mut kuitenkin ma tahdon omin silmin
+Tarkastaa kaikki.
+
+OTHELLO.
+                  Kelpo mies on Jago.
+Hyv' yötä, Michael; huomenn', ani varhain
+Sua puhutella tahdon. --
+    (Desdemonalle.)
+                         Tule, armas:
+Ken kaupan tekee, tahtoo siitä voittaa;
+Sen hyödyn saamme kumpikin nyt koittaa.
+Hyv' yötä!
+
+    (Othello, Desdemona seuralaisineen lähtevät.)
+
+    (Jago tulee.)
+
+CASSIO.
+Terve, Jago! Meillä on vahdinpito nyt.
+
+JAGO.
+Ei ihan vielä, luutnantti; kello ei ole vielä kymmentä. Meidän
+päällikkömme tahtoo näin varhain meistä päästä, kun on niin rakastunut
+Desdemonaansa; ja siitä älkäämme häntä moittiko; hän ei ole vielä
+yhtäkään yötä hänen kanssaan lystäillyt, ja siinäpä makupala vaikka
+Jupiterille.
+
+CASSIO.
+Hän on oikein erinomainen nainen.
+
+JAGO.
+Ja ihmeen vallaton, sen takaan.
+
+CASSIO.
+Niin todellakin, sangen ihana ja viehättävä olento.
+
+JAGO.
+Ja niitä silmiä sitten! Minusta ne ikäänkuin voittoisille vaativat.
+
+CASSIO.
+Viehättävät silmät ja minusta sangen häveliäät.
+
+JAGO.
+Ja hänen haastinsa, eikö se ole oikein rakkauden sotahuutoa?
+
+CASSIO.
+Hän on todellakin täydellisyys.
+
+JAGO.
+Onnea morsius-yölle! Tulkaa, luutnantti; mulla on pullollinen viiniä,
+ja täällä ulkona on pari reipasta Kypron poikaa, jotka mielellään
+kilistelisivät maljaa mustan Othellon muistoksi.
+
+CASSIO.
+Ei, hyvä Jago, ei tänä iltana; minulla on vallan heikko ja onneton
+viinapää. Soisin mielelläni, että kohteliaisuus keksisi jonkun toisen
+kunnioittamistavan.
+
+JAGO.
+Oo, nehän ovat ystäviämme! Pikarillinen vaan! Minä juon teidän
+puolestanne.
+
+CASSIO.
+En ole tänä iltana muuta maistanut kuin yhden pikarillisen ja senkin
+vedellä taitavasti sekoitettuna, -- mutta kas, minkä mullistuksen se on
+tehnyt! Olen niin heikko, ikävä kyllä, enkä tohdi nyt enää huonoja
+voimiani koetukselle panna.
+
+JAGO.
+Kah, ystävä, tänä yönä pitää hummata. Niin tahtovat nuo reippaat pojat.
+
+CASSIO.
+Missä he ovat?
+
+JAGO.
+Tuolla ulkona. Kutsupas heitä sisään, ole niin hyvä.
+
+CASSIO.
+Kyllä sen teen, mutta vastenmielistä se on.
+
+    (Lähtee.)
+
+JAGO.
+Jos vaan saan hänet juomaan lasin verran
+Sen lisäks', mit' on hän jo ennen juonut.
+Niin tulee hän niin riitaiseks ja ärjäks
+Kuin armon rakki. Tuo Rodrigo hölmö,
+Jonk' aivan nurin kääntänyt on lempi,
+On Desdemonan muistoks tyhjentännä
+Mont' uhka maljaa, ja nyt vahdiss' on hän.
+Kolm' oivaa kyprolaista -- tuittupäitä,
+Jotk' ovat arkamaiset kunniastaan:
+Tän urhollisen saaren tosi kuvat, --
+Ma vaahtomaljoin päihdytin; he vahdiss'
+On hekin. Tuossa juopposeurassa
+Hytytän Cassiomme tekoon, joka
+Vihoittaa koko saaren. -- Kah, tuoss' ovat
+Jos toteen käy vaan mitä uneksin,
+Niin myötä virran, tuulen purjehdin.
+
+    (Cassio palajaa, Montano ja muita ylimyksiä hänen seurassaan.)
+
+CASSIO.
+No, jumal'auta, ovatkin jo saaneet minut hiivaan.
+
+MONTANO.
+Herrainen aika, mitäpä tuosta! Tuskinhan jyvänkään vertaa joit, niin
+totta kuin soturi olen.
+
+JAGO.
+Hoi! Viiniä tänne!
+
+    (Laulaa:)
+
+    Hei, malja tänne, saas, saas!
+    Hei, malja tänne, saas!
+    Sotamies sepä mies on puolestaan,
+    Vaikk' elämätä vaaksan verta on vaan.
+    Sotamiehet, juodahan taas!
+
+Viiniä tänne, pojat!
+
+    (Viiniä tuodaan.)
+
+CASSIO.
+Saakeli soikoon, oivallinen laulu!
+
+JAGO.
+Sen opin Englannissa; siellä sitä, totta toisen kerran, vasta juoda
+osataan. Ei Tanskan mies, ei saksalainen eikä tuo ihramaha
+hollantilainen -- saas tästä! -- ole mitään englantilaisen rinnalla.
+
+CASSIO.
+Onko se englantilainen niin verraton juomari?
+
+JAGO.
+On kuin onkin; helposti hän juo tanskalaisen kumoon; hänellä ei vielä
+ole hikikarpaloa otsalla, kun jo saksalainen on pöydän alla; ja
+hollantilainen se jo kukertuu, ennenkuin maljaa toistamiseen täytetään.
+
+CASSIO.
+Päällikkömme terveydeksi!
+
+MONTANO.
+Siihen, luutnantti, minä yhdyn ja vastaan maljaanne.
+
+JAGO.
+O, sitä ihanata Englantia!
+
+    (Laulaa:)
+
+    Kuningas Staffan oli kunnon mies,
+    Hän housuista plootun jätti;
+    Mut kallihiks katsoi tuon kenties
+    Ja räätäliään nyt sätti.
+    Hän mies oli korkea arvoltaan,
+    Sinä vaan olet köyhä rakki;
+    Se ylpeys on, joka kaataa maan,
+    Siis yllesi vanha takki.
+
+Viiniä tänne, hoi!
+
+CASSIO.
+Kah, sepä vielä ihanampi laulu kuin äskeinen.
+
+JAGO.
+Tahdotteko sen kuulla toistamiseen?
+
+CASSIO.
+En, sillä sen pidän kelvottomana virkaansa, joka tuommoista tekee. --
+Niin, taivas on yli meidän kaikkien, ja sieluja on, jotka autuaiksi
+tulevat, ja sieluja on, jotka eivät tule autuaiksi.
+
+JAGO.
+Aivan totta, rakas luutnantti.
+
+CASSIO.
+Itse puolestani, -- loukkaamatta sillä päällikköämme tai ketään muuta
+ylhäistä herraa -- toivon minä tulevani autuaaksi.
+
+JAGO.
+Niin minäkin, luutnantti hyvä.
+
+CASSIO.
+Niin; vaan -- suokaa anteeksi -- ennen minua ette suinkaan: luutnantti
+tulee ennen autuaaksi kuin vänrikki. Vaan mitäpä siitä sen enempää!
+Toimihimme nyt! -- Anna meille meidän syntimme anteeksi! -- Hyvät
+herrat, tehkäämme nyt tehtävämme. Älkää luulko, herrat, että olen
+päissäni; tuo tuossa on vänrikkini; -- tuossa on oikea käsi, ja
+tuossa on vasen käsi. -- Päissäni en ole: voin sangen hyvin
+seisoa ja sangen hyvin puhua.
+
+KAIKKI.
+Erinomaisen hyvin.
+
+CASSIO.
+Vai niin, sepä hyvä; älkää siis luulko, että olen päissäni.
+
+    (Lähtee.)
+
+MONTANO.
+Nyt vallille ja vahdit asemilleen!
+
+JAGO.
+Tuon miehen tuossa näitte: sotur' on hän
+Ja kelpais vaikka Caesarinkin luona
+Komentajaks. Te näette miehen viat;
+Hyveisin ne on päiväntasoiss' aivan:
+Molemmat yhtä pitkät. Sääli hänt' on!
+Ma pelkään, ett' Othellon luotto häneen
+Saartanne haittaa, jos saa pahaan aikaan
+Tuo heikkous vallan.
+
+MONTANO.
+                     Juoko noin hän usein?
+
+JAGO.
+Se häll' on aina johdantona uneen;
+Hän kellon kahdest' ympärinsä valvois,
+Jos hiiva hänt' ei uneen tuutisi.
+
+MONTANO.
+Hyv' ois, jos päällikkönne sais sen tietää;
+Ehk'ei hän sitä näe; tai Cassion hyveet
+Vaan hyväntahtoisuudessaan hän huomaa
+Ja virheet peittoon jättää. Eikö totta?
+
+    (Rodrigo tulee.)
+
+JAGO (syrjään hänelle).
+Rodrigo, mitä nyt?
+Luutnantin jäljest' oiti lähde, -- joutuun!
+
+    (Rodrigo lähtee.)
+
+MONTANO.
+Vahinko suuri, että jalo mauri
+Semmoiseen virkaan -- omaks sijaisekseen --
+Noin paheisiinsa piinttyneen on pannut.
+Se tekis kelpo työn, ken ilmoittais sen
+Hänelle.
+
+JAGO.
+         Min' en, vaikka Kypron saisin.
+Rakastan Cassiota, kaikki annan
+Parantaakseni häntä. Vait! Mit' ääntä?
+
+    (Ulkona huudetaan: apua, apua!)
+    (Cassio palajaa, ajaen Rodrigoa takaa.)
+
+CASSIO.
+Sa, roisto! Konna!
+
+MONTANO.
+                   Luutnantti, mik' on?
+
+CASSIO.
+Opettaa, lurjus, tehtäväni mulle!
+Ma moisen konnan vasupulloon pieksen.
+
+RODRIGO.
+Mua piekset?
+
+CASSIO.
+             Mutisetko?
+
+    (Lyö Rodrigoa.)
+
+MONTANO.
+                         Luutnantt', älkää!
+    (Pidättää häntä.)
+Ma pyydän, hiljaa!
+
+CASSIO.
+                   Antakaa mun mennä,
+Tai kalloon teitä isken.
+
+MONTANO.
+                         Mitä, mitä?
+Olette humalassa.
+
+CASSIO.
+                  Humalassa!
+
+    (Taistelevat.)
+
+JAGO (syrjään Rodrigolle).
+Pois, sanon! Riennä, huuda -- kapinaa!
+    (Rodrigo lähtee.)
+Luutnantti hyvä, seis! -- Voi, hyvät herrat! --
+Apua! -- Luutnantti! -- Montano! -- Herra! --
+Avuksi, herrat! -- Kyll' on kelpo vahti!
+    (Kello soi.)
+Ken soittaa? -- O, diavolo! Kaupunki
+On noussut! -- Herran tähden, luutnantti!
+Ikuisen saatte häpeän.
+
+    (Othello seuralaisineen tulee.)
+
+OTHELLO.
+                        No, mitä?
+
+MONTANO.
+Ma verta vuodan: kuolinhaavan sain ma.
+Hän kuolkoon!
+
+OTHELLO.
+              Seis, jos henki teille rakas!
+
+JAGO.
+Seis, luutnantti! -- Montano! -- Hyvät herrat,
+Arvonne, tehtävänne unhotatte.
+Kenraali puhuu, vait! Seis! Hävetkää!
+
+OTHELLO.
+No, mitä? Mistä tämä? Turkkilaisiks
+Nyt muutummeko, tehden toisillemme
+Mit' ottomanneiltakin taivas kieltää.
+Pois, kristityt, tuo pakanainen riita!
+Ken liikahtaa ja vimmaans' ei nyt hilli,
+Se henkens' uskaltaa: pää poikki oiti!
+Tuo kello julma vaietkoon! Se saaren
+Levoltaan säikyttää. -- Mist' ompi riita?
+Sa kunnon Jago, surust' aivan kalme,
+Ken alkoi, sano, nimess' ystävyyden!
+
+JAGO.
+En tiedä. Ystäviä kaikk' ol' äsken
+Ja rakkaita kuin morsio ja ylkä
+Makuulle mennessään. Ja sitten heti --
+Kuin mikä tähti heilt' ois järjen vienyt --
+Asehet maalle, rinta vasten rintaa
+Verisess' ottelussa! Min en tiedä,
+Mist' alkoi tämä kummallinen riita.
+Jos menettänyt kunnon sodass' oisin
+Nuo raajat, jotka tähän melskaan toi mun!
+
+OTHELLO.
+Kuink' itses, Michael, unhotit sa noin!
+
+CASSIO.
+Anteeksi, pyydän; puhua en saata.
+
+OTHELLO.
+Jalo Montano, tunnettu niin siivoks;
+Nuoruutennehan tyyntä vakavuutta
+Mailma kiittää; maineenne on suuri
+Viisasten suussa; mikä nyt on tullut,
+Kun hyvän kuulunne noin tahraatte,
+Nimenne jalon haaskaten ja myyden
+Yötappelijan nimeen? Vastatkaa.
+
+MONTANO.
+Jalo Othello, kuolinhaavoiss' olen;
+Ilmoittaa vänrikkinne Jago saattaa --
+Puhettani ma säästän, se mua vaivaa --
+Mit' itse tiedän. Kuitenkaan en tiedä,
+Mit' oisin pahaa sanonut tai tehnyt,
+Jos itsensäilytys ei ole rikos
+Ja syntiä ei itsepuolustus,
+Kun väkivalta uhkaa.
+
+OTHELLO.
+                     Jumal'auta,
+Jo veri alkaa varman oppaan voittaa!
+Ja kiukku, hämmentäen älyn kirkkaan,
+Nyt ohjiin tarttuu. Jos vaan liikahdan,
+Jos kättäni vaan nostan, maahan sortuu
+Paraskin teistä. Kertokaa, kuink' alkoi
+Katala riita tuo, ja ken sen alkoi?
+Ken tähän rikoksehen syypääks nähdään --
+Vaikk' oma kaksoisveljeni se oisi --
+Sen hylkään pois. Kuin? Sodan keskell' aivan,
+Kun hurja kauhu mielet vielä täyttää,
+Torahan, käsikähmään käydä yöllä
+Ja henkivartiona vahdiss' ollen! --
+Se hirveää on. -- Jago, ken sen alkoi?
+
+MONTANO.
+Jos virkainnosta tai puoltomiellä
+Muut' ilmaiset kuin suoran totuuden,
+Et sotur' ole.
+
+JAGO.
+               Liki älä astu!
+Ma ennen kielen suustan' annan viedä,
+Kuin Michael Cassiota loukkaisin;
+Mut luulen toki, ett'ei totuus hälle
+Lie vahingoks. -- Näin, kenraal', oli laita:
+Montanon kanssa kun ma puhelin,
+Niin tuli mies, jok' ääneen huusi apua,
+Ja jäljest' oiti Cassio, miekka maalla,
+Valmiina iskemään. Montano silloin
+Käy Cassion tielle ja hänt' estää koittaa.
+Jäljestä huutajan ma itse juoksin,
+Ett'ei hän parullaan -- niin kävi toki --
+Peloittais kansaa. Ollen nopsa juoksuun.
+Hän pakoon pääsi. Heti nyt ma käännyin,
+Kun miekan hälinän ja kalskeen kuulin
+Ja Cassion ääneen noituvan, jot' ennen
+En ollut koskaan kuullut. Tullessani
+Se kävi joutuun -- yhdess' oli miehet
+Ja iskivät ja löivät niin kuin äsken,
+Kun itse heidät eroititte.
+Muut' en ma tästä tiedä; -- ihminenhän
+On ihminen: paraskin joskus eksyy.
+Vaikk' ehkä Cassio häntä loukkas hiukan --
+Vihoissaan saattaa ystävääkin lyödä --
+Niin Cassiota, luulen, pakenija
+Niin herjas, ett'ei sitä mikään kärsi.
+
+OTHELLO.
+Jaloutes ja ystävyytes, Jago,
+Asian kaunistaa vaan, helpoks tehden
+Sen Cassiolle. -- Rakastan sua, Cassio;
+Mut luutnanttin' et enää saata olla. --
+    (Desdemona seuralaisineen tulee.)
+Kas, eikö herännyt jo vaimonikin! --
+Sinussa esimerkin näytän. --
+
+DESDEMONA.
+                              Mik' on?
+
+OTHELLO.
+Kaikk', armas, hyvin taas on. Tule maata! --
+Montano, haavanne ma itse sidon. --
+Kotihin hänet viekää. --
+    (Montano viedään pois.)
+                         Silmää, Jago,
+Tarkasti kaupunkia; tyynnä niitä,
+Joit' on tää inha melu säikyttännä. --
+Tule, Desdemona; näin on sotilaan:
+Meluhun herää parhaast' unestaan.
+
+    (Kaikki lähtevät, paitse Jago ja Cassio.)
+
+JAGO.
+Mitä, luutnantti, saitteko haavan?
+
+CASSIO.
+Sain ja parantumattoman.
+
+JAGO.
+Varjelkoon Jumala!
+
+CASSIO.
+Nimeni, nimeni, nimeni! Oi, nimeni olen menettänyt! Kuolemattoman osan
+itsestäni olen menettänyt, jäljellä on vaan eläimellinen. -- Nimeni,
+Jago, nimeni!
+
+JAGO.
+Luulin, niin totta kuin olen kunnon mies, teidän saaneen haavan
+ruumiiseenne; siinä se lovi pahemmalta tuntuisi kuin nimessä. Nimi on
+vaan tyhjä ja petollinen mielenkuvitelma; usein sen ansiotta saapi ja
+usein sen syyttä kadottaa. Ette ole laisinkaan nimeänne kadottanut, jos
+ette itse usko sitä kadottaneenne. Rohkeutta, ystävä! Keinoja on,
+joilla voi kenraalin voittaa. Hän on vaan kiivaudessaan teidät
+eroittanut; rangaistus on enemmän valtioviisaudesta kuin kiukusta
+lähtenyttä; aivan niin kuin jos joku viatonta koiraansa löisi siten
+säikyttääkseen röyhkeätä jalopeuraa. Rukoilkaa häntä vaan, niin hän on
+vallassanne.
+
+CASSIO.
+Mieluummin häntä rukoilen hylkäämään minut, kuin niin kelpo päällikköä
+pettäisin näin arvottomalla, malttamattomalla ja viinaanmenevällä
+sotaherralla. Olla päissään, puhua kuin papukaija, riidellä,
+ylvästellä, kiroilla, pauhata ja mässätä oman varjonsa kanssa! Oo, sinä
+näkymätön viinan henki, jos sinulla ei vielä nimeä ole, josta sinut
+tuntisi, niin ota sitten nimeksesi -- perkele!
+
+JAGO.
+Ken se oli, jota miekka kädessä takaa ajoitte? Mitä hän oli teille
+tehnyt?
+
+CASSIO.
+En tiedä.
+
+JAGO.
+Onko se mahdollista?
+
+CASSIO.
+Muistan koko joukon asioita, mutta en mitään selvästi; riidan muistan,
+vaan en sen syytä. -- Voi sentään, että ihminen suuhunsa ottaa
+vihollisen, joka varastaa ajut hänen päästään! Voi, että ilolla,
+huvilla, humulla ja huudolla itsemme elukoiksi muunnamme!
+
+JAGO.
+No, mutta nythän te olette vallan terve. Kuinka te niin pian
+toinnuitte?
+
+CASSIO.
+Tuo viina-piru suvaitsi tehdä tilaa toiselle pirulle: kiukulle. Toinen
+heikkous paljastaa toisen saadakseen minut perin pohjin halveksimaan
+itseäni.
+
+JAGO.
+No, mutta nyt te liian ankarasti siveyttä saarnaatte. Mitä aikaan,
+paikkaan ja maan tilaan tulee, olisin sydämestäni suonut tämän työn
+tekemättömäksi; mutta kun se nyt kerran on tapahtunut, niin koettakaa
+saada se hyväksi taas.
+
+CASSIO.
+Pyydän häneltä saada takaisin virkani; silloin hän minulle vastaa, että
+olen juomari. Vaikka olisi mulla suuta yhtä monta kuin louhikäärmeellä,
+ne kaikki tuommoinen vastaus tukkisi. Tällä haavaa järki ihminen,
+hetken päästä narri, ja yht'äkkiä elukka! Oi, ihmeellistä! Kirottu
+jokainen liikamalja; sen pohjalla asuu perkele!
+
+JAGO.
+No, no! Hyvä viina on hauska seurakappale, jos sitä oikein käytämme;
+älkää sitä nyt enää sättikö. -- Kuulkaas, luutnantti hyvä, luulen, että
+te luulette minun pitävän teistä.
+
+CASSIO.
+Sit' olen kyllä kokenut, ystävä hyvä. -- Minä päissäni!
+
+JAGO.
+Teidän, niinkuin kaikkein eläväisten, sallittaneen jonkun kerran
+päihtyä, arvaan ma. Sanon teille, mitä teidän tulee tehdä. Päällikkömme
+vaimo on nyt päällikkönä; sanon sen siinä katsannossa, että kenraalimme
+on itsensä pyhittänyt ja kokonaan antaunut katselemaan, huomaamaan ja
+tarkastamaan vaimonsa ihaa ja suloa. Tälle syntinne suoraan
+tunnustakaa; ahdistakaa häntä; hän teidät jälleen virkaanne toimittaa.
+Niin avonainen, lempeä, myöntyvä ja armahtavainen on hän luonteeltaan,
+että katsoo sen puutteeksi hyvyydessään, jos ei hän tee enempää, kuin
+mitä pyydetään. Tuota taittunutta niveltä teidän ja hänen puolisonsa
+välillä pyytäkää häntä lastoittamaan; ja kaiken omaisuuteni panen
+vaikka mitä vastaan vedolle, että tämä ystävyyden rikko kasvaa kokoon
+ja tulee lujemmaksi, kuin se ennen olikaan.
+
+CASSIO.
+Neuvonne on hyvä.
+
+JAGO.
+Vilpittömästä ystävyydestä ja rehellisestä hyväntahtoisuudesta vakuutan
+sen lähteneeksi.
+
+CASSIO.
+Sen kyllä uskon; ja heti huomenaamulla pyydän tuota siveätä Desdemonaa
+puolestani puhumaan. Koko onneni on mennyttä, jos tämäkin pettää.
+
+JAGO.
+Oikeassa olette. Hyvää yötä, luutnantti! Minulla on vahdinpito.
+
+CASSIO.
+Hyvää yötä, kunnon Jago!
+
+    (Lähtee.)
+
+JAGO.
+Ken on se, joka nyt mua konnaks väittää,
+Kun neuvoni on vilpitön ja suora
+Ja mahdollisest' ainoo keino, millä
+Voi maurin voittaa? Sillä helppo työ on
+Pakoittaa taipuvaista Desdemonaa
+Sävyisään pyyntöön: antelias on hän
+Kuin aulis emo luonto. Hän se maurin
+Saa kaikkeen, vaikka kieltämähän kasteen
+Ja synninpäästön välikappaleet.
+Niin lemmen pauloiss' on sen miehen sielu,
+Ett' eukko häntä kääntää miten mielii,
+Kun maurin heikkouden kanssa tahtoo
+Leikitä Luojaa. Olenko siis konna,
+Näin Cassiolle oikotien kun neuvon
+Juur' onnen helmaan? Oppi helvetin!
+Kun perkeleill' on mieless' ilkein hanke,
+He hahmoss' enkelin meit' ensin kiusaa!
+Niin minäkin. Kun, näet, tuo kunnon hupsu
+Hädässään avuks Desdemonaa vaatii,
+Ja tämä kiusaa pyynnöllänsä miestään,
+Niin maurin korvaan valan tämän myrkyn:
+Ett' anomukseen syyn' on lihan himo.
+Jos kuinka Cassion hyväksi hän puuhaa,
+Kadottaa hän vaan maurin luottamuksen.
+Näin vaimon avut pikimustiks muutan
+Ja hänen hyvyydestään kudon verkon,
+Mi kietoo heidät kaikki. --
+    (Rodrigo palajaa.)
+                            No, Rodrigo?
+
+RODRIGO.
+Minä seuraan ajoa täällä koirana, joka ei aja, vaan auttaa muita
+haukkumaan. Rahani ovat menneet melkein kaikki; tänä yönä olen saanut
+kelpo selkäsaunan, ja se kokemus lienee ainoa tulos, minkä vaivoistani
+saan; tyhjällä kukkarolla ja hiukkasen viisaampana saan nyt palata
+takaisin Venetiaan.
+
+JAGO.
+Kuink' on se köyhä, jolta puuttuu maltti!
+Mikäpä haava hetkess' ummistuu?
+Me teemme työtä taidoin eikä taioin;
+Ja taito, niinkuin tiedät, vaatii aikaa.
+Hyvinhän kaikk' on. Selkääs sait, mut Cassion
+Viralta pois sait selkäsaunallas.
+Monikin kasvi auringossa viihtyy.
+Mut ensin kypsyy se, jok' ensin kukkii.
+Siis, malttia! -- Jo, peijakas, on aamu!
+Huveissa sekä toimiss' aika kuluu.
+Nyt poistu pois ja majapaikkaas lähde.
+Pois, sanon! Kohta enemmin saat kuulla.
+Pois, tiehes!
+    (Rodrigo lähtee)
+              Kaksi asiata vielä:
+Mun vaimon' emäntänsä suosioon
+Nyt täytyy Cassio sulkea, sen vaadin.
+Sill' aikaa itse syrjään maurin vien.
+Ja, juur' kun Cassio ahdistaapi rouvaa,
+Sisähän suoraa päätä! -- Oiva tuuma!
+Takoa pitää, kun on rauta kuuma.
+
+                       (Lähtee.)
+
+
+
+
+KOLMAS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Linnan edustalla.
+
+    (Cassio ja muutamia soittoniekkoja tulee.)
+
+CASSIO.
+Täss' soittakaatte, hyvät herrat; työnne
+Ma palkitsen; vaan joku pieni kappal'
+Nyt aamutervehdykseks kenraalille.
+
+    (Soittoa. Narri tulee.)
+
+NARRI.
+Mitä, miehet? Ovatko soittoneuvonne Neapelissa olleet, koska noin
+honottavat?
+
+1 SOITTONIEKKA.
+Mitä? Mitä sanotte?
+
+NARRI.
+Ovatko ne puhallussoittimia, saanko luvan kysyä?
+
+1 SOITTONIEKKA.
+Ovat, mitenkäs.
+
+NARRI.
+Ovat siis puhalluksissa.
+
+1 SOITTONIEKKA.
+Puhalluksissa?
+
+NARRI.
+Niin, niitä on soittimia, jotka ovat puhalluksissa joskus. -- Mutta,
+tuossa on palkkanne, hyvät herrat; kenraali on niin soittoonne
+ihastunut, että, ystävyyden nimessä, toivoo, ett'ette enää sillä melua
+herätä.
+
+1 SOITTONIEKKA.
+Hyvä, hyvä; kyllä ollaan vaiti.
+
+NARRI.
+Jos teillä on soittoa, jota ei voi kuulla, niin antakaa soida; sillä
+soittoa kuulla, niinkuin sanotaan, ei kenraali suuresti huoli.
+
+1 SOITTONIEKKA.
+Semmoista meillä ei ole.
+
+NARRI.
+No, pillit pussiin siis, ja tiehenne! Menkää; ilmaan haihtukaa! Pois!
+
+    (Soittoniekat lähtevät.)
+
+CASSIO.
+Kuuleppas, kelpo ystäväni!
+
+NARRI.
+En, en kuule kelpo ystäväänne; teitä kuulen.
+
+CASSIO.
+Säästä sukkeluutesi. Tuossa sulle pieni kultakolikko. Jos kenraalin
+rouvan seuranainen jo on jalkeilla, niin sano hänelle, että täällä on
+eräs Cassio niminen mies, joka nöyrimmästi pyytää saada hiukan häntä
+puhutella. Teetkö sen?
+
+NARRI.
+Kyllä hän on jalkeilla. Jos hän suvaitsee tänne jalkailla, niin kyllä
+hänelle sen asian niinkuin esitän.
+
+    (Narri lähtee.)
+    (Jago tulee.)
+
+CASSIO.
+Mies hyvä, tee se. -- Parahiksi, Jago!
+
+JAGO.
+Tän' yönä ette maannut ole? Niinkö?
+
+CASSIO.
+En; päivä koitti jo, kun erosimme.
+Ma vaimollenne, Jago, rohkenin
+Lähettää sanan; pyyntön' oisi, että
+Siveän Desdemonan luokse pääsön
+Hän mulle hankkis.
+
+JAGO.
+                   Oiti hänet tänne laitan.
+Ja keinon keksin saada maurin tiekseen,
+Niin että vapaamp' olis haastelunne.
+
+CASSIO.
+Sydämen kiitos! --
+    (Jago lähtee.)
+                   Florensissakaan en
+Parempaa, suorempata miestä tunne.
+
+    (Emilia tulee.)
+
+EMILIA.
+Huomenta, hyvä luutnantti! Mun sääliks
+Osanne käy; mut hyväks kaikki kääntyy.
+Kenraalin kanssa puhuu teistä rouva,
+Teit' innokkaasti puoltain. Mauri vastaa:
+Ett' täällä suuress' arvoss' on Montano
+Ja suuri suvullaan; siis viisast' oli
+Teit' eroittaa. Mut lempivänsä teitä sanoo
+Ja muut' ei välittäjää kaipaavansa
+Kuin ystävyyttään antaaksensa teille
+Taas virkanne, kun sopii.
+
+CASSIO.
+                          Pyydän sentään --
+Jos päinsä käy se tai on mahdollista --
+Teit' auttamaan, ett' Desdemonaa yksin
+Saan hiukan puhutella.
+
+EMILIA.
+                       Sisään tulkaa,
+Niin toimitan ma, että sydämenne
+Puhua puhtaaks saatte.
+
+CASSIO.
+                       Nöyrin kiitos!
+
+                          (Lähtevät.)
+
+
+
+Toinen kohtaus.
+
+    Huone linnassa.
+
+    (Othello, Jago ja ylimyksiä tulee.)
+
+OTHELLO.
+Nuo kirjeet anna laivurille, Jago;
+Senaatille hän tervehdyksen' vieköön.
+Nyt linnoitusta silmäämässä käyn;
+Mua siellä kohtaa.
+
+JAGO.
+                   Kyllä, hyvä herra.
+
+OTHELLO.
+No, herrat, haluttaako linnaa nähdä?
+
+YLIMYS.
+Teit', armollinen herra, seuraamme.
+
+                         (Menevät.)
+
+
+
+Kolmas kohtaus.
+
+    Linnan puisto.
+
+    (Desdemona, Cassio ja Emilia tulevat.)
+
+DESDEMONA.
+Siit' ole varma, Cassio hyvä, että
+Sun edukses teen kaiken minkä voin.
+
+EMILIA.
+Se tehkää, rouva; Jagokin hän suree,
+Kuin koskis häntä tuo.
+
+DESDEMONA.
+                       Se kunnon miesi! --
+Huoletta, Cassio! Mieheni ja teidät
+Teen yhtä hyviks ystäviks kuin ennen.
+
+CASSIO.
+Oi, hyvä rouva, kuinka käykin Cassion,
+Ijäti on hän nöyrä palvelijanne.
+
+DESDEMONA.
+Sen tiedän: kiitos! Rakastatte miestän';
+Olette vanhat tutut; varma olkaa.
+Hän kylmäkiskoisemp ei ole teille
+Kuin valtataito vaatii.
+
+CASSIO.
+                        Mutta, rouva,
+Tuo valtataito kestää voi niin kauan,
+Niin niukka, laiha voi sen muona olla,
+Niin tyhjät syyt sen venyttää voi, että,
+Kun olen pois ja täytetty on paikka,
+Unohtaa kenraal' ystävyydet kaikki.
+
+DESDEMONA.
+Sit' älä luule. Täss' Emilian kuullen
+Ma sulle paikkas takaan. Ole varma,
+Kun ystävyyttä vannon, niin sen täytän
+Viimeiseen tippaan. En suo rauhaa hälle;
+Maseeksi häntä valvotan ja puhun
+Siks, että loppuu hältä kärsimys;
+Teen vuoteen kouluks, rippituoliks pöydän;
+Jos mitä tekee hän, niin Cassion pyynnön
+Sekoitan kaikkeen. Riemuitse siis, Cassio;
+Sun puoltajasi henkens' ennen heittää
+Kuin asiasi.
+
+    (Othello ja Jago tulevat etäältä.)
+
+EMILIA.
+             Kenraali jo tulee.
+
+CASSIO.
+Jäähyväiset ma lausun.
+
+DESDEMONA.
+                       Ei; mua kuulkaa
+
+CASSIO.
+Nyt, rouva, en; levoton olen aivan
+Ja asiani ajoon kelvoton.
+
+DESDEMONA.
+No, tehkää tahtonne.
+
+    (Cassio lähtee.)
+
+JAGO.
+Haa! Tuo ei mieleen mulle.
+
+OTHELLO.
+                           Mitä sanot?
+
+JAGO.
+En mitään. Taikka jos -- en tiedä mitä.
+
+OTHELLO.
+Cassioko niin joutuun täältä läksi?
+
+JAGO.
+Kuin? Cassio? Ei suinkaan, sit' en usko;
+Rikollisena hän ei pakoon hiipis,
+Kun teidät näkee.
+
+OTHELLO.
+                  Hän se oli, luulen.
+
+DESDEMONA.
+No, puolisoni, mitä nyt?
+Anojan kanssa tässä haastoin, miehen,
+Jot' epäsuosiosi maahan sortaa. --
+
+OTHELLO.
+Sa ketä tarkoitat?
+
+DESDEMONA.
+                   He, Cassiota,
+Luutnanttiasi. Puolisoni armas,
+Jos voimaa lemmell' on sua hellyttää,
+Niin pyydän, sovi oiti hänen kanssaan.
+Jos hän ei tosi-ystäv' ole sulle,
+Jok' ehdost' ei, vaan heikkoudesta rikkoi,
+En tiedä, kell' on rehelliset kasvot.
+Suo hälle virka.
+
+OTHELLO.
+                 Hänkö täältä läksi?
+
+DESDEMONA.
+Hän, ja niin murtuneena, että täytyi
+Mun tuskist' osaa ottaa kärsimään
+Hänt' auttaakseni. -- Armas, anteeks hälle!
+
+OTHELLO.
+Ei, Desdemonani, ei nyt, vaan toiste.
+
+DESDEMONA.
+Pianko?
+
+OTHELLO.
+        Pikaisimmin, sinun tähtes.
+
+DESDEMONA.
+Tänäänkö, iltasella?
+
+OTHELLO.
+                     Ei, ei tänään.
+
+DESDEMONA.
+Huomenna, lounas-aikaan?
+
+OTHELLO.
+                         Lounaall' olen
+Linnassa silloin sotaherrain kanssa.
+
+DESDEMONA.
+Mut illalla, tai tiistain aamulla
+Tai päiväll', ehtoolla tai keskiviikkona.
+Sano aika vaan; mut yli kolmen päivän
+Äl' anna mennä. Tottakin, hän katuu!
+Tuo rikos, tavallisen järjen mukaan, --
+Jos kohta parhaimmissaan sodan täytyy
+Es'merkki näyttää, -- tuskin muuta sietää
+Kuin pienen nuhteen. Milloin saa hän tulla?
+Othello, vastaa! Mitä kummaa voisit
+Sa multa pyytää, jot' en antais sulle,
+Vaan epäröisin noin! Kuin? Michael Cassio,
+Mi kosi puolestas ja monta kertaa,
+Kun sinua ma moitin, piti puoltas,
+Hänenkö kanss' on sopimus niin raskas?
+Tekisin paljon varmaan --
+
+OTHELLO.
+                           Jätä tuo. --
+Hän tulkoon milloin tahtoo; sult' en mitään
+Ma kiellä.
+
+DESDEMONA.
+           Uhraust' ei se ole; onpa
+Kuin pyytäisin sua käymään sormikkaissa,
+Pukeumaan hyvin, syömään vahvaa ruokaa
+Tai erityistä huolta pitämään
+Sun ruumiistas. Ei, kun on mulla pyyntö,
+Joll' oikein tahdon rakkauttas koittaa,
+Niinpä sitäpä on vaikea ja työläs
+Ja vaarallinen myöntää.
+
+OTHELLO.
+                        Sult' en mitään
+Ma kiellä; mutta mull' on pyyntö sulle,
+Se täytä: jätä minut hetkeks yksin.
+
+DESDEMONA.
+Ma kieltäisinkö? En. Hyvästi, armas!
+
+OTHELLO.
+Hyvästi, Desdemona! Oiti tulen.
+
+DESDEMONA.
+Emilia, lähde. --
+    (Othellolle). Tee mit' oikkus käskee;
+Mlk' olletkin, min' olen kuuliainen.
+
+    (Lähtee Emilian kanssa.)
+
+OTHELLO.
+Olento armas! Hukka sielulleni.
+Jos en sua lemmi! Ja kun en sua lemmi,
+Palatkoon alkutyhjyys!
+
+JAGO.
+Mun herrani --
+
+OTHELLO.
+                No, mitä, Jago? Sano!
+
+JAGO.
+Kun kositten te, tieskö Michael Cassio
+Mitäkään lemmestänne?
+
+OTHELLO.
+Alusta loppuun. Miksi tuota kysyt?
+
+JAGO.
+Vaan vahvikkeeksi arvelulleni;
+Ei mitään pahaa.
+
+OTHELLO.
+                 Mille arvelulle?
+
+JAGO.
+En luullut, että Cassio häntä tunsi.
+
+OTHELLO.
+Oo, hän se väliämme usein kulki.
+
+JAGO.
+Todella?
+
+OTHELLO.
+         Todella! Niin todella.
+Mik' ihme tuo? Hän eikö kunnon mies?
+
+JAGO.
+Kunnonko?
+
+OTHELLO.
+          Kunnonko! Niin, kunnon mies.
+
+JAGO.
+En minä muuta tiedä.
+
+OTHELLO.
+                     Mitä luulet?
+
+JAGO.
+Mitäkö luulen?
+
+OTHELLO.
+               Mitäkö luulen! Haa!
+Hän, jumal'aut', on kaikuni! Kuin häll' ois
+Mielessä hirmu, joka nähtäväksi
+On liian julma. -- Jotakin sa tahdot;
+Sa sanoit äsken: "tuo ei mieleen mulle",
+Kun Cassio läksi. Mik' ei mieleen sulle?
+Ja kun ma kerroin, että tyynni tunsi
+Hän kosintani, huusit: "todella?"
+Rypistäen ja vetäin kurttuun otsas,
+Kuin oisit jonkun hirvittävän aatteen
+Ajuhus kätkenyt. Tuo aattees ilmi.
+Jos rakastat mua.
+
+JAGO.
+                  Tiedättenhän, herra,
+Ett' teitä rakastan.
+
+OTHELLO.
+                     Sen uskonkin.
+Ja, -- kun sun suopeaks ja suoraks tunnen,
+Jok' arvaat sanas, ennenkuin ne lausut, --
+Senvuoks mua peloittaa nuo katkolausees.
+Viekasten, kavalien konnain ainaist'
+On juonta tuo; mut kunnon miehess' on se
+Salainen viittaus, joka hillitönnä
+Sydämest' ilmi puhkee.
+
+JAGO.
+                       Michael Cassion --
+Sen vaikka vannon -- kunnon mieheks luulen.
+
+OTHELLO.
+Mä myöskin.
+
+JAGO.
+            Tulis olla, miltä näyttäi,
+Ja mit' ei ole, silt' ei näyttääkään.
+
+OTHELLO.
+Niin kyllä, miltä näyttää, tulis olla.
+
+JAGO.
+No niin, ma Cassion kunnon mieheks luulen.
+
+OTHELLO.
+Ei, siinä piilee muuta. Puhu mulle
+Kuin itsellesi aivan mitä mietit,
+Ja pahimmille aatoksilles anna
+Pahimmat nimet.
+
+JAGO.
+                Anteeks, hyvä herra.
+Kyll' olen paljohonkin velkapää,
+En toki siihen, jost' on orja vapaa:
+Ilm' antamahan ajatuksiani.
+Mitäpä, jos ne halvat ois ja väärät --
+Sit' onko linnaa, johon riettaus koskaan
+Ei tunkisi? Niin puhdast' onko rintaa,
+Ett' epäluulot likaiset ei joskus
+Siin' istuis oikeutta ja tuomitsis
+Laillisten ajatusten kanssa rinnan?
+
+OTHELLO.
+Kavallat, Jago, ystävääs, jos häntä
+Petetyks luulet, mutta pidät luulos
+Salassa hänen korviltaan.
+
+JAGO.
+                          Ma pyydän --
+Jos arvelussan' ehkä erhetyn:
+On luonteheni kirous, sen myönnän,
+Paheita urkkia, ja luulon' usein
+Luo vian tyhjästä, -- ett', älyvänä,
+Näin vajavia mietteit' ette tarkkais
+Ja murheit' ette itsellenne loisi
+Näin joutavista sekahuomioista.
+Se teiltä rauhan, onnen veis ja multa
+Alentais älyn, miehuuden ja arvon,
+Jos mietteen' ilmaisen.
+
+OTHELLO.
+                        Mik' ajatukses?
+
+JAGO.
+Hyvä nimi, nähkääs, miehessä ja vaimoss'
+On kallein sielun kalleus. Jos viet rahani,
+Vie pois! Viis' siitä! Äsken mun, nyt sun,
+Ja tuhansien orja sitä ennen!
+Vaan hyvän nimeni jos viet, niin ryöstät
+Semmoista, jok' ei rikkaaksi sua saata,
+Vaan köyhän köyhäks minut.
+
+OTHELLO.
+                           Aattees tietää
+Ma tahdon, jumal'aut'!
+
+JAGO.
+                       Sit' ette voi,
+Vaikk' oisi sydämeni kourassanne,
+Ja ette saa, niin kauan kuin se mull' on.
+
+OTHELLO.
+Haa!
+
+JAGO.
+     Luulevaisuutta, oi, varokaa!
+Viherjäsilmä peto tuo se huviks
+Apettaan kiusaa. Autuutt' aisaa kantaa,
+Kun tietää kohtans' eikä väärää lemmi;
+Mut voi! sen hetket julmat on, ken lempii
+Ja luulee, epäilee ja sentään lempii!
+
+OTHELLO.
+Oo, kurjan kurjaa!
+
+JAGO.
+Köyhä ja tyytyvä on rikas kyllin,
+Mut runsain rikkaus on kuin talvi köyhä,
+Jos pelkää joka hetki köyhtyvänsä. --
+Oi taivas, luulevaisuudesta säästä
+Kaikk' ihmissielut!
+
+OTHELLO.
+                    Mitä? Luuletkos sä,
+Ett' elinkautta mustin sukin käyn
+Ja uusin epäluuloin yhä noudan
+Kuun vaiheita? Ei, epäilys kun syntyy,
+Niin syntyy päätöskin. Myy minut vuoneen,
+Jos huomioni kiinnän moiseen tyhjään
+Ja löyhään luuloon, kuin sun juttus vaatis.
+En luulostu, jos sanot, että vaimon'
+On kaunis, pulska, seuramielinen,
+Puhelias, laulaa, soittaa, tanssii hyvin: --
+Hyvettä, miss' on hyve, tuo vaan lisää.
+Enk' omastakaan heikkoudesta päättäin
+Luo häneen pienint' epäluulon kaunaa;
+Häll' oli silmät, kun mun otti hän.
+Ei, tahdon nähdä, ennenkuin epäilen,
+Ja kun epäilen, tahdon näytteen saada;
+Ja se kun mull' on, muut' ei silloin kuin:
+Pois kerrassansa lempi taikka luulo!
+
+JAGO.
+No, sepä hauskaa! Nythän mull' on syytä
+Uskollisuuttani ja rakkauttani
+Vapaasti näyttää. Velvollisuudeksi
+Käsittäkää se. Todistukset säästän.
+Varokaa vaimoanne, kun hän kahden
+On Cassion kanssa; valppahana silmä,
+Ei luulevana eikä luottavaisna!
+Vapahan, suoran luonteenne en soisi
+Jaloudessaan pettyvän. Silm' auki!
+Venetian naisten taipumukset tunnen:
+Saa taivas paljon nähdä, jot' ei tohdi
+He näyttää miehilleen; ja tunnon käsky
+Ei kuulu: "heitä se", vaan: "peitä se".
+
+OTHELLO.
+Sanotko sinä sen?
+
+JAGO.
+                  Hän isän petti,
+Kun teille läksi; ja kun katseitanne
+Vavisten näytti pelkäävän, niin niitä
+Rakasti hän.
+
+OTHELLO.
+             Niin kyllä.
+
+JAGO.
+                         Siinä näette:
+Noin nuorena kun niin voi teeskennellä,
+Ett' isän silmät sokaisee ja kääntää, --
+Hän luuli taiaks sen; -- mut nyt teen väärin;
+Nöyrästi anteeks! Pidän liiaks teistä.
+
+OTHELLO.
+Ijäti olen kiitollinen sulle.
+
+JAGO.
+Tää, näen mä, hämmentänyt teit' on hiukan.
+
+OTHELLO.
+Ei millään tapaa!
+
+JAGO.
+                  Onpa, pelkään mä!
+Te muistanette, että rakkaudesta
+Ma puhun nyt. -- Mut mielenne se kuohuu!
+Rukoilen, älkää puheeseeni panko
+Suurempaa arvoa ja merkitystä
+Kuin pelkkään luuloon.
+
+OTHELLO.
+                       En.
+
+JAGO.
+                           Jos sen te teette,
+Pahemmat seuraukset on puheellani,
+Kuin tarkoitinkaan. Ystävän' on Cassio --
+Mielenne kuohuu; näen sen!
+
+OTHELLO.
+                           Ei, ei haittaa!
+Tok' uskolliseks Desdemonan luulen.
+
+JAGO.
+Ain' olkoon niin hän, aina te niin luulkaa!
+
+OTHELLO.
+Mut entä jos niin luonto hairahtuisi --
+
+JAGO.
+Niin, siinä mutka! Rohkenenko sanoa:
+Hylätä niin mont' oiva kosijaa
+Ja samaa luokkaa, ilm'alaa ja karvaa,
+Jot' ihan kaikkialla luonto katsoo:
+Hyi! siitä niinkuin löyhkää irstas himo,
+Miel' yletön ja suunnattomat halut! --
+Mut anteeks! Täll' en suoraan tarkoita
+Ma häntä, vaikka pelkään, että hänkin,
+Älyynsä tultuaan, vois halun saada
+Vertaamaan teitä omiin maalaisiinsa
+Ja kenties katua.
+
+OTHELLO.
+                  Hyvästi, hyvästi!
+Tuo lisätietoja, jos lisää huomaat;
+Niit' urki vaimos kautta. Jätä minut.
+
+JAGO.
+Hyvästi jääkää, armollinen herra!
+
+    (Lähtee.)
+
+OTHELLO.
+Miks nain? -- Tuo kunnon mies hän näkee, tietää
+Enemmän, paljon enemmän kuin näyttää.
+
+JAGO (palajaa).
+Rukoilen, herra hyvä, älkää enää
+Tuot' aatelko; se ajan huoleks jääköön.
+Ja vaikka Cassion täytyy virkans' saada, --
+Johonka täysin kelpaava hän onkin, --
+Suvaitkaa odotuttaa häntä hiukan,
+Ett' oivallatte miehen ja sen vehkeet.
+Huomatkaa: vaimonne jos kiihkein innoin
+Ja tulisesti hänen puoltaan pitää,
+Se todistaa jo paljon. Siihen saakka
+Mua liian kiivaaks pelossani luulkaa --
+Jot' olevani pelkäänkin ja syystä --
+Ja syyttömäks' hänt' uskokaa, ma pyydän.
+
+OTHELLO.
+Kyll' osaan itseäni hallita.
+
+
+JAGO.
+Jäähyväiset ma lausun vielä kerran.
+
+    (Lähtee.)
+
+OTHELLO.
+Tuo sepä tavattoman kelpo mies on,
+Kokenut äly, joka tuntee kaikki
+Elämän mutkat. Villiks jos käy haukka,
+Vaikk' olis sydänsyissäni sen kytkyt,
+Vihellän pois sen, ilman tuulten valtaan
+Ja onnens' ohjaan. Sikskö, ett' olen musta
+Enk' osaa mielin kielin laverrella
+Kuin teikarit, tai siks ett' ikä iltaan
+Jo alkaa painua -- ei paljon sentään --
+Hän mennyt on? ma pettynyt? Nyt inho
+On lohtuni! Oi, avion kirousta,
+Ett' olennot nuo vienot ovat meidän,
+Mut niiden sulot ei! Oi, paremp' olla
+Sammakkona ja tyrmän tunkast' elää
+Kuin muiden käytettäväks antaa soppi
+Rakastetustaan! Se on suurten tuskaa;
+Heill' etuus huonomp' on kuin alhaisolla;
+Se välttämätönt' on kuin kuolema;
+Tuo kirous sarvikas jo äidinkohduss'
+On meille pantu. Tuoss' on hän. Hän viekas?
+Oi, silloin taivas itseänsä pilkkaa!
+Sit' en ma usko.
+
+    (Desdemona ja Emilia tulevat.)
+
+DESDEMONA.
+                 No, Othello armas!
+Sun atrias ja jalot kyprolaiset,
+Joit' olet kutsunut, sua odottavat.
+
+OTHELLO.
+Ma vääräss' olen.
+
+DESDEMONA.
+Niin raukea on äänes. Voitko pahoin?
+
+OTHELLO.
+Ma otsassani tuossa vaivan tunnen.
+
+DESDEMONA.
+Se valvonnast' on; kyllä siitä pääset,
+Kun lujast' otsas sidon; tunnin päästä
+On vaiva pois.
+
+OTHELLO.
+               On liinas liian pieni.
+Sa jätä tuo.
+    (Desdemona pudottaa nenäliinansa.)
+             Pois, sisään lähden kanssas.
+
+DESDEMONA.
+Mua kovin huolettaa sun huono vointis.
+
+    (Othello ja Desdemona lähtevät.)
+
+EMILIA.
+Sep' oivaa, että liinan tuon ma löysin;
+Se oli maurin ensi lemmenlahja.
+Tuo kumma Jago sadasti mua käski
+Varastamaan sen; rouva siitä pitää --
+Mies vaatii, että hän sit' aina varois --
+Ja hän sit' yhä varjelee kuin silmää,
+Puhuttelee ja muiskaa sitä. Mallin
+Siit' otan ja sen Jagolle ma annan.
+Ties taivas, mitä sillä aikoo hän;
+Ma noudatan vaan hänen mieltähän.
+
+    (Jago tulee)
+
+JAGO.
+Mit' yksin teet sa täällä?
+
+EMILIA.
+                           Älä toru;
+Mull' ompi jotain sulle.
+
+JAGO.
+                         Jotain mulle?
+Ei uutta mitään.
+
+EMILIA.
+                 Mikä?
+
+JAGO.
+                       Houkka vaimo.
+
+EMILIA.
+Ei muuta siis? Mit' annat nyt, jos saat
+Tän liinan?
+
+JAGO.
+            Minkä liinan?
+
+EMILIA.
+                          Minkä liinan!
+He, maurin ensi lahjan vaimollensa,
+Jot' usein minut varastamaan käskit.
+
+JAGO.
+Varastanutko olet sen?
+
+EMILIA.
+                       En suinkaan,
+Vahingossa hän pudotti sen; minä
+Täss' olin onneks ja sen maasta löysin.
+Täss' on se.
+
+JAGO.
+             Kelpo luuska! Tuo se tänne!
+
+EMILIA.
+Mit' aiot sillä, kun niin kiihkeästi
+Mua varkaaks tahdoit?
+
+JAGO.
+                      Se ei sinuun koske!
+
+    (Tempaa häneltä nenäliinan.)
+
+EMILIA.
+Jos sit' et tärkkiin toimeen tarvitse,
+Niin takaisin se anna. Rouva parka,
+Hän tulee hulluks, jos sen kadottaa hän.
+
+JAGO.
+Äl' ole milläskään; sen tarvitsen ma.
+Pois! Jätä minut.
+    (Emilia lähtee.)
+                  Cassion asuntoon
+Tuon liinan lasken; hän sen siellä löytköön.
+Mitätön, löyhä pila luulokkaalle
+On yhtä tenhollinen todistus
+Kuin lause raamatusta. Tuo se tepsii.
+Mun myrkkyni jo muuttanut on maurin;
+Näet, epäluulolla on myrkyn luonto:
+Alussa tuskin pahalta se maistaa,
+Mut, vereen hiukan vaikutettuaan,
+Kuin rikki-alho suitsee. -- Aivan oikein! --
+    (Othello tulee.)
+Tuoss' on hän! -- Nyt ei katkojuuret, valmut,
+Ei kaiken maailmankaan unijuomat
+Niin makeata unta sulle anna,
+Kuin mit' ol' eilen.
+
+OTHELLO.
+                     Ha, ha! Viekas mulle?
+
+JAGO.
+No, herra kenraal', enempää ei siitä!
+
+OTHELLO.
+Pois! tiehes! Piinapenkkiin minut kytkit;
+Parempi suurin pettymys, sen vannon,
+Kuin pienin tieto.
+
+JAGO.
+                   Kuin?
+
+OTHELLO.
+                         Nuo salanautteet
+Mua mitä koski ne? En nähnyt mitään,
+En luullut mitään, tuskat vältin, nukuin yön,
+Söin hyvin, pidin hauskaa, Cassion muiskuj'
+En hänen huulillansa tuntenut.
+Ken sit' ei kaipaa, mik' on hältä poissa,
+Vait siitä vaan, ja hält' ei mitään poissa.
+
+JAGO.
+Tuo huolettaa mua.
+
+OTHELLO.
+                   Onnellinen oisin,
+Vaikk' koko leiri, kuormamiehet, kaikki
+Ois hänen sulojansa nauttineet,
+Kun min' en tietäis siitä! Nyt, oi, ijäks
+Hyvästi, mielenrauha! Hyväst', auvo!
+Hyvästi, sulkatöyhdöt, sodat uljaat,
+Jotk' avuks kunniankin himon teette!
+Hyvästi, orhin hirnu, torven toitto,
+Mielt' yllyttävät rummut, räikät pillit,
+Kuninkaallinen lippu, kaikki, kaikki
+Maineikkaan sodan prameus ja loisto!
+Ja tekin, kuolon hirmusuiset aseet,
+Elämän-herran jyryn matkijat,
+Hyvästi! Tehtyn' on Othellon työ.
+
+JAGO.
+Ma mitä kuulen! -- Herra hyvä, --
+
+OTHELLO.
+                                  Konna,
+Todista, ett' on armahani portto,
+Todista se, tuo mulle selvät näytteet,
+Tai, kautta sielun' ijankaikkisen,
+Parempi koirana sun olis olla
+Kuin vihani uhrina!
+
+JAGO.
+                    Niiks' onko tullut?
+
+OTHELLO.
+Se näytä, ainakin tuo todisteita,
+Ett' epäilykselle ei hakaa, hankaa
+Jää kannatteeksi. Muuten voi sua, voi!
+
+JAGO.
+Arvoisa herra, --
+
+OTHELLO.
+Jos parjaat häntä ja mua kiusaat, älä
+Rukoile koskaan; heitä sääli pois;
+Luo kauhu kauhun päälle; te'e töitä,
+Joit' ällistyypi maa ja taivas itkee:
+Lisätä kadotust' et suuremmaksi
+Voi millään.
+
+JAGO.
+             Armoa! Oi, auta, taivas!
+Mies olettenko? Missä järki, tunto? --
+Hyvästi! Viekää virkani. -- Mua houkkaa,
+Rehellisyyteni kun virheeks tehdään! --
+Oo, inha mailma! Huomaa, mailma, huomaa!
+Rehellisyys ja suoruus vaarallist' on. --
+Opista tuosta kiitän: tästä puolin,
+Jos moist' on rakkaus, vähät siitä huolin.
+
+OTHELLO.
+Ei, viivy! -- Rehellinen sinä lienet.
+
+JAGO.
+Ei, älykäs. Rehellisyys on narri:
+Tavoittaa, vaan ei tapaa.
+
+OTHELLO.
+                          Jumal'auta!
+Vaimoni puhtaaks luulen, enkä luule;
+Sun rehelliseks luulen, enkä luule.
+Tuo näyttees! Hänen nimens', äsken kirkas
+Kuin otsa Dianan, nyt nokimusta
+Kuin oma muoton' on. -- Jos köytt' on, veistä,
+Myrkkyä, tulta, hukuttavaa virtaa,
+En tuota kärsi. -- Varmuutta jos saisin!
+
+JAGO.
+Ma näen, kuink' aivan teitä kalvaa kiihko;
+Kadun, ett' ilmi toin sen. Varmuuttako
+Te tahtoisitte?
+
+OTHELLO.
+                Tahtoisin? En, tahdon.
+
+JAGO.
+Ja saatte. Mutta kuin? Kuin saada varmuus?
+Suu auki tuijotella tahdottenko,
+Mitenkä toimi käy?
+
+OTHELLO.
+                   Kirous ja surma!
+
+JAGO.
+Ja luullakseni sangen työläst' oiskin
+Moist' aikaan saada. Piru heitä riivais,
+Jos näkis muut kuin omat silmät heidän
+Venyvän patjalla! No, mitä tehdä?
+Kuin saada varmuus? Mistä? Tuota nähdä
+On teidän mahdoton, vaikk' oisivatkin
+Kuin vuohet irstaat, kiimaiset kuin sudet,
+Kuin marakatit karjaat taikka riettaat
+Kuin hölmöt viinapäissään. Sanon toki:
+Jos viittaukset ja selvät suhteet, jotka
+Totuuden kynnykselle suoraan vievät,
+Voi varmuutt' antaa, niin sen kyllä saatte.
+
+OTHELLO.
+Tuo julkinäyte, ett' on uskoton hän!
+
+JAGO.
+En moista tointa rakasta; mut koska
+Näin pitkälle jo olen mennyt tässä,
+Noudattain rakkauttani tyhmän suoraa,
+Niin jatkan. Taannoin Cassion luo ma yödyin,
+Ja hampaan kolotus kun mua vaivas,
+En saanut unta silmääni.
+Niin löyhä monell' ihmisell' on sielu,
+Ett' uness' asioitaan hokevat he;
+Ja niit' on Cassio. Unissaan hän huusi:
+"Oi, armas Desdemona, varull' ollaan,
+Lempemme salatkaamme!" Käteen' iski,
+Puristi, huus: "oi, armas laps!" ja sitten
+Mua suutel' innokkaasti, niinkuin oisi
+Repinyt juurin huuliltani muiskut.
+Hän jalkans' sitten reidelleni laski
+Ja huokasi ja suuteli ja kiljas:
+"Kirottu onni, että sai sun mauri!"
+
+OTHELLO.
+Hirmuista, hirmuista!
+
+JAGO.
+                      Se vaan ol' unta.
+
+OTHELLO.
+Edellä-käypää tointa todistaa se;
+Se paha merkki on, vaikk' onkin unta.
+
+JAGO.
+Se muita heikompia todisteita
+Voi vahvistaa.
+
+OTHELLO.
+               Paloiksi hänet raastan!
+
+JAGO.
+Ei, malttakaa; salassa teko viel' on.
+Ehk' on hän uskollinen. Sanokaapas:
+Häll' olettenko joskus liinan nähnyt,
+Joss' ompi mansikkaiset kirjaukset?
+
+OTHELLO.
+Semmoisen hälle ensi lahjaks annoin.
+
+JAGO.
+Sit' en ma tiennyt; mutta semmoisella --
+Se hänen oli varmaan -- partaansa
+Näin Cassion pyyhkivän.
+
+OTHELLO.
+                        Jos se on se, --
+
+JAGO.
+Jos se on se, tai jos se vaan on hänen,
+Siin' uusi todistus on muiden lisäks.
+
+OTHELLO.
+Jos tuhat henkeä sill' orjall' oisi!
+Yks liian pien' on, heikko kostolleni.
+Nyt näen, ett' on se totta! -- Katsos, Jago:
+Näin tyhmän lempen' ilmaan puhallan:
+Tuoss' on se mennyt!
+Nyt hornan ontost' ilmi, musta kosto!
+Oi, lempi, valtaistuimes ja kruunus
+Pois anna vihan hirmuvaltiaalle!
+Poveni, paisu kantamuksestas,
+Se käärmeen kieltä on!
+
+JAGO.
+                       Mut malttukaahan!
+
+OTHELLO.
+Oi, verta, verta, verta!
+
+JAGO.
+He, tyyntykää; viel' ehkä muuttuu mieli.
+
+OTHELLO.
+Ei koskaan, Jago. Niinkuin Ponton meri,
+Jonk' ikikylmä virta määrätieltään
+Ei koskaan pakene, vaan suoraa suuntaa
+Propontihin ja Hellespontoon syöksee,
+Niin veri-aatosteni tuima kuohu
+Ei katso taa, ei pakoo lemmen tyyneen,
+Ennenkuin valtava ja laaja kosto
+Sen niellyt on.
+    (Polvistuu.)
+                Tuon kirjalaen kautta,
+Syvästi pyhää valaa kunnioittain,
+Sanani vahvistan.
+
+JAGO.
+                  Viel' älkää nousko. --
+    (Polvistuu..)
+Se kuulkaatten, te ikikirkkaat tähdet!
+Meit' ympäröivät ilman vallat kaikki!
+Todistakaa, ett' uhraa tässä Jago
+Älynsä, sydämensä, kätten tarmon
+Othellon kostotyölle. Käskeköön hän,
+Ja tunnon-asia on häntä kuulla,
+Vaikk' olis kuinka verinenkin toimi.
+
+OTHELLO.
+Tervehdin avosylin ystävyyttäs,
+En tyhjin kiitoksin. Sua koitan oiti:
+Tuo kolmen päivän kuluessa tieto,
+Ett' elossa ei ole Cassio enää.
+
+JAGO.
+On kuollut ystäväni: se on tehty,
+Kun käskette. Mut elää vaimon suokaa.
+
+OTHELLO.
+Kirottu, kirottu, se rietas narttu!
+Mua seuraa tänne; käyn ja hankin jotain
+Tehoisaa ainetta, jok' oiti surmaa
+Tuon kauniin perkeleen. Nyt olet sinä
+Mun luutnanttini.
+
+JAGO.
+                  Teidän ikipäiviksi!
+
+                          (Lähtevät.)
+
+
+
+Neljäs kohtaus. --
+
+    Linnan edustalla.
+
+    (Desdemona, Emilia ja narri tulevat.)
+
+DESDEMONA.
+Tiedätkö, poikaseni, missä luutnantti Cassion on asunmaja.
+
+NARRI.
+Cassion asunko maja? En julkene sanoa.
+
+DESDEMONA.
+Miks'et?
+
+NARRI.
+Hän on soturi; jos sanoisin, missä soturin asun on maja, puhuisin pääni
+poikki.
+
+DESDEMONA.
+Älä hulluttele. Missä asuu hän?
+
+NARRI.
+Jos sanoisin missä hän asuu, en tekisi asun mukaan.
+
+DESDEMONA.
+Voiko kukaan tuosta viisastua?
+
+NARRI.
+En tiedä, missä hän asuu; ja jos hänelle majan keksisinkin, ja
+sanoisin: tässä on Cassion asun maja, tai: tuossa on Cassion asun maja,
+niin saisin siitä asun omaan selkääni.
+
+DESDEMONA.
+Voitko kuulustella häntä ja ottaa oppia muiden neuvoista?
+
+NARRI.
+Kylläpä häntä tutkaisen koko maailmalta: kysyn niinkuin katkismuksessa:
+"mikä se on? vastaus".
+
+DESDEMONA.
+Etsi häntä ja käske häntä tänne. Sano, että olen puolisoni häneen
+suostuttanut, ja toivon, että kaikki käy hyvin.
+
+NARRI.
+No, se tehtävä ei käy ihmisymmärryksen yli, ja senvuoks; koetan sen
+täyttää.
+
+    (Lähtee.)
+
+DESDEMONA.
+Emilia, mihin jäi se liina multa?
+
+EMILIA.
+En tiedä minä.
+
+DESDEMONA.
+               Ennen kukkaroni
+Kadottanut ma oisin täynnä kultaa.
+Jos mauri ei niin jalo miesi oisi
+Ja vapaa luulevaisten halpuudesta,
+Vois tästä pahan aatoksen hän saada.
+
+EMILIA.
+Hän eikö ole luuleva?
+
+DESDEMONA.
+                      Ken? Hänkö?
+Aurinko hänen kotimaassaan, luulen,
+Ne huurut hänest' imi.
+
+EMILIA.
+                       Kah, tuoss' on hän!
+
+DESDEMONA.
+En häntä päästä ennen kuin hän Cassion
+Takaisin kutsuu. --
+    (Othello tulee.)
+                    Kuinka voit sa, armas?
+OTHELLO.
+Kyll', armas, hyvin. -- (Syrjään.) Raskas teeskennellä! --
+Ja sinä, Desdemona?
+
+DESDEMONA.
+                    Hyvin, armas.
+
+OTHELLO.
+Kätesi! -- Kostea on kätes!
+
+DESDEMONA.
+                            Sit' ei
+Viel' ikä kuivannut ja huolet.
+
+OTHELLO.
+                               Auliin
+Ja riettaan mielen merkki! Kuuma, kuuma,
+Ja kostea! Niin, tarpeen olis sille
+Rukous, paasto, lihan kidutukset,
+Himosta luopumus ja menot hurskaat;
+Siin' asuu perkel' ihveinen ja nuori,
+Jok' usein kapinoipi. Hyvä käsi,
+Ja aulis käsi!
+
+DESDEMONA.
+               Kyllä tosiaankin:
+Se käsi pois mun sydämeni antoi.
+
+OTHELLO.
+Käs' aulis! Muinoin sydän käden antoi;
+Nyt kilvessä on -- käsi eikä sydän.
+
+DESDEMONA.
+Tuot' en ma ymmärrä. -- Nyt lupauksees.
+
+OTHELLO.
+Mihinkä lupaukseen, kultaseni?
+
+DESDEMONA.
+Puheilles olen kutsuttanut Cassion.
+
+OTHELLO.
+Mua ilkeä ja häijy nuha vaivaa;
+Tuo tänne nenäliinas.
+
+DESDEMONA.
+                      Tässä, armas.
+
+OTHELLO.
+Se, jonka annoin.
+
+DESDEMONA.
+                  Sit' ei myötän' ole.
+
+OTHELLO.
+Vai ei?
+
+DESDEMONA.
+        Ei, kultani, ei tosiaankaan.
+
+OTHELLO.
+Sep' oli vahinko. Sen liinan antoi
+Mun äidillen' egyptiläinen vaimo,
+Lumooja, joka sydämetkin tutki.
+Niin kauan kuin se säilyis, sanoi vaimo,
+Suloa tois se äidille ja häneen
+Isäni kiinnittäis. Mut jos se hukkuis
+Tai pois hän antais sen, niin isä alkais
+Hänt' inhota, ja uutta lemmen riistaa
+Sen silmä tavoittais. Sen mulle antoi
+Hän kuollessaan ja pyys, jos onni vaimon
+Minulle sois, ett' antaisin sen hälle.
+Sen olen tehnyt; sitä vartioi
+Kuin silmäterääs; katsos, jos sen hukkaat
+Tai annat pois, niin syntyy turma moinen,
+Ett'ei sen vertaa.
+
+DESDEMONA.
+                   Onko mahdollista?
+
+OTHELLO.
+On varmaan; sen kudonnassa tenho.
+Sibylla, jok' ol' eläissänsä nähnyt
+Kakssataa aurinkoisen kiertoa,
+Pyhissä haltioissahan sen neuloi.
+Sen silkin pyhät madot kutoneet on;
+Sen paine mumian nestett' on, mi taidoll'
+On immen-sydämistä valmistettu.
+
+DESDEMONA.
+Tottako?
+
+OTHELLO.
+         Totta; varo sitä tarkoin.
+
+DESDEMONA.
+Voi, ett'en olis koskaan sitä nähnyt!
+
+OTHELLO.
+Haa! Kuinka niin?
+
+DESDEMONA.
+Miks on niin hyökkäävä ja kiivas haastis?
+
+OTHELLO.
+Hukassa? Poissako? Miss' on se? Sano.
+
+DESDEMONA.
+Jumala varjelkoon mua!
+
+OTHELLO.
+                       Sanotko?
+
+DESDEMONA.
+Hukassa ei; mut entä jos niin olis?
+
+OTHELLO.
+Haa! Kuin?
+
+DESDEMONA.
+           Ma sanon: hukass' ei se ole.
+
+OTHELLO.
+Tuo tänne, että näen sen.
+
+DESDEMONA.
+Sen tehdä voisin, vaan sit' en nyt tahdo.
+Tuo juont' on, jolla päästä minust' aiot;
+Ma pyydän, ota Cassio armoon jälleen.
+
+OTHELLO.
+Tuo tänne liina; pahaa aavistan ma.
+
+DESDEMONA.
+Kas niin!
+Kunnollisempaa miest' et mistään löydä.
+
+OTHELLO.
+Tuo liina!
+
+DESDEMONA.
+           Puhutaan nyt Cassiosta.
+
+OTHELLO.
+Tuo liina!
+
+DESDEMONA.
+           Miehestä, jok' ystävyytees
+On kaiken onnens' aina perustanut
+Ja kanssas kaikki vaarat kärsinyt.
+
+OTHELLO.
+Tuo liina!
+
+DESDEMONA.
+           Kuules, nyt sä vääräss' olet.
+
+OTHELLO.
+Pois!
+
+    (Lähtee.)
+
+EMILIA.
+      Eikö tuo mies ole luulevainen?
+
+DESDEMONA.
+Tuot' en ma koskaan ennen ole nähnyt.
+On varmaan tuossa liinass' ilmitaika;
+Mua onnetonta, kun sen kadotin!
+
+EMILIA.
+Ei miehest' ota selvää vuoteen, kahteen.
+He vatsoj' ovat kaikki, me vaan ruoka.
+Meit' ahmivat he, ja kun kyllän saavat,
+Niin maalle meidät oksentavat he. --
+Kah, Cassio ja mieheni!
+
+    (Jago ja Cassio tulevat.)
+
+JAGO.
+                        Se keino
+On ainoa; se hänen tehdä täytyy.
+Kah, ihan parhaiks! Kiusatkaa nyt häntä.
+
+DESDEMONA.
+No, Cassio hyvä, mitä uutta teillä?
+
+CASSIO.
+Tuo vanha pyyntö. Anon, rouva, ett'
+Tehokkaast' avustanne taas saan elon
+Ja jäsenyyden hänen suosiossaan,
+Jot' aina sydämeni pohjukasta
+Ma kunnioitan. Älkää viivytelkö.
+Jos vikani niin kuolettavan suur'
+Ett' entiset ei työt, ei nyky-tuskat,
+Ei vastaisuuden hyvät aikomukset
+Voi mulle hänen ystävyyttään voitta,
+Niin olis jo se tieto lohdutusta.
+Hyvillän' olen silloin väkisinkin,
+Ja toisell' urall' onnen armoleipää
+Käyn etsimään.
+
+DESDEMONA.
+               Oi, kelpo, kelpo Cassio,
+Mun puoltoni ei soinnu nyt; mun miehen'
+Ei ole mieheni; ma hänt' en tuntis,
+Jos niin ois muoto muuttunut kuin mieli.
+Niin totta auttakoot mua pyhät kaikki,
+Kuin minä teitä kaikin voimin puolsin,
+Vapaista puheistani joutuin pilkaks
+Othellon kiukulle. Mut malttukaa;
+Min voin, sen teen, teen enemmän, kuin, sallis
+Mun oma etuni; siis tyytykäätte.
+
+CASSIO.
+Vihoissaan onko hän?
+
+DESDEMONA.
+                     Täält' äsken läksi
+Ja todellakin ihmeen raivokkaana.
+
+JAGO.
+Vihoissaan hänkö? Tykin olen nähnyt
+Hält' ilmaan sotajoukot lietsovan,
+Ja, niinkuin perkel', oman veljen hältä
+Käsistä riistävän; -- hän vihoissaanko?
+Jotakin tärkeää siis! Etsin häntä;
+Kun suuttuu hän, on leikki kaukana.
+
+DESDEMONA.
+Ma pyydän, tee se. --
+    (Jago lähtee.)
+                      Valtatoimi varmaan
+Venetiast' ilmoitus, tai salahanke,
+Kyprossa ilmi saatu -- kirkkaan järjen
+On hältä hämmentännä. Miehet usein
+Vihaansa halpaan esineesen purkaa,
+Kun syy on suuremmissa. Niin on aina;
+Jos särkee sormeas, niin terveissäkin
+On ruumiin jäsenissä tuskan tunne.
+Ei, jumalia ei ne miehet ole;
+Heilt' emme aina sulhon hempeyttä
+Saa vaatia. Emilia, mua moiti;
+Soturi olen huono: tunnossani
+Valitin hänen kylmyyttään: nyt huomaan,
+Ett' olen todistajan lahjonut ma
+Ja väärin häntä syytän.
+
+EMILIA.
+                        Suokoon taivas
+Todeksi sen, ett' on se valtatointa
+Eik' oikkaa vaan ja epäluulon puuskaa,
+Mi koskis teitä.
+
+DESDEMONA.
+Voi mua! Milloin siihen syytä annoin?
+
+EMILIA.
+Ei luulevainen henki siitä huoli;
+Hän syyst' ei ole luuleva; hän luulee
+Vaan senvuoks, että luulee. Se on peto,
+Jok' itsestänsä sikiää ja syntyy.
+
+DESDEMONA.
+Pedosta tuost' Othelloa varjele,
+Hyväinen taivas!
+
+EMILIA.
+                 Amen!
+
+DESDEMONA.
+                        Etsin häntä.
+Tääll' olkaa, Cassio; hyvillään jos on hän,
+Esitän hälle anomuksenne
+Ja äärimmilleen sitä ajaa koitan.
+
+CASSIO.
+Nöyrästi kiitän, armollinen rouva!
+
+    (Desdemona ja Emilia lähtevät.)
+    (Bianca tulee.)
+
+BIANCA.
+No, Cassio, terve!
+
+CASSIO.
+                   Mitä täällä teet?
+Kuin voit sä, ihanaiseni Bianca?
+Juur' aioin luokses tulla, armas kulta.
+
+BIANCA.
+Ja minä sinun. Mitä! Viikon poissa?
+Se seitsemän on päivää sekä yötä.
+Kakstoista tiimaa neljätoista kertaa!
+Ja kellon aikaa neljätoista kertaa
+On hitaamp' armaan poissaolon aika!
+Väsyttävätä laskua!
+
+CASSIO.
+                    Oi, anteeks!
+Mua painaneet on mietteet lyijynraskaat.
+Kun joutoaikaa saan, tuon pitkän laskun
+Ma suoritan. Tuost' ota mulle malli,
+    (Antaa hänelle Desdemonan nenäliinan.)
+Bianca hyvä.
+
+BIANCA.
+             Mistä tämä, Cassio?
+Kai joku uuden ystävyyden lahja!
+Nyt tiettyyn poissaoloon syynkin tiedän.
+Vai niin? No, hyvä, hyvä!
+
+CASSIO.
+                          Vaiti, vaimo!
+Nuo hiiden epäilykses heitä hornaan,
+Jost' ovat tulleetkin. Nyt luulet mua,
+Ett' immelt' olen tämän lahjaks saanut.
+Ei, Bianca, usko mua.
+
+BIANCA.
+                      Kelt' on se sitten?
+
+CASSIO.
+En tiedä, en; sen huoneestani löysin.
+Mua miellyttää se, mukailluks sen tahdon,
+Ennenkuin pois se -- ehkä pian -- viedään.
+Tee se, ja jätä minut yksin nyt.
+
+BIANCA.
+Kuin? Yksin? Miksi niin?
+
+CASSIO.
+Ma kenraalia varron, enkä luulis
+Sit' arvokkaaksi enkä suotavaksi,
+Jos naisen kanssa hän mun näkis.
+
+BIANCA.
+                                 Miks ei?
+
+CASSIO.
+Ei siksi, ett'en lempis sua.
+
+BIANCA.
+Vaan siksi, ett'et lemmi mua.
+Ma pyydän: saata mua hiukan matkaa;
+Ja sano, käytkö luonan' iltasella.
+
+CASSIO.
+Vaan hiukan matkaa saatan sua saattaa;
+Mun täytyy odottaa. Mut kohta saat mun.
+
+BIANCA.
+No, hyvä; kaikissapa niissä ollaan!
+
+                        (Lähtevät.)
+
+
+
+
+NELJÄS NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Linnan edustalla.
+
+    (Othello ja Jago tulevat.)
+
+JAGO.
+No, miltä näyttää?
+
+OTHELLO.
+                   Näyttää? Jago, mikä?
+
+JAGO.
+Suut' antaa salaa?
+
+OTHELLO.
+                   Laiton suutelo!
+
+JAGO.
+Tai tunnin pari ystävänsä kanssa
+Alasti maata, puhtaudess' aivan?
+
+OTHELLO.
+Alastiko ja puhtaudess' aivan?
+Pirua kohtaan tekopyhyytt' on se!
+Jos moiseen ryhtyy viaton, niin perkel'
+Se häntä kiusaa, ja hän kiusaa Herraa.
+
+JAGO.
+Jos eivät mitään tee, se pien' on hairaus.
+Mut jos ma vaimolleni liinan annan --
+
+OTHELLO.
+No, mitä sitten?
+
+JAGO.
+Se silloin hänen on, ja, ollen hänen,
+Hän kai voi kelle hyvänsä sen antaa.
+
+OTHELLO.
+Hän kunniansakin on vartija;
+Hän voiko senkin antaa pois?
+
+JAGO.
+Niin, kunnia on aine, jok' ei näy;
+Se usein niill' on, joilla sit' ei ole.
+Mut mitä liinaan tulee --
+
+OTHELLO.
+                           Mielelläni
+Sen, totta Jumal', oisin unhottanna!
+Sa sanoit -- O! se muistissani pyörii
+Kuin ruttohisen talon päällä korppi,
+Tuo tuhon enne, -- ett' on liina hällä.
+
+JAGO.
+No, mitä sitten?
+
+OTHELLO.
+                 Se ei hyvä.
+
+JAGO.
+                             Mitä,
+Jos sanoisin ma, että itse miehen
+Näin teitä solvaavan, tai kuulin hältä --
+Semmoisiakin konnia on, jotka,
+Kun kiihkeillä pyyteillään tai naisen
+Omasta ehdost' ansaan hänet saavat,
+Vait eivät olla voi, vaan lörpöttävät.
+
+OTHELLO.
+Hän onko mitä virkkanut?
+
+JAGO.
+                         On kyllä;
+Mut, olkaa varma, muuta ei, kuin minkä
+Valalla kieltää voi hän.
+
+OTHELLO.
+                         Mitä virkkoi?
+
+JAGO.
+Ett' on hän -- min' en tiedä, mitä on hän --
+
+OTHELLO.
+Haa! Mitä? mitä?
+
+JAGO.
+                 Maannut --
+
+OTHELLO.
+                             Hänen kanssaan?
+
+JAGO.
+Niin, kanssa, päällä, miten suvaitsette.
+
+OTHELLO.
+Kanssa! Päällä! Hyi inhoittavaa! -- Liina, -- tunnustuksia, -- liina!
+-- Tunnustaa ja joutua hirteen vaivastaan! -- Ensin hirteen, sitten
+tunnustus; -- se minua värisyttää. -- Luonto ei näin mustaan tuskan
+pilveen itseänsä peittäisi, jos ei se jotakin ennustaisi. Ne eivät ole
+sanat, jotka näin minua vavistuttavat. -- Huu! -- nenät, korvat ja
+huulet! -- Onko tuo mahdollista? -- Tunnustus! -- Liina! -- Oi,
+perkele!
+
+    (Kaatuu tainnoksiin.)
+
+JAGO.
+Tee työtäs, myrkkyni, tee työtäs!
+Näin uskovaiset narrit ansaan saadaan;
+Näin moni arvoisa ja siivo nainen
+Häpeään syyttä joutuu. -- Nouskaa, herra!
+Hoi, herra! Hoi, Othello! --
+    (Cassio tulee.)
+                             Mitä, Cassio?
+
+CASSIO.
+Mik' ompi täällä?
+
+JAGO.
+Kenraalilla on kaatuvaisen kohtaus;
+Tää toinen on; häll' oli yksi eilen.
+
+CASSIO.
+Ohauksia siis hierokaa.
+
+JAGO.
+                        Ei, älkää!
+Hänt' ei saa tainnoksissaan häiritä;
+Hän silloin suustaan vaahtoaa ja oiti
+Raivokkaan hurjaks yltyy. Kah, hän liikkuu.
+Vetäykää hetkeks pois; hän kohta tointuu.
+Kun mennyt on hän, tärkeätä mull' on
+Puhuttavaa.
+    (Cassio lähtee.)
+            No, herra, kuink' on laita?
+Satutitteko päänne?
+
+OTHELLO.
+                    Ivaatkos?
+
+JAGO.
+Minäkö ivaisin! En, jumal'auta!
+Osanne kestäkäätte niinkuin mies.
+
+OTHELLO.
+Mies sarvekas on hirviö ja peto.
+
+JAGO.
+Isoissa kaupungeissa sitten monta
+Petoa on ja sievää hirviötä.
+
+OTHELLO.
+Hän tunnustiko?
+
+JAGO.
+                Herra, olkaa mies;
+Mon' ikeellinen partaniekka vetää
+Kanssanne yhtä köyttä. Tuhansittain
+Niit' öisin makaa toisten sijalla,
+Sen luullen omakseen; niin ei käy teidän.
+Se hiton hauska lemmon sutkaus on
+Suudella vihkivuoteessansa kurvaa
+Ja puhtaaks häntä luulla! Tieto paras!
+Kun tiedän oman, tiedän vaimon osan.
+
+OTHELLO.
+Oo, sinä olet viisas! Aivan niin!
+
+JAGO.
+Nyt syrjään hetkeks käykää.
+Rajoissa maltin pysykää. Kas, tässä
+Kun tuskan voittamana makasitte,
+Jok' ei niin suuren miehen arvoon sovi, --
+Sai Cassio tänne. Hänet pois ma laitoin,
+Tilaanne syillä puolustain ja käskin,
+Ett' oiti puheilleni palajais hän:
+Hän lupasikin sen. Nyt lymyyn käykää,
+Ja huomatkaa, mik' iva, ilkku, nauru
+Sen miehen joka kasvoinjuonteess' asuu.
+Hän kertoa saa jälleen, kuinka, missä,
+Kuink' usein, kuinka kauan vaimoanne
+Halannut on hän ja sit' aikoo vielä
+Tarkatkaa häntä, sanon olkaa tyyni!
+Tai luulen, että teiss' on pernatauti
+Ja hiukkaakaan ei miestä.
+
+OTHELLO.
+                          Kuules, Jago,
+Min' osaan oikein viekkaan tyyni olla;
+Mut -- kuuletkos? -- myös verinen.
+
+JAGO.
+                                   Ei haittaa;
+Mut kaikki aikanaan! Nyt piiloon menkää.
+    (Othello piiloutuu.)
+Biancan puheeks otan Cassion kanssa,
+Tuon tytön, joka vaatteensa ja ruokans'
+Ihallaan ansaitsee; se eläin häntä
+Rakastaa; hutsun rangaistust' on tuo:
+Hän monta pettää, ja yks hänet pettää.
+Kun häntä mainittavan kuulee Cassio,
+Hän suuren naurun päästää. -- Kah,
+    (Cassio palajaa.)
+Kun nyt hän nauraa, raivoaa Othello.
+Ja Cassio raukan hymyt, naljat, liikkeet
+Sokeessa epäluulossaan hän väärin
+Käsittää aivan. -- Mitä kuuluu, luutnantti?
+
+CASSIO.
+Pahinta, kun tuon arvonimen kuulen,
+Jonk' osattuus mun surmaa.
+
+JAGO.
+Käy Desdemonan päälle vaan, niin saat sen.
+    (Matalammalla äänellä.)
+Jos tähän pyyntöön mitään vois Bianca,
+Kyll' avun pian saisit.
+
+CASSIO.
+                        Kurja raukka!
+
+OTHELLO (syrjään).
+Kas, kuinka hän jo nauraa!
+
+JAGO.
+                           Min' en koskaan
+Noin rakastunutt' ole naista nähnyt.
+
+CASSIO.
+Mua, luulen ma, se hupsu raukka lempii.
+
+OTHELLO (syrjään).
+Hän miedosti sen kieltää, salaa naurain.
+
+JAGO.
+Mut kuules, Cassio --
+
+OTHELLO (syrjään).
+                      Nyt hän tunnustukseen
+Pakoittaa häntä. Hyvä, hyvä! Joutuun!
+
+JAGO.
+Hän tekee kuuluks, että nait sa hänet;
+Se onko aikomukses?
+
+CASSIO.
+                    Ha, ha, ha!
+
+OTHELLO (syrjään).
+Riemuitsetko, roomalainen, riemuitsetko?
+
+CASSIO.
+Minäkö hänet naisin? -- Mitä! Julki-porton? Ma pyydän; sääli hiukan
+järkeäni; älä sitä niin sairaaksi luule. Ha, ha, ha!
+
+OTHELLO (syrjään).
+Kas, kas, kas, kas! Kyllä vielä naurusi maksan!
+
+JAGO.
+Käy huhu moinen, että nait sa hänet.
+
+CASSIO.
+Todellakin?
+
+JAGO.
+Jos ei, niin sano mua konnaks.
+
+OTHELLO (syrjään).
+Oletko multa luvan saanut? Hyvä!
+
+CASSIO.
+Sen on se marakatti itse levittänyt. Hän on liehakoitsevasta rakkauden
+kiihkosta päähänsä saanut, että aion hänet naida, vaikk'en minä mitään
+lupausta ole antanut.
+
+OTHELLO (syrjään).
+Jago viittaa mulle; nyt alkaa kertomus.
+
+CASSIO.
+Hän oli äsken tässä; kaikkialla hän on mulle vaivana. Taannoin
+haastelin rannalla muutamien venetialaisten kanssa, ja sinnekin se
+hemppu löysi ja, niin totta kuin elän, karkasi kaulaani näin; --
+
+OTHELLO (syrjään).
+Huutaen: "armas Cassio!" tai jotakin senkaltaista; hänen liikkeensä
+sitä osoittavat.
+
+CASSIO.
+Ja riippuu siinä ja laahaa ja itkee ja nykii mua ja vetää. Ha, ha, ha!
+
+OTHELLO (syrjään).
+Nyt hän kertoo, kuinka vaimoni veti häntä kamariini. O, kyllä nokkasi
+näen, mutta en sitä koiraa, jonka eteen sen viskaisin!
+
+CASSIO.
+Minun pitää todellakin luopua hänen seurastaan.
+
+JAGO.
+Totta, Jumala! Tuossa hän tulee.
+
+    (Bianca tulee.)
+
+CASSIO.
+Hän se on ihkainen hilleri ja lemuava lisäksi. -- Miksi noin aina
+perässäni kiilit?
+
+BIANCA.
+Piru äitineen perässäsi kiiliköön! Mitä tiesi se liina, jonka äsken
+mulle annoit? Ja minä hupsu, kun otin sen! Minunko pitäisi se mukailla
+kokonansa? Kylläpä kaiketi sen huoneestasi löysit, etkä tiedä, kuka sen
+sinne jätti! Lahja varmaan joltakin hempukalta, ja minunko sitä sitten
+pitäisi mukailla? Tuossa on se; anna se keppihevosellesi. Mistä tahansa
+sen saitkaan, minä en sitä mukaile.
+
+CASSIO.
+Oo, no, Biancaseni! Älähän nyt!
+
+OTHELLO (syrjään).
+Totta tosiaan onkin se minun nenäliinani, luulen ma!
+
+BIANCA.
+Jos haluat tänään luonani illastella, niin tule; jos et, niin tule
+toiste, milloin haluat.
+
+    (Lähtee.)
+
+JAGO.
+Riennä, riennä jäljestä!
+
+CASSIO.
+Täytynee se tehdä: muuten hän vielä kadulla sadattelee.
+
+JAGO.
+Aiotko hänen luonaan illastella?
+
+CASSIO.
+Luulenpa niin.
+
+JAGO.
+Hyvä; sitten kai tapaan sinut; tahtoisin niin mielelläni haastella
+kanssasi.
+
+CASSIO.
+Tule, ma pyydän. Tuletko?
+
+JAGO.
+No niin; pidä suus nyt!
+
+    (Cassio lähtee.)
+
+OTHELLO (tulee esiin).
+Mitenkä ma hänet murhaan, Jago?
+
+JAGO.
+Huomasitteko, kuinka hän nauroi pahalla työllään?
+
+OTHELLO.
+Oi, Jago!
+
+JAGO.
+Ja näittekö nenäliinan?
+
+OTHELLO.
+Oliko se minun?
+
+JAGO.
+Oli, niin totta kuin tuo käsi on mun! Ja te näitte, minkä verran arvoa
+hän panee tuohon hupsuun naiseen, teidän vaimoonne! Tämä sen hänelle
+antoi, ja hän antaa sen jalkavaimolleen.
+
+OTHELLO.
+Oi, jos saisin yhdeksän vuotta häntä murhatakseni! -- Soma vaimo!
+Kaunis vaimo! Ihana vaimo!
+
+JAGO.
+Tuo teidän nyt täytyy unhottaa.
+
+OTHELLO.
+Mädätköön hän, hukkukoon ja menköön helvettiin tänä iltana; sillä elää
+hän ei saa! Ei, sydämeni on kiveksi muuttunut: kun siihen lyön, niin
+haavoittaa se käteni. Oi, ihanampaa olentoa ei koko maailmassa ole; hän
+olisi saattanut keisarinkin kupeella maata ja tätä orjantöihin määrätä!
+
+JAGO.
+Nyt olette väärällä tolalla taas.
+
+OTHELLO.
+Hirteen koko vaimo! Sanon vaan mikä hän on. Niin näppärä neuloja! --
+Ihmeteltävän soitannollinen! Oi, hän saattaisi laulullaan raivokkaan
+karhunkin kesyttää! -- Ja niin valtava ja rikas älyltään ja neroltaan!
+
+JAGO.
+Sitä huonompi hän on.
+
+OTHELLO.
+Oo, tuhat, tuhat kertaa! -- Ja sitten niin helläluontoinen!
+
+JAGO.
+Niin, liiaksikin hellä.
+
+OTHELLO.
+Se on totta! -- Mutta sääli tuota on sentään. Jago -- Oo, Jago,
+sääli on, Jago!
+
+JAGO.
+Jos olette niin hänen rikoksiinsa rakastunut, niin antakaa hänelle
+valtakirja syntiä tehdä; sillä jos se ei teitä koske, ei kenenkään
+toisenkaan siihen mitään tule.
+
+OTHELLO.
+Kappaleiksi hänet paloittelen. -- Tehdä minusta aisankannattaja!
+
+JAGO.
+Ruma työ!
+
+OTHELLO.
+Luutnanttini kanssa!
+
+JAGO.
+Sitä rumempi!
+
+OTHELLO.
+Hanki myrkkyä mulle, Jago; tänä iltana: -- en tahdo sanasotaan ruveta
+hänen kanssaan, ettei hänen vartalonsa ja kauneutensa taas minua
+hurmaisi. -- Tänä iltana, Jago!
+
+JAGO.
+Älkää myrkkyä käyttäkö; kuristakaa hänet vuoteessaan, samassa
+vuoteessa, jonka hän on saastuttanut.
+
+OTHELLO.
+Hyvä! Sepä on paikallaan se rangaistus. Sangen hyvä!
+
+JAGO.
+Ja mitä Cassioon tulee, kyllä minä pidän huolta hänestä: lisää saatte
+kuulla keskiyön aikana.
+
+    (Torventoitaus kuuluu.)
+
+OTHELLO.
+Sep' oivallista! -- Mikä toitaus tuo?
+
+JAGO.
+Venetiasta sana varmaankin.
+Se dogin lähetti on Lodovico;
+Ja vaimonne on, nähkääs, hänen kanssaan.
+
+    (Lodovico, Desdemona ja seuralaisia tulee.)
+
+LODOVICO.
+Jumalan rauha, kenraal'!
+
+OTHELLO.
+                         Tervetullut!
+
+LODOVICO.
+Terveiset dogilta ja senaatilta!
+
+    (Antaa hänelle kirjeen.)
+
+OTHELLO.
+Suut' annan heidän tahtons' ilmituojan.
+
+    (Avaa kirjeen ja lukee.)
+
+DESDEMONA.
+Mit' uut', hyvä Lodovico serkku?
+
+JAGO.
+Iloista, signor, nähdä teitä täällä;
+No, tervetultuanne Kyproon!
+
+LODOVICO.
+                            Kiitos!
+Luutnantti Cassio, kuin voi hän?
+
+JAGO.
+                                 Hän elää.
+
+DESDEMONA.
+Mun mieheni ja hänen välins' aivan
+On rikkunut; mut te sen ehjäks teette.
+
+OTHELLO.
+Oletko varma siitä?
+
+DESDEMONA.
+                    Mitä sanot?
+
+OTHELLO (lukee).
+"Se tehkää viipymättä, jos on mieli."
+
+LODOVICO.
+Ei mitään; kirjeeseen hän kiintynyt on.
+Vai huono miehesi ja Cassion väli?
+
+DESDEMONA.
+Niin, vallan onneton. Oi, sointuun saada
+Jos heidät voisin! Pidän Cassiosta.
+
+OTHELLO.
+Haa! Tulikiveä ja tulta!
+
+DESDEMONA.
+                         Mitä?
+OTHELLO.
+Oletko viisas?
+
+DESDEMONA.
+               Onko vihoissaan hän?
+
+LODOVICO.
+Kenties kirje häntä suututtaa:
+Kotihin häntä käsketään, ma luulen,
+Ja saaren hallitus jää Cassiolle.
+
+DESDEMONA.
+No, sepä oivaa!
+
+OTHELLO.
+                Todellako?
+
+DESDEMONA.
+                           Mitä?
+
+OTHELLO.
+Sep' oivaa, ettäs olet hulluks tullut.
+
+DESDEMONA.
+Kuin niin, Othello armas?
+
+OTHELLO.
+                          Perkele!
+
+    (Lyö häntä.)
+
+DESDEMONA.
+En ansainnut ma tuota.
+
+LODOVICO.
+                       Hyvä herra,
+Tuot' ei Venetiass' uskottaisi, vaikka
+Todeksi vannoisin sen. Tuo on liikaa.
+Hän itkee! Lohdutelkaa!
+
+OTHELLO.
+                        Perkel', perkel'!
+Jos maan vois naisen itkut hedelmöittää,
+Niin joka tilkka krokotiilin siittäis.
+Pois silmistäni!
+
+DESDEMONA.
+                 Ett'en sua loukkais,
+Niin lähden.
+
+    (Aikoo lähteä.)
+
+LODOVICO.
+             Tosiaankin nöyrä vaimo!
+Takaisin, herra, kutsukaa hän.
+
+OTHELLO.
+                               Rouva!
+
+DESDEMONA.
+Mun herrani?
+
+OTHELLO.
+             No, mitä tahdotten?
+
+LODOVICO.
+Ken? Minäkö?
+
+OTHELLO.
+             Niin, tahdottehan häntä
+Takaisin kääntymään. Hän kyllä kääntyy,
+Niin, kääntyy, eespäin kulkee, kääntyy taasen;
+Ja itkeä hän osaa, itkeä;
+Ja, niinkuin sanoitte, hän nöyr' on -- nöyrä, --
+Erittäin nöyrä! -- Itkemistäs jatka! --
+On seikka se -- Oo, oiva tekotunne! --
+Ett' olen kotiin käsketty. -- Pois, tiehes!
+Sun oiti tuotan. -- Käskyä ma kuulen
+Ja palajan Venetiaan. -- Pois täältä! --
+    (Desdemona lähtee.)
+Saa Cassio paikkani. Ja -- -- saanko pyytää
+Teit' iltaiselle? Tervetullut Kyproon! --
+Apinat ja vuohet!
+
+LODOVICO.
+                  Tuoko nyt se mauri,
+Mi senaattimme kaikki kaikess' on?
+Se jalo henki, jot' ei hurmaa kiihko?
+Jonk' uljait' avuja ei onnen keihäs
+Voi murtaa eikä sattumuksen nuoli
+Lävistää voi?
+
+JAGO.
+              Hän muuttunut on paljon.
+
+LODOVICO.
+Hän onko viisas! Onko järjiltään hän?
+
+JAGO.
+Hän on mik' on; en tohdi häntä laittaa.
+Suo Jumal', että ois hän mitä vois hän,
+Jos sit' ei ole!
+
+LODOVICO.
+                 Lyödä vaimoansa!
+
+JAGO.
+Pahasti kyllä. Soisin, että oisi
+Se lyönti pahin.
+
+LODOVICO.
+                 Tuoko tapa hällä?
+Vai kiihoittiko kirje hänen vertaan
+Näin outoon rikokseen?
+
+JAGO.
+                       Ah voi, ah voi!
+Ois kunnotonta kertoa min nähnyt
+Ja kuullut olen. Tarkatkaatte häntä:
+Niin häntä kuvaa oma käytös, että
+Puheeni säästää voin ma. Seuratkaa vaan
+Ja huomatkaatte, miten jatkaa hän.
+
+LODOVICO.
+Voi, että näin ma hänest' erehdyin!
+
+                        (Lähtevät.)
+
+
+
+Toinen kohtaus.
+
+    Huone linnassa.
+
+    (Othello ja Emilia tulevat.)
+
+OTHELLO.
+Te ette mitään ole nähnyt siis?
+
+EMILIA.
+En kuullutkaan enk' epäillytkään koskaan.
+
+OTHELLO.
+Olette nähnyt hänet Cassion kanssa.
+
+EMILIA.
+Mut pahaa min' en nähnyt; joka sanan
+Ma silloin kuulin, joka hengähdyksen.
+
+OTHELLO.
+He eikö koskaan kuiskailleet?
+
+EMILIA.
+                              Ei koskaan.
+
+OTHELLO.
+Ja teitä pois ei laittaneet?
+
+EMILIA.
+                             Ei koskaan.
+
+OTHELLO.
+Huntua, viuhkaa, sormikkaita tuomaan?
+
+EMILIA.
+Ei, herra, koskaan.
+
+OTHELLO.
+                    Sepä kummallista!
+
+EMILIA.
+Vetoa sielustani lyön, ett' on hän
+Uskollinen; jos toista luuletten,
+Se luulo pois! se pettää sydämenne!
+Jos sen on teihin joku konna pannut,
+Kirotkoon niinkuin käärmeen hänet taivas!
+Siveetön, uskoton jos vaimo tuo on,
+Miest' onnellist' ei silloin; puhtain vaimo
+On musta niinkuin parjaus.
+
+OTHELLO.
+                           Kutsukaa
+Hän tänne. --
+    (Emilia lähtee.)
+              Kylläks kuulin; mutta mikä
+Parittaja ei tuota vakuuttaisi!
+Kavala portto, salasyntien
+Likaisen säilyn lukko! Kuitenkin hän
+Rukoilee, polvistuu, sen olen nähnyt.
+
+    (Emilia ja Desdemona tulevat.)
+
+DESDEMONA.
+Täss' olen, herrani!
+
+OTHELLO.
+                     Käy tänne, hemppu!
+
+DESDEMONA.
+Mik' on sun tahtos?
+
+OTHELLO.
+                    Näytä mulle silmäs;
+Mua silmiin katso!
+
+DESDEMONA.
+                   Mikä julma oikku!
+
+OTHELLO (Emilialle).
+Toimeenne, rouva! Yksin jättäkäätte
+Rakastavaiset; ovi sulkekaa;
+Rykikää, yskikää, jos joku tulee!
+Toimeenne, toimeenne! -- no, rientäkää!
+
+    (Emilia lähtee.)
+
+DESDEMONA.
+Mit' aiot? Sano; polvillani pyydän.
+Sanoissasi ma raivon tajuan,
+Mut sanoj' en.
+
+OTHELLO.
+               Mik' olet sinä?
+
+DESDEMONA.
+                               Vaimos,
+Mun puolisoni! Uskollinen vaimos!
+
+OTHELLO.
+No, vanno, kiroo itses, muuton pelkää
+Sun perkel' ottaa, luullen enkeliks sun!
+Kirottu kahdesti! -- no, vanno itses
+Nyt puhtaaks!
+
+DESDEMONA.
+              Taivas tietää sen.
+
+OTHELLO.
+                                 Niin, tietää
+Sun valheelliseks niinkuin helvetin.
+
+DESDEMONA.
+Kuin? Valheelliseks? Kelle? Ketä kohtaan?
+
+OTHELLO.
+Oi, Desdemona, -- poistu, poistu, poistu!
+
+DESDEMONA.
+Voi, päivää onnetonta! -- Miksi itket?
+Minäkö syypää kyyneliis? Jos kenties
+Isäni syyksi kotiinkutsumises
+Sa luulet, älä vihaas minuun pura;
+Jos hänet kadotit sa, myöskin minä
+Kadotin hänet.
+
+OTHELLO.
+               Jos mua taivas tahtois
+Surulla koitella ja pilkat, tuskat,
+Kaikk' antais sataa paljaan pääni päälle,
+Upottais kurjuuteen mun huuliin asti,
+Toivottomahan orjuuteen mun syöksis,
+Pisaran kärsimystä jossain sielun
+Sopessa löytäisin. Mut voi! kun luopi
+Mun kuvapatsaaks, jolle aika ilkkuin
+Hitaasti sormeansa osoittaa, --
+Oo, oo!
+Vaan senkin kestää voisin, hyvin kyllä.
+Mut sieltä, miss' on sydämeni säily,
+Jost' elää täytyy mun tai elo jättää,
+Lähteestä, josta elinvirta vuotaa
+Tai muuten kuivuu, -- karkoittua sieltä
+Tai kuljuna se nähdä, jossa kutee
+Ja poikii inhat konnat! -- muuta muotos,
+Sa maltti, nuori, punasuu keruubi,
+Ja näytä julmalta kuin horna!
+
+DESDEMONA.
+                              Toivon,
+Ett' uskoo jalo mieheni mun puhtaaks.
+
+OTHELLO.
+Niin kyllä, niinkuin teurashuonehessa
+Itikat, jotka syntyissään jo huorii!
+Oo, ruuhka sinä, hurmaavaisen kaunis,
+Jonk' armas tuoksu aivuj' oikein särkee, --
+Voi, ett'et olis koskaan syntynytkään!
+
+DESDEMONA.
+Mink' olen synnin tietämättä tehnyt?
+
+OTHELLO.
+Tuo kaunis, puhdas kirja onko tehty
+Vaan porton leimaa varten! Mitä tehnyt?
+Mitäkö tehnyt? -- Oo, sa julki-luuska!
+Sulaks ahjoks poskeni ma saisin,
+Jok' ihan hiiliks hävyn kaiken polttais,
+Jos tekos julki toisin. -- Mitä tehnyt!
+Nenänsä taivas tukkii, kuukin torkkuu
+Ja tuuli luuska, kaikkein suutelija,
+Maan ontelossa luolassa on vaiti
+Ja kammoo sitä kuulla. Mitä tehnyt!
+Hävytön portto!
+
+DESDEMONA.
+                Totta, Jumala,
+Mua loukkaat.
+
+OTHELLO.
+              Sinä etkö portto?
+
+DESDEMONA.
+                                 En.
+Niin totta kuin ma olen kristitty!
+Jos tätä astiata kaitseminen
+Luvattomasta, inhast' yhteydestä
+Ei porton työtä lie, niin min' en portto.
+
+OTHELLO.
+Sin' etkö huora?
+
+DESDEMONA.
+                 En, kautt' autuuteni!
+
+OTHELLO.
+Se onko mahdollista?
+
+DESDEMONA.
+O, Jumal' armahda!
+
+OTHELLO.
+                   Suo anteetta! Sinut
+Venetian viekkaaks huoraks luulin, jonka
+Othello nai. --
+    (Emilia palajaa.)
+                Te, vaimo, jonka toimi
+Päinvastainen kuin pyhän Pietarin on,
+Te hornan ovenvahti! Te, niin, te!
+Nyt työ on tehty; tuossa vaivastanne!
+Ov' auaiskaa; meit' älkää ilmi tuoko.
+
+    (Lähtee.)
+
+EMILIA.
+Voi, herra tuo hän mitä miettineekään?
+Kuin voitte, hyvä rouva? Kuinka voitte?
+
+DESDEMONA.
+Kuin oisin puoleks unessa.
+
+EMILIA.
+Kuink' ompi herran laita, rouva hyvä?
+
+DESDEMONA.
+Kenenkä?
+
+EMILIA.
+         Herrani.
+
+DESDEMONA.
+                  Ken on sun herras?
+
+EMILIA.
+Hän, joka teidänkin on, rouva hyvä.
+
+DESDEMONA.
+Ei herraa mulla. Mulle älä puhu:
+En itkeä ma voi; en vastata
+Pait kyynelillä. Ensi yöksi pane
+Vuoteelleni häälakanat, -- se muista, --
+Ja kutsu miehes tänne.
+
+EMILIA.
+                       Sepä muutos!
+
+    (Lähtee.)
+
+DESDEMONA.
+Näin kohdella mua tulee, aivan niin!
+Mutta mitä tein ma, jotta pienin virhe
+Syyt' antaa pienimpään vois epäluuloon?
+
+    (Emilia ja Jago tulevat.)
+
+JAGO.
+Mit', armas rouva, tahdotten? Kuin voitte?
+
+DESDEMONA.
+En tiedä. Joka nuorta lasta neuvoo,
+Sen tekee säisysti ja vähin töin.
+Niin olis mua nuhdella hän voinut:
+Laps olen nuhdeltaissa.
+
+JAGO.
+                        Mik' on, rouva?
+
+EMILIA.
+Voi, Jago, mauri häntä huoraks haukkui
+Ja viskas häneen moista herjan saastaa,
+Jot' ei voi uskollinen sydän kestää.
+
+DESDEMONA.
+Sen nimen ansaitsenko, Jago?
+
+JAGO.
+                             Minkä nimen?
+
+DESDEMONA.
+Jonk' antaneen hän sanoi maurin mulle.
+
+EMILIA.
+Hän huoraks häntä sätti. Loismies päissään
+Noin törkeäst' ei hutsuansa haukkuis.
+
+JAGO.
+Mut miksi niin?
+
+DESDEMONA.
+                En tiedä; varma vaan,
+Ett'en se ole.
+
+JAGO.
+               Älkää itkekö,
+Oi älkää itkekö! Voi tuskan päivää!
+
+EMILIA.
+Siks hylkäskö hän monet jalot tatjot,
+Isänsä, synnyinmaansa, ystävänsä,
+Saadakseen huoran nimen? Ken ei itkis?
+
+DESDEMONA.
+Se on mun kova onneni.
+
+JAGO.
+                       Se lempo, --
+Mist' oikun moisen sai hän?
+
+DESDEMONA.
+                            Taivas tiesi!
+
+EMILIA.
+Käyn hirteen, jos ei joku ilkimys
+Jokuinen liukas, liehakoiva konna,
+Siloinen, virkaa mateleva orja
+Tuon valheen isä lie; käyn siitä hirteen.
+
+JAGO.
+Hyi! Moist' ei ole, se on mahdotonta.
+
+DESDEMONA.
+Jos on, niin anteeks suokoon hälle taivas!
+
+EMILIA.
+Ei, köysi sille! Luut sen syököön horna!
+Vai huora hän! Ken sitten etsi häntä?
+Kuin? Missä? Milloin? Mitä syytä luuloon!
+Ei. Maurin pettänyt on kurja konna,
+Katala julki-konna, halpa hylky.
+Luo, taivas, peite moisilt' ilkiöiltä
+Ja joka aimo käteen pane ruoska,
+Joll' alaston se konna halki mailman
+Idästä länteen piestäis!
+
+JAGO.
+                         Älä huuda!
+
+EMILIA.
+Hyi, moista! Samanlainen veitikka
+Se sinun järkeskin kai nurin käänsi
+Ja sai sun mua mauriin luulemaan.
+
+JAGO.
+Sin' olet hupsu; vait!
+
+DESDEMONA.
+                       Oi, hyvä Jago,
+Kuin taas Othelloni ma voittaa voisin?
+Käy hänen luokseen. Kautta auringon,
+En tiedä, kuinka hänet kadotin ma!
+Ma tässä polvistun: -- jos ehdollani
+Vihoitin koskaan hänen rakkauttaan
+Sanoilla, ajatuksilla tai töillä; --
+Jos silmä, korva taikka muukaan aisti
+Ihastunut on jonkun toisen muotoon;
+Jos en ma nyt -- kuin ennenkin ja aina --
+Vaikk' ajais hän mun luotaan mierontielle --
+Suuresti lemmi häntä, menköön autuus!
+Voi tylyys paljon; hänen tylyytensä
+Voi multa hengen viedä, mut ei mustaa
+Se lempeäni. Huora! Mitä sanon?
+Mua kauhistaa jo, kun sen sanan lausun;
+Ja tekoon, joka moisen nimen sietää,
+Ei koko mailman turhuus mua saa!
+
+JAGO.
+Oi, huolet' olkaa; se vaan pien' on oikku.
+Hän valtatoimihin on suuttunut
+Ja näin nyt teitä toruu.
+
+DESDEMONA.
+Jos muut' ei olis --
+
+JAGO.
+                     Muuta ei, sen vannon.
+    (Torventoitauksia kuuluu.)
+Haa! Kuulkaa, torvet iltaiselle kutsuu!
+Venetian airutkunta vartoo; sisään,
+Ja itku pois! Hyväksi muuttuu kaikki.
+    (Desdemona ja Emilia lähtevät.)
+    (Rodrigo tulee.)
+No, mitä nyt, Rodrigo?
+
+RODRIGO.
+En huomaa, ettäs kohtelet mua oikein.
+
+JAGO.
+Kuinka niin?
+
+RODRIGO.
+Päivittäin minua uusilla verukkeilla viivyttelet, ja minusta näyttää,
+että pikemmin minulta estät kaikki tilaisuudet, kuin hankit toiveilleni
+vähääkään etua. Tätä en, totisesti, kauemmin kestä enkä enää taivu
+tyynenä noudattamaan mitä tähän saakka olen hupsun lailla sietänyt.
+
+JAGO.
+Rodrigo, tahdotko minua kuulla?
+
+RODRIGO.
+Olen, maarin, jo kuullut liiaksikin; sillä teidän sananne ja työnne
+eivät ole keskenään sukua.
+
+JAGO.
+Te soimaatte minua sangen syyttömästi.
+
+RODRIGO.
+Se on kirkasta totuutta. Olen kaiken omaisuuteni tuhlannut. Niistä
+kalleista kivistä, jotka multa saitte, Desdemonalle annettaviksi, olisi
+jo puolet voineet nunnankin pettää. Kerroitte minulle, että hän on ne
+vastaan ottanut ja herätitte minussa pikaisen suosion ja palkinnon
+suloisia toiveita; mutta siitä ei näy niin mitään.
+
+JAGO.
+Hyvä! Jatkakaa! Hyvin hyvä!
+
+RODRIGO.
+Hyvin hyvä! Jatkakaa! En voi enää jatkaa, mies; eikä se hyvin hyväkään
+ole. Kautta tuon käden, se on hyvin sikamaista; sen sanon, ja alan jo
+luulla, että minua pilkkana pidätte.
+
+JAGO.
+Hyvin hyvä!
+
+RODRIGO.
+Se ei ole ollenkaan hyvä, sanon sen vieläkin. Esittelen itse itseni
+Desdemonalle. Jos hän antaa mulle takaisin kalleuteni, niin heitän
+pyyteeni sikseen, katuen luvatonta tarjoustani; vaan jos ei, niin
+vaadin teitä tilille, olkaa varma siitä.
+
+JAGO.
+No, nytpä te vasta puhutte!
+
+RODRIGO.
+Niin, mutta en mitään, jota en vannoisi aikovani toimeen panna.
+
+JAGO.
+No, nythän näen, että sinussa on miehuutta, ja tästä hetkestä alkaen
+saan sinusta paremman luulon kuin koskaan ennen. Kätesi mulle, Rodrigo!
+Olet esiin tuonut sangen oikeutettuja muistutuksia minua kohtaan, ja
+kuitenkin olen, sen vannon, aika lailla puolestasi puuhannut.
+
+RODRIGO.
+Ei ole juuri siltä näyttänyt.
+
+JAGO.
+Sen kyllä myönnän, ett'ei ole siltä näyttänyt, ja epäluulosi ei ole
+älyä ja sukkeluutta vailla. Mutta, Rodrigo, jos sinussa todellakin on
+sitä, jota minulla nyt on suurempi syy sinusta uskoa kuin koskaan
+ennen, -- tarkoitan jäntevyyttä, miehuutta ja urhoollisuutta, -- niin
+osoita sitä tänä yönä. Jos et ensi yönä Desdemonaa haltuusi saa, niin
+laita minut petoksella maailmasta pois ja viritä pauloja hengelleni.
+
+RODRIGO.
+Hyvä! Mitä se on? Onko se järjen ja mahdollisuuden piirissä?
+
+JAGO.
+Kuules: Venetiasta on tullut jyrkkä käsky, joka määrää Cassiolle
+Othellon paikan.
+
+RODRIGO.
+Todellakin? No, sitten kai Othello ja Desdemona palajavat Venetiaan.
+
+JAGO.
+Ei maarin: hän lähtee Mauritaniaan ja ottaa kauniin Desdemonan
+mukanansa, jos ei hänen oloansa täällä joku sattumus pitkitä; ja sitä
+asiaa ei saata mitenkään paremmin ratkaista kuin siten, että Cassio
+poistetaan tieltä.
+
+RODRIGO.
+Mitä tarkoitat? Poistetaan tieltä?
+
+JAGO.
+Niin, tehdään hänet Othellon virkaan kelvottomaksi: napautetaan miestä
+päähän.
+
+RODRIGO.
+Ja minunko toimekseni sen aiot?
+
+JAGO.
+Niin, jos rohkenet itsellesi etua ja oikeutta hankkia. Hän on tänään
+illallisella erään luuskan luona, missä minun on määrä häntä tavata;
+hän ei vielä tiedä kunniarikkaasta virkaylennyksestään mitään. Jos
+pidät varasi, kun hän sieltä lähtee, jonka minä toimitan tapahtuvaksi
+kahdentoista ja yhden välillä, niin voit häneen karata milloin tahdot.
+Minä olen lähellä hyökkäystäsi auttamassa, ja näin hän joutuu meidän
+kummankin kynsiin. Kas niin, älä ällistele, vaan lähde mukaan. Minä
+näytän sinulle hänen kuolemansa niin välttämättömäksi, että pidät
+velvollisuutenasi auttaa häntä siihen. Nyt on paras illallisen aika, ja
+yö kuluu kulumistaan. Toimeen siis!
+
+RODRIGO.
+Haluan ensin kuulla enemmän syitä.
+
+JAGO.
+Ja saatkin halusi tyydytetyksi.
+
+                    (Lähtevät.)
+
+
+
+Kolmas kohtaus.
+
+    Toinen huone linnassa.
+
+    (Othello, Lodovico, Desdemona, Emilia ja seuralaisia tulee.)
+
+LODOVICO.
+Ma pyydän, älkää suotta vaivaa nähkö.
+
+OTHELLO.
+Suvaitkaa, -- kävely mun tekee hyvää.
+
+LODOVICO.
+Hyv' yötä, rouva! Nöyrin kiitos teille!
+
+DESDEMONA.
+Olitte tervetullut.
+
+OTHELLO.
+                     Lähdetäänkö?
+Oi! -- Desdemona --
+
+DESDEMONA.
+                     Mitä, herrani?
+
+OTHELLO.
+Käy heti maata; paikalla ma palaan.
+Tuo seurakumppanisi laita pois.
+Tee niin, kuin käsken.
+
+DESDEMONA.
+                       Kyllä, puolisoni.
+
+    (Othello, Lodovico ja seuralaiset lähtevät.)
+
+EMILIA.
+No, mitä nyt? Hän lauhemp' on kuin äsken.
+
+DESDEMONA.
+Hän sanoi palaavansa heti kohta;
+Levolle käski mennä mun ja sinut
+Lähettää pois.
+
+EMILIA.
+               Lähettää minut pois?
+
+DESDEMONA.
+Niin käski hän. Senvuoksi, Emilia hyvä.
+Yöpuku mulle tuo, ja hyvää yötä!
+Hänt' emme nyt saa suututtaa.
+
+EMILIA.
+Oi, jos hänt' ette olis koskaan nähnyt!
+
+DESDEMONA.
+Sit' en ma sois: niin lemmin häntä, että
+Sen miehen viha, karsauskin ja nuhteet --
+Pois neulat ota -- mieleiset on mulle.
+
+EMILIA.
+Häälakanat ma panin vuoteellenne,
+Kuin käskitte.
+
+DESDEMONA.
+               Ykskaikki! -- Hyvä isä,
+Kuin hupsut voimme olla! -- Ennen sua
+Jos minä kuolen, toinen lakanoista
+Mun pue ylleni.
+
+EMILIA.
+               Mit' aattelette?
+
+DESDEMONA.
+Mun äidilläni piika oli, Pirjo;
+Hän lempi; kulta hurjistui ja läksi
+Pois tiekseen. Raidast' oli hällä laulu,
+Pahainen pätkä, vaan se sopi hälle.
+Hän kuollessaan sen lauloi: mielestäni
+Tuo laulu nyt ei mene; muut' en voi ma
+Kuin istua pää kallellaan ja laulaa
+Kuin Pirjo-raukka tuo. Ma pyydän: joudu!
+
+EMILIA.
+Yöpuvun tuonko?
+
+DESDEMONA.
+                Älä; päästä neulat --
+Tuo Lodovico se on sievä mies.
+
+EMILIA.
+Ja vallan kaunis mies.
+
+DESDEMONA.
+                       Hän puhuu hyvin.
+
+EMILIA.
+Tunnen Venetiassa naisen, joka avojaloin olisi Palestinaan vaeltanut
+saadakseen muiskata hänen alahuultaan.
+
+DESDEMONA (laulaa:)
+
+    "Sykomori-puun alla tyttö hyräjää,
+    Soi, raita, vihreä raita!
+    Povella on käsi ja polvella pää,
+    Soi, raita, raita, raita!
+    Tytön huokauksia puro säestää,
+    Soi, raita, vihreä raita!
+    Ja kyynelevirta se kiven pehmittää,
+    Soi, raita, raita, raita!"
+
+Tuo laske syrjään. --
+
+    "Soi, raita, raita, raita!"
+
+Tee joutua, hän koht' on täällä. --
+
+    "Ja raidasta nyt minä sidon seppelen, --
+    Oi, hänt' älä moiti; hän kaunis vihass' on --"
+
+Ei, se on toisin. -- Kuule, mikä kolke?
+
+EMILIA.
+Se vaan on tuuli.
+
+DESDEMONA.
+
+    "Ma sanoin: sinä viekas! Hän vastata ties:
+    Soi, raita, vihreä raita!
+    Min' otan toisen immen, sin' ota toinen mies."
+
+No, lähde nyt; hyv' yötä! Silmän' syhyy,
+Se itkuako tietää?
+
+EMILIA.
+                   Mitä vielä!
+
+DESDEMONA.
+Niin sanotaan. -- Nuo miehet, oi, nuo miehet! --
+Emilia, tuntos päälle: uskotkos sa,
+Ett' on noin törkeästi koskaan vaimo
+Miestänsä pettänyt?
+
+EMILIA.
+                    Sen varmaan luulen.
+
+DESDEMONA.
+Sen tekisitkö, maailman jos saisit?
+
+EMILIA.
+Ja te?
+
+DESDEMONA.
+       En, päivän nähden: sen ma vannon!
+
+EMILIA.
+En minäkään päivän nähden, mutta kenties pimeydessä.
+
+DESDEMONA.
+Sen tekisitkö, maailman jos saisit?
+
+EMILIA.
+Avara mailma ompi: palkka vieno
+Ja rikos hieno!
+
+DESDEMONA.
+                Sit' et maarin tekis!
+
+EMILIA.
+Tekisin maarinkin; ja tehtyäni tekisin sen taas tekemättömäksi. En sitä
+sentään, luulen ma, sormuksesta tekisi enkä muutamasta harsokyynärästä
+enkä vaipoista, hameista, myssyistä enkä pienestä vuosieläkkeestä.
+Mutta jos maailman saisin, -- hei, ken ei siitä hinnasta miestään
+tekisi aisankannattajaksi, kun hän siten saa kruunun päähänsä.
+Kiirastulenkin uhalla sen tekisin.
+
+DESDEMONA.
+Kirottu ma, jos moisen vääryyden
+Tekisin, vaikka koko mailman saisin!
+
+EMILIA.
+Oh, tuohan vääryys on vaan maailmassa vääryys, ja jos koko maailman
+saatte vaivastanne, niin on se vääryys omassa maailmassanne, ja
+helposti sen silloin voitte oikeaksi tehdä.
+
+DESDEMONA.
+En luule moista naista olevan.
+
+EMILIA.
+On, tusina täyteen, ja päälliseksi vielä niin paljon, että sillä vois
+kansoittaa sen maailman, josta leikkiä lyövät.
+Mut naisten lankeemukseen miehet luulen
+Ma syyksi. Jos he meitä laiminlyövät,
+Valaen aartehemme vieraan helmaan;
+Tai tyhmän epäluulons' ilmi tuoden
+Sitovat vapautemme, lyövät meitä,
+Uhalla tuhlaavat mit' omistimme,
+Kyll' yltyy sappi. Vaikka hurskait' ollaan,
+On kostonhalu meissä. Miehet tietkööt,
+Ett' aistit vaimollakin on: hän näkee
+Ja haistaa, makean ja karvaan maistaa
+Kuin mieskin. Mit' aikovat, kun meitä
+He toisiin vaihtavat? Huvinko vuoksi?
+Ma luulen sen. Vai himoko sen tekee?
+Ma luulen sen. Vai eksyttääkö heikkous?
+Sen luulen myös. Mut himoj' eikö meillä?
+Heikkoutta, huvimieltä niinkuin heillä?
+Pidelkööt hyvin meitä, ett'ei vaan
+He meissä näkis seuraust' opistaan.
+
+DESDEMONA.
+Hyv' yötä! -- Herra, älä pahentua
+Mun paheest' anna, mutta parantua!
+
+                       (Lähtevät.)
+
+
+
+
+VIIDES NÄYTÖS.
+
+
+Ensimmäinen kohtaus.
+
+    Katu.
+
+    (Jago ja Rodrigo tulevat.)
+
+JAGO.
+Vajassa tuossa piile; tulen kohta;
+Paljasta miekkas, iske niinkuin mies.
+No, joutuun! Älä pelkää, olen läsnä.
+Tää nostaa taikka kaataa; muista se,
+Ja luja, vankka ole päätöksessäs.
+
+RODRIGO.
+Täss' ole läsnä: ehk' en onnistukaan.
+
+JAGO.
+Täss' aivan; ole mies ja miekkaas tartu.
+
+RODRIGO.
+Halua suurt' ei tekoon ole mulla,
+Mut hän on esiin tuonut kelpo syitä.
+Yks henki vaan! -- Hän kuolkoon! Miekka maalle!
+
+    (Vetäytyy syrjään.)
+
+JAGO.
+Tuon näpyn nuoren verisille hiersin;
+Se äityy jo. Jos Cassio hänet surmaa
+Tai Cassion hän tai kumpikin he kaatuu,
+Mull' ain' on voitto. Jos Rodrigo elää,
+Mua korvaamahan täydesti hän vaatii
+Kaikk' kullat, helmet, joita peijannut ma
+Hält' olen lahjaks Desdemonalle.
+Se ei käy päinsä. Jos jää Cassio eloon,
+Hän joka päivä tekee kauneudellaan
+Rumaksi mun; ja lisäks hälle mauri
+Kaikk' ilmoittaa voi; suuri siin' on vaara.
+Ei. Kuolkoon hän! -- Vait! Tulevan hän kuuluu.
+
+    (Cassio tulee.)
+
+RODRIGO.
+Se hän on; käynnin tunnen. -- Kuole, konna!
+
+    (Karkaa esiin ja iskee Cassiota miekallaan.)
+
+CASSIO.
+Sep' olis, totta, ollut surma-isku,
+Mut paremp' on, kuin luulet, tämä takki;
+Sun koitan takkias.
+
+    (Paljastaa miekkansa ja haavoittaa Rodrigoa.)
+
+RODRIGO.
+                    Oo, surman sain ma!
+
+    (Jago karkaa esiin, iskee Cassiota takaapäin sääreen
+    ja hiipii pois.)
+
+CASSIO.
+Ijäksi rampa! -- Avuks! Murhaa! Murhaa!
+
+    (Othello tulee etäällä.)
+
+OTHELLO.
+Haa! Cassion ääni! -- Sanaans' ei syö Jago.
+
+RODRIGO.
+Oi, mua konnaa!
+
+OTHELLO.
+                Hiljaa! -- Aivan niin.
+
+CASSIO.
+Apua! Tulta! Haavuri!
+
+OTHELLO.
+                      Se hän on. --
+Sa uljas Jago, kelpo, kunnon mies,
+Noin helläst' ystävän kun herjan tunnet!
+Mua opetat. -- On kultas kuollut, hemppu,
+Ja sunkin loppus joutuu. -- Tulen, luuska!
+Pois povestani silmäis tenhon heitän,
+Ja syntiverees syntivuotees peitän.
+
+    (Lähtee.)
+    (Lodovico ja Gratiano tulevat etäällä.)
+
+CASSIO.
+Ei vartijaa? Ei ketään? Murhaa! murhaa!
+
+GRATIANO.
+Tuhoa varmaan! Hirveä on huuto.
+
+CASSIO.
+Apua!
+
+LODOVICO.
+      Kuule!
+
+RODRIGO.
+             Oo, suas, kurja konna!
+
+LODOVICO.
+Parikin voihkausta! -- Yö on synkkä;
+Petosta ehkä! Vaarallist' on käydä
+Päin huutoa, jos apua ei saada.
+
+RODRIGO.
+Avuksi tulkaa, verihini kuolen!
+
+    (Jago tulee yöpuvussa, kynttilä kädessä.)
+
+LODOVICO.
+Vait! Kuule!
+
+GRATIANO.
+             Yksi tuossa paitasillaan,
+Kädessä kynttilä ja miekka, saapuu.
+
+JAGO.
+Ken siellä? Ken se kirkuu, murhaa huutaa?
+
+LODOVICO.
+Me emme tiedä.
+
+JAGO.
+               Kuulittenhan huudon?
+
+CASSIO.
+Oi, tänne, tänne; avuks, Herran tähden!
+
+JAGO.
+Mik' on?
+
+GRATIANO.
+         Othellon vänrikki, ma luulen.
+
+LODOVICO.
+Niin onkin; uljas mies!
+
+JAGO.
+                        Ken oletten te,
+Kun huudatte niin haikeasti?
+
+CASSIO.
+                             Jago?
+Mun aivan ruhjoks ruhjoneet on konnat,
+Oi, auta mua!
+
+JAGO.
+              Voi! Tekö luutnantti?
+Ken konna tään on tehnyt?
+
+CASSIO.
+                          Tuoss' on, luulen,
+Lähellä yksi, jok' ei pakoon päässyt.
+
+JAGO.
+Kavalat konnat! --
+    (Lodovicolle ja Gratianolle.)
+                   Keitä te, te siellä?
+Avuksi tänne!
+
+RODRIGO.
+              Auttakaa mua tässä!
+
+CASSIO.
+Siin' yks on.
+
+JAGO.
+              Salamurhaaja! Sa konna!
+
+    (Pistää Rodrigoa miekallaan.)
+
+RODRIGO.
+Kirottu Jago! Verikoira! Oo, oo, oo!
+
+JAGO.
+Vai pimeässä ihmisiä murhaat! --
+Miss' on ne verirosvot? -- Voi, kuin hiljaist'
+On kaikki kaupungissa! -- Murhaa! Murhaa! --
+Mitk' aikeet teillä? Hyvätkö vai pahat?
+
+LODOVICO.
+Sen näette, kun meitä koittelette.
+
+JAGO.
+Signor Lodovico?
+
+LODOVICO.
+                 Niin.
+
+JAGO.
+                       Ma pyydän anteeks.
+Täss' ompi Cassio, rosvoin haavaamana.
+
+GRATIANO.
+Cassio? Kuin?
+
+JAGO.
+              Kuink' on sun laitas, veikko?
+
+CASSIO.
+Mun poikki jalkan' on.
+
+JAGO.
+                       Heresta auta!
+Hoi, tulta, hoi! Sen paidallani sidon.
+
+    (Bianca tulee.)
+
+BIANCA.
+Mit' ompi täällä? Ken se täällä huusi?
+
+JAGO.
+Ken täällä huusi?
+
+BIANCA.
+Oi, rakas Cassioni! Armas Cassio!
+Oi, Cassio, Cassio, Cassio!
+
+JAGO.
+Oo, julki-portto! -- Arvaatteko, Cassio,
+Ketk' on ne teitä ruhjonehet noin?
+
+CASSIO.
+En.
+
+GRATIANO.
+Tilaanne säälin; teitä juurin etsin.
+
+JAGO.
+Minulle polus lainatkaa. -- Kas niin! --
+Ja paaret tuokaa, joilla kannetaan hän.
+
+BIANCA.
+Hän pyörtyy! Ah! -- Oi, Cassio, Cassio, Cassio!
+
+JAGO.
+Epäilen, hyvät herrat, tuota luuskaa
+Osalliseksi tähän rikokseen. --
+Oi, Cassio, malta hetki! -- Tulkaa, tulkaa:
+Valoa hoi! -- Nää kasvot tuntenenko?
+Rodrigo? Ystäväni? Rakas maanmies?
+Ei: -- on, on. Hyvä Jumala! Rodrigo!
+
+GRATIANO.
+Venetiastako?
+
+JAGO.
+              Niin, sama mies.
+Tunnette hänet?
+
+GRATIANO.
+                Tunnenko ma? Kyllä.
+
+JAGO.
+Signor Gratiano? Nöyräst' anteeks pyydän!
+Verinen seikka tää tek', ett'en teitä
+Ma huomannut.
+
+GRATIANO.
+              Hupaista teitä nähdä.
+
+JAGO.
+Kuin voitte, Cassio? -- Joutuun paaret tänne!
+
+GRATIANO.
+Rodrigo!
+
+JAGO.
+Hän, hän se on. --
+    (Paaret tuodaan.)
+                   Kah, tuessapa on paaret! --
+Pois täältä jotkut teistä hänet viekää, --
+Varoen. Maurin haavurin ma noudan. --
+(Biancalle.) Te, neiti, säästäkäätte vaivojanne. --
+Tää murhattu on, Cassio, ystäväni;
+Mit' oli riitaa teillä keskenänne?
+
+CASSIO.
+Ei mitään laisinkaan. En tunne miestä.
+
+JAGO (Biancalle.)
+Kuin? Kalvas? -- Viekää hänet katon alle. --
+    (Cassio ja Rodrigo kannetaan pois.)
+Seis, herrat! -- Neiti, vaalenetteko?
+Kah, mikä kauhu hänen silmissänsä!
+Niin, tuijotelkaa vaan! Kyll' oiti nähdään. --
+Tarkastakaatte, katsokaapa häntä;
+Kah, nähkääs, herrat! Syyllisyys se puhuu,
+Vaikk' olis kaikki kielet puhumatta.
+
+    (Emilia tulee.)
+
+EMILIA.
+Haa! Mitä tääll' on? Mitä tääll' on, Jago?
+
+JAGO.
+Pimeessä Cassiot' ahdisti Rodrigo
+Ja joukko muita, jotk' on pakoon päässeet.
+Hän kuolon kieliss' on, Rodrigo kuollut.
+
+EMILIA.
+Voi sitä hyvää herraa! Cassio parkaa!
+
+JAGO.
+Niin riettaus palkitaan. -- Emilia, kuule!
+Kysypäs, miss' ol' iltaisella Cassio. --
+(Biancalle). Haa! Vapisetteko?
+
+BIANCA.
+                               Mun luonani
+Hän illasti; mut siit' en vapise ma.
+
+JAGO.
+Vai teillä? Mua seuratkaa, ma käsken.
+
+EMILIA.
+Hyi, hyi suas, portto!
+
+BIANCA.
+                       Min' en mikään portto:
+Yht' olen siivo kuin mun parjaajani.
+
+EMILIA.
+Kuin minäkö? Hyi suas!
+
+JAGO.
+                       Hyvät herrat,
+Sidotuiks laittakaamme Cassion haavat. --
+Mukahan, neiti! Kaukan' on nyt leikki. --
+Emilia, juokse linnaan, kerro maurin
+Ja rouvan kuullen mit' on tapahtunna. --
+Edellä menkää. -- (Syrjään.) Tää yö nostattaa
+Mun pilvihin, tai hornaan kukistaa.
+
+                        (Lähtevät.)
+
+
+
+Toinen kohtaus.
+
+    Makuuhuone.
+
+    (Desdemona nukkuu vuoteessa. Kynttilä palamassa.)
+    (Othello tulee.)
+
+OTHELLO.
+Hän syyss' on, sieluni, hän syyss' on! Missä?
+Sit' en ma teille, puhtaat tähdet, virka! --
+Hän syyss' on. -- Hänen vertaan tok' en haaskaa!
+Ei naarmaa saa tuo iho lumipuhdas
+Ja niinkuin alabasterkuva hieno.
+    (Laskee miekan pois kädestään.)
+Mut kuolla täytyy sun, tai petät muita.
+Nyt sammu, tuli; sitten -- sammu, tuli!
+Sun, liekki läikkivä, jos sammutan,
+Takaisin taas voin valos sulle antaa,
+Jos katuisin; vaan sun kun liekkis sammuu,
+Ihanan luonnon kaunein taideteos,
+Mikäpä Prometheon panu voisi
+Sytyttää valos taas? Jos ruusun taitan,
+Palauttaa en voi sen elinvoimaa,
+Sen täytyy kuihtua. -- Ma varttas maistan, --
+    (Suutelee häntä.)
+Suloinen tuokse, oikeuden melkein
+Saat taittamahan miekkansa! -- Yks vielä,
+Viel' yksi! -- Tuommoinen jos kuolleen' olet,
+Niin surmaan sun ja sitten sua lemmin. --
+Viel' yksi! -- viimeinen! Noin maire kuinka
+Noin surmaavaa on? Itkeä mun täytyy:
+Mut julmat on ne kyyneleet; tää tuska
+On taivaallista: rakkaudesta lyö se. --
+Hän herää.
+
+DESDEMONA.
+           Kuka siell'? Othelloko?
+
+OTHELLO.
+Niin, Desdemona.
+
+DESDEMONA.
+Tuletko maata, puolisoni?
+
+OTHELLO.
+                          Luitko
+Jo iltarukoukses, Desdemona?
+
+DESDEMONA.
+Luin, armas. --
+
+OTHELLO.
+                Synnin jos sa muistat, joka
+Viel' armoluojan sovitusta kaipaa,
+Sit' oiti rukoile.
+
+DESDEMONA.
+                   Voi, puolisoni,
+Mik' aikees?
+
+OTHELLO.
+             Tee se joutuun; syrjään käyn mä.
+En valmistumatonna sieluasi
+Ma tahtois murhata; en, jumal'auta,
+Ma sieluasi tahtois murhata!
+
+DESDEMONA.
+Sa puhut murhasta?
+
+OTHELLO.
+                   Niin puhun.
+
+DESDEMONA.
+                               Sitten
+Mua, Jumal', armahda!
+
+OTHELLO.
+                      Sydämest' amen!
+
+DESDEMONA.
+Jos sanot niin, et kaiketi mua murhaa.
+
+OTHELLO.
+Hm!
+
+DESDEMONA.
+Mut sentään sua pelkään: olet julma,
+Kun silmäs pyörii noin. Vaan min' en tiedä,
+Miks pelkäisin, kun syyllisyytt' en tiedä.
+Mut sentään tunnen, että pelkään.
+
+OTHELLO.
+                                   Muista
+Nyt syntis.
+
+DESDEMONA.
+Se on rakkaus sinuhun.
+
+OTHELLO.
+Ja senvuoks kuolet.
+
+DESDEMONA.
+                    Luonnoton se kuolo,
+Jok' etsii meitä rakkautemme tähden! --
+Ah! miks noin alahuultasi sa puret?
+Verisest' innost' ihan järkkyy ruumiis;
+Se tietää pahaa. Toivon sentään, toivon,
+Ett'ei mua tarkoita se.
+
+OTHELLO.
+                        Vait ja hiljaa!
+
+DESDEMONA.
+Vait olen. Mitä tahdot?
+
+OTHELLO.
+                        Liinan, josta
+Niin pidin ja jonk' annoin sulle, annoit
+Sa Cassiolle.
+
+DESDEMONA.
+              En, kautt' autuuteni!
+Mies tänne noudata ja kysy hältä.
+
+OTHELLO.
+Oi, armas, karta, väärää valaa karta!
+Sin' olet kuolinvuoteellasi nyt.
+
+DESDEMONA.
+Niin, mut en nyt kai kuole?
+
+OTHELLO.
+                            Kuolet oiti:
+Siis suoraan syntis tunnusta. Ja vaikka
+Valallas joka kohdan kieltäisitkin,
+Ei siltä muutu eikä poistu varmuus,
+Jonk' alla vaikeroin. Sun täytyy kuolla.
+
+DESDEMONA.
+No, Jumal', armahda mua sitten!
+
+OTHELLO.
+                                Amen!
+
+DESDEMONA.
+Ja sinäkin mua armahda! En koskaan
+Sua pettänyt, en Cassiot' armastanut
+Enemmän, kuin mit' itse taivas salli;
+En koskaan antanut ma lahjaa hälle.
+
+OTHELLO.
+Näin liinani ma hällä, jumal'auta!
+Valapatto! Sydämeni kiveks muutat.
+Mink' aion tehdä, murhaks sen nyt huomaan,
+Vaikk' uhriks luulin sen. Ma näin sen liinan.
+
+DESDEMONA.
+Sen sitten löysi hän; en koskaan hälle
+Sit' antanut. -- Mies tänne kutsu; toden
+Tunnustakoon hän.
+
+OTHELLO.
+                  Tunnustanut on hän.
+
+DESDEMONA.
+Mit', armas?
+
+OTHELLO.
+             Ett' on käyttänyt hän sua.
+
+DESDEMONA.
+Luvattomasti?
+
+OTHELLO.
+              Niin.
+
+DESDEMONA.
+                    Sit' ei hän saata
+Sanoa.
+
+OTHELLO.
+      Ei, suu hält' on tukittu;
+Siit' oiva Jago pitänyt on huolta.
+
+DESDEMONA.
+Oo, pelkoni sen sanoo! -- Hänkö kuollut?
+
+OTHELLO.
+Vaikk' olis joka hiuksess' ollut henki,
+Nälkäinen kostoni ne kaikki ois niellyt.
+
+DESDEMONA.
+Petetty on hän! Oi, ma hukass' olen!
+
+OTHELLO.
+Haa! Luuska! Nähtenikö itket häntä?
+
+DESDEMONA.
+Oi, hylkää minut, oi, mut älä murhaa!
+
+OTHELLO.
+Haa! Kuole, luuska!
+
+DESDEMONA.
+                    Murhaa huomenna,
+Suo tämä yö mun elää.
+
+OTHELLO.
+                      Jos sa tenäät, --
+
+DESDEMONA.
+Vaan puolen tiimaa!
+
+OTHELLO.
+                    Kun on alku tehty,
+Ei auta viipy.
+
+DESDEMONA.
+               Rukoilla mun suo vaan.
+
+OTHELLO.
+Se liian myöhäist' on.
+
+    (Tukeuttaa hänet.)
+
+EMILIA (ulkona).
+                       Hoi! Hollaa, herra!
+Hoi, herra! Kuulkaa, herra!
+
+OTHELLO.
+                            Mikä melu?
+Ei kuollut? Eikö ihan kuollut? Minä,
+Vaikk' olen julma, armias tok' olen:
+En tuskiasi tahdo pitkittää.
+Kas noin!
+
+    (Lävistää hänet tikarilla.)
+
+EMILIA (ulkona).
+Hoi, herra, herra, hoi!
+
+OTHELLO.
+                        Ken siellä?
+
+EMILIA (ulkona).
+Oi, hyvä herra, sana teille vaan.
+
+OTHELLO.
+Vai niin! Emilia! -- Oiti! -- Kuollut on hän.
+Hän Cassion surmast' ehkä tiedon tuopi;
+Suur' oli melu. -- Haa! Ei liikahdusta?
+Kuin hauta vait! -- Avaanko? Mikä paras? --
+Hän, luulen, liikahtaa: -- ei. -- Mikä paras?
+Jos avaan hälle, puhuttelee varmaan
+Hän vaimoani. -- Vaimoani! Ketä?
+Mun vaimoni! -- Vaimoa ei mulla!
+Oo, tuskallista! Mikä tuhon hetki!
+On niinkuin olis auringossa, kuussa
+Pimennys ääretön, ja säikäyksestä
+Maa ammoittais ja koko mailma muuttuis.
+
+EMILIA (ulkona).
+Ma pyydän, sana lausua mun suokaa,
+Oi, hyvä herrani!
+
+OTHELLO.
+                  Sun unhotin;
+Käy sisähän, Emilia! -- Hiljaa! -- Oiti! --
+Etehen vedän uutimet. -- Miss' olet?
+Mik' on sun asiasi?
+
+    (Avaa oven.)
+    (Emilia tulee.)
+
+EMILIA.
+                    Hyvä herra,
+Tuoll' ulkona on julma murha tehty.
+
+OTHELLO.
+Kuin? Nytkö?
+
+EMILIA.
+             Niin, nyt aivan, hyvä herra.
+
+OTHELLO.
+Hairahdus kuussa varmaan; lähemmäks,
+Kuin tapa on sen, pyrkii se nyt maata
+Ja riivaa ihmiset.
+
+EMILIA.
+                   Oi, kuulkaa, Cassio
+Surmannut nuoren on venetialaisen,
+Rodrigo nimisen.
+
+OTHELLO.
+                 Rodrigo kuollut!
+Ja Cassio kuollut!
+
+EMILIA.
+                   Ei, ei Cassio kuollut.
+
+OTHELLO.
+Ei Cassio kuollut! Soinnuton siis murha,
+Ja rämeäks on koston sulo käynyt.
+
+DESDEMONA.
+Ah! voi! Viattomasti murhattu!
+
+EMILIA.
+Voi! Mikä huuto tuo?
+
+OTHELLO.
+                     Tuo! Mikä?
+
+EMILIA.
+Hyväinen taivas! Emäntäni ääni, --
+Apuhun, apuun! -- Puhukaatte vielä!
+Oi, rouva, armas rouva, puhukaa!
+
+DESDEMONA.
+Syytönnä kuolen.
+
+EMILIA.
+                 Oo, ken on sen tehnyt?
+
+DESDEMONA.
+Ei kenkään; minä itse. Hyvästi!
+Terveiset puolisolleni! Hyvästi!
+
+    (Kuolee.)
+
+OTHELLO.
+Haa! Oisko murhattu hän!
+
+EMILIA.
+                         Ah, kentiesi!
+OTHELLO.
+Se min' en ollut, sen hän sanoi itse.
+
+EMILIA.
+Sen sanoi hän, se todistaa mun täytyy.
+
+OTHELLO.
+Hän valhe suussa hornan liekkiin läksi:
+Se hänen murhaajansa olin minä.
+
+EMILIA.
+Oo, enkel' on hän sitä ihanampi,
+Ja perkel' sitä mustemp' olet sinä!
+
+OTHELLO..
+Hän riettaaks rupesi ja oli huora.
+
+EMILIA.
+Sen valhettelet, sinä perkele!
+
+OTHELLO.
+Kuin vesi viekas oli hän.
+
+EMILIA.
+                          Ja sinä
+Kuin tuli hillitön, jos häntä viekkaaks
+Sa sanot. Hän kuin enkel' oli puhdas!
+
+OTHELLO.
+Hänet Cassio raiskas; kysy mieheltäs.
+Syvimpään helvettiin sa minut noidu,
+Jos tähän tuhotyöhön täydet syyt
+Ei johtaneet mua. Miehes tietää kaikki.
+
+EMILIA.
+Mun mieheni?
+
+OTHELLO.
+             Sun miehes.
+
+EMILIA.
+                          Ettäkö
+Hän oli uskoton?
+
+OTHELLO.
+                 Niin, Cassion kanssa.
+Oi, jos hän olis uskollinen ollut,
+Vaikk' ainoost' ihka chrysoliitist' oisi
+Minulle taivas uuden mailman luonut,
+En siihen olis häntä vaihtanut!
+
+EMILIA.
+Mun mieheni?
+
+OTHELLO.
+             Niin, hän sit' ensin kertoi;
+Hän kunnon mies on eikä kärsi saastaa,
+Jot' inhaan työhön tarttuu.
+
+EMILIA.
+                            Miehenikö?
+
+OTHELLO.
+Miks sitä matkit? Kuulethan sen: miehes.
+
+EMILIA.
+Oi, rouva! Rakkautt' ivannut on konnuus! --
+Hänt' uskottomaks miehenikö sanoi?
+
+OTHELLO.
+Niin, miehes, miehes, kuulethan, sun miehes,
+Mun ystäväni, kunnon, kunnon Jago.
+
+EMILIA.
+Mädätköön puolen drakmaa joka päivä
+Kirottu sielunsa, jos sen hän sanoi!
+Sydäntä syöpä valhe! Liiaks vaimos
+Likaiseen kauppaans' oli kiintynyt.
+
+OTHELLO.
+Haa!
+
+EMILIA.
+     Pahintasi tee vaan. Tuo sun tekos
+Se enemmän ei taivast' ansaitse
+Kuin sinä häntä.
+
+OTHELLO.
+                 Vait! -- se paras sulle!
+
+EMILIA.
+Ei puolta sitä voimaa sulla lyödä
+Kuin mulla kärsiä. Oo, tyhmä pöllö!
+Älytön loka! Työn sa teit, -- en pelkää
+Ma miekkaas -- julki julistan sen, vaikka
+Satakin henkeä ma kadottaisin. --
+Apuhun! Apuun! Mauri murhannut
+On armollisen rouvan! Murhaa! Murhaa!
+
+    (Montano, Gratiano ja Jago tulevat.)
+
+MONTANO.
+No, mit' on täällä? Mitä, kenraali?
+
+EMILIA.
+Oo, tuossa Jago! -- Kauniist' olet tehnyt,
+Kun murhans' ihmiset sun päähäs ajaa!
+
+GRATIANO.
+Mik' ompi?
+
+EMILIA.
+           Kumoa tuon konnan puhe,
+Jos olet mies. Sun syyttäneen hän väittää
+Irstaaksi vaimoaan. Sit' et sa tehnyt,
+Sen tiedän: sin' et ole moinen konna.
+Oi, puhu! Sydämeni pakahtuu.
+
+JAGO.
+Ma sanoin minkä luulin, enkä muuta,
+Kuin minkä todeksi hän itse uskoi.
+
+EMILIA.
+Oletko koskaan hälle sanonut,
+Ett' uskoton on Desdemona?
+
+JAGO.
+                           Olen.
+
+EMILIA.
+Se valhe on, kirottu, häijy valhe;
+Niin, valhe, jumal'auta, musta valhe!
+Hän uskotonko Cassion kanssa? Cassion?
+Sanoitko niin?
+
+JAGO.
+               Niin sanoin, vaimo. Vaiti
+Ja pidä suus!
+
+EMILIA.
+              En, suutani en pidä;
+Puhua minun täytyy: murhattuna
+Tuoss' emäntäni makaa vuoteellaan.
+
+KAIKKI.
+Jumala varjelkoon!
+
+EMILIA.
+Ja sinä juorullas sait murhan aikaan.
+
+OTHELLO.
+Se tott' on, herrat; älkää tuijotelko.
+
+GRATIANO.
+Kamala totuus!
+
+MONTANO.
+               Teko hirmuinen!
+
+EMILIA.
+Konnuutta, konnuutta, oo, konnuutta!
+Ma mietin -- niin -- nyt huomaan: -- konnuutt' oi!
+Sit' oiti luulin; -- suru murhaan vie mun. --
+Oo, konnuutta! Oo, konnuutta!
+
+JAGO.
+Oletko hullu? Kotiin oiti! Pois!
+
+EMILIA.
+Puhua minun suokaa, hyvät herrat.
+Mun kuulla häntä tulee, mut ei nyt. --
+Ehk' en käy enää koskaan kotiin, Jago.
+
+OTHELLO.
+Oo, Oo, Oo!
+
+    (Kaatuu vuoteelle.)
+
+EMILIA.
+            Makaa siinä vaan ja mylvi;
+Puhtaimman kukan taitoit, mik' on koskaan
+Teränsä auaissut.
+
+OTHELLO (nousten).
+                  Hän oli rietas! --
+Kah, setä, tuskin teidät tunsin. Tuossa
+On sisarenne tytär nyt, jolt' äsken
+Tää käsi hengen tukautti. Ma tiedän,
+Ett' työni julmalt', ilkeältä näyttää.
+
+GRATIANO.
+Hyv' että kuoli isäs, lapsi rukka!
+Avios hänet surmas; tuskast' aivan
+Hält' ikälanka katkes. Jos nyt eläis
+Ja näkis tään, hän epätoivoon lankeis,
+Kiroispa luotaan hyvän enkelinsä
+Ja kadotukseen syöksis.
+
+OTHELLO.
+                        Surkeaa!
+Mut Jago tietää, että sadat kerrat
+Hän Cassion kanss' on irstaast' elänyt.
+Sen Cassio tunnustanut on; ja palkaks
+Kosiotöistään vaimoltani sai hän
+Sen lemmenvakuuden, sen lahjan, jonka
+Min' annoin hälle; Cassion kädessä
+Sen näin. Se liina oli, vanha muisto
+Isältän' äidilleni.
+
+EMILIA.
+                    Taivaan taatto!
+Kaikk' ilman vallat!
+
+JAGO.
+                     Vaimo, vait!
+
+EMILIA.
+                                  Sen täytyy,
+Sen täytyy ilmi tulla! -- Vait en ole,
+En, en; vapaasti niinkuin tuuli puhun.
+Ihmiset, pirut, taivaat, kaikki, kaikki
+Häpeäks huutakoot sen; puhun sentään!
+
+JAGO.
+Kotihin kauniisti!
+
+EMILIA.
+                   En, sit' en tee.
+
+    (Jago yrittää pistää häntä miekalla.)
+
+GRATIANO.
+Hyi! Naista miekall' uhkaa!
+
+Em.
+                            Tyhmä mauri!
+Sen liinan, josta puhuit, minä löysin
+Satunnalta ja miehelleni annoin;
+Hän juhlallisen vakaana mua usein --
+Useemmin, kuin noin turha kalu sieti --
+Pyys sitä varastamaan.
+
+JAGO.
+                       Hiiden huora!
+
+EMILIA.
+Hän Cassiolle tuon! Ei, minä löysin
+Ja Jagolle sen annoin.
+
+JAGO.
+                       Valhettelet, hylky!
+
+EMILIA.
+En, jumal'auta! Hyvät herrat, en!
+Sa, verta himoava narri! Miksi
+Moiselle hölmölle noin kelpo vaimo?
+
+    (Jago lävistää miekallaan Emilian ja juoksee pois.)
+
+OTHELLO.
+Haa! Onko taivaan kaikki tulinuolet
+Vaan pauannetta varten? -- Ilmi-konna!
+
+GRATIANO.
+Hän kaatuu, kah! Oi, vaimonsa hän murhas!
+
+EMILIA.
+Niin, niin. Oi, rouvan viereen minut pankaa!
+
+GRATIANO.
+Hän tiessään on, mut murhattuna vaimo.
+
+MONTANO.
+Sep' aika konna! Talteen miekka tuo,
+Sen maurilt otin juur'. Ovelle vahti!
+Hänt' ei saa päästää; ennen surmatkaa hän.
+Tuon konnan jälkeen lähden; hän on itse
+Pää-ilkiö!
+
+    (Lähtee.)
+
+OTHELLO.
+           En ole enää urho:
+Mult' ottaa miekan voipi poika-nulkki. --
+Kun meni kunto, mitä kunniasta?
+Pois kaikki!
+
+EMILIA.
+             Mitä tiesi laulus, rouva?
+Mua kuule! Kuulla voitko? Teen kuin joutsen
+Ja sointuun kuolen. --
+
+        (Laulaa:)
+
+    "Raita, raita, raita" --
+    Hän oli puhdas; hän sua lempi, julmus!
+    Nimessä autuuteni, totta puhun!
+    Puhuen mitä mietin, kuolen -- kuolen.
+
+        (Kuolee.)
+
+OTHELLO.
+Huoneessa tääll' on toinen miekka mulla;
+Se Spaniast' on ja jäissä karkaistu.
+Täss' on se, tässä! -- Ulos tahdon, setä.
+
+GRATIANO (ulkona).
+Yritäs vaan! saat kalliisti sen maksaa.
+Asetta sull' ei ole, alle joudut.
+
+OTHELLO.
+Käy sisään sitten, että saan ma haastaa;
+Tai miekatta kun olen, päälles karkaan.
+
+GRATIANO (tullen sisään).
+No, mitä tahdot?
+
+OTHELLO.
+                 Näät sä, mull' on miekka!
+Soturin kupehell' ei ole koskaan
+Parempaa nähty. Muistan päivän, jolloin
+Käs'varsi pieni tää ja tämä miekka
+Sata kertaa suuremmatkin esteet voitti
+Kuin tuo sun vastukses. -- Vaan turhaa kehun!
+Ken kohtalonsa määrää? Nyt ei niin. --
+Vaikk' aseiss' olen, älkää peljätkö;
+Täss' ompi matkan pää ja tässä määrä
+Ja purjehduksen äärimmäinen viitta.
+Pelosta taannutteko? Turha pelko!
+Othellon rintaa vastaan ruoko pankaa,
+Niin väistyy hän. -- Ja mihinkä hän menis? --
+Oi, miltä näytät nyt? Sa onneton!
+Kuin pukus kalvas! Tilillen kun tullaan,
+Tuo katsees taivaasta mun sielun' ajaa
+Ja perkeleet sen sieppaa. Tyttöseni,
+Kylmäkö, kylmä? Niinkuin siveyteskin!
+Kirottu konna! -- Perkeleet, mua pieskää
+Tuot' ihanuutta taivaan näkemästä!
+Ajelkaa tuulispäissä! Paahtakaa mua
+Rikissä! Tulikuumass' alhossa
+Mua virutelkaa! Desdemona kuollut!
+Oo, Desdemona! Kuollut! Oo, oo, oo!
+
+    (Lodovico, Montano, Cassio kantotuolissa,
+    Jago vankina, ja sotaherroja tulee.)
+
+LODOVICO.
+Miss' on se kiivas, perin kurja mies?
+
+OTHELLO.
+Se, jok' Othello oli; tässä olen.
+
+LODOVICO.
+Miss' on se käärme? Esihin se konna!
+
+OTHELLO.
+Sen jalkaa katson -- tarua tok' on se --
+Jos olet perkele, en voi sua tappaa.
+
+    (Haavoittaa Jagoa.)
+
+LODOVICO.
+Pois hältä miekka!
+
+JAGO.
+                   Verta vuodatan,
+Mut surmattu en ole.
+
+OTHELLO.
+                     Sepä hauskaa!
+Sun eloon jäämään tahdon, sillä kuolo
+Minusta onni on.
+
+LODOVICO.
+                 Oi, sua, Othello,
+Niin hyvä olit ennen sä ja nyt
+Kirotun konnan verkkoon kiedottu!
+Miks sua nimittäisin?
+
+OTHELLO.
+                      Miksi tahdot:
+Murhaajaks kunnialliseks; en tehnyt
+Vihasta mitään, kaikki kunniasta.
+
+LODOVICO.
+Tuo konna syyns' on osaks tunnustanna;
+Te Cassion surmaa yhdess' etsitten?
+
+OTHELLO.
+Niin.
+
+CASSIO.
+      Aihett' antanut en teille koskaan.
+
+OTHELLO.
+Sen uskon; anteeks pyydän. Kysykäähän
+Nyt tuolta puoliperkeleeltä, miksi
+Näin ruumiini ja sieluni hän kietoi.
+
+JAGO.
+Mult' älkää kyselkö. Te tiedätte
+Min tiedätte; täst' edes en ma suutan'
+Avaja koskaan.
+
+LODOVICO.
+Etkö rukoukseenkaan?
+
+GRATIANO.
+Kidutuskone kieles kirvoittaapi.
+
+OTHELLO.
+Parempaa et voi tehdä.
+
+LODOVICO.
+Nyt kuulla saatte, kuinka kaikk' on käynyt;
+Sit' ette tunne kai. Täss' ompi kirje,
+Rodrigon kuolleen taskusta se löyttiin;
+Ja toinen tässä. Näistä toinen näyttää,
+Ett' oli Cassion murhaaminen pantu
+Rodrigon tehtäväksi.
+
+OTHELLO.
+                     Oo. se konna!
+
+CASSIO.
+Niin pakanallinen ja paatunut!
+
+LODOVICO.
+Täss' ompi toinen kärty kirje; sekin
+Rodrigon taskuss' oli; nähtävästi
+Sen tuolle konnalle hän laittaa aikoi,
+Mut sillä aikaa tuli Jago häntä
+Lepyttämään kai.
+
+OTHELLO.
+Oo, suas, häijy konna! --
+Kuin sait tuon liinan vaimoltani, Cassio?
+
+CASSIO.
+Sen huoneestani löysin; ja tuo itse
+Juur' tunnustanut on, ett' ehdollaan hän
+Sen oli sinne pannut edistääkseen
+Näin hankkeitaan.
+
+OTHELLO.
+                  Ma, narri, narri, narri!
+
+CASSIO.
+Rodrigo kirjeessänsä lisäks moittii,
+Ett' yllytti hän häntä härsyttämään
+Minua vahdin päälle; siitä syystä
+Menetin virkani. Hän juuri kertoi
+Heräten valekuolleist' -- että Jago
+Hänt' yllytti ja häneen miekan pisti.
+
+LODOVICO.
+Pois täältä nyt ja meitä seuratkaa.
+Teilt' otettuna virka on ja valta;
+Nyt saarta Cassio hallitsee. Tuo konna, --
+Jos piinaa älykäst' on, jolla häntä
+Kiduttaa kauan voi ja ankarasti,
+Se hälle keksitään. -- Te vangiks jäätte,
+Siks kun Venetian neuvoskunta tiedoks
+Saa rikoksenne luonnon. -- Pois hän viekää.
+
+OTHELLO.
+Seis! Sanaa pari ennen lähtöänne.
+Tein jonkun palveluksen valtiolle.
+Se tiedetään; ei mitään siitä. -- Mutta
+Kun kirjeessänne kerrotten nää tuhot,
+Kuvatkaa minut sellaiseks kuin olen,
+Rumentamatta, kaunistelematta.
+Mies kuvatkaa, jok' ylenmäärin lempi,
+Mut älyll' ei; mies, jok' ei luulevaiseks
+Vähillä tullut, mutta yltyneenä
+Rajusi julmasti; mies, jonka käsi,
+Kuin halpa indiaani, helmen hylkäs
+Arvokkaamman kuin miehen koko heimo;
+Mies, jonka herkkä silmä, sulamahan
+Ei muuten tottunut, nyt kyyneleitä
+Hereitä vuodatti kuin lääkepihkaans'
+Arabian puut. Se kertokaa, ja lisäks:
+Venetialaist' Aleppossa kun kerran
+Löi häijy, käärelakki turkkilainen
+Ja valtakuntaa herjas, silloin iskin
+Tuot' ympär'leikattua koiraa kurkkuun
+Ja tapoin hänet -- näin!
+
+    (Syöksee miekan rintaansa.)
+
+LODOVICO.
+                         Verinen loppu!
+
+GRATIANO.
+Puheemme kaikk' on turhat.
+
+OTHELLO (kaatuen Desdemonan yli).
+                           Suuta annoin,
+Kun sulta hengen vein; nyt itseltäin
+Ma hengen vien, suun-antoon kuollen näin!
+
+    (Kuolee.)
+
+CASSIO.
+Ma tuota varoin, -- mut en luullut häntä
+Aseelliseks, -- häll' oli suuri henki.
+
+LODOVICO (Jagolle).
+Oo, sinä spartalainen verikoira!
+Sa tuskaa, nälkää, merta kiukkuisempi!
+Tuon vuoteen surullista taakkaa katso:
+Sun työs se on. Oo, näön myrkyttää se!
+Se peittäkää. -- Gratiano, tänne jääkää;
+Tavarat maurin ottakaa: te hänet
+Nyt peritte. -- Te, herra kuvernööri,
+Tuon lemmon konnan tuomio määrätkää,
+Rangaistus, aika, paikka, -- ankar' olkaa!
+Venetiaan oiti lähden; kerron siellä
+Tän synkän teon synkeällä miellä.
+
+                      (Lähtevät.)

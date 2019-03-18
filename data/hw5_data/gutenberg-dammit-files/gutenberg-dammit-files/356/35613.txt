@@ -1,0 +1,482 @@
+A PLAN
+
+                           FOR
+
+                  SECURING OBSERVATIONS
+
+                         OF THE
+
+                     VARIABLE STARS.
+
+
+                           BY
+                   EDWARD C. PICKERING,
+        DIRECTOR OF THE HARVARD COLLEGE OBSERVATORY.
+
+
+
+
+
+                       CAMBRIDGE:
+                   JOHN WILSON AND SON.
+                    University Press
+                         1882.
+
+
+
+
+
+
+
+
+
+            A PLAN FOR SECURING OBSERVATIONS
+
+                  OF THE VARIABLE STARS.
+
+                         ________
+
+FOR several reasons the investigations here proposed are especially
+suited to observers under very various conditions. The work is
+capable of indefinite sub-division. Small as well as large telescopes
+may be employed and many observations are needed which can best be
+made with an opera-glass or field-glass, or even with the naked eye.
+No attachment is needed to an ordinary telescope, so that no additional
+expense on this account is required. Useful observations may be made
+by an unskilled observer provided that he is capable of identifying
+a star with certainty. The work is quantitative, and the observer has,
+therefore, a continual test of the increased accuracy he has acquired
+by practice. As a portion of the investigation will probably lead to
+the discovery of interesting objects, the observations will possess
+an interest often wanting in quantitative research. The aid of the
+professional astronomer is earnestly requested for this scheme.
+Suggestions by which it may be modified and improved will be gratefully
+received. The professional astronomer, in consequence of his greater
+skill, instrumental appliances, and command of his own time, could
+fill gaps in the work, and thus greatly increase its value as a
+whole. Such observations could often be made in the intervals of
+other work or at times unsuitable for the observations to which he
+was especially devoting himself. It should be added that especial
+care will be taken not to interfere with observations of variable
+stars now in progress. Observers of these objects are particularly
+requested to notify the writer what work they propose to carry
+out, so that a needless repetition of it may be avoided.
+
+It is on the amateur and student of astronomy that we must depend
+largely for the success of the plan here proposed. Many such persons
+spend evening after evening at their telescopes without obtaining
+results of any permanent value. Either no publication is made and
+the results are therefore valueless, or time is spent on objects
+that can be much more usefully examined with a larger instrument.
+Most commonly the observer has no special plan and spends many
+hours without result, while the same time might have been employed
+with equal pleasure to himself and results of great value collected.
+Those who have not tried it do not realize the growing interest in
+a systematic research and the satisfaction in feeling that by one's
+own labors the sum of human knowledge has been increased.
+
+Much valuable assistance might be rendered by a class whose aid in
+such work has usually been overlooked. Many ladies are interested in
+astronomy and own telescopes, but with two or three noteworthy
+exceptions their contributions to the science have been almost
+nothing. Many of them have the time and inclination for such work,
+and especially among the graduates of women's colleges are many who
+have had abundant training to make excellent observers. As the work
+may be done at home, even from an open window, provided the room
+has the temperature of the outer air, there seems to be no reason
+why they should not thus make an advantageous use of their skill.
+It is believed that it is only necessary to point the way to secure
+most valuable assistance. The criticism is often made by the opponents
+of the higher education of women that, while they are capable of
+following others as far as men can, they originate almost nothing,
+so that human knowledge is not advanced by their work. This reproach
+would be well answered could we point to a long series of such
+observations as are detailed below, made by women observers.
+
+Variable stars may be defined as those which exhibit a varying degree
+of brightness at different times. The following classification of
+them is believed to be a natural one. (Proc. Amer. Acad. xvi, 1, 257.)
+
+I. Temporary stars, or those which shine out suddenly, sometimes
+with great brilliancy, and gradually fade away. Examples, Tycho
+Brahe's star of 1572, new star in Corona, 1866.
+
+II. Long period variables, or those undergoing great variations
+of light, the changes recurring in periods of several months.
+Examples _omicron Ceti_ and _chi Ceti_.
+
+III. Stars undergoing slight changes according to laws as yet
+unknown. Examples, _alpha Orionis_ and _alpha Cassiopeiae_.
+
+IV. Short period variables, or stars whose light is continually
+varying, but the changes are repeated with great regularity in a
+period not exceeding a few days. Examples, _beta Lyrae_ and _delta
+Cephei_.
+
+V. Algol stars, or stars which for the greater portion of the time
+undergo no change in light, but every few days suffer a remarkable
+diminution in light for a few hours. This phenomenon recurs with
+such regularity that the interval between successive minima may be
+determined in some cases within a fraction of a second. Examples _beta
+Persei_ (Algol) and _S Cancri_.
+
+Stars belonging to the first of these classes are seen so rarely
+that the apparent discovery of one is to be received with the utmost
+caution. On the other hand, the importance of early observations of
+such an object is so great that no pains should be spared to secure
+an early announcement if one is really found. On the best star charts
+many stars are omitted of the brightness of the faintest objects
+given. But any star much brighter than these should be measured by
+the method given below, and a watch kept to see if any change takes
+place. If it proves to be a temporary star an immediate announcement
+should be made. If a telegram is sent to this Observatory the object
+will be at once examined, and, if verified, notification will be made
+in this country and in Europe with the name of the discoverer or
+sender of the telegram. A similar notification may be sent of any
+suspected objects, which will be examined in the same way, and
+announced at once if they prove to be of interest. It is essential
+that the position of the object should be given with all the precision
+practicable, and that a letter should be sent by the next mail
+giving the observations in detail. This often proves of the greatest
+value in case the object is not readily found. It also serves to
+establish the claims of the first discoverer.
+
+Nearly three quarters of the known variables belong to the second
+class. Most of them undergo very large changes of light, and may
+therefore be observed with comparative ease. Our knowledge of their
+variations is however very defective. Hitherto the attention of
+observers has been directed principally to determining the times
+at which they attain their maximum light, while their light at
+intermediate times has been neglected. It is now proposed to secure
+observations of these objects once or twice in every month, so that
+their light curves or variations throughout their entire periods may
+be determined. Again, many observers are accustomed to state their
+brightness in magnitudes without giving any clue to the scale which
+they employ. In most cases such observations have little value owing
+to the uncertainty of the scale of the fainter magnitudes.
+
+According to Dr. Gould and some other observers most of the visible
+stars undergo slight changes of light and should therefore be assigned
+to the third class of variables. It is probable that our Sun also
+belongs to this class, as it is not likely that its light is the same
+during the maximum and minimum of the sun spot period. At present we
+are unable to tell in which case the light would be greatest. It by
+no means follows that when the spots are most abundant the Sun's
+total light is least, for the remaining portions of the Sun may
+then have an increased brightness more than compensating for their
+diminished area. As long as the suspected variations in light of the
+stars are small, not exceeding half a magnitude for instance, they
+seem in the present state of science to have comparatively little
+interest. They are so liable to be affected, or even caused, by
+errors of observation, that the observation of such objects does
+not seem now to be advisable. Doubtless many such so-called variables
+are really due to errors caused by moonlight, the proximity of
+brighter stars, varying position of the images on the retina of the
+observer, and other similar causes. They will not therefore be
+considered further in this paper.
+
+The stars of the fourth class as compared with the second are
+relatively few in number, and the changes in light small. While
+many of them need observation, especially to determine their light
+curves more precisely, it is advised that this work be left to
+those who have acquired a high degree of skill in these observations.
+That the work may be of value it is essential that the errors should
+be extremely small. As, however, nearly all are visible in an
+opera-glass, a skilful observer unprovided with a telescope may
+secure valuable results by their observation. This remark applies
+with especial force to many of those discovered in the southern
+heavens by Dr. Gould.
+
+The phenomena of the Algol stars are in many respects the most
+striking of any. The rapidity of the changes, their surprising
+regularity, and the comparative rarity of these objects, combine
+to render the discovery of each new one a matter of unusual interest.
+As in the case of stars of the fourth class, however, the study of
+their light curves should be left to those who have acquired especial
+skill in this work. This is particularly desirable, when, as in this
+case, the unaided eye enters into competition with photometric
+apparatus, by which, as some think, it should properly be altogether
+replaced.
+
+An elaborate bibliographical work on the variable stars has been
+undertaken at this Observatory by Mr. Chandler. It will include the
+collection of all available published observations of known or
+suspected variables. A catalogue of suspected variables has thus
+been prepared, doubtless containing many stars which are really
+important variables. But it is also likely that many objects have
+been introduced in the list by errors in the original observations.
+Such stars often appear in one catalogue after another of suspected
+variables, and it is difficult to prevent the continued circulation
+of such an error. Of course if an experienced observer at any time
+estimates a star as above or below its normal brightness, it is
+impossible to prove that the observation was not correct, and the
+star really variable. No amount of subsequent observing could prove
+that it had not then, and then only, an abnormal brightness. We can,
+however, prove that in all probability it does not belong to one or
+more of the above classes, and thus make it more and more probable
+that the observation is due to an error. If the star varies in light
+by one magnitude, what will be the chances that we shall get a series
+of observations having a range of variation of one fifth of a
+magnitude? Evidently on the average, there will be only one chance
+out of five that any observation shall fall in the same fifth of a
+magnitude as another. The chances for three such observations
+will be only 1/25 and for four 1/125, etc. These ratios expressed
+decimally are .2, .04, .008, 0016, .0003, etc. Since the separate
+determinations of the light of a constant star by the method given
+below should not differ more than two or three tenths of a magnitude,
+it is obvious that if the variations of the star are large, a few
+observations would generally establish this fact. If the star belongs
+to class four, observations on half a dozen evenings would hardly fail
+to show the variation. Conversely, if no such variation is detected we
+may be almost certain that the star is not a variable of that class, or
+at least that the variation, if any, is not large. If the star belongs
+to class two, it will change so slowly when near its maximum or
+minimum that a variation might not be noted if the observations are
+near together. An interval of several months should therefore be
+allowed to take place, or perhaps it would be better to wait until
+the star is again visible the following year. The total variation
+in light is usually so great in these stars that the change will
+often be visible at the first glance.
+
+To prove that a star does not belong to the fifth class is a matter
+of much greater difficulty. In fact it is almost impossible to prove
+that it may not be an Algol star with a long period between the
+minima. Since these stars may have their full brightness for nine
+tenths of the time, it is obvious that they may be examined again
+and again without happening to be seen at the time of a minimum.
+
+On the other hand, during a considerable portion of the time when
+it is varying, the light will be so much less than usual that a
+careful measurement is not needed to detect the change. Moreover, it
+will be useless to look for an increase of light, and the observation
+may be so planned as to detect a diminution only.
+
+If we assume that only during one tenth of the time the change in
+light will be sufficient to be perceptible, the chance on any given
+evening will be 9 out of 10 or 9/10 that the star will have its full
+brightness. For two evenings the chance will be (9/10)^2 for three
+(9/10)^3, etc. These quantities expressed decimally are .9, .81,
+.73, .66, .59, .53, .48, etc. Even after seven nights' observations,
+on which no change is noted, it will only be about an even chance
+that the star may not still be of the Algol type. A different method
+of observing is therefore recommended when the star is supposed to
+belong to this class. Select for comparison a star slightly fainter,
+so that a moment's glance will satisfy the observer that the suspected
+variable is the brighter. It is only necessary to repeat this
+observation night after night. If the star is bright enough to be
+visible with a field glass, a few seconds will be sufficient for this
+observation after the observer has become familiar with the vicinity.
+The fact that the light is normal, and the time to the nearest minute,
+should be recorded after each observation. When convenient, it is
+well to repeat the inspection two or more times during the night,
+as in determining the period all the observations will have a value,
+provided that they are separated by intervals of more than two or
+three hours. If the star is ever found below its normal brightness,
+comparisons should be made with the adjacent stars, and continued
+as long as possible, or until it has regained its usual brightness.
+The most complete proof that a star was not of the Algol type would
+be for observers in the polar regions to examine it at intervals
+of a few hours for several days, or for observers in different
+longitudes to make the same observations. If it could thus be watched
+for a week or fortnight by enough observers to avoid interference by
+clouds, it would be nearly certain that it is not an Algol star
+unless its period is greater than that of any such object as yet
+discovered.
+
+The problems to be undertaken may be defined as follows:--
+
+1. To observe all the long period variables once or twice every
+month throughout their variations according to such a system that
+all the observations may be reduced to the same absolute scale
+of magnitudes.
+
+2. To observe the stars whose variability is suspected and prove
+either that they are really variable, or that in all probability
+they do not belong to the first, second, or fourth class. If any
+are thought to belong to the fifth class, to watch them until such
+a variation is proved, or is shown to be improbable.
+
+All of this work will depend on the possibility of readily determining
+the brightness of a star according to such a method that all the
+observations can ultimately be reduced to the same system. Herschel
+and Argelander have independently invented what appears to be the
+true method to be followed. If a star is seen to be very nearly equal
+to several others, from their light we can at any time define its
+brightness. It is essential that at least one of the stars selected
+should be a little brighter, another a little fainter, than the star
+to be observed. The range within which its light is known is thus
+also defined. Such observations will far exceed in value any direct
+estimate of magnitude. When stars are to be compared many times,
+it is convenient to designate them by letters for brevity. Let _v_
+represent a star which is suspected to be variable, and _a_ an adjacent
+star of nearly equal brightness. Owing to fluctuations in the
+atmosphere, each star will appear to be constantly varying in
+brightness. If the stars appear equal after a careful examination,
+or if one appears brighter as often as it appears fainter than
+the other, we may denote this equality by _av_ or _va_, these terms
+having precisely the same meaning. If one of the stars is suspected
+to be brighter, that is, if it appears sometimes brighter and
+sometimes fainter, but more frequently brighter, the interval
+may be designated as one grade. The observation may be written
+_a_ 1 _v_ or _v_ 1 _a_, the brightest star being named first. If one
+star is certainly brighter than the other, the difference, however,
+being very small, so that they sometimes appear equal, the difference
+will be two grades, and may be written _a_ 2 _v_ or _v_ 2 _a_. Greater
+intervals may be estimated as three or four grades, but such
+observations have much less value. It is found in practice that
+a grade thus estimated will slightly exceed a tenth of a magnitude.
+A useful exercise for an observer is to select two stars of known
+magnitude and several others of intermediate brightness. Arrange
+them in a series in the order of brightness, and estimate the
+intervals in grades. The difference in magnitude of the first
+stars divided by the total number of grades gives the value of
+one grade. By using different intermediate stars, the same standard
+stars may be employed repeatedly. The following well-known polar
+stars will be convenient, since they are always visible:-- _a alpha
+Ursae Minoris_, 2.2 magn.; gamma _Ursae Minoris_, 3.0 magn.; delta
+_Ursae Minoris_, 4.4 magn.; 51 _Cephi_, 5.4 magn.; lambda _Ursae
+Minoris_, 6.5 magn. The above method is essentially that of Argelander.
+Sir William Herschel had already employed a method which differed
+mainly in his notation, a . , and -- being equivalent to one, two, or
+three grades.
+
+In all work of this kind the observer must look directly at the
+star he is observing at the moment, and never try to compare two
+stars by a simultaneous inspection of both. After examining one
+star until he has a distinct impression of its average brightness,
+freed from the momentary changes due to atmospheric disturbance, he
+should observe the other in the same manner. Alternate observations
+of the two stars, each observation lasting for a few seconds, will
+give a truer impression than can be derived from a simultaneous
+observation in which the two images must be differently placed on
+the retina.
+
+The principal objection to this method is the difficulty of determining
+the value of a grade, as it is liable to vary with the observer, the
+time, the condition of the air, and the brightness of the stars.
+These difficulties are avoided by the following method. Select two
+stars for comparison; one, _a_, slightly brighter than the star to be
+measured, _v_, the other, _b_, slightly fainter. The interval between
+_a_ and _b_ should never exceed one magnitude. Estimate the brightness
+of _v_ in tenths of the interval from _a_ to _b_. Thus, if _v_ is midway
+between _a_ and _b_ the interval will be five tenths, and we may write
+_a_ 5 _b_. If _v_ is nearly as bright as _a_, we may have _a_ 1 _b_ or
+_a_ 2 _b_; if _v_ is not much brighter than _b_, we may have _a_ 8 _b_
+or _a_ 9 _b_. An advantage of this method is that larger intervals in
+brightness may be used between the comparison stars, and accordingly
+less distant stars employed. An increase in distance of the stars always
+renders the comparison more difficult. We can also obtain many
+independent comparisons by using several comparison stars. If we
+have _m_ stars brighter and _n_ fainter, we shall only have _m_ + _n_
+independent measures by the method of grades, while we may have
+_m n_ comparisons by estimating tenths, since estimates may be made
+in terms of the intervals between each brighter and each fainter
+star. On the other hand, especially when observing stars not very
+near together, it is a decided advantage to have to compare two
+stars rather than three. Each method has its advantages, and that
+to be used should doubtless depend on the temperament of the observer.
+
+Several precautions are needed to secure the best results. No
+observations should be made near the horizon; and, when the objects
+examined are at any considerable zenith distance, stars differing
+several degrees in altitude should be avoided. If the stars are
+bright and there is no choice, a correction may be made for the
+error due to the varying absorption at these different altitudes
+if the time of observation has been noted. When using a telescope
+or opera-glass, the stars should be brought in turn to the centre
+of the field, as when near the edge they will not appear of their
+true brightness. This is found to be better than placing them at
+equal distances from the centre. In selecting comparison stars,
+the proximity of a brighter star is very objectionable, causing a
+large error, which varies with the magnifying power used. Double
+stars should be avoided if the power used is sufficient to show the
+companion. Comparing stars of different colors is also objectionable.
+
+Any persons who desire to take part in these observations are
+requested to communicate with the writer, and send answers to the
+questions given below.
+
+1. What is the location of your point of observation? In the city
+or in the country, on the ground, from a roof, or from a window?
+Is any part of your horizon obstructed, or can you observe in all
+parts of the sky?
+
+2. What is the aperture, focal length, and name of maker of your
+telescope? also the lowest magnifying power and largest field of
+view you can obtain with it? Have you a field-glass or opera-glass?
+
+3. Can you identify bright and faint stars from their designations
+or right ascensions and declinations? Have you Heis' Atlas Coelestis
+Novus, the Uranometria Argentina, the Durchmusterung, or other maps
+and catalogues of the stars?
+
+4. Would you prefer to observe the known or the suspected variables,
+or to divide your time between them?
+
+For convenience in making the reductions and for future reference,
+it is essential that all the observations should be made according
+to the same system. Observers are accordingly requested to adopt the
+following form. Use half-sheets of letter paper (eight inches by
+ten), writing only on one side and leaving a margin of half an inch
+for binding. Begin with a new sheet every evening, and write the
+date and location (township and state) on the first line. Each
+sheet when completed should be signed, and all should be numbered
+consecutively. When several sheets are used on the same night, the
+date should be entered on each. The record should be made in pencil,
+and all subsequent remarks or corrections added or interlined with
+ink, taking especial care not to obliterate or render illegible the
+original record.
+
+A general statement should be made each evening of the condition
+of the sky, as "clear," "hazy," "passing clouds," etc. The time
+of beginning and ending work should also be noted. One
+line should be assigned to each comparison. The hour and minute
+should be written to the left, and the comparison next to it. The
+right-hand half of the line will be left blank for reducing the
+observation.
+
+Certain evenings or portions of evenings must also be devoted to
+the selection of the comparison stars of suspected variables. If
+they are contained in maps which are available, the letters assigned
+to each star may be marked on the maps and lines drawn to show with
+what suspected variable star they are associated. If preferred, a
+sketch may be made of the neighboring stars and the letters entered
+on them. This sketch with a proper description should be entered on
+the observing sheets described above, and a copy should be retained
+for reference. Every month the observations will be interrupted by
+moonlight, and accordingly, three or four days before the full moon,
+all the sheets that have accumulated should be mailed, addressed
+Harvard College Observatory, Cambridge, Mass. An acknowledgment will
+be sent at once, so that if this is not received a second notification
+should be sent.
+
+To attain success it is particularly important that the plan should
+not be local or national. Observers in the southern hemisphere are
+much needed, and for some purposes those in various longitudes. It
+is hoped that among the many amateurs of Europe, and especially of
+England, may be found some ready to participate in this work. No
+restriction regarding the observations or publication is intended;
+but it is hoped that a large addition to our present knowledge of
+the variable stars may be secured, without interfering with what
+would otherwise be obtained. Copies of this pamphlet and further
+information will be furnished on application. Any persons desiring
+to participate are requested to address the writer, sending answers
+to the questions given above. The details will differ with each
+observer, and will be arranged by correspondence. Apart from the
+value of the results attained, it is believed that many amateurs
+will find it a benefit to accustom themselves to work in a systematic
+manner, and that they will thus receive a training in their work not
+otherwise easily obtained outside of a large observatory. The lesson
+should be taught that time spent at a telescope is nearly wasted,
+unless results are secured worthy of publication and having a
+permanent value. Those who have once accomplished such work are
+likely in the future to appreciate its value, and will often continue
+to do useful work in some other department of practical astronomy,
+if not in that of variable stars. The education of a class of
+skilled observers would be a work of no less value than the results
+anticipated from the observation of the variable stars.
+
+EDWARD C. PICKERING.
+
+HARVARD COLLEGE OBSERVATORY,
+Cambridge, Mass.

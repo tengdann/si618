@@ -1,0 +1,938 @@
+Comments on
+the Taxonomy and Geographic Distribution
+of North American Microtines
+
+BY
+
+E. RAYMOND HALL and E. LENDELL COCKRUM
+
+
+In preparing maps showing the geographic distribution of North American
+microtines, conflicting statements in the literature and identifications
+that, if accepted, would result in improbable geographic ranges have
+led to the examination of pertinent specimens with the results given
+below. The studies here reported upon were aided by a contract between
+the Office of Naval Research, Department of the Navy, and the
+University of Kansas (Nr 161-791), by funds provided by the University
+of Kansas from its Research Appropriation, and by grants for
+out-of-state field work from the Kansas University Endowment
+Association. Grateful acknowledgment is made to persons in charge of
+the collections at each of the following institutions for permission to
+use the collections under their charge: Biological Surveys Collection,
+United States National Museum (herein abbreviated USBS); California
+Museum of Vertebrate Zoology (MVZ); Chicago Natural History Museum
+(CNHM); University of Kansas Museum of Natural History (KU); Museum of
+Comparative Zoology (MCZ); United States National Museum (USNM);
+Department of Economic Zoology, University of Wisconsin (UWDEZ); and
+Zoological Museum, University of Wisconsin (UWZM).
+
+
+    Synaptomys cooperi saturatus Bole and Moulthrop
+
+    1942. _Synaptomys cooperi saturatus_ Bole and Moulthrop, Sci.
+    Publs. Cleveland Mus. Nat. Hist., 5:149, September 11, type from
+    Bloomington, McLean County, Illinois.
+
+When Bole and Moulthrop named _Synaptomys cooperi saturatus_, with type
+locality in Illinois, they, in effect, divided the geographic range of
+_Synaptomys cooperi stonei_ into two parts (see A. B. Howell, N. Amer.
+Fauna, 50:10 (fig. 2), August 5, 1927) since Bole and Moulthrop (_op.
+cit._) did not assign to any subspecies the specimens from southern
+Wisconsin that Howell (_op. cit._) had identified as _S. c. stonei_.
+Bole and Moulthrop's inclusion in their newly named subspecies of a
+specimen from as far west as East Columbia, Missouri, left in doubt the
+subspecific identity of specimens from Iowa and a specimen from
+Arkansas. Howell (_op. cit._) had assigned this material from Iowa and
+Arkansas to _S. c. gossii_.
+
+Howell recognized that the one individual (168266 USBS) from Lake City,
+Arkansas, was too young to be identified to subspecies with certainty
+and assigned the specimen to _S. c. gossii_ "upon geographical grounds"
+(_op. cit._:19). Keith R. Kelson and one of us (Hall) compared this
+specimen with pertinent materials. As a result of this comparison we
+refer the specimen, on the same grounds employed by Howell, to
+_Synaptomys cooperi saturatus_.
+
+Specimens from approximately the southern half of Wisconsin (from Kelly
+Lake southward) were referred to _S. c. stonei_ by Howell (_op.
+cit._:16). Now that _S. c. saturatus_ has been recognized, these
+specimens from southern Wisconsin would be expected to be referable to
+_S. c. saturatus_. When these specimens were examined and compared (by
+Hall and Kelson) with other specimens in the United States National
+Museum the skulls were found to be much larger than in _S. c. cooperi_,
+smaller than in _S. c. gossii_, and nearly the size of those of
+_Synaptomys cooperi saturatus_, to which subspecies we refer the
+specimens in question.
+
+Howell (_op. cit._:16) referred a specimen from Cassopolis, Michigan, a
+locality that might be presumed to fall within the range of the more
+recently named _S. c. saturatus_, to _S. c. stonei_. Bole and Moulthrop
+did not mention this specimen when they described and named _S. c.
+saturatus_ (1942). Neither did Burt, but Cassopolis is within the
+geographic range ascribed to _S. c. cooperi_ on his map (The Mammals of
+Michigan, Univ. Michigan Press, p. 213, 1946). Examination (by Kelson
+and Hall) of the specimen (41777 MCZ) reveals that it resembles _S. c.
+cooperi_ in shortness of hind foot (18 mm.), shortness of tail (18
+mm.), narrowness across zygomata (16 mm.), and grayish pelage. In the
+long braincase, heavy rostrum, greater condylobasilar length, greater
+lambdoidal breadth, long rostrum, and longer incisive foramina, it
+agrees closely with specimens of _S. c. saturatus_, to which subspecies
+we refer the specimen.
+
+Necker and Hatfield (Bull. Chicago Acad. Sci., 6:54, 1941) referred
+specimens from Rosiclaire, Illinois, to _S. c. gossii_. These specimens
+were not mentioned by Bole and Moulthrop (_op. cit._) when they named
+_S. c. saturatus_ although the specimens presumably would be referred
+to the newly-named subspecies. We have examined the pertinent specimens
+(Nos. 15781-15786 and 16049-16054 CNHM) and find that on the basis of
+dark color, long and slender skull, heavy incisors, and small
+cheek-teeth, they are referable to _S. c. saturatus_ Bole and
+Moulthrop. None, however, has a tail so short as the type of _S. c.
+saturatus_. For that matter, the average length of the tail of six near
+topotypes (5 mi. W, 2-1/2 mi. S Monticello, Piatt County, Illinois,
+Nos. 32037-32042 KU) exceeds that of the type (17.4 mm., range 12-20,
+as compared to 14 mm. for the type).
+
+
+    Synaptomys cooperi gossii (Coues)
+
+    1877. _Arvicola (Synaptomys) gossii_ Coues, Monogr. N. Amer.
+    Rodentia, p. 235 (published as a synonym of _Synaptomys cooperi_,
+    but name stated to apply to Kansan specimens of which description
+    and measurements are on p. 236), type from Neosho Falls, Woodson
+    County, Kansas.
+
+    1897. _Synaptomys cooperi gossii_, Rhoads, Proc. Acad. Nat. Sci.
+    Philadelphia, 49:307, June.
+
+In view of the taxonomic treatment accorded by Bole and Moulthrop (Sci.
+Publs. Cleveland Mus. Nat. Hist, 5:149-151, September 11, 1942) to the
+lemming mice of the species _Synaptomys cooperi_, as explained in the
+preceding account, it has seemed desirable to examine Iowan specimens
+of this species. Hall and Kelson examined the necessary material and
+made the following conclusions. An adult male from Hillsboro (168453
+USBS) has the lighter color and large skull of _S. c. gossii_ to which
+Howell (N. Amer. Fauna, 50:19, August 5, 1927) referred the specimen.
+The more western specimen from Knoxville, a young male (190358 USNM),
+is almost exactly the same age as a male of _S. c. saturatus_ from
+Bascom, Indiana (143701 USNM), and is but slightly older than a male
+_S. c. gossii_ from Ft. Leavenworth, Kansas (91583 USBS). The upper
+molariform tooth-row is the same length in the specimens from Kansas
+and Iowa, but is longer in that from Indiana. The fact that the
+specimen from Knoxville closely resembles the Kansan specimen in other
+dimensions of the skull, which is larger than in the specimen from
+Indiana, gives a basis for applying the name _Synaptomys cooperi
+gossii_ to the specimen from Knoxville. This is the same name recently
+used by Fichter and Hansen (Bull. Univ. Nebraska State Mus., 3(2):2,
+September, 1947) for the Iowan specimens, although they seemingly
+applied the name without being aware of Bole and Moulthrop's earlier
+naming of _S. c. saturatus_ (Sci. Publs. Cleveland Mus. Nat. Hist.,
+5:149, September 11, 1942).
+
+
+    Synaptomys borealis sphagnicola Preble
+
+    1899. _Synaptomys (Mictomys) sphagnicola_ Preble, Proc. Biol. Soc.
+    Washington, 13:43, May 29, type from Fabyans, Coos County, New
+    Hampshire.
+
+    1927. _Synaptomys borealis sphagnicola_, A. B. Howell, N. Amer.
+    Fauna, 50:30, August 5.
+
+Howell (N. Amer. Fauna, 50:30-31, August 5, 1927) had only eight
+specimens of this subspecies available when he revised the genus
+_Synaptomys_. Of these eight (Maine: Mount Katahdin, 2; New Brunswick:
+Near Bathurst, 1; New Hampshire: Fabyans, 1, the type; Quebec: St.
+Rose, 4), only the type and one of the specimens from St. Rose are
+adults. Concerning the others, Howell wrote (_op. cit._:31): "The
+example from near Bathurst is not adult and has a damaged skull, so is
+identified provisionally. All other specimens are too young for
+positive diagnosis."
+
+Since Howell's revision only one additional specimen has been reported.
+Anderson (Ann. Rept. Provancher Soc. for 1939, p. 71, 1940) reported it
+from Table Mountain, 3888 ft., Gaspé County, Quebec.
+
+In the collection of the University of Kansas Museum of Natural History
+there is still another specimen. It is an adult male topotype (No. 6483
+KU, formerly No. 72 in the collection of Alfred E. Preble) obtained on
+August 21, 1905, at Fabyans, New Hampshire. The measurements of this
+specimen are as follows (measurements in parenthesis are those of the
+type as given by Howell, _op. cit._): Total length, 135 (132); tail, 26
+(24); hind foot, 22 (20); condylobasilar length, 25.1 (25.8); rostral
+length, 6.5 (6.8); rostral breadth, 4.7 (4.9); interorbital breadth,
+3.3 (2.8); zygomatic breadth, 15.4 (16.0); lambdoidal breadth, 12.1
+(12.4); incisive foramina, 5.9 (5.7); height of skull, 9.1 (9.3).
+
+Howell (_op. cit._:30) characterized _S. b. sphagnicola_ as: "Large and
+high [skull] with narrow interorbital sharply ridged, the ridges of the
+type being joined for a distance of 4 millimeters; interparietal narrow
+and rectangular. The rostrum is long, tapering very little, and the
+nasals, slightly constricted medially are quite narrow posteriorly. The
+incisive foramina are long and wide." Howell further stated (_op.
+cit._:30-31) that: "It is hard to predict what will be found to
+constitute the most valuable cranial characters in distinguishing this
+race from adult _medioximus_. The discernible differences now are in
+the shape of the interparietals, rostral characters, and interorbital
+differences that will probably not hold good when animals of the same
+age are compared."
+
+As can be seen from a comparison of the measurements given above for
+the type and the topotype, some of the characteristics given by Howell
+are not found in the topotype: The interorbital region is not narrow
+(in fact it is wider than it ordinarily is in some other subspecies of
+_Synaptomys borealis_) and the incisive foramina are not longer than in
+other subspecies of _Synaptomys borealis_.
+
+As far as present material permits us to judge, _Synaptomys borealis
+sphagnicola_ is characterized, cranially, by: Skull large; interorbital
+region sharply ridged (the ridges being joined for a distance of 4 mm.
+in the type and of 4.5 mm. in the topotype); rostrum long, tapering
+relatively little; nasals slightly constricted medially and unusually
+narrow posteriorly; interparietal narrow and rectangular.
+
+
+    Clethrionomys occidentalis caurinus (Bailey)
+
+    1898. _Evotomys caurinus_ Bailey, Proc. Biol. Soc. Washington,
+    12:21, January 27, type from Lund, east shore Malaspina Inlet,
+    British Columbia.
+
+    1935. _Clethrionomys gapperi caurinus_, Racey and Cowan, Rept.
+    British Columbia Prov. Mus. for 1935, p. H 25.
+
+Prior to 1935 _caurinus_ was considered to be a monotypic species. In
+1935 Racey and Cowan (Rept. British Columbia Provincial Museum for
+1935, pp. H 25-H 26) examined material from southwestern British
+Columbia of _C. caurinus_, including a series of 24 specimens from Alta
+Lake, and compared it with _Clethrionomys gapperi occidentalis_ and
+_C. g. saturatus_. They found _caurinus_ to be distinct from _C. g.
+saturatus_ but were "not convinced that _occidentalis_ and _caurinus_
+both merit systematic recognition; should they prove to be
+indistinguishable, as the little available material indicates,
+_occidentalis_ will take precedence on grounds of priority. It is our
+opinion that further study of the distribution of the genus in British
+Columbia will lead to the recognition of _occidentalis_ as the form
+inhabiting coast-line and _saturatus_ the interior of British Columbia"
+p. H 26. In the face of these opinions Racey and Cowan nevertheless
+recognized _caurinus_ under the name _Clethrionomys gapperi caurinus_
+(Bailey).
+
+In spite of the treatment by Racey and Cowan (_op. cit._) of
+_occidentalis_ and _caurinus_ as subspecies of _C. gapperi_, later
+authors arranged _occidentalis_ as a member of the "_californicus_"
+group although they retained _caurinus_ in the _gapperi_ group. For
+example, Davis (The Recent Mammals of Idaho, The Caxton Printers, pp.
+307-308, 1939) assigned _C. caurinus_ to the _gapperi_ group, although
+he regarded _C. caurinus_ as a species (not a subspecies). He regarded
+also _C. occidentalis_ as a species (not a subspecies) but assigned
+it to the _californicus_ group. Dalquest (Univ. Kansas Publ., Mus.
+Nat. Hist., 2:344, April 9, 1948) considered _occidentalis_ to be
+conspecific with _Clethrionomys californicus_ and wrote (_op.
+cit._:101): "The _californicus_ group, I feel, contains only the races
+of _Clethrionomys californicus_, while the _gapperi_ group contains _C.
+gapperi_ and its races, including _caurinus_, and possible other
+species." Dalquest gave no indication that he had examined any
+specimens of _caurinus_.
+
+When Dalquest (_op. cit._:344) arranged _occidentalis_ and
+_californicus_ as subspecies of the same species, he used the name
+combination _Clethrionomys californicus occidentalis_ because he
+ignored, or was unaware of, the page priority of _occidentalis_ over
+_californicus_. We regard the anterior position of _occidentalis_ as
+nomenclatural priority and therefore employ _occidentalis_ rather than
+_californicus_ as the specific name.
+
+Differences between the _gapperi_ group and the _occidentalis_ group
+include: postpalatal bridge (complete in both groups) truncate
+posteriorly in the _gapperi_ group and with a median, posteriorly
+directed, spine in the _occidentalis_ group (this character is not
+evident in all specimens; some _gapperi_ have a spine, and some
+_occidentalis_ have the spine much reduced); dentition of the
+_occidentalis_ group is heavier; enamel pattern of M3 and m1 in
+_occidentalis_ more simplified--the number of salient and re-entrant
+angles tends to be reduced in adults of the _occidentalis_ group.
+
+An examination of specimens of _caurinus_ (British Columbia: Mt.
+Seymour, 2 KU; Lund, Malaspina Inlet, 2 USBS; and Inverness, mouth
+Skeena River, 1 USBS), reveals that, in the presence of the median
+postpalatal spine and in the characters of the molars, _caurinus_
+agrees with the _occidentalis_ group.
+
+
+    Clethrionomys occidentalis nivarius (Bailey)
+
+    1897. _Evotomys nivarius_ Bailey, Proc. Biol. Soc. Washington,
+    11:136, May 13, type from northwest slope of Mount Ellinor, 4000
+    ft., Olympic Mts., Mason County, Washington.
+
+The red-backed mouse of the Olympic Peninsula was originally accorded
+specific rank. Currently it stands in the literature as a subspecies of
+the wide-spread species _Clethrionomys gapperi_ because Dalquest (Univ.
+Kansas Publ. Mus. Nat. Hist., 2:343, April 9, 1948) used the
+name-combination _Clethrionomys gapperi nivarius_. Taylor and Shaw had
+earlier (Occas. Papers Charles R. Conner Mus., 2:23, 1929) indicated
+the same status by using the name _Evotomys gapperi nivarius_. Davis
+(The Recent Mammals of Idaho, The Caxton Printers, Caldwell, Idaho, p.
+306, April 5, 1939), however, indicated that the affinities of
+_nivarius_ were with the _californicus_ [= _occidentalis_] group,
+although he treated _nivarius_ as a distinct species. We have examined
+two adult females (K. U. Nos. 10707 and 10708) of _nivarius_ from
+Reflection Lake, 3800 ft., Jefferson County, Washington, and on the
+basis of their thick, instead of thin, pterygoid processes concur with
+Davis that the affinities of _nivarius_ are with the named kinds of
+_Clethrionomys_ now arranged as subspecies of _Clethrionomys
+occidentalis_, rather than with the kinds now arranged as subspecies of
+_Clethrionomys gapperi_. Although we are aware that Dalquest (_op.
+cit._:101-102) did not find actual intergradation between _nivarius_
+and _Clethrionomys occidentalis occidentalis_--a ten-mile gap separated
+their ranges--we prefer to use the name combination _Clethrionomys
+occidentalis nivarius_. In doing so we recognize that intergradation
+ultimately may be found between the two species _C. occidentalis_ and
+_C. gapperi_; in that event the name _gapperi_ will apply as the name
+of the species because it has priority over _occidentalis_.
+
+The following named kinds of _Clethrionomys_ are considered to be
+subspecies of _Clethrionomys occidentalis_:
+
+    CLETHRIONOMYS OCCIDENTALS OCCIDENTALIS (Merriam).
+
+        1890. _Evotomys occidentalis_ Merriam, N. Amer. Fauna, 4:25,
+        October 8, type from Aberdeen, Chehalis County, Washington.
+
+        1894. _Evotomys pygmaeus_ Rhoads, Proc. Acad. Nat. Sci.
+        Philadelphia, p. 284, October 23, type from mouth of Nisqually
+        River, Pierce County, Washington.
+
+        1929. _Evotomys gapperi occidentalis_, Taylor and Shaw, Occas.
+        Papers Charles R. Conner Mus., Washington State College, 2:23.
+
+        1948. _Clethrionomys californicus occidentalis_, Dalquest,
+        Univ. Kansas Publ., Mus. Nat. Hist., 2:344, April 9.
+
+    CLETHRIONOMYS OCCIDENTALIS CALIFORNICUS (Merriam).
+
+        1890. _Evotomys californicus_ Merriam, N. Amer. Fauna, 4:26,
+        October 8, type from Eureka, Humboldt County, California.
+
+    CLETHRIONOMYS OCCIDENTALIS CAURINUS (Bailey).
+
+        1898. _Evotomys caurinus_ Bailey, Proc. Biol. Soc. Washington,
+        12:21, January 27, type from Lund, east shore of Malaspina
+        Inlet, British Columbia.
+
+        1935. _Clethrionomys gapperi caurinus_, Racey and Cowan, Rept.
+        British Columbia Prov. Mus. for 1935, p. H 25.
+
+    CLETHRIONOMYS OCCIDENTALIS MAZAMA (Merriam).
+
+        1897. _Evotomys mazama_ Merriam, Proc. Biol. Soc. Washington,
+        11:71, April 21, type from Crater Lake, 7000 ft., Mount Mazama,
+        Klamath County, Oregon.
+
+        1936. _Clethrionomys californicus mazama_, Bailey, N. Amer.
+        Fauna, 55:192, August 29.
+
+    CLETHRIONOMYS OCCIDENTALIS NIVARIUS (Bailey).
+
+        1897. _Evotomys nivarius_ Bailey, Proc. Biol. Soc. Washington,
+        11:136, May 13, type from northwest slope of Mount Ellinor,
+        4000 ft., Olympic Mts., Mason County, Washington.
+
+    CLETHRIONOMYS OCCIDENTALIS OBSCURUS (Merriam).
+
+        1897. _Evotomys obscurus_ Merriam, Proc. Biol. Soc. Washington,
+        11:72, April 21, type from Prospect, 2600 ft., upper Rogue
+        River Valley, Jackson County, Oregon.
+
+        1933. _Clethrionomys mazama obscurus_, Grinnell, Univ.
+        California Publ. Zool., 40:185, September 26.
+
+        1936. _Clethrionomys californicus obscurus_, Bailey, N. Amer.
+        Fauna, 55:192, August 29.
+
+
+    Clethrionomys gapperi pallescens, new name
+
+    1940. _Clethrionomys gapperi rufescens_ R. W. Smith, Amer. Midland
+    Nat., 24:233, July, type from Wolfville, Kings County, Nova Scotia
+    (_nec Arvicola rufescens_ de Selys Longchamps, 1836, from
+    Longchamps-sur-Ger, Belgium).
+
+The name _rufescens_, as applied by R. W. Smith (Amer. Midland Nat.,
+24:233, July, 1940) to the red-backed mouse of Nova Scotia, seems to be
+unavailable under the rules of the International Code of Zoological
+Nomenclature, since it is a homonym of _Arvicola rufescens_ de Selys
+Longchamps, 1836, which in turn is a synonym of _Clethrionomys
+glareolus glareolus_ Schreber, 1780 (Ellerman and Morrison-Scott,
+Checklist of Palaearctic and Indian Mammals, 1758 to 1946, p. 663,
+November 19, 1951).
+
+
+    Clethrionomys gapperi phaeus (Swarth)
+
+    1911. _Evotomys phaeus_ Swarth, Univ. California Publ. Zool.,
+    7:127, January 12, type from Marten Arm, Boca de Quadra, Alaska.
+
+When Swarth (_loc. cit._) named the red-backed mouse of the mainland of
+southern Alaska as a new subspecies, he characterized it as "Size
+rather large. Differs from _E._ [= _Clethrionomys_] _wrangeli_, nearest
+it geographically, in cranial characters and in much longer tail; from
+_E. caurinus_, the species to the southward in British Columbia, in
+larger size and longer tail." He remarked (_loc. cit._): "I had
+supposed that the red-backed mouse occurring on the mainland coast of
+this region would prove to be _E. wrangeli_, but the latter appears to
+be purely an insular species. I have had no specimens of that race for
+comparison, but the _Evotomys_ secured differ so widely from it in all
+the essential peculiarities of the species as given in the published
+descriptions that there seems little doubt of their belonging to a
+different species. _Wrangeli_ has a short tail, less than twice as long
+as the hind foot--in adults of _phaeus_ the tail is invariably more
+than twice the length of the foot, frequently more than a third of the
+entire length of the animal."
+
+The external and cranial measurements of two subadults in the United
+States National Museum (No. 217413 from Quadra Lake and No. 217415 from
+Marten Arm, Boca de Quadra, taken in mid-February) and three old adults
+from Fort [= Port] Simpson, British Columbia (Nos. 90263-90264, 90272
+USBS), are almost the same as those given by Swarth in the original
+description of _Clethrionomys phaeus_.
+
+In cranial measurements, as well as in the structure of the palate and
+last upper molar, _C. phaeus_ agrees with the _gapperi_ group (to which
+it has been assigned by Davis, The Recent Mammals of Idaho, The Caxton
+Printers, p. 306, April 5, 1939, and by Orr, Jour. Mamm., 26:69,
+February 12, 1945) and differs from _Clethrionomys occidentalis
+caurinus_ (which was assigned above to the _occidentalis_ group,
+formerly the _californicus_ group).
+
+Since the measurements of specimens examined by us, as well as those
+recorded by Swarth (_op. cit._), fall within the range of those of the
+species _Clethrionomys gapperi_, and since the differences between
+_phaeus_ and _C. g. saturatus_ are of the kind and degree that separate
+subspecies in _C. gapperi_ we employ the name combination
+_Clethrionomys gapperi phaeus_ (Swarth). _C. g. saturatus_, as
+understood by us, occurs to the southeast of _C. g. phaeus_ in the
+Rocky Mountains of British Columbia, and in northeastern Washington,
+northern Idaho and northwestern Montana.
+
+    _Specimens examined._--Total, 23, distributed as follows: Alaska:
+    Chickamin River (Behm Canal), 15 (MVZ); Boca de Quadra, 3 (MVZ);
+    Marten Arm, Boca de Quadra, 1 (USNM); Quadra Lake, 1 (USNM).
+    British Columbia: Fort [= Port] Simpson, 3 (USBS).
+
+
+    Clethrionomys gapperi wrangeli (Bailey)
+
+    1897. _Evotomys wrangeli_ Bailey, Proc. Biol. Soc. Washington,
+    11:120, May 13, type from Wrangell, Wrangell Island, Alaska.
+
+When Bailey (_loc. cit._) named the red-backed mouse from Wrangell
+Island, Alaska, he characterized it as "A large, dull-colored species
+entirely distinct from any known form," and remarked: "In no way does
+_E._ [= _Clethrionomys_] _wrangeli_ show a close relationship to any
+other American species. In size and relative proportions it comes
+closest to _E. dawsoni_, from which it differs widely in coloration and
+more widely in cranial characters. With the long-tailed species south
+and east of its range there is no need of comparison."
+
+Swarth (Univ. California Publ. Zool., 24:173, June 17, 1922) reported
+that three specimens from Flood Glacier and 23 from Great Glacier,
+British Columbia, and four from Sergief Island, at the mouth of the
+Stikine River, Alaska, were: "All _E. wrangeli_, indistinguishable from
+specimens at hand from Wrangell Island." Swarth further reported that,
+although he found no intergradation between _Clethrionomys wrangeli_
+from Flood Glacier and the nearly adjacent _Clethrionomys rutilus
+dawsoni_, "the two species, however, resemble each other so closely in
+form, and in some pelages in color also, that _wrangeli_ would seem to
+be a coastal offshoot of _dawsoni_...."
+
+Davis (The Recent Mammals of Idaho, The Caxton Printers, p. 306, April
+5, 1939) and Orr (Jour. Mamm., 26:69, February 12, 1945) more recently
+have shown that _Clethrionomys wrangeli_ is not a member of the
+_rutilus_ group (to which _C. dawsoni_ belongs) but is a member of the
+_gapperi_ group.
+
+Our comparisons of a series of eight topotypes of _wrangeli_ (all in
+the Biological Surveys Collection) with several subspecies of
+_Clethrionomys gapperi_ (including _phaeus_, _saturatus_, _galei_,
+_brevicaudus_, and others) reveal that the differences seen in
+_wrangeli_ are of the kind and degree that serve to separate
+subspecies. The red-backed mouse from Wrangell Island, then, should
+stand as _Clethrionomys gapperi wrangeli_ (Bailey).
+
+    _Specimens examined._--Total, 31, distributed as follows: Alaska:
+    Wrangell, Wrangell Island, 27 (19 MVZ., 8 USBS); Sergief Island at
+    mouth of Stikine River, 4 (MVZ).
+
+
+    Clethrionomys gapperi solus, new subspecies
+
+    _Type._--Male, adult, skin and skull, No. 74939, Biological Surveys
+    Collection, United States National Museum; from Loring,
+    Revillagigedo Island, Alaska; obtained on September 22, 1895, by C.
+    P. Streator; original No. 4980.
+
+    _Range._--Known only from two localities on Revillagigedo Island,
+    Alaska.
+
+    _Diagnosis._--A short-tailed, dark-colored member of the _gapperi_
+    group. Dorsal stripe wide, between Chestnut and Bay (capitalized
+    color terms after Ridgway: Color Standards and Color Nomenclature.
+    Washington, D. C., 1912), with slight mixture of black-tipped
+    hairs; sides and venter heavily washed with Ochraceous-Tawny. Skull
+    flattened; rostrum proportionately short and wide; auditory bullae
+    relatively uninflated.
+
+    _Comparisons._--From topotypes of _Clethrionomys gapperi wrangeli_,
+    _C. g. solus_ differs as follows: dorsal stripe wider and slightly
+    brighter; sides brighter; venter more heavily washed with
+    Ochraceous-Tawny (heavy wash in all 13 _C. g. solus_ examined; in
+    _C. g. wrangeli_ no wash in 11, slight wash in 16, and heavy wash
+    in only one); nasals, alveolar extent of upper cheek-teeth and
+    incisive foramina shorter; skull shallower when measured with
+    tympanic bullae included; rostrum averages slightly broader.
+
+    From _C. g. phaeus_ of the adjacent mainland, _C. g. solus_ differs
+    in: dorsal stripe slightly darker; ventral wash more prominent;
+    tail shorter; skull smaller in all parts measured except that
+    nasals are approximately the same length, auditory bullae notably
+    smaller and teeth notably narrower.
+
+    _Measurements._--External and cranial measurements of adults are
+    shown in table 1.
+
+    _Remarks._--Bailey (Proc. Biol. Soc. Washington, 11:120, May 13,
+    1897) referred 17 specimens from Loring to his newly named species,
+    _E. wrangeli_ [= _Clethrionomys gapperi wrangeli_] but based his
+    description on specimens from Wrangell Island. He pointed out
+    (_loc. cit._) that all of the specimens from Loring had the
+    "bellies strongly washed with buffy-ochraceous, while more than
+    half of those from Wrangell have whitish bellies."
+
+    _Specimens examined._--Total, 13, all in the Biological Surveys
+    Collection, U. S. National Museum, from the following localities:
+    Alaska: Revillagigedo Island: Loring, 10; mouth of Fish Creek,
+    Ketchikan, 3.
+
+
+    Clethrionomys gapperi stikinensis, new subspecies
+
+    _Type._--Male, adult, skin and skull, No. 30735, Museum of
+    Vertebrate Zoology, University of California; from Stikine River at
+    Great Glacier, British Columbia; obtained on August 13, 1919, by J.
+    Dixon; original number 7691.
+
+    _Range._--Known only from the lower Stikine River Valley of British
+    Columbia and the Cleveland Peninsula of Alaska.
+
+    _Diagnosis._--A medium-sized, dark-colored member of the _gapperi_
+    group. Dorsal stripe wide, near Auburn with mixture of black-tipped
+    hairs; sides and venter washed with Ochraceous-Tawny. Skull small;
+    cheek-teeth narrow; auditory bullae relatively uninflated.
+
+    _Comparisons._--From topotypes of _Clethrionomys gapperi wrangeli_,
+    _C. g. stikinensis_ differs as follows: dorsal stripe slightly
+    wider and brighter; sides slightly duller (lacking the olivaceous
+    wash of _C. g. wrangeli_); all cranial measurements taken averaging
+    smaller except height of skull, which is approximately the same;
+    alveolar length of upper tooth-row and length of incisive foramina
+    notably shorter; auditory bullae less inflated; cheek-teeth much
+    narrower.
+
+    From topotypes of _C. g. phaeus_, _C. g. stikinensis_ differs as
+    follows: dorsal stripe and sides darker; auditory bullae less
+    inflated; cheek-teeth narrower; skull smaller in most measurements
+    taken (see table 1).
+
+    From topotypes of _C. g. solus_, _C. g. stikinensis_ differs as
+    follows: dorsal stripe lighter (more tawny underwash); ventral wash
+    of buffy much paler (especially noticeable around mouth and on
+    throat); zygomatic and lambdoidal breadths greater; skull deeper;
+    auditory bullae more inflated; cheek-teeth slightly heavier.
+
+
+    TABLE 1. _External and cranial measurements of Clethrionomys._
+
+ N    |   |   |     |       |        |      |     |     |     |     |
+ u    |   |   |     |       |        |      |     |     |     |     |
+ m    |   |   |     |       |        |      |     |     |     |  L  |
+ b    |   |   |     |       |        |      |     |     |     |  e  |
+ e    |   |   |     |       |        |      |     |     |     |  n  |
+ r  s |   |   |     |       |        |      |     |     |     |  g  |
+    e |   |   |     |       |        |      |     |     |     |  t  |
+ o  x |   |   |     |       |        |      |     |     |     |  h  |
+ f    |   |   |     |   C   |        |      |     |     |     |     |
+    o |   |   |     |   o   |        |      |     |     |     |  o  |
+ i  r |   |   |     |   n   |        |      |     |     |     |  f  |
+ n    |   |   |     |   d   |        |   L  |     | A   |  B  |     |
+ d  s |   |   |     |   y   |    Z   |   a  |     | l   |  r  |  i  |
+ i  p |   |   |     |   l   |    y   |   m  |  L  | v   |  e  |  n  |
+ v  e |   |   |     |   o   |    g   |   b  |  e  | e  u|  a  |  c  |  H
+ i  c |   |   |     |   b   |    o   |   d  |  n  | o  p|  d  |  i  |  e
+ d  i |   |   |     |   a   |    m   |   o  |  g  | l  p|  t  |  s  |  i
+ u  m | T |   |     |   s   |    a   |   i  |  t  | a  e|  h  |  i  |  g
+ a  e | o |   |     |   i   |    t   |   d  |  h  | r  r|     |  v  |  h
+ l  n | t |   |     |   l   |    i   |   a  |     |     |  o  |  e  |  t
+ s    | a |   |  H  |   a   |    c   |   l  |  o  | l  t|  f  |     |
+    m | l |   |  i  |   r   |        |      |  f  | e  o|     |  f  |  o
+ o  e |   |   |  n  |       |    b   |   b  |     | n  o|  r  |  o  |  f
+ f  a | l |   |  d  |   l   |    r   |   r  |  n  | g  t|  o  |  r  |
+    s | e |   |     |   e   |    e   |   e  |  a  | t  h|  s  |  a  |  s
+ e  u | n | T |  f  |   n   |    a   |   a  |  s  | h   |  t  |  m  |  k
+ a  r | g | a |  o  |   g   |    d   |   d  |  a  |    r|  r  |  i  |  u
+ c  e | t | i |  o  |   t   |    t   |   t  |  l  | o  o|  u  |  n  |  l
+ h  d | h | l |  t  |   h   |    h   |   h  |  s  | f  w|  m  |  a  |  l
+
+_Clethrionomys gapperi solus_, Loring
+
+Male
+type  |133|33 |20   | 22.3  | 12.5   |10.9  |6.8  |5.1  |3.4  |5.3  | 9.0
+Male
+5 av. |131|34 |20   | 22    | 12.7   |10.8  |6.8  |5.3  |3.5  |5.1  | 9.1
+  min.|128|33 |19   | 21.8  | 12.5   |10.5  |6.7  |5.1  |3.3  |5.0  | 8.9
+  max.|133|36 |20   | 22.3  | 13.0   |11.2  |7.1  |5.5  |3.6  |5.3  | 9.5
+Female
+5 av. |128|34 |19   | 21.3  | 12.5   |10.5  |6.5  |5.4  |3.5  |4.9  | 9.2
+  min.|124|31 |19   | 20.9  | 12.3   |10.3  |6.0  |5.2  |3.3  |4.8  | 8.9
+  max.|140|36 |20   | 21.7  | 12.7   |10.7  |7.0  |5.6  |3.6  |5.0  | 9.5
+
+_Clethrionomys gapperi stikinensis_, Stikine River at Great Glacier
+
+Male
+type  |145|39 |20   | 23.2  | 13.9   |11.4  |7.3  |5.0  |3.1  |5.5  | 9.5
+Male
+4 av. |136|35 |20   | 22.2  | 13.0   |11.1  |6.8  |5.2  |3.4  |5.2  | 9.4
+  min.|132|33 |19   | 21.5  | 12.3   |10.7  |6.5  |5.0  |3.1  |5.1  | 9.1
+  max.|145|39 |20   | 23.2  | 13.9   |11.4  |7.3  |5.6  |3.5  |5.5  | 9.7
+Female
+7 av. |134|33 |19   | 21.8  | 12.7^6*|10.9  |7.0  |5.4  |3.4  |5.1  | 9.5
+  min.|125|30 |19   | 21.5  | 12.5   |10.5  |6.7  |5.3  |3.2  |5.0  | 9.2
+  max.|147|35 |20   | 22.2  | 12.9   |11.   |7.1  |5.6  |3.7  |5.3  | 9.8
+
+_Clethrionomys gapperi wrangeli_, Wrangell
+
+Male
+9 av. |139|36 |19   | 23.4^8| 13.3  |11.4^8 |7.3  | .6  | .6  | .6  | 9.6^8
+  min.|130|31 |18   | 22.9  | 13.0  |10.9   |7.1  |5.5  |3.3  |5.4  | 9.2
+  max.|151|43 |20   | 23.9  | 13.7  |11.8   |7.6  |5.8  |4.0  |5.8  |10.1
+Female
+16 av.|134|34 |18^15| 23.2  | 13.3  |11.2^13|7.3  |5.8  |3.5  |5.5  | 9.4
+  min.|123|28 |17   | 22.4  | 12.6  |10.7   |6.9  |5.5  |3.2  |5.2  | 9.0
+  max.|156|45 |20   | 24.1  | 14.1  |11.8   |8.0  |6.1  |3.7  |5.9  | 9.7
+
+_Clethrionomys gapperi phaeus_, Chickamin River
+
+Male
+5 av. |148|47 |20   | 23.0^4| 13.7^4|11.3^4 |7.5^4|5.3^4|3.5^4|5.3^4| 9.7^3
+  min.|138|38 |20   | 22.3  | 13.0  |11.1   |7.1  |5.3  |3.4  |4.9  | 9.3
+  max.|159|51 |21   | 23.8  | 14.6  |11.8   |7.7  |5.6  |3.8  |5.6  |10.0
+Female
+4 av. |153|49 |20   | 23.1^3| 13.4  |11.2^3 |7.6^3|5.2  |3.7  |5.3  | 9.6^3
+  min.|140|44 |20   | 22.4  | 12.8  |10.8   |7.3  |5.0  |3.4  |5.1  | 9.2
+  max.|164|56 |20   | 24.2  | 13.6  |11.4   |7.7  |5.3  |3.9  |5.5  | 9.8
+
+      *Superior numbers denote the number of individuals averaged.
+
+
+_Measurements_.--External and cranial measurements of adults are given
+in table 1.
+
+_Remarks_.--Morphologically _C. g. stikinensis_ shows greater
+resemblance to _C. g. solus_ of Revillagigedo Island, than to the
+geographically adjacent subspecies _C. g. wrangeli_ and _C. g. phaeus_.
+Possibly the original stock of _C. g. solus_ was rafted to
+Revillagigedo Island from the Cleveland Peninsula.
+
+    _Specimens examined_.--Total, 29, all in the Museum of Vertebrate
+    Zoology, University of California, distributed as follows: British
+    Columbia: Stikine River at Great Glacier, 22; Stikine River at
+    Flood Glacier, 3. Alaska: Bradfield Canal, 1; Helm Bay, 2.
+
+
+    Pitymys pinetorum scalopsoides (Audubon and Bachman)
+
+    1841. _Arvicola scalopsoides_ Audubon and Bachman, Proc. Acad. Nat.
+    Sci. Philadelphia, 1:97, type from Long Island, New York.
+
+    1912. _Pitymys pinetorum scalopsoides_ Miller, U. S. Nat. Mus.
+    Bull., 79:229, December 31.
+
+Hanson (Trans. Wisconsin Acad. Sci., Arts, and Letters, 36:124, 1944)
+reported two pine mice from near Prairie du Sac, in Westpoint Township,
+Columbia County, Wisconsin, as _Pitymys pinetorum scalopsoides_ but
+cast doubt upon their subspecific identity. He also reported pine mice
+from Blue Mounds, Dane County, Wisconsin. We have examined these
+specimens (Westpoint, Columbia County, 2--No. 544, skin only, UWDEZ,
+and No. 521, skin only, H. C. Hanson's private collection; Westpoint,
+Dane County, 1, No. 11620, UWZM; Vermont, Dane County, 2, Nos. 11674
+and 11694, UWZM) and have compared them with topotypes of _P. p.
+schmidti_, and with specimens of _P. p. nemoralis_ and _P. p.
+scalopsoides_. The specimens from Columbia and Dane counties differ
+from _P. p. schmidti_ in the greater zygomatic breadth, and lesser
+height of skull. They differ from _P. p. nemoralis_ of comparable age
+in shorter tooth-row and generally smaller skull. The interorbital
+region, however, is wider. In all of the features mentioned above, the
+specimens in question agree with _Pitymys pinetorum scalopsoides_, to
+which subspecies they are here referred.
+
+
+    Microtus pennsylvanicus aztecus (Allen)
+
+    1893. _Arvicola (Mynomes) aztecus_ Allen, Bull. Amer. Mus. Nat.
+    Hist., 5:73, April 28, type from Aztec, 5900 ft., San Juan County,
+    New Mexico.
+
+Allen (_loc. cit._) described this species on the basis of two
+specimens from Aztec, New Mexico, and three from La Plata, New Mexico.
+He characterized it as "Size large; pelage very full and soft; tail
+short; skull very narrow.
+
+"Above grayish brown with a tinge of pale buff; fur blackish plumbeous
+beneath the surface, tipped with pale yellowish brown, and varied with
+longer, projecting, black-tipped hairs; below grayish white, the fur
+plumbeous beneath the surface and tipped with white, giving a whitish
+gray effect. Feet dusky; tail dusky brown above, dull white below."
+
+Allen identified as this species "a large _Arvicola_ from Estes Park,
+Colorado, which I have before been unable to allocate. I am unable to
+find that it differs in any particular from the specimens from New
+Mexico." He pointed out also (_op. cit._:73-74) that "The type and only
+positively identified specimen of Baird's _Arvicola modesta_ [=
+_Microtus pennsylvanicus modestus_ (Baird)] from Sawatche Pass,
+Colorado, is a very young specimen in poor condition. An examination of
+a series of adult and young examples from the type locality will be
+necessary in order to determine its relationships to _A. alticolus_ [=
+_Microtus longicaudus alticolus_ (Merriam)] and _A. aztecus_."
+
+Bailey, in his revision of the American voles of the genus _Microtus_
+(N. Amer. Fauna, 17:20), showed _Arvicola modesta_ Baird to be a
+subspecies of _Microtus pennsylvanicus_ but retained _Microtus aztecus_
+(Allen) as a distinct species. In describing _M. aztecus_ he wrote "the
+size similar to _M. pennsylvanicus_, but with shorter tail and larger
+hindfoot; skull long; braincase narrow; interparietal long ..." and
+remarked that "_Microtus aztecus_ belongs to the _pennsylvanicus_
+group. Externally it is not very different from _modestus_, but none of
+the specimens show any signs of intergradation; and the skull
+characters are so well marked that there seems no doubt of its full
+specific rank."
+
+Subsequent to the publication of Allen's (_op. cit._) account and
+Bailey's account (_op. cit._), additional material was collected that
+helps to clarify the relationships of _Microtus aztecus_. A comparison
+of six adult topotypes of _Microtus aztecus_ with a series of nine
+adults of _M. p. modestus_ from 1 mi. S, 2 mi. E Eagle Nest, 8100 ft.,
+Colfax County, New Mexico, with three adults from 1-1/2 mi. E Manassa,
+Conejos County, Colorado, and with four adults from Saguache County,
+Colorado (all in KU), reveals that the supposed "well marked" external
+and cranial differences between the two forms are not nearly so evident
+as was indicated by Bailey.
+
+The cranial differences that exist between these two forms (narrower
+nasals, slightly longer interparietal, slightly longer and narrower
+skull in _aztecus_) are evident only as averages. Although
+geographically intermediate specimens are lacking, the morphological
+differences between the two kinds of animals are of the degree and kind
+that separate subspecies, rather than species. We therefore judge _M.
+aztecus_ (Allen) to be only subspecifically distinct from _M.
+pennsylvanicus modestus_ and employ the name _Microtus pennsylvanicus
+aztecus_.
+
+
+    Microtus pennsylvanicus funebris (Dale)
+
+    1940. _Microtus pennsylvanicus funebris_ Dale, Jour. Mamm., 21:338,
+    August 14, type from Coldstream, 1450 ft., 3-1/2 mi. SE Vernon,
+    British Columbia.
+
+Taylor and Shaw (Occas. Papers Charles R. Conner Mus., State College
+Washington, 2:24, December, 1929) list under _Microtus nanus_ [=
+_montanus_] _canescens_ material from Calispell Peak, Washington.
+Probably the basis for this record is a specimen in the Biological
+Surveys collection (adult male, 236474) taken on May 9, 1921, by G. G.
+Cantwell, and labelled as Calispell Peak, 9 mi. W Locke, 3500 ft., Pend
+Oreille County. An examination (by Hall and Kelson) of the specimen
+discloses that it is of the species _Microtus pennsylvanicus_, and that
+it falls within the geographic range ascribed to the subspecies
+_Microtus pennsylvanicus funebris_ by Dalquest (Univ. Kansas Publ.,
+Mus. Nat. Hist., 2:346, April 9, 1948).
+
+
+    Microtus oeconomus amakensis (Murie)
+
+    1930. _Microtus amakensis_ Murie, Jour. Mamm., 11:74, February 11,
+    type from Amak Island, Bering Sea, Alaska.
+
+When Murie (Jour. Mamm., 11:75, February 11, 1930) named the meadow
+mouse from Amak Island, Alaska, as _amakensis_, he arranged it as a
+separate species. One of us (Hall) and K. R. Kelson examined the type
+and topotypes of _amakensis_ in the Biological Surveys collection in
+the U. S. National Museum and compared them with series of _Microtus
+oeconomus operarius_, _M. o. sitkensis_, _M. o. elymocetes_, _M. o.
+yakutatensis_, and _M. o. kadiacensis_. Among the specimens examined of
+the latter subspecies were 17 from Izambek Bay, Kodiak Peninsula, on
+the mainland opposite Amak Island, the type locality of _amakensis_.
+The characters given by Murie (_op. cit._) serve to separate
+_amakensis_ from closely related neighboring kinds of meadow mice, but
+are of the degree and kind that, in this group of meadow mice, separate
+subspecies rather than species. Although actual intergrades are
+lacking, the animals from Amak Island are considered to be only
+subspecifically distinct and to belong to the _oeconomus_ complex. The
+name _Microtus oeconomus amakensis_ is applied to them.
+
+
+    Microtus longicaudus mordax (Merriam)
+
+    1891. _Arvicola_ (_Mynomes_) _mordax_ Merriam, N. Amer. Fauna,
+    5:61, July 30, type from Sawtooth (= Alturas) Lake, 7200 ft., east
+    base of Sawtooth Mountains, Blaine County, Idaho.
+
+    1938. _Microtus longicaudus mordax_, Goldman, Jour. Mamm., 19:491,
+    November 14.
+
+Dalquest (Univ. Kansas Publ., Mus. Nat. Hist., 2:353, April 9, 1948)
+assigned all the meadow mice of the species _Microtus longicaudus_ from
+approximately the eastern half of Washington State to _Microtus
+longicaudus halli_ Hayman and Holt and, in doing so, excluded the
+subspecies _Microtus longicaudus mordax_ from that state. This
+assignment of specimens in Washington had the effect of separating the
+geographic range of _M. l. mordax_ into two parts. One part was in
+south-central British Columbia and the other part was mainly in the
+Rocky Mountain region of the United States. Hall and Kelson examined
+specimens in the Biological Surveys collection in the U. S. National
+Museum in an attempt to determine more precisely the ranges of the
+subspecies in southern Canada, Washington, and Idaho.
+
+_Microtus longicaudus angustus_ [= _M. l. halli_] was described by one
+of us (Hall, Univ. California Publ. Zool., 37:13, April 10, 1931) as
+differing from _mordax_ in narrower braincase, higher skull near the
+anterior end of the frontals, darker coloration, and seemingly smaller
+size. After examining the material in the U. S. National Museum no
+reason is seen at the present time to amend this characterization,
+except to add that some specimens of _M. l. mordax_ are as dark as
+seasonably comparable specimens of _M. l. halli_.
+
+Examination of specimens of _Microtus longicaudus_ from Washington east
+of the Cascade Range (those from the Blue Mountain area excepted)
+discloses that the skulls do not differ essentially from those of
+topotypes of _M. l. mordax_, but do differ, as outlined above, from
+near-topotypes of _M. l. halli_. There is considerable variation in
+color among the Washington-taken specimens of _Microtus longicaudus_.
+Animals from the eastern flanks of the Cascades average darker than
+those taken, north of the Snake River, still farther east in
+Washington. Possibly Dalquest (_op. cit._) relied mainly upon this
+darker color in assigning the specimens from eastern Washington to _M.
+l. halli_. Relying principally upon cranial characters, we conclude
+that most of the specimens are better referred to _M. l. mordax_ and
+that _M. l. halli_ is restricted, in Washington, to the Blue Mountains.
+
+    _Specimens examined of Microtus longicaudus mordax._--Total, 74,
+    all in the Biological Surveys Collection, distributed as follows:
+    Washington: _Okanogan_ _County_: mouth of Holmar Creek, W Fork
+    Paysaten River, 4700 ft., 1; Conconully, 3; Twisp, 1; Omak Lake,
+    1200 ft., 3. _Stevens County_: 5 mi. N Colville, 1. _Pend Oreille
+    County_: 9 mi. N Metalina, 2600 ft., 1; Sullivan Lake, 3000 ft., 3.
+    _Chelan County_: Sethekin, 1079 ft., 3; head of Lake Chelan, 900
+    ft., 12; Hart Lake, Railroad Creek, 3900 ft., 1; Entiat, 20 mi from
+    mouth of Entiat River, 1680 ft., 13; Wenatchee, 4. _Douglas
+    County_: Waterville, 1. _Jefferson County_: Cleveland, 2. _Kittitas
+    County_: 2 mi. S Blewett Pass, 3000 ft., 6: Ellensburg, 1500 ft.,
+    4. _Whitman County_: Colfax, 2. _Yakima County_: McAllister
+    Meadows, Tieton River, 3000 ft., 3; Gotchen Cr., 5500 ft., near
+    Sava Spring, Mt. Adams, 2. _Klickitat County_: 8 mi. S Glenwood,
+    base Mt. Adams, 2. _Asotin County_: Anatone, 3300 ft., 4; Bly, 1000
+    ft., 2.
+
+
+    Microtus miurus muriei (Nelson)
+
+    1931. _Microtus muriei_ Nelson, Jour. Mamm., 12:311, August 24,
+    type from Kutuk River (tributary of Alatna River), Endicott Mts.,
+    Alaska.
+
+Rausch (Jour. Washington Acad. Sci., 40:135, April 21, 1950) proposed
+the name _Microtus miurus paneaki_, with type locality at Tolugak Lake
+(lat. 68° 24' N, long. 152° 10' W), Brooks Range, Alaska, for a meadow
+mouse of the subgenus _Stenocranius_. This place is only approximately
+forty miles east and north of the type locality of the earlier named
+_Microtus muriei_, also a member of the subgenus _Stenocranius_. Large
+series of specimens of this subgenus, from the Arctic Slope of Alaska,
+are in the Museum of Natural History of the University of Kansas. Study
+of these indicates that the differences, which Rausch (_op. cit._:136)
+described as distinguishing his _M. m. paneaki_ from _M. muriei_,
+result from differences in age of the specimens, and possibly in part
+from differences in seasonal condition of pelage. For example, Rausch
+thought that _M. m. paneaki_ was larger than _M. muriei_ but our
+specimens reveal that such is not the case. The measurements given
+below of the type specimen of _M. muriei_ (after Nelson, original
+description) and measurements (in parentheses) of an immature female
+(43807 K. U.) of _Microtus miurus muriei_ from Chandler Lake, 68° 12',
+152° 45', 2900 ft., Alaska, show close correspondence in size. Total
+length, 119 (122); tail vertebrae, 24 (24); hind foot, 20 (20);
+condylobasal length, 24.3 (24.5); zygomatic breadth, 10.7 (11.0);
+greatest width of braincase, 9.0 (9.0); length of nasals, 6.5 (6.0);
+basal width of rostrum, 4.0 (4.3). In the light of all of the evidence
+now available, it seems best to treat _Microtus miurus paneaki_ Rausch
+as a synonym of _Microtus muriei_ Nelson.
+
+Quay (Jour. Mamm., 32:95, February 15, 1951) identified fifty-eight
+specimens from the Seward Peninsula of Alaska as _Microtus miurus
+oreas_ Osgood. Through the courtesy of Dr. Charles P. Lyman, fifteen of
+Quay's specimens in the Museum of Comparative Zoology at Harvard
+College have been examined by one of us (Hall). These specimens are as
+follows: Lava Lake (43378, 43379, 43381, 43382, 43386, 43467 and
+43478); Mt. Boyan (43384, 43385, 43463 and 43477); Anvil Hill [= Peak],
+Cooper Gulch (43377, 43464 and 43473); ----? Lake, 43383. Although we
+are not prepared to say that these specimens are _M. m. muriei_, they
+seem to resemble _M. m. muriei_ as closely as they do any other named
+form and we here refer them to that subspecies.
+
+The facts are that a critical taxonomic study of the American specimens
+of the subgenus _Stenocranius_ is required in order to ascertain the
+geographic variation. One of us (Hall) has examined the holotypes of
+the kinds named from Alaska, and the material listed by R. Baker (Univ.
+Kansas Publ. Mus. Nat. Hist., 5:109) of the two kinds named from
+Canada. The degree and nature of the variation shown by these specimens
+lead us to the conclusion that all are of a single species. If the
+American mouse is specifically distinct from any of the previously
+named Asiatic species--at this writing we lack material to decide this
+question--the named kinds from the mainland of the New World may stand
+as follows:
+
+    MICROTUS MIURUS ANDERSONI Rand.
+
+        1945. _Microtus andersoni_ Rand, Bull. Nat. Mus. Canada, 99:42,
+        prior to June 20, type from near headwaters of Little Keel
+        River, 5500 ft., 82 mi. W Mackenzie River on Canol Road,
+        Mackenzie.
+
+    MICROTUS MIURUS CANTATOR Anderson.
+
+        1947. _Microtus cantator_ Anderson, Bull. Nat. Mus. Canada,
+        102:161, January 24, type from mountain top near Tepee Lake,
+        61° 35' N, 140° 22' W, N slope Elias Range, Yukon Terr.
+
+    MICROTUS MIURUS MIURUS Osgood.
+
+        1901. _Microtus miurus_ Osgood, N. Amer. Fauna, 21:64,
+        September 26, type from head of Bear Creek, in mts. near Hope
+        City, Turnagain Arm, Cook Inlet, Alaska.
+
+    MICROTUS MIURUS MURIEI Nelson.
+
+        1931. _Microtus muriei_ Nelson, Jour. Mamm., 12:311, August 24,
+        type from Kutuk River (tributary of Alatna River), Endicott
+        Mts., Alaska.
+
+        1950. _Microtus miurus paneaki_ Rausch, Jour. Washington Acad.
+        Sci., 40:135, April 21, type from Tolugak Lake (lat. 68° 24' N,
+        long. 152° 10'), Brooks Range, Alaska.
+
+    MICROTUS MIURUS OREAS Osgood.
+
+        1907. _Microtus miurus oreas_ Osgood, Proc. Biol. Soc.
+        Washington, 20:61, April 18, type from Toklat River, Alaskan
+        Range, Alaska.
+
+
+    _Transmitted July 8, 1952._

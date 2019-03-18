@@ -1,0 +1,3564 @@
+Transcriber’s Notes
+
+
+Italic text enclosed with _underscores_.
+
+Small-caps replaced by ALL CAPS.
+
+Tables require a monospace font in order to align properly.
+
+More notes appear at the end of the file.
+
+
+
+
+
+
+[Illustration:
+
+ _Photo, Cribb, Southsea._]
+
+                      THE BRITISH SUBMARINE “E.2.”
+
+  Displacement, 800 tons; Speed, 16·10 knots; Armament, 4 torpedo tubes
+                            and 2 q.-f. guns.
+
+     There are 17 vessels of this class, completed between 1912‒14.
+
+]
+
+
+
+
+
+
+               SUBMARINES, MINES AND TORPEDOES IN THE WAR
+
+
+
+
+                                   BY
+
+                        CHARLES W. DOMVILLE-FIFE
+
+             AUTHOR OF “SUBMARINES OF THE WORLD’S NAVIES”,
+                “SUBMARINE ENGINEERING OF TO-DAY,” ETC.
+
+
+
+
+                              ILLUSTRATED
+
+
+
+
+                          HODDER AND STOUGHTON
+
+                        LONDON NEW YORK TORONTO
+
+                                 MCMXIV
+
+
+
+
+
+
+
+
+
+                                PREFACE
+
+
+Warfare has become so largely a matter of science that in order to
+arrive at an intelligent understanding of the _naval situation_ or of
+the _military campaigns_ in the Great European War, a knowledge of the
+scientific factors contributing to victory or defeat is essential. And
+in this volume it has been my aim not only to review the actual fighting
+underseas, but also to present a compendium of information relative to
+the submarine fleets and arms of the great Naval Powers engaged; which I
+venture to hope will prove of present interest on account of the
+prominent part played by the under-water fighting ships and appliances,
+and of permanent historic value as being the first work to describe the
+vast preparations and curious events leading to the new “Submarine
+Phase” in naval warfare.
+
+                                                            C. W. D-F.
+
+
+
+
+
+
+                                CONTENTS
+
+                                                                  PAGE
+
+ INTRODUCTION—THE SUBMARINE PHASE OF THE NAVAL WAR                   9
+
+                               CHAPTER I
+ THE MODERN SUBMARINE TORPEDO-BOAT                                  40
+
+                              CHAPTER II
+ BRITISH SUBMARINES                                                 60
+
+                              CHAPTER III
+ FRENCH SUBMARINES                                                  79
+
+                              CHAPTER IV
+ RUSSIAN SUBMARINES                                                 94
+
+                               CHAPTER V
+ JAPANESE SUBMARINES                                               104
+
+                              CHAPTER VI
+ GERMAN SUBMARINES                                                 108
+
+                              CHAPTER VII
+ AUSTRIAN SUBMARINES                                               118
+ TABLE SHOWING SUBMARINE FLOTILLAS OF THE NEUTRAL EUROPEAN POWERS  123
+
+                             CHAPTER VIII
+ SUBMARINES IN ACTION                                              124
+
+                              CHAPTER IX
+ ANTI-SUBMARINE TACTICS                                            146
+
+                               CHAPTER X
+ THE SUBMARINE TORPEDO                                             160
+
+                              CHAPTER XI
+ SUBMARINE MINES                                                   168
+
+                              CHAPTER XII
+ MINE-LAYING FLEETS                                                174
+
+                             CHAPTER XIII
+ MINE-SWEEPING FLEETS                                              179
+
+                              CHAPTER XIV
+ COMPARATIVE FIGHTING VALUE OF THE SUBMARINE FLEETS AT WAR         184
+
+
+
+
+
+
+                              INTRODUCTION
+
+                  THE SUBMARINE PHASE OF THE NAVAL WAR
+
+
+In the mist of war which envelops over half the entire world, no less
+than 264 underwater fighting ships are engaged. They form the submarine
+fleets of England, France, Russia, Japan, Germany and Austria; and the
+highly-trained crews of these modern additions to the fighting navies
+comprise nearly 20,000 men. But the conduct of submarine warfare on the
+grand scale requires far more than flotillas of submergible warships and
+their daring crews. This new branch of naval science is ever widening in
+its scope, its means of offence, and in its attendant ramifications.
+Every important naval base has its curious submarine floating docks,
+ready for crippled members of its attached flotilla; every naval
+construction department has its corps of submarine experts; each of the
+1,500 surface warships engaged in this titanic struggle for the dominion
+of Europe and the mastery of the seas carries the means for delivering
+submarine attacks in its torpedoes and surface and submerged discharging
+tubes. The oceans in the theatres of war have been strewn with German
+and Austrian mines; then they have been either counter-mined or swept
+clear and mined again. British seaplanes, with specially trained
+observers, are continually searching from high in the air for the _dark
+patches in the semi-transparent sea-green_ which denote the presence of
+mines and submarines. Within signal-range or wireless call of the aërial
+scouts and their attendant ships are destroyer flotillas to give battle
+to the hostile submarines, while hundreds of trawlers and small
+steamers, fitted with special apparatus, are continually sweeping up the
+hundreds of submarine mines laid by the enemy’s vessels which are fitted
+to enable them to sow like seeds over the pathways of the sea these
+deadly perils to navigation. Submerged wire entanglements in conjunction
+with boom-defences and observation and contact submarine mines protect
+the seaward approaches to harbours in the same way as similar appliances
+are used to protect the approaches to land fortifications; and every
+harbour, waterway and channel of strategic importance is protected by
+elaborate submarine mine defences. All this is part of the new warfare
+underseas—that science which is daily rendering hazardous the life of
+the greatest battleship and the smallest merchantman afloat in the zone
+of war.
+
+Before placing in review order the vast preparations made for submarine
+attack and defence in the years which preceded the outbreak of war and
+describing in detail the powerful submarine fleets engaged, it is
+necessary to make clear to the reader the wonderful change which this
+new mode of attack has made in all branches of naval warfare and its
+influence on sea power. As indicative of this change we have only to
+survey _in their submarine aspect_ the naval operations in the opening
+phase of this, the greatest war in history.
+
+In the domain of naval strategy we find reflected the altered
+conditions caused by these invisible arms. Every battle on land and
+sea teaches its lesson of concealment and sudden stealthy attack; and
+even as the huge siege guns and devastating artillery fire of the land
+forces is causing the extension of the battle-front and the rapid
+burrowing under earth or entrenching of positions dearly won or with
+difficulty retained—“approximating to siege warfare”—so are the
+powerful 12 and 13.5-inch naval guns (weight of projectile 850 lbs.
+and 1,400 lbs. respectively), combined with the rapidity and accuracy
+of the modern warship’s secondary armament, necessitating the
+reduction in numbers of the big surface ships of the opposing fleets
+by frequent submarine and torpedo attacks prior to the decisive
+engagements between the battle fleets. Hence we find, in the opening
+phase of the naval war, the German and Austrian fleets, inferior in
+numbers and gun power, skulking behind fortifications and waiting for
+their submarine and surface torpedo-boats and light cruisers, in
+conjunction with the hundreds of submerged mines strewn over the North
+Sea, Baltic, Adriatic and elsewhere to reduce the number and power of
+the British, French, Russian and Japanese fleets before the decisive
+actions are fought; and in order that these tactics might be
+frustrated, and the big British ships, as well as those of her allies,
+costing several millions sterling each, should not be exposed to these
+grave risks when no good could result, they have been compelled to
+delay initiative, and meanwhile all their operations had to be
+screened by smaller and faster vessels of the cruiser and destroyer
+types, while they waited within call should the German Battle Fleet—in
+the case of the North Sea—dare to come out to fight. The British
+submarines of the large sea-going type were in the meantime employed
+in watching the Frisian coast with the object of attacking any of the
+enemy’s ships which ventured from behind the elaborate coast
+fortifications. Not content with this _rôle_, however, several British
+submarines made their way unseen through the dangerous waters of the
+Heligoland Bight and succeeded in getting within reconnoitering
+distance of the German submerged harbour defences, behind which lurk
+their big ships.
+
+With what degree of success this new opening or _submarine phase_ in
+naval warfare has been attended is shown by the sinking, during the
+first few weeks of the war, of the British cruiser _Amphion_, a vessel
+of 3,440 tons displacement, completed in 1912, and carrying ten 4-inch
+guns, with a loss of 131 men, by contact with a German mine; the
+destruction of the German submarine U.15 by the British cruiser
+_Birmingham_; the sinking of an Austrian torpedo-boat by a mine off
+Pola; the torpedoing of H.M.S. _Pathfinder_, a fleet scout of about
+3,000 tons displacement, completed in 1905‒6, by a German submarine; the
+destruction of the Wilson liner _Runo_ by a mine; the sinking of the
+German cruiser _Hela_, a vessel of 2,000 tons displacement, built in
+1896, by the British submarine E 9, and the torpedoing of the British
+armoured cruisers _Aboukir_, _Hogue_ and _Cressy_—vessels of 12,000 tons
+displacement, carrying two 9.2-inch and twelve 6-inch guns besides
+twelve 12-pounder quick-firing guns and two torpedo tubes—by German
+submarines concealed behind a trawler engaged in laying mines, over
+which the Dutch flag had been hoisted as a blind.
+
+This is in addition to the lamentable destruction of much life and
+property belonging to neutral powers caused by the laying of German
+floating mines on the trade-routes.
+
+To the Allies this _submarine phase_ did not come unexpected. The
+British Naval yards in conjunction with the big shipbuilding and
+engineering firms, such as Messrs. Vickers Ltd., Barrow-in-Furness;
+Messrs. Armstrong, Whitworth and Co. Ltd., Newcastle-on-Tyne; the
+Whitehead Torpedo Company Ltd., Weymouth; Messrs. Siebe, Gorman and Co.
+Ltd., London; and Messrs. Scotts’ Shipbuilding and Engineering Co. Ltd.,
+as well as many other firms and individual submarine experts had been
+engaged for many years in solving one after another the problems
+continually arising in the practical application of all forms of
+submarine warfare. The first British naval submarines were launched in
+1901‒2 from Messrs. Vickers’ works at Barrow, and the subsequent growth
+of our submarine flotillas has been rapid both in number of vessels and
+in size and armament. The British submarine fleet now numbers 82
+vessels. The original boats from which the British type has since been
+evolved were built from the designs of Mr. John P. Holland, an American
+inventor.
+
+[Illustration: North Sea Coastlines]
+
+To France belongs the honour of being the first naval power to adopt the
+submarine torpedo-boat as a vessel of war; and the first vessel, the
+_Gymnôte_, was launched in 1888, but it was not until 1893 that the
+Republic commenced the construction of her now powerful submarine
+flotilla, numbering 92 vessels.
+
+The first Russian submarine was launched at Kronstadt in 1902, and since
+that date the Russian flotilla has steadily increased until it now
+numbers 37 vessels.
+
+Japan commenced the construction of what is now a powerful and
+up-to-date flotilla of seventeen vessels by the acquisition of a
+British-Holland boat in 1904.
+
+Turning to Germany we find at first a great reluctance on the part of
+the Ministry of Marine to provide for the construction of submarines,
+but in 1905‒6 this initial hesitation was overcome and the two vessels
+U.1 and U.2 were launched. Since then the belief in a powerful submarine
+flotilla steadily grew until at the moment when war was declared Germany
+possessed no less than 30 to 36 submarines of a very efficient type. The
+Austro-Hungarian Navy did not adopt submarines as units of the Fleet
+until 1909, and now possess only six small vessels.
+
+From this brief _resumé_ of the growth of the submarine fleets of the
+six great naval Powers at war, it will be seen that in point of numbers
+as well as in priority, bringing with it practical experience, Great
+Britain and France have a very appreciable superiority. It must,
+however, be left for succeeding chapters to describe in detail the
+steady growth and present size and capabilities of the submarine fleets
+at war.
+
+The lessons taught by the Russo-Japanese war were not lost on the
+British Admiralty, and special methods had been prepared to deal with
+submarine attack in its various forms. Having in mind the destruction
+caused to both Russian and Japanese warships by submarine
+mines—especially those of the “offensive contact” type, which are moored
+to the bottom, float just under the surface and explode immediately on
+contact; and in the Russo-Japanese War were responsible for the sinking
+of the Japanese battleships _Hatsuse_ and _Yashima_ as well as the
+Russian battleship _Petropavlovsk_ and the cruiser _Boyarin_—the British
+Admiralty foresaw the danger to which both warships and merchantmen
+would be exposed in time of war if the seas strewn with these mines
+could not be quickly cleared, and a new type of auxiliary came into
+being. This was the mine-sweeper, and eight vessels of the old
+torpedo-gunboat type were fitted out for the work. In addition to these,
+however, the Admiralty purchased a considerable number of steam fishing
+trawlers, and fitted them with mine-sweeping appliances, and made
+arrangements for a large fleet of similar vessels to be placed at the
+disposal of the navy in the event of war. In order to man this new
+mine-sweeping fleet with experienced sailors on the outbreak of war, a
+new section of the Royal Naval Reserve was created in 1911. This is
+known as the “Trawler Section,” and consists of 142 _skippers_ and 1,136
+men taken from the fishing fleet.
+
+Realizing the value of the submarine mine in certain cases, the British
+Admiralty went further and created a small mine-laying fleet from seven
+old second-class cruisers, which had their aft-decks cleared and
+provided with rails for a large number of mines to be run down and slid
+over the stern into the water as the vessels steamed along, thus quickly
+laying a mine-field. But as the laying of mines, speaking generally, is
+a defensive mode of warfare and the policy of the British Navy—owing to
+its supremacy—is attack and not defence, the mine-laying fleet is of
+second importance to the sweeping fleet, the work of which, although
+much augmented by additional small steamers pressed into service, was,
+during the first few weeks of the war, of a nature more arduous and
+dangerous than will ever be realised. Hundreds of German mines were
+swept up, and hundreds more were exploded by being dragged into contact
+with each other during the progress of sweeping operations.
+
+What the clearance of these vast fields of floating and anchored mines
+in the North Sea meant to the British Navy, engaged in blockading the
+German Fleet, and to the Mercantile Marine not only of England, France,
+Russia and Belgium, but also to that of the neutral countries, it is
+perhaps a little difficult to realize until one remembers that several
+hundred British and French warships were patrolling the North Sea and
+Channel, and, at the opening of hostilities, there were hundreds of
+merchantmen homeward bound whose course lay across this mine-infested
+sea. Many of these vessels had on board not only valuable cargoes of
+food, raw material for manufacture and gold and silver bullion, but also
+officers and men returning from various parts of the world to rejoin
+their regiments. Again, the Expeditionary Force had to be transported
+across the Channel to France. This could not be attempted until a
+guarantee had been given by the Navy that the seas were clear of hostile
+warships, submarines and mines. The fleet blockading the Frisian coast
+had to be supplied with coal and fresh food; and last but by no means
+least it was of vital importance to the Allied Armies in the Field that
+the whole coast-line from Bordeaux to Antwerp, forming the rear and
+left-flank, should be accessible to friendly shipping. It is not
+difficult to realize what would have been the effect had thousands of
+these deadly German contact mines been allowed to float unhindered in
+these narrow seas, for, notwithstanding the magnificent effort made by
+thousands of seamen in hundreds of mine-sweepers assisted by seaplanes,
+many vessels—some belonging to neutral powers and others to the enemy
+themselves—were destroyed before the seas could be effectively swept
+clear, the hostile mine-layers destroyed or chased into port and there
+blockaded with their cowardly fleet.
+
+The torpedo has long been recognised as one of the most effective of
+naval arms. It is carried by every modern warship afloat, but it is
+essentially the arm of the submarine and of the small and fast surface
+vessel. For a torpedo attack to be successful it is absolutely necessary
+for the vessel carrying the weapon to get within about 1,000 yards of
+the object of attack. The difficulty of accomplishing this manœuvre with
+an enemy on the alert is easily apparent, but if the attacking vessel
+can creep up to within torpedo range unobserved her chances of sinking
+the enemy are decidedly good, and it is the quality possessed by the
+submarine of making herself invisible by sinking beneath the surface and
+approaching her enemy “seeing but unseen” that makes this type of vessel
+the ideal torpedo-boat. But, like everything else, there are limits to
+its use, for a submarine, although it can navigate on the surface like
+an ordinary torpedo-boat, cannot deliver a submerged attack at night
+owing to the periscopes, which are the “eyes” of these underwater
+fighting ships, being useless in the dark. When night covers the sea,
+however, the chances of the fast grey-painted surface torpedo-boat or
+destroyer being able to approach the enemy unseen are more than doubled,
+and in this way fleets become exposed to submarine torpedo attack by day
+and surface torpedo attack by night. Further, a submarine will often
+attack while a seaplane hovers over the enemy in order to draw
+attention. It is this constant exposure to sudden and unseen submarine
+attack which is primarily responsible for the terrible nerve strain
+imposed on the crews of modern surface warships in time of war.
+
+Owing to the ability of submarines to deliver stealthy attacks by day,
+naval tacticians have designated this type of craft “Daylight
+torpedo-boats,” but they are rapidly passing beyond the purely torpedo
+and coastal defensive stage and are taking on to themselves the _rôle_
+of the ocean cruiser. The size of these vessels has increased from 50 to
+1,000 tons displacement in ten years. They now carry not only a
+considerable number of the largest size torpedo but also quick-firing
+guns for repelling attacks by small surface vessels, and are capable of
+accompanying fleets to sea. The Australian naval submarines A.E.1 and
+A.E.2 both made the voyage from Barrow to Sydney under their own power
+and without convoy. The radius of action of the latest vessels both of
+the British and French Navies amounts to several thousand miles. In the
+case of the British “F” class the displacement has risen to 1,500 tons,
+the speed to 20 knots and the armament to six torpedo tubes and four
+12-pounder quick-firing guns, thus making them in every sense ocean
+cruisers capable of keeping the sea in almost any weather and possessing
+wide range of action and considerable offensive power. Hitherto British
+submarines, like the ordinary surface torpedo-boats, have been known by
+numbers only, but the latest vessels are to receive names which
+indicates the increase in size and importance of these craft. They may
+be termed the advance guards of the submarine battleships of the future.
+
+The torpedo, which is the principal arm of the submarine boat, is itself
+a submarine projectile. After being discharged from the firing tube it
+sinks a short distance below the surface and is propelled by its own
+engines at a high rate of speed in a straight line towards its object of
+attack. Great improvements have been made during the past ten years in
+the construction of these delicate weapons. The extreme effective range
+and speed has risen from 4,000 yards at 18 knots to 7,000 yards at 45
+knots or 11,000 yards at 30 knots. The “war-head” or front section of
+the torpedo contains a charge of about 200 pounds of damp gun-cotton
+which is fired by a detonator on the torpedo striking an object. This
+very powerful explosive charge is capable of tearing open an enormous
+hole in the unprotected under-water skin of the surface warship. The
+type of weapon used in the British, French, Russian and Japanese Navies
+is the _Whitehead_ torpedo (18-inch and 21-inch). The German Navy uses
+the _Schwartzkopf_ torpedo (18-inch and 21-inch), which is very similar
+to the Whitehead and is a very powerful weapon.
+
+In the first phase of the naval war no less than eight warships have
+been sunk by submarine torpedoes.
+
+The activity of the British submarines _in the theatre of war_, from the
+beginning of hostilities, is admirably set forth in the following
+dispatch from Commodore Roger B. Keyes, C.B., which is the first
+dispatch in the history of naval warfare to describe in detail submarine
+attack and reconnaissance:—
+
+                                                H.M.S. _Maidstone_,
+                                                  _17th October, 1914_.
+
+ “Sir,—In compliance with Their Lordships’ directions, I have the
+ honour to report as follows upon the services performed by the
+ Submarines since the commencement of hostilities:—
+
+ “Three hours after the outbreak of war, Submarines E.6
+ (Lieutenant-Commander Cecil P. Talbot), and E.8 (Lieutenant-Commander
+ Francis H. H. Goodhart), proceeded unaccompanied to carry out a
+ reconnaissance in the Heligoland Bight. These two vessels returned
+ with useful information, and had the privilege of being the pioneers
+ on a service which is attended by some risk.
+
+ “During the transportation of the Expeditionary Force the _Lurcher_
+ and _Firedrake_ and all the Submarines of the Eighth Submarine
+ Flotilla occupied positions from which they could have attacked the
+ High Sea Fleet, had it emerged to dispute the passage of our
+ transports. This patrol was maintained day and night without relief,
+ until the _personnel_ of our Army had been transported and all chance
+ of effective interference had disappeared.
+
+ “These Submarines have since been incessantly employed on the Enemy’s
+ Coast in the Heligoland Bight and elsewhere, and have obtained much
+ valuable information regarding the composition and movement of his
+ patrols. They have occupied his waters and reconnoitred his
+ anchorages, and, while so engaged, have been subjected to skilful and
+ well executed anti-submarine tactics; hunted for hours at a time by
+ Torpedo Craft and attacked by gun-fire and torpedoes.
+
+ “At midnight on August 26th, I embarked in the _Lurcher_, and, in
+ company with _Firedrake_ and Submarines D.2, D.8, E.4, E.5, E.6, E.7,
+ E.8, and E.9 of the Eighth Submarine Flotilla, proceeded to take part
+ in the operations in the Heligoland Bight arranged for August 28th.
+ The Destroyers scouted for the Submarines until nightfall on the 27th,
+ when the latter proceeded independently to take up various positions
+ from which they could co-operate with the Destroyer Flotillas on the
+ following morning.
+
+ “At daylight on August 28th the _Lurcher_ and _Firedrake_ searched the
+ area, through which the Battle Cruisers were to advance, for hostile
+ Submarines, and then proceeded towards Heligoland in the wake of
+ Submarines E.6, E.7, and E.8, which were exposing themselves with the
+ object of inducing the enemy to chase them to the westward.
+
+ “On approaching Heligoland, the visibility, which had been very good
+ to seaward, reduced to 5,000 to 6,000 yards, and this added
+ considerably to the anxieties and responsibilities of the Commanding
+ Officers of Submarines, who handled their vessels with coolness and
+ judgment in an area which was necessarily occupied by friends as well
+ as foes.
+
+ “Low visibility and calm sea are the most unfavourable conditions
+ under which Submarines can operate, and no opportunity occurred of
+ closing with the Enemy’s Cruisers to within torpedo range.
+
+ “Lieutenant-Commander Ernest W. Leir, Commanding Submarine E.4,
+ witnessed the sinking of the German Torpedo-Boat Destroyer V.187
+ through his periscope, and, observing a Cruiser of the _Stettin_ class
+ close, and open fire on the British Destroyers which had lowered their
+ boats to pick up the survivors, he proceeded to attack the Cruiser,
+ but she altered course before he could get within range. After
+ covering the retirement of our Destroyers, which had had to abandon
+ their boats, he returned to the latter, and embarked a Lieutenant and
+ nine men of _Defender_, who had been left behind. The boats also
+ contained two Officers and eight men of V.187, who were unwounded, and
+ eighteen men who were badly wounded. As he could not embark the
+ latter, Lieutenant-Commander Leir left one of the Officers and six
+ unwounded men to navigate the British boats to Heligoland. Before
+ leaving he saw that they were provided with water, biscuit, and a
+ compass. One German Officer and two men were made prisoners of war.
+
+ “Lieutenant-Commander Leir’s action in remaining on the surface in the
+ vicinity of the enemy and in a visibility which would have placed his
+ vessel within easy gun range of an enemy appearing out of the mist,
+ was altogether admirable.
+
+ “This enterprising and gallant Officer took part in the reconnaissance
+ which supplied the information on which these operations were based,
+ and I beg to submit his name, and that of Lieutenant-Commander Talbot,
+ the Commanding Officer of E.6, who exercised patience, judgment, and
+ skill in a dangerous position, for the favourable consideration of
+ Their Lordships.
+
+ “On September 13th, E.9 (Lieutenant-Commander Max K. Horton) torpedoed
+ and sank the German Light Cruiser _Hela_ six miles South of
+ Heligoland.
+
+ “A number of Destroyers were evidently called to the scene after E.9
+ had delivered her attack, and these hunted her for several hours.
+
+ “On September 14th, in accordance with his orders,
+ Lieutenant-Commander Horton examined the outer anchorage of
+ Heligoland, a service attended by considerable risk.
+
+ “On September 25th, Submarine E.6 (Lieutenant-Commander C. P. Talbot),
+ while diving, fouled the moorings of a mine laid by the enemy. On
+ rising to the surface she weighed the mine and sinker; the former was
+ securely fixed between the hydroplane and its guard; fortunately,
+ however, the horns of the mine were pointed outboard. The weight of
+ the sinker made it a difficult and dangerous matter to lift the mine
+ clear without exploding it. After half an hour’s patient work this was
+ effected by Lieutenant Frederick A. P. Williams-Freeman and Able
+ Seaman Ernest Randall Cremer, Official Number 214235, and the released
+ mine descended to its original depths.
+
+ “On October 6th, E.9 (Lieutenant-Commander Max K. Horton), when
+ patrolling off the Ems, torpedoed and sank the enemy’s Destroyer
+ S.126.
+
+ “The enemy’s Torpedo Craft pursue tactics which, in connection with
+ their shallow draft, make them exceedingly difficult to attack with
+ torpedo, and Lieutenant-Commander Horton’s success was the result of
+ much patient and skilful zeal. He is a most enterprising submarine
+ officer, and I beg to submit his name for favourable consideration.
+
+ “Lieutenant Charles M. S. Chapman, the Second in Command of E.9, is
+ also deserving of credit.
+
+ “Against an enemy whose capital vessels have never, and Light Cruisers
+ have seldom, emerged from their fortified harbours, opportunities of
+ delivering Submarine attacks have necessarily been few, and on one
+ occasion only, prior to the 13th September, has one of our Submarines
+ been within torpedo range of a Cruiser during daylight hours.
+
+ “During the exceptionally heavy westerly gales which prevailed between
+ the 14th and 21st September the position of the Submarines on a lee
+ shore, within a few miles of the Enemy’s coast, was an unpleasant one.
+
+ “The short steep seas which accompany westerly gales in the Heligoland
+ Bight make it difficult to keep the conning tower hatches open. There
+ was no rest to be obtained, and even when cruising at a depth of 60
+ feet, the Submarines were rolling considerably, and pumping—_i.e._
+ vertically moving about twenty feet.
+
+ “I submit that it was creditable to the Commanding Officers that they
+ should have maintained their stations under such conditions.
+
+ “Service in the Heligoland Bight is keenly sought after by the
+ Commanding Officers of the Eighth Submarine Flotilla, and they have
+ all shown daring and enterprise in the execution of their duties.
+ These Officers have unanimously expressed to me their admiration of
+ the cool and gallant behaviour of the Officers and men under their
+ command. They are however, of the opinion that it is impossible to
+ single out individuals when all have performed their duties so
+ admirably, and in this I concur.
+
+ “The following Submarines have been in contact with the enemy during
+ these operations:—
+
+ D.1  (Lieutenant-Commander Archibald D. Cochrane).
+
+ D.2  (Lieutenant-Commander Arthur G. Jameson).
+
+ D.3  (Lieutenant-Commander Edward C. Boyle).
+
+ D.5  (Lieutenant-Commander Godfrey Herbert).
+
+ E.4  (Lieutenant-Commander Ernest W. Leir).
+
+ E.5  (Lieutenant-Commander Charles S. Benning).
+
+ E.6  (Lieutenant-Commander Cecil P. Talbot).
+
+ E.7  (Lieutenant-Commander Ferdinand E. B. Feilmann).
+
+ E.9  (Lieutenant-Commander Max K. Horton).
+
+  I have the honour to be, Sir,
+      Your obedient servant,
+        (Signed) ROGER KEYES,
+                    Commodore (S).”
+
+In conclusion, it must therefore be set on record that the opening phase
+in the greatest naval war in history has been one of submarine attack
+and counter-attack, mine-laying and destroying, warships and merchantmen
+sunk in a few minutes by submarine torpedoes and mines, with sharp
+engagements between the cruisers and destroyers acting in conjunction
+with the under-water craft. The much-vaunted German Fleet, like that of
+its ally Austria-Hungary, has not dared to show itself from behind the
+forts and carefully-screened anchorages of the naval bases, suffering
+rather the everlasting disgrace of having stood in cowardly idleness
+while the 5,000 merchant ships it was built to protect hauled down the
+flag of the “Fatherland” and German maritime commerce was swept from the
+seas while the Allied fleets hold undisputed command of every ocean.
+
+The First Lord of the British Admiralty has said that if the German
+Fleet will not come out to fight it must be “dug out like rats in a
+hole.” This, then, may be the second phase in the naval war, and out in
+the grey mist of the North Sea, ready and eager for the work, lies the
+great battle fleets of England.
+
+
+
+
+                               CHAPTER I
+
+                   THE MODERN SUBMARINE TORPEDO-BOAT
+
+
+The submarine torpedo-boat is to most people a complete mystery, and
+before describing the composition and strength of the submarine fleets
+at war it may therefore be of interest to say something of the principal
+features common to all types of submarine craft.
+
+
+                        _Method of Submergence_
+
+It may sound ridiculous, in face of the many accidents which have
+occurred, to say that one of the greatest difficulties is to make a
+submarine sink sufficiently quickly, and one of the easiest of
+operations to make her rise, and yet such is undeniably the case.[1]
+
+It will be readily understood that any delay in disappearing beneath the
+surface when attacking would be a great danger to a submarine in action.
+For example, a number of hostile torpedo-boat destroyers are scouring
+the sea in advance of a fleet, and are discovered at daybreak by the
+submarines, which are waiting to attack the fleet behind, approaching at
+a speed of 30 knots an hour. A hurried dive beneath the surface is
+necessary if the waiting submarines would avoid detection, which would,
+in all probability, mean destruction by the quick-firing guns of the
+destroyers.
+
+When a submarine is travelling on the surface she is in what is
+technically called the _light condition_, that is to say, with her water
+ballast tanks empty, but when it is required to sink her so that only
+the tiny platform, or deck, and conning-tower are above the surface,
+water is let into these ballast tanks, and the additional weight causes
+her to sink into the sea until her _back_ is almost flush with the
+surface—this is known as the _awash condition_.
+
+It is not difficult to perceive that when travelling awash, a wave might
+at any moment roll along the tiny unprotected deck of the submarine,
+break over the mouth of the conning-tower, and descend like a waterspout
+into the interior. Were this to happen a terrible disaster might result,
+for it must be remembered that when travelling awash, a very little
+additional weight would cause the submarine to plunge beneath the
+surface. In order to obviate this risk it has become a rule that when
+proceeding with this small margin of buoyancy, the hatch covering the
+mouth of the conning-tower should be screwed down and the submarine
+hermetically closed, ready to sink.
+
+To many it may appear strange that total submergence is not accomplished
+by letting still more water into the ballast tanks, but entirely with
+the aid of the propellers and rudders. A submarine has two, and
+sometimes three, pairs of rudders; one pair of ordinary vertical ones to
+guide her to port or starboard, and a horizontal pair to cause her to
+dive and rise. Two additional _fins_ are frequently placed on each side
+of the forepart of the vessel to assist the diving and rising.
+
+In order to make the submarine dive beneath the surface, the horizontal
+rudders are deflected when the boat is proceeding at full speed. The
+action of the water against the rudders is such that the bows are forced
+down and the whole vessel slides under the surface. The principle is
+much the same as that of steering an ordinary surface vessel, where the
+force of the water against the rudder causes the vessel to swing to
+right or left.
+
+From this it will be seen that a submarine is only held below the
+surface by the action of her rudders on the passing water; should the
+propellers driving her along cease to revolve and the vessel slow down,
+she automatically rises to the surface because the rudders have no
+longer any effect.
+
+Although the steering both on the vertical and horizontal plane is
+controlled by hand, it would be quite beyond the strength of a man to
+move the various rudders as required, so electric motors are installed
+to perform the actual work. In fact, almost everything in a submarine is
+operated by electricity.
+
+In the earlier types of submarine boats, a considerable time was
+required to open the valves and allow sufficient water to enter the
+ballast tanks to make them sink to the awash condition. Some of the now
+obsolete French naval boats took as long as fifteen to twenty minutes to
+carry out this simple operation. The main reason for this was, that they
+were designed with too much surface buoyancy, that is to say, they rode
+too high in the water when floating in the light condition compared with
+the inadequate means then employed for the inlet of water into the
+ballast tanks, and were thus forced to let in an enormous quantity of
+water at a very slow rate before they settled down sufficiently to
+enable total submergence to be accomplished by the use of the horizontal
+fins and rudders. This great drawback has now been completely overcome,
+and the modern submarine can sink below the surface in about three
+minutes.
+
+When water is pumped into the ballast tanks in order to make the
+submarine settle down, the air which normally fills these tanks is
+compressed into a fraction of its proper space, and is therefore always
+exerting a downward pressure which increases as more water is pumped in.
+Therefore, when it is desired to bring the submarine to the surface
+again, all that is necessary is to open the valves and allow the
+compressed air to force the water out. It should, however, be remembered
+that there is really no need to “blow out” the ballast tanks in order to
+bring the submarine to the surface, for this can be much quicker
+accomplished by simply elevating the horizontal rudders; but in this
+case the submarine only rises just above the surface—to the awash
+condition—whereas if the tanks are emptied of water she rises to the
+light or cruising condition. This substantiates the assertion made at
+the beginning of this chapter—that it is far more difficult to make a
+submarine sink than it is to make her rise.
+
+It has been said that a man walking from one end of a submarine to the
+other would, in all probability, cause her to plunge dangerously, so
+delicate is the state of equipoise when totally submerged. Whatever may
+have been the case in the early types it is certainly not so now. So
+steady are modern submarines when running below the surface, especially
+those of the British, Russian, French, and Japanese and German Navies,
+that the long up and down hill glides, which, with some boats, used to
+amount to yaws of from 20 to 30 feet, have now been reduced to a few
+feet in so many hundreds of yards. In fact, this switch-back motion is
+almost unnoticeable except when the submarine is being swung round at a
+sharp angle. In no case, however, is it sufficient materially to affect
+the firing of the torpedoes.
+
+The reserve buoyancy of a submarine in the awash condition—or
+_diving-trim_, as it is called in the British flotillas—is necessarily
+very small, amounting to little more than two or three pounds in a
+thousand, which in a 300-ton vessel means a difference of only about 100
+gallons of sea-water between the ability to float and the inevitability
+of sinking. Any material increase in the small margin of what is known
+as _positive-buoyancy_ must be accompanied by a corresponding increase
+in the power of propulsion, otherwise it would be quite impossible to
+drive her under, or, in other words, to overcome the vessel’s natural
+tendency to float on the surface.
+
+For these and other reasons, a submarine when running submerged is in
+such a delicate state of equipoise that any sudden increase or loss of
+weight would upset the balance and so cause the vessel to either dive or
+rise with dangerous rapidity.
+
+This would be the effect produced when a torpedo was discharged were
+provision not made to counter-balance this sudden loss of weight by
+means of _compensating-tanks_, into which sufficient water is pumped to
+compensate for the loss of weight incurred by the discharge of _each_
+torpedo.
+
+Many submarines are also fitted with bow and stern _trimming-tanks_,
+into which water can be pumped in such a manner as to correct any
+tendency of the vessel to float too high or low at either extremity.
+
+
+                             _Propulsion._
+
+Of the many complicated problems surrounding submarine boat construction
+the motive power and propelling engines have been in the past, and are
+still, the most profound puzzles. Steam, compressed air, electricity,
+petrol, and heavy oil have all been used with varying results since
+first this type of vessel came into being; and many curious engines for
+using these _prime movers_ in conjunction with each other and with
+chemical compounds have been evolved by ingenious inventors.
+
+About steam and compressed air little need be said, for although given a
+good trial, especially by the French naval authorities, they were
+abandoned some years ago in favour of a combination of petrol and
+electric engines, which in turn have given place to more powerful
+machines using heavy oil and electricity. Steam is, however, again being
+used in conjunction with turbine engines for surface propulsion.
+
+The carrying of large quantities of petrol, or heavy oil, is under all
+circumstances attended with a certain amount of risk, and when many tons
+have to be carried in a confined space, as in a submarine, this risk is
+more than doubled, as the slightest leakage when the vessel is submerged
+would mean that a powerful explosive mixture of petrol and air would be
+made.
+
+[Illustration:
+
+ A modern submarine torpedo-boat (British type). _A._ Deck
+ superstructure. _B._ Scuppers for filling superstructure. _D._ External
+ connections. _E._ Conning-tower (4-inch armour). _F._ Periscope. _G._
+ Periscope motor (for turning, &c.). _H._ Air cowls. _I._ Conning-tower
+ cap (opening sideways). _J._ Mast stays. _K._ Mast (not part of service
+ equipment). _L._ Torpedo-tube cap. _M._ Torpedo-tubes (twin), torpedoes
+ in. _N._ Air-flask (for expelling torpedoes). _O._ Hydroplane engines.
+ _X._ Double casing, with special vent for accumulators. _Y._ Spare
+ torpedoes. _Z._ Petrol storage tanks (2). 1. Air flasks. 2. Centrifugal
+ pumps. 3. Air-lock, with submarine escape dresses. 4. Commander’s
+ platform. 5. Ladders. 6. Depth and deflection indicator, registering
+ submarine’s deflection from horizontal. 7. Speed dials. 9. Petrol
+ engines. 10. Electric engines. 11. Dynamo, for recharging batteries.
+ 12. Petrol engines—exhaust.
+
+]
+
+It being also quite impossible, for obvious reasons, to use a petrol
+engine when running submerged, a second motive power, an engine, with
+its additional space and weight, has to be carried to drive the
+submarine when under water. For this purpose electricity is used in
+almost all types. But electricity, again, has many drawbacks. It costs
+in weight nearly thirty times more than other motive powers, and is
+extremely dangerous, for should salt water in any way gain access to the
+storage batteries, chlorine gas would be given off in large quantities,
+although in the more recent vessels of the British, American, and French
+Navies this danger has been minimised by enclosing the batteries in
+air-tight cases. On account of the weight and the space required, it is
+impossible to install a very powerful electric engine in a submarine
+(compared with the size of the boat), and thus both the speed and radius
+of action are curtailed.
+
+If this division of power between the surface and submerged engines
+could be overcome, and the whole space made available for one powerful
+set of engines suitable for driving the vessel both on the surface and
+when submerged, not only would the mechanism of submarines be
+simplified, but a very considerable increase in both speed and range of
+action would naturally result.
+
+In the “D,” “E” and “F” classes of British submarines, and in the more
+modern vessels of the French, Russian and German Navies, heavy oil is
+being used in place of petrol on account of the increase in power
+obtained with greater safety.
+
+Arrangements are made in almost all modern submarines so that when the
+vessel is using the oil engines for running on the surface the
+electricity for use when submerged is being made by a dynamo and stored
+in batteries. From this it will be seen that there are really three
+separate engines in a submarine:—(1) the oil or petrol motor, which
+drives the vessel when on the surface, and, at the same time, by a
+suitable arrangement of gearing, operates a dynamo, (2) which makes the
+electric current for storage, and (3) an electric engine which drives
+the vessel when submerged, obtaining the necessary power from the
+batteries.
+
+It is, however, technically incorrect to say that there are two sources
+of power in a submarine, for electricity is not, in itself, a source of
+power, but merely a handy method of storing and transmitting it. The
+only actual source being the oil or petrol.
+
+There are also numerous small engines to add to the complexity of
+machinery in a submarine, such as the air compressors used for charging
+the torpedo tubes with compressed air for expelling the torpedoes and
+for other purposes, and electric motors for operating the pumps,
+steering mechanism, and periscopes. In addition to all this,
+hand-mechanism is provided for use in case of a breakdown to operate
+most of these important appliances. Then again there is, of course, the
+armament mechanism for working the torpedo tubes and semi-automatic
+quick-firing guns.
+
+From the foregoing it may appear that the interior of a submarine
+presents a picture of mechanical complexity utterly incomprehensible.
+Yet such is not the case. The fanciful belief that the crew stand, boxed
+up in these vessels, sweating with the heat, struggling for breath, and
+with crank-shafts whirling uncomfortably close to the small of their
+backs, electric motors buzzing within a few inches of their ears, and
+nervous hands grasping one or other of the levers ranged in rows in
+front of them, is, doubtless, most romantic, but quite unreal. Much of
+the undoubtedly complicated machinery in a submarine is tucked away in
+the conical extremities, under the interior decking, and fixed to the
+arched steel sides. The centre is left almost entirely clear, so that
+trestle-tables may be erected for meals, hammocks swung for sleeping,
+and sufficient space allowed to make these small vessels as habitable as
+possible. Not the least difficulty of the submarine designer is to
+create order and leave space among the chaos of machinery which has to
+be installed in these peculiar and deadly little torpedo craft.
+
+
+                        _Vision When Submerged._
+
+Perhaps the greatest difficulty which has beset both submarine
+construction and navigation is the puzzle how to see when submerged.
+This is now accomplished by means of periscopes, or tubes extending up
+from the roof of the submarine to a height of several feet above the
+surface—not unlike hollow masts. By a series of lenses and reflectors a
+picture of the surface is thrown down these tubes on to reflectors
+inside the submarine. A man with his eyes at the bottom of a periscope
+can see the surface clearly. Although it projects above the surface when
+the whole submarine is submerged, it is far too small an object to be
+easily seen moving through the water, and extremely difficult to hit by
+gun-fire.
+
+The latest panoramic periscope—two of which are fitted in modern
+submarines—has a field of vision of about 60 degrees. The range of
+vision is, however, very short, owing to the periscopic tube projecting
+only a few feet above the surface. On a moderately smooth and fairly
+clear day steering by periscope is not altogether difficult, but at
+night or in fog this instrument is useless, and for this reason it would
+be almost impossible for a submarine to effect a submerged attack on an
+enemy at night. Hence the name given to this type of craft—daylight
+torpedo-boats—for in the brilliant light of day, when any attempt by
+ordinary torpedo craft to get sufficiently close to hostile warships to
+discharge a torpedo with reasonable hope of success would be foredoomed
+to failure, there is every possibility that submarines would effect a
+surprise attack.
+
+
+                              _Armament._
+
+The chief armament of all naval submarines is the torpedo, which is
+expelled by a blast of compressed air from one of the tubes fitted in
+the bow and stern. Several torpedoes are usually carried by each boat,
+so that if one failed to strike the object of attack further attempts
+can be made.
+
+About the efficiency of torpedoes nothing need be said here, for they
+now form an important weapon in every navy, and to this subject a future
+chapter is devoted.
+
+The latest submarines built are also fitted with quick-firing guns for
+use when these vessels are cruising on the surface. The guns are
+arranged so that when it is desired to sink they can be made to
+disappear beneath the narrow deck of the submarine. The provision of
+guns has been made with the object of giving these vessels a means of
+defence should they be discovered by prowling hostile torpedo-boat
+destroyers, or by air-craft.
+
+
+                            _Habitability._
+
+Many people imagine the interior of a submarine to resemble a stokehold,
+hot, stifling, and semi-dark, whereas the exact contrary is the truth.
+The temperature is but little above the normal for a ship’s engine-room,
+the air-supply is amply sufficient, and the whole interior is well
+illuminated by electric lamps.
+
+The necessary supply of pure air is derived either from large steel
+cylinders containing the air in a highly compressed state or from flasks
+of oxylithe. The carbonic acid gas of the respired air being at the same
+time chemically absorbed.
+
+Food is cooked for the crew by electricity, and drinking water obtained
+from special tanks. Notwithstanding these arrangements, however, it is
+almost impossible for the crew to live on board for many weeks at a
+time, owing to the small free space in the interior and to the cramped
+deck; but as the size and radius of action of these boats increase, so
+also does the space available for exercise, and thus the habitability.
+
+
+
+
+                               CHAPTER II
+
+                           BRITISH SUBMARINES
+
+
+The British Fleet at the moment when war was declared possessed 82
+submarine torpedo-boats built and 22 building. Some of these were,
+however, stationed at the oversea naval bases. The composition and
+distribution of the submarine flotillas at the outbreak of hostilities
+were as follows:—
+
+
+                       SUBMARINES IN HOME WATERS.
+
+                          _Patrol Flotillas._
+
+ 1st Flotilla. Devonport.
+     Depôt ship: _Onyx_.
+   Submarines: A.8 and A.9.
+
+ 2nd Flotilla. Portsmouth.
+     Depôt ship: _Dolphin_.
+   Submarines: A.5, A.6, A.13 and B.1.
+
+ 3rd Flotilla. Devonport.
+     Depôt ship: _Forth_.
+   Submarines: B.3, B.4, B.5, C.14,
+     C.15 and C.16.
+
+ 4th Flotilla. Portsmouth.
+     Depôt ships: _Arrogant_ and _Hazard_.
+   Submarines: C.17, C.18, C.31, C.32, C.33, C.34, C.35.
+
+ 5th Flotilla. Chatham.
+     Depôt ship: _Thames_.
+   Submarines: C.1, C.2, C.3, C.4, C.5, C.6.
+
+ 6th Flotilla. Chatham.
+     Depôt ships: _Bonaventure_ and _Hebe_.
+   Submarines: C.7, C.8, C.9, C.10, C.12, C.13.
+
+ 7th Flotilla. Chatham.
+     Depôt ships: _Vulcan_ and _Alecto_.
+   Submarines: C.19, C.20, C.21, C.22, C.23, C.24, C.25, C.26, C.27,
+      C.28, C.29, C.30.
+
+ 8th Flotilla. Portsmouth.
+     Depôt ships: _Maidstone_ and _Adamant_.
+   Submarines: D.1, D.2, D.3, D.4, D.5, D.6, D.7, D.8, E.1, E.2, E.3,
+      E.4, E.5, E.6, E.7, E.8, E.9.
+
+ 9th Flotilla. Devonport.
+     Depôt ship: _Pactolus_.
+   Submarines: A.10, A.11, A.12.
+
+
+                    SUBMARINES ON FOREIGN STATIONS.
+
+    Attached to Mediterranean Fleet.—Submarines B.9, B.10, and B.11.
+
+    At Gibraltar.—Submarines B.6, B.7, and B.8.
+
+    Attached to China Squadron.—Submarines C.36, C.37, and C.38.
+
+    With Australian Fleet.—Submarines A.E.1[2] and A.E.2.
+
+The statement that the headquarters of the various submarine flotillas
+in home waters are at Chatham, Portsmouth, and Devonport, must not be
+taken as indicating that these are the only points along the coast
+protected by submarines. These places are merely the chief bases of the
+_Patrol Flotillas_. The wide range of action of modern submarines
+enables them to operate several hundred miles from any base or depôt,
+and consequently Chatham becomes merely the _general store_, or
+head-depôt, of what should be termed the North Sea Flotillas, which not
+only patrol the whole East, North-East and South-East Coasts of England
+and Scotland, but also have their floating secondary bases in the form
+of _Depôt Ships_, which, with their attached submarines, are often at
+Harwich, Newcastle, Rosyth, etc. In the same way Portsmouth is merely
+the headquarters of the submarines patrolling the Channel; and Dover,
+Portland, etc., are seldom without strong flotillas of submarines with
+their Depôt ships. The Devonport Flotillas have the longest coast-line
+to patrol, for their area covers not only the West Coast of England,
+Wales and Scotland, but also the Irish Coast. They are, however,
+furthest removed from the zone of war.
+
+Considerable alterations have taken place in the composition and
+distribution of the British submarine flotillas since the outbreak of
+war, with the object of materially strengthening the Fleet in the main
+theatre of operations, but the addition to the flotillas of new vessels
+of the latest “E” type—nearly completed when war broke out—has made this
+rearrangement possible without materially weakening the flotillas
+guarding the more distant coasts of Great Britain or recalling vessels
+from overseas.
+
+[Illustration:
+
+ _Photo, Cribb, Southsea._]
+
+                      THE BRITISH SUBMARINE “D.7.”
+
+ Displacement, 620 tons; Speed, 16·10 knots; Armament, 2 bow and 1 stern
+                              torpedo tube.
+
+      There are 8 vessels of this class, completed between 1908‒12.
+
+]
+
+The first submarine torpedo-boat built for the British Navy was launched
+from the yard of Messrs. Vickers Ltd., Barrow-in-Furness in 1901, and
+was designated the No. 1. It was constructed from the designs of the
+famous American inventor, Mr. John P. Holland, and was one of the most
+successful boats afloat at that time. A series of exhaustive trials with
+this and the succeeding five vessels, all of the same type and launched
+during 1901‒2, proved conclusively the fighting value of this type of
+craft, and a further order was given by the British Admiralty for four
+new vessels embodying the improvements suggested by the trials of the
+first five. These vessels were the first of the “A” class, and were
+designated the “A’s 1, 2, 3, and 4.” They had a submerged displacement
+of 180 tons, a length of 100 feet and a beam of 10 feet. They were
+propelled by petrol motors of 190 H.-P. on the surface and by electric
+motors of about 80 H.-P. when submerged. Their speed ranged from 8 knots
+an hour on the surface to 5 knots when travelling submerged, and their
+maximum surface endurance (or fuel capacity) was only 400 knots at 8
+knots. Their armament consisted of three 18-inch Whitehead torpedoes and
+one bow tube.
+
+All these vessels were, however, obsolete and therefore scrapped before
+the opening of hostilities, hence information concerning them is only of
+interest as showing the rapid growth in size, power and armament of
+British submarines. The next batch of vessels were the A’s 5 to 13,
+launched at Barrow in 1904, but these, as will have been seen from the
+table showing the composition and distribution of the submarine
+flotillas at the outbreak of war, are still on the effective list. All
+the following British submarines are now in the fighting line.
+
+
+                               “A” CLASS.
+
+                           (Completed 1904.)
+
+                    A’s 5, 6, 8, 9, 10, 11, 12, 13.
+
+These vessels are the oldest British submarines in commission. They were
+built at Messrs. Vickers’ works at Barrow, and have a submerged
+displacement of 204 tons. Their length is 150 feet. They are propelled
+on the surface by petrol motors of 600 H.-P. and by electric engines of
+100 H.-P. when submerged. Their surface and submerged speed is 11 knots
+and 7 knots respectively. The cruising range, or maximum surface
+endurance on the fuel carried, is 400 knots at 10 knots an hour, and the
+endurance submerged three hours at full speed. Their armament consists
+of two bow tubes with four 18-inch Whitehead torpedoes. Complement:
+Eleven officers and men.
+
+These vessels, which are now used almost entirely for harbour defence,
+can be distinguished from later types by their high conning-towers and
+single short periscopes. The A.7 was lost off Plymouth early in 1914,
+and was never raised.
+
+
+                               “B” CLASS.
+
+                          (Completed 1904‒6.)
+
+                  B’s 1, 3, 4, 5, 6, 7, 8, 9, 10, 11.
+
+These are submarines of the improved Holland type, and are in every way
+superior to their predecessors. They may be considered the first of the
+sea-going type. Their submerged displacement is 316 tons; length 135
+feet, and beam 13 ½ feet. The motive power is the same as in the
+“A’s”—petrol for surface propulsion and electricity for use when
+submerged. The horse-power of the petrol engines is 600, and that of the
+electric engines 189. As in most submarines the supply of current for
+driving the electric engines is derived from storage batteries charged
+by dynamos driven from the petrol engines while the vessels are running
+on the surface. In the “B” class a special system of encasing these
+storage batteries was introduced. Their speed averages 12 knots on the
+surface and 8 knots when submerged. The surface cruising range is 1,300
+knots at 10 knots per hour, and the maximum submerged endurance 80‒100
+knots at 5 knots per hour. Their armament consists of two bow tubes with
+4‒6 18-inch Whitehead torpedoes. Complement: Sixteen officers and men.
+
+The “B” type are vessels about 50 per cent. larger than the “A” type
+which preceded them. The “B’s” have superstructures extending from the
+bow to the conning-tower, forming a narrow deck which tends to disperse
+the wave which heaped around the blunt noses of the “A’s” and original
+Hollands. Vision when submerged is obtained by two panoramic periscopes,
+each having an arc of vision of 60 degrees. In the more modern vessels
+three periscopes are fitted. The twin screws of the “B’s” are placed
+below the centre line of the vessel and consequently operate in deeper
+water when the vessels are cruising on the surface. This gives them
+better surface cruising qualities, as in a sea-way the propellers are
+liable to race if worked too near the surface. The increase in the speed
+of these vessels over that of the “A’s” was of great importance, as in
+this respect lies the weakness of the submarine. The tactical advantages
+derived from high speed in actual warfare cannot be over-estimated. The
+speed of a fleet is governed by that of its slowest unit.
+
+The distinguishing feature of the “B” type is the straight bow, the
+forward superstructure, and the _two_ periscopes. The B.2 was run down
+by the liner _Amerika_ in the Straits of Dover in October, 1912, and was
+never recovered.
+
+
+                               “C” CLASS.
+
+                          (Completed 1906‒10.)
+
+  C’s 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20,
+ 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38.
+
+This class of submarines is composed of vessels of the improved “B”
+type. They have a submerged displacement of 320 tons and are 135 feet
+long and 13 ½ feet broad. The petrol motors develop 600 H.-P. and give
+to these vessels a speed of 14 knots an hour on the surface. The power
+of the electric engines was increased to 300 H.-P., giving a submerged
+speed of just over 9 knots an hour. The surface cruising range is 2,000
+knots at the most economical speed, and the submerged endurance 100
+knots at 5 knots an hour. Their armament consists of two bow tubes with
+six 18-inch Whitehead torpedoes; and their complement sixteen officers
+and men.
+
+In the later vessels of the “C” class heavy oil is used instead of
+petrol, giving a great increase in power without the comparative
+additional weight; enabling a wider radius of action. The vessels of
+both the “B” and “C” classes are fitted with air-traps and
+safety-helmets, giving the crew a possible means of escape in the event
+of disaster while submerged.
+
+The distinguishing feature of the “C” class is the sloping bow. The C.11
+collided with the steamer _Eddystone_ in the North Sea in 1909 and was
+irretrievably lost.
+
+
+                               “D” CLASS.
+
+                          (Completed 1908‒11.)
+
+                      D’s 1, 2, 3, 4, 5, 6, 7, 8.
+
+These are all modern vessels of the sea-going type, and are of
+considerable fighting value. They, however, differ slightly from each
+other: D.1 has a submerged displacement of 595 tons; D.2 of 600 tons;
+and the remaining vessels of this class of 620 tons. They have an
+approximate length of 150 feet and a beam of 15 feet. Heavy-oil engines
+of 1,200 H.-P. drive them at a maximum speed of 16 knots an hour on the
+surface, and electric motors of 550 H.-P. give them a submerged speed of
+just over 10 knots an hour. All these vessels have twin-screws situated
+below the centre line. Their cruising range on the surface is 4,000
+miles, and when submerged 120 knots at 7 knots an hour. These vessels
+were the first to be fitted with a special and more efficient pattern of
+electric storage battery and a safer type of electric motor. The
+armament of the “D’s” consists of two bow and one stern tube with six
+18-inch Whitehead torpedoes. D’s 4, 5, 6, 7, and 8 are also fitted with
+a small quick-firing, high-angle gun for defence against air-craft. This
+gun is fixed on a disappearing mounting, enabling it to be quickly and
+almost automatically lowered into a watertight cavity in the
+superstructure before the submarine dives below the surface. The
+complement of these vessels is twenty-one officers and men.
+
+[Illustration:
+
+ _Photo, Cribb, Southsea._]
+
+                      THE BRITISH SUBMARINE “C.34.”
+
+   Displacement, 320 tons; Speed, 14·9 knots; Armament, 2 bow torpedo
+                                 tubes.
+
+     There are 37 vessels of this class, completed between 1906‒12.
+
+]
+
+
+                               “E” CLASS.
+
+                          (Completed 1912‒14.)
+
+   E’s 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18.
+
+These fine ocean-going submarines are the latest additions to the
+British Flotillas. They have a submerged displacement of 800 tons, are
+176 feet long and 22 ½ feet in beam. The heavy-oil engines of nearly
+2,000 H.-P. give them a surface speed of over 16 knots, while the
+electric engines of 800 H.-P. drive them at a maximum speed of 10 knots
+an hour when submerged. Their surface cruising range is 5,000 miles at
+economical speed, and the submerged endurance 140 knots at 8 knots an
+hour. In point of armament the “E’s” are far more powerful than their
+predecessors, being fitted with four tubes and carrying six of the
+largest and most powerful Whitehead torpedoes. They are also equipped
+with two 3-inch quick-firing guns on high-angle disappearing mountings
+for defence against air-craft and hostile torpedo-boats and destroyers.
+They have wireless telegraphic apparatus; and, like the vessels of the
+“B,” “C” and “D” classes, have armoured conning towers and decks. Three
+tall panoramic periscopes are fitted, and their high superstructures and
+increased buoyancy when travelling on the surface enable them to keep
+the sea in almost any weather.
+
+
+                         AUSTRALIAN SUBMARINES:
+
+                            A.E.1 and A.E.2.
+
+These vessels are exactly the same as the “E” class. The fact that they
+both accomplished the 13,000-mile voyage from Barrow to Sydney under
+their own power and without convoy is practical proof of the wide range,
+seaworthiness and general efficiency of the latest British Naval
+Submarines. The A.E.1 mysteriously disappeared in Australian waters in
+October, 1914, and has not been recovered.
+
+
+                      BRITISH SUBMARINES BUILDING.
+
+At the commencement of the great war there were 22 British submarines in
+course of construction at the various shipbuilding works and naval
+dockyards. Up to 1909 Messrs. Vickers Ltd., had constructed all the
+British submarines, but in that year the vessels C.17 and C.18 were laid
+down at Chatham Dockyard. Since then several other boats have been
+constructed there, and of those now in hand some are being built by
+Messrs. Vickers Ltd. at Barrow, others at Messrs. Scott’s shipbuilding
+yards at Greenock, and a few by Messrs. Armstrong, Whitworth and Co.
+Ltd. at Newcastle-on-Tyne, and at H.M. Dockyard at Chatham.
+
+Hitherto, British submarines, although divided into classes—each of
+which has shown a marked improvement on the preceding class—have been
+all of one type—the “Improved Holland.” Among the vessels being
+constructed at the opening of hostilities they were, however, no less
+than three different types. Those being built at Barrow and Chatham were
+of the original design with modern improvements, but the submarines
+under construction at Greenock were of the _Laurenti_, or Italian type,
+and those at Newcastle-on-Tyne of the _Laubeuf_, or French type. In
+addition to this wise departure from previous practice, two of the new
+vessels have been given the names of _Nautilus_ and _Swordfish_.
+
+The haze of war has obscured these vessels, and it is impossible to say
+definitely which of them have taken their place in the active flotillas,
+and further the necessity for observing the very strictest secrecy
+regarding new types of warships at a time like the present makes it
+advisable to give here only the briefest particulars and not to discuss
+too freely the peculiarities of their design or their probable
+capabilities.
+
+
+                               “F” CLASS.
+
+There are several vessels of this class now being constructed. They are
+the latest improvement of the original Holland design and are sea-going
+submarines of wide range, high speed and great fighting power. The F.1,
+which was built at Chatham Dockyard, has a submerged displacement of
+1,500 tons. Heavy-oil engines of about 5,000 H.-P. give her a maximum
+speed of 20 knots an hour on the surface, and electric motors of 2,000
+H.-P. drive her at 12 knots when submerged. The armament consists of six
+torpedo tubes, ten torpedoes, and two quick-firing, high-angle guns.
+
+
+                   “V” CLASS.  “W” CLASS.  “S” CLASS.
+
+                      _Nautilus_ and _Swordfish_.
+
+These three classes include the vessels of entirely different design to
+those now forming the British flotillas. The “V,” or Vickers’ type, of
+which four were under construction at the beginning of the war, are
+large sea-going submarines with a submerged displacement of over 1,000
+tons, and a probable surface speed of 20 knots. The “W” Class, of which
+four are being built at Elswick, comprise vessels of the French
+_Laubeuf_ type. The “S” Class, building at Greenock, and four in number,
+are of the Italian, or F.I.A.T.—_Laurenti_ type. The two named
+vessels—_Nautilus_ and _Swordfish_—are large sea-going submarines of
+wide range and high speed. Their submerged displacement is about 1,000
+tons, and their speed 20 knots on the surface and 12 knots when
+submerged. The armament is six tubes, with eight torpedoes, and two
+quick-firing guns. The complement of all these large submarines is about
+25 officers and men.
+
+
+
+Footnote 1:
+
+  “Submarine Engineering of To-day.” By Charles W. Domville-Fife.
+  (London: Seeley, Service & Co. Ltd. 1914.)
+
+Footnote 2:
+
+  Sunk October, 1914.
+
+
+
+
+                              CHAPTER III
+
+                           FRENCH SUBMARINES
+
+
+France possessed 92 submarines in active service when war was declared.
+In addition to these, nine large and powerful vessels were in various
+stages of construction. The flotillas of the French Navy are composed of
+two different types of vessels: _Submarines Defensive_ and
+_Submersibles_. The former are intended, as their name implies, solely
+for coast and harbour defence; their radii of action is very small, and
+they are incapable of action independent of a naval base. The
+submersibles are like the large sea-going submarines of England and
+Germany, and have a wide radius of action, high speed, and great
+offensive power.
+
+The first naval submarine (_Gymnôte_) was launched in 1888, giving to
+France the honour of being the first Naval Power to adopt the submarine
+torpedo-boat as a vessel of war. The pioneers of submarine construction
+in France were Captain Burgeoise, Engineer Brun, M. Dupuy de Lome, M.
+Gustave Zédé, and Admiral Aube. The second submarine ordered for the
+French Navy was the _Gustave Zédé_, launched in 1893. So successful did
+this vessel prove that another of the same type, and named the _Morse_,
+was launched at Cherbourg Dockyard in 1899. In the same year four
+vessels of a new type were laid down in the dockyard at Rochefort, and
+named _Lutin_, _Farfâdet_ (re-named _Follet_), _Korrigan_, and _Gnôme_.
+These, with the exception of the ill-fated _Lutin_, are still in the
+active flotillas.
+
+
+                              LUTIN CLASS.
+
+                          (Completed 1901‒2.)
+
+                   _Follet_.  _Korrigan_.  _Gnôme_.
+
+These are the oldest submarines in the French Navy, and are all of the
+defensive type. They have a displacement of about 185 tons, with
+electric engines for propulsion both on the surface and when submerged.
+Their speed is 12 knots on the surface and 8 knots when submerged. Their
+range of action is about 200 miles at 7 knots. The armament consists of
+one bow tube and two holders, with four 18-inch Whitehead torpedoes. The
+complement is nine officers and men.
+
+[Illustration:
+
+ _Photos, M. Bar._]
+
+          A FRENCH SUBMARINE OF THE HARBOUR DEFENCE TYPE. (top)
+
+         A FRENCH SUBMARINE OF THE COAST DEFENCE TYPE.  (bottom)
+
+]
+
+
+                            FRANÇAISE CLASS.
+
+                          (Completed 1901‒2.)
+
+                       _Française._  _Algérien._
+
+These two vessels are of the improved _Morse_ type, and are intended
+solely for coast and harbour defence. Their surface displacement is 146
+tons, and they have electric engines of 350 H.-P. for both surface and
+submerged propulsion, giving them a speed of 12 knots and 8 knots an
+hour, respectively. Their surface radius is about 80 miles at 8 knots.
+They have one bow tube and two holders, with four torpedoes. The
+complement is nine officers and men.
+
+
+                            TRITON CLASS.[3]
+
+                          (Completed 1901‒2.)
+
+              _Triton._  _Sirene._  _Espadon._  _Silure._
+
+These four vessels were the first of the submersible type and were
+designed by M. Laubeuf, who has since designed many vessels for both
+France and other countries (_Laubeuf_ type). They have a submerged
+displacement of 200 tons, and are 111 feet long and 12 ½ feet in beam.
+Steam is used for surface propulsion (217 H.-P.) and electricity when
+submerged. Their speed is 11 knots on the surface and 8 knots when
+submerged, with a cruising radius of 600 miles at 8 knots. They are
+armed with four holders fitted with 18-inch Whitehead torpedoes, and
+have a complement of ten officers and men.
+
+
+                             NAIADE CLASS.
+
+                          (Completed 1902‒4.)
+
+     _Naiade._  _Loutre._  _Protée._  _Lynx._  _Perle._  _Truite._
+   _Castor._  _Oursin._  _Meduse._  _Otarie._  _Phoque._  _Ludion._
+  _Alose._  _Anguille._  _Grondin._  _Dorade._  _Souffleur._  _Thon._
+                        _Bonite._  _Esturgeon._
+
+Twenty small harbour defence submarines, having a displacement of about
+67 tons. They have petrol and electric motors, giving them a speed of
+8 ½ knots on the surface and 5 knots when submerged. Their armament
+consists of one bow tube and two holders; four torpedoes are carried.
+Their complement is six officers and men.
+
+
+                            AIGRETTE CLASS.
+
+                           (Completed 1904.)
+
+                        _Aigrette._  _Cicogne._
+
+These two vessels are submersibles of the _Laubeuf_ type, and were great
+improvements on their predecessors, the Triton Class. Their submerged
+displacement is 351 tons, and their dimensions 118 × 12 × 12 feet. A
+triple expansion steam engine of 200 H.-P. is used for surface
+propulsion and an electric motor of 150 H.-P. when submerged. Their
+speed is 10 knots and 8 ½ knots. Their maximum surface endurance is 700
+miles at 8 knots, and submerged 60 miles at 6 knots. Their armament
+consists of one bow tube with four 18-inch torpedoes. Their complement
+is about fifteen officers and men.
+
+
+                               ARGONAUTE.
+
+                           (Completed 1905.)
+
+A submersible designed by M. Bertin (late Chief Constructor French
+Navy). This vessel, which was first named _Omega_, has a displacement of
+about 300 tons. She is driven by steam and electricity, and has a speed
+of 11 knots and 9 knots. Her armament consists of two bow tubes and two
+holders, with six 18-inch Whitehead torpedoes. The complement is about
+seventeen officers and men.
+
+
+                            EMERAUDE CLASS.
+
+                          (Completed 1906‒8.)
+
+  _Emeraude._  _Saphir._  _Opale._  _Topaz._  _Rubis._  _Turquoise._
+
+These six vessels are of the _Maugas_ type and are sea-going submarines
+with a submerged displacement of over 400 tons. They have petrol and
+electric motors of 600 H.-P. and 450 H.-P., respectively. Their surface
+speed is 12 knots and submerged 8 ½ knots. Their surface cruising radius
+is just over 1,000 miles at economical speed. Their armament consists of
+two tubes and four holders with 8 torpedoes of the usual pattern. Their
+complement is seventeen officers and men.
+
+
+                              CIRCE CLASS.
+
+                           (Completed 1907.)
+
+                         _Circe._  _Calypso._
+
+These two vessels are of the _Laubeuf_ type, and are improvements on the
+_Aigrette_ class. They have a submerged displacement of about 450 tons
+and are 160 feet in length. They are driven by a steam engine of 440
+H.-P. (flash boiler and oil fuel) when on the surface, and by electric
+motors when submerged. Their speed is 11 knots and 8 knots; and the
+range of action 1,000 miles. Their armament comprises two tubes and four
+holders with eight torpedoes. The complement is 21 officers and men.
+
+
+                            PLUVIÔSE CLASS.
+
+                          (Completed 1907‒12.)
+
+     _Pluviôse._  _Nivôse._  _Ventôse._  _Messidor._  _Thermidor._
+    _Fructidor._  _Brumaire._  _Frimaire._  _Florèal._  _Prairial._
+                              _Germinal._
+
+Submarines of the _Laubeuf_ type with a submerged displacement of nearly
+600 tons. All built at Cherbourg. The _Brumaire_ and _Frimaire_ are
+driven by petrol motors of 700 H.-P. when cruising on the surface, but
+all the others have small steam turbines with a special type of
+flash-boiler. Electric motors are used for submerged propulsion. Their
+speed is 12 knots above and 9 knots below. The armament is seven 18-inch
+torpedoes. Their complement is 22 officers and men.
+
+
+                             FRESNEL CLASS.
+
+                          (Completed 1908‒12.)
+
+ _Fresnel._  _Berthelot._  _Papin._  _Monge._  _Ampère._  _Gay-Lussac._
+ _Cagnot._  _Faraday._  _Giffard._  _Montgolfier._  _Newton._  _Volta._
+  _Watt._  _Euler._  _Faucault._  _Franklin._  _Arago._  _Permouilli._
+              _Joule._  _Coulomb._  _Curie._  _Le Verrier._
+
+Twenty-two submarines of the largest sea-going _Laubeuf_ type. Only
+three of these are steam driven, the others using heavy-oil engines for
+surface propulsion. They are in all respects similar to vessels of the
+_Pluviôse_ class, and have a displacement of about 600 tons. Their speed
+is 12 knots above, and 9 knots below, and the armament seven 18-inch
+torpedoes. These vessels are fitted with stern as well as bow tubes.
+Their surface cruising range is over 2,000 miles.
+
+
+                           AMIRAL BOURGEOISE.
+
+                           (Completed 1912.)
+
+An experimental boat of the _Bourdelle_ type, built at Cherbourg. The
+submerged displacement is just under 800 tons and the length 190 feet.
+She is driven on the surface by heavy-oil engines of 1,600 H.-P., which
+give a speed of 15 knots. The electric motors for submerged propulsion
+are of 700 H.-P., giving a speed of 10 knots. The armament consists of
+seven 18-inch torpedoes, and the cruising range is 3,500 miles.
+
+
+                               ARCHIMÈDE.
+
+                           (Completed 1912.)
+
+Another experimental boat built at Cherbourg. The submerged displacement
+is about 810 tons, and the length and beam 212 feet and 22 feet
+respectively. Steam turbines are used for surface propulsion and
+electric motors when submerged. Her speed is 15 knots above and 10 knots
+below. The armament is seven 18-inch torpedoes, and the complement 24
+officers and men.
+
+[Illustration:
+
+ _Photo, M. Bar._]
+
+                A FRENCH SUBMARINE OF THE SEA-GOING TYPE.
+
+]
+
+
+                               MARIOTTE.
+
+                           (Completed 1912.)
+
+The third experimental boat, of the _Rodiquet_ type, built at Cherbourg.
+The displacement when submerged is 650 tons and the length about 200
+feet. Petrol motors of 1,500 H.-P. drive her at 15 knots an hour on the
+surface and electric motors of 550 H.-P. at 10 knots when submerged. Her
+radius of action is 3,000 miles, and her armament seven 18-inch
+torpedoes, which can be fired from both bow and stern tubes. The
+complement is about 25 officers and men.
+
+
+                             CHARLES BRUN.
+
+                           (Completed 1912.)
+
+The fourth experimental vessel, built at Cherbourg during 1909‒12. The
+submerged displacement is 450 tons and the length 145 feet. Steam
+turbines of 1,300 H.-P. drive her at 15 ½ knots an hour on the surface,
+and electric motors of 500 H.-P. at 10 knots when submerged. Her
+armament consists of six 18-inch torpedoes. The complement is 22
+officers and men.
+
+
+                            CLORINDE CLASS.
+
+                          (Completed 1913‒14.)
+
+    _Clorinde._  _Cornélie._  _Amphritrite._  _Astree._  _Artémis._
+   _Aréthuse._  _Atalante._  _Amaranthe._  _Ariane._  _Andromaque._
+
+These ten vessels are the very latest additions to the French Submarine
+flotillas. They have a submerged displacement of about 550 tons, a
+length of 177 feet and a beam of 16 feet. Heavy-oil engines of 1,300
+H.-P. give them a speed of 15 knots on the surface, and electric motors
+of 550 H.-P. enable them to travel at 9 ½ knots an hour when submerged.
+They carry eight torpedoes, and have a complement of 25 officers and
+men.
+
+
+                          GUSTAVE ZEDE CLASS.
+
+                          (Completed 1913‒14.)
+
+                      _Gustave Zede._  _Néréide._
+
+These two vessels are the largest submarines in the French flotillas.
+They have a submerged displacement of 1,000 tons, a length of 240 feet,
+and a beam of 20 feet. Heavy-oil engines give them a surface speed of 16
+knots and electric motors a submerged speed of 10 knots. Their armament
+consists of two bow and two stern tubes with eight 18-inch torpedoes.
+They are also equipped with two 14-pdr. quick-firing guns on high-angle,
+disappearing mountings. The cruising range is 4,000 miles, and the
+complement 27 officers and men.
+
+
+                             BELLONE CLASS.
+
+                           (Completed 1914.)
+
+                  _Bellone._  _Hermione._  _Gorgone._
+
+Fast sea-going submarines with a submerged displacement of 610 tons.
+They have heavy-oil engines of about 2,000 H.-P., which give them a
+surface speed of 17 ½ knots. Electric motors of 950 H.-P. drive them at
+12 knots when submerged. Their surface cruising range is 4,000 miles.
+Their armament consists of eight 18-inch torpedoes and two 14-pdr.
+quick-firing, high-angle guns. The complement is 30 officers and men.
+
+
+                      FRENCH SUBMARINES BUILDING.
+
+On the day when war was declared nine submarines were in the early
+stages of construction. The two most advanced of these were the _Diane_
+and _Daphne_. These vessels have a submerged displacement of about 800
+tons, and the anticipated speed is 18 knots and 10 knots. Their armament
+will consist of ten torpedoes and four 9-pdr. guns. The complement will
+be 30 officers and men.
+
+The other seven vessels are of the improved _Gustave Zede_ Class. They
+will have a submerged displacement of over 1,000 tons and a speed of 20
+knots on the surface and 12 knots when submerged. Their armament will
+consist of ten torpedoes and four 9-pdr. guns. The complement will be
+about 35 officers and men.
+
+
+
+Footnote 3:
+
+  The _Narval_, the first of this type, has been removed from the
+  effective list.
+
+
+
+
+                               CHAPTER IV
+
+                           RUSSIAN SUBMARINES
+
+
+The Imperial Russian Navy at the commencement of hostilities included 37
+submarines in active service, and 19 in various stages of construction.
+The composition and distribution of the submarine flotillas was as
+follows:—
+
+BALTIC FLOTILLA: 14 Submarines with depôt ships in commission, and 12
+vessels building. _Bases_: Kronstadt, Port Peter the Great (Reval) and
+Port Alexander III. (Libau) (ice free).
+
+BLACK SEA FLOTILLA: 11 Submarines with depôt ships in commission, and
+several new vessels building. _Bases_: Sevastopol and Nikolaieff.
+
+SIBERIAN FLOTILLA: 12 Submarines with depôt ships in commission, and 6
+vessels building. _Base_: Vladivostok.
+
+The first Russian naval submarine was completed at Kronstadt in 1902,
+and named the _Petr Kochka_. She was built in sections to facilitate
+transport over the Siberian Railway, being intended for the defence of
+Port Arthur, and had a surface displacement of only 20 tons. Her
+armament consisted of two holders, or Darzewiecki launching apparatus,
+containing two small Whitehead torpedoes. The maximum speed was 8 knots
+on the surface and 4 knots when submerged. The second submarine ordered
+for the Russian Navy was the _Delphin_, which foundered off Kronstadt,
+but was subsequently raised and is now used as a training ship for the
+submarine service. These two vessels have been removed from the active
+flotillas, but the third vessel to be built for the Russian Navy—the
+_Graf Cheremetieve_—is still in commission.
+
+
+                        GRAF CHEREMETIEVE CLASS.
+
+                          (Completed 1904‒5.)
+
+          _Graf Cheremetieve._  _Kasatka._  _Nalim._  _Skat._
+
+These are the oldest submarines in the Russian Navy, and are small
+vessels of the Holland-Bubnoff type. They have a submerged displacement
+of 200 tons. Petrol and electric engines drive them at 9 knots on the
+surface and 6 knots when submerged. Their armament consists of one bow
+torpedo tube and two exterior holders, with four 18-inch Whitehead
+torpedoes.
+
+
+                              OSTR CLASS.
+
+                          (Completed 1904‒6.)
+
+         _Ostr._  _Byts-chok._  _Kefal._  _Platus._  _Plotva._
+
+These five submarines are of the American Lake type. The _Ostr_ was
+originally the American Lake Co.’s boat _Protector_. They have a
+submerged displacement of 175 tons, are 65 feet in length and 11 feet in
+breadth. Have petrol engines of 250 H.-P. for surface propulsion and
+electric motors for use when submerged. Their speed is 11 knots above
+and 7 knots below. The surface cruising radius is 450 knots at full
+speed. The armament consists of two bow and one stern tube with four
+18-inch Whitehead torpedoes. The _special_ characteristics of the
+American Lake type will be seen on pages 119‒120.
+
+
+                               SOM CLASS.
+
+                          (Completed 1904‒6.)
+
+                          _Som._  _Shtshuka._
+
+These two vessels, which are of the Holland-Bubnoff type, have a
+submerged displacement of about 150 tons. Petrol and electric motors are
+used for surface and submerged propulsion, and the speed is 9 ½ knots
+and 7 knots, above and below, respectively. Their armament consists of
+two bow tubes with four 18-inch Whitehead torpedoes. Their complement is
+about fifteen officers and men.
+
+
+                            STERLIAD CLASS.
+
+                          (Completed 1905‒6.)
+
+                  _Sterliad._  _Bialuga._  _Peskar._
+
+These three vessels are also of the Holland-Bubnoff type. They have a
+submerged displacement of 150 tons. The petrol motors for surface
+propulsion are of 160 H.-P. The speed is 9 ½ knots and 7 knots, above
+and below, respectively. Their armament consist of two bow tubes with
+four 18-inch Whitehead torpedoes. Their complement is eleven to fifteen
+officers and men.
+
+
+                                  SIG.
+
+                           (Completed 1906.)
+
+A submarine of the Lake type; similar in almost every respect to vessels
+of the _Ostr_ class.
+
+
+                             MAKREL CLASS.
+
+                           (Completed 1907.)
+
+                          _Makrel._  _Okun._
+
+Two vessels of the _Improved_ Holland-Bubnoff type. They have a
+submerged displacement of about 200 tons. The petrol motors are of 300
+H.-P., and the electric engines of 150 H.-P. Their speed is 10 knots on
+the surface and 8 knots when submerged. They are fitted with two bow
+tubes and two stern _holders_, and carry six 18-inch Whitehead
+torpedoes. Their complement is fifteen officers and men.
+
+
+                             LOSSOS CLASS.
+
+                           (Completed 1907.)
+
+                          _Lossos._  _Ludak._
+
+Two somewhat smaller submarines of the Holland type. Intended either for
+the Black Sea or Far Eastern Flotilla. Similar to those of the
+_Sterliad_ class.
+
+
+                              KARP CLASS.
+
+                          (Completed 1907‒8.)
+
+                           _Karp._  _Karas._
+
+These two submarines are of the Germania, or Krupp type, and have a
+submerged displacement of 250 tons. They have Krupp-Nuremburg heavy-oil
+engines of 400 H.-P., and electric motors of 160 H.-P. Their speed on
+the surface is 12 knots, and 8 knots when submerged. The surface range
+of action is about 1,000 miles, and the submerged endurance about three
+hours at full speed. Their armament consists of two bow torpedo tubes
+and four torpedoes are carried. Their complement is fifteen officers and
+men.
+
+
+                            ALLIGATOR CLASS.
+
+                          (Completed 1908‒9.)
+
+            _Alligator._  _Kaiman._  _Drakon._  _Krokodil._
+
+Four submarines of the improved Lake type. They have a submerged
+displacement of 500 tons. Their speed is 15 knots on the surface and 10
+knots when submerged. They are fitted with two bow and two stern tubes,
+and carry six 18-inch Whitehead torpedoes. Their complement is seventeen
+officers and men. (See also page 96.)
+
+
+                             MINOGA CLASS.
+
+                           (Completed 1908.)
+
+                        _Minoga._  _Potschovy._
+
+Two small submarines of the Holland-Bubnoff type, which were built in
+sections to facilitate transport by rail. They have a submerged
+displacement of about 150 tons, and a speed of 12 knots and 9 knots,
+above and below, respectively. Their complement is eleven officers and
+men.
+
+
+                                 AKULA.
+
+                           (Completed 1909.)
+
+A large submarine of the Holland-Bubnoff type. Her displacement is about
+570 tons, and her speed 16 knots on the surface and 10 knots when
+submerged. The armament consists of two bow and one stern tube, with six
+18-inch Whitehead torpedoes. The complement is 20 officers and men.
+
+
+                            KASCHALOT CLASS.
+
+                          (Completed 1909‒12.)
+
+ _Kaschalot._  _Kit._  _Krab._  _Morsh._  _Narval._  _Nerpa._  _Tinlen._
+
+These seven vessels are among the most modern submarines in the Russian
+flotillas. They are of the Holland-Bubnoff type, and have a submerged
+displacement of about 500 tons. Heavy-oil engines of over 1,000 H.-P.
+drive them at a maximum surface speed of 16 knots, and electric motors
+of 550 H.-P. give them a submerged speed of just over 10 knots an hour.
+Their surface cruising range is about 3,000 miles. Their armament
+consists of two bow and one stern tube with six 18-inch Whitehead
+torpedoes. They are also fitted with a small, quick-firing, high-angle
+gun for defence against air-craft. Their complement is 21 officers and
+men.
+
+
+                      RUSSIAN SUBMARINES BUILDING.
+
+At the commencement of the war there were nineteen Russian submarines in
+course of construction. Very little information concerning these boats
+can be obtained, except that their submerged displacement ranges from
+800 to 1,500 tons, and their _anticipated_ surface speed is 20 knots.
+Some of the 800-ton vessels have already been completed, and the first
+twelve will be named: _Svitza_, _Leopard_, _Pantera_, _Ruis_, _Kaguar_,
+_Tiqr_, _Yaguar_, _Vepr_, _Wolk_, _Baro_, _Gepard_, and _Tur_. These
+vessels have a speed of 16 knots on the surface and 10 knots when
+submerged. Their complement is 25 officers and men.
+
+
+
+
+                               CHAPTER V
+
+                          JAPANESE SUBMARINES
+
+
+The Imperial Japanese Navy includes a submarine flotilla of seventeen
+vessels, all except two of which are of the British Holland or Vickers
+type. Japan commenced the construction of what is now a rapidly
+increasing and powerful flotilla in 1904 by the purchase of five
+elementary Holland boats. These, however, are still in the active
+flotilla and are designated Nos. 1‒5. They have a submerged displacement
+of 120 tons, and are 65 feet in length and 12 feet in beam. Petrol
+motors of 160 H.-P. drive them at 9 knots on the surface and electric
+motors of 70 H.-P. at 7 knots when submerged. Their armament consists of
+one bow expulsion tube with three 18-inch Whitehead torpedoes.
+
+
+                             NOS. 6 AND 7.
+
+                           (Completed 1906.)
+
+These two vessels were the first submarine boats to be built in Japan,
+but are of the same type as Nos. 1‒5, only larger and faster. They have
+a submerged displacement of 180 tons, a length of 100 feet and a beam of
+10 feet. The petrol engines are of 300 H.-P. and the electric motors of
+100 H.-P. The surface and submerged speed is 10 knots and 8 knots an
+hour, respectively. Their armament consists of one torpedo tube with
+three 18-inch Whitehead torpedoes.
+
+
+                             NOS. 8 AND 9.
+
+                          (Completed 1907‒8.)
+
+These two vessels are very similar to the British “C” class, and were
+built by Messrs. Vickers Ltd. They have a submerged displacement of 320
+tons; petrol motors of 600 H.-P., and a surface and submerged speed of
+13 knots and 8 knots an hour, respectively. Their armament consists of
+two bow tubes with four to six 18-inch Whitehead torpedoes. Their
+complement is sixteen officers and men.
+
+
+                              Nos. 10‒15.
+
+                          (Completed 1909‒12.)
+
+These six vessels are the same in almost every respect as the later “C”
+class of British submarines (pages 70‒71).
+
+
+                             Nos. 16‒17[4].
+
+                          (Completed 1912‒14.)
+
+These two vessels are of the _Schneider-Laubeuf_ or French type.
+(British “W” class.) Their submerged displacement is about 500 tons, and
+the horse-power of their surface engines 2,500. The surface and
+submerged speed is 18 knots and 9 knots respectively. Their armament
+consists of six torpedo tubes with eight _Schneider_ torpedoes. The
+complement is about 30 officers and men.
+
+The natural adroitness with which Japanese sailors manipulate
+complicated machinery, combined with their absolute fearlessness, make
+them ideal for torpedo work.
+
+
+
+Footnote 4:
+
+  It is very doubtful if these two boats were delivered before the
+  outbreak of war.
+
+
+
+
+                               CHAPTER VI
+
+                           GERMAN SUBMARINES
+
+
+On “The Day”—August 4th, 1914—Germany possessed 30 submarine
+torpedo-boats. These were divided into three flotillas, with their
+headquarters at Kiel, the largest and most modern vessels being attached
+to the Heligoland or North Sea Flotilla. During 1913, although 24
+submarines were stated as being in commission, only about 15 were
+actively employed, and these mostly in training reserves, the older
+boats being docked and modernized where possible. But during the year
+six new vessels were added to the flotilla and the _personnel_ of the
+submarine service was largely increased. At the same time the inspection
+of submarines was separated from that of the other torpedo-boats and a
+flag-officer was appointed as head of the submarine branch of the Naval
+Service, with headquarters at Kiel. Thus when the hour came for the
+great struggle which was to decide the mastery of the seas the whole
+German Flotilla of 30 vessels, _with a reserve of six new boats which
+had been secretly hurried forward and were rapidly nearing completion_,
+was ready to put to sea.
+
+The German Naval Law provided for the construction of 72 submarines by
+the end of 1917. All the vessels built up to the present time have been
+known as the “U” class and numbered in rotation. They are painted a
+brownish-grey colour and have high collier-like bows with massive
+armoured conning-towers and long superstructures amounting to narrow
+decks. They have all been built at either Kiel or Dantzig.
+
+Although the first submarine boats built for the German Navy were two
+vessels of the Nordenfeldt type, launched in 1890, they were never
+actively employed with the fleet and have long since been reduced to
+scrap-iron, and the first vessel which can now be reckoned as a fighting
+unit of the German torpedo-boat flotilla was a vessel designated the
+“U.1.” This was built at the Germania Shipyard, Kiel, and launched on
+August 30th, 1905. This was the forerunner of the “U” class, which in
+most of the essential features resembles the British Improved Holland
+type.
+
+
+                                  U.1.
+
+                           (Completed 1905.)
+
+This U.1 was built as an experimental boat by the famous firm of Krupps.
+She has a surface displacement of 197 tons, a submerged displacement of
+236 tons, and her heavy-oil surface engines are of 250 H.-P. The
+electric motors for submerged use develop just over 100 H.-P. The speed
+ranges from 10 knots an hour on the surface to 7 knots when submerged,
+and her surface range of action is about 700 to 800 miles. The armament
+consists of one bow torpedo tube and three (17.7) Schwartzkopf torpedoes
+are carried. The complement is nine officers and men.
+
+The trials of the U.1 extended over a period of a year and a half, and
+all proved remarkably satisfactory. During the tests which took place in
+Eckernforder Bay she succeeded, twice in succession, in torpedoing a
+moving target while travelling submerged at full speed.
+
+The uncertainty displayed for some years previous by the German Naval
+Authorities regarding the value of submarine boats gave place to a
+thorough sense of the important part these “mighty atoms” would play in
+future naval warfare, and to a strong determination that the German Navy
+should include a powerful submarine flotilla.
+
+
+                                U.2-U.8.
+
+                          (Completed 1907‒10.)
+
+These seven vessels were great improvements on the U.1. Their
+displacement is 210 tons on the surface and about 250 tons when
+submerged. They are fitted with Krupp-Nuremburg heavy-oil engines of 400
+H.-P. and electric motors of 160 H.-P. Their speed on the surface is 12
+knots and 8 knots when submerged. The surface range of action is 1,000
+miles and the submerged endurance about three hours at full speed. Their
+armament consists of two bow torpedo tubes and four torpedoes are
+carried. The complement is eleven officers and men.
+
+
+                              U.9-U.18.[5]
+
+                          (Completed 1910‒12.)
+
+These ten vessels are of increased size and power, their submerged
+displacement being 300 tons, and the horse-power of their heavy oil
+surface engines is 600. The electric motors develop 200 H.-P. The
+surface and submerged speeds are 13 knots and 8 knots respectively. The
+surface range of action is 1,500 miles, and the armament consists of two
+bow and one stern torpedo tube with five torpedoes. The U.13 and
+subsequent vessels of this class are provided with a quick-firing,
+high-angle gun for defence against aircraft, and have sleeping
+accommodation for the crew. They may be termed the first German
+sea-going submarines. Their complement is twenty officers and men.
+
+
+                             U.19 AND U.20.
+
+                          (Completed 1912‒13.)
+
+There are only two vessels in this class owing to the adoption of
+certain improvements with the aid of which a partly new type has been
+evolved. These two vessels have a displacement when submerged of 450
+tons. Their oil engines of 650 H.-P. give a speed of 13 ½ knots an hour
+on the surface, and their electric motors of 300 H.-P. give 8 knots an
+hour when submerged. Their surface range of action is 2,000 miles, and
+their armament consists of two bow and one stern torpedo tube with six
+torpedoes, and two 14-pdr. quick-firing, high-angle guns on disappearing
+mountings. The complement is seventeen officers and men.
+
+
+                               U.21-U.24.
+
+                          (Completed 1912‒13.)
+
+These four vessels are the first of the new type of large sea-going
+submarines for the German Navy. Their submerged displacement is 800
+tons. They are propelled on the surface by heavy-oil engines of 1,200
+H.-P., and when submerged by electric motors of 500 H.-P. Their speed
+above water is 14 knots an hour and below the surface 9 knots. The
+surface range of action is 3,000 miles and the submerged endurance 120
+miles at economical speed. Their armament consists of two bow and two
+stern torpedo tubes with eight torpedoes, and one 14-pdr. quick-firing
+gun and two 1-pdr. high-angle guns, all on disappearing mountings, for
+defence against hostile destroyers and aircraft. Their complement is
+twenty-five officers and men.
+
+
+                               U.25-U.30.
+
+                          (Completed 1913‒14.)
+
+These six vessels are the latest additions to the German submarine
+flotilla. They are vessels of 900 tons submerged displacement with
+heavy-oil engines of 2,000 H.-P., and electric motors of 900 H.-P. Their
+surface and submerged speed is 18 knots and 10 knots, respectively. The
+surface cruising range is 4,000 miles. Their armament consists of two
+bow and two stern torpedo tubes, with eight large size torpedoes, and,
+in addition, two 14-pdr. quick-firing guns and two 1-pdr. high-angle
+guns. They have wireless telegraphic apparatus on board, and are
+specially constructed with long superstructures and high _collier-like_
+bows to enable them to keep at sea in almost any weather. They are
+fitted with two or three periscopes, and also possess a small _look-out_
+cap on the top of the lofty conning-tower to facilitate an “awash”
+attack in the half-lights of dawn and dusk, when the periscope is almost
+useless. The conning-towers and decks are armoured. Their complement is
+30 to 35 officers and men.
+
+
+                               U.31-U.36.
+
+                              (Building.)
+
+These are the six vessels which are rapidly nearing completion, and
+which were in a much more advanced state, at the opening of hostilities,
+than was generally known in foreign naval circles. They are the same in
+almost every respect as the vessels U.25 to U.30. There is, however,
+another submarine being built for Germany of a totally different design.
+This is the F.I.A.T. or _Laurenti_ boat (Italian), laid down at the
+beginning of 1914. This vessel is very similar to the four “S” boats
+being built at Greenock for the British Navy.
+
+No German submarines have in the past been sent to any Colonial or
+oversea station. Therefore, the whole flotilla of 30 to 36 vessels was
+immediately available for operations in the North Sea and Baltic when
+war began. The _personnel_ of the whole torpedo service is very
+efficient, great attention having been paid to this branch of the Navy.
+The three German Submarine flotillas have their headquarters at Kiel,
+Wilhelmshaven, and Heligoland.
+
+
+
+Footnote 5:
+
+  The U.18 was sunk by a British patrol in November, 1914.
+
+
+
+
+                              CHAPTER VII
+
+                          AUSTRIAN SUBMARINES
+
+
+At the commencement of the War the Austro-Hungarian Navy included six
+submarines in the active flotilla and five others were being _completed_
+at the Germania Yard, Kiel, but it is doubtful if they had been
+delivered. In which event they must be added to the strength of the
+German flotilla. In addition to these, several larger vessels, mostly of
+the latest “U” or Krupp design, had been ordered, but were not expected
+to take their place in the active flotillas before the end of 1915.
+
+Austria commenced the formation of a submarine flotilla in 1908 by the
+acquisition of two vessels of the _Improved Holland type_ from Messrs.
+Vickers Ltd., and two others of the American _Lake type_. In the
+following year two more submarines were ordered, this time from Krupp’s
+Germania Yard. All these vessels were delivered during 1910, and
+Austria’s first submarine flotilla came into being.
+
+
+                              U.1 AND U.2.
+
+                           (Completed 1910.)
+
+These two vessels are of the American Lake type. They have a submerged
+displacement of 250 tons and petrol surface motors of 720 H.-P. Their
+speed is 12 knots on the surface and 8 knots when submerged. The
+armament consists of two bow and one stern torpedo tube. This type of
+submarine has three special features which distinguish it from all
+others. It is fitted with a kind of underframe and wheels, and is
+designed to travel in four different positions: (1) on the surface; (2)
+semi-submerged, with only a look-out cowl above water; (3) submerged,
+with nothing but the periscope showing; (4) totally submerged and
+running along the sea-bed on wheels, like a submarine motor car. It is
+drawn down from the surface to the sea-bed by an ingenious system of
+wire-hawsers and drop-weights, which can be released in the event of
+accident. A “diving chamber” enables members of the crew to don
+diving-dresses and leave the submarine when on the sea-bed, for the
+purpose of laying or destroying submerged mines. The Lake type of
+submarine is also used in the Russian Navy.[6]
+
+
+                              U.3 AND U.4.
+
+                           (Completed 1910.)
+
+These two vessels are of the Krupp design, and have a submerged
+displacement of 300 tons. The horse-power of their heavy-oil surface
+engines is 600. The electric motors develop 200 H.-P. The surface and
+submerged speeds are 13 knots and 8 knots respectively. The surface
+range of action is 1,500 miles, and the armament consists of two bow and
+one stern tube with five 18-inch torpedoes. Their complement is fifteen
+officers and men.
+
+
+                              U.5 AND U.6.
+
+                           (Completed 1910.)
+
+These are submarines of the Improved Holland type. Their submerged
+displacement is about 316 tons; length 135 feet, and beam 13 ½ feet. The
+horse-power of the petrol engines is 600 and that of the electric
+engines 189. The speed averages 12 knots on the surface and 8 knots when
+submerged. The surface cruising range is 1,300 knots at 10 knots an
+hour. Their armament consists of two bow tubes with four to six 18-inch
+Whitehead torpedoes. Their complement is sixteen officers and men.
+
+
+                               U.7-U.11.
+
+                  (Completed 1914. Delivery doubtful.)
+
+These five vessels are of the Krupp-Germania type, and are similar to
+those completed for the German Navy in 1912‒13. They are large sea-going
+submarines with a submerged displacement of 800 tons. They are propelled
+on the surface by heavy-oil engines of 1,200 H.-P., and when submerged,
+by electric motors of 500 H.-P. Their speed is 14 knots and 9 knots,
+above and below, respectively. The surface range of action is 3,000
+miles, and the submerged endurance 120 miles at economical speed.
+
+Their armament consists of two bow and two stern torpedo tubes, with
+eight torpedoes, and one 14-pdr. quick-firing gun and two 1-pdr.
+high-angle guns, for defence against hostile destroyers and air-craft.
+Their complement is twenty-five officers and men.
+
+One or two Austrian submarines are supposed to have been sunk by the
+Allied Fleet during the first few weeks of the war, but exactly which
+vessels they were is not known.
+
+Several other submarines have been ordered in foreign countries for the
+Austrian Navy, but cannot be delivered while the war lasts.
+
+
+            SUBMARINE FLOTILLAS OF NEUTRAL EUROPEAN POWERS.
+
+          COUNTRY. │    VESSELS BUILT.   │ VESSELS BUILDING.
+         ──────────┬─────────────────────┬────────────────────
+         Italy     │ 20 (100‒300 tons)   │ 8 (large size)
+         Denmark   │  9 (100‒300 tons)   │ several
+         Holland   │  6 (100‒300 tons)   │ 4 (large)
+         Sweden    │  7 (150‒300 tons)   │ 3 (large)
+         Greece    │  2 (Laubeuf)        │     ――
+         Norway    │  1    ――            │ 4 (Germania)
+         Portugal  │  1    ――            │ 3   ――
+         Turkey    │ ――                  │ 3   ――
+         Spain     │ ――                  │ 3   ――
+         ──────────┴─────────────────────┴────────────────────
+
+
+
+Footnote 6:
+
+  “Submarine Engineering of To-day.” By Charles W. Domville-Fife.
+  (London: Seeley, Service & Co. Ltd. 1914).
+
+
+
+
+                              CHAPTER VIII
+
+                          SUBMARINES IN ACTION
+
+
+Submarines have two great advantages over all types of surface warships;
+they can become invisible at will—or sufficiently invisible to make gun
+or torpedo-practice, except at very close quarters, almost entirely
+useless—and they can, by sinking, cover themselves with armour-plate of
+sufficient thickness to be absolutely shell-proof. These are the two
+main points in favour of the submarine. There are, however, many minor
+features. Although submarines are known in the naval services as
+“daylight torpedo-boats,” for their _greatest_ value lies in their
+ability to perform the same task in the “light” as the ordinary surface
+torpedo-boats and destroyers can do under cover of darkness or fog—that
+of creeping up close to an enemy, and launching a torpedo
+unobserved—they have been given, during recent years, so much greater
+speed, armament, and range of action, that they can no longer be looked
+upon as small boats just suitable for daylight torpedo attack in
+favourable circumstances. Their surface speed has been increased from 10
+to 20 knots, making them almost as fast as the surface torpedo-boat.
+This, combined with manœuvering powers and general above-water
+invisibility, has enabled them to take over the duty of the surface
+torpedo-boat—that of delivering night-attacks on the surface. After
+nightfall a submarine attack is almost impossible owing to the
+periscope—the eyes of the submarine—being useless in the dark.
+
+The increase in the armament of the submarine—from the single bow
+torpedo tube with two torpedoes of short range and weak explosive
+charge, to the four bow and two stern tubes with eight or ten torpedoes
+of long range and high explosive charge—has greatly increased their
+chances of successful attack on surface warships, first, by giving them
+four or six shots ahead, then the possibility, in the event of all these
+torpedoes missing, of a dive under the object of attack, and two more
+shots at close range from the stern tubes (still retaining two
+torpedoes); and, secondly, by increasing the distance from which the
+first projectile can be launched, owing to the increased range of the
+modern torpedo. There are also the advantages derived from the battery
+of quick-firing guns installed on the decks of modern submarines.
+Although at the present time these guns are only of small power they
+nevertheless afford a means of defence—and even of attack under
+favourable circumstances—against hostile surface torpedo-boats,
+destroyers, and air-craft. In fact, a flotilla of submarines could
+undoubtedly now give a very good account of itself if attacked either on
+the surface or when submerged by one or two prowling destroyers. The
+increase in the power of the guns carried by submarines, which will
+certainly come soon, will enable this type of craft to take up the
+additional duties of the destroyer—that of clearing the seas of hostile
+torpedo-boats and carrying out advanced scouting—for which work their
+ability to travel submerged and in a state of invisibility for distances
+of over 100 miles makes them eminently suitable.
+
+The enormous increase in the size and range of action of submarines,
+combined with the improvements effected in the surface cruising
+qualities, have enabled these vessels to be taken from the “nursery” of
+harbour and coast defence and placed with the sea-going flotillas and
+battle-fleets. In the short period of ten years the tonnage of
+submarines has risen from 100 to over 1,000 tons, and the range of
+action from 400 miles at economical speed to 5,000 miles. Exactly what
+this means is more easily realized when it is stated that the earlier
+types of submarines could scarcely cross the English Channel and return
+without taking in supplies of fuel, and in rough weather were forced to
+remain in harbour, whereas the modern vessel can go from England to
+Newfoundland _and back_ without assistance, and can remain at sea in
+almost any weather, as was first demonstrated by the successful voyage
+of the British submarines A.E.1 and A.E.2 to Australia, and has since
+been proved by the operations of the British submarine flotilla in the
+North Sea.
+
+In addition to the cruising range there is, however, the question of
+habitability. In this respect the progress has been equally as rapid. In
+the older boats no sleeping accommodation was provided for the crew, and
+food supplies and fresh water sufficient only for a few days were
+carried. In the latest British, French and German vessels proper
+sleeping and messing accommodation is provided, and supplies of all
+kinds and in sufficient quantity to last a month are carried. Although
+work on these craft is still very cramping for the crew, the increase in
+the deck space and in the surface buoyancy has greatly minimised the
+discomforts of service in the submarine flotilla.
+
+With regard to safety, it has already been shown that a submarine is
+only held below the surface by the power of her engines and the action
+of the water on her diving-rudders. This means that in the event of
+anything going wrong _inside_ the vessel she would automatically rise to
+the surface; but should the hull be pierced in any way, either by shot
+or by collision, and an overwhelming inrush of water result—overcoming
+the buoyancy quickly obtained by blowing out the water-ballast
+tanks—then the vessel must inevitably sink, and the question of whether
+or not the crew can save themselves becomes a problem to which no
+definite answer can be given, although a special means is provided in
+all modern vessels belonging to the British Navy. Speaking generally, it
+may, however, be said that if the disaster occurs suddenly, and the
+vessel sinks into very deep water rapidly, the chances of life-saving
+are extremely small; but if the water is comparatively shallow, as along
+the coast (100 to 150 feet), the likelihood of many of the crew being
+able to save themselves with the aid of the _special escape helmets and
+air-locks_ is fairly good.
+
+We now come to the most important improvement made in the fighting
+qualities of these vessels since first they came into being, viz. the
+wonderful increase in the surface and submerged speed. In the older
+craft the surface speed did not exceed 8 to 10 knots an hour, whereas it
+now amounts to 16 to 20 knots, and the submerged speed has risen from 5
+knots to 10 to 12 knots. It is a little difficult for any but a naval
+man to realize exactly what this increase in the speed of submarines
+really means, and it is equally as difficult to adequately describe it
+here in non-technical language. It is a mere platitude to say that in
+order to attack a surface warship the submarine must first get within
+torpedo range of it; and yet it is on this very point that the strategy
+and tactics of submarine warfare revolve. A clever naval tactician once
+described the submarine as a “handicapped torpedo-boat.” The two points
+on which he based this opinion were—the (then) slow speed of these
+vessels compared with that of the surface warship, and its almost total
+blindness when submerged. These two defects were for some years the
+principal drawbacks of all the submarines afloat; but since that naval
+expert pronounced submarines to be “handicapped torpedo-boats,” great
+changes, great improvements have been made. The speed of the submarine
+has increased by over 100 per cent., and they have been given longer and
+wider range of vision by the introduction of two and three improved
+periscopes instead of one elementary instrument. Nevertheless, the speed
+difficulty is still a very real one, as will readily be seen when it is
+taken into consideration that the speed of a submarine when attacking
+submerged is frequently only half, or even a third, of that of her
+enemy. In order to more clearly illustrate this and lift for a moment
+the veil of secrecy which enshrouds the methods of attack adopted by
+this type of craft, it will be necessary to describe what is known as
+the_ right-angle attack_.
+
+
+                       ATTACKING AT RIGHT ANGLES.
+
+The difficulty of attacking a surface warship steaming at right angles
+to the course of the submarine will be clearly understood by referring
+to the following diagrams. The first shows an attack on a warship
+travelling at 20 miles an hour, such as a big battleship or a cruiser
+Any increase in the speed of the surface vessel not only adds to the
+difficulty of the attacking submarine, but also the direction from which
+the attack must be made. This feature is shown in the second diagram,
+which illustrates a submarine attack on a vessel steaming at 30 miles an
+hour, such as a fast destroyer or fleet scout. On the other hand, a
+decrease in the speed of the on-coming surface vessel tends to either
+make easier the task of the attacking submarine, or else to increase the
+distance from which the attack can be delivered. This is shown in the
+third diagram, which assumes the speed of the surface vessel to be only
+15 miles an hour, such as a merchantman, troopship, food-ship, collier,
+or old warship.
+
+[Illustration:
+
+  RIGHT-ANGLE ATTACK BY SUBMARINES.
+]
+
+FIG. 1 represents a submarine attacking a hostile warship (or fleet)
+steaming at 20 (statute) miles an hour. “A” is the line of vision. The
+submarine sights the warship at a distance of just over 11 miles on her
+port bow. “B” shows the hostile vessel’s course, which is 10 miles to
+point marked “C,” and each division beyond equals 1 mile.
+
+Directly the submarine, which is assumed to be lying in an _awash
+condition_, sights the object of attack, she totally submerges and
+steers forward at a speed of 10 miles an hour. The loss, and gain, of
+the submarine on the different courses, can be seen in the table above
+the chart.[7]
+
+The spaces between the black dots show the most favourable points of
+attack. It will be noticed in the table that both vessels are equal at
+point “C,” but for many reasons this is not the best point of attack.
+The gain of about six minutes on the longer course enables the submarine
+not only to manœuvre into the best possible position for the attack, but
+also to discharge more than one torpedo if necessary.
+
+FIG. 2 shows the extreme limit at which a submarine could, with
+reasonable chances of success, attack a destroyer, or other vessel,
+steaming at 30 (statute) miles an hour, having sighted her at a distance
+of 16 miles in the position shown by the line of vision “A.”
+
+The distance to “C” is 15 miles for the surface vessel, and 5 miles for
+the submarine. Here, again, the two vessels would be equal; but the most
+favourable point of attack is shown by the two black dots—where the
+submarine has gained two minutes.
+
+FIG. 3.—The submarine sights the object of attack at a distance of 14 ¼
+miles, in the position shown by the line of vision “A.” The surface
+vessel has a speed of only 15 miles an hour (merchantman). In this case
+the surface vessel accomplishes the 10-mile journey along course
+“B”—arriving at point “C” 20 minutes in advance of the submarine. The
+table shows how the submarine, by changing her course and “throwing” the
+surface vessel on her beam, gradually reduces the loss, until, at the
+point marked with the two black dots, she is but 4 ½ minutes behind. At
+this distance she could fire her torpedoes at long range, with some
+likelihood of success.
+
+Although these charts show approximately the extreme limits of the
+right-angle attack, a submarine could, of course, proceed for some
+distance on the surface at a much faster speed; but considering the rate
+at which the two vessels would be approaching each other, the submarine
+which attempted it would run considerable risk of being detected, and
+thus destroy her chances of a successful attack. Considering also the
+time lost in sinking from the “light” to the totally submerged
+condition, in coming to close quarters, the gain in speed would not
+amount to as much as may at first seem probable.[8]
+
+These charts are drawn and calculations made assuming the following
+points:—
+
+ (1)  The weather—fine and bright.
+
+ (2)  Not taking into consideration strong tides, currents, etc.
+
+ (3)  The enemy on the alert.
+
+ (4)  Submarine waits at point “D” in an awash condition.
+
+ (5)  Owing to 1, 2, and 3 above, the submarine travels from point “D”
+        in all courses in a submerged condition.
+
+The most favourable position for a submarine flotilla is to manœuvre
+close up to a fleet at anchor, or to get within 1,000 yards of a
+fleet—steaming across its course; but both of these ideal positions for
+attack are extremely difficult to obtain, and consequently in all the
+less favourable positions speed is the deciding factor. Strategems will
+undoubtedly play an important part in submarine warfare. An example of
+this has already been afforded when the German submarines resorted to
+the dishonest trick of laying in wait behind a trawler engaged in laying
+mines, over which _the flag of a neutral state_ had been hoisted as a
+blind. This resulted in the loss of three British cruisers with over
+1,000 lives. It would, however, be quite in accord with the rules of
+_civilised_ warfare for a submarine to shelter behind a “decoy”; to
+attack simultaneously with a seaplane; or to approach an enemy behind
+one of its own merchant ships.
+
+
+                           THE PORPOISE DIVE.
+
+The manœuvre known as the “Porpoise Dive” is merely the sudden rising of
+a submarine in order to enable her commander to get a better view of the
+surface than that afforded by the periscope. The submarine on
+approaching the object of attack rises quickly to the surface by the
+action of her horizontal rudders, then dives again, only remaining above
+water for a few seconds to enable her commander to get a glimpse of the
+enemy, and to take bearings. The submarine can then get within
+torpedo-range, with simply the tiny periscope projecting from the
+surface. This manœuvre is now seldom necessary, owing to the long and
+wide range of vision of the two or three periscopes fitted in modern
+submarines.
+
+
+                 DIFFICULTY OF THE FIXED TORPEDO TUBE.
+
+With the exception of one or two vessels, which it would be unwise to
+specify, all the submarines engaged in the present war have what are
+called _fixed submerged tubes_. This means that the tubes from which the
+torpedoes are discharged are fitted _inside_ the submarine _on a line
+with the centre of the boat_, and cannot be moved or aimed in any way
+apart from the boat itself. It therefore becomes necessary for the
+submarine to be _aligned_ by the steering rudders on the object of
+attack before the torpedoes can be discharged. In simpler vein,
+torpedoes can only be fired by a submarine straight ahead or straight
+astern. Hence a submarine, with a hostile warship coming up on its beam,
+is compelled to turn and face its opponent (or turn its stern towards
+her) before delivering an attack.
+
+
+                 SUBMARINE FLOTILLA _v._ SURFACE FLEET.
+
+It is absolutely necessary for submarines acting in company to have each
+its allotted task; and for a wide space of water to be left between each
+boat; as it is impossible, at present, for one submarine to know the
+exact position of another when both vessels are submerged. Therefore, if
+each boat was not previously instructed how to act, there would not only
+be the likelihood of the greater portion of an attacking flotilla firing
+their torpedoes at one or two vessels of the hostile fleet and allowing
+the remainder either to escape or to keep up a heavy and dangerous fire
+unmolested, but also of collision and of torpedoeing each other by
+accident. There is no means of inter-communication between submarines
+when submerged, and a battle between submarines is almost impossible.
+
+
+                            SURPRISE ATTACK.
+
+In this case invisibility is the element of success. Admiral Sir Cyprian
+Bridge, G.C.B., in a letter to the Author once said: “When submerged the
+concealment of the submarine is practically perfect. If she has not been
+sighted up to the moment of diving, she will almost certainly reach,
+unobserved, the point at which she can make her attack.” And this
+opinion—shared for many years by all experts—has been amply proved in
+the present war.
+
+A submarine must, however, blend with the surrounding sea in its
+ever-varying colours, lights and shades, in order that she may be as
+invisible as possible when cruising on the surface. The French Naval
+Authorities experimented off Toulon with a luminous paint of a sea-green
+colour; but this, although causing the hull to be almost totally
+invisible in certain weather, was found to be useless, as, on a bright
+day with a blue sky, the green showed up clear against the bluish tint
+of the surrounding sea. After many months of experimenting, a pale,
+sea-green, non-luminous paint was chosen as the best colour for French
+submarines. The British Admiralty also carried out a few experiments in
+this direction, and came to the conclusion that a dull grey was the most
+invisible shade. The German authorities decided in favour of a
+grey-brown.
+
+When travelling submerged, with only the thin periscopic tube above the
+surface, it is almost impossible to detect the approach of a submarine
+_before_ she gets within torpedo range; and when cruising on the surface
+she is equally as invisible at a distance of a few miles. These
+qualities enable the submarine in nearly all cases where her speed
+permits, to effect a surprise attack on a hostile battleship or cruiser
+_when not closely screened by fast destroyers_, whose duty it is to be
+ever on the watch for submarines.
+
+As to the tactics which would be employed by a submarine (or flotilla)
+in attacking a hostile warship (or fleet), it is impossible to say, for,
+like the impromptu attacks of all “mosquito craft,” the exact method, or
+manœuvre, is arranged to suit the circumstances, and it is very seldom
+that two such attacks are carried out alike. Generally speaking,
+however, a hostile warship could be easily sighted, on a fairly clear
+day, from the flying-bridge of a submarine at a distance of 10 miles;
+but it would be practically impossible to detect the submarine from the
+deck of a warship at that distance. On sighting her object of attack the
+submarine would sink to the “awash” condition, and proceed for from 2 ½
+to 5 miles, as might be deemed expedient. She would then submerge and
+steer by her periscopes, each of which has a field of vision of 60
+degrees. He would be a very keen look-out who would be able to detect
+the few square inches of periscopic tube at a distance of three miles.
+As this distance lessened, it might be advisable, if the sea was _very_
+calm and if the object of attack was stationary, for the submarine to
+slacken speed, so as to prevent any spray being thrown off by the
+periscopic tube. Assuming, however, that the optical tube was seen by
+the enemy, it would be extremely difficult to hit it with gun-fire at a
+distance of one or two miles, or to damage the boat itself, which would
+probably be immersed to a depth of 12 or 15 feet. At a distance of about
+2,000 yards, or just over one mile, the submarine would discharge her
+first torpedo, following it up with another at closer range from the
+second bow tube. A rapid dive would then probably be necessary in order
+to avoid the hail of shot which would plough up the waters around her.
+If the first two torpedoes missed their mark the submarine might either
+dive completely under the object of attack and then fire her stern tubes
+at close range, or else manœuvre below the surface for an attack from
+some other point.
+
+One of the effects produced on fleets or individual warships in war time
+by the ever present possibility of submarine attack is, however, that
+they never remain at anchor or even stationary in an exposed position,
+and seldom—if wise—proceed without destroyers as advance and flank
+guards. These precautions double the difficulties of a successful
+submarine attack.
+
+
+
+Footnote 7:
+
+  As it is almost impossible for a submarine, when totally submerged, to
+  steer a _perfectly_ straight course, the table above each chart shows
+  the approximate average loss and gain on each mile. It must also be
+  remembered that the submarine in actual practice need only reach the
+  torpedo firing line.
+
+Footnote 8:
+
+  “Submarines of the World’s Navies.” By Charles W. Domville-Fife.
+  (London: Francis Griffiths.)
+
+
+
+
+                               CHAPTER IX
+
+                         ANTI-SUBMARINE TACTICS
+
+
+In all warfare, new weapons of attack are, sooner or later, met by new
+methods of defence. The submarine and the aeroplane are at present the
+only weapons against which there is no true means of defence, and yet
+one is being used as an antidote for the other without, however, any
+very striking success so far. The seaplane may be able to distinguish
+the dark patch in the sea caused by the hull of the submarine _in clear
+water_, but she cannot destroy it, neither can she signal the _exact_
+locality to an accompanying destroyer flotilla, owing to the speed with
+which seaplane and submarine pass over and under each other;
+furthermore, in rough weather or in shallow muddy water no sign of the
+submarine when submerged is visible from above. The great value of the
+seaplane as an antidote for submarines lies, however, first in the fact
+that the water of the open sea is usually clear, and the _submarine
+shadow_ is visible from above, and, secondly, in the great speed of
+these aircraft which enables them to quickly cover miles of sea in their
+search for hostile submarines and to report their presence in a given
+locality by wireless to all ships operating within range.
+
+When the enormous superficial area of a zone of war, such as the North
+Sea and English Channel, is duly considered, however, the difficulty in
+quickly and reliably locating from the air the few scattered “submarine
+shadows” will be easily realized. To make this method of locating
+submarines even fairly reliable an enormous fleet of seaplanes would be
+required. Again seaplanes do not, in themselves, constitute a means of
+defence against submarine attack, they merely increase the likelihood of
+detection, but, in actual warfare, it has now been proved that for every
+submarine detected by seaplanes two others pass quite unobserved.
+
+Many means of attack on submarines have been proposed; and no doubt some
+of these, in certain cases, would prove effective; but none can be
+relied upon. Therefore, one of the points in favour of the submarine
+still remains without its antidote. This is the _moral effect_; for if
+there is no absolutely reliable means of defence, there can be no
+feeling of security for surface warships or merchant vessels when
+anywhere within the danger zone of the submarine.
+
+Let us now examine briefly what practical methods of defence a modern
+warship has against submarine attacks. Great speed is undoubtedly a
+surface ship’s most reliable defence; and when combined with a frequent
+change of course, would greatly reduce the chances of a successful
+under-water attack. Should hostile submarines be on the line of advance
+they would not know whether to wait and chance the enemy approaching
+within torpedo range or whether to run to starboard or port. This is, if
+the surface warship was steaming in an erratic course—not a zigzag
+course, for then it might be possible to estimate, within torpedo range,
+the position of the ship at a given point if the “tacks” were regular.
+
+Should submarines be seen approaching, a surface vessel would do well to
+turn her stern to the attacking flotilla, presenting as small a target
+as possible, and deflecting the torpedoes by her propeller race.
+
+The escape of the Battle Cruiser _Queen Mary_ and the Light Cruiser
+_Lowestoft_, during the action in the Heligoland Bight, as described in
+the dispatch of Vice-Admiral Sir David Beatty, K.C.B., demonstrates what
+may be done by the skilful use of the helm on surface warships to
+frustrate submarine attacks. So interesting, and informative as to the
+actual fighting between British warships and hostile submarines, in this
+dispatch that I give it here in full. It should, however, be studied in
+conjunction with the comprehensive report—the first in the history of
+Naval warfare detailing submarine attack and reconnaissance—from
+Commodore Roger J. B. Keyes, C.B., of the British submarines, given on
+page 28.
+
+                                                   “H.M.S. _Lion_,
+                                                _1st September, 1914_.
+
+ “SIR,—I have the honour to report that on Thursday, 27th August, at 5
+ a.m., I proceeded with the First Battle Cruiser Squadron and First
+ Light Cruiser Squadron in company, to rendezvous with the
+ Rear-Admiral, _Invincible_.
+
+ “At 4 a.m., 28th August, the movements of the Flotillas commenced as
+ previously arranged, the Battle Cruiser Squadron and Light Cruiser
+ Squadron supporting. The Rear-Admiral, _Invincible_, with _New
+ Zealand_ and four Destroyers having joined my flag, the Squadron
+ passed through the pre-arranged rendezvous.
+
+ “At 8.10 a.m. I received a signal from the Commodore (T), informing me
+ that the Flotilla was in action with the enemy. This was presumably in
+ the vicinity of their pre-arranged rendezvous. From this time until 11
+ a.m. I remained about the vicinity ready to support as necessary,
+ intercepting various signals, which contained no information on which
+ I could act.
+
+ “At 11 a.m. the Squadron was attacked by three Submarines. The attack
+ was frustrated by rapid manœuvring and the four Destroyers were
+ ordered to attack them. Shortly after 11 a.m., various signals having
+ been received indicating that the Commodore (T) and Commodore (S) were
+ both in need of assistance, I ordered the Light Cruiser Squadron to
+ support the Torpedo Flotillas.
+
+ “Later I received a signal from the Commodore (T), stating that he was
+ being attacked by a large Cruiser, and a further signal informing me
+ that he was being hard pressed and asking for assistance. The Captain
+ (D), First Flotilla, also signalled that he was in need of help.
+
+ “From the foregoing the situation appeared to me critical. The
+ Flotillas had advanced only ten miles since 8 a.m., and were only
+ about twenty-five miles from two enemy bases on their flank and rear
+ respectively. Commodore Goodenough had detached two of his Light
+ Cruisers to assist some Destroyers earlier in the day, and these had
+ not yet rejoined. (They rejoined at 2.30 p.m.). As the reports
+ indicated the presence of many enemy ships—one a large Cruiser—I
+ considered that his force might not be strong enough to deal with the
+ situation sufficiently rapidly, so at 11.30 a.m. the Battle Cruisers
+ turned to E.S.E., and worked up to full speed. It was evident that to
+ be of any value the support must be overwhelming and carried out at
+ the highest speed possible.
+
+ “I had not lost sight of the risk of Submarines, and possible sortie
+ in force from the enemy’s base, especially in view of the mist to the
+ South-East.
+
+ “Our high speed, however, made submarine attack difficult, and the
+ smoothness of the sea made their detection comparatively easy. I
+ considered that we were powerful enough to deal with any sortie except
+ by a Battle Squadron, which was unlikely to come out in time, provided
+ our stroke was sufficiently rapid.
+
+ “At 12.15 p.m. _Fearless_ and First Flotilla were sighted retiring
+ West. At the same time the Light Cruiser Squadron was observed to be
+ engaging an enemy ship ahead. They appeared to have her beat.
+
+ “I then steered N.E. to sounds of firing ahead, and at 12.30 p.m.
+ sighted _Arethusa_ and Third Flotilla retiring to the Westward
+ engaging a Cruiser of the _Kolberg_ class on our Port Bow. I steered
+ to cut her off from Heligoland, and at 12.37 p.m. opened fire. At
+ 12.42 the enemy turned to N.E., and we chased at 27 knots.
+
+ “At 12.56 p.m. sighted and engaged a two-funnelled Cruiser ahead.
+ _Lion_ fired two salvoes at her, which took effect, and she
+ disappeared into the mist, burning furiously and in a sinking
+ condition. In view of the mist and that she was steering at high speed
+ at right angles to _Lion_, who was herself steaming at 28 knots, the
+ _Lion’s_ firing was very creditable.
+
+ “Our Destroyers had reported the presence of floating mines to the
+ Eastward and I considered it inadvisable to pursue her. It was also
+ essential that the Squadrons should remain concentrated, and I
+ accordingly ordered a withdrawal. The Battle Cruisers turned North and
+ circled to port to complete the destruction of the vessel first
+ engaged. She was sighted again at 1.25 p.m. steaming S.E. with colours
+ still flying. _Lion_ opened fire with two turrets, and at 1.35 p.m.,
+ after receiving two salvoes, she sank.
+
+ “The four attached Destroyers were sent to pick up survivors, but I
+ deeply regret that they subsequently reported that they searched the
+ area but found none.
+
+ “At 1.40 p.m. the Battle Cruisers turned to the Northward, and _Queen
+ Mary_ was again attacked by a Submarine. The attack was avoided by the
+ use of the helm. _Lowestoft_ was also unsuccessfully attacked. The
+ Battle Cruisers covered the retirement until nightfall. By 6 p.m., the
+ retirement having been well executed and all Destroyers accounted for,
+ I altered course, spread the Light Cruisers, and swept northwards in
+ accordance with the Commander-in-Chief’s orders. At 7.45 p.m. I
+ detached _Liverpool_ to Rosyth with German prisoners, seven officers
+ and 79 men, survivors from _Mainz_. No further incident occurred.—I
+ have the honour to be, Sir, your obedient Servant.
+
+                                            “(Signed) DAVID BEATTY,
+                                                         “Vice-Admiral.
+                                  “The Secretary of the Admiralty.”
+
+Quick-firing guns of the 3-inch and 6-inch type are certainly the best
+weapons for an attack on submarines. In combination with “sharp
+look-outs,” they could be used with effect from the elevated positions
+on the fore part of warships. The periscopic-tube of the submarine
+always proves a target for gun-fire; but a grey steel tube, 3 inches in
+diameter, at a distance of 1,000 yards requires “excellent” marksmanship
+to hit. That it can be done is proved by the sinking of the German
+submarine U.15 by the British Cruiser _Birmingham_ in the North Sea. The
+effect of a shot carrying away the periscope is to blind the submarine,
+at least in one eye, she can then be _run-down_ by the surface warship
+or destroyed by rapid gun-fire at close range.
+
+Of course, if submarines were caught napping on the surface the guns of
+surface warships could quickly sink them; but another incident, similar
+to that which opened the naval engagements of the Russo-Japanese War,
+cannot be looked for in the naval engagements to come.
+
+For a fleet engaged in bombarding or blockading, one of the best methods
+of defence would be to lower the torpedo nets, not close round each
+vessel, but suspended from “picket-boats” at a distance from the
+bombarding or blockading fleet. “Picketing” is also considered a good
+defence during daylight, but neither of these methods are reliable. A
+submarine might be able to dive unobserved under, or past, the
+destroyers acting as pickets, and it is this chance which causes these
+under-water craft to be a source of constant anxiety.
+
+The torpedo-boat destroyer should prove a nasty enemy to the submarine.
+In warfare it is the duty of these 30-knot vessels to look after their
+under-water opponents.
+
+It has been suggested that internal armour could be fitted to warships
+below the water-line, which would render the hulls able to withstand
+mine or torpedo explosions. At present this is practically impossible,
+as the great weight of this additional armour, combined with the
+ever-increasing size of guns and weight of above-water protection, would
+necessitate a vessel of such enormous displacement as to be quite
+impossible, if the important factor—high speed—has also to be
+maintained.
+
+The defence of harbours against submarines is a problem which does not
+present nearly so many difficulties as the defence of moving ships.
+Portsmouth, for example, is closed by means of a submarine boom-defence,
+which is stretched across the mouth of the harbour. The entrance to the
+River Elbe (leading to the Kaiser Wilhelm Canal) is effectively closed
+to British submarines by boom-defences, mines, and submerged wire
+entanglements. Narrow waterways, such as the Straits of Dover, can be
+closed by the laying of contact-mines, and even broader seas can be made
+dangerous to submarines by the same method. An example of this is
+afforded by the laying of a British mine-field somewhere between the
+Goodwin Sands and the Dutch Coast, to prevent German submarines from
+penetrating into the English Channel.
+
+There are so many reliable means of defending harbours and narrow
+waterways against submarines that it is unnecessary to say anything
+further here. But to protect moving ships at sea, under all conditions,
+certainly presents a most profound puzzle.
+
+
+
+
+                               CHAPTER X
+
+                         THE SUBMARINE TORPEDO
+
+
+The submarine torpedo has become one of the principal naval arms. Not
+only does it supply the chief offensive power of the submarine, the
+torpedo-boat and the destroyer, but it is also carried as a separate
+arm, with a special highly-trained crew, by almost every warship afloat.
+At the beginning of hostilities the Naval Powers engaged owned
+considerably over 80,000 of these weapons, and _one_ factory in England
+alone can make them at the rate of two a day. During the first few weeks
+of the _Great War_ the torpedo was responsible for the sinking of
+warships to the value of over one million sterling. Had the German Fleet
+been on the high seas instead of in harbour and protected from torpedo
+raids by carefully-prepared submarine defences, there is little doubt
+but what several more of the enemy’s ships would have been sunk by this
+weapon. The fact that at first the British light cruisers suffered
+rather heavily—though in total loss of ships and men less than the
+German Navy—does not point to any advantage derived either from the type
+of torpedo used or from skill in this mode of warfare possessed by the
+Germans, but clearly to the timidity of the German main fleet, which was
+at the very beginning of hostilities withdrawn from the zone of war and
+placed behind fortifications, where it was safe from torpedo attack. The
+British Fleet, true to the policy of “attack and not defence,” began
+operations the moment war was declared, with results so brilliantly
+successful, and of such far-reaching and world-wide importance, that
+enumeration is well-nigh impossible. But while all these operations were
+in progress the British Fleet was more or less exposed to torpedo attack
+by any hostile submarines or fast surface craft which might succeed in
+getting past the cordon of protecting destroyers, while the German Fleet
+was safe, but ignominiously impotent. That the naval losses of Great
+Britain, with all her fleets at sea, have not been far greater than they
+have is in itself a victory of the greatest magnitude—a victory due
+entirely to consummate naval skill.
+
+The modern torpedo varies in length from 14 to 19 feet, and weighs up to
+half a ton. It has an extreme range of 4,000 yards, or just over 2 ¼
+miles. There are three types of torpedoes in use by the fleets at war.
+The British use the _Whitehead Torpedo_, the French the Whitehead and
+the _Schneider_, the Russians and the Japanese use the Whitehead; the
+Germans have a type of their own, known as the _Schwartzkopf_, and the
+Austrian arm is principally the Whitehead. All these types are alike in
+their essential features, and therefore need not be described
+separately.
+
+The latest pattern 18-inch Whitehead torpedo is propelled by compressed
+air stored in that section of the weapon known as the _air-chamber_ (see
+diagram). The air on being released is heated and expanded in a tiny
+three or four-cylinder engine which operates twin screws, moving
+“clockwise” and “anti-clockwise.” The “war-head” contains about 200
+pounds of wet gun-cotton which is exploded on the torpedo striking an
+object. The essential features of the Whitehead torpedo are shown in the
+diagram.[9]
+
+This torpedo maintains a speed of 42 knots for 1,000 yards, 38 knots for
+2,000 yards, 32 knots for 3,000 yards, and 28 knots for 4,000 yards.
+Thus, if discharged at a distance of half a mile it reaches its object
+in about 45 seconds.
+
+[Illustration:
+
+ Sketch showing the essential parts of a Whitehead torpedo. _A._ Pistol,
+ detonator, primer, which causes the explosion of “B” when the torpedo
+ strikes an object. _B._ Explosive head, filled with wet gun-cotton.
+ (The “war-head” is substituted by a weighty dummy during practice.)
+ _C._ Air chamber with compressed air, at a pressure of approximately
+ 1350 lbs. per square inch, for action. The chamber is tested to stand a
+ pressure of 1700 lbs. per square inch. _D._ Balance chamber, containing
+ mechanism for regulating the depth of submergence at which the torpedo
+ is adjusted to run. _E._ Engine-room, containing propelling machinery
+ (I.H.P. 60 in latest 18-in. type). _F._ Buoyancy chamber—a practically
+ empty chamber—to give the necessary buoyancy to the torpedo. _G._
+ Gyroscope. An instrument for correcting any deviation of the torpedo
+ from the line of fire. _H._ Rudders, and mechanism for operating. _I._
+ Twin-screws, operating “clockwise” and “anti-clockwise.”
+
+]
+
+Torpedoes are fired—or ejected—into the sea from surface or submerged
+tubes, and on striking the water are propelled by their own engines in
+an absolutely straight course towards the target. The exact mechanism of
+the submerged tube—which is used in surface warships as well as in
+submarines—is a naval secret. When fired from a surface tube the torpedo
+sinks immediately to a depth of about 10 to 14 feet, and maintains this
+depth until it strikes its object. When fired from a submerged tube it
+rises—if necessary—to the same level. A torpedo always proceeds towards
+its object of attack at a depth of a few feet below the surface. This,
+combined with speed, renders it almost impossible to destroy an
+approaching torpedo by gun-fire. So marvellous is the mechanism of these
+little weapons that in anything like favourable circumstances they may
+be _depended upon_, if well aimed, to strike within a yard or two of the
+spot aimed at. This accuracy is due almost entirely to the gyroscope,
+which, briefly described, is a rotating wheel automatically controlling
+the torpedo’s course.
+
+Although for many years torpedoes have been carried by nearly all types
+of service warships, none of them were really ideal for this kind of
+warfare. A new field for the torpedo was, however, opened out by the
+introduction of the submarine boat. In order to be effective the torpedo
+must be discharged from a distance under 4,000 yards—preferably from a
+point less than half this distance from the object of attack. This means
+that the vessel carrying the torpedo would have to get within a mile, or
+at least a mile and a-half, of her object of attack before discharging a
+torpedo. For a surface vessel to accomplish this in the face of a heavy
+cannonade from quick-firing guns would be extremely risky. To make a
+quick rush to close quarters, if possible, by several vessels from
+different points, was the only chance of delivering a successful torpedo
+attack on a hostile warship; unless, of course, she was favoured by fog
+or darkness _at the right moment_—favourable conditions which would
+seldom obtain in actual warfare. Again, every increase in the speed of
+the big surface warship rendered the task of the ordinary torpedo-boat
+and destroyer more difficult because in the event of a threatened attack
+the larger vessel would make use of her speed to keep out of torpedo
+range while her powerful guns were repelling the attacking torpedo-boat.
+
+The _hour_ of the torpedo came with the _perfection_ of the
+submarine. All the conditions of an ideal torpedo-boat were
+fulfilled—_invisibility_ rendering daylight attacks possible;
+_almost perfect immunity from gun-fire_ enabling the torpedo to be
+discharged at closer range; _submerged discharge_ removing the
+likelihood of the weapon being exploded by accurate gun-fire before
+being discharged; _speed on the surface_ enabling the “carrying”
+vessel to manœuvre for position; _moderate speed when submerged_
+enabling an attack under all reasonably tactical conditions; and
+_comparatively large displacement_ giving good cruising qualities,
+wide range of action, and enabling a large number of torpedoes and
+tubes being carried.
+
+
+
+Footnote 9:
+
+  “Submarines of the World’s Navies,” By Charles W. Domville-Fife.
+  (London: Francis Griffiths.)
+
+
+
+
+                               CHAPTER XI
+
+                            SUBMARINE MINES
+
+
+If the Russo-Japanese war was the first to fully demonstrate the value
+of the explosive mine, the Great European Conflict has certainly brought
+this weapon to the forefront in the rapidly growing science of submarine
+warfare. During the first few weeks of the naval fighting several
+warships, beginning with H.M.S. _Amphion_, and many merchant vessels
+representing millions of pounds sterling, were destroyed by these
+weapons. Had it not been for the foresight of the British Admiralty in
+providing a very large fleet of mine-sweepers, aided by seaplanes, there
+can be no doubt but what the shipping of all countries—neutrals and
+belligerents alike—would have suffered far greater losses.
+
+[Illustration: LAUNCHING A GERMAN TROTYL MINE.]
+
+[Illustration:
+
+  A GERMAN SUBMARINE TROTYL MINE ON THE DECK OF A MINE-LAYER.
+
+  These mines contain the famous T.N.T., or Trotyl explosive.
+]
+
+The indiscriminate scattering of mines across the trade routes, as
+carried on by Germany immediately on the outbreak of war, and before
+hardly any of the ships at sea belonging to neutral countries could be
+warned to avoid the zone of operations, has never before been so
+ruthlessly resorted to by a big civilised power.
+
+The system of defence consists of the mooring of these mines in such
+positions as to make it almost impossible for hostile ships to pass
+without either striking or coming within the destructive zone of one or
+more of them. What are known as _floating mines_ are those set adrift to
+be washed about by the tide. They explode immediately on being struck by
+a passing vessel, and, of course, do not discriminate between friend and
+foe. The systems of destroying hostile mine-fields consist of
+_counter-mining_, or placing other mines in the enemy’s field and
+destroying it by their explosion, and by _sweeping_. The latter method
+is the one mostly employed in modern warfare. The boats taking part in
+the _sweep_ place themselves one on each side of the mine-field, and
+between them hangs a long wire rope, weighted in the centre to keep it
+well submerged. They then move forward, sweeping the mines to the
+surface or exploding them harmlessly. It is, however, very dangerous but
+highly necessary work.
+
+There are two kinds of submarine mines, one is designed to explode on
+being struck by a passing vessel, and is called a _contact mine_, and
+the other is fired from the shore by an electric current, and is known
+as an _observation mine_. The explosive principally used is wet
+gun-cotton or Trotyl, owing not only to the safety with which they can
+be stored and manipulated, but also to the fact that they seldom explode
+in sympathy with neighbouring mines, requiring to be actually fired. The
+importance of this will be more fully realised when it is remembered
+that in warfare it is often necessary to explode certain mines over
+which hostile ships are endeavouring to pass, while leaving others in
+fairly close proximity intact, ready to repel a second invasion or to
+destroy ships nearer to them. The actual explosion is caused by an
+electric current, either from the shore or from a battery in the mine
+itself, causing the detonation of fulminate of mercury in conjunction
+with a small priming charge of dry gun-cotton. Mines are often laid in a
+series, connected to a battery on the sea-bed in the centre of the line
+of defence.
+
+The _observation mine_ is mostly used for defending the approaches to
+harbours, as an observer on shore can watch the movements of hostile
+warships and explode each mine when the vessel passes over it. _Contact
+mines_, on the other hand, are used wherever an enemy’s fleet is likely
+to pass. They are anchored to the sea-bed by means of a cable and heavy
+weight, and are allowed to float a few feet below the surface. They
+explode immediately on contact. At times an unscrupulous or demoralised
+enemy will simply throw a number of these mines overboard and allow them
+to float at the mercy of wind and tide. They then become a terrible
+danger to the shipping of all nations, as once they are left unwatched
+it is extremely difficult to tell with any degree of certainty where
+they will eventually proclaim their presence by devastating explosions.
+Happily for the whole seafaring world, this method is seldom resorted
+to, as mines set adrift in this way become a danger to both friend and
+foe. In the Russo-Japanese war several ships were destroyed by their own
+mines.
+
+There are many different kinds of submarine mines, both of the
+observation and the contact type. Some are spherical in shape and others
+cylindrical. Some are moored close down to the sea-bed with a very heavy
+explosive charge (200‒500 lbs. of gun-cotton), and have a small buoyant
+globe floating above them, which, when struck, fires the mine below.
+Others, known as secret-mines, are kept continually moored in the
+waterways leading to important naval harbours, and are only allowed to
+rise sufficiently high from the sea-bed to be struck by passing vessels
+in times of emergency. The type most generally used is, however, the
+ordinary _offensive contact mine_, which contains a powerful explosive
+charge and is anchored in the path of hostile warships. These mines are
+usually automatically sown in large numbers over a wide area of sea by
+the mine-laying fleets.
+
+
+
+
+                              CHAPTER XII
+
+                           MINE-LAYING FLEETS
+
+
+The _regular_ mine-laying fleets of the powers at war are composed of
+the following vessels, all of which are fitted with special apparatus
+for the work. Submarine mines can, however, be laid by any vessel, and
+it is therefore almost impossible to say exactly what ships are engaged
+in this work. Both Germany and Austria have converted a large number of
+their merchantmen into mine-layers. England, in reply, has converted a
+large number of small steamers into _mine-sweepers_. Russia is a strong
+believer in explosive mines, and has strewn the gulfs of Finland and
+Riga with them. Japan, being on the offensive, is employing more
+mine-sweepers than layers. France has an elaborate system of submarine
+mine defence for all her important harbours, and maintains a small fleet
+at each base, known as the “defence mobile.” These vessels are all
+capable of both mine-laying and sweeping.
+
+The submarine mine is primarily the defence of the weaker naval power,
+and therefore a fleet acting on the defensive, either temporarily or
+permanently, requires more mine-layers than mine-sweepers, but the
+reverse is naturally the case with a fleet acting on the offensive.
+Although this may be taken as a general rule, it does not imply that a
+strong naval power like Great Britain, whose policy is attack and not
+defence, needs no mines or mine-layers. On the contrary, the laying of
+_counter_ mines is one of the ways of destroying an enemy’s mine-field;
+and even the strongest fleet cannot guard every portion of a long coast
+line with many harbours exposed to attack. The judicious laying of
+mine-fields will often prevent raids by hostile submarines and
+torpedo-boats; and will limit the theatre of operations, as was done by
+the British Navy in the southern portion of the North Sea in October,
+1914. The axiom that a really strong navy needs to be strong in _every_
+branch, therefore holds good in this, as in all other respects.
+
+
+                          MINE-LAYING FLEETS.
+
+
+                             GREAT BRITAIN.
+
+ _Apollo._  _Thetis._  _Andromache._  _Latona._  _Naiad._  _Intrepid._
+                             _Iphigenia._
+
+These are all second class cruisers of from 3,400 to 3,600 tons, built
+about 1891‒2, which have been converted into mine-layers. They are
+equipped with a very large number of submarine explosive mines, which
+can be automatically lowered into the water as the vessels steam along.
+Their speed is about 15 knots, and their armament consists of four
+4·7-inch quick-firing guns. Their complement is about 150 officers and
+men.
+
+[Illustration:
+
+ _Photo, Cribb, Southsea._]
+
+               THE BRITISH MINE-LAYER H.M.S. _IPHIGENIA_.
+
+            The mine-dropping gear can be seen in the stern.
+
+]
+
+
+                                GERMANY.
+
+  _Pelikan_ (1890).  _Nautilus_ (1906).  _Albatross_ (1907).  _Arkona_
+                                (1903).
+
+All these vessels, with the exception of the _Arkona_, which was a
+protected cruiser, have been specially built for mine-laying work. Their
+displacement is about 2,000 tons. The _Pelikan_ has a speed of 15 knots,
+the _Albatross_ and _Nautilus_ of 20 knots, and the _Arkona_ of 21 ½
+knots. They are all fitted with special gear for dropping the large
+number of mines carried, and their armament consists of from four to
+eight 21-pdr. quick-firing guns. Their complement is about 200 officers
+and men.
+
+
+                                AUSTRIA.
+
+The Austro-Hungarian Navy possesses only one regular mine-laying
+warship—the _Chamaleon_, which was being completed when war was
+declared. She is a vessel of 1,800 tons displacement, with a speed of 20
+knots. Her mine-launching gear is of the most modern and efficient type,
+and she is armed with several quick-firing guns.
+
+Since the beginning of hostilities Austria has converted several old
+warships and merchantmen into mine-layers.
+
+
+                           FRANCE AND RUSSIA.
+
+Neither of these powers possess proper mine-laying vessels, but on the
+outbreak of war several old warships and small merchant steamers were
+used for that purpose.
+
+
+
+
+                              CHAPTER XIII
+
+                          MINE-SWEEPING FLEETS
+
+
+For clearing away the mines dropped by an enemy special vessels are
+employed. Each vessel is fitted on both sides with a curious contrivance
+known as the “picking-up gear.” This apparatus is lowered into the
+water, and “picks up” any mines which may lie in the path of an
+on-coming fleet. When a mine-field is discovered by either destroyers or
+seaplanes these vessels are immediately dispatched to destroy it; and
+they are aided, in the case of the British Navy, by a large flotilla of
+steam trawlers. Many of these auxiliary vessels are not fitted with the
+_picking-up gear_, but go to work in pairs. Two vessels, connected
+together by a long wire rope weighted in the centre to keep it
+submerged, range themselves on each side of a mine-field, and by
+steaming ahead in a parallel line sweep up the mines floating between
+them. This process can be carried on simultaneously by a large number of
+trawlers, covering a very wide area of sea. In the meantime the attached
+destroyers and seaplanes can be searching for new fields. It often
+happens during sweeping operations that mines are brought into contact
+with each other and violent explosions occur. Sometimes the vessels
+engaged in this hazardous work will themselves strike one of the mines,
+but it is more often the _searching_ flotillas which meet with sudden
+disaster in this way. Fully equipped mine-sweepers usually precede a
+fleet of battleships and big cruisers through dangerous and narrow seas,
+within the likely zone of hostile mines.
+
+The British Mine-Sweeping Fleet comprises the following vessels:—_Circe_
+(810 tons), _Jason_ (810 tons), _Speedy_ (810 tons), _Leda_ (810 tons),
+_Gossamer_ (735 tons), _Seagull_ (735 tons), _Skipjack_ (735 tons), and
+_Speedwell_ (735 tons).
+
+These eight vessels are obsolete torpedo-gunboats which have been
+specially fitted out for the work of mine-sweeping. There is also a
+large flotilla of steam fishing trawlers engaged. Some of these vessels
+were purchased by the Admiralty before the war, and were also equipped
+for mine-sweeping; but many others were, by special arrangement, handed
+over to the Navy on the outbreak of war. The whole of the mine-sweeping
+fleet is manned by a special section of the Royal Naval Reserve, known
+as the “Trawler Section,” which consists of about 142 _skippers_ and
+1,136 men. This is, of course, in addition to the several thousand naval
+sailors employed on the regular mine-sweepers, named above, and also to
+those employed on the large number of additional small steamers taken
+over for this work by the Admiralty at the commencement of hostilities.
+It is estimated that the task of keeping the North Sea clear of mines
+during the first four weeks of the Great War required over 100 vessels
+and 5,000 sailors, in addition to the usual destroyer and submarine
+patrols with their crews, and also to the seaplanes with their pilots
+and observers.
+
+Almost any steamship can be quickly converted into an effective
+mine-sweeper, and for this reason it is impossible to give here more
+than the very briefest information concerning the vessels employed in
+these operations by the other Naval Powers at war. Russia had fifteen
+special mine-sweeping vessels building when war broke out; but,
+doubtless, many small merchant ships have since been used for this
+purpose. France employed a number of mine-sweepers in the Adriatic; and
+Japan used some in clearing the approaches to Tsing-tau. Germany and
+Austria, of course, did not need many vessels of this kind, as the
+Allied Navies laid comparatively few mines and German oversea commerce
+ceased to exist almost as soon as war was declared. It was in the North
+Sea, during the first phase of the naval war, that the value of a big
+British mine-sweeping fleet made itself so wonderfully apparent.
+
+
+
+
+                              CHAPTER XIV
+
+       COMPARATIVE FIGHTING VALUE OF THE SUBMARINE FLEETS AT WAR
+
+
+Tempered and tried in the forge of war the submarine has at last been
+lifted from the experimental stage of naval construction to the
+fore-front of fleets in being. For over twenty years naval experts,
+marine engineers and scientists have been wrestling with the vast and
+complex problems of submarine construction, navigation and warfare, and
+have, at a cost of many lives and many millions sterling, produced
+submersible warships of steadily increasing size and power, until to-day
+264 of these vessels, of over a dozen different and more or less secret
+designs, with displacements ranging from 100 to 1,000 tons are in the
+fighting line of the Fleets at war. Thousands of sailors have been
+trained to fight beneath the seas; torpedoes, guns, engines, and even
+the air to breath, have been adapted for submarine work. A comparison,
+therefore, of the strength and fighting power of the submarine fleets
+engaged for the first time in this great struggle for the mastery of the
+seas is of more than passing interest.
+
+
+                             BRITISH NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 1,000‒1,500 tons (“F” class), range 6,000 miles,     6
+    speed 20/12 knots, armament 6 torpedo tubes and 2 q.-f. guns:
+    (nearly completed)
+
+  Submarines of 800 tons (“E” class), range 5,000 miles, speed      19
+    16/10 knots, armament 4 torpedo tubes and 2 q.-f. guns: (in
+    commission)
+
+  Submarines of 500‒600 tons (“D” class), range 4,000 miles, speed   8
+    16/10 knots, armament 3 torpedo tubes and 1 q.-f. gun: (in
+    commission)
+
+  Submarines of 300‒400 tons (“C” class), range 1,700 miles, speed  37
+    14/9 knots, armament 2 torpedo tubes: (in commission)
+
+  Total Sea-going Submarines                                        70
+
+
+                         COAST DEFENCE VESSELS.
+
+  Submarines of 300 tons (“B” class), range 1,000 miles, speed 12/8 10
+    knots, armament 2 torpedo tubes: (in commission)
+
+  Submarines of 200 tons (“A” class), range 350 miles, speed 11/7    8
+    knots, armament 2 torpedo tubes: (in commission)
+
+  Total Coast Defence Submarines                                    18
+
+                                                                    ――
+
+  Total number of vessels in British Flotillas                      88
+
+It must, however, be pointed out that six vessels of the sea-going “F”
+class have not yet taken their place in the active flotillas; and that
+eight vessels of the “E” class were on duty on foreign stations when war
+commenced.
+
+
+                              FRENCH NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 600‒1,000 tons (_Diane_ class, _Bellone_ class, and  7
+    _Gustave Zede_ class), range 4,000‒5,000 miles, speed 18/10
+    knots, armament 4 to 6 torpedo tubes and 2 to 4 q.-f. guns:
+    (completing)
+
+  Submarines of 500‒600 tons (_Clorinde_ class), range 3,500 miles, 10
+    speed 15/9 ½ knots, armament 4 torpedo tubes: (in commission)
+
+  Submarines of 600‒800 tons (vessels: _Mariotte_, _Archimède_,      4
+    _Charles Brun_, and _Admiral Bourgeoise_), range 3,000‒3,500
+    miles, speed 15/10 knots, armament 4 torpedo tubes: (in
+    commission)
+
+  Submarines of 600 tons (_Fresnel_ class), range 2,000 miles,      22
+    speed 12/9 knots, armament 4 torpedo tubes: (in commission)
+
+  Submarines of 500‒600 tons (_Pluviôse_ class), range 2,500 miles, 11
+    speed 12/9 knots, armament 4 torpedo tubes: (in commission)
+
+  Total Sea-going Submarines                                        54
+
+
+                         COAST DEFENCE VESSELS.
+
+  Submarines of 450 tons (_Circe_ class), range 1,000 miles, speed   2
+    11/8 knots, armament 2 torpedo tubes and 2 torpedoes in
+    holders: (in commission)
+
+  Submarines of 400 tons (_Emeraude_ class), range 1,000 miles,      6
+    speed 12/8 ½ knots, armament 2 tubes and 4 holders: (in
+    commission)
+
+  Submarines of 300‒400 tons (_Argonaute_ and _Aigrette_ class),     3
+    range 700 miles, speed 10/9 knots, armament 1 to 4 torpedo
+    tubes: (in commission)
+
+  Total Coast Defence Submarines                                    11
+
+
+                        HARBOUR DEFENCE VESSELS.
+
+  Submarines of 150‒200 tons (_Triton_ class, _Française_ class,     9
+    and _Lutin_ class), range 100‒600 miles, speed 11/8 knots,
+    armament 3 to 4 torpedo tubes or holders: (in commission)
+
+  Submarines of 50‒100 tons (_Naiade_ class), range 100 miles,      20
+    speed 8 ½/5 knots, armament 1 torpedo tube and 2 holders: (in
+    commission)
+
+  Total Harbour Defence Submarines                                  29
+
+                                                                    ――
+
+  Total number of vessels in French Flotillas                       94
+
+
+                             RUSSIAN NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 800‒1,500 tons (_Tigr_ class), no particulars:      12
+    (completing)
+
+  Submarines of 500‒600 tons (_Kaschalot_ class), range 3,000        7
+    miles, speed 16/10 knots, armament 3 torpedo tubes and 1 q.-f.
+    gun: (in commission)
+
+  Submarines of 400‒500 tons (_Alligator_ class), range 3,000        4
+    miles, speed 15/10 knots, armament 4 torpedo tubes: (in
+    commission)
+
+  Submarines of 300‒400 tons (_Akula_ class), range 2,500 miles,     1
+    speed 16/10 knots, armament 3 torpedo tubes: (in commission)
+
+  Submarines of 200‒300 tons (_Karp_ class), range 1,000 miles,      2
+    speed 12/8 knots, armament 2 torpedo tubes: (in commission)
+
+  Submarines of 200 tons (_Makrel_ class), range 800‒1,000 miles,    2
+    speed 10/8 knots, armament 2 torpedo tubes and 2 holders: (in
+    commission)
+
+  Total Sea-going Submarines                                        28
+
+
+                   COAST AND HARBOUR DEFENCE VESSELS.
+
+  Submarines of 150‒200 tons (_Minoga_ class, _Lossos_ class,       19
+    _Sig_, _Sterliad_ class, _Som_ class, _Ostr_ class, and _Graf
+    Cheremetieve_ class), range 400‒600 miles, speed 11‒9 knots on
+    surface and 6‒7 knots submerged, armament 1‒3 torpedo tubes and
+    holders: (in commission)
+
+  Total Coast Defence Submarines                                    19
+
+                                                                    ――
+
+  Total number of vessels in Russian Flotillas                      47
+
+
+                             JAPANESE NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 500 tons (Nos. 16‒17), range 3,500 miles, speed      6
+    18/9 knots, armament 6 torpedo tubes and holders: (completing)
+
+  Submarines of 300‒400 tons (Nos. 10‒15), range 1,700 miles, speed  6
+    14/9 knots, armament 2 torpedo tubes: (in commission)
+
+  Submarines of 300 tons (Nos. 8‒9), range 1,500 miles, speed 13/8   2
+    knots, armament 2 torpedo tubes: (in commission)
+
+  Total Sea-going Submarines                                        14
+
+
+                   COAST AND HARBOUR DEFENCE VESSELS.
+
+  Submarines of 180‒200 tons (Nos. 6‒7), range 800 miles, speed      2
+    10/8 knots, armament 1 torpedo tube: (in commission)
+
+  Submarines of 100‒150 tons (Nos. 1‒5), range 500 miles, speed 9/7  5
+    knots, armament 1 torpedo tube: (in commission)
+
+  Total Coast Defence Submarines                                     7
+
+                                                                    ――
+
+  Total number of vessels in Japanese Flotillas                     21
+
+
+                              GERMAN NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 900 tons (U.25-U.30 completed, and U.31-U.37        13
+    completing), range 4,000 miles, speed 18/10 knots, armament 4
+    torpedo tubes and 4 q.-f. guns: (in commission and completing)
+
+  Submarines of 800 tons (U.21-U.24), range 3,000 miles, speed 14/9  4
+    knots, armament 4 torpedo tubes and 3 q.-f. guns: (in
+    commission)
+
+  Submarines of 400‒500 tons (U.19-U.20), range 2,000 miles, speed   2
+    13 ½/8 knots, armament 3 torpedo tubes and 2 q.-f. guns: (in
+    commission)
+
+  Submarines of 300 tons (U.9-U.18), range 1,500 miles, speed 13/8  10
+    knots, armament 3 torpedo tubes and 1 q.-f. gun: (in
+    commission)
+
+  Submarines of 200‒300 tons (U.2.-U.8), range 1,000 miles, speed    7
+    12/8 knots, armament 2 torpedo tubes: (in commission)
+
+  Total Sea-going Submarines                                        36
+
+
+                         COAST DEFENCE VESSELS.
+
+  Submarines of 200 tons (U.1), range 700‒800 miles, speed 10/7      1
+    knots, armament 1 torpedo tube: (in commission)
+
+                                                                    ――
+
+  Total number of vessels in German Flotillas                       37
+
+
+                             AUSTRIAN NAVY.
+
+
+                           SEA-GOING VESSELS.
+
+  Submarines of 800 tons (U.7-U.11), range 3,000 miles, speed 14/9   5
+    knots, armament 4 torpedo tubes and 3 q.-f. guns:
+    (completing—delivery doubtful)
+
+  Submarines of 300‒400 tons (U.5-U.6), range 1,500 miles, speed     2
+    12/8 knots, armament 2 torpedo tubes: (in commission)
+
+  Submarines of 300 tons (U.1-U.4), range 1,500 miles, speed 13/8    2
+    knots, armament 3 torpedo tubes: (in commission)
+
+  Submarines of 200‒300 tons (U.1-U.2), range 800 miles, speed 12/8  2
+    knots, armament 3 torpedo tubes: (in commission)
+
+                                                                    ――
+
+  Total number of vessels in Austrian Flotillas                      6
+
+When war commenced all the vessels of the German Flotillas (30 to 37)
+were concentrated in the North Sea and Baltic. The Austrian Flotilla of
+six vessels was in the Adriatic. Great Britain had in home waters 74
+submarines and 14 others on duty in the outer seas. France had several
+of the 92 vessels composing her powerful flotillas at her oversea
+colonial naval bases. Russia had 14 submarines in the Baltic, 11 in the
+Black Sea, and 12 in the Far East. The Japanese Flotilla (17) was
+concentrated in Japanese waters.
+
+
+  _Printed in Great Britain by Wyman & Sons Ltd., London and Reading._
+
+
+
+
+                          Transcriber’s Notes
+
+
+ Printed           Corrected                 Page
+ guns              guns.             Frontispiece and 2 q.-f. guns.
+ gunfire           gun-fire                    30 attacked by gun-fire
+ ),                ).                          37 E. B. Feilmann).
+ Submarines        Submarines:                 61 Submarines: B.3, B.4,
+ destroyers·       destroyers.                 74 and destroyers.
+ BUILDING:         BUILDING.                   75 SUBMARINES BUILDING.
+ topedo-boats      torpedo-boats.             108 torpedo-boats.
+ and               AND                        113 U.19 AND U.20.
+ _eompleted_       _completed_                118 were being _completed_
+ manœvring         manœuvering                125 with manœuvering
+ Fig. 1            FIG. 1                     133 FIG. 1 represents a
+ Fig. 2            FIG. 2                     135 FIG. 2 shows the
+ manœuvre          manœuvre,                  143 method, or manœuvre,
+ “anti-clockwise.’ “anti-clockwise.”          164 and “anti-clockwise.”
+ oncoming          on-coming                  179 path of an on-coming
+
+On the Title Page, a comma was added after “SUBMARINES OF THE WORLD’S
+NAVIES”.
+
+The image for RIGHT-ANGLE ATTACK BY SUBMARINES. appeared after Page 160

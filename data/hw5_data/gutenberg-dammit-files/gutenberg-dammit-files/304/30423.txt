@@ -1,0 +1,674 @@
+DES "COMMUNAUTES DE LANGUES" EN LIGNE
+
+
+= [Citation]
+
+Consultant en marketing internet de produits et services de traduction,
+Randy Hobler écrit en septembre 1998: "Comme l’internet n’a pas de
+frontières nationales, les internautes s’organisent selon d’autres
+critères propres au médium. En termes de multilinguisme, vous avez des
+communautés virtuelles, par exemple ce que j’appelle les 'nations des
+langues', tous ces internautes qu’on peut regrouper selon leur langue
+maternelle quel que soit leur lieu géographique. Ainsi la nation de la
+langue espagnole inclut non seulement les internautes d’Espagne et
+d’Amérique latine, mais aussi tous les hispanophones vivant aux Etats-
+Unis, ou encore ceux qui parlent espagnol au Maroc."
+
+
+= [Texte]
+
+Si Randy donne l'exemple d'une communauté internet hispanophone
+répartie sur trois continents, la même remarque vaut pour la
+francophonie, une communauté de langue française présente sur cinq
+continents. La même remarque concerne tout autant le créole, parlé non
+seulement dans les Caraïbes mais aussi à Paris, Montréal et New York.
+
+À ses débuts, l'internet est anglophone à pratiquement 100%, ce qui
+s'explique par le fait qu'il débute aux États-Unis en tant que réseau
+mis en place dès 1969 par le Pentagone avant de se développer dans les
+agences gouvernementales et les universités suite à la création du
+protocole TCP/IP (transmission control protocol/internet protocol) en
+1974 par Vinton Cerf et Bob Kahn. Après la création du World Wide Web
+en 1989-90 par Tim Berners-Lee au Centre européen pour la recherche
+nucléaire (CERN) à Genève (Suisse) et le lancement en novembre 1993 du
+premier navigateur Mosaic, ancêtre de Netscape, l'internet se développe
+rapidement, d'abord aux États-Unis grâce aux investissements
+considérables du gouvernement, puis au Canada, puis dans le monde
+entier.
+
+Après avoir été anglophone à pratiquement 100%, l’internet est encore
+anglophone à plus de 80% en 1998, un pourcentage qui s’explique par
+trois facteurs: (a) l’usage de l'anglais en tant que principale langue
+d’échange internationale; (b) la création d’un grand nombre de sites
+web émanant des États-Unis, du Canada et du Royaume-Uni; (c) une
+proportion d'usagers particulièrement forte en Amérique du Nord par
+rapport au reste du monde, les ordinateurs étant bien meilleur marché
+qu'ailleurs, tout comme la connexion à l'internet sous forme de forfait
+mensuel à prix modique.
+
+Dans plusieurs pays d'Europe, par exemple, cette connexion est d'abord
+tarifée à la durée, avec un tarif de jour et un tarif de nuit moins
+élevé. Les usagers passent donc beaucoup moins de temps sur l'internet
+qu'ils ne le souhaiteraient, et choisissent souvent de surfer la nuit
+pour éviter les factures trop élevées. Fin 1998 et début 1999, des
+mouvements de grève sont lancés en France, en Italie et en Allemagne
+pour faire pression sur les sociétés prestataires afin qu'elles
+baissent leurs prix et qu'elles proposent des forfaits internet, avec
+gain de cause dans les mois qui suivent.
+
+En 1997, Babel, initative conjointe d'Alis Technologies et de
+l'Internet Society, mène la première étude sur la répartition des
+langues sur l'internet. Datée de juin 1997, le "Palmarès des langues de
+la toile" donne les pourcentages de 82,3% pour l'anglais, 4% pour
+l'allemand, 1,6% pour le japonais, 1,5% pour le français, 1,1% pour
+l'espagnol, 1,1% pour le suédois et 1% pour l'italien.
+
+Dans un article publié le 21 juillet 1998 par ZDNN (ZDNetwork News),
+Martha Stone, journaliste, précise: "Cette année, le nombre de nouveaux
+sites non anglophones va probablement dépasser celui de nouveaux sites
+anglophones, et le monde cyber est en train de véritablement devenir
+une toile à l'échelle mondiale. (...) Selon Global Reach [société
+promouvant la localisation des sites web], les groupes linguistiques se
+développant le plus vite sont les groupes non anglophones: on note une
+progression de 22,4% pour les sites web espagnols, 12,3% pour les sites
+japonais, 14% pour les sites allemands et 10% pour les sites
+francophones. On estime à 55,7 millions le nombre de personnes non
+anglophones ayant accès au web. (...) Alors que 6% seulement de la
+population mondiale est de langue maternelle anglaise (et 16% de langue
+maternelle espagnole), 80% des pages web sont en anglais." Toujours
+selon Global Reach, 15% seulement des 500 millions d'habitants que
+compte l'Europe sont de langue maternelle anglaise, 28% maîtrisent bien
+l'anglais, et 32% consultent le web anglophone.
+
+Brian King, directeur du WorldWide Language Institute (WWLI), développe
+le principe de "démocratie linguistique" dans un entretien daté de
+septembre 1998: "Dans un rapport de l'UNESCO du début des années 1950,
+l'enseignement dispensé dans sa langue maternelle était considéré comme
+un droit fondamental de l'enfant. La possibilité de naviguer sur
+l'internet dans sa langue maternelle pourrait bien être son équivalent
+à l'Âge de l'Information. Si l'internet doit vraiment devenir le réseau
+mondial qu'on nous promet, tous les usagers devraient y avoir accès
+sans problème de langue. Considérer l'internet comme la chasse gardée
+de ceux qui, par accident historique, nécessité pratique ou privilège
+politique, connaissent l'anglais, est injuste à l'égard de ceux qui ne
+connaissent pas cette langue."
+
+Jean-Pierre Cloutier est l'auteur des Chroniques de Cybérie, une lettre
+d'information électronique sur l'actualité de l'internet. Il écrit en
+août 1999: "Cet été, le cap a été franchi. Plus de 50% des utilisateurs
+et utilisatrices du réseau sont hors des États-Unis. L'an prochain,
+plus de 50% des utilisateurs seront non anglophones. Il y a seulement
+cinq ans, c'était 5%. Formidable, non?"
+
+Les usagers non anglophones atteignent en effet la barre des 50% au
+cours de l'été 2000. Selon Global Reach, ce pourcentage est de 52,5% en
+été 2001, 57% en décembre 2001, 59,8% en avril 2002, 64,4% en septembre
+2003 (dont 34,9% d’Européens non anglophones et 29,4% d’Asiatiques) et
+64,2% en mars 2004 (dont 37,9% d’Européens non anglophones et 33%
+d’Asiatiques).
+
+Nombre de communautés pratiquent le bilinguisme au quotidien, par
+exemple à Genève pour le français et l’allemand, Toronto pour l'anglais
+et le français, ou San Francisco pour l’anglais et l’espagnol, pour ne
+citer que trois exemples. Le cas extrême étant la Communauté européenne
+avec ses 11 langues officielles en 2003, puis ses 24 langues
+officielles en 2007 après son élargissement progressif vers l'Europe de
+l'Est.
+
+
+
+VERS UN WEB MULTILINGUE
+
+
+= [Citation]
+
+Professeure d’espagnol en entreprise et traductrice, Maria Victoria
+Marinetti écrit en août 1999: "Il est très important de pouvoir
+communiquer en différentes langues. Je dirais même que c’est
+obligatoire, car l’information donnée sur l'internet est à destination
+du monde entier, alors pourquoi ne l’aurions-nous pas dans notre propre
+langue ou dans la langue que nous souhaitons lire? Information
+mondiale, mais pas de vaste choix dans les langues, ce serait
+contradictoire, pas vrai?"
+
+
+= [Texte]
+
+En Californie, deux étudiants de l'Université de Stanford, Jerry Lang
+et David Filo, lancent en janvier 1994 l'annuaire Yahoo! pour recenser
+les sites web et les classer par thèmes. L'annuaire est un succès, avec
+un classement plus pointu que celui de moteurs de recherche comme
+AltaVista, où ces tâches sont entièrement automatisées. Trois ans plus
+tard, Yahoo! propose un classement en 63 grandes catégories
+thématiques, tout comme une interface en plusieurs langues: anglais,
+allemand, coréen, français, japonais, norvégien et suédois. De plus,
+quand une recherche ne donne pas de résultat dans Yahoo!, elle est
+automatiquement aiguillée vers AltaVista, et réciproquement.
+
+En décembre 1997, AltaVista est le premier moteur de recherche à lancer
+un service gratuit de traduction automatisée de l'anglais vers cinq
+autres langues (allemand, espagnol, français, italien et portugais) et
+vice versa, la page originale et la traduction apparaissant en vis-à-
+vis à l’écran. AltaVista Translation, surnommé aussi Babel Fish, est
+l'oeuvre de SYSTRAN, une société franco-américaine pionnière dans le
+domaine de la traduction automatique. Babel Fish est alimenté par des
+dictionnaires multilingues comprenant 2,5 millions de termes. Bien
+qu'ayant ses limites, avec une traduction de trois pages maximum et un
+texte traduit approximatif, ce service est immédiatement très apprécié
+des douze millions d'usagers, dont un nombre croissant d'usagers non
+anglophones. Il ouvre aussi la voie à d'autres services du même genre -
+développés entre autres par Alis Technologies, Lernout & Hauspie,
+Globalink ou Softissimo - et contribue grandement au plurilinguisme du
+web.
+
+Autre initiative, Robert Ware, enseignant, lance en avril 1996 le site
+OneLook Dictionaries pour permettre une recherche rapide dans des
+centaines de dictionnaires couvrant divers domaines: affaires,
+informatique et internet, médecine, religion, sciences et techniques,
+sports, généralités et argot. Il explique en septembre 1998: "A titre
+personnel, je suis presque uniquement en contact avec des gens qui ne
+pratiquent qu'une langue et qui n'ont pas beaucoup de motivation pour
+développer leurs aptitudes linguistiques. Être en contact avec le monde
+entier change cette approche des choses. Et la change en mieux! (...)
+J'ai été long à inclure des dictionnaires non anglophones (en partie
+parce que je suis monolingue). Mais vous en trouverez maintenant
+quelques-uns." OneLook Dictionaries compte 2 millions de termes
+provenant de 425 dictionnaires en 1998, 2,5 millions de termes
+provenant de 530 dictionnaires en 2000, et 5 millions de termes
+provenant de 910 dictionnaires en 2003.
+
+Robert Ware raconte aussi dans le même entretien par courriel: "Un fait
+intéressant s'est produit par le passé qui a été très instructif pour
+moi. En 1994, je travaillais pour un établissement scolaire et
+j'essayais d'installer un logiciel sur un modèle d'ordinateur
+particulier. J'ai trouvé une personne qui était en train de travailler
+sur le même problème, et nous avons commencé à échanger des courriers
+électroniques. Soudain, cela m'a frappé... Le logiciel avait été écrit
+à 40 kilomètres de là, mais c'était une personne située à l'autre bout
+du monde qui m'aidait. Les distances et l'éloignement géographique
+n'importaient plus! Et bien, ceci est formidable, mais à quoi cela nous
+mène-t-il? Je ne puis communiquer qu'en anglais mais, heureusement, mon
+correspondant pouvait utiliser aussi bien l'anglais que l'allemand qui
+était sa langue maternelle. L'internet a supprimé une barrière, celle
+de la distance, mais il subsiste la barrière de la langue, bien réelle.
+
+Il semble que l'internet propulse simultanément les gens dans deux
+directions différentes. L'internet, anglophone à l'origine, relie les
+gens dans le monde entier. Par là même, il favorise une langue commune
+pour communiquer. Mais il suscite aussi des contacts entre des
+personnes de langue différente et permet ainsi de développer un intérêt
+plus grand pour le multilinguisme. Si une langue commune est
+appréciable, elle ne remplace en aucun cas la  nécessité de plusieurs
+langues. L'internet favorise ainsi à la fois une langue commune et le
+multilinguisme, et ceci est un facteur qui aide à trouver des
+solutions. L'intérêt croissant pour les langues et le besoin qu'on en a
+stimulent de par le monde la création de cours de langues et
+d'instruments d'aide linguistique, et l'internet fournit la possibilité
+de les rendre disponibles rapidement et à bon marché."
+
+Même si l'anglais est encore prédominant à la fin des années 1990, les
+sites bilingues ou plurilingues sont de plus en plus nombreux, ce pour
+des raisons aussi bien commerciales que culturelles, qui prennent en
+compte le fait que tout le monde ne comprend pas l'anglais. Brian King,
+directeur du WorldWide Language Institute (WWLI), écrit en septembre
+1998: "De même que l'utilisateur non anglophone peut maintenant avoir
+accès aux technologies dans sa propre langue, l'impact du commerce
+électronique peut constituer une force majeure qui fasse du
+multilinguisme la voie la plus naturelle vers le cyberespace. Les
+vendeurs de produits et services dans le marché virtuel mondial que
+devient l'internet doivent être préparés à desservir un monde virtuel
+qui soit aussi multilingue que le monde physique. S'ils veulent
+réussir, ils doivent s'assurer qu'ils parlent bien la langue de leurs
+clients!"
+
+Le réseau ELSNET (European Network in Language and Speech - Réseau
+européen pour le langage et la parole) regroupe une centaine de
+partenaires académiques et commerciaux, l'objectif étant de mettre sur
+pied des systèmes multilingues pour la langue parlée et la langue
+écrite. Steven Krauwer, coordinateur d'ELSNET, explique en septembre
+1998: "En tant que citoyen européen, je pense que le multilinguisme sur
+le web est absolument essentiel. A mon avis, ce n'est pas une situation
+saine à long terme que seuls ceux qui ont une bonne maîtrise de
+l'anglais puissent pleinement exploiter les bénéfices du web. En tant
+que chercheur (spécialisé dans la traduction automatique), je vois le
+multilinguisme comme un défi majeur: pouvoir garantir que l'information
+sur le web soit accessible à tous, indépendamment des différences de
+langue. (...) Je compte passer le reste de ma vie professionnelle à
+utiliser les technologies de l'information pour supprimer ou au moins
+réduire la barrière des langues."
+
+Il ajoute en août 1999: "Je suis de plus en plus convaincu que nous
+devons veiller à ne pas aborder le problème du multilinguisme en
+l'isolant du reste. Je reviens de France, où j'ai passé de très bonnes
+vacances d'été. Même si ma connaissance du français est sommaire (c'est
+le moins que l'on puisse dire), il est surprenant de voir que je peux
+malgré tout communiquer sans problème en combinant ce français sommaire
+avec des gestes, des expressions du visage, des indices visuels, des
+schémas, etc. Je pense que le web (contrairement au système vieillot du
+courrier électronique textuel) peut permettre de combiner avec succès
+la transmission des informations par différents canaux (ou différents
+moyens), même si ce processus n'est que partiellement satisfaisant pour
+chacun des canaux pris isolément."
+
+Pour un véritable multilinguisme sur le web, Steven Krauwer suggère
+plusieurs solutions pratiques: "(a) en ce qui concerne les auteurs: une
+meilleure formation des auteurs de sites web pour exploiter les
+combinaisons possibles permettant d'améliorer la communication en
+surmontant la barrière de la langue (et pas seulement par un vernis
+superficiel); (b) en ce qui concerne les usagers: des logiciels de
+traduction de type AltaVista Translation, dont la qualité n'est pas
+frappante, mais qui a le mérite d'exister; (c) en ce qui concerne les
+logiciels de navigation: des logiciels de traduction intégrée,
+particulièrement pour les langues non dominantes, et des dictionnaires
+intégrés plus rapides à consulter."
+
+Le multilinguisme est l'affaire de tous, témoin cet Appel du Comité
+européen pour le respect des cultures et des langues en Europe (CERCLE)
+qui, diffusé en 1998 dans les onze langues officielles de l'Union
+européenne (allemand, anglais, danois, espagnol, finlandais, français,
+grec, hollandais, italien, portugais et suédois), défend "une Europe
+humaniste, plurilingue et riche de sa diversité culturelle". Le CERCLE
+propose aux réviseurs du Traité de l'Union européenne douze amendements
+prenant en compte le respect des cultures et des langues. On lit dans
+cet Appel que "la diversité et le pluralisme linguistiques ne sont pas
+un obstacle à la circulation des hommes, des idées et des marchandises
+ou services, comme veulent le faire croire certains, alliés objectifs,
+conscients ou non, de la culture et de la langue dominantes. C'est
+l'uniformisation et l'hégémonie qui sont un obstacle au libre
+épanouissement des individus, des sociétés et de l'économie de
+l'immatériel, source principale des emplois de demain. Le respect des
+langues, à l'inverse, est la dernière chance pour l'Europe de se
+rapprocher des citoyens, objectif toujours affiché, presque jamais mis
+en pratique. L'Union doit donc renoncer à privilégier la langue d'un
+seul groupe."
+
+Bruno Didier, webmestre de la bibliothèque de l’Institut Pasteur, écrit
+en août 1999: "L'internet n’est une propriété ni nationale, ni
+linguistique. C’est un vecteur de culture, et le premier support de la
+culture, c’est la langue. Plus il y a de langues représentées dans leur
+diversité, plus il y aura de cultures sur l'internet. Je ne pense pas
+qu’il faille justement céder à la tentation systématique de traduire
+ses pages dans une langue plus ou moins universelle. Les échanges
+culturels passent par la volonté de se mettre à la portée de celui vers
+qui on souhaite aller. Et cet effort passe par l’appréhension de sa
+langue. Bien entendu c’est très utopique comme propos. Concrètement,
+lorsque je fais de la veille, je peste dès que je rencontre des sites
+norvégiens ou brésiliens sans un minimum d’anglais."
+
+
+
+L'ANGLAIS RESTE PREDOMINANT
+
+
+= [Citation]
+
+L’anglais reste prépondérant et ceci n’est pas près de disparaître.
+Comme indiqué en janvier 1999 par Marcel Grangier, responsable de la
+section française des services linguistiques centraux de
+l’Administration fédérale suisse, "cette suprématie n’est pas un mal en
+soi, dans la mesure où elle résulte de réalités essentiellement
+statistiques (plus de PC par habitant, plus de locuteurs de cette
+langue, etc.). La riposte n’est pas de 'lutter contre l’anglais' et
+encore moins de s’en tenir à des jérémiades, mais de multiplier les
+sites en d’autres langues. Notons qu’en qualité de service de
+traduction, nous préconisons également le multilinguisme des sites eux-
+mêmes. La multiplication des langues présentes sur l'internet est
+inévitable, et ne peut que bénéficier aux échanges multiculturels."
+
+
+= [Texte]
+
+Professeur en technologies de la communication à la Webster University
+de Genève (Suisse), Henk Slettenhaar insiste tout autant sur la
+nécessité de sites bilingues, dans la langue originale et en anglais.
+"Les communautés locales présentes sur le web devraient en tout premier
+lieu utiliser leur langue pour diffuser des informations, écrit-il en
+décembre 1998. Si elles veulent présenter ces informations à la
+communauté mondiale, celles-ci doivent être également disponibles en
+anglais. Je pense qu’il existe un réel besoin de sites bilingues. (...)
+Mais je suis enchanté qu’il existe maintenant tant de documents
+disponibles dans leur langue originale. Je préfère de beaucoup lire
+l’original avec difficulté plutôt qu’une traduction médiocre."
+
+Henk ajoute en août 1999: "A mon avis, il existe deux types de
+recherches sur le web. La première est la recherche globale dans le
+domaine des affaires et de l’information. Pour cela, la langue est
+d’abord l’anglais, avec des versions locales si nécessaire. La seconde,
+ce sont les informations locales de tous ordres dans les endroits les
+plus reculés. Si l’information est à destination d’une ethnie ou d’un
+groupe linguistique, elle doit d’abord être disponible dans la langue
+de l’ethnie ou du groupe, avec peut-être un résumé en anglais."
+
+Alain Bron, consultant en systèmes d'information et écrivain, explique
+pour sa part en novembre 1999: "Il y aura encore pendant longtemps
+l'usage de langues différentes et tant mieux pour le droit à la
+différence. Le risque est bien entendu l'envahissement d'une langue au
+détriment des autres, donc l'aplanissement culturel. Je pense que des
+services en ligne vont petit à petit se créer pour pallier cette
+difficulté. Tout d'abord, des traducteurs pourront traduire et
+commenter des textes à la demande, et surtout les sites de grande
+fréquentation vont investir dans des versions en langues différentes,
+comme le fait l'industrie audiovisuelle."
+
+Selon Geoffrey Kingscott, directeur général de Praetorius, société
+britannique spécialisée en linguistique appliquée, interviewé en
+septembre 1998, "les caractéristiques propres au web sont la
+multiplicité de générateurs de sites et le bas prix de l'émission de
+messages. Ceci favorisera donc le multilinguisme au fur et à mesure du
+développement du web. Comme celui-ci a vu le jour aux États-Unis, il
+est encore principalement en anglais, mais ce n'est qu'un phénomène
+temporaire. Pour expliquer ceci plus en détail, je dirais que quand
+nous comptions sur l'imprimé ou l'audiovisuel (film, télévision, radio,
+vidéo, cassettes), l'information ou le divertissement que nous
+attendions dépendait d'agents (éditeurs, stations de télévision ou de
+radio, producteurs de cassettes ou de vidéos) qui devaient subsister
+commercialement et, dans le cas de la radiotélédiffusion du service
+public, avec de sévères contraintes budgétaires. Ceci signifie que la
+quantité de clients est primordiale, et détermine la nécessité de
+langues autres que l'omniprésent anglais. Ces contraintes disparaissent
+avec le web. Pour ne donner qu'un exemple mineur tiré de notre
+expérience, nous publions la version imprimée de notre magazine
+Language Today uniquement en anglais, qui est le dénominateur commun de
+nos lecteurs. Quand nous utilisons un article qui était originellement
+dans une langue autre que l'anglais, ou que nous relatons un entretien
+mené dans une langue autre que l'anglais, nous le traduisons en anglais
+et nous ne publions que la version anglaise, pour la raison suivante:
+le nombre de pages que nous pouvons imprimer est limité, et déterminé
+en fonction de notre clientèle (annonceurs et abonnés). Par contre,
+dans notre version web, nous proposons aussi la version originale."
+
+Luc dall'Armellina, co-auteur et webmestre d’oVosite, espace d’écriture
+hypermédia, écrit en juin 2000: "L'anglais s'impose sans doute parce
+qu'il est devenu la langue commerciale d'échange généralisée; il semble
+important que toutes les langues puissent continuer à être représentées
+parce que chacune d'elle est porteuse d'une vision 'singulière' du
+monde. La traduction simultanée (proposée par AltaVista par exemple) ou
+les versions multilingues d'un même contenu me semblent aujourd'hui les
+meilleures réponses au danger de pensée unique que représenterait une
+seule langue d'échange. Peut-être appartient-il aux éditeurs des
+systèmes d'exploitation (ou de navigateurs?) de proposer des solutions
+de traduction partielle, avec toutes les limites connues des systèmes
+automatiques de traduction..."
+
+Pierre Francois Gagnon, fondateur d'Editel et pionnier de l'édition
+littéraire francophone en ligne, écrit en juillet 2000: "Je pense que,
+si les diverses langues de la planète vont occuper chacune l'internet
+en proportion de leur poids démographique respectif, la nécessité d'une
+langue véhiculaire unique se fera sentir comme jamais auparavant, ce
+qui ne fera qu'assurer davantage encore la suprématie planétaire de
+l'anglais, ne serait-ce que du fait qu'il a été adopté définitivement
+par l'Inde et la Chine. Or la marche de l'histoire n'est pas plus
+comprimable dans le dé à coudre d'une quelconque équation mathématique
+que le marché des options en bourse!"
+
+Philippe Loubière, traducteur littéraire et dramatique, dénonce pour sa
+part la main-mise anglophone sur le réseau. "Tout ce qui peut
+contribuer à la diversité linguistique, sur internet comme ailleurs,
+est indispensable à la survie de la liberté de penser, explique-t-il en
+mars 2001. Je n’exagère absolument pas: l’homme moderne joue là sa
+survie. Cela dit, je suis très pessimiste devant cette évolution. Les
+anglo-saxons vous écrivent en anglais sans vergogne. L’immense majorité
+des Français constate avec une indifférence totale le remplacement
+progressif de leur langue par le mauvais anglais des marchands et des
+publicitaires, et le reste du monde a parfaitement admis l’hégémonie
+linguistique des anglo-saxons parce qu’ils n’ont pas d’autres horizons
+que de servir ces riches et puissants maîtres. La seule solution
+consisterait à recourir à des législations internationales assez
+contraignantes pour obliger les gouvernements nationaux à respecter et
+à faire respecter la langue nationale dans leur propre pays (le
+français en France, le roumain en Roumanie, etc.), cela dans tous les
+domaines et pas seulement sur internet. Mais ne rêvons pas..."
+
+C'est aussi le sentiment de Blaise Rosnay, webmestre du site du Club
+des poètes, qui écrit en janvier 2000: "Dans la mesure où la culture
+française, y compris contemporaine, pourra être diffusée sans
+obstacles, la langue française aura la possibilité de rester vivante
+sur le réseau. Ses oeuvres, liées au génie de notre langue, susciteront
+nécessairement de l'intérêt puisqu'elles sont en prise avec l'évolution
+actuelle de l'esprit humain. Dans la mesure où il y aura une volonté
+d'utiliser l'internet comme moyen de partage de la connaissance, de la
+beauté, de la culture, toutes les langues, chacune avec leur génie
+propre, y auront leur place. Mais si l'internet, comme cela semble être
+le cas, abandonne ces promesses pour devenir un lieu unique de
+transactions commerciales, la seule langue qui y sera finalement parlée
+sera une sorte de jargon dénaturant la belle langue anglaise, je veux
+dire un anglais amoindri à l'usage des relations uniquement
+commerciales."
+
+Richard Chotin, professeur à l’École supérieure des affaires (ESA) de
+Lille, rappelle à juste titre que la suprématie de l’anglais a succédé
+à celle du français. "Le problème est politique et idéologique,
+explique-t-il en septembre 2000. C’est celui de l’'impérialisme' de la
+langue anglaise découlant de l’impérialisme américain. Il suffit
+d’ailleurs de se souvenir de l’'impérialisme' du français aux 18e et
+19e siècles pour comprendre la déficience en langues des étudiants
+français: quand on n’a pas besoin de faire des efforts pour se faire
+comprendre, on n’en fait pas, ce sont les autres qui les font."
+
+Bakayoko Bourahima, bibliothécaire de l'École nationale supérieure de
+statistique et d’économie appliquée (ENSEA) d'Abidjan (Côte d'Ivoire),
+écrit en juillet 2000: "Pour nous les Africains francophones, le diktat
+de l’anglais sur la toile représente pour la masse un double handicap
+d’accès aux ressources du réseau. Il y a d’abord le problème de
+l’alphabétisation qui est loin d’être résolu et que l’internet va poser
+avec beaucoup plus d’acuité, ensuite se pose le problème de la maîtrise
+d’une seconde langue étrangère et son adéquation à l’environnement
+culturel. En somme, à défaut de multilinguisme, l’internet va nous
+imposer une seconde colonisation linguistique avec toutes les
+contraintes que cela suppose. Ce qui n’est pas rien quand on sait que
+nos systèmes éducatifs ont déjà beaucoup de mal à optimiser leurs
+performances, en raison, selon certains spécialistes, des contraintes
+de l’utilisation du français comme langue de formation de base. Il est
+donc de plus en plus question de recourir aux langues vernaculaires
+pour les formations de base, pour 'désenclaver' l’école en Afrique et
+l’impliquer au mieux dans la valorisation des ressources humaines.
+Comment faire? Je pense qu’il n’y a pas de chance pour nous de faire
+prévaloir une quelconque exception culturelle sur la toile, ce qui
+serait de nature tout à fait grégaire. Il faut donc que les différents
+blocs linguistiques s’investissent beaucoup plus dans la promotion de
+leur accès à la toile, sans oublier leurs différentes spécificités
+internes."
+
+Guy Antoine, créateur de Windows on Haiti, site de référence sur la
+culture haïtienne, croit en la nécessité de l'anglais en tant que
+langue commune. "Pour des raisons pratiques, l'anglais continuera à
+dominer le web, relate-t-il en novembre 1999. Je ne pense pas que ce
+soit une mauvaise chose, en dépit des sentiments régionalistes qui s'y
+opposent, parce que nous avons besoin d'une langue commune permettant
+de favoriser les communications à l'échelon international. Ceci dit, je
+ne partage pas l'idée pessimiste selon laquelle les autres langues
+n'ont plus qu'à se soumettre à la langue dominante. Au contraire. Tout
+d'abord l'internet peut héberger des informations utiles sur les
+langues minoritaires, qui seraient autrement amenées à disparaître sans
+laisser de traces. De plus, à mon avis, l'internet incite les gens à
+apprendre les langues associées aux cultures qui les intéressent. Ces
+personnes réalisent rapidement que la langue d'un peuple est un élément
+fondamental de sa culture. De ce fait, je n'ai pas grande confiance
+dans les outils de traduction automatique qui, s'ils traduisent les
+mots et les expressions, ne peuvent guère traduire l'âme d'un peuple.
+Que sont les Haïtiens, par exemple, sans le kreyòl (créole pour les non
+initiés), une langue qui s'est développée et qui a permis de souder
+entre elles diverses tribus africaines transplantées à Haïti pendant la
+période de l'esclavage? Cette langue représente de manière la plus
+palpable l'unité de notre peuple. Elle est toutefois principalement une
+langue parlée et non écrite. A mon avis, le web va changer cet état de
+fait plus qu'aucun autre moyen traditionnel de diffusion d'une langue.
+Dans Windows on Haiti, la langue principale est l'anglais, mais on y
+trouve tout aussi bien un forum de discussion animé conduit en kreyòl.
+Il existe aussi des documents sur Haïti en français et dans l'ancien
+créole colonial, et je suis prêt à publier d'autres documents en
+espagnol et dans diverses langues. Je ne propose pas de traductions,
+mais le multilinguisme est effectif sur ce site, et je pense qu'il
+deviendra de plus en plus la norme sur le web."
+
+Michel Benoît, romancier vivant à Montréal (Québec), écrit en juin
+2000: "Lorsqu'un problème affecte une structure, quelle qu'elle soit,
+j'ai toujours tendance à imaginer que c'est techniquement que le
+problème trouve sa solution. Vous connaissez cette théorie? Si les
+Romains avaient trouvé le moyen d'enlever le plomb de leur couvert
+d'étain, Néron ne serait jamais devenu fou et n'aurait jamais incendié
+Rome. Escusi, farfelu? Peut-être que oui, peut-être que non. E que
+save? L'internet multilingue? Demain, ou après-demain au plus. Voyons,
+pensez au premier ordinateur, il y a de cela un peu plus que cinquante
+ans. Un étage au complet pour faire à peine plus que les quatre
+opérations de base. Dans ce temps-là, un bug, c'était véritablement une
+mouche - ou autre insecte - qui s'insérait entre les lecteurs optiques.
+De nos jours [en 2000], un carte de 3 cm x 5 cm fait la même chose. La
+traduction instantanée: demain, après-demain au plus."
+
+Gérard Fourestier, créateur de Rubriques à Bac, un site destiné aux
+étudiants du premier cycle universitaire, écrit en octobre 2000: "Je
+suis de langue française. J'ai appris l'allemand, l'anglais, l'arabe,
+mais je suis encore loin du compte quand je surfe dans tous les coins
+de la planète. Il serait dommage que les plus nombreux ou les plus
+puissants soient les seuls qui 's'affichent' et, pour ce qui est des
+logiciels de traduction, il y a encore largement à faire. (...) Pour
+l'instant, [il importe] de connaître suffisament d'anglais et de créer
+beaucoup plus encore en français."
+
+Tôt ou tard, le pourcentage des langues sur le réseau correspondra-t-il
+à leur répartition sur la planète? Rien n’est moins sûr à l’heure de la
+fracture numérique entre riches et pauvres, entre zones rurales et
+zones urbaines, entre régions favorisées et régions défavorisées, entre
+l’hémisphère nord et l’hémisphère sud, entre pays développés et pays en
+développement.
+
+Selon Zina Tucsnak, ingénieur d’études au laboratoire ATILF (Analyse et
+traitement informatique de la langue française), interviewée en octobre
+2000, "le meilleur moyen serait l’application d’une loi par laquelle on
+va attribuer un 'quota' à chaque langue. Mais n’est-ce pas une utopie
+de demander l’application d’une telle loi dans une société de
+consommation comme la nôtre?"
+
+A la même date, Emmanuel Barthe, documentaliste juridique, exprime un
+avis contraire: "Des signes récents laissent penser qu’il suffit de
+laisser les langues telles qu’elles sont actuellement sur le web. En
+effet, les langues autres que l’anglais se développent avec
+l’accroissement du nombre de sites web nationaux s’adressant
+spécifiquement aux publics nationaux, afin de les attirer vers
+internet. Il suffit de regarder l’accroissement du nombre de langues
+disponibles dans les interfaces des moteurs de recherche généralistes.
+Il serait néanmoins utile (et bénéfique pour un meilleur équilibre des
+langues) de disposer de logiciels de traduction automatique de
+meilleure qualité et à très bas prix sur internet. La récente mise sur
+le web du GDT (Grand dictionnaire terminologique, rédigé par l'Office
+de la langue française du Québec) va dans ce sens."
+
+Pierre Magnenat, responsable de la cellule "gestion et prospective" du
+centre informatique de l'Université de Lausanne, écrit en octobre 2000:
+"La seule solution que je vois serait qu'un effort majeur et global
+soit entrepris pour développer des traducteurs automatiques. Je ne
+pense pas qu'une quelconque incitation ou autre quota pourrait empêcher
+la domination totale de l'anglais. Cet effort pourrait - et devrait -
+être initié au niveau des états, et disposer des moyens suffisants pour
+aboutir."
+
+Pierre-Noël Favennec, expert à la direction scientifique de France
+Télécom R&D, souligne en février 2001: "Les recherches sur la
+traduction automatique devraient permettre une traduction automatique
+dans les langues souhaitées, mais avec des applications pour toutes les
+langues et non les seules dominantes (ex.: diffusion de documents en
+japonais, si l’émetteur est de langue japonaise, et lecture en breton,
+si le récepteur est de langue bretonne...). Il y a donc beaucoup de
+travaux à faire dans le domaine de la traduction automatique et écrite
+de toutes les langues."
+
+Lucie de Boutiny, romancière, écrit en septembre 2000: "Les chiffres de
+septembre 2000 montrent que 51% des utilisateurs sont anglo-saxons, et
+78% des sites aussi. Les chiffres de cette prépondérance baissent à
+mesure qu'augmentent le nombre des internautes de par le monde...
+L'anglais va devenir la deuxième langue mondiale après la langue
+natale, mais il y en aura d'autres. Un exemple: personnellement, à
+l'âge de 4 ans, je parlais trois langues alors que je ne savais ni lire
+ni écrire. Pour parler une langue, il peut suffire d'avoir la chance de
+l'écouter. On peut espérer que le cosmopolitisme traverse toutes les
+classes sociales en raison, par exemple, de l'Union européenne, du
+nomadisme des travailleurs, de la facilité de déplacement à l'étranger
+des étudiants, de la présence des chaînes TV et sites étrangers, etc."
+
+
+
+LE FRANCAIS SUR L'INTERNET
+
+
+= [Citation]
+
+En décembre 1997, Tim Berners-Lee, inventeur du web, déclare à Pierre
+Ruetschi, journaliste à la Tribune de Genève, un quotidien suisse:
+"Pourquoi les francophones ne mettent-ils pas davantage d’informations
+sur le web? Est-ce qu’ils pensent que personne ne veut la lire, que la
+culture française n’a rien à offrir? C’est de la folie, l’offre est
+évidemment énorme." C’est chose faite dans les années qui suivent.
+
+
+= [Texte]
+
+"En voulant trop en faire une affaire nationale, qui exprimerait aussi
+par ailleurs l'antipathie qu'ils ont envers les Anglais, les Français
+ont tendance à freiner la propagation de leur culture. Cela est très
+regrettable", lit-on le 7 novembre 1996 dans Yomiyuri Shimbun, le plus
+grand quotidien japonais. Ce cliché a-t-il jamais été vrai?
+
+Début 1998, les Québécois, pionniers de l'internet francophone,
+attendent de pied ferme l'arrivée en masse de sites web français, y
+compris commerciaux. Lors d'un entretien publié par le magazine en
+ligne Multimédium, Louise Beaudouin, ministre de la Culture et des
+Communications au Québec, déclare en février 1998: "J'attendais depuis
+deux ans que la France se réveille. Aujourd'hui, je ne m'en plaindrai
+pas." A cette date, le Québec (6 millions d'habitants) propose plus de
+sites web que la France (60 millions d'habitants). La ministre attribue
+le retard de la France à deux facteurs: d'une part les tarifs élevés du
+téléphone (et donc de l'internet, puisque la connexion s'effectue par
+le biais de la ligne téléphonique), d'autre part les transactions
+commerciales possibles sur le minitel (le videotex français) depuis
+plusieurs années, ce qui ralentit l'expansion du commerce électronique
+sur l'internet.
+
+C'est l'UREC (Unité réseaux du Centre national de la recherche
+scientifique) qui, en France, lance le premier annuaire de sites web
+francophones. L'annuaire de l'UREC a pour but de se familiariser avec
+le web sans se noyer dans la masse d'informations mondiale, et de
+connaître les sites qui petit à petit fleurissent en langue française.
+Créé début 1994, il recense d'abord les sites académiques avant de
+devenir plus généraliste. D'autres annuaires voient ensuite le jour,
+dont certains débutés avec l'aide de l'UREC. Le nombre de sites web, y
+compris commerciaux, augmente de manière exponentielle, si bien que la
+gestion d'un annuaire généraliste devient difficile. En juillet 1997,
+considérant sa mission comme accomplie, l'UREC arrête la mise à jour de
+cet annuaire généraliste, et le remplace par un annuaire spécialisé
+consacré à l'enseignement supérieur et à la recherche.
+
+Le français n'est pas seulement la langue du Québec, de la France et
+d'une partie de la Belgique et de la Suisse. Il est parlé dans de
+nombreux pays - dont un certain nombre de pays africains - ce qui
+représente 500 millions de personnes. Créée en 1970 pour regrouper 21
+États francophones, l'Agence de la Francophonie en compte 47 en 1997.
+Cette agence se veut un "instrument de coopération multilatérale née
+d'un idéal, celui de créer une communauté qui fasse entendre sa voix
+dans le concert des nations."
+
+Une Conférence des ministres francophones chargés des inforoutes a lieu
+à Montréal (Québec) en mai 1997. Datée du 21 mai 1997, la Déclaration
+de Montréal propose de "développer une aire francophone d'éducation, de
+formation et de recherche; soutenir la création et la circulation de
+contenus francophones et contribuer à la sauvegarde et à la
+valorisation des patrimoines; encourager la promotion de l'aire
+francophone de développement économique; mettre en place une vigie
+francophone (veille active); sensibiliser prioritairement la jeunesse
+ainsi que les utilisateurs, les producteurs et les décideurs; assurer
+la présence et la concertation des francophones dans les instances
+spécialisées."
+
+Par ailleurs, l’Agence universitaire de la Francophonie (AUF) crée le
+réseau internet REFER pour desservir la communauté scientifique et
+technique en Afrique, en Asie et en Europe orientale, avec 24 pays
+participants en 2002.
+
+S'il est la langue des pays francophones, le français est aussi la
+deuxième langue utilisée dans les organisations internationales. Malgré
+la pression anglophone - réelle ou supposée selon les cas -, des
+francophones veillent à ce que leur langue ait une place significative
+en Europe et dans le monde, au même titre que les autres grandes
+langues de communication que sont l'anglais, l'arabe, le chinois et
+l'espagnol. Là aussi, l'optique est aussi bien la défense d'une langue
+que le respect du multilinguisme et de la diversité des peuples.

@@ -1,0 +1,750 @@
+ESSEX
+TERRAPLANE
+SIX
+
+1933
+
+Owner's Manual
+of Information
+
+Printed in U. S. A.
+
+
+
+
+Warranty
+
+
+"We warrant each new passenger automobile manufactured by us to be free
+from defects in material and workmanship under normal use and service,
+our obligation under this warranty being limited to making good at our
+factory any part or parts thereof, including all equipment or trade
+accessories (except tires) supplied by the Car Manufacturer, which
+shall, within ninety (90) days after making delivery of such vehicle to
+the original purchaser or before such vehicle has been driven 4000
+miles, whichever event shall first occur, be returned to us with
+transportation charges prepaid, and which our examination shall
+disclose to our satisfaction to have been thus defective, this warranty
+being expressly in lieu of all other warranties expressed or implied
+and of all other obligations or liabilities on our part, and we neither
+assume nor authorize any other person to assume for us any other
+liability in connection with the sale of our vehicles.
+
+"This warranty shall not apply to any vehicle which shall have been
+repaired or altered by other than an authorized Hudson and Essex
+Distributor or Dealer in any way so as, in the judgment of the
+Manufacturer, to affect its stability or reliability nor which has been
+subject to misuse, negligence or accident."
+
+HUDSON MOTOR CAR COMPANY
+Detroit, Michigan, U. S. A.
+
+
+
+
+INDEX
+
+
+General
+
+                                          Page
+
+BREAKING-IN INSTRUCTIONS,                   3
+
+CAPACITIES OF UNITS,                       14
+
+CARE OF FINISH,                            15
+
+LAMP BULB TYPES,                           14
+
+LICENSE DATA,                              14
+
+STARTING THE ENGINE,                        4
+
+WARRANTY,                                   1
+
+
+Lubrication
+
+CHASSIS,                                    7
+
+CLUTCH,                                     5
+
+DISTRIBUTOR,                                8
+
+DOOR DOVETAILS,                             8
+
+DOOR LOCKS AND HINGES,                      8
+
+ENGINE,                                     5
+
+FAN,                                        8
+
+GENERATOR,                                  7
+
+LUBRICATION SERVICE,                       15
+
+REAR AXLE,                                  6
+
+STEERING GEAR,                              7
+
+TRANSMISSION,                               6
+
+WHEEL BEARINGS,                             6
+
+
+Adjustment
+
+ADJUST DISTRIBUTOR POINTS,                  9
+
+BATTERY,                                   14
+
+BRAKES,                                    11
+
+CARBURETOR (SEE ENGINE TUNING),             9
+
+CLUTCH PEDAL,                              11
+
+ENGINE TUNING,                              9
+
+FAN AND GENERATOR BELT,                    10
+
+FRONT WHEEL ALIGNMENT,                     15
+
+FRONT WHEEL BEARINGS,                      12
+
+GENERATOR CHARGING RATE,                   14
+
+IGNITION TIMING,                            9
+
+RADIATOR (COOLING SYSTEM),                 15
+
+REAR WHEEL BEARINGS,                       12
+
+SHOCK ABSORBERS,                           15
+
+SPARK PLUGS,                               14
+
+SPRING CLIPS,                              15
+
+TAPPETS,                                   15
+
+TIRES,                                     15
+
+WHEELS (REMOVAL AND INSTALLATION),         12
+
+WIRING DIAGRAM,                            13
+
+
+
+
+Operation
+
+Breaking-in Instructions
+
+Keep Radiator Full                             Keep Oil Reservoir Full
+
+
+Heat is a major consideration in a new engine. Do not allow the engine
+to overheat. Although the heat indicator on the instrument panel shows
+the general temperature of the engine, it will not show a sudden rise
+in temperature of an individual part.
+
+The pressure imposed on parts such as bearings and pistons due to rapid
+acceleration or hard pulling will cause them to overheat if the car has
+not been driven sufficiently to break them in. Avoid fast acceleration
+and hard pulling while breaking in.
+
+High speed also develops higher operating temperatures and to avoid
+damage the car speed should be kept within the following
+recommendations:
+
+0-250 MILES
+
+     Do not exceed 40 miles per hour in high gear or 20 miles per
+     hour in second. Do not accelerate rapidly. Use second gear
+     on steep grades. Keep motor temperature within "driving
+     range" on dash heat indicator.
+
+250-500 MILES
+
+     Do not exceed 50 miles per hour in high gear or 25 miles per
+     hour in second.
+
+500-1000 MILES
+
+     During this period the speed should not exceed 60 miles per
+     hour.
+
+
+IMPORTANT
+
+Do not UNDER ANY CONSIDERATION attempt to maintain a high rate of speed
+unless the crankcase is full of good oil and until the engine is
+thoroughly warmed up. Cold oil is not able to flow freely into the
+small clearances between working parts so that damage may occur if
+sufficient time is not allowed for warming up before attempting high
+speeds.
+
+
+
+
+[Illustration: OIL SIGNAL, CLUTCH CONTROL, GENERATOR SIGNAL,
+STARTER, LIGHTS, IGNITION, CHOKE]
+
+Starting the Engine
+
+
+If the engine is cold, pull the choke knob out as far as possible, turn
+the ignition switch key to the right, depress the accelerator pedal
+slightly, and pull the starter knob out. When the engine "fires," push
+the choke knob in until the engine runs evenly. Return the choke knob
+gradually to the full in position as the engine warms up. The choke
+knob should never be out any farther than necessary to maintain even
+running of the engine.
+
+If the engine is warm from previous running, use the choke sparingly.
+In most instances the engine will start immediately without the use of
+the choke if the accelerator pedal is held in a slightly depressed
+position while the starter is used. Do not under any circumstances work
+the accelerator pedal rapidly when starting as the accelerator pump may
+flood the carburetor.
+
+=Oil Signal=--The red signal on the left hand indicates oil pressure
+and the functioning of the oiling system. It will glow when the
+ignition switch is turned on but will go out when the car is under way.
+Should it continue to burn or flash while the car is under way, it
+indicates that the oil supply is low or that the oiling system is not
+functioning properly. Do not run the engine until the oil supply has
+been replenished or trouble corrected.
+
+=Generator Signal=--The red signal on the right hand will light when
+the ignition switch is turned on and will be lighted at all times
+unless the engine is running at higher than idling speed. Should this
+signal glow at normal running speeds, it indicates that the generator
+is not charging and should be inspected immediately by an Essex
+dealer.
+
+
+
+
+Lubrication
+
+
+Engine
+
+Use High-Grade Oil--Medium Heavy Body (S.A.E. 30)
+
+[Illustration]
+
+If cold weather prevails, be sure the oil you use will flow at the
+temperatures encountered. Oil supply should be maintained at the full
+mark on the bayonet gauge at the oil filler.
+
+The frequency with which oil should be drained and replenished with new
+depends largely on the operation of the car. Consult your dealer for
+recommendations on your car. In any event the oil should be changed at
+least every 2500 miles.
+
+
+Clutch
+
+[Illustration]
+
+Use only a mixture composed of 1/2 kerosene and 1/2 engine oil. Turn
+starter shaft with wrench, moving wrench handle toward the engine until
+plug "A" is accessible through opening in rear engine plate. Remove
+plug "A," continue turning flywheel until opening is down and all
+clutch oil is drained. Then turn until opening is again accessible.
+Pour in by means of offset funnel no more than 1/3 pint of clutch
+mixture. Replace plug "A" and tighten securely. The clutch oil should
+be drained and replenished at least every 5000 miles.
+
+The clutch throwout bearing should be lubricated with one ounce of
+light viscous grease[A] every 500 miles. A pressure fitting is provided
+on the right side of the clutch bell housing.
+
+[Footnote A: _See page 7 for grease specifications._]
+
+
+Transmission
+
+[Illustration]
+
+The transmission lubricant should be maintained to the level of the
+filler plug "A." In warm climate or during summer months use
+transmission gear oil S.A.E. 110. In winter or when near-zero
+temperatures prevail use transmission gear oil S.A.E. 80. Remove drain
+plug "B" every 5000 miles, flush out with 1 pint of kerosene and refill
+with oil of proper type.
+
+
+Rear Axle
+
+[Illustration]
+
+The oil supply should be kept level with the lower edge of the filler
+plug opening "A." Use a good grade of heavy-bodied gear oil. S.A.E. 110
+in warm climate (summer temperatures)--S.A.E. 90 when lower
+temperatures prevail (winter). During the winter months be sure the oil
+you are using will flow at the temperatures encountered.
+
+
+Wheel Bearings
+
+[Illustration]
+
+The front wheel bearings should be lubricated every 5000 miles with a
+good grade of cup grease. Remove hub and wash bearings and inside of
+hub with kerosene. Pack each bearing and hub with 3 ounces of No. 2 cup
+grease (see page 12 for adjusting wheel bearings).
+
+The rear wheel bearings should be lubricated every 5000 miles with No.
+3 cup grease. Remove four nuts from bearing cap "A" and remove caps and
+shims. Pull bearing and after washing bearing and housing in kerosene
+repack each bearing housing with 1-1/2 ounces of cup grease. Then
+replace bearings, shims and caps, draw up wheel hub tight on shaft and
+install cotter pin.
+
+
+Steering Gear
+
+Summer S.A.E. 160
+Winter S.A.E. 110
+
+[Illustration]
+
+Remove plug "A" and pour a good heavy-bodied gear oil into the steering
+gear housing every 2000 miles. Do not use cup grease or you will
+experience hard steering in cold weather.
+
+
+Chassis
+
+[Illustration]
+
+All spring shackle fittings (12) should be lubricated every 1000 miles
+with a light viscous grease.[B]
+
+All pressure fittings on the front axle (4) and the steering gear drag
+link (2) should be lubricated every 1000 miles with pressure grease.
+
+The front universal joint sleeve splines should be supplied with a
+small amount of long fibre grease, through the plug provided, at
+4000-mile intervals.
+
+[Footnote B: _Grease Specifications--4% Calcium Soap compounded with an
+oil of 400 seconds viscosity and a zero pour test._]
+
+
+Generator
+
+[Illustration]
+
+Supply three or four drops (no more) of engine oil to each oil cup "A"
+and "B" every 1000 miles. Do not attempt to supply more oil as it may
+interfere with the functioning of the generator.
+
+
+Distributor
+
+[Illustration]
+
+Fill distributor base with oil at cup "C" every 2000 miles. Coat rotor
+cam "A" with a thin film of vaseline every 2000 miles. Apply one drop
+(no more) of light oil to breaker arm pivot "B" every 2000 miles. Wipe
+excess oil and clean distributor head, removing oil or dust before
+returning to position. Be sure each high-tension terminal and wire on
+distributor head is pushed as far into its socket as it will go.
+
+
+Fan
+
+[Illustration]
+
+Fill fan shaft bearing with engine oil at oil cup "A" every 1000 miles.
+It is very important that the fan shaft has plenty of lubrication at
+all times.
+
+
+Miscellaneous
+
+=Throttle Control Rod=--Oil or grease all accelerator connections.
+Throttle linkage should work with a snap. Grease choke wire
+occasionally to eliminate sticking.
+
+=Door Locks=--Apply a drop of engine oil occasionally to latch bar.
+Work several times to spread oil, then wipe off excess.
+
+=Door Latch Striker Plate=--Saturate wick with motor oil.
+
+=Door Dovetails=--Saturate wick in male member with motor oil.
+
+=Door Hinges=--Open doors and drop light oil in each hinge oil hole,
+located under the top ledge of body portion of hinge. Wipe off excess.
+
+=Hood Locks=--Lubricate occasionally with motor oil.
+
+
+
+
+Adjustment
+
+
+Engine Tuning
+
+[Illustration]
+
+Do not attempt to adjust the carburetor alone. Perform all of the
+following operations in the order given:
+
+     1. Clean spark plugs and adjust gaps to .025" (.62 mm.).
+
+     2. Clean distributor breaker points and adjust to .020"
+        (.50 mm.) maximum opening as described under Ignition
+        Timing.
+
+     3. Check battery and ignition wiring, being sure _all
+        distributor wires are pressed down in their sockets_.
+
+     4. Set ignition timing as described under Ignition Timing.
+
+     5. Adjust intake valve tappet clearance to .006" (.15 mm.)
+        and exhaust tappet clearance to .008" (.20 mm.).
+
+     6. Turn carburetor idling screw "B" into its seat and back
+        out exactly one turn.
+
+     7. Start engine.
+
+     8. Set carburetor throttle stop screw "A" so that engine
+        idles at a speed equal to a car speed of 5 m.p.h. in high
+        gear.
+
+     9. Adjust carburetor idling screw "B" for smooth engine
+        idling. The final adjustment should be from 1/2 to 1 turn
+        of the screw from its full in position.
+
+If the above operations, properly performed, do not give normal engine
+performance, the car should be taken to an Essex dealer for mechanical
+inspection.
+
+
+Ignition Timing
+
+[Illustration]
+
+Remove distributor cap and inspect points. High points can be removed
+by placing a breaker point file between points and letting them close
+against file under their normal spring pressure. Move file straight up
+and down, dressing both points at the same time. If the points are
+pitted, they should be ground or replaced.
+
+Crank engine, using wrench on starter shaft extension, until the
+breaker arm fibre block is on the highest point of the cam, giving the
+points their maximum opening. If necessary to adjust, loosen lock nut
+"D" and turn screw "E" until the gap is .020" (.50 mm.). Tighten lock
+nut.
+
+Remove the spark plug from number one cylinder. Crank the engine slowly
+by hand until air is forced out through the spark plug hole. Continue
+turning the engine slowly until the D.C. 1 and 6 mark is exactly in
+line with the pointer as shown at "A."
+
+[Illustration]
+
+Loosen distributor clamp screw "B" and turn distributor clockwise to
+the full limit permitted by the slot in the clamping plate "C."
+
+Turn the distributor counterclockwise until the points have just begun
+to open. Tighten lock screw "B."
+
+When the engine is in this position the rotor arm "F" will point
+directly to the sector in the distributor cap to which number one spark
+plug cable is connected. Following around the cap clockwise from this
+point the spark plug wires should be in the following order:
+1-5-3-6-2-4.
+
+
+Fan and Generator Belt
+
+[Illustration]
+
+The fan and generator drive belt must be kept at sufficient tension to
+prevent slippage on the pulleys. Do not adjust too tightly or rapid
+wear on fan and generator bearings will result. To adjust belt tension,
+loosen nut "A" and swing generator away from engine to tighten. Then
+lock adjustment by thoroughly tightening nut "A."
+
+
+Clutch Pedal
+
+[Illustration]
+
+The clutch rod length should be adjusted so that the clutch pedal can
+be pushed down 1-1/2" before the clearance is taken up between the
+levers on the clutch cross shaft and the clutch throwout yoke shaft and
+further movement of the clutch pedal will begin to disengage the
+clutch.
+
+To adjust: Loosen lock nut "A," remove clevis pin "C" and turn yoke "B"
+to obtain proper length. Insert clevis pin and tighten lock nut "A."
+
+
+Brakes
+
+[Illustration]
+
+Unless you are an experienced mechanic, it is advisable to have your
+brakes adjusted by your Essex dealer. The following operation will,
+however, take care of normal brake shoe wear if done carefully:
+
+Jack up car, remove all four wheels and remove the inspection covers
+from the front of the brake drums. Disconnect the four brake cables
+from the cross shaft; turn the brake drum until the inspection hole is
+1-1/2" from the adjusting screw end of the lining of the upper shoe
+(rear of front brakes--front of rear brakes).
+
+Insert a .014" (.35 mm.) feeler through the inspection hole. Loosen
+eccentric lock nut "A" and turn eccentric "B" in the direction the
+wheel rotates when the car is moving forward until the feeler is held
+snugly between the drum and the lining. Hold the eccentric in this
+position and tighten lock nut "A." Make this adjustment on all four
+brakes.
+
+Turn brake drum until inspection hole is 1-1/2" from adjusting screw
+end of the lining of the lower shoe (rear of front brakes--front of
+rear brakes). Insert a .008" (.15 mm.) feeler through inspection hole.
+Insert a screwdriver through opening "C" and turn star wheel until
+feeler is held snugly. Move the handle of the screwdriver toward the
+axle to tighten brakes. Make this adjustment on all four wheels.
+
+Reconnect the brake cables at the cross shaft, adjusting the position
+of the cable yoke so that the clevis pin can just be inserted in the
+yoke and cross shaft lever hole when the cable is held just taut enough
+to remove slack.
+
+If trial on road shows too much braking on one wheel, loosen that brake
+by turning star wheel with screwdriver one notch at a time until the
+brake is equal with the others. Always loosen the tight brake--do not
+tighten the loose brakes or the pedal travel will be restricted and may
+cause brake drag.
+
+
+Front Wheel Bearings
+
+[Illustration]
+
+After jacking up front axle and removing the hub cap, withdraw cotter
+key holding nut "A." Turn nut "A" to the right until a slight drag is
+felt when turning the wheel slightly by hand. Then loosen the nut just
+sufficiently to permit the wheel to turn freely. Insert cotter key.
+
+
+Rear Wheel Bearings
+
+[Illustration]
+
+To adjust rear wheel bearings, jack up rear axle and remove both rear
+wheels. Remove the four nuts from bearing cap "A" and remove cap. By
+removing shims "B" under the cap the end play of the axle shaft is
+decreased. Total play between axle shafts should be from .005" to .010"
+(.12 to .25 mm.) which is perceptible by pulling shaft in and out with
+the hand. It is necessary that the thickness of shims at each rear
+wheel be approximately the same, so when adjusting remove a thin shim
+from each side and repeat, if necessary, until only a slight amount of
+play is evident. Be sure the axle shafts turn freely before building
+up.
+
+
+Removing and Installing Wheels
+
+To remove a wheel, place a screwdriver between the hub cap and hub and
+pry off cap. Loosen the four cap screws "B" (illustration top of page)
+with the socket wrench provided. Remove one cap screw in the lowest
+position and insert the handle of the wrench through the screw hole
+into the hub. While holding the wheel in position with the wrench,
+remove the other cap screws and lift off the wheel. The wheels should
+be jacked up just sufficiently to clear the ground. When replacing the
+wheel, place the handle of the wrench through the lower cap screw hole,
+lift up on the wrench so that the wheel will clear the ground and push
+in place. Align by moving wrench back and forth. Then start two of the
+cap screws, remove the wrench and start the remaining two. Tighten
+every other cap screw until all are down enough to hold wheel in place,
+making sure it is square on the hub. Continue tightening every other
+screw until all are secure.
+
+
+[Illustration:
+
+                               OIL PRESSURE
+                                TELL TALE               COIL
+           DISTRIBUTOR
+                                                         IGNITION LOCK
+                         OIL CHECK VALVE
+                                         TO STARTER           TO COIL
+
+                                                 LIGHT           DOME
+                                  GENERATOR     SWITCH          LIGHT
+                                   TELL TALE
+         HORN
+                        HORN BUTTON                             TO
+                                                                DIMMER
+                                                                SWITCH
+                          TO TAIL AND
+FAN PULLEY                INSTRUMENT
+           RELAY          LAMPS              TO DOME LIGHT
+                                             AND STOP LIGHT
+                           TO PARKING        SWITCH          STOP LAMP
+           STARTER         LIGHT                             SWITCH
+
+        GENERATOR          BATTERY                           TAIL LAMP
+
+        DIMMER SWITCH
+                           SPEEDOMETER
+
+
+                                                            GASOLENE
+                                                            TANK GAUGE
+
+                                         GAS & TEMP GAUGE
+
+WIRING DIAGRAM]
+
+
+
+
+General Information
+
+
+License Data
+
+CYLINDER BORE--2-15/16"--74.61 mm.
+STROKE--4-3/4"--120.65 mm.
+NUMBER OF CYLINDERS--6
+N. A. C. C. HORSEPOWER RATING--20.7 H.P.
+PISTON DISPLACEMENT--193 cubic inches--3.15 liters
+CAR SERIAL NUMBER--Plate on dash under bonnet
+                      106" Wheelbase--368,379 and up
+                      113" Wheelbase--  5,001 and up
+ENGINE SERIAL NUMBER--Stamped on left side (center) of cylinder block
+(25,131 and up)
+
+
+Capacities
+
+                                  U. S.       Imperial       Metric
+RADIATOR AND COOLING SYSTEM      3   gals.    2.5  gals.   11.35 liters
+GASOLINE TANK, 106" Wheelbase   11.5 gals.    9.58 gals.   43.53 liters
+GASOLINE TANK, 113" Wheelbase   16   gals.   13.3  gals.   60.57 liters
+ENGINE CRANKCASE (REFILL)        6   qts.     5    qts.     5.68 liters
+CLUTCH                           1/3 pint     1/3  pint      180 c.c.
+TRANSMISSION                     3   pints    3    pints    1.4  liters
+REAR AXLE                        3   pints    3    pints    1.4  liters
+
+
+Spark Plugs
+
+Size 14 mm. Set points at exactly .025" (.62 mm.). Replace after each
+10,000 miles (16,000 kilometers) of service.
+
+
+Generator Charging Rate
+
+Generator is regulated by position of third brush. This should only be
+altered by competent service stations using accurate measuring
+instruments.
+
+Generator output { 17 amperes at 8 volts
+                 { 13 amperes at 6 volts
+
+Output to be measured at generator. Do not exceed the above rates.
+
+
+Battery
+
+Use only distilled water to cover plates. This should be done as
+frequently as found necessary. An average of every two weeks during the
+summer months (less frequently in cooler weather).
+
+
+Lamp Bulbs
+
+                                Candle Power        Base       Voltage
+HEADLAMP (DOUBLE FILAMENT)       21-21         Double Contact    6-8
+PARKING (IN HEADLAMP OR ON
+  FRONT FENDERS)                     3         Single Contact    6-8
+TELLTALES (ON INSTRUMENT BOARD)      3         Double Contact    6-8
+INSTRUMENT BOARD                     3         Single Contact    6-8
+STOP AND TAIL LAMP (DOUBLE
+  FILAMENT)                       2-21         Double Contact    6-8
+DOME                                15         Single Contact    6-8
+FUSE (AT LAMP                       20 Amperes
+
+
+Engine
+
+_Firing order_ of cylinders--1-5-3-6-2-4.
+
+
+Tappets
+
+Adjust when engine is hot. Minimum clearances--inlet valves, .006" (.15
+mm.); exhaust, .008" (.20 mm.). Counting from the front, intake tappets
+are 2-4-5-8-9-11 and exhaust tappets 1-3-6-7-10-12.
+
+
+Cooling System
+
+It is good practice to drain, flush and refill the cooling system
+occasionally. If freezing temperatures are encountered in your
+community, anti-freeze solution will be necessary during the winter
+months.
+
+
+Chassis Lubrication
+
+This book contains detailed information covering lubrication of all
+units. Spring shackles and steering connections equipped with pressure
+fittings should be lubricated every 1000 miles. Your Essex dealer will
+arrange to completely lubricate your car at regular intervals at small
+cost.
+
+
+Spring Clips
+
+The nuts on the clips holding springs to axles, front and rear, should
+be tightened every 5000 miles.
+
+
+Front Wheel Alignment
+
+The front wheels should have a toe-in of from 0" to a maximum of 1/8"
+(3.2 mm.) for 5.25 tires and 1/4" (6.4 mm.) for 6.00 tires. Have your
+dealer check the alignment occasionally and adjust if necessary.
+
+
+Shock Absorbers
+
+Shock Absorbers--Monroe. Have dealer fill with Monroe Cushion Oil every
+2000 to 5000 miles.
+
+
+Tires
+
+                  Minimum  Pressure
+Size              Front        Rear
+17 x 5.25         28 lbs.    28 lbs.
+16 x 6.00         21 lbs.    21 lbs.
+
+
+Care of Finish
+
+We recommend the use of Hudson-Essex Polish, which is procurable from
+your dealer. An occasional polishing will preserve the finish. A wax
+coating is recommended, providing the lacquer is thoroughly cleaned and
+prepared for the wax surface.
+
+
+Printed in U. S. A.
+S.H.--2500--7-33

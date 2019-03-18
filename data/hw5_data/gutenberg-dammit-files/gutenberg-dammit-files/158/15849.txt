@@ -1,0 +1,3731 @@
+Note du transcripteur.
+  ======================================================================
+  Ce document est tiré de:
+
+  OEUVRES COMPLÈTES DE
+  SHAKSPEARE
+
+  TRADUCTION DE
+  M. GUIZOT
+
+  NOUVELLE ÉDITION ENTIÈREMENT REVUE
+  AVEC UNE ÉTUDE SUR SHAKSPEARE
+  DES NOTICES SUR CHAQUE PIÈCE ET DES NOTES
+
+  Volume 3
+  Timon d'Athènes.
+  Le Jour des Rois.--Les deux gentilshommes de Vérone.
+  Roméo et Juliette.--Le Songe d'une nuit d'été.
+  Tout est bien qui finit bien.
+
+  PARIS
+  A LA LIBRAIRIE ACADÉMIQUE
+  DIDIER ET Cie, LIBRAIRES-ÉDITEURS
+  35, QUAI DES AUGUSTINS
+  1862
+
+
+  ======================================================================
+
+                             TIMON D'ATHÈNES
+
+                                 COMÉDIE
+
+
+
+
+NOTICE SUR TIMON D'ATHÈNES
+
+Le nom de Timon était devenu proverbial dans l'antiquité pour exprimer
+un misanthrope. L'histoire de sa misanthropie, et le bizarre caractère
+de ce personnage frappèrent sans doute Shakspeare pendant qu'il
+s'occupait d'_Antoine et Cléopâtre_, et voici le passage de Plutarque
+qui lui a probablement suggéré l'idée de sa pièce:
+
+«Quant à Antonius, il laissa la ville et la conversation de ses amis,
+et feit bastir une maison dedans la mer, près de l'isle de Pharos, sur
+certaines chaussées et levées qu'il fit jeter à la mer, et se tenoit
+céans, comme se bannissant de la compagnie des hommes, et disoit qu'il
+vouloit mener une telle vie comme Timon, pour autant qu'on lui avoit
+fait le semblable qu'à luy, et pour l'ingratitude et le grand tort que
+luy tenoient ceulx à qui il avoit bien fait, et qu'il estimoit ses amis;
+il se deffioit et se mescontentoit de tous les autres.
+
+«Ce Timon estoit un citoyen d'Athènes, lequel avoit vescu environ la
+guerre du Péloponèse; comme l'on peult juger par les comédies de Platon
+et d'Aristophanes, esquelles il est moqué et touché comme malveuillant
+et ennemy du genre humain, refusant et abhorrissant toute compagnie et
+communication des autres hommes, fors que d'Alcibiades, jeune, audacieux
+et insolent, auquel faisoit bonne chère, et l'embrassoit et baisoit
+volontiers, dequoy s'esbahissant Apémantus, et lui en demandant la cause
+pourquoi il chérissoit ainsi ce jeune homme là seul, et abominoit tous
+les autres: «Je l'aime, répondit-il, pour autant que je sçay bien et
+suis seur qu'un jour il sera cause de grands maulx aux Athéniens.» Ce
+Timon recevoit aussi quelque fois Apémantus en sa compagnie, pour autant
+qu'il étoit semblable de moeurs à luy, et qu'il imitoit fort sa manière
+de vivre. Un jour doncques que l'on célébroit à Athènes la solennité que
+l'on appelle Choès, c'est-à-dire la feste des morts, là où on fait des
+effusions et sacrifices pour les trespassez, ils se festoyoient eulx
+deux ensemble tout seuls, et se prit Apémantus à dire: «Que voici un
+beau banquet, Timon;» et Timon lui respondit: «Oui bien, si tu n'y
+estois point.»
+
+«L'on dit qu'un jour, comme le peuple estoit assemblé sur la place pour
+ordonner de quelque affaire, il monta à la tribune aux harangues, comme
+faisoient ordinairement les orateurs quand ils vouloient haranguer
+et prescher le peuple; si y eut un grand silence et estoit chacun
+très-attentif à ouïr ce qu'il voudroit dire, à cause que c'étoit une
+chose bien nouvelle et bien estrange que de le veoir en chaire. A la
+fin, il commence à dire: «Seigneurs Athéniens, j'ai en ma maison une
+petite place où il y a un figuier auquel plusieurs se sont desjà penduz
+et étranglez, et pour autant que je veulx y faire bastir, je vous ai
+bien voulu advertir devant que faire couper le figuier, à cette fin que
+si quelques-uns d'entre vous se veulent pendre, qu'ils se dépeschent.»
+Il mourut en la ville d'Hales, et fut inhumé sur le bord de la mer.
+Si advint que, tout alentour de sa sépulture, le village s'éboula,
+tellement que la mer qui alloit flottant à l'environ, gardoit qu'on
+n'eût sçeu approcher du tombeau, sur lequel il y avoit des vers engravés
+de telle substance:
+
+  Ayant fini ma vie malheureuse,
+  En ce lieu-cy on m'y a inhumé;
+  Mourez, méchants, de mort malencontreuse,
+  Sans demander comment je fus nommé.
+
+On dit que luy-mesme feit ce bel épitaphe; car celui que l'on allègue
+communément n'est pas de lui, ains est du poëte Callimachus:
+
+  Ici je fais pour toujours ma demeure,
+  Timon encor les humains haïssant.
+  Passe, lecteur, en me donnant male heure,
+  Seulement passe, et me va maudissant.
+
+«Nous pourrions escrire beaucoup d'autres choses dudit Timon, mais ce
+peu que nous en avons dit est assez pour le présent.»
+
+(_Vie d'Antoine_, par Plutarque, traduction _d'Amyot_.)
+
+Malgré quelques rapprochements qu'on pourrait trouver, à la rigueur,
+entre le _Timon_ de Shakspeare et un dialogue de Lucien qui porte le
+même titre, nous pensons que cet épisode de Plutarque lui a suffi pour
+composer sa pièce. C'est dans sa propre imagination qu'il a trouvé
+le développement du caractère de Timon, celui d'Apémantus, dont la
+misanthropie contraste si heureusement avec la sienne; la description
+du luxe et des prodigalités de Timon au milieu de ses flatteurs, et sa
+sombre rancune contre les hommes, au milieu de la solitude.
+
+Cette pièce est une des plus simples de Shakspeare: contre son
+ordinaire, le poëte est sérieusement occupé de son sujet jusqu'au
+dernier acte; et, fidèle à l'unité de son plan, il ne se permet aucune
+excursion qui nous en éloigne. La fable consiste en un seul événement:
+l'histoire d'un grand seigneur que ses amis abandonnent en même temps
+que son opulence, et qui, du plus généreux des hommes, devient le plus
+sauvage et le plus atrabilaire. On a beaucoup discuté sur le caractère
+moral de Timon, pour savoir si on devait le plaindre dans son malheur,
+ou s'il fallait regarder la perte de sa fortune comme une mortification
+méritée. Il nous semble, en effet, que ses vertus ont été des vertus
+d'ostentation, et que sa misanthropie n'est encore qu'une suite de sa
+manie de se singulariser par tous les extrêmes; dans sa générosité il
+n'est prodigue que pour des flatteurs; sa richesse nourrit le vice au
+lieu d'aller secourir l'indigent; une bienfaisance éclairée ne préside
+point à ses dons. Cependant sa confiance en ses amis indique une âme
+naturellement noble, et leur lâche désertion nous indigne surtout quand
+ce seigneur, dont ils trahissent l'infortune, a su trouver un serviteur
+comme Flavius. La transition subite de la magnificence à la vie sauvage
+est bien encore dans le caractère de Timon, et c'est un contraste
+admirable que sa misanthropie et celle d'Àpémantus. Celui-ci a tout le
+cynisme de Diogène, et son égoïsme et son orgueil, qui percent à travers
+ses haillons, trahissent le secret de ses sarcasmes et de ses mépris
+pour les hommes. Une basse envie le dévore; l'indignation seule s'est
+emparée de l'âme de Timon; ses véhémentes invectives sont justifiées par
+le sentiment profond des outrages qu'il a reçus; c'est une sensibilité
+exagérée qui l'égaré, et s'il hait les hommes, c'est qu'il croit
+de bonne foi les avoir aimés; peut-être même sa haine est-elle si
+passionnée, si idéale, qu'il s'abuse, lui-même en croyant les haïr plus
+qu'Apémantus dont l'âme est naturellement lâche et méchante.
+
+Les sarcasmes du cynique et les éloquentes malédictions du misanthrope
+ont fait dire que cette pièce était autant une satire qu'un drame. Cette
+intention de satire se remarque surtout dans le choix des caractères,
+qu'on pourrait appeler une véritable critique du coeur de l'homme eu
+général dans toutes les conditions de la vie. Nous venons de citer
+Apémantus, égoïste cynique, et Timon, dont la vanité inspire la
+misanthropie comme elle inspira sa libéralité; vient ensuite Alcibiade,
+jeune débauché, qui n'hésite pas à sacrifier sa patrie à ses vengeances
+particulières. Le peintre et le poète prostituent les plus beaux des
+arts à une servile adulation et à l'avance; les nobles Athéniens sont
+tous des parasites; mais il semble cependant que Shakspeare n'ait jamais
+voulu nous offrir un tableau complètement hideux d'hypocrisie. Flavius
+est bien capable de réconcilier avec les hommes ceux en qui la lecture
+de _Timon d'Athènes_ pourrait produire la méfiance et la misanthropie.
+Que de dignité dans cet intendant probe et fidèle! Timon lui-même est
+forcé de rendre hommage à sa vertu. Ce caractère est vraiment une
+concession que le poète a faite à son âme naturellement grande et
+tendre.
+
+Hazzlitt, un des plus ingénieux commentateurs du caractère moral de
+Shakspeare, et qui, dans son admiration raisonnée, semble jaloux de
+celle de Schlegel, fait remarquer en terminant l'analyse de la pièce qui
+nous occupe que, dans son isolement, Timon, résolu à chercher le repos
+dans un monde meilleur, entoure son trépas des pompes de la nature. Il
+creuse sa tombe sur le rivage de l'Océan, appelle à ses funérailles
+toutes les grandes images du désert et fait servir les éléments à son
+mausolée.
+
+«Ne revenez plus me voir; mais dites à Athènes que Timon a bâti sa
+dernière demeure sur les grèves de l'onde amère qui, une fois par jour,
+viendra la couvrir de sa bouillante écume: venez dans ce lieu et que la
+pierre de mon tombeau soit votre oracle.» Plus loin Alcibiade, après
+avoir lu son épitaphe, dit encore de Timon:
+
+«Ces mots expriment bien tes derniers sentiments. Si tu avais en horreur
+les regrets de notre douleur, si tu méprisais ces gouttes d'eau que la
+nature avait laissé couler de nos yeux, une sublime idée t'inspira de
+faire pleurer à jamais le grand Neptune sur ta tombe.»
+
+C'est ainsi que Timon fait des vents l'hymne de ses funérailles; que le
+murmure de l'Océan est une voix de douleur sur ses dépouilles mortelles,
+et qu'il cherche enfin dans les éternelles solennités de la nature
+l'oubli de la splendeur passagère de la vie.
+
+_La vie de Timon d'Athènes_ parut d'abord dans l'édition in-folio de
+1623. On ne sait avec certitude à quelle époque elle a été écrite,
+quoique Malone lui assigne pour date l'année 1610.
+
+Thomas Shadwell, poète lauréat sous le roi Guillaume III, et rival de
+Dryden, publia, en 1678, _Timon d'Athènes_ avec des changements; mais,
+dans l'épilogue, il appelle sa pièce une greffe entée sur le tronc de
+Shakspeare, et il se flatte qu'on lui pardonnera ses changements en
+faveur de la part que ce poëte y conserve.
+
+La pièce de _Timon d'Athènes,_ telle qu'on la joue encore aujourd'hui à
+Londres, a été arrangée par Cumberland, un des auteurs dramatiques
+les plus estimés de l'Angleterre. Il a conservé la majeure partie de
+l'original, et marqué spécialement ses additions et corrections pour que
+la part de chaque poëte fût aperçue au premier examen.
+
+En 1723, Delisle traita le sujet de _Timon d'Athènes_ pour le théâtre
+italien avec un prologue, des chants, des danses, des personnages
+allégoriques et un arlequin. On voit qu'elle porte un autre cachet que
+celle de Shakespeare. Elle ne manque pas d'une certaine originalité, et
+les Anglais l'ont traduite sous le titre de _Timon amoureux_.
+
+
+
+
+TIMON D'ATHÈNES
+
+COMÉDIE
+
+
+
+PERSONNAGES
+
+TIMON, noble Athénien.
+LUCIUS, LUCULLUS, SEMPRONIUS seigneurs; flatteurs de Timon.
+VENTIDIUS, un des faux amis de Timon.
+APÉMANTUS, philosophe grossier.
+ALCIBIADE, général athénien.
+FLAVIUS, intendant de Timon.
+FLAMINIUS, LUCILIUS, SERVILIUS, serviteurs de Timon.
+CAPHIS, PHILOTUS, TITUS, LUCIUS, HORTENSIUS, serviteurs des créanciers
+de Timon.
+DEUX SERVITEURS DE VARRON, ET LE SERVITEUR D'ISIDORE,
+CRÉANCIERS DE TIMON.
+CUPIDON ET MASQUES. TROIS ÉTRANGERS.
+UN POÈTE, UN PEINTRE, UN JOAILLIER, UN MARCHAND, UN VIEILLARD ATHÉNIEN,
+UN PAGE, UN FOU. PHRYNIA [1], TIMANDRA, maîtresses d'Alcibiade AUTRES
+SEIGNEURS, SÉNATEURS, OFFICIERS, SOLDATS, VOLEURS ET SERVITEURS.
+
+La scène est à Athènes et dans les bois voisins.
+
+[Note 1: Phrynia. Peut-être Shakspeare a-t-il voulu mettre en scène
+la fameuse Phryné, qui était si belle que, sur le point de se voir
+condamnée par ses juges, elle leur découvrit son sein, et fut renvoyée
+acquittée]
+
+
+
+
+ACTE PREMIER
+
+
+
+SCÈNE I
+
+
+Athènes. Salle dans la maison de Timon.
+
+_Entrent par différentes portes_ UN POÈTE, UN PEINTRE, _puis_ UN
+JOAILLIER, UN MARCHAND _et autres_.
+
+LE POÈTE.--Bonjour, monsieur.
+
+LE PEINTRE.--Je suis bien aise de vous voir en bonne santé.
+
+LE POÈTE.--Je ne vous ai pas vu depuis longtemps: comment va le monde?
+
+LE PEINTRE.--Il s'use, monsieur, en vieillissant.
+
+LE POÈTE.--Oui, on sait cela: mais y a-t-il quelque rareté particulière?
+qu'y a-t-il d'étrange et dont l'histoire ne donne d'exemple?--Vois, ô
+magie de la générosité! c'est ton charme puissant qui évoque ici tous
+ces esprits!--Je connais ce marchand.
+
+LE PEINTRE.--Et moi, je les connais tous deux: l'autre est un joaillier.
+
+LE MARCHAND.--Oh! c'est un digne seigneur.
+
+LE JOAILLIER.--Oui, cela est incontestable.
+
+LE MARCHAND.--Un homme incomparable, animé, à ce qu'il semble, d'une
+bonté infatigable et soutenue. Il va au delà des bornes.
+
+LE JOAILLIER.--J'ai ici un joyau.
+
+LE MARCHAND.--Oh! je vous prie, voyons-le: pour le seigneur Timon,
+monsieur?
+
+LE JOAILLIER.--S'il veut en donner le prix: mais, quant à cela....
+
+LE POÈTE, _occupé à lire ses ouvrages_.--«Quand l'appât d'un salaire
+nous a fait louer l'homme vil, c'est une tache qui flétrit la gloire des
+beaux vers consacrés avec justice à l'homme de bien.»
+
+LE MARCHAND, _considérant le diamant_.--La forme est belle.
+
+LE JOAILLIER.--Est-ce un riche bijou? voyez-vous la belle eau?
+
+LE PEINTRE, _au poète_.--Vous êtes plongé, monsieur, dans la composition
+de quelque ouvrage? Quelque dédicace au grand Timon?
+
+LE POÈTE.--C'est une chose qui m'est échappée sans y penser: notre
+poésie est comme une gomme qui coule de l'arbre qui la nourrit. Le feu
+caché dans le caillou ne se montre que lorsqu'il est frappé; mais notre
+noble flamme s'allume elle-même, et, comme le torrent, franchit chaque
+digue dont la résistance l'irrite. Qu'avez-vous là?
+
+LE PEINTRE.--Un tableau, monsieur.--Et quand votre livre paraît-il?
+
+LE POÈTE.--Il suivra de près ma présentation.--Voyons votre tableau.
+
+LE PEINTRE.--C'est un bel ouvrage!
+
+LE POÈTE, _considérant le tableau_.--En effet, c'est bien, c'est
+parfait.
+
+LE PEINTRE.--Passable.
+
+LE POÈTE.--Admirable! Que de grâce dans l'attitude de cette figure!
+Quelle intelligence étincelle dans ces yeux! Quelle vive imagination
+anime ces lèvres! On pourrait interpréter ce geste muet.
+
+LE PEINTRE.--C'est une imitation assez heureuse de la vie. Voyez ce
+trait; vous semble-t-il bien?
+
+LE POÈTE.--Je dis que c'est une leçon pour la nature; la vie qui respire
+dans cette lutte de l'art est plus vivante que la nature.
+
+(Entrent quelques sénateurs qui ne font que passer.)
+
+LE PEINTRE.--Comme le seigneur Timon est recherché!
+
+LE POÈTE.--Les sénateurs d'Athènes! L'heureux mortel!
+
+LE PEINTRE.--Regardez, en voilà d'autres!
+
+LE POÈTE.--Vous voyez ce concours, ces flots de visiteurs. Moi, j'ai,
+dans cette ébauche, esquissé un homme à qui ce monde d'ici-bas prodigue
+ses embrassements et ses caresses. Mon libre génie ne s'arrête pas à un
+caractère particulier, mais il se meut au large dans une mer de cire
+[2]. Aucune malice personnelle n'empoisonne une seule virgule de mes
+vers; je vole comme l'aigle; hardi dans mon essor, ne laissant point de
+trace derrière moi.
+
+[Note 2: On sait que les anciens écrivaient sur des tablettes de
+cire avec un stylet de fer.]
+
+LE PEINTRE.--Comment pourrai-je vous comprendre?
+
+LE POÈTE.--Je vais m'expliquer.--Vous voyez comme tous les états, tous
+les esprits (autant ceux qui sont liants et volages, que les gens graves
+et austères), viennent tous offrir leurs services au seigneur Timon.
+Son immense fortune, jointe à son caractère gracieux et bienfaisant,
+subjugue et conquiert toute sorte de coeurs pour l'aimer et le servir,
+depuis le souple flatteur, dont le visage est un miroir, jusqu'à cet
+Apémantus qui n'aime rien autant que se haïr lui-même; il plie aussi
+le genou devant lui, et retourne content et riche d'un coup d'oeil de
+Timon.
+
+LE PEINTRE.--Je les ai vus causer ensemble.
+
+LE POÈTE.--Monsieur, j'ai feint que la Fortune était assise sur son
+trône, au sommet d'une haute et riante colline. La base du mont est
+couverte par étages de talents de tout genre, d'hommes de toute espèce,
+qui travaillent sur la surface de ce globe, pour améliorer leur
+condition. Au milieu de cette foule dont les yeux sont attachés sur la
+souveraine, je représente un personnage sous les traits de Timon, à qui
+la déesse, de sa main d'ivoire, fait signe d'avancer, et par sa faveur
+actuelle change actuellement tous ses rivaux en serviteurs et en
+esclaves.
+
+LE PEINTRE.--C'est bien imaginé, ce trône, cette Fortune et cette
+colline, et au bas un homme appelé au milieu de la foule, et qui, la
+tête courbée en avant, sur le penchant du mont, gravit vers son bonheur;
+voilà, ce me semble, une scène que rendrait bien notre art.
+
+LE POÈTE.--Soit, monsieur; mais laissez-moi poursuivre. Ces hommes,
+naguère encore ses égaux (et quelques-uns valaient mieux que lui),
+suivent tous maintenant ses pas, remplissent ses portiques d'une cour
+nombreuse, versent dans son oreille leurs murmures flatteurs, comme la
+prière d'un sacrifice, révèrent jusqu'à son étrier, et ne respirent que
+par lui l'air libre des cieux.
+
+LE PEINTRE.--Oui, sans doute: et que deviennent-ils?
+
+LE POÈTE.--Lorsque soudain la Fortune, dans un caprice et un changement
+d'humeur, précipite ce favori naguère si chéri d'elle, tous ses
+serviteurs qui, rampant sur les genoux et sur leurs mains, s'efforçaient
+après lui de gravir vers la cime du mont, le laissent glisser en bas;
+pas un ne l'accompagne dans sa chute.
+
+LE PEINTRE.--C'est l'ordinaire; je puis vous montrer mille tableaux
+moraux qui peindraient ces coups soudains de la fortune, d'une manière
+plus frappante que les paroles. Cependant vous avez raison de faire
+sentir au seigneur Timon que les yeux des pauvres ont vu le puissant
+pieds en haut, tête en bas.
+
+(Fanfares. Entre Timon avec sa suite: le serviteur de Ventidius cause
+avec Timon.)
+
+TIMON.--Il est emprisonné, dites-vous?
+
+LE SERVITEUR DE VENTIDIUS.--Oui, mon bon seigneur. Cinq talents sont
+toute sa dette. Ses moyens sont restreints, ses créanciers inflexibles.
+Il implore une lettre de votre Grandeur à ceux qui l'ont fait enfermer;
+si elle lui est refusée il n'a plus d'espoir.
+
+TIMON.--Noble Ventidius! Allons.--Il n'est pas dans mon caractère de me
+débarrasser d'un ami quand il a besoin de moi. Je le connais pour un
+homme d'honneur qui mérite qu'on lui donne du secours: il l'aura; je
+veux payer sa dette et lui rendre la liberté.
+
+LE SERVITEUR DE VENTIDIUS.--Votre Seigneurie se l'attache pour jamais.
+
+TIMON.--Saluez-le de ma part: je vais lui envoyer sa rançon; et
+lorsqu'il sera libre, dites-lui de me venir voir. Ce n'est pas assez de
+relever le faible, il faut le soutenir encore après. Adieu!
+
+LE SERVITEUR DE VENTIDIUS.--Je souhaite toute prospérité à votre
+Honneur.
+
+(Il sort.)
+
+(Entre un vieillard athénien.)
+
+LE VIEILLARD.--Seigneur Timon, daignez m'entendre.
+
+TIMON.--Parlez, bon père.
+
+LE VIEILLARD.--Vous avez un serviteur nommé Lucilius?
+
+TIMON.--Il est vrai; qu'avez-vous à dire de lui?
+
+LE VIEILLARD.--Noble Timon, failes-le venir devant vous.
+
+TIMON.--Est-il ici ou non? Lucilius!
+
+(Entre Lucilius.)
+
+LUCILIUS.--Me voici, seigneur, à vos ordres.
+
+LE VIEILLARD.--Cet homme, seigneur Timon, votre créature, hante de nuit
+ma maison. Je suis un homme qui, depuis ma jeunesse, me suis adonné
+au négoce; et mon état mérite, un plus riche héritier qu'un homme qui
+découpe à table.
+
+TIMON.--Eh bien! qu'y a-t-il de plus?
+
+LE VIEILLARD.--Je n'ai qu'une fille, une fille unique, à qui je puisse
+transmettre ce que j'ai. Elle est belle, et des plus jeunes qu'on puisse
+épouser. Je l'ai élevée avec de grandes dépenses pour lui faire acquérir
+tous les talents. Ce valet, qui vous appartient, ose rechercher son
+amour. Je vous conjure, noble seigneur, joignez-vous à moi pour lui
+défendre de la fréquenter; pour moi, j'ai parlé en vain.
+
+TIMON.-Le jeune homme est honnête.
+
+LE VIEILLARD.--Il le sera donc envers moi, Timon.... Que son honnêteté
+lui serve de récompense sans m'enlever ma fille.
+
+TIMON.--L'aime-t-elle?
+
+LE VIEILLARD.--Elle est jeune et crédule. Nos passions passées nous
+apprennent combien la jeunesse est légère.
+
+TIMON.--Aimes-tu cette jeune fille?
+
+LUCILIUS.--Oui, mon bon seigneur, et elle agrée mon amour.
+
+LE VIEILLARD.--Si mon consentement manque à son mariage, j'atteste ici
+les dieux que je choisirai mon héritier parmi les mendiants de ce monde,
+et que je la déshérite de tout mon bien.
+
+TIMON.--Et quelle sera sa dot, si elle épouse un mari sortable?
+
+LE VIEILLARD.--Trois talents pour le moment; à l'avenir, tout.
+
+TIMON.--Cet honnête homme me sert depuis longtemps: je veux faire un
+effort pour fonder sa fortune, car c'est un devoir pour moi. Donnez-lui
+votre fille; ce que vous avancerez pour sa dot sera la mesure de mes
+dons, et je rendrai la balance égale entre elle et lui.
+
+LE VIEILLARD.--Noble seigneur, donnez-m'en votre parole, et ma fille est
+à lui.
+
+TIMON.--Voilà ma main, et mon honneur sur ma promesse.
+
+LUCILIUS.--Je remercie humblement votre Seigneurie: tout ce qui pourra
+jamais m'arriver de fortune et de bonheur, je le regarderai toujours
+comme venant de vous.
+
+(Lucilius et le vieillard sortent.)
+
+LE POÈTE.--Agréez mon travail, et que votre Seigneurie vive longtemps!
+
+TIMON.--Je vous remercie; vous aurez bientôt de mes nouvelles; ne vous
+écartez point. _(Au peintre.)_ Qu'avez-vous là, mon ami?
+
+LE PEINTRE,--Un morceau de peinture, que je conjure votre Seigneurie
+d'accepter.
+
+TIMON.--La peinture me plaît: la peinture est presque l'homme au
+naturel; car depuis que le déshonneur trafique des sentiments naturels,
+l'homme n'est qu'un visage, tandis que les figures que trace le pinceau
+sont du moins tout ce qu'elles paraissent.... J'aime votre ouvrage, et
+vous en aurez bientôt la preuve; attendez ici jusqu'à ce que je vous
+fasse avertir.
+
+LE PEINTRE.--Que les dieux vous conservent!
+
+TIMON.--Portez-vous bien, messieurs; donnez-moi la main: il faut
+absolument que nous dînions ensemble.--Monsieur, votre bijou a souffert
+d'être trop estimé..
+
+LE JOAILLIER.--Comment, seigneur, on l'a déprécié?
+
+TIMON.--On a seulement abusé des louanges. Si je vous le payais ce qu'on
+l'estime, je serais tout à fait ruiné.
+
+LE JOAILLIER.--Seigneur, il est estimé le prix qu'en donneraient ceux
+mêmes qui le vendent. Mais vous savez que des choses de valeur égale
+changent de prix dans les mains du propriétaire, et sont estimées en
+raison de la valeur du maître. Croyez-moi, mon cher seigneur, vous
+embellissez le bijou en le portant.
+
+TIMON.--Bonne plaisanterie!
+
+LE MARCHAND.--Non, seigneur; ce qu'il dit là, tout le monde le répète
+avec lui.
+
+TIMON.--Voyez qui vient ici. Voulez-vous être grondés?
+
+(Entre Apémantus.)
+
+LE JOAILLIER.--Nous le supporterons, avec votre Seigneurie.
+
+LE MARCHAND.--Il n'épargnera personne.
+
+TIMON.--Bonjour, gracieux Apémantus.
+
+APÉMANTUS.--Attends que je sois gracieux pour que je te rende le
+bonjour, quand tu seras devenu le chien de Timon, et ces fripons
+d'honnêtes gens.
+
+TIMON.--Pourquoi les appelles-tu fripons; tu ne les connais pas.
+
+APÉMANTUS.--Ne sont-ils pas Athéniens?
+
+TIMON.--Oui.
+
+APÉMANTUS.--Alors, je ne me dédis pas.
+
+LE JOAILLIER.--Tu me connais, Apémantus.
+
+APÉMANTUS.--Tu sais bien que je te connais; je viens de t'appeler par
+ton nom.
+
+TIMON.--Tu es bien fier, Apémantus.
+
+APÉMANTUS.--Fier surtout de ne pas ressembler à Timon.
+
+TIMON.--Où vas-tu?
+
+APÉMANTUS.--Casser la tête à un honnête Athénien.
+
+TIMON.--C'est une action qui te mènera à la mort.
+
+APÉMANTUS.--Oui, si ne rien faire est un crime digne de mort.
+
+TIMON.--Comment trouves-tu ce portrait, Apémantus?
+
+APÉMANTUS.--Très-bon; car il est innocent.
+
+TIMON.--Celui qui l'a fait n'a-t-il pas bien travaillé?
+
+APÉMANTUS.--Celui qui a fait le peintre a mieux travaillé encore, et
+cependant il a fait un pitoyable ouvrage.
+
+LE PEINTRE.--Tu es un chien.
+
+APÉMANTUS.--Ta mère est de mon espèce; qu'est-elle donc, si je suis un
+chien?
+
+TIMON.--Apémantus, veux-tu dîner avec moi?
+
+APÉMANTUS.--Non, je ne mange pas les grands seigneurs.
+
+TIMON.--Si tu les mangeais, tu fâcherais les dames.
+
+APÉMANTUS.--Oh! elles mangent les grands seigneurs, voilà ce qui leur
+donne de gros ventres.
+
+TIMON.--C'est une explication bien libertine.
+
+APÉMANTUS.--C'est ainsi que tu la prends; garde-la pour ta peine.
+
+TIMON.--Aimes-tu ce bijou, Apémantus?
+
+APÉMANTUS.--Pas autant que la franchise, qui ne coûte pas une obole [3].
+
+[Note 3: Allusion, au proverbe anglais, _plain dealing is a jewell
+but they that use it die beggars_: «la franchise est un joyau, mais ceux
+qui en usent meurent de faim.»]
+
+TIMON.--Combien penses-tu qu'il vaille?
+
+APÉMANTUS.--Il ne vaut pas la peine que j'y pense.... Eh bien! poëte!
+
+LE POÈTE.--Eh bien! philosophe!
+
+APÉMANTUS.--Tu mens.
+
+LE POÈTE.--N'es-tu pas un philosophe?
+
+APÉMANTUS.--Oui.
+
+LE POÈTE.--Je ne mens donc pas?
+
+APÉMANTUS.--Et toi, n'es-tu pas un poëte?
+
+LE POÈTE.--Oui.
+
+APÉMANTUS.--En ce cas, tu mens. Regarde dans ton dernier ouvrage où tu
+as représenté Timon comme un digne personnage.
+
+LE POÈTE.--Ce n'est point une fiction, c'est la vérité.
+
+APÉMANTUS.--Oui, il est digne de toi, et digne de payer ton travail. Qui
+aime la flatterie est digne du flatteur. Dieux, que ne suis-je un grand
+seigneur!
+
+TIMON.--Que ferais-tu donc, Apémantus?
+
+APÉMANTUS.--Ce que fait maintenant Apémantus, je haïrais un grand
+seigneur de tout mon coeur.
+
+TIMON.--Quoi! tu te haïrais toi-même?
+
+APÉMANTUS.--Oui.
+
+TIMON.--Pourquoi?
+
+APÉMANTUS.--Pour avoir eu si peu d'esprit que d'être un grand
+seigneur,--N'es-tu pas marchand?
+
+LE MARCHAND.--Oui, Apémantus.
+
+APÉMANTUS.--Que le commerce te confonde, si les dieux ne veulent pas le
+faire!
+
+LE MARCHAND.--Si le commerce me confond, les dieux en seront la cause.
+
+APÉMANTUS.--Ton dieu, c'est le commerce; que ton dieu te confonde!
+
+(On entend des trompettes.)
+
+(Entre un serviteur)
+
+TIMON.--Quelle est cette trompette?
+
+LE SERVITEUR.--C'est Alcibiade.... et vingt cavaliers environ de sa
+société.
+
+TIMON.--Je vous prie, allez au-devant d'eux, qu'on les fasse entrer.--Il
+faut absolument diner avec moi.--Ne vous en allez pas, que je ne
+vous aie fait mes remerciements. Et, après le dîner, montrez-moi ce
+tableau.--Je suis charmé de vous voir tous.
+
+(Quelques serviteurs sortent.)
+
+(Entrent Alcibiade et sa société.)
+
+TIMON.--Vous êtes le bienvenu, seigneur.
+
+(Ils s'embrassent.)
+
+APÉMANTUS.--Allons, allons, c'est cela! Que les maladies contractent
+et dessèchent vos souples articulations! Se peut-il qu'il y ait si peu
+d'amitié au milieu de ces doucereux coquins et de toute cette politesse!
+La race de l'homme a dégénéré en singes et en babouins.
+
+ALCIBIADE.--Seigneur, vous contentez mon ardent désir, je satisfais la
+faim que j'avais de vous voir.
+
+TIMON.--Vous êtes le bienvenu, seigneur! Avant de nous séparer, nous
+passerons ensemble un heureux temps en différents plaisirs.--Je vous en
+prie, entrons.
+
+(Ils sortent, excepté Apémantus.)
+
+(Entrent deux seigneurs.)
+
+PREMIER SEIGNEUR.--Quelle heure est-il, Apémantus?
+
+APÉMANTUS.--L'heure d'être honnête.
+
+PREMIER SEIGNEUR.--Il est toujours cette heure-là.
+
+APÉMANTUS.--Tu n'en es que plus digne d'être maudit, toi qui la manques
+sans cesse.
+
+SECOND SEIGNEUR.--Tu vas au festin de Timon?
+
+APÉMANTUS.--Oui, pour voir les viandes gorger des fripons et le vin
+échauffer des fous.
+
+SECOND SEIGNEUR.--Adieu! adieu!
+
+APÉMANTUS.--Tu es fou de me dire deux fois adieu.
+
+SECOND SEIGNEUR.--Pourquoi donc, Apémantus?
+
+APÉMANTUS.--Tu aurais dû garder un de ces adieux pour toi, car je
+n'entends pas t'en rendre.
+
+PREMIER SEIGNEUR.--Va te faire pendre.
+
+APÉMANTUS.--Non, je n'en ferai rien. Adresse tes invitations à ton ami.
+
+SECOND SEIGNEUR.--Va-t'en, chien hargneux, ou je te chasserai d'ici.
+
+APÉMANTUS.--En véritable chien, je fuirai les ruades de l'âne.
+
+(Il sort.)
+
+PREMIER SEIGNEUR.--Cet homme est en tout l'opposé de l'humanité.--Eh
+bien! entrerons-nous, et prendrons-nous notre part des générosités de
+Timon? Il est vraiment plus que la bonté même.
+
+SECOND SEIGNEUR.--Il la répand sur tout ce qui l'environne. Plutus, le
+dieu de l'or, n'est que son intendant: pas le plus léger service qu'il
+ne paye sept fois plus qu'il ne vaut: pas le plus léger cadeau qui ne
+vaille à son auteur un présent qui excède toutes les mesures ordinaires
+de la reconnaissance.
+
+PREMIER SEIGNEUR.--Il porte l'âme la plus noble qui ait jamais inspiré
+un mortel.
+
+SECOND SEIGNEUR.--Puisse-t-il vivre longtemps dans la prospérité!
+Entrons-nous?
+
+PREMIER SEIGNEUR.--Je vous suis.
+
+(Ils sortent.)
+
+
+
+
+SCÈNE II
+
+
+Une salle d'apparat dans la maison de Timon.
+
+(Concert bruyant de hautbois. Flavius et d'autres domestiques servent un
+grand banquet.)
+
+_Entrent_ TIMON, ALCIBIADE, LUCIUS, LUCULLUS, SEMPRONIUS, _et autres
+sénateurs athéniens, avec_ VENTIDIUS _et la suite. A quelque distance,
+et derrière tous les autres, suit_ APÉMANTUS, _d'un air de mauvaise
+humeur_.
+
+VENTIDIUS.--Très-honoré Timon, il a plu aux dieux de se souvenir de la
+vieillesse de mon père, et de l'appeler à son long repos. Il a quitté
+la vie sans regret, et il m'a laissé riche. Votre coeur généreux mérite
+toute ma reconnaissance, et je viens vous rendre ces talents auxquels
+j'ai dû la liberté, accompagnés de mes remerciements et de mon
+dévouement.
+
+TIMON.--Oh! point du tout, honnête Ventidius; vous vous méprenez sur mon
+amitié: je vous ai fait ce don librement. On ne peut dire qu'on a donné,
+quand on souffre que le don soit rendu. Si nos supérieurs jouent à ce
+jeu, nous ne devons pas oser les imiter. Ce sont de belles fautes que
+celles qui enrichissent.
+
+VENTIDIUS.--Les nobles sentiments!
+
+(Ils sont tous debout regardant Timon d'un air de cérémonie.)
+
+TIMON.--Seigneurs, la cérémonie n'a été inventée que pour voiler
+l'insuffisance des actions, les souhaits creux, la bienfaisance qui se
+repent avant d'avoir été exercée: mais où se trouve la véritable amitié,
+la cérémonie est inutile. Je vous prie, asseyez-vous. Vous êtes les
+bienvenus à ma fortune, plus qu'elle n'est la bienvenue pour moi.
+
+(Ils s'asseyent.)
+
+LUCIUS.--Nous l'avons toujours avoué, seigneur.
+
+APÉMANTUS.--Oh! oui, avoué, et vous n'êtes pas encore pendus?
+
+TIMON.--Ah! Apémantus, tu es le bienvenu.
+
+APÉMANTUS.--Je ne veux pas être le bienvenu; je viens pour que tu me
+chasses.
+
+TIMON.--Fi donc! Tu es un rustre; tu as pris là une humeur qui ne sied
+pas à l'homme: c'est un reproche à te faire.--On dit, mes amis, que _ira
+furor brevis est_; mais cet homme-là est toujours en colère.--Allons,
+qu'on lui dresse une table pour lui seul. Il n'aime point la compagnie,
+et il n'est vraiment pas fait pour elle.
+
+APÉMANTUS.--Je resterai donc à tes risques et périls, Timon; car je
+viens pour observer, je t'en avertis.
+
+TIMON.--Je ne prends pas garde à toi.--Tu es Athénien, tu es donc le
+bienvenu. Je ne dois pas être aujourd'hui le maître chez moi; mais je
+t'en prie, que mon diner me vaille ton silence.
+
+APÉMANTUS.--Je méprise ton dîner.... Il m'étoufferait, car je ne
+pourrais pas te flatter.--O dieux! que d'hommes dévorent Timon, et il ne
+le voit pas! Je souffre de voir tant de gens tremper leur langue dans le
+sang d'un seul homme; et le comble de la folie, c'est qu'il les excite
+lui-même. Je m'étonne que les hommes osent se confier aux hommes! Je
+pense, moi, qu'ils devraient les inviter sans couteaux. Leurs tables
+y gagneraient, et leur vie serait plus en sûreté. On en a vu cent
+exemples: l'homme, qui en ce moment est assis près de son hôte, qui
+rompt avec lui son pain et boit à sa santé la coupe qu'ils ont partagée
+ensemble, sera le premier à l'assassiner. Cela est prouvé. Si j'étais un
+grand personnage, je craindrais de boire à mes repas, de peur que mes
+hôtes n'épiassent à quelle note ils pourraient me couper le sifflet. Les
+grands seigneurs ne devraient jamais boire sans avoir le gosier revêtu
+de fer.
+
+TIMON, _à un des convives_.--Seigneur, de tout mon coeur, et que les
+santés fassent la ronde.
+
+PREMIER SEIGNEUR.--Qu'on verse de ce côté, mon bon seigneur.
+
+APÉMANTUS.--De son côté! Fort bien: voilà un brave. Il sait prendre à
+propos son moment.--Toutes ces santés, Timon, te rendront malade, toi et
+ta fortune. Voilà qui est trop faible pour être coupable, l'honnête eau
+qui n'a jamais jeté personne dans la boue; cette liqueur et mes aliments
+se ressemblent, et sont toujours d'accord; les festins sont trop
+orgueilleux pour rendre grâces aux dieux.
+
+_Actions de grâces d'Apémantus._
+
+  Dieux immortels, je ne vous demande point de richesses,
+  Je ne prie pour aucun homme que pour moi;
+  Accordez-moi de ne jamais devenir assez insensé
+  Pour me fier à un homme sur son serment ou sur son billet,
+  A une courtisane sur ses larmes,
+  A un chien qui paraît endormi,
+  A un geôlier pour ma liberté,
+  Ni à mes amis dans mon besoin:
+  Amen: allons, courage!
+  Le crime est pour le riche et je vis de racines.
+
+Ton meilleur plat c'est ton bon coeur, Apémantus.
+
+TIMON.--Général Alcibiade, votre coeur en ce moment est sur le champ de
+bataille.
+
+ALCIBIADE.--Mon coeur, seigneur, est toujours prêt à vous servir.
+
+TIMON.--Vous aimeriez mieux un déjeuner d'ennemis qu'un diner d'amis.
+
+ALCIBIADE.--Pourvu que leur sang vînt de couler, seigneur, il n'est
+point de mets plus délicieux pour moi; je souhaiterais à mon meilleur
+ami de se trouver à pareille fête.
+
+APÉMANTUS.--Je voudrais que tous ces flatteurs fussent tes ennemis, afin
+que tu pusses les égorger et m'inviter au festin.
+
+PREMIER SEIGNEUR.--Si jamais, seigneur, nous avions le bonheur que
+vous missiez nos coeurs à l'épreuve; si jamais vous nous fournissiez
+l'occasion de montrer une partie de notre zèle, nous serions au comble
+de nos voeux.
+
+TIMON.--Oh! ne doutez pas, mes bons amis, que les dieux n'aient
+eux-mêmes réservé dans l'avenir un jour, où j'aurai besoin de votre
+secours. Autrement, pourquoi, seriez-vous devenus mes amis?--Pourquoi
+seriez-vous choisis entre mille autres, pour porter ce titre de
+tendresse, si vous n'apparteniez pas de plus près à mon coeur? Je me
+suis dit de vous à moi-même, plus que vous ne pouvez modestement en
+dire, et je tiens ceci pour acquis sur votre compte. O dieux, me
+disais-je, qu'aurions-nous besoin d'amis, si nous ne devions jamais
+avoir besoin d'eux? Ce seraient les créatures du monde les plus inutiles
+si nous ne devions jamais user d'eux. Ils, ressembleraient fort à des
+instruments mélodieux suspendus dans leurs étuis et qui gardent pour eux
+leurs accords. Oui, j'ai souhaité souvent d'être plus pauvre, afin de
+me rapprocher davantage de vous. Nous sommes nés pour faire du bien, et
+quel bien est plus à nous que les richesses de nos amis? O quel précieux
+avantage d'avoir tant d'amis qui, comme des frères, disposent de la
+fortune l'un de l'autre! O volupté qui n'est déjà plus avant même d'être
+née! Il me semble que mes yeux ne peuvent retenir leurs larmes.--Allons,
+pour oublier leur faute, je bois à votre santé.
+
+APÉMANTUS.--O Timon, plus tu pleures, plus ton vin se boit!
+
+LUCULLUS.--La joie a eu la même conception dans nos yeux, et en sort
+comme un nouveau-né.
+
+APÉMANTUS.--Oh! oh! je ris en pensant que ce nouveau-né est un bâtard.
+
+TROISIÈME SEIGNEUR.--Je vous proteste, seigneur, que vous m'avez
+beaucoup ému.
+
+APÉMANTUS.--Beaucoup.
+
+(Son de trompette.)
+
+TIMON.--Qu'annonce cette trompette? qu'y a-t-il?
+
+(Entre un serviteur.)
+
+LE SERVITEUR.--Sauf votre bon plaisir, seigneur, il y a là des dames qui
+demandent à entrer.
+
+TIMON.--Des dames? que désirent-elles?
+
+LE SERVITEUR.--Elles ont avec elles un courrier qui est chargé
+d'annoncer leurs intentions.
+
+TIMON.--Je vous en prie, faites-les entrer.
+
+(Entre Cupidon.)
+
+CUPIDON.--Salut à toi, généreux Timon, et à tous ceux qui jouissent ici
+de tes bienfaits. Les Cinq Sens te reconnaissent pour leur patron, et
+viennent librement te féliciter de ton généreux coeur. L'Ouïe, le Goût,
+le Toucher, l'Odorat, se lèvent tous satisfaits de ta table: ils ne
+viennent dans ce moment que pour réjouir tes yeux.
+
+TIMON.--Ils sont tous les bienvenus. Qu'on leur fasse bon accueil.
+Allons, que la musique célèbre leur entrée.
+
+(Cupidon sort.)
+
+PREMIER SEIGNEUR.--Vous voyez, seigneur, à quel point vous êtes aimé.
+
+(Musique. Rentre Cupidon avec une mascarade de dames en amazones,
+dansant et jouant du luth.)
+
+APÉMANTUS.--Holà! quel flot de vanité arrive ici! elles dansent;.... ce
+sont des femmes folles! La gloire de cette vie est une folie semblable,
+comme le prouve toute cette pompe comparée à ce peu d'huile et à ces
+racines. Nous nous faisons fous pour nous amuser, et prodigues de
+flatteries nous buvons à ces hommes, sur la vieillesse desquels nous
+verserons un jour le poison de l'envie et du mépris. Quel homme respire,
+qui ne corrompe ou ne soit corrompu? quel homme expire, qui n'emporte au
+tombeau quelque outrage, don de ses amis? Je craindrais bien que ceux
+qui dansent là devant moi ne fussent les premiers à me fouler un jour
+sous leurs pieds. C'est ce qu'on a vu souvent. Les hommes ferment leurs
+portes au soleil couchant.
+
+(Les convives se lèvent de table en montrant un grand respect pour
+Timon, et pour lui montrer leur affection, chacun d'eux prend une des
+amazones, et ils dansent couple par couple: on joue deux ou trois airs
+de hautbois, après quoi la danse et la musique cessent.)
+
+TIMON.--Vous avez embelli nos plaisirs, belles dames, et donné un
+nouveau charme à notre fête, qui n'eût pas été à moitié si brillante ni
+si agréable sans vous; elle vous doit tout son prix et son éclat, et
+vous m'avez rendu moi-même enchanté de ma propre invention. J'ai à vous
+en remercier.
+
+PREMIÈRE DAME.--Seigneur, vous nous jugez au mieux.
+
+APÉMANTUS.--Oui, ma foi; car le pire est dégoûtant, et ne supporterait
+pas qu'on y touchât, je pense.
+
+TIMON.--Mesdames, il y a un petit banquet qui vous attend; veuillez bien
+aller vous asseoir.
+
+TOUTES ENSEMBLE.--Mille remerciements, seigneur.
+
+(Elles sortent.)
+
+TIMON.--Flavius!
+
+FLAVIUS.--Seigneur!
+
+TIMON.--Apportez-moi la petite cassette.
+
+FLAVIUS.--Oui, monseigneur.--(_A part_.) Encore des bijoux? On ne peut
+l'arrêter dans ses fantaisies; autrement je lui dirais....--Allons.--En
+conscience, je devrais l'avertir. Quand tout sera dépensé, il voudrait
+bien alors qu'on l'eût arrêté. C'est grand dommage que la libéralité
+n'ait pas des yeux derrière: alors jamais un homme ne tomberait dans la
+misère, victime d'un trop bon coeur.
+
+PREMIER SEIGNEUR.--Nos serviteurs, où sont-ils?
+
+UN SERVITEUR.--Les voici, seigneur, à vos ordres.
+
+LUCIUS.--Nos chevaux.
+
+TIMON.--Mes bons amis, j'ai encore un mot à vous dire Seigneur, je
+vous en conjure, faites-moi l'honneur d'accepter ce bijou; daignez le
+recevoir et le porter, mon cher ami!
+
+LUCIUS.--Je suis déjà comblé de vos dons!
+
+TOUS.--Nous le sommes tous!
+
+(Entre un serviteur.)
+
+LE SERVITEUR.--Seigneur, plusieurs membres du sénat sont descendus à
+votre porte, et viennent vous visiter.
+
+TIMON.--Ils sont les bienvenus.
+
+FLAVIUS _rentre_.--J'en conjure votre Honneur, daignez écouter un mot,
+il vous touche de près.
+
+TIMON.--De près! oh bien! alors, je t'écouterai une autre fois. Je te
+prie que tout soit préparé pour leur faire bon accueil.
+
+FLAVIUS, _à part_.--Je ne sais trop comment.
+
+(Entre un autre serviteur.)
+
+LE SECOND SERVITEUR.--Seigneur, le noble Lucius, par un don de sa pure
+amitié, vous a fait présent de quatre chevaux blanc de lait, avec leurs
+harnais en argent.
+
+TIMON.--Je les accepte bien volontiers; ayez soin que ce présent soit
+dignement reconnu. (_Entre un troisième serviteur_.) Eh bien! qu'y
+a-t-il de nouveau?
+
+LE TROISIÈME SERVITEUR.--Sauf votre bon plaisir, mon seigneur; cet
+honorable seigneur, Lucullus, vous invite à chasser avec lui demain
+matin, et il vous envoie deux couples de lévriers.
+
+TIMON.--Je chasserai avec lui: qu'on reçoive son présent, mais non sans
+un noble retour.
+
+FLAVIUS, _à part_.--Quelle sera la fin de tout ceci? Il nous ordonne
+de pourvoir à tout, de rendre de riches présents, et tout cela avec un
+coffre vide: et il ne veut pas examiner sa bourse, ni m'accorder un
+moment pour lui démontrer à quelle indigence est réduit son coeur, qui
+n'a plus les moyens d'effectuer ses voeux. Ses promesses excèdent si
+prodigieusement sa fortune, que tout ce qu'il promet est une dette;
+il doit pour chaque parole: il est assez bon pour payer encore les
+intérêts. Ses terres sont toutes couchées sur leurs livres. Oh! que je
+voudrais être doucement congédié de mon office, avant d'être forcé de le
+quitter! Plus heureux l'homme qui n'a point d'amis à nourrir, que celui
+qui est entouré d'amis plus funestes que les ennemis mêmes! Le coeur me
+saigne de douleur pour mon maître.
+
+(Il sort.)
+
+TIMON.--Vous ne vous rendez pas justice; vous rabaissez trop votre
+mérite. Voici, seigneur, cette bagatelle, comme un gage de notre amitié.
+
+SECOND SEIGNEUR.--Je la reçois avec une reconnaissance particulière.
+
+TROISIÈME SEIGNEUR.--Oh! il est l'essence même de la bonté.
+
+TIMON.--A propos, seigneur, je me rappelle que vous avez vanté l'autre
+jour un coursier bai que je montais. Il est à vous, puisqu'il vous a
+plu.
+
+LE SECOND SEIGNEUR.--Oh! je vous prie, seigneur, excusez-moi; je ne
+puis....
+
+TIMON.--Vous pouvez m'en croire, seigneur; je sais par expérience qu'on
+ne loue bien que ce qui vous plaît: je juge des sentiments de mon ami
+par les miens. Ce que je vous dis est la vérité. J'irai vous faire
+visite.
+
+TOUS LES SEIGNEURS.--Nul ne sera aussi bienvenu.
+
+TIMON.--Je suis si reconnaissant de toutes vos visites que je ne puis
+assez donner. Je voudrais pouvoir distribuer des royaumes à mes amis,
+et je ne me lasserais jamais....--Alcibiade, tu es un guerrier, et par
+conséquent rarement opulent: les bienfaits te sont dus, car tu vis sur
+les morts, et toutes les terres que tu possèdes sont sur le champ de
+bataille.
+
+ALCIBIADE.--Oui, des terres souillées, seigneur.
+
+PREMIER SEIGNEUR.--Nous vous sommes si redevables!
+
+TIMON.--Et moi à vous.
+
+SECOND SEIGNEUR.--Nous vous chérissons si infiniment!
+
+TIMON.--Je suis tout à vous!--Des flambeaux.--Encore des flambeaux!
+
+TROISIÈME SEIGNEUR.--Que la plus pure félicité, l'honneur et les
+richesses ne vous abandonnent jamais, noble Timon.
+
+TIMON.--Au, service de ses amis.
+
+(Sortent Alcibiade, les seigneurs et autres.)
+
+APÉMANTUS.--Quel tumulte ici! que d'inclinations de tête, que de
+courbettes[4]! Je doute que toutes ces jambes vaillent les sommes dont
+on paye leurs génuflexions. Amitié pleine d'une lie impure! Il me semble
+que les hommes au coeur faux ne devraient pas avoir des jambes si
+lestes.--C'est ainsi que d'honnêtes dupes prodiguent leurs richesses
+pour des révérences.
+
+[Note 4: _Serving of becks, and jutting out of bums. Beck_ veut dire
+un salut fait avec la tête; _to serve a beck_, c'est saluer de la tête.
+_Jutting out of bums_, littéralement prolongement du derrière, signifie
+révérence, courbette.]
+
+TIMON.--Voyons, Apémantus, si tu n'étais pas si bourru, tu éprouverais
+mes bontés.
+
+APÉMANTUS.--Non, je ne veux rien. Si tu allais me corrompre aussi,
+voyons, il ne resterait plus personne pour se moquer de ta folie, et tu
+ferais encore plus de sottises. Tu donnes tant, Timon, que je crains
+bien que tu ne finisses par te donner toi-même[5]. A quoi bon ces fêtes,
+ce luxe et ces vaines magnificences?
+
+[Note 5: Il y a dans le texte: _thou wilt give thyself in paper_,
+tu te donneras en papier. Un commentateur prétend qu'Apémantus entend
+par-là que Timon se donnera en billets, en lettres de change.]
+
+TIMON.--Ah! si tu commences à médire de la société, j'ai juré de ne pas
+t'écouter. Adieu, et reviens chanter sur un ton plus aimable.
+
+(Il sort.)
+
+APÉMANTUS.--Allons: tu ne veux donc pas m'entendre à présent: eh bien,
+tu ne m'entendras jamais; je te fermerai la porte du ciel[6]. Oh! est-il
+possible que l'oreille des hommes soit sourde aux bons conseils, et non
+à la flatterie!
+
+(Il sort.)
+
+[Note 6: «La porte du ciel.» Apémantus veut parler ici des bons
+conseils qu'il refusera désormais à Timon.]
+
+FIN DU PREMIER ACTE
+
+
+
+
+ACTE DEUXIÈME
+
+
+
+SCÈNE I
+
+
+Athènes.--Appartement dans la maison d'un sénateur.
+
+_Entre un_ SÉNATEUR _avec des papiers à la main._
+
+LE SÉNATEUR.--Et dernièrement cinq mille à Varron; il en doit neuf
+mille à Isidore, ce qui, joint à ce qu'il me devait auparavant, fait
+vingt-cinq mille.--Quoi! toujours cette rage de dépenser? Cela ne peut
+pas durer; cela ne durera pas.--Si j'ai besoin d'argent, je n'ai qu'à
+voler le chien d'un mendiant, et en faire présent à Timon: le chien me
+battra monnaie.--Si je veux vendre mon cheval, et du prix en acheter
+vingt autres meilleurs que lui, je n'ai qu'à donner à Timon, je ne
+lui demande rien. Je le lui donne; aussitôt mon cheval me produit des
+chevaux superbes.--Point de portier chez lui; mais un homme qui sourit à
+tout le monde, et invite tous ceux qui passent. Cela ne peut durer; il
+n'y a pas de raison pour croire sa fortune solide. Caphis, holà! Caphis.
+
+(Entre Caphis.)
+
+CAPHIS.--Me voilà, seigneur; que désirez-vous de moi?
+
+LE SÉNATEUR.--Mettez votre manteau, et courez chez le seigneur Timon:
+demandez lui avec importunité mon argent, qu'un léger refus ne vous
+arrête pas; n'allez pas vous laisser fermer la bouche par un: «Faites
+mes compliments à votre maître,» le bonnet tournant ainsi dans la main
+droite. Dites-lui que mes besoins crient après moi, et que c'est à mon
+tour à me servir de ce qui m'appartient. Tous les jours de délais et de
+grâce sont passés; et par trop de confiance à ses vaines promesses, j'ai
+altéré mon crédit. J'aime et j'honore Timon; mais je ne dois pas me
+rompre les reins pour lui guérir le doigt; mes besoins sont pressants;
+il faut que je sois satisfait immédiatement sans être bercé par des
+paroles. Partez; prenez un air des plus importuns, un visage de
+demandeur, car je crains bien que le seigneur Timon, qui maintenant
+brille comme un phénix, ne soit bientôt plus qu'une mouette plumée,
+quand chaque plume sera rendue à l'aile à laquelle elle appartient.
+
+CAPHIS.--J'y vais, seigneur.
+
+LE SÉNATEUR.--«J'y vais, seigneur?»--Portez donc les billets, et
+prenez-en les dates en compte.
+
+CAPHIS.--Oui, seigneur.
+
+LE SÉNATEUR.--Allez.
+
+
+
+
+SCÈNE II
+
+
+Un appartement de la maison de Timon.
+
+_Entre_ FLAVIUS _tenant plusieurs billets à la main_.
+
+FLAVIUS.--Point de soin, pas un temps d'arrêt! Si insensé dans ses
+dépenses, qu'il ne veut pas savoir comment les continuer ni arrêter le
+torrent de ses extravagances! Ne se demandant jamais comment l'argent
+sort de ses mains; ne se préoccupant pas davantage du temps que cela
+durera. Jamais homme ne fut aussi fou et aussi bon! Que faire?--Il ne
+voudra rien écouter qu'il ne sente le mal.--Il faut que je sois franc
+avec lui à son retour de la chasse. Fi donc! fi donc! fi donc!
+
+(Entrent Caphis et des serviteurs d'Isidore et de Varron[7]).
+
+[Note 7: Les valets se donnent entre eux le nom de leurs maîtres.]
+
+CAPHIS.--Salut, Varron. Quoi, vous venez chercher de l'argent?
+
+LE SERVITEUR DE VARRON.--N'est-ce pas aussi ce qui vous amène?
+
+CAPHIS.--Oui; et vous aussi, Isidore?
+
+LE SERVITEUR D'ISIDORE.--Justement.
+
+CAPHIS.--Plaise au ciel que nous soyons tous payés!
+
+LE SERVITEUR DE VARRON.--C'est de quoi je doute.
+
+CAPHIS.--Voici le patron.
+
+(Entrent Timon, Alcibiade, seigneurs, etc.)
+
+TIMON.--Mon cher Alcibiade, aussitôt après le dîner nous nous remettrons
+en campagne.--Est-ce à moi que vous voulez parler? Eh bien! que
+voulez-vous?
+
+CAPHIS.--Seigneur, c'est la note de certaines dettes....
+
+TIMON.--Des dettes? D'où êtes-vous?
+
+CAPHIS.--D'Athènes, seigneur.
+
+TIMON.--Allez trouver mon intendant.
+
+CAPHIS.--Ne vous déplaise, seigneur, il m'a remis tout le mois, de
+jour en jour, pour le payement. Un besoin pressant force mon maître
+à demander son argent; il vous supplie d'agir avec votre noblesse
+ordinaire et de faire justice à sa requête.
+
+TIMON.--Mon bon ami, revenez demain matin, je vous en prie.
+
+CAPHIS.--Mais, seigneur....
+
+TIMON.--Allons cessez, mon ami.
+
+LE SERVITEUR DE VARRON.--Un serviteur de Varron, seigneur.
+
+LE SERVITEUR D'ISIDORE.--C'est de la part d'Isidore; il vous prie
+humblement de le rembourser promptement.
+
+CAPHIS.--Seigneur, si vous connaissiez quel est le besoin de mon
+maître....
+
+LE SERVITEUR DE VARRON.--Le terme est échu, seigneur, depuis plus de six
+semaines.
+
+LE SERVITEUR D'ISIDORE.--Votre intendant me renvoie toujours, seigneur,
+et mes ordres sont de m'adresser directement à votre Seigneurie.
+
+TIMON.--Eh! laissez-moi respirer.--Je vous en prie, allez toujours
+devant, mes bons seigneurs; je vous rejoins à l'instant. (_Alcibiade et
+les Seigneurs sortent._) (_A Flavius._) Venez ici, je vous prie, que
+se passe-t-il que je sois assailli par ces clameurs et ces demandes de
+billets différés, des dettes arriérées qui font tort à mon honneur?
+
+FLAVIUS.--Messieurs, avec votre permission, le moment n'est pas
+convenable pour parler affaires; ne nous importunez plus, attendez après
+le dîner; donnez-moi le temps d'expliquer à sa Seigneurie pourquoi vous
+n'avez pas été payés.
+
+TIMON.--Oui, mes amis, attendez.--Ayez soin de les bien traiter.
+
+(Timon sort.)
+
+FLAVIUS.--Écoutez-moi, je vous prie.
+
+(Il sort.)
+
+(Entrent Apémantus et un fou.)
+
+CAPHIS.--Restez, restez, voici le fou qui vient avec Apémantus;
+amusons-nous un moment avec eux.
+
+LE SERVITEUR DE VARRON.--Qu'il aille se faire pendre; il va nous
+injurier.
+
+LE SERVITEUR D'ISIDORE.--Que la peste l'étouffe, le chien!
+
+LE SERVITEUR DE VARRON.--Comment te portes-tu, fou?
+
+APÉMANTUS.--Parles-tu à ton ombre?
+
+LE SERVITEUR DE VARRON.--Ce n'est pas à toi que je parle.
+
+APÉMANTUS.--Non, c'est à toi-même. (_Au fou_.) Allons-nous-en.
+
+LE SERVITEUR D'ISIDORE, _à celui de Varron_.--Voilà le fou sur ton dos.
+
+APÉMANTUS.--Non, tu es seul; tu n'es pas encore sur lui.
+
+CAPHIS.--Où est le fou maintenant?
+
+APÉMANTUS.--Il vient de le demander tout à l'heure. Pauvres misérables,
+valets d'usuriers, entremetteurs entre l'or et le besoin!
+
+TOUS LES SERVITEURS.--Que sommes-nous, Apémantus?
+
+APÉMANTUS.--Des ânes.
+
+TOUS.--Pourquoi?
+
+APÉMANTUS.--Parce que vous me demandez ce que vous êtes, et que vous ne
+vous connaissez pas vous-mêmes. Parle-leur, fou.
+
+LE FOU.--Comment vous portez-vous, messieurs?
+
+TOUS.--Grand merci, bon fou! Que fait ta maîtresse?
+
+LE FOU.--Elle met chauffer de l'eau pour échauder des poulets comme
+vous. Que ne pouvons-nous vous voir à Corinthe!
+
+APÉMANTUS.--Bon, grand merci!
+
+(Entre un page.)
+
+LE FOU.--Voyez, voici le page de ma maîtresse.
+
+LE PAGE, _au fou_.--Eh bien! capitaine, que faites-vous avec cette sage
+compagnie?--Comment se porte Apémantus?
+
+APÉMANTUS.--Je voudrais avoir une verge dans ma bouche, pour te répondre
+d'une manière utile.
+
+LE PAGE.--Je te prie, Apémantus, lis-moi l'adresse de ces lettres; je
+n'y connais rien.
+
+APÉMANTUS.--Tu ne sais pas lire?
+
+LE PAGE.--Non.
+
+APÉMANTUS.--Nous ne perdrons donc pas un savant quand tu seras
+pendu.--Celle-ci est pour le seigneur Timon, l'autre pour Alcibiade. Va,
+tu es né bâtard et tu mourras proxénète.
+
+LE PAGE.--Ta mère, en te donnant le jour, a fait un chien, et tu mourras
+de faim comme un chien. Point de réplique. Je m'en vais.
+
+(Il sort.)
+
+APÉMANTUS.--C'est nous rendre le plus grand service.--Fou, j'irai avec
+toi chez le seigneur Timon.
+
+LE FOU.--Me laisseras-tu là?
+
+APÉMANTUS.--Si Timon est chez lui,--Vous êtes là trois qui servez trois
+usuriers?
+
+TOUS.--Oui; plût aux dieux qu'ils nous servissent!
+
+APÉMANTUS.--Je le voudrais.--Je vous servirais comme le bourreau sert le
+voleur.
+
+LE FOU.--Êtes-vous tous trois valets d'usuriers?
+
+TOUS.--Oui, fou.
+
+LE FOU.--Je pense qu'il n'y a point d'usuriers qui n'aient un fou pour
+serviteur. Ma maîtresse est une usurière, et moi je suis son fou. Quand
+quelqu'un emprunte de l'argent à vos maîtres, il arrive tristement et
+s'en retourne gai. Mais on entre gaiement chez ma maîtresse, et on en
+sort tout triste. Dites-moi la raison de cela?
+
+LE SERVITEUR DE VARRON.--Je puis vous en donner une.
+
+LE FOU.--Parle donc afin que nous puissions te regarder comme un agent
+d'infamie et un fripon. Va, tu n'en seras pas moins estimé.
+
+LE SERVITEUR DE VARRON.--Qu'est-ce qu'un agent d'infamie, fou?
+
+LE FOU.--C'est un fou bien vêtu, qui te ressemble un peu; c'est un
+esprit: quelquefois il paraît sous la figure d'un seigneur, quelquefois
+sous celle d'un légiste, quelquefois sous celle d'un philosophe qui
+porte deux pierres, outre la pierre philosophale. Souvent il ressemble
+à un chevalier: enfin cet esprit rôde sous toutes les formes que revêt
+l'homme, depuis quatre-vingts ans jusqu'à treize.
+
+LE SERVITEUR DE VARRON.--Tu n'es pas tout à fait fou.
+
+LE FOU.--Ni toi tout à fait sage: ce que j'ai de plus en folie, tu l'as
+de moins en esprit.
+
+VARRON.--Cette réponse conviendrait à Apémantus.
+
+TOUS.--Place, place: voici le seigneur Timon.
+
+APÉMANTUS,--Fou, viens avec moi, viens.
+
+LE FOU.--Je n'aime point à suivre toujours un amant, un frère aîné, ou
+une femme; quelquefois je suis un philosophe.
+
+(Sortent Apémantus et le fou.)
+
+FLAVIUS, _aux serviteurs_.--Promenez-vous, je vous prie, près d'ici; je
+vous parlerai dans un moment.
+
+(Timon et Flavius restent seuls.)
+
+TIMON.--Vous m'étonnez fort! Pourquoi ne m'avez-vous pas exposé plus tôt
+l'état de mes affaires? J'aurais pu proportionner mes dépenses à ce que
+j'avais de moyens.
+
+FLAVIUS.--Vous n'avez jamais voulu m'entendre; je vous l'ai proposé
+plusieurs fois.
+
+TIMON.--Allons, vous aurez peut-être pris le moment où, étant mal
+disposé, je vous ai renvoyé; et vous avez profité de ce prétexte pour
+vous excuser.
+
+FLAVIUS.--O mon bon maître! je vous ai présenté bien des fois mes
+comptes; je les ai mis devant vos yeux; vous les avez toujours rejetés,
+en disant que vous vous reposiez sur mon honnêteté. Quand, pour quelque
+léger cadeau, vous m'avez ordonné de rendre une certaine somme, j'ai
+secoué la tête et j'ai gémi: même, je suis sorti des bornes du respect,
+en vous exhortant à tenir votre main plus fermée. J'ai essuyé de votre
+part et bien souvent des réprimandes assez dures, quand j'ai voulu vous
+ouvrir les yeux sur la diminution de votre fortune et l'accroissement
+constant de vos dettes! O mon cher maître, quoique vous m'écoutiez
+aujourd'hui trop tard, cependant il est nécessaire que vous le sachiez:
+tous vos biens ne suffiraient pas pour payer la moitié de vos dettes.
+
+TIMON.--Qu'on vende toutes mes terres.
+
+FLAVIUS.--Toutes sont engagées; quelques-unes sont forfaites et perdues;
+à peine nous reste-t-il de quoi fermer la bouche aux créances échues.
+D'autres échéances arrivent à grands pas. Qui nous soutiendra dans cet
+intervalle, et enfin comment se terminera notre dernier compte?
+
+TIMON.--Mes possessions s'étendaient jusqu'à Lacédémone.
+
+FLAVIUS.--O mon bon maître! le monde n'est qu'un mot. Et quand vous le
+posséderiez tout entier, et que vous pourriez le donner d'une seule
+parole, combien de temps le garderiez-vous?
+
+TIMON.--Tu me dis la vérité.
+
+FLAVIUS.--Si vous avez le moindre soupçon sur mon administration, sur
+ma fidélité, citez-moi devant les juges les plus sévères, et faites-moi
+rendre un compte rigoureux. Que les dieux me soient propices: ils savent
+que, lorsque tous nos offices étaient encombrés d'avides parasites,
+lorsque nos caves pleuraient des flots de vin, quand chaque appartement
+brillait de mille flambeaux, et retentissait du bruit confus des
+concerts, moi, je me retirais près d'un conduit toujours ouvert[8], pour
+y verser des torrents de larmes.
+
+[Note 8: _Wasteful cock_; _robinet prodigue_. Les commentateurs se
+sont creusé la tête pour expliquer cette expression et l'intention de
+Flavius. On a prétendu que Flavius se retirait près d'un conduit, d'où
+l'eau sortait sans cesse, parce que cette circonstance servait à lui
+rappeler les prodigalités de Timon en même temps que ce lieu écarté
+était propice à sa rêverie.]
+
+TIMON.--Assez, je t'en prie.
+
+FLAVIUS.--Dieux! disais-je, quelle bonté dans le seigneur Timon! Que de
+biens prodigués des esclaves et des rustres ont engloutis cette nuit!
+Qui n'appartient à Timon? Qui n'offre pas son coeur, sa vie, son épée,
+son courage, sa bourse à Timon, «au grand Timon, au noble, au digne, au
+royal Timon?» Hélas! quand la fortune dont il achète ces louanges sera
+dissipée, le souffle qui les produit sera éteint; ce qu'on a gagné au
+festin on le perd dans le jeûne[9]. Un nuage d'hiver verse ses ondées,
+et tous les insectes ont disparu.
+
+[Note 9: Proverbe anglais: _feast-won, fast-lost_: gagné au festin,
+perdu au jeûne.]
+
+TIMON.--Allons, ne me sermonne plus.--Nul bienfait honteux n'a déshonoré
+mon coeur. J'ai donné imprudemment, mais sans ignominie. Pourquoi
+pleures-tu? Manques-tu de confiance au point de croire que je puisse
+manquer d'amis? Que ton coeur se rassure; va, si je voulais ouvrir les
+réservoirs de mon amitié, et éprouver les coeurs en empruntant, je
+pourrais user des hommes et de leurs fortunes aussi facilement que je
+puis t'ordonner de parler.
+
+FLAVIUS.--Puisse l'événement ne pas tromper votre attente!
+
+TIMON.--Et ce besoin où je me trouve aujourd'hui est en quelque sorte
+pour moi un bonheur qui couronne mes voeux. Je puis maintenant éprouver
+mes amis; tu connaîtras bientôt combien tu t'es mépris sur l'état de ma
+fortune; je suis riche en amis. Holà! quelqu'un! Flaminius! Servilius!
+
+(Entrent Servilius, Flaminius et d'autres esclaves.)
+
+UN ESCLAVE.--Seigneur? seigneur?
+
+TIMON.--J'ai différents ordres à vous distribuer. Toi, va chez le
+seigneur Lucius, et toi, chez Lucullus. J'ai chassé aujourd'hui avec son
+Honneur.--Toi, va chez Sempronius. Recommandez-moi à leur amitié, et
+dites que je suis fier de trouver l'occasion d'employer leurs services
+pour me fournir de l'argent: demandez-leur cinquante talents.
+
+FLAMINIUS.--Vos ordres seront remplis, seigneur.
+
+FLAVIUS, _à part_.--Aux seigneurs Lucius et Lucullus?--Hom!
+
+TIMON.--Et vous (_à un autre serviteur_), allez trouver les sénateurs.
+J'avais droit à leur reconnaissance, même dans les jours de mon
+opulence. Dites-leur de m'envoyer tout à l'heure mille talents.
+
+FLAVIUS.--J'ai pris la liberté de leur présenter votre seing et votre
+nom, dans l'opinion où j'étais que c'était la ressource la plus facile;
+mais tous ont secoué la tête, et je ne suis pas revenu plus riche.
+
+TIMON.--Est-il vrai? Est-il possible?
+
+FLAVIUS.--Ils répondent tous, de concert et d'une voix unanime, qu'ils
+sont en baisse, qu'ils n'ont point de fonds, qu'ils ne peuvent faire ce
+qu'ils désireraient, qu'ils sont bien fâchés.--«Vous êtes un homme si
+respectable!.... Cependant.... ils auraient bien souhaité....--Ils ne
+savent pas.... mais il faut qu'il y ait eu de sa faute.--L'homme le plus
+honnête peut faire un faux pas.--Plût aux dieux que tout allât bien....
+c'est bien dommage!»--Et ainsi occupés d'autres affaires sérieuses, ils
+me renvoient avec ces regards dédaigneux et ces phrases interrompues;
+leurs demi-saluts et leurs signes de froideur me glacent et me réduisent
+au silence.
+
+TIMON.--Grands dieux! récompensez-les. Ami, je t'en prie, ne t'afflige
+pas. L'ingratitude est héréditaire dans les vieillards; leur sang est
+figé, glacé, et coule à peine; ils manquent de reconnaissance, parce
+que leur coeur manque de chaleur. A mesure que l'homme retourne vers la
+terre il est façonné pour le voyage, il devient lourd et engourdi.--(_A
+un serviteur_.) Va chez Ventidius,--_(A Flavius)_. Ah! de grâce, ne sois
+pas triste; tu es honnête et fidèle, je te le dis comme je le pense; on
+n'a rien à te reprocher.--(_Au serviteur_.) Ventidius vient d'enterrer
+son père, et cette mort met en sa possession une fortune considérable.
+Quand il était pauvre, emprisonné et en disette d'amis, je le délivrai
+avec cinq talents. Va le saluer de ma part; dis-lui que son ami est dans
+un pressant besoin; qu'il le prie de se souvenir de ces cinq talents.(_A
+Flavius_.) Dès que tu les auras touchés, donne-les à ces gens dont je
+suis le débiteur. Ne dis et ne pense jamais que la fortune de Timon
+puisse périr au milieu de ses amis.
+
+FLAVIUS.--Je voudrais bien n'être jamais dans le cas de le penser. Cette
+confiance est l'ennemie de la bonté; étant généreuse, elle croit que les
+autres le sont comme elle.
+
+(Ils sortent.)
+
+FIN DU DEUXIÈME ACTE.
+
+
+
+
+ACTE TROISIÈME
+
+
+
+SCÈNE I
+
+
+Appartement dans la maison de Lucullus, à Athènes.
+
+FLAMINIUS _attend, entre_ UN SERVITEUR _qui s'approche de lui_.
+
+LE SERVITEUR.--Je vous ai annoncé à mon maître; il descend pour vous
+parler.
+
+FLAMINIUS.--Je vous remercie.
+
+LE SERVITEUR.--Voilà mon seigneur.
+
+(Lucullus entre.)
+
+LUCULLUS, _à part_.--Un des serviteurs du seigneur Timon! C'est quelque
+présent, je gage.--Oh, j'ai deviné juste; j'ai rêvé cette nuit de bassin
+et d'aiguière d'argent.--Flaminius, honnête Flaminius, vous êtes mille
+fois le bienvenu.--Qu'on me verse une coupe de vin. (_Le serviteur
+sort_.)--Et comment se porte cet honorable, accompli, généreux seigneur
+d'Athènes, ton magnifique seigneur et maître?
+
+FLAMINIUS.--Seigneur, sa santé est fort bonne.
+
+LUCULLUS.--Je suis ravi de le savoir en bonne santé. Et que portes-tu là
+sous ton manteau, mon ami Flaminius?
+
+FLAMINIUS.--Ma foi, rien autre chose qu'une cassette vide, seigneur, que
+je viens, au nom de mon maître, prier votre Grandeur de remplir. Il se
+trouve dans un besoin pressant de cinquante talents, et il m'envoie vous
+prier de les lui prêter; il ne doute pas que vous ne veniez sur-le-champ
+à son secours.
+
+LUCULLUS.--La! la! la! la!--Il ne doute pas, dit-il; hélas, le brave
+seigneur! C'est un noble gentilhomme, s'il ne tenait pas un si grand
+état de maison. Cent fois j'ai diné chez lui, et je lui en ai dit ma
+pensée. Je suis même retourné souper chez lui, exprès pour l'avertir de
+diminuer sa dépense; mais il n'a jamais voulu suivre mes conseils, et
+mes visites n'ont pu le corriger. Chaque homme a son défaut, et le sien
+est la libéralité; c'est ce que je lui ai répété souvent; mais je n'ai
+jamais pu le tirer de là.
+
+(Entre un esclave qui apporte du vin.)
+
+L'ESCLAVE.--Seigneur, voilà le vin.
+
+LUCULLUS.--Flaminius, je t'ai toujours remarqué pour un homme sage;
+tiens, à ta santé.
+
+FLAMINIUS.--Votre Grandeur veut plaisanter.
+
+LUCULLUS.--Non, je te rends justice. J'ai toujours reconnu en toi un
+esprit souple et actif; tu sais juger ce qui est raisonnable; et quand
+il se présente une bonne occasion, tu sais la saisir et en tirer bon
+parti. Tu as d'excellentes qualités.--(_À l'esclave._) Vas-t'en, maraud;
+approche, honnête Flaminius. Ton maître est un seigneur plein de bonté;
+mais tu as du jugement, et quoique tu sois venu me trouver, tu sais trop
+bien que ce n'est pas le moment de prêter de l'argent, surtout sur la
+simple parole de l'amitié, et sans aucune sûreté. Tiens, mon enfant,
+voilà trois solidaires[10] pour toi; mon garçon, ferme les yeux sur moi,
+et dis que tu ne m'as pas vu; porte-toi bien.
+
+[Note 10: «Je crois que cette monnaie est de l'invention du poëte.»
+(STEEVENS.)]
+
+FLAMINIUS.--Est-il possible que les hommes soient si différents
+d'eux-mêmes, et que nous soyons maintenant ce que nous étions tout à
+l'heure! Loin de moi, maudite bassesse, retourne vers celui qui t'adore.
+
+(Il jette l'argent qu'il a reçu.)
+
+LUCULLUS.--Ah! je vois maintenant que tu es un sot, et bien digne de ton
+maître....
+
+(Il sort.)
+
+FLAMINIUS.--Puissent ces pièces d'argent être ajoutées à celles qui te
+brûleront! Que ton enfer soit du métal fondu: ô toi, peste d'un ami,
+et non un ami! L'amitié a-t-elle un coeur[11] si faible et si facile à
+s'aigrir, qu'il tourne comme le lait en moins de deux nuits? Dieux! je
+ressens l'indignation de mon maître. Ce lâche ingrat porte encore dans
+son estomac les mets de mon seigneur; pourquoi seraient-ils pour lui
+une nourriture salutaire, lorsque lui-même s'est changé en poison?
+Puissent-ils ne produire en lui que des maladies, et quand il sera sur
+son lit de mort, que cette partie de son être, fournie par mon maître,
+serve, non pas à le guérir, mais à prolonger son agonie!
+
+(Il sort.)
+
+[Note 11: _Milky heart_, coeur de lait.]
+
+
+
+SCÈNE II
+
+
+Place publique d'Athènes.
+
+_Entrent_ LUCIUS, TROIS ÉTRANGERS.
+
+LUCIUS.--Qui? le seigneur Timon? C'est mon bon ami: et un homme
+honorable!
+
+PREMIER ÉTRANGER.--Nous le savons, quoique nous lui soyons étrangers.
+Mais, je puis vous dire une chose, seigneur, que j'entends répéter
+couramment; c'est que les heures fortunées de Timon sont passées; sa
+richesse lui échappe.
+
+LUCIUS.--Allons donc! n'en croyez rien; il ne peut manquer d'argent.
+
+SECOND ÉTRANGER.--Mais croyez bien ceci, seigneur, c'est qu'il n'y a pas
+bien longtemps qu'un de ses gens est venu trouver le seigneur Lucullus
+pour lui emprunter un certain nombre de talents; oui, il l'a pressé
+instamment, en faisant sentir la nécessité où son maître est réduit; et
+il a essuyé un refus.
+
+LUCIUS.--Comment?
+
+SECOND ÉTRANGER.--Un refus, vous dis-je, seigneur.
+
+LUCIUS.--Quelle étrange chose! Par tous les dieux, j'en suis honteux!
+Refuser cet homme honorable, il faut avoir bien peu d'honneur. Quant à
+moi, je dois l'avouer, j'ai reçu de lui quelques petites marques de
+sa bonté, de l'argent, de la vaisselle, des bijoux et semblables
+bagatelles, rien auprès des présents qu'a reçus Lucullus; eh! bien, si,
+au lieu de s'adresser à lui, il avait envoyé chez moi, je ne lui aurais
+jamais refusé la somme dont il aurait eu besoin.
+
+(Entre Servilius.)
+
+SERVILIUS.--Voyez, par bonheur, voilà le seigneur Lucius; j'ai
+tant couru pour le trouver, que je suis tout en nage.--Très-honoré
+seigneur....
+
+LUCIUS.--Ah! Servilius! je suis charmé de te voir, porte-toi bien,
+recommande-moi à l'amitié de ton honnête et estimable maître, le plus
+cher de mes amis.
+
+SERVILIUS.--Seigneur, sous votre bon plaisir, mon maître vous envoie....
+
+LUCIUS.--Oh! que m'a-t-il envoyé? Que d'obligations je lui ai! Sans
+cesse il envoie. Dis-moi, comment pourrai-je le remercier? Et que
+m'envoie-il?
+
+SERVILIUS.--Il vous envoie seulement l'occasion de lui rendre un
+service, mon seigneur; il supplie votre Seigneurie de lui prêter, en ce
+moment, cinquante talents.
+
+LUCIUS.--Je vois bien que Timon veut faire une plaisanterie; il n'est
+pas possible qu'il ait besoin de cinquante talents, ni même de cinq fois
+autant.
+
+SERVILIUS.--Il a besoin pour le moment d'une somme plus petite. S'il
+n'en avait pas besoin pour un bon usage, je ne vous conjurerais pas avec
+tant d'instances.
+
+LUCIUS.--Parles-tu sérieusement, Servilius?
+
+SERVILIUS.--Sur mon âme, c'est vrai, seigneur.
+
+LUCIUS.--Quel vilaine brute je suis, de m'être dégarni dans une si belle
+occasion de montrer mes bons sentiments! Je suis bien malheureux d'avoir
+été hier acquérir une petite terre, pour perdre aujourd'hui l'occasion
+de me faire grand honneur! Servilius, je te jure, à la face des dieux,
+qu'il m'est impossible de pouvoir le faire....--Je n'en suis que plus
+sot, dis-je, j'allais moi-même envoyer demander quelque argent à Timon:
+ces messieurs en sont témoins; mais, je ne voudrais pas à présent
+l'avoir fait pour toutes les richesses d'Athènes. Recommande-moi
+affectueusement à ton bon maître. Je me flatte que je ne perdrai rien de
+son estime, parce que je n'ai pas le pouvoir de l'obliger; dis-lui de
+ma part que je mets au nombre de mes plus grands malheurs de ne
+pouvoir faire ce plaisir à un si estimable seigneur. Bon Servilius, me
+promets-lu de me faire l'amitié de répéter à Timon mes propres paroles?
+
+SERVILIUS.--Oui, seigneur, je le ferai.
+
+Lucius.--Va, je saurai t'en récompenser, Servilius. (_Servilius sort._)
+(_Aux étrangers_.) En effet, vous aviez raison, Timon est ruiné, et
+quand une fois on a éprouvé un refus, il est rare qu'on aille bien loin.
+
+(Il sort.)
+
+PREMIER ÉTRANGER.--Avez-vous remarqué ceci, Hostilius?
+
+SECOND ÉTRANGER.--Oui, trop bien.
+
+PREMIER ÉTRANGER.--Eh bien! voilà le coeur du monde: tous les flatteurs
+sont faits de la même étoffe. Qui peut après cela donner le nom d'ami à
+celui qui met la main dans le même plat? Il est à ma connaissance que
+Timon a servi de père à ce seigneur; qu'il lui a conservé son crédit de
+sa bourse, qu'il a soutenu sa fortune même; c'est de l'argent de Timon
+qu'il a payé les gages de ses domestiques; Lucius ne boit jamais que ses
+lèvres ne touchent l'argent de Timon, et cependant....--Oh! vois quel
+monstre est l'homme, quand il se montre sous les traits d'un ingrat! Au
+prix de ce qu'il en a reçu, ce qu'il ose lui refuser, l'homme charitable
+le donnerait aux mendiants.
+
+TROISIÈME ÉTRANGER.--La religion gémit.
+
+PREMIER ÉTRANGER.--Pour moi, je n'ai jamais goûté des bienfaits de
+Timon; jamais ses dons, répandus sur moi, ne m'ont inscrit au nombre de
+ses amis; cependant, en considération de son âme noble, de son illustre
+vertu, et de sa conduite honorable, je proteste que si, dans son besoin,
+il s'était adressé à moi, j'aurais tenu mon bien pour venu de lui, et
+la meilleure part aurait été pour lui, tant j'aime son coeur; mais je
+m'aperçois que les hommes apprennent à se dispenser d'être charitables:
+l'intérêt est au-dessus de la conscience.
+
+(Ils sortent.)
+
+
+
+SCÈNE III
+
+
+Appartement de la maison de Sempronius. _Entrent_ SEMPRONIUS ET UN
+SERVITEUR _de Timon_.
+
+SEMPRONIUS.--Et pourquoi m'importuner, moi, hom! par préférence à tous
+les autres? Ne pouvait-il pas s'asresser au seigneur Lucius, à Lucullus?
+Ce Ventidius, qu'il a racheté de la prison, est riche maintenant. Ces
+trois hommes lui sont redevables de tout ce qu'ils possèdent.
+
+LE SERVITEUR.--Hélas! seigneur, tous trois ont été essayés à la pierre
+de touche, et nous n'avons trouvé en eux qu'un vil métal; car ils ont
+tous refusé.
+
+SEMPRONIUS.--Comment, ils l'ont refusé! Lucullus, Ventidius l'ont
+refusé, et il vient s'adresser à moi?... Tous trois? Une pareille
+démarche annonce de sa part peu de jugement, ou peu d'amitié; dois-je
+être son dernier refuge? Ses amis, comme autant de médecins, l'ont tous
+trois condamné, et il faut que ce soit moi qu'on charge de cette cure?
+Je m'en trouve très-offensé, je suis en colère contre lui, il eût dû
+mieux connaître mon rang. Je ne vois pas de raison pour que, dans son
+besoin, il ne m'ait pas imploré d'abord; car enfin je suis, je l'avoue,
+le premier homme qui ait reçu des présents de lui, et il me recule dans
+son souvenir au point de penser que je serais le dernier à lui marquer
+ma reconnaissance! Non.--Il n'en faut pas davantage pour me rendre un
+objet de risée aux yeux de toute la ville, et me faire passer pour un
+fou parmi les grands seigneurs. J'aimerais mieux, pour trois fois la
+somme qu'il demande, qu'il se fût adressé à moi le premier, ne fût-ce
+que pour l'honneur de mon coeur, j'avais si grand désir de rendre un
+service. Retourne, et à la froide réponse de ses amis ajoute celle-ci:
+«Celui qui blesse mon honneur ne verra pas mon argent.»
+
+(Il sort.)
+
+LE SERVITEUR.--A merveille! Votre Seigneurie est un admirable coquin! Le
+diable n'a pas su ce qu'il faisait en rendant l'homme si astucieux: il
+s'est fait tort; et je ne puis m'empêcher de penser qu'au bout du compte
+la scélératesse de l'homme le blanchira lui-même. Comme ce seigneur
+cherche à colorer sa bassesse, et copie de vertueux modèles pour
+justifier sa méchanceté! ainsi font ceux qui, sous le voile d'un
+patriotisme ardent, voudraient mettre des royaumes entiers en feu! Tel
+est le caractère de cet ami politique. Il était le plus solide espoir de
+mon maître. Tous ont déserté, les dieux seuls exceptés. Tous ses amis
+sont morts. Ces portes qui, dans des jours de prospérité, ne connurent
+jamais de verrous, vont être employées à protéger la liberté de leur
+maître. Voilà tout le fruit qu'il recueille de ses largesses. Celui qui
+ne peut garder son argent doit à la fin garder sa maison.
+
+(Il sort.)
+
+
+
+SCÈNE IV
+
+
+Une salle dans la maison de Timon.
+
+_Entrent_ DEUX SERVITEURS DE VARRON ET LE SERVITEUR DE LUCIUS, _qui
+rencontrent_ TITUS, HORTENSIUS, _et d'autres_ VALETS _des créanciers de
+Timon, qui attendent qu'il sorte_.
+
+LE SERVITEUR DE VARRON.--Bonne rencontre! Bonjour, Titus et Hortensius!
+
+TITUS.--Je vous rends la pareille, honnête Varron.
+
+HORTENSIUS.--Lucius, par quel hasard nous trouvons-nous ensemble ici?
+
+LE SERVITEUR DE LUCIUS.--Je pense que le même objet nous y amène tous;
+le mien, c'est l'argent.
+
+TITUS.--C'est le leur à tous, et le mien aussi.
+
+(Entre Philotus.)
+
+LE SERVITEUR DE LUCIUS.--Et le seigneur Philotus aussi, sans doute?
+
+PHILOTUS.--Bonjour à tout le monde!
+
+LE SERVITEUR DE LUCIUS.--Sois le bienvenu, camarade. Quelle heure
+croyez-vous qu'il soit?
+
+PHILOTUS.--Il va sur neuf heures.
+
+LE SERVITEUR DE LUCIUS.--Déjà?
+
+PHILOTUS.--Et le seigneur de céans n'est pas encore visible?
+
+LE SERVITEUR DE LUCIUS.--Pas encore.
+
+PHILOTUS.--Cela m'étonne; il avait coutume de briller dès sept heures du
+matin.
+
+LE SERVITEUR DE LUCIUS.--Oui; mais les jours sont devenus plus courts.
+Faites attention que la carrière de l'homme prodigue est radieuse comme
+celle du soleil; mais elle ne se renouvelle pas de même. Je crains bien
+que l'hiver ne soit dans le fond de la bourse de Timon; je veux dire
+qu'on peut y enfoncer la main bien avant, et n'y trouver que peu de
+chose.
+
+PHILOTUS.--J'ai la même crainte que vous.
+
+TITUS.--Je veux vous faire faire une remarque assez étrange; votre
+maître vous envoie chercher de l'argent?
+
+HORTENSIUS.--Rien n'est plus vrai.
+
+TITUS.--Et il porte maintenant des bijoux que lui a donnés Timon, et
+pour lesquels j'attends de l'argent.
+
+HORTENSIUS.--C'est contre mon coeur.
+
+TITUS.--Ne paraît-il pas étrange que Timon, en cela, paye plus qu'il ne
+doit? C'est comme si votre maître envoyait demander le prix des riches
+bijoux qu'il porte.
+
+HORTENSIUS.--Les dieux me sont témoins combien ce message me pèse.
+Je sais que mon maître a eu sa part des richesses de Timon; cette
+ingratitude est plus criminelle que s'il les eût volés.
+
+LE SERVITEUR DE VARRON.--Oui.--Mon billet à moi est de trois mille
+couronnes; et le vôtre?
+
+LE SERVITEUR DE LUCIUS.--De cinq mille.
+
+LE SERVITEUR DE VARRON.--C'est une grosse somme, et qui fait voir que la
+confiance de votre maître surpassait celle du mien, autrement sans doute
+que leurs créances seraient égales.
+
+(Entre Flaminius.)
+
+TITUS.--Voilà un des serviteurs du seigneur Timon.
+
+LE SERVITEUR DE LUCIUS.--Flaminius! Holà, un mot! Le seigneur Timon est
+bientôt prêt à partir?
+
+FLAMINIUS.--Non, vraiment, pas encore.
+
+TITUS.--Nous attendons sa Seigneurie; je vous prie de l'en prévenir!
+
+FLAMINIUS.--Je n'ai pas besoin de lui dire; il sait bien que vous n'êtes
+que trop ponctuels.
+
+(Entre Flavius, le visage caché dans son manteau.)
+
+LE SERVITEUR DE Lucius.--Ah! n'est-ce pas là son intendant qui est ainsi
+affublé? Il s'enfuit comme enveloppé d'un nuage; appelez-le, appelez-le.
+
+TITUS.--Entendez-vous, seigneur?
+
+LE SERVITEUR DE VARRON.--Avec votre permission....
+
+FLAVIUS.--Mon ami, que voulez-vous de moi?
+
+LE SERVITEUR DE VARRON.--Seigneur, j'attends ici le payement d'une
+certaine somme....
+
+FLAVIUS.--Si le payement était aussi certain que l'on est sûr de vous
+voir l'attendre, on pourrait compter dessus. Que ne présentiez-vous vos
+comptes et vos billets, quand vos perfides maîtres mangeaient à la
+table de mon seigneur? Alors ses dettes les flattaient et les faisaient
+sourire; leurs lèvres affamées en dévoraient les intérêts. Vous ne
+vous faites que du tort en m'agitant ainsi; laissez-moi passer
+tranquillement.--Apprenez que mon maître et moi nous sommes au bout de
+notre carrière; je n'ai plus rien à compter, ni lui à dépenser.
+
+LE SERVITEUR DE LUCIUS.--Oui, mais cette réponse ne servira pas.
+
+FLAVIUS.--Si elle ne sert pas, elle ne sera pas aussi vile que vous, car
+vous servez des fripons.
+
+LE SERVITEUR DE VARRON.--Que murmure donc là sa Seigneurie
+banqueroutière?
+
+TITUS.--Peu importe! Le voilà pauvre, et nous sommes assez vengés. Qui a
+plus droit de parler librement, que celui qui n'a pas un toit où loger
+sa tête? Il peut se moquer des superbes édifices.
+
+(Entre Servilius.)
+
+TITUS.--Oh! oh! voici Servilius; nous allons avoir une réponse.
+
+SERVILIUS.--Si j'osais vous conjurer, messieurs, de revenir dans quelque
+autre moment, vous m'obligeriez beaucoup; car, sur mon âme, mon maître
+est dans un étrange abattement; son humeur sereine l'a abandonné; sa
+santé est très-dérangée, il est obligé de garder la chambre.
+
+LE SERVITEUR DE LUCIUS.--Tous ceux qui gardent la chambre ne sont pas
+malades. D'ailleurs, si la santé de Timon est en si grand danger, c'est,
+ce me semble, une raison de plus pour payer promptement ses dettes, afin
+de s'aplanir la route vers les dieux.
+
+SERVILIUS.--Dieux bienfaisants!
+
+TITUS.--Nous ne pouvons pas nous contenter de cette réponse.
+
+FLAMINIUS, _dans l'intérieur de la maison_.--Servilius! Au secours! Mon
+maître! mon maître!
+
+(Entre Timon en fureur; Flaminius le suit.)
+
+TIMON.--Quoi! mes portes me ferment-elles le passage? J'aurai toujours
+été libre, et ma maison sera devenue l'ennemie de ma liberté, ma
+prison!--La salle où j'ai donné des festins me montre-t-elle maintenant,
+comme toute la race humaine, un coeur de fer?
+
+LE SERVITEUR DE LUCIUS.--Commence, Titus.
+
+TITUS.--Seigneur, voilà mon billet.
+
+LE SERVITEUR DE LUCIUS.--Voici le mien.
+
+LE SERVITEUR D'HORTENSIUS.--Et le mien, seigneur.
+
+LES DEUX SERVITEURS DE VARRON.--Et les nôtres, seigneur.
+
+PHILOTUS.--Voilà tous nos billets.
+
+TIMON.--Assommez-moi avec eux.--Fendez-moi jusqu'à la ceinture[12].
+
+[Note 12: Jeu de mots de Timon sur les billets (_bills_) et sur les
+haches d'armes (_bills_), que portaient encore les soldats du temps de
+Shakspeare.]
+
+LE SERVITEUR DE LUCIUS.--Hélas! seigneur.
+
+TIMON.--Coupez mon coeur en pièces de monnaie.
+
+TITUS.--Le mien est de cinquante talents.
+
+TIMON.--Paye-toi de mon sang.
+
+LE SERVITEUR DE LUCIUS.--Cinq mille écus, seigneur.
+
+TIMON.--Cinq mille gouttes de mon sang pour les payer.--Et le vôtre?--Et
+le vôtre?
+
+LE SERVITEUR DE VARRON.--Seigneur!
+
+LES DEUX SERVITEURS DE VARRON.--Seigneur!
+
+TIMON.--Tenez, prenez-moi, déchirez-moi, et que les dieux vous
+confondent?
+
+(Il sort.)
+
+HORTENSIUS.--Ma foi, je vois bien que nos maîtres n'ont qu'à jeter
+leurs bonnets après leur argent: on peut bien regarder les dettes comme
+désespérées, puisque c'est un fou qui est le débiteur.
+
+(Ils sortent.)
+
+(Rentre Timon avec Flavius.)
+
+TIMON.--Ils m'ont mis hors d'haleine, ces esclaves! Des créanciers! Des
+diables!
+
+FLAVIUS.--Mon cher maître,...
+
+TIMON.--Si je prenais ce parti....
+
+FLAVIUS.--Mon seigneur....
+
+TIMON.--Je veux qu'il en soit ainsi,--Mon intendant!
+
+FLAVIUS.--Me voici, seigneur.
+
+TIMON.--Fort à propos.--Allez, invitez tous mes amis; Lucius, Lucullus,
+Sempronius.--Tous; je veux encore donner une fête à ces coquins.
+
+FLAVIUS.--Ah! seigneur, c'est l'égarement où votre raison est plongée
+qui vous fait parler ainsi; il ne vous reste pas même de quoi servir un
+modeste repas.
+
+TIMON.--Ne t'en inquiète pas. Va, je te l'ordonne, invite-les tous,
+amène ici ces flots de coquins; mon cuisisinier et moi nous saurons
+pourvoir à tout.
+
+(Ils sortent.)
+
+
+
+SCÈNE V
+
+
+La salle du sénat d'Athènes.
+
+_Le sénat est assemblé; entre_ ALCIBIADE _avec sa suite_.
+
+PREMIER SÉNATEUR.--Seigneur, comptez sur ma voix, sa faute est capitale;
+il faut qu'il meure; rien n'enhardit le crime comme la miséricorde.
+
+SECOND SÉNATEUR.--Cela est vrai; la loi doit l'écraser de tout son
+poids.
+
+ALCIBIADE.--Santé, honneur, clémence dans l'auguste sénat!
+
+PREMIER SÉNATEUR.--Quel sujet, général...
+
+ALCIBIADE.--Je viens supplier humblement vos vertus; car la pitié est la
+vertu des lois; il n'y a que les tyrans qui en usent avec cruauté. Il
+plait aux circonstances et à la fortune de s'appesantir sur un de mes
+amis, qui, dans l'effervescence du sang, a enfreint la loi, abîme sans
+fond pour l'imprudent qui s'y plonge sans précaution. C'est un homme
+qui, à part cette fatalité, est plein des qualités les plus nobles,
+aucune lâcheté ne souille son action, et son honneur rachète sa faute.
+C'est avec une noble fureur et une fierté louable que, voyant sa
+réputation mortellement atteinte, il s'est armé contre son ennemi, il
+a gouverné son ressentiment dans son excès avec tant de sagesse et une
+modération si inouïe qu'il semblait seulement prouver son argument.
+
+PREMIER SÉNATEUR.--Vous soutenez un paradoxe inadmissible en cherchant
+à faire passer pour bonne une mauvaise action. Aux efforts que vous
+faites, on dirait que votre discours tend à légitimer l'homicide, à
+classer l'esprit querelleur au même rang que la valeur, lorsque c'est,
+à vrai dire, une valeur bâtarde venue au monde à la suite des sectes et
+des factions. Le vrai brave est celui qui sait souffrir avec patience
+tout ce que l'homme le plus méchant fait répandre contre lui; qui
+regarde une injure comme une chose aussi étrangère à sa personne, que
+le vêtement qu'il porte avec indifférence; et qui ne préfère pas ses
+injures à sa vie, en l'exposant à cause d'elles. Si le tort qu'on nous
+fait est un mal qui peut nous conduire au meurtre, quelle folie n'est-ce
+pas de risquer ses jours pour un mal?
+
+ALCIBIADE.--Seigneur....
+
+PREMIER SÉNATEUR.--Vous ne pouvez justifier des fautes aussi énormes. Le
+courage ne consiste pas à se venger, mais à supporter.
+
+ALCIBIADE.--Permettez-moi de parler, seigneurs, et pardonnez si je parle
+en guerrier.--Pourquoi les hommes s'exposent-ils follement dans les
+combats? Que n'endurent-ils toutes les menaces? que ne dorment-ils en
+paix sur l'affront? et que ne se laissent-ils égorger tranquillement et
+sans résistance par l'ennemi? S'il y a tant de courage à se résigner,
+qu'allons-nous faire dans les camps? Certes, les femmes qui restent à la
+maison seront plus braves que nous; si la résignation l'emporte, l'âne
+sera plus guerrier que le lion; et le coupable chargé de fers sera plus
+sage que son juge, si la sagesse est dans la patience. Seigneurs, ayez
+autant de clémence que vous avez de puissance.--Qui ne condamne pas la
+violence commise de sang-froid! Tuer, je l'avoue, est le dernier excès
+du crime; mais tuer pour se défendre, par pitié, c'est bien juste.
+S'abandonner à la colère est une impiété; mais quel est l'homme qui ne
+se mette en colère? Pesez le crime avec toutes ces considérations?
+
+SECOND SÉNATEUR.--Vous plaidez en vain.
+
+ALCIBIADE.--Quoi! en vain? Ses services à Lacédémone et à Byzance
+suffiraient pour racheter sa vie.
+
+PREMIER SÉNATEUR.--Que voulez-vous dire?
+
+ALCIBIADE.--Je dis qu'il a rendu des services signalés; qu'il a, dans
+les combats, tué un grand nombre de vos ennemis. Quelle valeur n'a-t-il
+pas montrée dans la dernière action? Que de blessures il a faites!
+
+SECOND SÉNATEUR.--Il s'en est trop payé sur le butin. C'est un débauché
+déterminé; il est sujet à un vice qui noie sa raison et enchaîne sa
+valeur. S'il n'avait point d'ennemis, celui-là seul suffirait pour
+l'accabler. On l'a vu, dans cette fureur brutale, commettre mille
+outrages, et susciter les querelles: on nous a informés que ses jours
+sont souillés d'excès honteux, et que son ivresse est dangereuse.
+
+PREMIER SÉNATEUR.--Il mourra.
+
+ALCIBIADE.--Sort cruel! Il aurait pu mourir à la guerre!--Seigneur,
+si ce n'est à cause de ses qualités personnelles, quoi qu'il dût se
+racheter par son bras droit sans rien devoir à personne, prenez, pour
+vous fléchir, mes services et joignez-les aux siens. Comme je sais qu'il
+est de la prudence de votre âge de prendre des sûretés, je vous engage
+mes victoires et mes honneurs, pour répondre de sa reconnaissance. Si,
+pour son crime, il doit sa vie à la loi, qu'il la donne à la guerre dans
+un vaillant combat; car la loi est sévère, et la guerre ne l'est pas
+davantage.
+
+PREMIER SÉNATEUR.--Nous tenons pour la loi; il mourra: n'insiste plus,
+sous peine de notre déplaisir; ami ou frère, qui répand le sang d'autrui
+doit le sien à la loi.
+
+ALCIBIADE.--Qu'il en soit ainsi? Cela ne sera pas, seigneurs, je vous en
+conjure, connaissez-moi.
+
+SECOND SÉNATEUR.--Comment?
+
+ALCIBIADE.--Rappelez-vous qui je suis.
+
+TROISIÈME SÉNATEUR.--Comment?
+
+ALCIBIADE--Je dois croire que votre vieillesse m'a oublié: autrement on
+ne me verrait pas ainsi abaissé demandant une grâce aussi simple qu'on
+me refuse. Mes blessures se rouvrent d'indignation.
+
+PREMIER SÉNATEUR.--Oses-tu provoquer notre colère? Ecoute, ce n'est
+qu'un mot, mais son effet est étendu: nous te bannissons pour jamais.
+
+ALCIBIADE.--Me bannir? Moi!... Bannissez plutôt votre radotage,
+bannissez l'usure qui déshonore le sénat.
+
+PREMIER SÉNATEUR.--Si, après deux soleils, Athènes te voit encore,
+attends de nous le jugement le plus rigoureux, et pour ne pas nous
+échauffer davantage, il sera exécuté sur l'heure.
+
+(Ils sortent.)
+
+ALCIBIADE.--Puissent les dieux vous faire vieillir assez pour que vous
+deveniez des squelettes dont tous les yeux se détournent! Ma rage est au
+comble.--Je faisais fuir leurs ennemis, tandis qu'ils comptaient leur
+argent et le prêtaient à gros intérêts.--Et moi, je ne suis riche qu'en
+larges blessures.--Tout cela pour en venir à ceci! Est-ce là le baume
+que ce sénat d'usuriers verse dans les plaies des guerriers? Ah!
+l'exil!--Je n'en suis pas fâché: je ne hais pas d'être exilé; c'est un
+affront fait pour allumer ma fureur et mon indignation, afin que je
+puisse frapper Athènes. Je vais ranimer le courage de mes troupes,
+mécontentes et gagner leurs coeurs. Il y a de la gloire à combattre de
+nombreux ennemis. Les guerriers ne doivent, pas plus que les dieux,
+souffrir qu'on les offense.
+
+(Il sort.)
+
+
+
+SCÈNE VI
+
+
+Appartement magnifique dans la maison de Timon. Musique, tables
+préparées, serviteurs.
+
+PLUSIEURS SEIGNEURS _entrent par diverses portes_.
+
+PREMIER SEIGNEUR.--Bonjour, seigneur.
+
+SECOND SEIGNEUR.--Je vous le souhaite aussi. Je pense que l'honorable
+Timon n'a fait que nous éprouver l'autre jour.
+
+PREMIER SEIGNEUR.--C'était la réflexion qui occupait mon oisiveté,
+lorsque nous nous sommes rencontrés. Je me flatte qu'il n'est pas si bas
+qu'il le semblait par l'épreuve qu'il a faite de ses divers amis.
+
+SECOND SEIGNEUR.--Ce qui le prouve assez, c'est le nouveau festin qu'il
+donne encore.
+
+PREMIER SEIGNEUR.--Je le croirais. Il m'a envoyé une invitation
+très-pressante; beaucoup d'affaires urgentes m'engageaient à refuser;
+mais il a tant prié, qu'il a fallu me rendre.
+
+SECOND SEIGNEUR.--Je me devais aussi moi-même à des affaires
+indispensables, mais il n'a pas voulu recevoir mes excuses. Je suis
+fâché de m'être trouvé dénué de fonds lorsqu'il envoya m'emprunter de
+l'argent.
+
+PREMIER SEIGNEUR.--Je suis atteint du même regret, maintenant que je
+vois le cours que prennent les choses.
+
+SECOND SEIGNEUR.--Chacun ici en dit autant.--Combien voulait-il
+emprunter de vous?
+
+PREMIER SEIGNEUR.--Mille pièces d'or.
+
+SECOND SEIGNEUR.--Mille pièces!
+
+PREMIER SEIGNEUR.--Et vous?
+
+TROISIÈME SEIGNEUR.--Il m'avait envoyé demander...--Le voilà qui vient.
+
+(Entre Timon avec suite.)
+
+TIMON.--Je suis à vous de tout mon coeur, dignes seigneurs. Comment vous
+portez-vous?
+
+PREMIER SEIGNEUR.--Le mieux du monde, puisque votre Seigneurie va bien.
+
+SECOND SEIGNEUR.--L'hirondelle ne suit pas l'été avec plus de plaisir,
+que nous votre Seigneurie.
+
+TIMON, _à part_.--Et ne fuit pas plus promptement l'hiver; les hommes
+ressemblent à ces oiseaux de passage.--Seigneurs, notre dîner ne vous
+dédommagera pas de cette longue attente. Égayez-vous un peu à entendre
+cette musique, si vous pouvez supporter une musique aussi peu
+harmonieuse que le son de la trompette; nous allons nous mettre à table.
+
+PREMIER SEIGNEUR.--J'espère que votre Seigneurie ne conserve aucun
+ressentiment de ce que j'ai renvoyé votre messager les mains vides.
+
+TIMON.--Ah! seigneur, que cela ne vous inquiète pas.
+
+SECOND SEIGNEUR.--Noble seigneur....
+
+TIMON.--Ah! mon digne ami, comment vous va?
+
+(On apporte le banquet.)
+
+SECOND SEIGNEUR.--Honorable seigneur, je suis malade de honte de m'être
+malheureusement trouvé si pauvre, lorsque votre Seigneurie envoya
+l'autre jour chez moi.
+
+TIMON.--N'y pensez plus, seigneur.
+
+SECOND SEIGNEUR.--Si vous eussiez envoyé seulement deux heures plus
+tôt....
+
+TIMON.--Que ce souvenir n'éloigne pas de vous des idées plus
+agréables.--Allons, qu'on apporte tout à la fois.
+
+SECOND SEIGNEUR.--Tous les plats couverts!
+
+PREMIER SEIGNEUR.--Festin royal! J'en réponds.
+
+TROISIÈME SEIGNEUR.--N'en doutez pas; si l'argent et la saison
+permettent de se le procurer.
+
+PREMIER SEIGNEUR.--Comment vous portez-vous? Quelles nouvelles?
+
+TROISIÈME SEIGNEUR.--Alcibiade est exilé, le savez vous?
+
+PREMIER ET SECOND SEIGNEURS.--Alcibiade exilé!
+
+TROISIÈME SEIGNEUR.--Oui, soyez-en sûrs.
+
+PREMIER SEIGNEUR.--Comment? Comment?
+
+SECOND SEIGNEUR.--Et pourquoi, je vous prie?
+
+TIMON.--Mes dignes amis, voulez-vous vous approcher?
+
+TROISIÈME SEIGNEUR.--Je vous en dirai davantage tantôt: voilà un
+splendide repas préparé!
+
+SECOND SEIGNEUR.--C'est toujours le même homme.
+
+TROISIÈME SEIGNEUR.--Cela durera-t-il? Cela durera-t-il?
+
+SECOND SEIGNEUR.--A présent, bon; mais un temps viendra, où....
+
+TROISIÈME SEIGNEUR.--Je vous entends.
+
+TIMON.--Que chacun prenne sa place avec l'ardeur qu'il mettrait à
+s'approcher des lèvres de sa maîtresse: vous serez également bien servis
+en quelque lieu que vous vous placiez. Ne faites point de cérémonie
+et ne laissez point refroidir le dîner, pendant que nous décidons des
+premières places. Asseyez-vous, asseyez-vous.--Rendons d'abord grâces
+aux dieux.
+
+«O vous, grands bienfaiteurs, inspirez à notre société la
+reconnaissance. Faites-vous rendre grâces de vos dons, mais réservez
+toujours quelques bienfaits, si vous ne voulez pas voir vos divinités
+méprisées. Prêtez à chaque homme assez pour qu'aucun n'ait besoin de
+prêter à un autre. Si vos divinités étaient réduites à emprunter des
+hommes, les hommes abandonneraient les dieux. Faites que le festin
+soit plus aimé que l'hôte qui le donne; qu'il ne se forme jamais une
+assemblée de vingt convives, sans qu'il y ait une vingtaine de fripons.
+S'il se trouve douze femmes à table, qu'elles soient.... ce qu'elles
+sont déjà. Pour le reste de vos dons! ô dieux!.... que les sénateurs
+d'Athènes, avec toute la lie du peuple athénien, que leurs vices, ô
+dieux, soient les instruments de leur destruction.--Quant à tous ces
+amis qui m'environnent, comme ils ne sont rien pour moi, ne les bénissez
+en rien, et qu'ils ne soient les bienvenus à rien.»
+
+--Découvrez les plats, chiens, et lapez.
+
+UN DES SEIGNEURS.--Que veut dire sa Seigneurie?
+
+UN AUTRE.--Je n'en sais rien.
+
+TIMON.--Puissiez-vous ne voir jamais un meilleur festin! (_On découvre
+les plats qui sont pleins d'eau chaude_.) Réunion d'amis de bouche, la
+fumée et l'eau tiède sont votre parfaite image. Voilà le dernier don de
+Timon, qui, tout couvert de vos louanges et de vos flatteries dorées,
+s'en lave aujourd'hui, et vous jette au visage votre lâcheté encore
+fumante. (_Il leur jette l'eau à la figure_.) Vivez méprisés, vivez
+longtemps, souriants, doucereux, détestables parasites, ennemis polis,
+loups affables, ours caressants, bouffons de la fortune, amis du festin,
+mouches de la saison, esclaves des saluts et des courbettes, vapeurs,
+Jacques d'horloge[13], que les fléaux qui désolent l'homme et la brute,
+réunis sur vous, vous couvrent entièrement d'une croûte.--Eh bien!
+où allez-vous? Attendez.--Toi, prends d'abord ta médecine,--et toi
+aussi,--et toi encore.--(_Il leur jette les plats à la tête et les
+chasse_.) Arrête! je veux te prêter de l'argent et non t'en emprunter.
+Quoi, tous en mouvement?--Qu'il ne se fasse plus désormais de fête où
+les fripons ne soient les bien reçus! maison, que le feu te consume!
+Péris, Athènes; et que désormais l'homme et l'humanité soient haïs de
+Timon!
+
+(Il sort.)
+
+[Note 13: _Minute Jack_, c'est ce qu'on appelle ordinairement _a Jack
+of the clock house_, Jacques de l'horloge, figure de bois qui marque les
+heures. Dans certaines villes de France, on voit encore plusieurs de ces
+hommes de bois qu'on appelle _jacquemarts_ et qui frappent les heures;
+au même instant une femme de bois se présente et fait la révérence.]
+
+(Les seigneurs rentrent avec d'autres seigneurs et sénateurs.)
+
+PREMIER SEIGNEUR.--Eh bien! seigneur?
+
+SECOND SEIGNEUR.--Pouvez-vous expliquer quelle est cette fureur du
+seigneur Timon?
+
+TROISIÈME SEIGNEUR.--Bah! Avez-vous vu mon chapeau?
+
+QUATRIÈME SEIGNEUR.--J'ai perdu ma robe.
+
+TROISIÈME SEIGNEUR.--Ce n'est qu'un fou; il ne se laisse gouverner que
+par le caprice; l'autre jour il m'a donné un diamant, et aujourd'hui il
+me le fait sauter de mon chapeau... L'avez-vous vu, mon diamant?
+
+QUATRIÈME SEIGNEUR.--Avez-vous vu mon chapeau?
+
+SECOND SEIGNEUR.--Le voilà.
+
+QUATRIÈME SEIGNEUR.--Voici ma robe.
+
+PREMIER SEIGNEUR.--Hâtons-nous de sortir d'ici.
+
+SECOND SEIGNEUR.--Le seigneur Timon est fou.
+
+TROISIÈME SEIGNEUR.--Je le sens bien vraiment à mes épaules.
+
+QUATRIÈME SEIGNEUR.--Il nous donne des diamants un jour, et le lendemain
+des pierres.
+
+(Ils sortent.)
+
+FIN DU TROISIÈME ACTE.
+
+
+
+
+ACTE QUATRIÈME
+
+
+
+SCÈNE I
+
+
+L'extérieur des murs d'Athènes. _Entre_ TIMON.
+
+Que je vous regarde encore, ô murs qui renfermez ces loups dévorants;
+abîmez-vous sous la terre et ne défendez plus Athènes! Matrones,
+livrez-vous à l'impudicité; que l'obéissance manque aux enfants!
+Esclaves et fous, arrachez de leurs sièges les graves sénateurs ridés,
+et jugez à leur place! Jeunes vierges, soyez plongées dans la fange!
+commettez le crime sous les yeux de vos parents. Banqueroutiers, tenez
+ferme, et plutôt que de rendre l'argent, tirez vos poignards, et coupez
+la gorge à ceux qui vous l'ont confié. Serviteurs, volez; vos graves
+maîtres sont des brigands à la large main, qui pillent au nom des lois.
+Esclave, entre au lit de ton maître; ta maîtresse est dans un lieu
+de débauche. Fils de seize ans, arrache des mains de ton vieux père
+chancelant sa béquille veloutée, et brise-lui la tête avec. Piété,
+crainte, amour des dieux, paix, justice, bonne foi, respect domestique,
+repos des nuits, bon voisinage, éducation, moeurs, religion, commerce,
+rangs, usages, coutumes et lois, soyez remplacés par tous les désordres
+contraires. Que la confusion règne seule; et vous, pestes funestes aux
+hommes, accumulez vos fièvres contagieuses sur Athènes; elle est mûre
+pour vos coups. Froide sciatique, estropie nos sénateurs, et que leurs
+membres boitent aussi bas que leurs moeurs! Débauche effrénée[14],
+glisse-toi dans les coeurs et jusqu'à la moelle de la jeunesse, afin
+qu'ils luttent avec succès contre le courant de la vertu, et aillent
+se noyer dans la volupté. Gales, tumeurs, parsemez le sein de tous les
+Athéniens, et qu'ils en recueillent la moisson d'une lèpre universelle!
+que l'haleine infecte l'haleine, afin que leur société soit, comme leur
+amitié, un poison! Cité détestable, je n'emporte rien de toi, que ce
+corps nu: arrache-le-moi aussi, en multipliant les proscriptions. Timon
+fuit dans les forêts, où les bêtes les plus féroces seront pour lui plus
+humaines que les hommes. O vous tous, dieux bienfaisants, exaucez-moi:
+exterminez les Athéniens au dedans et au dehors de leurs murs. Accordez
+à Timon de voir croître, avec ses années, sa haine pour la race des
+hommes, grands ou petits! Ainsi soit-il!
+
+(Il sort.)
+
+[Note 14: _Liberty_ est pris ici dans le sens de licence.]
+
+
+
+SCÈNE II
+
+
+Athènes. Appartement de la maison de Timon. _Entrent_ FLAVIUS ET DEUX OU
+TROIS SERVITEURS.
+
+UN SERVITEUR.--Parlez, maître intendant; où est notre
+maître?--Sommes-nous perdus? renvoyés? Ne reste-t-il rien?
+
+FLAVIUS.--Hélas! mes camarades, que voulez-vous que je vous dise.--Que
+les justes dieux daignent se souvenir de moi; je suis aussi pauvre que
+vous!
+
+UN SERVITEUR.--Une pareille maison renversée! un si généreux maître
+ruiné; tout perdu, et pas un seul ami pour prendre sa fortune par le
+bras et pour l'accompagner!
+
+UN SECOND SERVITEUR.--De même que nous tournons le dos à notre compagnon
+dès qu'il est jeté dans son tombeau, ainsi ses amis, envoyant sa fortune
+ensevelie, se dérobent au plus vite, ne lui laissant que leurs voeux
+trompeurs, comme des bourses vides: l'infortuné, voué à la mendicité,
+sans autre bien que l'air, avec sa pauvreté, maladie que tout le monde
+fuit, marche comme le mépris, tout seul. (_Entrent quelques autres
+serviteurs de Timon_.) Voici encore quelques-uns de nos camarades.
+
+FLAVIUS.--Tous instruments brisés d'une maison ruinée.
+
+UN TROISIÈME SERVITEUR.--Nos coeurs n'en portent pas moins la livrée de
+Timon; je le lis sur nos visages. Nous sommes tous camarades encore,
+servant tous ensemble dans le malheur. Notre barque fait eau; et nous,
+pauvres matelots, nous sommes sur le pont, écoutant les menaces des
+vagues, il faut que nous nous séparions tous, dispersés dans l'océan de
+l'air.
+
+FLAVIUS.--Braves amis, je veux partager avec vous tout ce qui me reste
+de biens. En quelque lieu que nous puissions nous revoir, pour l'amour
+de Timon, restons toujours camarades; secouons la tête, et disons, comme
+si c'était le glas de la fortune de notre maître: «Nous avons vu des
+jours plus heureux!»--Que chacun prenne sa part; allons, tendez tous la
+main.--Pas un mot de plus: c'est ainsi que nous nous séparons, pauvres
+d'argent, mais riches en douleur. (_Il leur donne de l'argent, et tous
+se retirent de différents côtés_.) Oh! dans quelle affreuse détresse la
+prospérité nous a précipités! Qui ne désirera pas d'être préservé des
+richesses, puisque l'opulence aboutit à la misère et au mépris? Quel
+homme voudrait se laisser tromper par l'éclat de la prospérité, ou ne
+jouir que d'un songe d'amitié? Qui voudrait de la magnificence et de
+tous ces avantages du rang, qui ne sont que des peintures, comme ces
+amis couverts de vernis? Mon pauvre brave maître! voilà où son bon coeur
+l'a réduit; c'est sa bonté qui l'a perdu! Étrange, singulier caractère,
+que celui dont le plus grand crime est d'avoir fait trop de bien! Qui
+osera désormais être la moitié aussi bon, puisque la bonté qui fait les
+dieux détruit l'homme? O mon cher maître, adoré autrefois pour être
+maudit aujourd'hui, riche seulement pour être misérable, ta grande
+opulence est devenue ta grande calamité. Hélas! le bon seigneur, dans sa
+rage il a fui cette ville ingrate, repaire de ses faux amis: il n'a rien
+avec lui pour soutenir sa vie ou de quoi se procurer le nécessaire. Je
+veux le suivre et le découvrir. Je servirai toujours son âme de tout mon
+coeur, et tant qu'il me restera de l'or je serai son intendant.
+
+(Il sort.)
+
+
+
+SCÈNE III
+
+
+Les bois. _Entre_ TIMON _avec une bêche_.
+
+--O soleil, bienfaisant générateur, fais sortir de la terre une humidité
+empestée, infecte l'air sous l'orbe de ta soeur[15]! Prends deux frères
+jumeaux nourris dans le même sein, dont la conception, la gestation
+et la naissance furent presque simultanées; fais-leur éprouver des
+destinées diverses: le plus grand méprisera le plus petit. La nature
+qu'assiègent tous les maux ne peut supporter une grande fortune qu'en
+méprisant la nature. Élève ce mendiant, dépouille ce seigneur; le
+seigneur va essuyer un mépris héréditaire, et le mendiant jouira des
+honneurs de la naissance. C'est la bonne chère qui engraisse les flancs
+d'un frère; c'est le besoin qui le maigrit[16]. Qui osera, qui osera
+lever le front avec une pureté mâle, et dire: cet homme est un flatteur?
+S'il en est un seul, ils le sont tous; chaque degré de la fortune est
+aplani par celui qui est au-dessous. La tête savante fait plongeon
+devant l'imbécile vêtu d'or: tout est oblique, rien n'est uni dans notre
+nature maudite, que le sentier direct de la perversité. Haine donc aux
+fêtes, aux sociétés et aux assemblées des hommes! Timon méprise son
+semblable et lui-même. Que la destruction dévore le genre humain!--O
+terre, cède-moi quelques racines. (_Il creuse la terre_.) Celui qui te
+demande quelque chose de plus, flatte son palais de tes poisons les plus
+actifs! Que vois-je! de l'or? cet or jaune, ce brillant et précieux
+inconstant. Non, dieux[17], je ne suis point un suppliant inconstant. Des
+racines, cieux purs! Ce peu d'or suffirait pour rendre le noir blanc,
+la laideur beauté, le mal bien, la bassesse noblesse, la vieillesse
+jeunesse, la lâcheté bravoure.--Oh! pourquoi cela, grands dieux?
+Qu'est-ce donc, ô dieux! pourquoi cet or peut-il faire déserter de vos
+autels, vos prêtres et vos serviteurs? il arrache l'oreiller placé sous
+la tête du malade encore plein de vie[18]. Ce jaune esclave forme ou
+rompt les noeuds des pactes les plus sacrés, bénit ce qui fut maudit,
+fait adorer la lèpre blanche; il place un fripon auprès du sénateur,
+sur le siège de justice, lui assure les titres, les génuflexions et
+l'approbation publique. C'est lui qui fait remarier la veuve flétrie.
+Celle dont ses ulcères dégoûteraient l'hôpital, l'or la parfume et
+l'embaume, et la ramène au mois d'avril. Viens, poussière maudite,
+prostituée commune à tout le genre humain, qui sèmes le trouble parmi la
+foule des nations, je veux te faire reprendre la place que t'assigne la
+nature!--(_Une marche militaire_.) Un tambour! Tu es bien vif, mais je
+veux t'ensevelir: va, robuste brigand, rentre aux lieux où ne peuvent
+rester tes gardiens goutteux; mais gardons-en un peu pour échantillon.
+
+[Note 15: Dans ce monde sublunaire.]
+
+[Note 16: Ce passage est encore un de ceux qui ont le plus embarrassé
+les commentateurs; il nous semble que c'est en supposant que _brother_
+devait être remplacé par _weather, saison_, selon les uns, et _wether,
+bélier_, selon les autres, qu'on a oublié ce que Shakspeare voulait
+dire. Le sens le plus simple est presque toujours le meilleur.
+
+_It is the pasture lards the brother's side_.
+
+C'est la bonne chère qui engraisse les flancs du frère, et non du
+_bélier_, ni de _la saison_; mais du frère de qui? Shakspeare ne dit-il
+pas, huit vers plus haut: _Twinn'd brothers of one womb_, etc.]
+
+[Note 17: _Sub rastro erepit argenti mihi seria dextro, Hercule!_
+(PERSE.)]
+
+[Note 18: Allusion à une ancienne coutume d'ôter l'oreiller de
+dessous la tête des mourants, dans leur agonie, pour rendre leur mort
+plus douce.]
+
+(Il prend un peu d'or et enfouit le reste.) (Entrent Alcibiade, avec
+des fifres et des tambours comme dans une marche militaire; Phrynia,
+Timandra.)
+
+ALCIBIADE.--Qui es-tu? parle.
+
+TIMON.--Un animal comme toi. Qu'un cancer te ronge le coeur, pour venir
+me montrer encore les yeux d'un homme!
+
+ALCIBIADE.--Quel est ton nom? As-tu donc l'homme tellement en horreur,
+toi qui es, toi-même, un homme?
+
+TIMON.--Je suis misanthrope[19], et je hais le genre humain.--Pour toi,
+je voudrais que tu fusses chien; je pourrais t'aimer un peu.
+
+[Note 19: Le mot grec a plus d'énergie que celle que nous attachons à
+cette expression devenue française.]
+
+ALCIBIADE.--Je te connais bien, mais j'ignore complètement tes
+aventures.
+
+TIMON.--Je te connais, et cela me suffît; je ne désire point en savoir
+davantage; suis tes tambours: peins la terre du sang des hommes,
+couleur de gueules. Les lois religieuses, les lois civiles, toutes sont
+cruelles! Que doit donc être la guerre?--Cette fatale courtisane, que tu
+mènes avec toi, porte en elle une destruction plus sûre que ton épée,
+malgré ses yeux de chérubin.
+
+PHRYNIA.--Que tes lèvres pourrissent!
+
+TIMON.--Va, je ne t'embrasserai pas; que la pourriture retourne sur tes
+lèvres.
+
+ALCIBIADE.--Comment le noble Timon est-il venu à ce changement?
+
+TIMON.--Comme la lune change, faute de lumière à répandre; mais je n'ai
+pu, comme elle, renouveler ma clarté; il n'y avait point de soleils,
+pour en emprunter d'eux.
+
+ALCIBIADE.--Noble Timon, quel service mon amitié peut-elle te rendre?
+
+TIMON.--Aucun, sinon de justifier mes sentiments.
+
+ALCIBIADE.--Quels sont-ils?
+
+TIMON.--Promets-moi tes services, et ne m'en rends aucun. Si tu ne veux
+pas promettre, que les dieux te punissent, car tu es un homme; si tu
+tiens ta promesse, le ciel te confonde, car tu es un homme!
+
+ALCIBIADE.--J'ai bien ouï dira quelque chose de tes malheurs.
+
+TIMON.--Tu les as vus dans le temps de ma prospérité.
+
+ALCIBIADE.--Je les vois maintenant; alors c'était un heureux temps.
+
+TIMON.--Comme le tien maintenant, passé avec cette paire de prostituées.
+
+TIMANDRA.--Est-ce donc là ce mignon d'Athènes, dont le monde parlait
+avec tant d'admiration?
+
+TIMON.--Es-tu Timandra?
+
+TIMANDRA.--Oui.
+
+TIMON.--Sois toujours prostituée. Ceux qui jouissent de toi ne t'aiment
+point. Donne-leur des maladies pour prix de leur incontinence. Emploie
+bien tes heures de lubricité, prépare ces esclaves pour les baquets et
+les bains, et réduis à la diète et aux remèdes la jeunesse aux joues de
+rose.
+
+TIMANDRA.--Va te faire pendre, monstre!
+
+ALCIBIADE.--Pardonne-lui, chère Timandra; son esprit s'est perdu et noyé
+dans ses calamités.--Brave Timon, il ne me reste qu'un peu d'or, dont
+la disette excite tous les jours quelque révolte parmi mes soldats
+indigents. J'ai appris avec douleur comment la maudite Athènes, sans
+faire cas de ton mérite, oubliant tes grandes actions, qui la sauvèrent
+lorsque les États voisins allaient l'écraser, sans ton épée et ta
+fortune....
+
+TIMON.--Je te prie, fais battre tes tambours, et va-t'en.
+
+ALCIBIADE.--Mon cher Timon, je suis ton ami et je te plains.
+
+TIMON.--Comment peux-tu plaindre celui que tu importunes? J'aimerais
+mieux être seul.
+
+ALCIBIADE.--Eh bien! porte-toi bien; voilà un peu d'or pour toi.
+
+TIMON.--Garde-le, je ne peux pas le manger.
+
+ALCIBIADE.--Quand j'aurai fait de la superbe Athènes un monceau de....
+
+TIMON.--Fais-tu la guerre à Athènes?
+
+ALCIBIADE.--Oui, Timon, et j'en ai sujet.
+
+TIMON.--Que les dieux les confondent tous par ton triomphe, et toi après
+quand tu auras triomphé!
+
+ALCIBIADE.--Moi, Timon, et pourquoi?
+
+TIMON.--Parce qu'en égorgeant ces misérables, tu seras né pour conquérir
+ma patrie.--Reprends ton or: pars, voilà de l'or, pars: sois comme un
+astre malfaisant, lorsque Jupiter suspend le poison au-dessus d'une
+ville criminelle dans l'air empesté. Que ton glaive n'en épargne pas un
+seul; n'aie aucune pitié de la respectable vieillesse en dépit de sa
+barbe blanche; c'est un usurier: frappe-moi l'épouse hypocrite; rien
+n'est honnête en elle que son vêtement: c'est une prostituée. Que les
+joues de la jeune vierge n'adoucissent pas le tranchant de ton épée: ces
+mamelles qui, au travers de la gaze transparente, enchantent les yeux de
+l'homme, ne sont point inscrites dans le livre de la pitié; traite-les
+comme des traîtres odieux: n'épargne pas même l'enfant dont le gracieux
+sourire émeut la compassion des sots; ne vois en lui qu'un bâtard qu'un
+oracle équivoque a désigné comme devant t'égorger; mets-le en pièces
+sans remords. Jure de les exterminer tous; arme tes oreilles et tes yeux
+d'une cuirasse impénétrable aux cris des mères, des filles, des enfants,
+à la vue des prêtres souillant de leur sang leurs vêtements sacrés.
+Tiens, voilà de l'or pour payer tes soldats; fais un grand carnage; et
+quand ta fureur sera assouvie, sois exterminé toi-même! Ne parle pas:
+va-t'en.
+
+ALCIBIADE.--As-tu encore de l'or? Je prendrai l'or; mais non tous tes
+avis.
+
+TIMON.--Suis-les, ou ne les suis pas; que la malédiction du ciel plane
+sur toi!
+
+TIMANDRA ET PHRYNIA.--Donne-nous de l'or, bon Timon: en as-tu encore?
+
+TIMON.--Assez pour faire abjurer à une prostituée son métier, et
+renoncer une entremetteuse à faire des prostituées. Viles créatures,
+tendez et emplissez vos tabliers. Ce n'est pas à vous qu'il faut
+demander des serments qui vous enchaînent, non que vous ne soyez prêtes
+à jurer, à prononcer des jurements exécrables qui feraient trembler
+d'horreur, et frissonner les dieux immortels qui vous entendraient.
+Épargnez les serments; je me fie à votre penchant; restez des
+prostituées. Que celui dont la voix pieuse tentera de vous convertir
+soit lui-même entraîné par vous dans le crime; attirez-le et embrasez-le
+de vos feux profanes, plus puissants que la fumée de ses discours. Ne
+désertez jamais votre profession; seulement éprouvez six mois de
+l'année les peines méritées, et couvrez vos pauvres têtes chauves de
+la dépouille des morts; quelques-uns ont été pendus, n'importe,
+servez-vous-en pour trahir, continuez vos prostitutions, fardez les
+rides et les pustules de votre visage, jusqu'à ce qu'il devienne un
+bourbier.
+
+TIMANDRA ET PHRYNIA.--Fort bien: encore de l'or.--Eh bien! sois persuadé
+que nous ferons tout pour de l'or.
+
+TIMON.--Semez la consomption jusque dans la moelle des os des hommes;
+frappez leurs jambes décharnées, détruisez la rapidité de leur marche;
+étouffez la voix de l'avocat, qu'il ne puisse plus plaider pour de faux
+titres, et ne fasse plus entendre son aigre fausset pour soutenir des
+subtilités. Couvrez de lèpre le flamine qui déclame contre la chair, et
+qui ne se croit pas lui-même. Faites tomber le nez par terre pour qu'il
+se le casse l'homme qui ne cherche qu'à éventer son avantage particulier
+au milieu de l'intérêt général. Rendez chauves les débauchés à la tête
+frisée; et que les fanfarons sans cicatrices de la guerre puisent dans
+votre sein quelque souffrance! Frappez tous les hommes du même fléau.
+Que votre activité corrompe et dessèche les sources de toute vigueur.
+Voilà encore de l'or; allez, damnez les autres, et que cet or vous damne
+à votre tour, et que les fossés vous servent à tous de tombeau!
+
+TIMANDRA ET PHRYNIA.--Encore des avis et encore de l'argent, généreux
+Timon.
+
+TIMON.--Encore plus de prostituées et plus de maux d'abord. Commencez
+votre tâche; je vous ai donné des arrhes.
+
+ALCIBIADE.--Tambours! battez. Marchons vers Athènes.--Adieu, Timon; si
+je prospère, je reviendrai te revoir.
+
+TIMON.--Et moi, si mon espoir est accompli, je ne te reverrai jamais.
+
+ALCIBIADE.--Je ne t'ai jamais fait de mal.
+
+TIMON.--Tu as dit du bien de moi.
+
+ALCIBIADE.--Appelles-tu cela du mal?
+
+TIMON.--Oui, les hommes l'éprouvent tous les jours.--Sors d'ici, pars,
+et emmène tes chiennes avec toi.
+
+ALCIBIADE.--Nous ne faisons ici que l'offenser.--Partons.
+
+(Le tambour bat; sortent Alcibiade, Phrynia, et Timandra.)
+
+TIMON.--Se peut-il que la nature, blessée de l'ingratitude de l'homme,
+puisse encore avoir faim!--O mère commune, toi dont le sein immense et
+fécond enfante et nourrit tout (_il creuse la terre_); toi, qui de la
+même substance dont ton orgueilleux enfant, l'homme superbe est gonflé,
+engendre le noir crapaud, la vipère azurée, le lézard doré, le serpent
+aveugle[20], et mille autres créatures abhorrées sous la voûte du ciel,
+où brillent les feux vivifiants d'Hypérion[21], donne à celui qui hait
+tous tes enfants de l'humanité une pauvre racine!--Détruis la fécondité
+de tes entrailles, qu'elles ne produisent plus l'homme ingrat; ne sois
+plus enceinte que de tigres, de loups, de dragons et d'ours, produis
+d'autres monstres nouveaux que ta face extérieure n'ait point encore
+montrés à la voûte bigarrée qui te couvre.--Oh! une racine!--Je te
+remercie.--Dessèche tes veines, tes vignobles, et tes guérets déchirés
+par la charrue, dont l'homme ingrat tire ces liqueurs et ces mets
+onctueux qui souillent la pureté de l'âme, et la privent de sa raison.
+(_Entre Apémantus_.) Encore un homme! malédiction! malédiction!
+
+[Note 20: L'aveugle, espèce de serpent ainsi nommé à cause de la
+petitesse de ses yeux: c'est le _cæcilia_ des Latins.]
+
+[Note 21: Hypérion, le soleil.]
+
+APÉMANTUS.--On m'a montré ce chemin. On dit que tu affectes mes moeurs,
+que tu les copies.
+
+TIMON.--C'est parce que tu n'as point de chien que je puisse imiter. Que
+la peste te consume!
+
+APÉMANTUS.--Tout cela n'est en toi qu'affectation; ce n'est qu'une
+mélancolie indigne de l'homme, et qui est née du changement de ta
+fortune. Que signifient cette bêche, cet endroit, ce vêtement d'esclave,
+et ces regards inquiets? Et cependant tes flatteurs portent la soie,
+boivent le vin et dorment sur le duvet, serrent contre eux leurs parfums
+pernicieux, et ils ont oublié qu'il exista jamais un Timon. Ne déshonore
+point ces bois en adoptant la malice d'un censeur. Fais-toi flatteur à
+ton tour; cherche à relever ta fortune par ce qui t'a ruiné; apprends à
+courber les genoux; qu'il suffise du souffle du riche qui recevra ton
+hommage, pour faire voler ton bonnet; loue ses plus grands vices et
+érige-les en vertus. C'est ainsi qu'on te traitait; ton oreille était
+toujours ouverte comme celle d'un cabaretier qui fait un accueil
+gracieux aux fripons et à tous ceux qui l'approchent; il est juste que
+tu deviennes un fripon toi-même. Si tu avais encore des richesses, elles
+appartiendraient aux fripons. Ne cherche point à me ressembler.
+
+TIMON.--Si je te ressemblais, je renoncerais à moi-même.
+
+APÉMANTUS.--Tu as renoncé à toi-même en restant tel que tu étais, jadis
+extravagant, sot aujourd'hui.--Quoi! attends-tu que cet air froid,
+brusque chambellan, te vienne revêtir d'une chemise chaude? Ces
+arbres moussus, et plus vieux que l'aigle, suivront-ils tes pas, et
+bondiront-ils sur ton signe? L'onde du froid ruisseau recouvert de glace
+préparera-t-elle ton repas du matin pour réparer tes excès de la nuit?
+Appelle toutes les créatures qui vivent exposées à l'inclémence de
+l'air; ces arbres dont les troncs nus et sans abri, en butte au choc des
+éléments, ne répondent qu'à la nature; dis-leur de te flatter.--Oh! tu
+trouveras....
+
+TIMON.--Un fou en toi: va-t'en.
+
+APÉMANTUS.--Je t'aime plus maintenant que je n'ai jamais fait.
+
+TIMON.--Et moi, je te hais davantage.
+
+APÉMANTUS.--Pourquoi?
+
+TIMON.--Tu flattes la misère.
+
+APÉMANTUS.--Je ne flatte pas; je te dis seulement que tu es un pendard.
+
+TIMON.--Pourquoi m'es-tu venu chercher?
+
+APÉMANTUS.--Pour te vexer.
+
+TIMON.--C'est toujours le rôle d'un lâche ou d'un fou: te plais-tu dans
+ce rôle?
+
+APÉMANTUS.--Oui.
+
+TIMON.--Quoi, tu es aussi un coquin?
+
+APÉMANTUS.--Si tu avais adopté ce genre de vie sauvage pour châtier ton
+orgueil, à la bonne heure; mais tu ne l'as fait que par force. Tu serais
+un courtisan, si tu n'étais pas un gueux.--L'indigence volontaire survit
+à une opulence inquiète et arrive plus tôt au comble de ses désirs.
+L'une les remplit sans cesse et ne les complète jamais, l'autre est
+toujours satisfaite. La fortune la plus brillante, sans contentement,
+est un état de peine et de misère, pire que ce qu'il y a de pis avec le
+contentement. Tu devrais désirer de mourir, puisque tu es misérable.
+
+TIMON.--Non par la sentence de celui qui est plus misérable que moi. Tu
+es un esclave que jamais la fortune ne pressa avec faveur dans ses bras
+caressants; tu es né comme un chien. Si tu avais, comme moi, dès ton
+berceau, passé successivement par toutes les douceurs que ce monde
+de passage prodigue à ceux qui peuvent librement jouir de toutes
+ses drogues assoupissantes, tu te serais plongé tout entier dans la
+débauche; ta jeunesse se serait usée dans tous les rendez-vous de la
+volupté, tu n'aurais jamais appris les froids préceptes de l'obéissance
+aux lois, tu aurais suivi le jeu sucré qui t'était offert.--Mais moi,
+qui avais le monde entier pour confiseur, je régnais sur la bouche, la
+langue, le coeur et les yeux de plus de serviteurs que je n'en pouvais
+employer; ils étaient attachés à moi comme les feuilles innombrables le
+sont au chêne: mais le souffle d'un seul hiver les a fait tomber des
+rameaux, et m'a exposé nu à toutes les fureurs de la tempête. Ce n'est
+pas sans quelque peine que je supporte ceci, moi, qui n'ai connu jamais
+que le bonheur; mais toi, ton existence a commencé dans la souffrance,
+et le temps t'a endurci. Pourquoi haïrais-tu les hommes? Ils ne t'ont
+pas flatté. Quels dons leur as-tu faits? Va, si tu veux maudire, maudis
+ton père; ce pauvre misérable qui, dans son dépit, s'unit à quelque
+malheureuse errante, et forma en toi un pauvre misérable héréditaire.
+--Hors d'ici, va-t'en; si tu n'étais pas né le pire des hommes, tu
+aurais été un fripon et un flatteur.
+
+APÉMANTUS.--As-tu encore de l'orgueil?
+
+TIMON.--Oui, j'en ai de ne pas être toi.
+
+APÉMANTUS.--Et moi de n'avoir pas été un prodigue!
+
+TIMON.--Et moi d'en être encore un à présent. Si tout ce que je
+possède était renfermé en toi, je te permettrais d'aller te pendre;
+va-t'en.--Que la vie d'Athènes entière n'est-elle dans cette racine! je
+la dévorerais ainsi!
+
+(Il mange une racine.)
+
+APÉMANTUS, _lui offrant quelque chose_.--Tiens, je veux améliorer ton
+repas.
+
+TIMON.--Commence par améliorer ma société; va-t'en.
+
+APÉMANTUS.--Je vais améliorer la mienne en m'éloignant de toi.
+
+TIMON.--Elle ne sera pas améliorée[22], elle ne sera que rapiécée; du
+moins je le souhaite.
+
+[Note 22: Shakspeare ne laisse jamais échapper l'occasion d'employer
+à double sens le verbe _to mend: raccommoder, rapiécer, corriger,
+améliorer_.
+
+Le dialogue commence ici à devenir plus grossier que spirituel.]
+
+APÉMANTUS.--Que voudrais-tu envoyer à Athènes?
+
+TIMON.--Toi, dans un ouragan. Si tu veux, dis-leur que j'ai de l'or ici:
+vois, j'en ai.
+
+APÉMANTUS.--L'or n'est ici d'aucun usage.
+
+TIMON.--Le meilleur et l'innocent; car ici il dort et ne paye pas le
+mal.
+
+APÉMANTUS.--Timon, où couches-tu la nuit?
+
+TIMON.--Sous ce qui est au-dessus de moi. Apémantus, où manges-tu le
+jour?
+
+APÉMANTUS.--Où mon estomac trouve de la nourriture, ou plutôt là où je
+la mange.
+
+TIMON.--Oh! si le poison connaissait ma volonté, et voulait m'obéir!
+
+APÉMANTUS.--Où l'enverrais-tu?
+
+TIMON.--Assaisonner tes aliments.
+
+APÉMANTUS.--Va, tu n'as jamais connu le juste milieu de l'humanité;
+mais seulement l'un on l'autre extrême. Au milieu de ton or et de tes
+parfums, on se moquait de toi pour ton excès de délicatesse. Maintenant,
+sous tes haillons, tu n'en connais plus aucune et on te méprise pour
+l'excès contraire. Voici une nèfle, mange-la.
+
+TIMON.--Je ne mange point ce que je hais.
+
+APÉMANTUS.--Et tu hais une nèfle[23]?
+
+[Note 23: Jeu de mots: _meddlar_, nèfle, et _meddler_, un homme qui
+se mêle de tout, un flatteur, un intrigant.]
+
+TIMON.--Oui, parce que tu lui ressembles.
+
+APÉMANTUS.--Si tu avais haï plus tôt les flatteurs, tu t'aimerais
+toi-même davantage aujourd'hui. Quel prodigue as-tu jamais connu qui ait
+été jamais aimé après la perte de ses moyens?
+
+TIMON.--As-tu jamais connu un homme qui fût aimé sans les moyens dont tu
+parles?
+
+APÉMANTUS.--Moi.
+
+TIMON.--Je te comprends; tu as quelques moyens pour avoir un chien.
+
+APÉMANTUS.--Quelles choses au monde peux-tu comparer le mieux à tes
+flatteurs?
+
+TIMON.--Les femmes en approchent le plus; mais les hommes, les hommes
+sont la flatterie elle-même.--Apémantus, que ferais-tu de l'univers si
+tu le tenais sous ta puissance?
+
+APÉMANTUS.--Je l'abandonnerais aux bêtes féroces pour me délivrer des
+hommes.
+
+TIMON.--Voudrais-tu tomber toi-même dans la destruction générale des
+hommes et rester brute avec les brutes?
+
+APÉMANTUS.--Oui, Timon.
+
+TIMON.--Ambition de brute! que les dieux t'accordent ton désir! Si tu
+étais lion, le renard te duperait; si tu étais agneau, le renard te
+dévorerait; si tu étais le renard, le lion te suspecterait, si par
+hasard l'âne venait à t'accuser; si tu étais l'âne, ta stupidité ferait
+ton tourment, et tu ne vivrais que pour servir de déjeûner au loup; si
+tu étais le loup, ta voracité serait ton supplice, et tu exposerais ta
+vie pour ton diner; si tu étais la licorne[24], ta fureur et ton orgueil
+seraient un piège pour toi, tu périrais victime de ta colère; si tu
+étais un ours, tu serais tué par le cheval; si tu étais cheval, tu
+serais la proie du léopard; si tu étais un léopard, tu serais cousin
+germain du lion, et ta peau mouchetée serait fatale à ta vie; tu
+n'aurais de sûreté que dans la fuite, et ton absence serait ton unique
+défense. Quel animal pourrais-tu être, qui ne fût soumis à quelque autre
+animal? Et quel animal tu es déjà, de ne pas voir comment tu perdrais à
+la métamorphose!
+
+[Note 24: Voici ce qu'on racontait de la licorne: «quand le lion, qui
+est son ennemi, l'aperçoit, il se tient appuyé sur le tronc d'un arbre;
+la licorne, furieuse, vole vers lui pour le percer. Le lion se retire;
+la licorne enfonce sa corne dans l'arbre et devient ainsi la proie du
+lion.»]
+
+APÉMANTUS.--Si ta conversation avait pu me plaire, ce serait surtout en
+ce moment. La république d'Athènes est devenue un repaire de bêtes.
+
+TIMON.--L'âne a-t-il donc sauté par-dessus les murailles, que te voilà
+hors de la ville?
+
+APÉMANTUS.--Voilà un poëte et un peintre. Que la peste de la société te
+poursuive; de peur d'en être atteint je décampe: quand je ne saurai que
+faire je reviendrai te voir.
+
+TIMON.--Quand tu seras le seul homme vivant, tu seras le bienvenu:
+j'aimerais mieux être le chien d'un mendiant qu'Apémantus.
+
+APÉMANTUS.--Tu es le premier de tous les fous vivants!
+
+TIMON.--Je voudrais que tu fusses assez propre pour te cracher au
+visage.
+
+APÉMANTUS.--Que la peste t'étouffe! Tu es trop méchant pour que je te
+maudisse.
+
+TIMON.--Tous les coquins, près de toi, sont purs.
+
+APÉMANTUS.--Il n'est point de lèpre pareille à ton langage....
+
+TIMON.--Oui, si je te nommais.--Je te battrais, mais ce serait souiller
+mes mains.
+
+APÉMANTUS.--Je voudrais que ma langue pût les faire tomber en
+pourriture.
+
+TIMON.--Hors d'ici, progéniture d'un chien galeux, la colère me
+transporte de te voir vivant; je me trouve mal en te voyant.
+
+APÉMANTUS.--Je voudrais te voir crever.
+
+TIMON.--Va-t'en, coquin importun; j'en suis fâché, mais je vais perdre
+une pierre après toi[25]! (_Il lui jette une pierre._)
+
+[Note 25: «Tout homme a une pierre pour jeter à un chien.»
+(Proverbe.) On connaît l'étymologie du mot _cynique_.]
+
+APÉMANTUS.--Bête sauvage!
+
+TIMON.--Esclave!
+
+APÉMANTUS.--Crapaud!
+
+TIMON.--Coquin, coquin, coquin! (_Apémantus s'éloigne comme pour s'en
+aller._) Je suis malade de dégoût de ce monde pervers; je n'en veux
+rien aimer, que les aliments nécessaires qui croissent sur sa
+surface.--Allons, Timon, prépare maintenant ta tombe; repose dans un
+lieu où l'écume légère de la mer puisse chaque jour en baigner la
+pierre: compose ton épitaphe, et que la mort rie en moi de la vie des
+autres. (_Il regarde son or._) O toi, doux régicide; cher métal de
+discorde entre le père et le fils; toi, brillant corrupteur de la pureté
+du lit nuptial, vaillant Mars, amant toujours jeune, toujours frais
+et séduisant, toujours aimé, dont l'éclat fond la neige consacrée qui
+protège le sein de Diane! ô toi, dieu visible, qui réunis les contraires
+dans une alliance étroite et les amène à s'embrasser; toi, qui parles et
+assortis tous les langages à tous les desseins! ô toi, pierre de touche
+des coeurs, pense que l'homme, ton esclave, se révolte, et, par ta
+puissance, allume entre eux des discordes mortelles! Puisse l'empire du
+monde rester à la brute!
+
+APÉMANTUS.--Que ton voeu s'exauce; mais quand je serai mort.--Je vais
+dire que tu as de l'or; tu seras bientôt entouré d'une foule.
+
+TIMON.--D'une foule?
+
+APÉMANTUS.--Oui.
+
+TIMON.--Tourne-moi le dos, je t'en conjure.
+
+APÉMANTUS.--Vis et chéris ta misère.
+
+(Apémantus sort.)
+
+TIMON.--Vis longtemps ainsi, et meurs ainsi, nous sommes
+quittes.--Encore des visages humains! Mange, Timon, et déteste-les.
+
+(Des voleurs entrent.)
+
+PREMIER VOLEUR.--Où peut-il avoir trouvé cet or; sans doute ce sont
+quelques pauvres restes, quelques misérables débris de sa fortune?
+La disette d'argent, l'abandon de ses amis l'ont jeté dans cette
+mélancolie.
+
+SECOND VOLEUR.--Le bruit court qu'il possède un trésor immense.
+
+TROISIÈME VOLEUR.--Faisons une tentative sur lui; s'il ne se soucie plus
+de l'or, il nous l'abandonnera facilement; mais s'il est jaloux de le
+conserver, comment l'aurons-nous?
+
+SECOND VOLEUR.--Tu as raison; car il ne le porte pas sur lui: il est
+caché.
+
+PREMIER VOLEUR.--N'est-ce pas lui?
+
+LES AUTRES.--Où?
+
+SECOND VOLEUR.--Le voilà tel qu'on nous l'a peint.
+
+TROISIÈME VOLEUR.--Lui-même; je le reconnais.
+
+LES VOLEURS.--Dieu te garde, Timon!
+
+TIMON.--Quoi, des voleurs!
+
+LES VOLEURS.--Des soldats, non des voleurs.
+
+TIMON.--Tous les deux à la fois, et des fils d'une femme.
+
+LES VOLEURS.--Nous ne sommes point des voleurs, mais des hommes dans un
+grand besoin.
+
+TIMON.--Votre plus grand besoin, c'est le besoin de nourriture. Pourquoi
+en manqueriez-vous? Voyez, la terre a des racines; à un mille à la ronde
+jaillissent cent sources; ces chênes produisent du gland; ces ronces
+sont couvertes de graines vermeilles; la nature, ménagère bienfaisante,
+vous sert sur chaque buisson des mets en abondance. Vous êtes dans le
+besoin, et pourquoi?
+
+PREMIER VOLEUR.--Nous ne pouvons vivre d'herbes, de fruits sauvages et
+d'eau comme les poissons, les oiseaux et les bêtes de ces forêts.
+
+TIMON.--Ni des bêtes elles-mêmes, des oiseaux et des poissons: il faut
+que vous dévoriez les hommes. Je dois vous rendre grâces de ce que vous
+êtes des voleurs avoués; de ce que pour faire votre métier, vous ne
+prenez point un masque respectable, car dans les professions légitimes
+de la société, la rapacité n'a point de bornes. Brigands, tenez, voici
+de l'or. Allez, buvez le sang subtil de la grappe, jusqu'à ce qu'il
+allume dans vos veines une fièvre brûlante qui fasse bouillir le vôtre
+et vous sauve du gibet! Ne vous fiez pas au médecin: ses antidotes sont
+du poison; il commet plus d'assassinats que vous de vols; il vole la
+bourse et la vie à la fois. Commettez des crimes, commettez-en puisque
+c'est votre profession, comme des ouvriers. Je veux vous citer partout
+l'exemple du brigandage. Le soleil est un voleur qui, par sa puissante
+attraction, vole le vaste océan; la lune, voleur effronté, vole au
+soleil la pâle lumière dont elle brille. L'Océan est un autre voleur qui
+fond la lune en larmes salées et les mêle à ses flots. La terre est un
+voleur qui ne produit et ne nourrit que par un mélange soustrait au
+résidu de toutes les substances. Toute chose est un voleur; les
+lois, votre frein et votre verge, sont elles-mêmes, par leur pouvoir
+tyrannique, les plus effrénés des brigands. Point d'amitié entre vous;
+allez, volez-vous l'un l'autre; voilà encore de l'or. Coupez les gorges;
+tous ceux que vous rencontrerez sont des voleurs. Allez à Athènes,
+brisez les portes des boutiques; vous ne pouvez rien voler qu'à des
+voleurs. Que cet or que je vous donne ne vous empêche pas de voler
+encore: qu'il vous perde vous-mêmes et vous confonde: ainsi soit-il!
+
+(Il se retire vers sa caverne.)
+
+TROISIÈME VOLEUR.--Il m'a presque dégoûté de mon métier, en me le
+vantant.
+
+PREMIER VOLEUR.--Ce n'est pas le désir que nous prospérions dans notre
+profession mystérieuse, c'est la haine pour les hommes qui lui a dicté
+ces conseils.
+
+SECOND VOLEUR.--Je veux le croire comme un ennemi, et je dis adieu à mon
+état.
+
+PREMIER VOLEUR.--Attendons que nous revoyions la paix dans Athènes.
+
+SECOND VOLEUR.--Il n'est point de temps si misérable où l'homme ne
+puisse être honnête.
+
+(Ils sortent.)
+
+(Entre Flavius.)
+
+FLAVIUS.--O dieux! cet homme dans l'opprobre et la ruine est-il mon
+seigneur? Quel état de dépérissement et de dégradation? O monument
+étonnant de bienfaits mal placés! Quel changement dans sa situation ont
+produit l'indigence et le désespoir!--Quoi de plus vil sur la terre
+que ces amis qui conduisent ainsi les âmes les plus nobles à la plus
+honteuse fin? Comme l'ordre donné à l'homme d'aimer ses ennemis
+s'accorde bien avec ce temps-ci! Puis-je n'accorder ma tendresse qu'à
+celui qui me veut du mal, plutôt qu'à celui qui m'en fait!--Son oeil m'a
+aperçu; je vais lui présenter ma douleur sincère, et je veux le servir,
+comme mon seigneur, aux dépens de ma vie.--Mon cher maître.
+
+(Timon sort de sa caverne.)
+
+TIMON.--Va-t'en; qui es-tu?
+
+FLAVIUS.--M'avez-vous oublié, seigneur?
+
+TIMON.--Pourquoi fais-tu cette question? J'ai oublié tous les hommes:
+donc, si tu avoues être un homme, je t'ai oublié aussi.
+
+FLAVIUS.--Votre pauvre et honnête serviteur....
+
+TIMON.--Je ne te connais donc point. Je n'eus jamais un honnête homme
+auprès de moi; je n'avais que des fripons qui servaient à manger à des
+coquins.
+
+FLAVIUS.--Les dieux me sont témoins que jamais pauvre intendant ne versa
+sur l'infortune de son maître de larmes plus sincères, que n'en ont
+versé mes yeux sur la vôtre.
+
+TIMON.--Quoi! tu pleures! Approche; maintenant je t'aime, parce que tu
+es une femme, et que tu désavoues le coeur de pierre des hommes, qui
+ne pleurent jamais que de débauche ou de folle joie!--La pitié dort:
+étrange siècle que celui où on pleure de rire, non en pleurant!
+
+FLAVIUS.--Reconnaissez-moi, mon cher maître, je vous en conjure; agréez
+ma sincère douleur, et tant que ce faible trésor durera (_il
+lui présente tout ce qu'il a d'or_), souffrez que je sois votre
+intendant[26].
+
+[Note 26: Destouches a su profiter de cette scène dans le cinquième
+acte de son _Dissipateur_.]
+
+TIMON.--Quoi, j'avais un intendant si fidèle, si juste, et aujourd'hui
+si compatissant! Ceci adoucit presque mon caractère sauvage.--Voyons
+ton visage.--Cet homme pourtant naquit sûrement d'une femme.--Dieux
+éternellement sages! pardonnez-moi mon anathème téméraire et sans
+exception; je proclame qu'il est un homme honnête: mais ne vous y
+trompez pas; un seul, pas davantage, et c'est un intendant! Oh! que
+j'aurais voulu détester tout le genre humain; mais tu te rachètes
+toi-même: toi seul excepté, je maudis tous les hommes.--Il me semble que
+tu es plus honnête que sage. Car en me trahissant, en m'opprimant tu
+aurais retrouvé plus facilement un autre emploi; tant de gens arrivent
+au service d'un second maître, en marchant sur le corps du premier. Mais
+dis-moi la vérité; car je douterai toujours, malgré ma certitude; cette
+tendresse n'est-elle point feinte, intéressée, usuraire comme celle du
+riche qui fait des présents dans l'espérance de recevoir vingt pour un!
+
+FLAVIUS.--Non, mon digne maître; la défiance et le soupçon sont entrés,
+hélas! trop tard dans votre coeur. C'était au milieu de vos festins que
+vous auriez dû craindre la perfidie; mais le soupçon ne vient que quand
+les biens sont dissipés. Ma démarche, le ciel m'en est témoin, est pur
+amour, devoir et zèle pour votre âme incomparable; je veux prendre soin
+de votre nourriture et de votre subsistance, et, soyez-en persuadé, mon
+noble seigneur, tout ce que je possède, et tout ce que je puis espérer
+dans l'avenir, je le donnerais pour remplir l'unique voeu de mon
+coeur: que vous redevinssiez riche et puissant pour me récompenser en
+m'enrichissant vous-même.
+
+TIMON.--Vois, ton voeu est accompli, seul honnête homme qui existe.
+Tiens, prends; les dieux, du fond de ma misère, t'envoient un trésor.
+Va, vis riche et heureux; mais à condition que tu iras bâtir loin des
+hommes; hais-les tous, maudis-les tous; ne montre de pitié pour aucun;
+plutôt que de secourir le mendiant, laisse sa chair exténuée par la faim
+se détacher de ses os; donne aux chiens ce que tu refuseras aux hommes;
+que les cachots les engloutissent, que les dettes les dessèchent, que
+les hommes soient comme des arbres flétris, et que toutes les maladies
+dévorent leur sang perfide!--Adieu, sois heureux.
+
+FLAVIUS.--O mon maître, souffrez que je reste avec vous et que je vous
+console.
+
+TIMON.--Si tu crains les malédictions, ne t'arrête pas, fuis, tandis que
+tu es libre et heureux. Ne vois jamais les hommes, et que je ne te voie
+jamais!
+
+(Timon rentre dans sa caverne. Flavius s'éloigne.)
+
+FIN DU QUATRIÈME ACTE.
+
+
+
+
+ACTE CINQUIÈME
+
+
+
+SCÈNE I
+
+
+Devant la caverne de Timon.
+
+_Entrent_ UN POÈTE ET UN PEINTRE, TIMON _est derrière eux sans en être
+vu._
+
+LE PEINTRE.--Si je connais bien le lieu, sa demeure ne doit pas être
+éloignée.
+
+LE POÈTE.--Que doit-on penser de lui? En croirons-nous la rumeur, qu'il
+regorge d'or?
+
+LE PEINTRE.--Cela est certain, Alcibiade le dit; Phrynia et Timandra ont
+reçu de l'or de lui; il a aussi enrichi libéralement quelques soldats
+maraudeurs. On dit qu'il a donné une somme considérable à son intendant.
+
+LE POÈTE.--Ainsi, sa banqueroute n'était destinée qu'à éprouver ses
+amis.
+
+LE PEINTRE.--Rien de plus: vous le verrez encore comme un palmier dans
+Athènes, fleurir parmi les plus grands, ainsi, il ne sera pas mal à
+propos d'aller lui offrir nos hommages dans son infortune apparente.
+Ce sera de notre part un procédé honnête, et qui a bien des chances
+d'amener nos desseins à ce qu'ils souhaitent, s'il est vrai qu'il soit
+aussi riche qu'on le dit.
+
+LE POÈTE.--Qu'avez-vous à lui présenter maintenant?
+
+LE PEINTRE.--Rien, quant à présent, que ma visite; mais je lui
+promettrai un chef-d'oeuvre.
+
+LE POÈTE.--Il faut que j'en use de même envers lui; je lui dirai que je
+prépare certain ouvrage pour lui.
+
+LE PEINTRE.--C'est tout ce qu'il y a de mieux: promettre est le ton du
+siècle. La promesse ouvre les yeux de l'attente, qu'engourdit et tue
+l'accomplissement d'une parole. Excepté pour les gens simples et
+vulgaires, tenir ce qu'on a promis n'est plus en usage. Promettre est
+plus poli, plus à la mode; tenir sa promesse, c'est faire son testament,
+ce qui annonce toujours une grande maladie dans le jugement de celui qui
+le fait.
+
+TIMON, _à part_.--Excellent artiste! tu ne pourrais pas peindre un homme
+aussi méchant que toi.
+
+LE POÈTE.--Je rêve à l'ouvrage que je lui dirai avoir préparé pour lui.
+Il faut qu'il en soit lui-même le sujet. Ce sera une satire contre la
+mollesse de la prospérité, et un détail des flatteries qui obsèdent la
+jeunesse et l'opulence.
+
+TIMON, _à part_.--Faut-il aussi que tu fasses le rôle de fripon dans ta
+propre pièce? Châtieras-tu tes propres fautes sur le dos des autres? Va,
+écris, j'ai de l'or pour toi.
+
+LE PEINTRE.--Mais cherchons-le: nous péchons contre notre fortune, quand
+nous pouvons faire quelque profit et que nous arrivons trop tard.
+
+LE POÈTE.--Vous avez raison; quand le jour nous sert, et avant le retour
+de la nuit aux coins obscurs, trouvez ce dont vous avez besoin à la
+libre lumière qui vous est offerte; allons.
+
+TIMON, _à part_.--Je vais vous joindre au tournant.--Quel dieu est donc
+cet or, pour être adoré dans des temples plus vils et plus abjects que
+les lieux où l'on nourrit les porcs? C'est toi qui équipes les flottes
+et qui sillonnes l'onde écumante; toi qui attaches l'hommage et
+le respect à l'esclave. Sois donc adoré, et que tes saints soient
+récompensés par tous les fléaux de n'obéir qu'à toi!--Il est temps que
+je les aborde.
+
+(Il s'avance vers eux.)
+
+LE POÈTE.--Salut, noble Timon.
+
+LE PEINTRE.--Notre ancien et digne maître.
+
+TIMON.--Aurais-je assez vécu pour voir enfin deux honnêtes gens?
+
+LE POÈTE.--Seigneur, ayant souvent éprouvé vos libéralités, ayant appris
+votre retraite et la désertion de vos amis dont les natures ingrates....
+Oh! les âmes détestables! le ciel n'a pas assez de fouets.... Quoi!
+envers vous! dont la générosité, comme l'astre du ciel, donnait la vie
+et le mouvement à tout leur être; je me sens hors de moi; je ne connais
+point d'expressions assez énergiques, pour revêtir de ses vraies
+couleurs, leur énorme ingratitude.
+
+TIMON.--Laisse-la toute nue; les hommes l'en verront mieux.--Vous, qui
+êtes honnêtes, en étant ce que vous êtes, faites à merveille voir et
+connaître leur caractère.
+
+LE PEINTRE.--Lui et moi, nous avons voyagé sous la céleste rosée de vos
+bienfaits, et nous l'avons doucement sentie.
+
+TIMON.--Oh! vous êtes d'honnêtes gens.
+
+LE PEINTRE.--Nous sommes venus ici vous offrir nos services.
+
+TIMON.--Âmes honnêtes! comment vous récompenserai-je?--Pouvez-vous
+manger des racines et boire de l'eau? Non.
+
+LE POÈTE.--Tout ce que nous pourrons faire, nous le ferons pour vous.
+
+TIMON.--Vous êtes d'honnêtes gens; vous avez appris que j'avais de l'or,
+je le sais: dites la vérité, vous êtes d'honnêtes gens.
+
+LE PEINTRE.--On le dit, noble seigneur; mais ce n'est pas là ce qui
+amène mon ami, ni moi.
+
+TIMON.--Braves, honnêtes gens!--Il n'est personne dans Athènes qui soit
+capable de faire un portrait comme toi. De tous les artistes, tu es
+celui qui contrefais le mieux la vérité.
+
+LE PEINTRE.--Là! là! seigneur.
+
+TIMON.--C'est comme je le dis. (_Au poète._) Et toi, dans tes fictions,
+ton vers coule avec tant de grâce et de douceur, que l'art y ressemble à
+la nature. Cependant, mes dignes amis, il faut que je vous le dise, vous
+avez un défaut, à vrai dire, il n'est pas monstrueux, et je ne veux pas
+que vous preniez beaucoup de peine pour vous en corriger.
+
+LE POÈTE ET LE PEINTRE.--Nous prions votre Honneur de nous le faire
+connaître.
+
+TIMON.--Vous le prendrez mal.
+
+LE POÈTE ET LE PEINTRE.--Avec la plus vive reconnaissance, seigneur.
+
+TIMON.--En vérité, croyez-vous?
+
+LE POÈTE ET LE PEINTRE.--N'en doutez pas, seigneur.
+
+TIMON.--C'est qu'il n'y en a pas un de vous qui ne se fie à un coquin
+qui le trompe.
+
+LE POÈTE ET LE PEINTRE.--Nous, Seigneur?
+
+TIMON.--Oui; vous entendez l'imposteur vous flatter, vous le voyez
+dissimuler, vous connaissez son artifice grossier, et cependant vous
+l'aimez, vous le nourrissez, vous le réchauffez dans votre sein. Soyez
+pourtant bien sûrs que c'est un parfait scélérat.
+
+LE PEINTRE.--Je ne connais personne de ce caractère, seigneur.
+
+LE POÈTE.--Ni moi non plus.
+
+TIMON.--Écoutez, je vous aime tendrement, je vous donnerai de l'or, mais
+chassez-moi de votre compagnie ces coquins, pendez-les, poignardez-les,
+noyez-les dans les latrines, exterminez-les enfin par quelque moyen, et
+venez ensuite me trouver, et je vous donnerai de l'or libéralement.
+
+LE POÈTE ET LE PEINTRE.--Nommez-les, seigneur, que nous les
+connaissions.
+
+TIMON.--Placez-vous ici, vous; et vous là; chacun de vous séparément,
+tout seul, sans compagnon; eh bien! un maître fripon vous tient encore
+compagnie.--(_Au peintre._) Si là où tu es tu ne veux pas qu'il se
+trouve deux coquins, ne te laisse pas approcher de lui.--(_Au poète._)
+Et toi, si tu ne veux pas habiter auprès d'un coquin, fuis loin de cet
+homme. Hors d'ici, couple de fripons, voilà de l'or. Vous êtes venus
+chercher de l'or, esclaves!--Vous avez travaillé pour moi, vous voilà
+payés.--Hors d'ici: tu es alchimiste, toi; convertis cela en or. Loin
+d'ici, vils chiens!
+
+(Il sort en les battant et en les chassant devant lui.)
+
+
+
+SCÈNE II
+
+
+_Entrent_ FLAVIUS, DEUX SÉNATEURS.
+
+FLAVIUS.--C'est en vain que vous cherchez à parler à Timon. Il s'est
+tellement concentré en lui-même, que de tous ceux qui ont la figure
+humaine il est le seul qui soit en bon rapport avec lui-même.
+
+PREMIER SÉNATEUR.--Conduis-nous à sa caverne; c'est notre devoir; nous
+avons promis aux Athéniens de lui parler.
+
+SECOND SÉNATEUR.--Dans des circonstances toutes semblables, les hommes
+ne sont pas toujours les mêmes. C'est le temps et le chagrin qui ont
+produit en lui ce changement; le temps, en lui offrant d'une main plus
+propice le bonheur de ses premiers jours, peut ressusciter en lui
+l'homme d'autrefois. Conduis-nous vers lui, et qu'il arrive ce qui
+pourra.
+
+FLAVIUS.--Voilà sa caverne.--Que la paix et le contentement règnent ici!
+Seigneur Timon! seigneur Timon! reparaissez, parlez à vos amis: les
+Athéniens, représentés par ces deux membres de leur respectable sénat,
+viennent vous saluer; parlez-leur, noble Timon.
+
+(Timon sortant de sa caverne.)
+
+TIMON.--Soleil, qui réchauffes, brûle! (_Aux sénateurs_.) Parlez, et
+soyez pendus; que chaque parole vraie engendre une pustule, et que
+chaque mensonge cautérise votre langue et la consume jusqu'à la racine!
+
+PREMIER SÉNATEUR.--Digne Timon!
+
+TIMON.--Pas plus digne des hommes qui te ressemblent que toi de Timon.
+
+SECOND SÉNATEUR.--Les sénateurs d'Athènes vous saluent, Timon.
+
+TIMON.--Je les remercie; et je voudrais, en retour, leur envoyer la
+peste, si je pouvais la prendre pour la leur donner.
+
+PREMIER SÉNATEUR.--Oubliez une injure dont nous-mêmes nous sommes
+affligés pour vous. Le sénat, d'un consentement et d'un coeur unanimes,
+vous rappelle à Athènes, et a pensé à des dignités spéciales qui,
+devenues vacantes, vous sont destinées.
+
+SECOND SÉNATEUR.--Ils confessent que leur ingratitude envers vous fut
+trop grande et grossière. Le peuple même, qui se rétracte rarement, sent
+le besoin qu'il a du secours de Timon, et reconnaît le danger de sa
+chute s'il refuse d'avoir recours à Timon. Il nous envoie pour vous
+porter l'aveu de ses regrets, et vous offrir une récompense qui
+dépassera le poids de l'offense qu'il vous a faite. Oui, il vous promet
+tant d'amas et de trésors d'amour et de richesses, que ses torts seront
+effacés, et que l'empreinte de son amour sera gravée en vous pour
+attester à jamais son dévouement à votre personne.
+
+TIMON.--Vos offres m'enchantent, me surprennent jusqu'à m'arracher
+presque des larmes: donnez-moi le coeur d'un fou et les yeux d'une
+femme, et ces consolations, dignes sénateurs, vont faire couler mes
+pleurs.
+
+PREMIER SÉNATEUR.--Daignez donc revenir parmi nous. Reprenez l'autorité
+dans notre Athènes (la vôtre et la nôtre); vous y serez reçu avec
+transport, et revêtu du pouvoir absolu; votre nom révéré y régnera
+en souverain, et nous aurons bientôt repoussé les féroces attaques
+d'Alcibiade, qui, comme un sanglier sauvage, cherche à déraciner la paix
+de sa patrie.
+
+SECOND SÉNATEUR.--Et brandit son épée menaçante sous les murs d'Athènes.
+
+PREMIER SÉNATEUR.--Ainsi, Timon....
+
+TIMON.--Oui, sénateurs, je le veux bien; oui, je le veux bien.--Si
+Alcibiade tue mes concitoyens, dites à Alcibiade, de la part de Timon,
+que Timon ne s'en embarrasse guère; mais s'il livre la belle Athènes
+au pillage, s'il prend nos respectables vieillards par la barbe, s'il
+abandonne les vierges sacrées aux outrages de la guerre insolente,
+brutale, furieuse, alors qu'il sache, et dites-lui ce que dit Timon: Par
+pitié pour notre jeunesse et pour nos vieillards, je ne puis m'empêcher
+de lui dire que je ne m'en inquiète point.... Qu'il fasse tout au pire.
+--Moquez-vous de leurs glaives tant que vous aurez des gorges à couper.
+Quant à moi, il n'est point de poignard dans le camp le plus désordonné
+que je ne préfère à la gorge la plus respectable d'Athènes. Je vous
+abandonne donc à la garde des dieux justes, comme des voleurs à leurs
+geôliers.
+
+FLAVIUS.--Ne vous arrêtez pas plus longtemps; tout est inutile.
+
+TIMON.--Tenez, j'étais occupé à écrire mon épitaphe: on la verra demain.
+Je commence à me rétablir de cette longue maladie de la vie et de la
+santé; je retrouve tout dans le néant. Allez, vivez; qu'Alcibiade soit
+votre fléau et vous le sien, et vivez ainsi longtemps!
+
+PREMIER SÉNATEUR.--Nous parlons en vain.
+
+TIMON.--Cependant j'aime ma patrie, et je ne suis point homme à me
+réjouir du malheur public, comme on en fait courir, le bruit.
+
+PREMIER SÉNATEUR.--C'est bien parlé.
+
+TIMON.--Recommandez-moi à mes chers compatriotes.
+
+PREMIER SÉNATEUR.--Voilà des paroles dignes de passer par vos lèvres.
+
+SECOND SÉNATEUR.--Elles entrent dans nos oreilles comme des grands
+triomphateurs sous les portes où retentissent les applaudissements.
+
+TIMON.--Recommandez-moi à eux; dites-leur que, pour les consoler de
+leurs peines, de la crainte de leurs ennemis, de leurs maux, de leurs
+pertes, de leurs chagrins d'amour, et de toutes les autres souffrances
+qui peuvent assaillir le frêle vaisseau de la nature dans le voyage
+incertain de la vie, je veux leur montrer quelque amitié, je veux leur
+apprendre à prévenir la fureur du sauvage Alcibiade.
+
+SECOND SÉNATEUR.--Ceci me plaît assez, il reviendra.
+
+TIMON.--J'ai ici, dans mon enclos, un arbre que je veux abattre pour mon
+usage, et je ne tarderai pas à le couper. Dites à mes amis, à tous
+les habitants d'Athènes, d'après l'ordre des rangs, aux grands et aux
+petits, que si quelqu'un veut terminer son affliction, il se hâte de
+venir ici avant que mon arbre ait senti la coignée, et qu'il se pende;
+je vous prie, faites ma commission.
+
+FLAVIUS.--Ne l'importunez pas davantage, vous le verrez toujours le
+même.
+
+TIMON.--Ne revenez plus me voir; dites seulement aux Athéniens que Timon
+a bâti sa demeure éternelle sur les grèves de l'onde arrière, et qu'une
+fois le jour la vague turbulente viendra la couvrir de sa bouillante
+écume. Venez ici, et que la pierre de mon tombeau soit votre oracle.
+Lèvres, prononcez des paroles amères, et que ma voix cesse; que la peste
+contagieuse réforme ce qui va mal; que les hommes ne travaillent qu'à
+creuser leurs tombeaux, et que la mort soit leur gain!--Soleil, cache
+tes rayons, le règne de Timon est passé!
+
+(Il se retire.)
+
+PREMIER SÉNATEUR.--Sa haine est devenue inséparable de sa nature.
+
+SECOND SÉNATEUR.--Toute notre espérance en lui est morte; retournons, et
+tentons les moyens qui nous restent dans notre grand péril.
+
+PREMIER SÉNATEUR.--Il demande des pieds agiles.
+
+(Ils sortent.)
+
+
+
+SCÈNE III.
+
+
+Le théâtre représente les murs d'Athènes, _Entrent_ DEUX SÉNATEURS ET UN
+MESSAGER.
+
+PREMIER SÉNATEUR, _au messager_.--Tu as bien pris de la peine pour le
+savoir; son armée est-elle aussi nombreuse que tu le disais?
+
+LE MESSAGER.--Ce que je vous ai dit n'est rien encore; la rapidité de
+ses mouvements promet qu'il va bientôt être ici.
+
+SECOND SÉNATEUR.--Nous courons un grand péril si on n'amène pas Timon.
+
+LE MESSAGER.--J'ai trouvé en chemin un courrier, un de mes anciens
+amis, quoique servant un parti différent; cependant nous avons cédé au
+penchant de notre vieille liaison, et nous avons causé comme des amis.
+Il allait de la part d'Alcibiade à la caverne de Timon, chargé de
+lettres pour le prier de prêter main-forte à la guerre contre notre
+ville entreprise en partie à cause de lui.
+
+(Arrivent les sénateurs qui avaient été députés à Timon.)
+
+SECOND SÉNATEUR.--Voici nos frères.
+
+TROISIÈME SÉNATEUR.--Ne parlez plus de Timon, n'attendez rien de
+lui.--Déjà les tambours des ennemis se font entendre, et leur marche
+redoutable obscurcit les airs de poussière. Rentrons et préparons-nous:
+je crains bien que nous ne tombions dans le piège de nos ennemis.
+
+(Ils sortent.)
+
+
+
+SCÈNE IV
+
+
+Les bois; on voit la caverne de Timon et un tombeau grossier.
+
+UN SOLDAT _cherchant Timon_.
+
+D'après toutes les descriptions, ce doit être ici l'endroit.--Y a-t-il
+quelqu'un ici? Holà! Parlez.--Personne ne répond.--Que veut dire
+ceci?--Ah! Timon est mort. Il a terminé sa carrière; quelque bête
+sauvage a élevé ce tertre. Point d'homme vivant ici.--Sûrement il est
+mort, et voilà son tombeau. Je ne puis pas lire ce qu'il y a sur la
+pierre.--Je vais enlever cette inscription sur la cire; notre général
+connaît tous les caractères. C'est un vieil interprète, quoique jeune
+d'années. Il a mis à l'heure qu'il est le siège devant l'orgueilleuse
+Athènes, dont la ruine est son ambition.
+
+(Il sort.)
+
+
+
+SCÈNE V
+
+Les remparts d'Athènes.
+
+
+ALCIBIADE _paraît à la tête de ses troupes; on entend les instruments de
+guerre_.
+
+ALCIBIADE.--Que la trompette annonce à cette ville efféminée et lâche
+notre terrible approche. _(Un pourparler; les sénateurs paraissent sur
+les murs, Alcibiade leur adresse la parole_.) Jusqu'à présent vous avez
+toujours continué; vous avez rempli vos jours d'abus d'autorité, prenant
+votre volonté pour mesure des lois. Jusqu'à présent, moi et ceux qui
+dormaient à l'ombre de votre pouvoir, nous avons erré les bras croisés,
+et nous avons exhalé en vain nos souffrances. Enfin le moment est venu
+où nos genoux[27] craquent sous le poids et crient d'eux-mêmes: _C'est
+assez_. La vengeance, hors d'haleine, ira s'asseoir et respirer sur vos
+grands sièges de repos, et l'insolence poussive perdra la parole de
+crainte et d'horreur.
+
+[Note 27: Image empruntée aux habitudes du chameau, qui se relève dès
+qu'il sent que le fardeau dont on le charge est trop lourd.]
+
+PREMIER SÉNATEUR.--Jeune et noble guerrier, quand tes premiers griefs
+n'étaient qu'imaginaires, avant que tu eusses la force en main et que
+tu pusses nous inspirer de la crainte, nous avons envoyé vers toi pour
+calmer ta fureur, et réparer notre ingratitude par des marques d'amour
+qui devaient en effacer le souvenir.
+
+SECOND SÉNATEUR.--Nous avons tenté aussi de réveiller, dans le coeur
+transformé de Timon, l'amour de notre ville, par un humble message et
+des promesses. Nous n'avons pas tous été cruels, nous ne méritons pas
+tous d'être frappés par le glaive de la guerre.
+
+PREMIER SÉNATEUR.--Nos murs n'ont point été élevés par les mains de
+ceux qui t'ont offensé; et ton injure n'est pas si grave qu'il faille
+détruire ces tours superbes, ces trophées et ces académies, pour venger
+des torts particuliers.
+
+SECOND SÉNATEUR.--Les auteurs de ton exil ne vivent plus; la honte
+d'avoir si fort manqué de prudence a brisé leurs coeurs. Noble
+Alcibiade, entre dans notre cité tes enseignes déployées; et si la soif
+de la vengeance t'acharne sur une pâture que la nature abhorre, prends
+sur les habitants la dîme de la mort, et que les malheureux marqués par
+le sort des dés périssent.
+
+PREMIER SÉNATEUR.--Tous ne t'ont pas offensé; il n'est pas juste de
+tirer vengeance sur ceux qui restent à la place de ceux qui ne sont
+plus: le crime n'est pas héréditaire comme un champ. Ainsi, cher
+concitoyen, fais entrer tes troupes, mais laisse ta colère hors des
+remparts; épargne Athènes, ton berceau; épargne tes parents qui, dans
+l'emportement de ta colère, périraient avec ceux qui t'ont offensé.
+Entre comme le berger dans le parc, et choisis les brebis infectées;
+mais n'égorge pas tout le troupeau.
+
+SECOND SÉNATEUR.--Quel que soit ton but, tu le gagneras plutôt par ton
+sourire que tu n'y arriveras à coups d'épée.
+
+PREMIER SÉNATEUR.--Frappe seulement du pied nos portes fortifiées; elles
+vont s'ouvrir. Envoie ton noble coeur devant tes pas pour dire que tu
+entres au nom de l'amitié.
+
+SECOND SÉNATEUR.--Jette ton gant ou quelque autre gage de ta foi, qui
+nous assure que tu n'as pris les armes que pour te faire rendre justice,
+et non pour nous renverser; ton armée entière établira ses quartiers
+dans la ville, jusqu'au moment où nous aurons rempli tes désirs.
+
+ALCIBIADE.--Tenez, voilà mon gant, descendez; ouvrez vos portes sans
+être attaqués; vous me livrerez les ennemis de Timon et les miens.
+Ceux que vous me désignerez pour le châtiment périront seuls, et, pour
+dissiper vos frayeurs, en vous déclarant mes nobles sentiments, pas un
+de mes soldats ne quittera son poste et n'outragera le cours régulier de
+la justice dans l'enceinte de la ville, sous peine d'en répondre à toute
+la sévérité de vos lois publiques.
+
+LES DEUX SÉNATEURS.--Voilà de nobles paroles.
+
+ALCIBIADE.--Descendez, et tenez votre promesse.
+
+(Les sénateurs descendent et ouvrent les portes.) (Entre un soldat.)
+
+LE SOLDAT.--Mon noble général, Timon est mort; il est enterré sur le
+bord même de la mer. J'ai trouvé sur son tombeau cette inscription que
+je vous apporte moulée sur la cire, qui sert d'interprète à ma pauvre
+ignorance.
+
+ALCIBIADE _lisant l'épitaphe:_
+
+«Ci-gît un corps malheureux, séparé d'une âme malheureuse. Ne cherche
+pas à savoir mon nom... Que la peste vous dévore tous, misérables
+humains qui restez après moi! Ci-gît Timon, qui de son vivant détesta
+tous les hommes vivants. Passe et maudis à ton gré, mais passe et
+n'arrête point ici tes pas.»
+
+Ces mots, Timon, expriment bien tes derniers sentiments. Si tu avais en
+horreur les regrets des humains, le flux qui coule de notre cerveau, et
+ces gouttes d'eau que la nature avare laisse tomber de nos yeux, une
+sublime idée t'inspira de faire pleurer à jamais le grand Neptune sur
+ton humble tombe, pour des fautes pardonnées: le noble Timon est mort;
+nous nous occuperons plus tard de sa mémoire.--Conduisez-moi dans votre
+ville, j'y vais porter l'olive avec l'épée. La guerre enfantera la
+paix: la paix contiendra la guerre; l'une et l'autre se soigneront
+réciproquement comme deux médecins. Que les tambours battent.
+
+(Ils sortent,)
+
+FIN DU CINQUIÈME ET DERNIER ACTE.

@@ -1,0 +1,1200 @@
+5.4. L'avenir de la presse en ligne
+
+
+Selon Henri Pigeat, président de l'Institut international des communications
+(cité dans Cyberplanète: notre vie en temps virtuel), "l'édition électronique
+représente un axe majeur de développement pour la presse". D'après lui, le Web
+remplit trois fonctions principales: il est un outil de promotion pour le
+journal parce qu'il attire de nouveaux lecteurs, souvent plus jeunes, il offre
+plus de précisions et d'exhaustivité que sur un support papier limité par la
+place, et enfin il "permet d'occuper le terrain, notamment face à la concurrence
+de services en ligne nouveaux ou de la télévision".
+
+La vitesse de croisière va-t-elle remplacer la folle expansion de ces quatre
+dernières années? C'est ce que pense Eric K. Meyer, qui analyse la présence des
+journaux sur le Web dans un article très documenté de l'AJR/NewsLink (AJR:
+American Journalism Review).
+
+En décembre 1997, le nombre de journaux publiant sur le Net était de 3.622, un
+chiffre correspondant à peu près à la prévision de 4.000 titres donnée par
+l'AJR/NewsLink en 1994. Les six mois précédents (juin-décembre 1997) avaient vu
+l'apparition de 1.702 nouveaux titres. 594 titres avaient vu le jour entre
+décembre 1996 et mai 1997, contre 471 titres pour les six mois précédents. 1.563
+journaux en ligne étaient basés hors des Etats-Unis, ce qui représentait un
+pourcentage de 43%, alors que ce pourcentage était seulement de 29% un an
+auparavant. La forte augmentation de ce pourcentage correspondait à un
+développement rapide des journaux en ligne, notamment au Canada, au Royaume-Uni,
+en Norvège, au Brésil et en Allemagne. Fait non surprenant, les trois pays les
+plus représentés étaient les Etats-Unis (2.099 journaux), le Royaume-Uni (294
+journaux) et le Canada (230 journaux).
+
+En septembre 1998, le nombre de journaux publiant sur le Net était de 4.925,
+soit 1.300 titres de plus que fin 1997. Le site annonçait aussi la
+réactualisation des statistiques données dans l'article de décembre 1997, mais
+ces nouveaux chiffres n'étaient pas encore disponibles en décembre 1998.
+
+Un autre élément nouveau dû au Web est la collaboration entre grands groupes de
+presse traditionnellement concurrents. Site rédactionnel commun qui a duré plus
+d'un an, entre février 1997 et mars 1998, NewsWorks proposait un service
+d'information quotidien géré par le News Century Network, qui regroupait neuf
+des plus grands groupes de presse des Etats-Unis: Advance Publications, Cox
+Newspapers, The Gannett Company, The Hearst Corporation, Knight-Ridder Inc., The
+New York Times Company, Times Mirror, The Tribune Company et The Washington Post
+Company, soit 140 titres à eux tous. La mésentente et le manque de cohésion
+entre les partenaires ont eu raison de cette alliance le 10 mars 1998. Même si
+le partenariat semble difficile, le fait que le Web ouvre la voie à une
+collaboration étroite entre différents groupes de presse pour proposer des
+serveurs d'information multinationaux et multilingues est un élément nouveau qui
+va profondément bouleverser les us et coutumes.
+
+Un nouveau type de presse débute. Dans un article de Libération daté du 21 mars
+1997, Laurent Mauriac insistait sur l'importance de la date du 28 février 1997
+dans l'histoire de la presse, du journalisme et d'Internet. A 15 h 15, le Dallas
+Morning News, l'un des dix grands quotidiens américains, livrait en ligne une
+information exclusive: la reconnaisance de sa culpabilité par Timothy McVeigh,
+le principal suspect de l'attentat d'Oklahoma City. Pour la première fois, une
+information exclusive n'était pas livrée par une édition imprimée mais par une
+édition en ligne. Elle renversait les rapports d'un journal avec son site web,
+puisque, jusque là, l'édition en ligne se contentait d'être une copie de
+l'édition imprimée.
+
+Moins d'un an après, le mécanisme était au point. Dans Libération du 30 janvier
+1998, Pierre Briançon expliquait que le scandale provoqué par les relations
+sexuelles de Bill Clinton, président des Etats-Unis, avec Monika Lewinski,
+ancienne stagiaire à la Maison Blanche, était "le premier grand événement
+politique dont tous les détails sont instantanément reproduits sur le Web". Tous
+les grands médias d'information ont constitué une page web spéciale consacrée au
+scandale. "Pour la première fois, le Web apparaît ainsi comme un concurrent
+direct et brutal, non seulement des journaux - handicapés par leur périodicité -
+mais des radios ou télévisions."
+
+Comme ces deux exemples le montrent, l'implantation du Web dans la presse, et
+inversement, a créé un nouveau type de presse en ligne, qui offre une
+information presque instantanée, ou en tout cas encore plus rapide que celle
+donnée par la télévision ou la radio. L'information est également beaucoup plus
+complète grâce à la possibilité de multiples hyperliens vers d'autres sources
+d'information et documents en tous genres.
+
+Dans un entretien avec le magazine multimédia allemand Com! publié dans le
+numéro de mars 1998 (et relaté dans la dépêche AFP du 19 février 1998), Hermann
+Meyn, président du Deutscher Journalisten Verband (Fédération des journalistes
+allemands), proposait d'établir un code de déontologie professionnelle à
+l'intention des journalistes sur Internet afin d'éviter les dérapages vus lors
+de l'affaire Clinton-Lewinsky.
+
+"Un tel code est nécessaire car le flux d'informations est beaucoup plus rapide
+sur Internet que dans les médias classiques, et 'les rumeurs et les fausses
+nouvelles se répandent beaucoup plus vite', a-t-il expliqué. [...] Soulignant
+que des lois nationales ne suffiraient pas à combattre cette tendance sur le
+réseau informatique mondial qu'est Internet, il a jugé 'beaucoup plus sensé'
+d'établir un code de l'honneur pour les journalistes."
+
+Dans la Tribune de Genève du 28 février-1er mars 1998, Antoine Maurice
+présentait les mutations technologiques ayant affecté le monde de la presse
+durant ces vingt dernières années: impression offset, photocomposition,
+informatisation progressive des rédactions et des opérations de production des
+journaux. La fin des années quatre-vingt voit "des rédactions complètement
+informatisées et dépourvues de papier - le tout écran - complètement en réseau
+et en flux immatériel de production, complètement détachées et détachables des
+lieux d'impression".
+
+Nombre de métiers ont disparu. Les journalistes doivent maintenant compter avec
+des secrétaires de rédaction qui traitent les textes puis montent les pages sur
+écran, et avec des ingénieurs qui contribuent eux-aussi à la définition de
+l'information puisqu'ils réglementent les modalités du travail. Les techniciens
+de l'information et ceux qui l'écrivent sont tous deux "journalistes de plein
+droit, puisque des metteurs en page sur ordinateur sont autant responsables du
+contenu du journal que des rédacteurs". Les journalistes doivent aussi compter
+avec la concurrence d'Internet qui véhicule un très grand nombre d'informations
+et qui "court-circuite en partie le pouvoir d'informer, privilège jusque-là d'un
+milieu médiatique qui se serait bien passé de cette concurrence".
+
+La convergence multimédia peut être définie comme la convergence des secteurs de
+l'informatique, du téléphone et de la radiotélévision dans une industrie de la
+communication et de la distribution utilisant les mêmes autoroutes de
+l'information. Si, dans certains secteurs, ce phénomène a récemment entraîné de
+nouveaux emplois, par exemple ceux liés à la production de films ou de produits
+audio-visuels, d'autres secteurs sont soumis à d'inquiétantes restructurations.
+Lors du Colloque sur la convergence multimédia organisé les 27-29 janvier 1997 à
+Genève par l'Organisation internationale du Travail (OIT), plusieurs
+interventions étaient particulièrement intéressantes, et elles sont toujours
+d'actualité.
+
+Bernie Lunzer, secrétaire trésorier de la Newspaper Guild (Etats-Unis), était
+l'intervenant le plus pessimiste sur la rentabilité de la presse sur le Web.
+D'après lui, les espoirs de rentabilité, d'abord fondés sur les placards
+publicitaires, se sont ensuite reportés sur les petites annonces, sans garantie
+de succès jusque-là. L'instauration de l'abonnement payant sur le Web semble
+également voué à l'échec, parce qu'il prive le site d'une grande partie de son
+trafic. Bernie Lunzer insistait également sur les batailles juridiques faisant
+rage sur les problèmes de propriété intellectuelle. Ces batailles visent
+notamment à contrer l'attitude des directeurs de publications, qui amènent les
+écrivains indépendants à signer des contrats particulièrement choquants cédant
+tous leurs droits au directeur de la publication, avec une contrepartie
+financière ridicule.
+
+Heinz-Uwe Rübenach, du Bundesverband Deutscher Zeitungsverleger (Association
+allemande de directeurs de journaux), ne pensait pas que, dans un proche avenir,
+les journaux puissent être évincés par les services de presse en ligne. Par
+contre ceux-ci concurrencent déjà la presse traditionnelle dans le domaine des
+annonces immobilières ou des offres d'emploi. Si un lecteur veut acheter des
+billets pour des manifestations exceptionnelles par exemple, le service en ligne
+est plus adapté que le journal parce qu'il permet la commande directe des
+billets et une mise à jour constante des informations. Tout comme Bernie Lunzer,
+Heinz-Uwe Rübenach insistait lui aussi sur la nécessité financière pour les
+entreprises de presse de gérer et de contrôler l'utilisation sur le Web des
+articles de leurs journalistes, afin de constituer les fonds nécessaires pour
+continuer à investir dans ce type de technologie.
+
+Un problème tout aussi préoccupant est celui de la pression constante exercée
+sur les journalistes des salles de rédaction: le produit de leur travail n'est
+plus utilisé seulement en fin de journée, mais il doit être disponible tout au
+long de la journée. Ces tensions à répétition sont encore aggravées par une
+journée de travail sur écran pendant huit à dix heures d'affilée. Le rythme de
+travail et l'utilisation intensive de l'ordinateur entraînent de préoccupants
+problèmes de sécurité au travail. Après quelques années de ce régime, des
+journalistes "craquent" à l'âge de trente-cinq ou quarante ans.
+
+Président de la Federación Nacional de Periodistas (FENAJ) (Fédération nationale
+des journalistes) du Brésil, Carlos Alberto de Almeida dénonçait lui aussi
+l'exploitation des journalistes. En théorie, les nouvelles technologies devaient
+donner la possibilité de rationaliser le travail et d'en réduire la durée pour
+favoriser l'enrichissement intellectuel et les loisirs. En pratique, les
+professionnels des médias, les cadres et les journalistes par exemple, sont
+obligés d'effectuer un nombre d'heures de travail de plus en plus grand. La
+journée légale de cinq heures est en fait une journée de dix à douze heures. Les
+heures supplémentaires ne sont pas payées, comme ne sont pas payées non plus
+celles effectuées le week-end par un journaliste pendant sa période de repos.
+
+Si elle accélère le processus de production, l'automatisation des méthodes de
+travail, à commencer par la numérisation, entraîne une diminution de
+l'intervention humaine et donc un accroissement du chômage. Alors qu'auparavant
+le personnel de production devait retaper les textes du personnel de rédaction,
+la mise en page automatique a entraîné la combinaison des deux tâches de
+rédaction et de composition. Dans les services publicitaires aussi, la
+conception graphique et les tâches commerciales sont maintenant intégrées.
+
+Etienne Reichel, directeur suppléant de Viscom (Visual Communication),
+l'association suisse pour la communication visuelle, démontrait que le transfert
+de données et la suppression de certaines phases de production ont réduit le
+nombre d'emplois traditionnels. Le travail de vingt typographes est maintenant
+assuré par six travailleurs qualifiés. La concentration des centres de
+production a entraîné une forte pression sur les petites et moyennes entreprises
+qui étaient auparavant génératrices d'emploi. Par contre, l'informatique permet
+à certains professionnels de s'installer à leur compte, comme c'est le cas pour
+30% des salariés ayant perdu leur emploi.
+
+Heinz-Uwe Rübenach pensait au contraire que l'emploi n'était pas menacé. Depuis
+des années, les rédactions locales sont reliées aux rédactions centrales et les
+journalistes produisent sur leur propre ordinateur des pages prêtes à
+l'impression. Une fois de plus, déclarait-il, "les journalistes et autres
+employés des journaux devront adapter leur activité aux nouvelles technologies
+afin de soutenir la concurrence et de préserver leur emploi".
+
+Les services en ligne créent de nouveaux emplois. Lors d'une enquête auprès de
+l'Association européenne des directeurs de journaux, Heinz-Uwe Rübenach a
+observé que les services en ligne recrutaient des journalistes ne provenant pas
+des services de presse classiques, et qu'aucun poste n'avait été supprimé dans
+des entreprises de presse suite au développement des services en ligne. Phil
+O'Reilly, directeur général de la Newspaper Publishers' Association of NZ (NZ:
+New Zealand) expliquait qu'en Nouvelle-Zélande aussi le développement des sites
+sur Internet a entraîné quelques créations d'emploi. Mais aucun intervenant n'a
+donné le pourcentage de création d'emplois par rapport au nombre de
+licenciements.
+
+Même si Internet est un gigantesque réservoir d'informations, la presse aura
+toujours besoin des journalistes, comme l'explique Jean-Pierre Cloutier, auteur
+des Chroniques de Cybérie, dans un article de WebdoMag de juillet 1998:
+
+"Certains ont prévu à court terme la disparition des médias traditionnels et de
+leurs artisans. 'Nous n'aurons plus besoin de journalistes quand un bon fureteur
+pour les groupes News sera disponible', estimait il y a deux ans Michael Hauben
+de l'Université Columbia. 'Plus la population de branchés grandira, plus les
+médias d'information professionnels seront marginalisés.' N'en croyons rien.
+
+L'esprit de découverte et le goût de l'exploration et du bricolage technique de
+ceux et celles qui ont été précoces à adopter l'Internet (ceux que les
+sociologues du Net appellent les early doers) ne sont pas partagés par la
+deuxième vague d'utilisateurs qui constituent maintenant la partie la plus
+importante de cette 'masse critique'.
+
+Et voilà le défi de la presse spécialisée, c'est-à-dire accompagner le grand
+public dans sa découverte du nouveau médium et dans son appropriation de
+l'espace cyber, l'aider à analyser, faciliter sa compréhension, ajouter une
+valeur à l'information brute."
+
+Le goufre entre les "info-riches" et les "info-pauvres" est particulièrement
+présent dans la presse. Dans de nombreux pays africains, le tirage des journaux
+est extrêmement faible comparé au chiffre de la population, et chaque exemplaire
+est lu par une vingtaine de personnes au moins. Wilfred Kiboro, président de
+Nation Printers and Publishers (Kenya) (devenue Nation Media Group le 24 juillet
+1998), a observé dans son entreprise la baisse du prix des journaux grâce au
+phénomène de convergence multimédia. D'après lui, les coûts de distribution
+pourraient eux aussi fortement baisser avec la mise en service d'un système
+d'impression par satellite qui éviterait de transporter les journaux par camion
+dans tout le pays.
+
+Toutefois la convergence multimédia en particulier et la mondialisation de
+l'économie en général placent une fois de plus les pays en développement en état
+d'infériorité, puisque les moyens d'impression et de radiotélédiffusion sont
+dans les mains de quelques grands groupes occidentaux. Les problèmes économiques
+sont également doublés de problèmes culturels: paradoxalement, les informations
+concernant l'Afrique à destination des Africains ne viennent pas du continent
+lui-même, mais elles sont diffusées par des occidentaux qui transmettent leur
+propre vision de l'Afrique, sans réelle perception de sa situation économique et
+sociale.
+
+Autre apport de taille au monde de la presse, Internet permet de lire en ligne
+des titres difficiles ou impossibles à trouver en kiosque. Un article du
+quotidien Le Monde du 23 mars 1998 donne l'exemple du quotidien algérien El
+Watan, en ligne depuis octobre 1997. Selon Redha Belkhat, rédacteur en chef du
+journal, l'enjeu est capital:
+
+"Pour la diaspora algérienne, trouver dans un kiosque à Londres, New York ou
+Ottawa, un numéro d'El Watan daté de moins d'une semaine relève de l'exploit.
+Maintenant, le journal tombe ici à 6 heures du matin, et à midi il est sur
+Internet."
+
+Internet permet aussi aux journaux interdits d'exister, comme l'hebdomadaire
+indépendant La Nation qui, parce qu'il dénonçait les violations des droits de
+l'homme en Algérie, a été contraint d'arrêter ses activités en décembre 1996. Un
+an plus tard, un numéro spécial était disponible sur le site de Reporters sans
+frontières à l'occasion de l'anniversaire de sa disparition. "En mettant La
+Nation en ligne, notre but était de dire: cela n'a plus de sens de censurer les
+journaux en Algérie, parce que grâce à Internet les gens peuvent récupérer les
+articles, les imprimer, et les distribuer autour d'eux", indiquait Malti
+Djallan, à l'origine de cette initiative.
+
+Nouvelles du bled est un journal électronique sur l'Algérie créé en décembre
+1997 par Christian Debraisne, français, et Mohamed Zaoui, journaliste algérien
+en exil. L'équipe est maintenant constituée d'une douzaine de personnes qui se
+retrouvent le jeudi soir dans un café du onzième arrondissement de Paris.
+Christian Debraisne, qui effectue la mise en page, déclarait dans Le Monde du 23
+mars 1998:
+
+"Avec Internet, nous avons trouvé un espace de libre expression et, en prime,
+pas de problème d'imprimerie ni de distribution. Je récupère tous les papiers et
+je les mets en ligne la nuit à partir de chez moi."
+
+La revue de presse est effectuée à partir des journaux d'Alger. Dans le même
+article, Mohamed Zaoui expliquait:
+
+"La rédaction d'El Watan, par exemple, nous envoie des papiers qu'elle ne peut
+pas publier là-bas. C'est une façon de déjouer la censure. J'avais envie d'être
+utile et j'ai pensé que mon rôle en tant que journaliste était de saisir
+l'opportunité d'Internet pour faire entendre une autre voix entre le
+gouvernement algérien et les intégristes."
+
+Selon une enquête menée en février 1998 aux Etats-Unis par Market Facts pour le
+compte de MSNBC (Microsoft Network Broadcasting Corporation), Internet est en
+train de supplanter les médias classiques en tant que diffuseur de nouvelles.
+Avec une moyenne générale d'utilisation de 3,5 heures par semaine, Internet
+surclasse les magazines (2,4 heures), et il est déjà pratiquement à égalité avec
+les journaux (3,6 heures). Il tend à se rapprocher de la radio (4,5 heures), de
+la télévision par câble (5 heures) et de la télévision classique (5,7 heures).
+De plus, Internet l'emporte sur tous les autres médias pour la consultation des
+nouvelles au bureau, particulièrement les nouvelles économiques et financières.
+
+Signe des temps, en France, l'Ecole supérieure de journalisme (ESJ) de Lille
+propose maintenant une formation en journalisme multimédia à destination des
+journalistes professionnels français et étrangers. "En associant sur un même
+support l'écrit, l'image, le son, les ressources documentaires et
+l'interactivité, le multimédia modifie substantiellement les pratiques des
+éditeurs et des professionnels", indiquait l'ESJ. Une deuxième session de
+formation de neuf mois - dont trois mois de stage en entreprise - a débuté en
+septembre 1998. Terminée en juin 1998, la première session comprenait huit
+diplômés.
+
+Dans un article du cyberquotidien Multimédium datée du 17 avril 1998, Bruno
+Guglieminetti, réalisateur aux projets spéciaux numériques de Radio Canada,
+expliquait:
+
+"Le journalisme en ligne fait appel à une toute autre philosophie, à un tout
+autre système de production que le journalisme "traditionnel". Avec la création
+de cette filière, Lille se plante vraiment à l'avant-garde du journalisme
+européen, ce qui n'empêchera pas les journalistes traditionnels d'y recevoir
+leur formation et d'y trouver leur compte."
+
+La presse doit maintenant compter avec Internet pour les ressources qu'il offre
+dans de nombreux domaines:
+
+- rapidité de propagation des informations,
+
+- accès immédiat à de nombreux sites d'information,
+
+- liens à des articles et sources traitant du même sujet,
+
+- énormes capacités documentaires allant du général au spécialisé et
+réciproquement (cartes géographiques, notices biographiques, textes officiels,
+informations politiques, économiques, culturelles, etc.),
+
+- grande variété d'illustrations suite au développement de stocks d'archives
+photographiques liés à des sites d'information,
+
+- possibilités d'archivage avec dossiers d'archives et moteurs de recherche
+permettant de retrouver rapidement un article.
+
+Internet permet une information en profondeur qu'aucun organe de presse ne
+pouvait donner jusqu'ici. Derrière l'information du jour se trouve toute une
+encyclopédie qui aide à la comprendre.
+
+Même si la presse en ligne s'allie de plus en plus avec l'audiovisuel et la
+vidéo, l'important reste son contenu, comme le rappelait Jean-Pierre Cloutier,
+auteur des Chroniques de Cybérie, dans son courrier électronique du 8 juin 1998:
+
+"Dans le cas des Chroniques de Cybérie, nous avons pu lancer et maintenir une
+formule en raison des coûts d'entrée relativement faibles dans ce médium.
+Cependant, tout dépendra de l'ampleur du phénomène dit de 'convergence' des
+médias et d'une hausse possible des coûts de production s'il faut offrir de
+l'audio et de la vidéo pour demeurer concurrentiels. Si oui, il faudra songer à
+des alliances stratégiques, un peu comme celle qui nous lie au groupe Ringier et
+qui a permis la relance des Chroniques après six mois de mise en veilleuse. Mais
+quel que soit le degré de convergence, je crois qu'il y aura toujours place pour
+l'écrit, et aussi pour les analyses en profondeur sur les grandes questions."
+
+
+6. LES BIBLIOTHEQUES SUR LE WEB
+
+
+[Dans ce chapitre:]
+
+[6.1. Bibliothèques francophones / 6.2. Répertoires de bibliothèques / 6.3.
+Internet dans les bibliothèques / 6.4. L'avenir des bibliothèques avec Internet]
+
+Ce chapitre est consacré aux sites créés par des bibliothèques traditionnelles,
+caractérisées par des bâtiments, des bibliothécaires, des documents alignés sur
+les rayonnages, et des tables et sièges pour les lecteurs. Les
+cyberbibliothèques, ensembles de textes électroniques disponibles sur Internet,
+seront abordées au chapitre suivant.
+
+Après avoir présenté quelques sites de bibliothèques francophones et plusieurs
+répertoires de bibliothèques en Europe et dans le monde, on se penchera sur
+l'utilisation d'Internet dans les bibliothèques, les nouveaux outils qu'il
+apporte aux bibliothécaires, et l'avenir des bibliothèques face à cette
+gigantesque manne documentaire formée à la fois par un Web encyclopédique et des
+cyberbibliothèques de plus en plus nombreuses.
+
+
+6.1. Bibliothèques francophones
+
+
+Le site très coloré de la Bibliothèque publique d'information (BPI) est un
+modèle du genre. Incluse dans le Centre national d'art et de culture Georges
+Pompidou qui est lui-même situé au coeur de l'ancien quartier des Halles, la BPI
+est la grande bibliothèque parisienne multimédia en libre accès. En travaux pour
+restructuration après vingt ans de fonctionnement (1977-1997), elle a déménagé
+provisoirement en novembre 1997 dans d'autres locaux du même quartier, avec
+réouverture prévue en l'an 2000. La page d'accueil de son site web permet le
+choix entre l'accueil à la BPI, l'organisation de la bibliothèque, son
+catalogue, les guides et outils, la programmation, les formations, les
+publications, le courrier et les sites web.
+
+Le serveur de la BPI propose un accès direct aux catalogues des bibliothèques
+françaises. Il propose aussi l'Oriente-Express, un répertoire d'adresses de
+bibliothèques et de centres de documentation publics ou privés situés à Paris ou
+en région parisienne, choisis soit parce qu'ils sont ouverts à un large public,
+soit parce qu'ils font référence dans leur domaine. Tous les organismes sont
+présentés dans un cadre identique avec description des fonds et des domaines
+couverts, et un lien hypertexte vers leur site web.
+
+Bilingue français-anglais, le serveur de la Bibliothèque nationale de France
+(BnF) est à la fois solidement ancré dans le passé et résolument ouvert sur
+l'avenir, comme en témoigne le menu principal de la page d'accueil avec ses neuf
+rubriques: nouveau (les nouvelles manifestations culturelles), connaître la BnF,
+les actualités culturelles, les expositions virtuelles (quatre expositions en
+septembre 1998: les splendeurs persanes, le roi Charles V et son temps,
+naissance de la culture française, tous les savoirs du monde), des informations
+pratiques, l'accès aux catalogues de la BnF, l'information professionnelle
+(conservation, dépôt légal, produits bibliographiques, etc.), la bibliothèque en
+réseau (francophonie, coopération nationale, coopération internationale, etc.),
+et les autres serveurs (bibliothèques nationales, bibliothèques françaises,
+universités, etc.). Enfin, bien en vue sur la page d'accueil, une photo ancienne
+permet d'accéder à Gallica, la cyberbibliothèque de la Bibliothèque nationale de
+France, sur laquelle on reviendra dans le chapitre suivant.
+
+Le beau site bilingue français-anglais de la Bibliothèque municipale de Lyon
+propose quelques photos "pleine page". Il est organisé à partir du menu suivant:
+services en ligne, visite, collections, expositions, calendrier culturel, infos
+pratiques et liens.
+
+Les sites web de bibliothèques françaises sont de plus en plus nombreux, et
+plusieurs répertoires ont été créés pour faciliter leur accès.
+
+Réalisé par Thierry Samain, le répertoire des catalogues des bibliothèques
+francophones de l'ENSSIB (Ecole nationale supérieure des sciences de
+l'information et des bibliothèques) donne la liste de toutes les bibliothèques
+francophones classées en fonction des sept rubriques suivantes: bibliothèques
+générales, arts, droit et économie, lettres et sciences humaines, médecine,
+sciences de l'information et bibliothèques, sciences et techniques.
+
+L'Association des bibliothécaires français (ABF) tient un répertoire des
+bibliothèques sur Internet en France, en francophonie et dans le monde.
+
+Les sites Web des bibliothèques de Biblio On Line comprend cinq parties:
+bibliothèques publiques, bibliothèques universitaires, réseaux de bibliothèques,
+bibliothèques spécialisées et bibliothèques virtuelles.
+
+Résultat de la coopération entre sites web en bibliothéconomie et sciences de
+l'information, Sitebib permet maintenant une "gestion partagée des liens" entre
+différents organismes.
+
+Situé sur le site de la Bibliothèque nationale de France, le Catalogue collectif
+de France (CCFR) permet de "trouver des informations détaillées sur les
+bibliothèques françaises, leurs collections et leurs fonds (anciens, locaux ou
+spécifiques), connaître précisément les services qu'elles rendent et interroger
+leur catalogue en ligne".
+
+
+6.2. Répertoires de bibliothèques
+
+
+Les répertoires des bibliothèques tenus à jour par des organismes français
+viennent d'être signalés.
+
+Il existe bien sûr des répertoires nationaux pour chaque pays, par exemple, sur
+le site du Fachbereich Informatik de la Techniche Universität de Berlin
+(Allemagne), Bibliotheken, qui donne la liste des bibliothèques nationales,
+universitaires et publiques d'Allemagne, d'Autriche et de Suisse, ou encore
+BIBSYS, qui est le site des bibliothèques de Norvège.
+
+Géré par la bibliothèque de l'Université d'Exeter, Library and Related Resources
+est la liste des principales ressources offertes par les bibliothèques, musées
+et centres de recherche du Royaume-Uni.
+
+Dans sa section Library and Information Science Resources, la Library of
+Congress (USA) donne une liste des bibliothèques publiques et bibliothèques
+universitaires avec accès à leurs serveurs et à leurs catalogues. Plusieurs
+autres rubriques concernent la recherche et la référence, les services
+techniques, les collections particulières, les cyberbibliothèques, les
+organisations professionnelles, les écoles des sciences de l'information et des
+bibliothèques, les journaux professionnels et les fournisseurs de bibliothèques.
+
+A l'échelon européen, la rubrique General Library Resources on the Web, gérée
+par l'Union européenne, donne une liste des bibliothèques en Europe et dans le
+monde, une liste des bibliothèques publiques, une liste d'éditeurs, et des
+informations diverses sur les bibliothèques et les projets de l'Union européenne
+dans ce domaine.
+
+Site trilingue anglais-français-allemand, Gabriel est l'acronyme de "Gateway and
+Bridge to Europe's National Libraries". Comme son nom l'indique, il s'agit du
+serveur des bibliothèques nationales européennes, créé afin d'offrir un point
+d'accès unique aux services et collections de ces bibliothèques.
+
+"Gabriel rappelle également les travaux de Gabriel Naudé, dont l'Advis pour
+dresser une bibliothèque (Paris, 1627) est le premier travail théorique en
+Europe sur les bibliothèques et qui constitue ainsi un point de départ sur les
+bibliothèques de recherche modernes. Le nom Gabriel est aussi employé dans de
+nombreuses langues européennes et vient de l'Ancien Testament, Gabriel étant
+l'un des archanges ou messager céleste. Il est également présent dans le Nouveau
+Testament et dans le Coran."
+
+Le site procure des liens hypertextes avec tous les services en ligne des
+bibliothèques nationales européennes. Il couvre les pays suivants: Allemagne,
+Autriche, Belgique, Bulgarie, Danemark, Espagne, Estonie, Finlande, France,
+Grèce, Hongrie, Irlande, Islande, Italie, Lettonie, Liechtenstein, Lituanie,
+Luxembourg, Macédoine, Malte, Norvège, Pays-Bas, Pologne, Portugal, République
+slovaque, République tchèque, Roumanie, Royaume-Uni, San Marino, Suède, Suisse,
+Turquie et Vatican. Le site donne aussi des nouvelles de leurs projets communs.
+
+Comment Gabriel vit-il le jour?
+
+L'idée d'un site web commun aux bibliothèques nationales européennes fut émise
+en 1994 à Oslo (Norvège) lors de la réunion de la Conference of European
+National Libraries (CENL). En mars 1995, une nouvelle réunion rassembla les
+représentants de la Koninklijke Bibliotheek (Pays-Bas), la British Library
+(Royaume-Uni) et la Bibliothèque de l'Université d'Helsinki (Finlande) afin de
+discuter du site web de la CENL. Ils se mirent d'accord sur un projet pilote et
+furent ensuite rejoints par trois autres bibliothèques nationales: Die Deusche
+Bibliothek (Allemagne), la Bibliothèque nationale de France et la Biblioteka
+Narodowa (Pologne).
+
+Le projet Gabriel fut approuvé en septembre 1995 lors de la réunion annuelle de
+la CENL à Berne (Suisse). Il fut ensuite lancé sur Internet par la British
+Library qui s'occupa de sa maintenance éditoriale, avec la collaboration des
+bibliothèques nationales de Finlande et des Pays-Bas. La seconde étape eut lieu
+entre octobre 1995 et septembre 1996. Toutes les bibliothèques nationales qui
+n'avaient pas participé à la phase pilote furent invitées à se joindre au
+projet, ce qui permit une extension rapide de celui-ci. Entre-temps, de
+nombreuses bibliothèques avaient ouvert leur propre serveur web. Lors de sa
+réunion à Lisbonne (Portugal) en septembre 1996, la CENL décida le lancement de
+Gabriel en tant que service officiel de la CENL à compter du 1er janvier 1997.
+Sa maintenance éditoriale fut reprise par la Koninklijke Bibliotheek (Pays-Bas).
+
+La recherche sur Gabriel peut être effectuée par pays ou bien par type de
+services. Ces types de services sont les suivants : OPAC (online public access
+catalogues), bibliographies nationales, catalogues collectifs nationaux, index
+du contenu des périodiques, serveurs web, gophers (systèmes d'information à base
+de menus textuels à plusieurs niveaux), et liste complète des services en ligne
+par bibliothèque.
+
+Quelle est la situation dans les bibliothèques publiques?
+
+Internet and the Library Sphere, document de l'Union européenne mis à jour le 11
+décembre 1998, évalue à environ 1.000 le nombre de bibliothèques publiques ayant
+un serveur web. Ces bibliothèques sont réparties dans une trentaine de pays. Les
+pays les plus représentés sont la Finlande (247 bibliothèques), la Suède (132
+bibliothèques), le Royaume-Uni (112 bibliothèques), le Danemark (107
+bibliothèques), l'Allemagne (102 bibliothèques), les Pays-Bas (72
+bibliothèques), la Lituanie (51 bibliothèques), l'Espagne (56 bibliothèques) et
+la Norvège (45 bibliothèques). Les pays nouvellement représentés sont la
+République tchèque (29 bibliothèques) et le Portugal (3 bibliothèques). La
+Russie propose aussi une liste de 26 bibliothèques de référence sur le Web. Les
+sites sont très hétérogènes. Certains mentionnent seulement des informations de
+base telles que l'adresse des locaux et les heures d'ouverture, tandis que
+d'autres proposent toute une gamme de services, ainsi que l'accès à l'OPAC
+(online public access catalogue) de la bibliothèque.
+
+Public Libraries of Europe, liste de Sheila et Robert Harden, procure un
+annuaire des sites de bibliothèques publiques européennes avec classement par
+pays. Géré par la St Joseph County Public Library, à South Bend (Indiana, USA),
+SJCPL's Public Library WWW Servers répertorie 560 serveurs de bibliothèques
+publiques dans le monde.
+
+Si on souhaite un outil à l'échelle mondiale, LibWeb: Library Servers via WWW,
+tenu à jour par Thomas Dowling, de la Digital Berkeley Library (Californie,
+USA), recense tous les serveurs de bibliothèques disponibles sur le Web, à
+savoir 2.500 serveurs dans 70 pays. La mise à jour est quotidienne, tous les
+jours à minuit heure locale. La recherche est possible par lieu, type de
+bibliothèque ou nom. Excepté pour les Etats-Unis, le classement est effectué par
+continent et non par pays. Une centaine de bibliothèques européennes est
+répertoriée.
+
+
+6.3. Internet dans les bibliothèques
+
+
+L'Union européenne dispose d'un Programme des bibliothèques dont le but est
+d'aider au développement des ressources Internet et de faciliter les connexions
+des bibliothèques avec l'infrastructure de l'information et des communications.
+Le développement de systèmes appropriés est effectué en fonction de deux
+objectifs principaux: d'une part faciliter l'accès de l'usager aux ressources de
+la bibliothèque, d'autre part faciliter l'interconnexion des bibliothèques entre
+elles dans le cadre du développement des autoroutes de l'information. Les tests
+de validation sont accompagnés de mesures permettant de promouvoir des normes,
+diffuser des résultats et informer le personnel des bibliothèques des
+possibilités offertes par les systèmes télématiques.
+
+Parallèlement à ces travaux menés à l'échelon international, de nombreuses
+bibliothèques sont en train de développer une cyberbibliothèque à côté de leurs
+collections traditionnelles.
+
+La Bibliothèque nationale de France a créé Gallica qui, dans un premier temps,
+propose des images et textes du 19e siècle francophone. Une sélection de 3.000
+livres est complétée par un échantillon de la future iconothèque numérique.
+Grâce à son site web, la Bibliothèque municipale de Lyon met ses enluminures à
+la disposition de tous. Une sélection de 3.000 images (avec une prévision de
+10.000) permet au grand public de faire connaissance avec 200 manuscrits et
+incunables s'échelonnant du 5e siècle à la Renaissance. La bibliothèque
+électronique de Lisieux propose chaque mois la version intégrale d'une oeuvre
+littéraire, ainsi que les oeuvres littéraires des mois précédents.
+
+Qu'elles soient des bibliothèques de textes, des bibliothèques d'images fixes ou
+animées ou des bibliothèques sonores, ou bien qu'elles associent les trois
+supports, les cyberbibliothèques créées par les bibliothèques et médiathèques
+pour faire connaître leurs collections se développent très rapidement. Elles
+permettront à un large public d'avoir accès à des documents jusque-là
+pratiquement impossibles à consulter parce qu'appartenant à des fonds anciens,
+des fonds locaux et régionaux, ou des fonds spécialisés. Ces fonds étaient
+souvent très difficilement accessibles pour des raisons diverses: souci de
+conservation des documents rares et fragiles, heures d'ouverture réduites,
+nombreux formulaires à remplir, délais de communication, pénurie de personnel,
+qui étaient autant de barrières à franchir et qui demandaient souvent au
+chercheur une patience à toute épreuve et une détermination hors du commun pour
+arriver jusqu'au document.
+
+Grâce à la cyberbibliothèque, la bibliothèque peut enfin rendre comptatibles
+deux objectifs qui jusque là ne l'étaient guère, à savoir la conservation des
+documents et la communication de ceux-ci. D'une part le document ne quitte son
+rayonnage qu'une seule fois pour être scanné, d'autre part le grand public y a
+enfin accès. A long terme, une fois numérisés, tous ces fonds qui dorment sur
+les rayonnages pourront être utilisés sans le parcours du combattant qu'on vient
+d'évoquer. Assis sur sa chaise ou dans son fauteuil, le lecteur pourra avoir
+accès à des oeuvres en cliquant de l'une à l'autre, au gré de son humeur, de ses
+centres d'intérêt ou d'une curiosité passagère, de façon encore plus pratique
+qu'en se promenant dans les rayonnages, et surtout de façon beaucoup plus
+exhaustive puisque, dans les bibliothèques, une bonne partie des collections se
+trouve rangée dans des magasins et n'est donc pas en libre accès pour le lecteur
+qui "chine". Si le lecteur veut ensuite consulter le document lui-même - dans
+certains cas, la consultation à l'écran ne peut remplacer le "contact" direct
+avec l'oeuvre - il pourra ensuite se lancer dans les différentes étapes de la
+consultation "traditionnelle", mais ceci en connaissance de cause, après que le
+"feuilletage" à l'écran lui ait permis de sélectionner les documents en question
+afin de ne demander que ceux qui l'intéressent vraiment.
+
+Le terme cyberspace (de l'anglais cyberspace) doit sa paternité à l'auteur de
+science-fiction William Gibson qui le décrit dans son roman Neuromancien paru en
+1984:
+
+"Cyberespace: une hallucination consensuelle expérimentée quotidiennement par
+des milliards d'opérateurs réguliers, dans chaque nation, par des enfants à qui
+on enseigne des concepts mathématiques... Une représentation graphique des
+données extraites des banques de tous les ordinateurs dans le système humain.
+Complexité incroyable. Des lignes de lumière qui vont dans le non-espace de
+l'esprit, des agglomérats et des constellations de données. Et qui fuient, comme
+les lumières de la ville."
+
+Nombreux sont les bibliothécaires qui rêvent de pouvoir offrir à leurs lecteurs
+de véritables cyberespaces dans lesquels ils puissent travailler. Reste à savoir
+si on leur en donnera les moyens. "Les bibliothèques françaises développent une
+connexion à l'Internet ouverte au public, mais elles sont malheureusement encore
+peu nombreuses, moins d'une dizaine en avril 1997", écrivait Florent Latrive
+dans le quotidien Libération du 25 avril 1997.
+
+La Bibliothèque publique d'information (BPI), la Médiathèque
+d'Issy-les-Moulineaux ou la Bibliothèque municipale de Lyon, par exemple,
+mettent Internet à la disposition de leur public.
+
+Situés dans le département du Lot-et-Garonne (sud-ouest de la France), les
+quatre villages d'Armillac, Labretonie, Laperche et Saint-Barthélémy comptent
+950 habitants. Leur site, le site d'ARPALS (Amicale du regroupement pédagogique
+Armillac Labretonie Saint-Barthélémy), a pour sous-titre: "Internet et
+Multimédia aux champs ou comment amener la culture en milieu rural". Il a été
+créé par une association de parents d'élèves d'un Regroupement pédagogique
+intercommunal (RPI), et ce "regroupement pédagogique permet à des villages de
+mettre 'leur école en commun' pour éviter des fermetures de classes dans le
+monde rural."
+
+L'association a mis sur pied tout un ensemble d'activités pour conserver les
+habitants actuels et en attirer d'autres: d'une part des animations telles que
+repas, kermesse ou bal masqué, qui sont annoncées sur le site web, d'autre part
+une bibliothèque intercommunale de 1.300 livres en partenariat avec la
+Bibliothèque départementale de prêt (BDP) de Villeneuve-sur-Lot. Le site
+présente une sélection de livres avec un résumé pour chacun d'eux.
+
+L'association a également mis en place une multimédiathèque ouverte 22 heures
+par semaine pour un public allant de 3 à 76 ans. Quatre ordinateurs (ordinateurs
+multimédias Scenic Multimédium de chez Siemens Nixdorf, complétés de deux
+imprimantes couleurs Hewlett Packard et d'un scanner à plat Hewlett Packard)
+permettent la consultation de CD-ROM, le libre accès à Internet et l'utilisation
+de logiciels bureautiques tels que Works, Dbase for Windows, Corel Draw,
+Publisher, PhotoPaint, etc.
+
+Dans son courrier électronique du 8 juin 1998, Jean-Baptiste Rey, webmestre du
+site, précisait: "Notre site Internet a été lancé en 1996. Son but est de faire
+connaître l'existence de la médiathèque intercommunale de St-Barthélémy et ce
+que nous y faisons. C'est un moyen pour nous de démontrer l'utilité et l'intérêt
+de ce type de structures et la simplicité de l'usage des nouvelles technologies
+dans le cadre d'une bibliothèque." Le but du site est d'aider la bibliothèque à
+intégrer Internet dans son fonctionnement et dans les services qu'elle offre à
+son public. Son but est "également de pallier à la faiblesse de notre fonds
+documentaire. Internet et le multimédia nous permettent d'offrir beaucoup plus
+de ressources et d'informations à nos usagers".
+
+Mais, jusqu'à une époque récente, à l'exception de quelques initiatives le plus
+souvent dues à des bibliothécaires passionnés qui se battent pour franchir
+toutes sortes de barrières, y compris psychologiques et budgétaires, les espaces
+Internet dans les bibliothèques semblaient malheureusement se développer moins
+vite que les cybercafés, Internet dans les établissements d'enseignement,
+Internet à La Poste et Internet chez France Télécom. La situation devrait
+maintenant évoluer assez rapidement puisque, en avril 1998, le ministère de la
+Culture a annoncé un budget de 10 millions de FF pour la création d'"espaces
+culture multimédia".
+
+Dans son courrier électronique du 8 juin 1998, Christiane Jadelot, ingénieur
+d'études à l'INaLF-Nancy (INaLF: Institut national de la langue française),
+expliquait:
+
+"Je pense qu'il faut équiper de plus en plus les laboratoires avec du matériel
+de pointe, qui permette d'utiliser tous ces médias. Nous avons des projets en
+direction des lycées et des chercheurs. Le ministère de l'Education nationale a
+promis de câbler tous les établissements, c'est plus qu'une nécessité nationale.
+J'ai vu à la télévision une petite école dans un village faisant l'expérience de
+l'Internet. Les élèves correspondaient avec des écoles de tous les pays, ceci ne
+peut être qu'une expérience enrichissante, bien sûr sous le contrôle des adultes
+formés pour cela. Voilà ma petite expérience. Je me suis équipée maintenant à
+domicile dans un but plus ludique, en espérant convaincre ma fille d'utiliser au
+mieux tous ces outils!"
+
+Voici les projets français lancés en 1998.
+
+En janvier 1998, lors d'une cérémonie d'inauguration dans le bureau de poste
+d'Autrans (Isère), La Poste a lancé le projet Cyberposte dans la région du
+Vercors. Cette inauguration a marqué le premier pas dans la réalisation du
+projet national des 1.000 bureaux Internet d'ici la fin 1998. Dans tous les
+bureaux de poste de la région, Internet est désormais à la disposition du public
+au moyen d'une carte à puce (90 FF pour trois heures de connexion) et d'une
+adresse électronique pour tous. Le but du projet est de familiariser le public
+avec les nouvelles technologies et, à long terme, de lui permettre d'effectuer
+des téléprocédures.
+
+En février 1998, France Télécom annonçait à son tour un plan national
+d'ouverture d'espaces multimédias ouverts à tous, avec priorité pour les
+étudiants et les enseignants. En partenariat avec les collectivités locales, une
+centaine d'espaces multimédias sont prévus pour les trois ans qui viennent, et
+vingt d'entre eux devaient être opérationnels à la fin 1998.
+
+Le 14 avril 1998, le gouvernement lançait trois appels à projets multimédias à
+l'intention des bibliothèques, des PME (petites et moyennes entreprises) et du
+secteur éducatif, qui représentent 22 millions de FF destinés à soutenir les
+initiatives sélectionnées, et qui sont répartis ainsi: 5 millions pour les PME,
+5 millions pour les bibliothèques et 12 millions pour les écoles. Mis en place
+par le ministère de la Culture et de la Communication et le ministère de
+l'Environnement et de l'Aménagement du territoire, ce programme est destiné à
+faciliter l'acquisition de matériel multimédia par les bibliothèques des petites
+communes, les établissements scolaires et les PME des régions rurales et des
+zones en reconversion industrielle. L'objectif est un souci d'équité
+territoriale pour faire face à l'inégalité géographique existante alors
+qu'Internet devrait au contraire permettre à tous d'accéder aux mêmes services
+quel que soit le lieu géographique.
+
+A cette occasion, Catherine Trautman, ministre de la Culture, annonçait que,
+"après le monde universitaire, le monde des entreprises, c'est le monde de la
+culture qui s'empare de l'Internet", et que 1998 serait donc "l'année de
+lancement de l'Internet culturel". Elle précisait aussi que "cette politique ne
+vise pas seulement à améliorer notre position dans la compétition économique,
+mais aussi, fondamentalement, à garantir une nouvelle liberté d'expression et de
+communication pour nos concitoyens". 5 millions de FF ont été débloqués pour
+inciter les bibliothèques de villes de moins de 5000 habitants à s'équiper de
+connexions Internet, et les villes intéressées devaient déposer leurs dossiers
+avant le 30 juin. D'ici la fin de 1998, une centaine d'"espaces culture
+multimédia" devaient être créés dans les bibliothèques et centres culturels.
+
+Quant à nos voisins anglais, ils ont lancé le 16 avril 1998 un très important
+programme d'investissement dans les technologies de l'information sur cinq ans
+(1998-2002). En dévoilant ce programme, Tony Blair, premier ministre, déclarait:
+"Nous sommes au coeur de la révolution de l'information. Il est vital que la
+Grande-Bretagne ouvre la voie afin que nous soyons les pionniers de l'Europe
+dans ce que l'on appelle l'âge de l'information." La moitié du budget de 600
+millions de livres (environ 6 milliards de FF) sera consacré à l'achat de
+matériel, et l'autre moitié à la formation. L'achat de matériel devait permettre
+le câblage des écoles britanniques en 1998, l'achat de 10.000 ordinateurs
+portables pour les professeurs, la mise en ligne de l'information dans les
+bibliothèques et la connexion de tous les établissements de santé. Le budget
+attribué à la formation permettra de financer la création de 40.000 blocs de
+formation dans les centres d excellence IT (IT: information technology - ces
+centres sont de nouveaux établissements spécialisés créés par le gouvernement),
+une formation de base à tous les professeurs et à tous les bibliothécaires, un
+bagage informatique à la plupart des élèves anglais, et la formation aux
+technologies de l'information de 200.000 travailleurs britanniques.
+
+En ce qui concerne les grandes bibliothèques, une très intéressante initiative
+est celle menée à bien par Pierre Pelou, directeur de la Bibliothèque de
+l'Office des Nations Unies à Genève (ONUG). Ouvert depuis juillet 1997, un
+Cyberespace est mis gratuitement à la disposition des représentants des missions
+permanentes, délégués de conférences, fonctionnaires internationaux, chercheurs,
+étudiants, journalistes, membres des professions libérales, ingénieurs et
+techniciens. Le personnel du Cyberespace collabore aussi avec la Section de
+formation des Nations Unies pour l'organisation de l'enseignement à distance.
+
+Ce Cyberespace a été aménagé au premier étage de l'imposante bibliothèque par
+Antonio Bustamante, architecte au Palais des Nations (bâtiment qui abrite les
+Nations Unies à Genève). Les 24 stations comprennent chacune un ordinateur Intel
+Pentium MMX 200Mhz avec une mémoire de 32 Mo, un disque de 2,5 Go, un lecteur
+16x de CD-ROM, des cartes Matrox Millenium Graphics et Matrox Media XL-MPEG, et
+un casque individuel. Chaque groupe de trois ordinateurs est relié à une
+imprimante laser.
+
+En plus de l'utilisation du traitement de texte WordPerfect et de l'accès au
+courrier électronique, chaque station permet la consultation des services
+suivants:
+
+- Internet,
+
+- le système optique des Nations Unies,
+
+- un serveur regroupant une cinquantaine de CD-ROM en réseau,
+
+- la banque de données UNBIS (United Nations Bibliographic Information System)
+coproduite par les deux bibliothèques des Nations Unies à New York et à Genève,
+
+- le catalogue de la Bibliothèque de l'Office des Nations Unies à Genève,
+
+- Profound, qui est une collection de banques de données économiques et
+commerciales,
+
+- RERO, qui est le catalogue du Réseau romand des bibliothèques suisses et qui
+comprend celui de la Bibliothèque des Nations Unies de Genève à titre de
+bibliothèque associée,
+
+- un ensemble de CD-ROM multimédia (Encarta 97, L'état du monde, Elysée 2,
+Nuklear, etc.),
+
+- des vidéocassettes multistandards et des disques DVD (digital versatile disk)
+présentant des programmes, films et documentaires sur l'action internationale,
+l'action humanitaire, etc.
+
+Les avantages d'Internet pour les bibliothécaires? Voici un sujet de réflexion
+mené par de très nombreux organismes.
+
+Une réflexion particulièrement intéressante est celle de l'Internet Public
+Library (IPL), qui se définit comme la première bibliothèque publique d'Internet
+et pour Internet. Cette cyberbibliothèque dispose de 20.166 documents
+sélectionnés, catalogués et décrits par le personnel de l'IPL. En tant que
+bibliothèque expérimentale, l'IPL gère aussi une section intitulée IPL Services
+For Librarians, qui est consacrée aux avantages d'Internet pour les
+bibliothécaires et les professionnels de l'information, et qui donne des
+informations sur les réalisations et la formation professionnelle dans ce
+domaine.
+
+Pour les bibliothécaires, Internet est un outil de communication sans précédent.
+
+D'abord le courrier électronique. Ceux qui ont pu y goûter sont enthousiasmés
+par les avantages qu'il procure. Doté d'une adresse électronique, tout
+professionnel dispose d'un outil de communication simple et rapide pour entrer
+en relation avec les collègues de sa ville, de sa région, de son pays et du
+monde entier. Plus besoin d'attendre que la ligne de son correspondant soit
+libre. Plus besoin non plus d'effectuer des calculs de fuseaux horaires quand on
+téléphone dans un autre continent. Le message attend le correspondant dans sa
+boîte aux lettres électronique, et le correspondant lit et répond à ses messages
+au moment choisi par lui. Le courrier électronique est également moins formel
+que le courrier classique. On ne peut pas jeter sur le papier une question de
+trois lignes avec un simple bonjour et au revoir, alors que c'est possible sur
+écran. Pas d'enveloppe, pas de timbre, pas de télécopieur engorgé. Tous ceux qui
+ont pratiqué le courrier électronique pendant quelques semaines se demandent
+comment ils ont jamais pu s'en passer.
+
+Par le biais d'Internet, les bibliothécaires ont également la possibilité de
+participer à un ou plusieurs forums de discussion leur permettant de s'informer,
+de suivre et participer à des débats, de demander des avis et des conseils. Pour
+un bibliothécaire ou documentaliste travaillant seul, c'est un grand "bol d'air"
+sur l'extérieur. Pour celui qui est entouré de collègues, le forum de discussion
+lui permet la fréquentation de personnes venant d'autres horizons.
+
+Créée en 1993, la liste de diffusion Biblio-fr est à destination des
+bibliothécaires et documentalistes francophones, et elle est ouverte aussi à
+toute personne intéressée par la diffusion électronique de l'information
+documentaire. Elle comptait 3.329 abonnés le 20 décembre 1998.
+
+Modérée par Hervé Le Crosnier, professeur à l'Université de Caen (Normandie),
+cette liste de diffusion est le regard francophone des documentalistes sur les
+questions soulevées par le développement d Internet : diffusion de la
+connaissance, organisation de collections de documents électroniques,
+maintenance et archivage de l'écrit électronique. Le but de Biblio-fr est
+également d'assurer la présence de la langue française sur un réseau multilingue
+qui accorde leur place à toutes les cultures.
+
+Biblio On Line, qui se présente comme le serveur français des informations
+culturelles sur Internet, est un excellent outil à destination des
+bibliothèques. Jean-Baptiste Rey, son rédacteur, expliquait dans son courrier
+électronique du 8 juin 1998:
+
+"Le site dans sa première version a été lancé en juin 1996. Une nouvelle version
+(l'actuelle) a été mise en place à partir du mois de septembre 1997. Le but de
+ce site est d'aider les bibliothèques à intégrer Internet dans leur
+fonctionnement et dans les services qu'elles offrent à leur public. Le service
+est décomposé en deux parties:
+
+- une partie "professionnelle" où les bibliothécaires peuvent retrouver des
+informations professionnelles et des liens vers les organismes, les institutions
+et les projets et réalisations ayant trait à leur activité,
+
+- une partie comprenant annuaire, mode d'emploi de l'Internet, villes et
+provinces, etc... permet au public des bibliothèques d'utiliser le service
+Biblio On Line comme un point d'entrée vers Internet.
+
+Personellement Internet a complètement modifié ma vie professionnelle puisque je
+suis devenu webmestre de site Internet et responsable du secteur nouvelles
+technologies d'une entreprise informatique parisienne. Il semble que l'essort
+d'Internet en France commence (enfin) et que les demandes tant en matière
+d'informations, de formations que de réalisations soient en grande
+augmentation."
+
+L'Ecole nationale supérieure des sciences de l'information et des bibliothèques
+(ENSSIB) tient à jour une section Référence, qui comprend notamment des dossiers
+thématiques (histoire du livre, enseignement à distance, bibliothèques
+électroniques, cours sur Internet en sciences de l'information, économie du
+document, normes et normalisation, droit de l'information) et une liste des
+revues en sciences de l'information.
+
+L'ENSSIB héberge également la version électronique du Bulletin des bibliothèques
+de France (BBF), revue professionnelle bimensuelle créée en 1956.
+"Professionnels et spécialistes de l'information y discutent de toutes les
+questions concernant la politique et le développement des bibliothèques et des
+centres de documentation: évolution par secteur, grands projets,
+informatisation, technologies de l'information, écrits électroniques, réseaux,
+coopération, formation, gestion, patrimoine, usagers et publics, livre et
+lecture..."
+
+Le serveur permet l'accès aux textes intégraux des articles depuis 1995. Dans
+son courrier électronique du 6 juillet 1998, Annie Le Saux, rédactrice du
+Bulletin des bibliothèques de France, expliquait:
+
+"C'est en 1996 que le BBF a commencé à paraître sur Internet (les numéros de
+1995). [...] Nous nous servons beaucoup du courrier électronique pour prendre
+contact avec nos auteurs et pour recevoir leurs articles. Cela diminue
+grandement les délais. Nous avons aussi recours au Web pour prendre connaisance
+des sites mentionnés lors de colloques, vérifier les adresses, retrouver des
+indications bibliographiques dans les catalogues des bibliothèques..."
+
+Publié deux fois par an, au printemps et à l'automne, Cursus est le périodique
+électronique étudiant de l'Ecole de bibliothéconomie et des sciences de
+l'information (EBSI) de l'Université de Montréal (Québec).
+
+Concernant les revues professionnelles anglophones, le Library Journal Digital
+(LJDigital), sélection électronique du Library Journal, est la plus ancienne
+revue américaine des bibliothèques. Les vingt numéros annuels sont lus par
+100.000 abonnés, qui disposent de 7.500 analyses faites par des bibliothécaires
+sur des livres, documents audio, documents vidéo, CD-ROM, sites web, magazines,
+etc., soit 250 à 300 analyses par numéro, le plus souvent avant la publication
+des dits documents.
+
+Publiée par les bibliothèques de l'Université de Houston (Texas, USA), la Public
+Access Computer Systems Review (PACS-R) est une revue électronique sur les
+systèmes informatiques dans les bibliothèques. Elle est diffusée gratuitement
+sur Internet et d'autres réseaux informatiques à environ 8.000 personnes dans
+une soixantaine de pays. Les contributions traitent des thèmes suivants:
+bibliothèques numériques, systèmes de livraison des documents, édition
+électronique, systèmes expert, systèmes hypermédias et multimédias, bases de
+données locales, ressources et outils d'information en réseau, catalogues en
+ligne. Ses archives sont intégralement disponibles sur le Web.
+
+Les associations de bibliothécaires sont également présentes sur le Web. Fondée
+en 1906 et reconnue d'utilité publique en 1969, l'Association des
+bibliothécaires français (ABF) est, avec ses 3.500 adhérents, la plus ancienne
+et la plus importante association de bibliothécaires en France. Elle regroupe
+des bibliothécaires de tous types d'établissements et de toutes catégories.
+L'Association des professionnels de l'information et de la documentation (ADBS)
+dispose d'un site bilingue français-anglais articulé autour de trois grandes
+rubriques : vie associative, vie professionnelle, produits et services.
+
+Créée en 1937, l'American Society for Information Science (ASIS) est une
+association de recherche regroupant 4.000 professionnels de l'information et
+favorisant les nouvelles théories et techniques permettant d'améliorer l'accès à
+l'information. L'Association for Research Libraries (ARL) est une organisation à
+but non lucratif regroupant les bibliothèques des institutions de recherche
+nord-américaines. Elle est à la fois un forum pour les échanges d'idées et un
+agent pour l'action collective, cette action consistant à développer la
+communication dans le domaine de la recherche.
+
+A la fois sobre et superbe, le site de l'International Federation of Library
+Associations and Institutions (IFLA) offre une mine d'informations dans tous les
+domaines de la bibliothéconomie. Organisme international indépendant à
+destination des bibliothécaires du monde entier, l'IFLA se veut un carrefour
+pour échanger des idées et promouvoir la coopération internationale et la
+recherche dans tous les secteurs d'activité des bibliothèques. Ses objectifs
+sont de représenter les bibliothécaires au niveau international, promouvoir la
+formation continue du personnel des bibliothèques, et développer et mettre en
+oeuvre des directives pour les bibliothèques.
+
+Dans son courrier électronique du 18 juin 1998, Olivier Bogros, créateur de La
+bibliothèque électronique de Lisieux (Normandie), donnait son sentiment sur la
+place d'Internet dans les bibliothèques:
+
+"[Internet est] un outil formidable d'échange entre professsionnels (tout ce qui
+passe par le courrier électronique, les listes de diffusion et les forums) mais
+qui est un consommateur de temps très dangereux: on a vite fait si l'on n'y
+prend garde de divorcer et de mettre ses enfants à la DASS [Direction d'action
+sanitaire et sociale]. Plus sérieusement c'est pour les bibliothèques la
+possibilité d'élargir leur public en direction de toute la francophonie. Cela
+passe par la mise en ligne d'un contenu qui n'est pas seulement la mise en ligne
+du catalogue, mais aussi et surtout la constitution de véritables bibliothèques
+virtuelles. Les professionnels des bibliothèques sont les acteurs d'un enjeu
+important [concernant] la place de la langue française sur le réseau."
+
+
+6.4. L'avenir des bibliothèques avec Internet
+
+
+Service interactif de la Commission européenne, I*m Europe présente
+l'information la plus récente sur les marchés européens du multimédia et des
+services d'information électronique, y compris le Programme d'applications
+télématiques destiné aux bibliothèques. Le site web est en anglais, et il inclut
+des documents dans les onze langues européennes officielles.
+
+L'informatique d'abord et Internet ensuite amènent les bibliothèques à définir
+leur rôle vis-à-vis de l'édition électronique.
+
+Le projet BIBLINK fut lancé en avril 1996 par le Programme d'applications
+télématiques de l'Union européenne. Son objectif était d'établir des liens entre
+les agences bibliographiques nationales et les éditeurs de documents
+électroniques, afin de contribuer à la création d'un service bibliographique qui
+fasse autorité. Le projet émanait de CoBRA (Computerised Bibliographic Record
+Action), forum de l'Union européenne institué suite au développement de
+l'édition électronique pour susciter des décisions à l'échelon international.
+
+Pratiquement, le projet BIBLINK doit procurer un système pilote qui permettrait
+aux éditeurs de documents électroniques de transmettre aux services
+bibliographiques nationaux des notices de base comportant un nombre minimal
+d'informations sur ces documents. Ces services bibliographiques seraient ensuite
+autorisés à enrichir ces notices de base - notamment par le contrôle d'autorités
+sur les noms propres et l'ajout de mots-clés correspondant aux sujets traités -
+et à retransmettre ensuite les notices complétées aux éditeurs.
+
+Dans ce monde bouleversé à la fois par les possibilités documentaires sans
+précédent qu'offre Internet et par le développement vertigineux des
+cyberbibliothèques, que vont devenir les bibliothécaires et les documentalistes?
+Vont-ils devenir des cyberthécaires, nouvelle génération de bibliothécaires
+spécialistes du multimédia, ou bien vont-ils progressivement disparaître parce
+que les usagers n'auront tout simplement plus besoin d'eux lorsque tous les
+documents seront disponibles en ligne?
+
+Dans Digital Literacy (New York, Wiley, 1997), Paul Gilster assure que ce sont
+les bibliothécaires et non les programmeurs qui seront la clé du développement
+des cyberbibliothèques et d'Internet. Surpris par le pessimisme qui a saisi les
+bibliothécaires devant les changements affectant leur profession, il pense que
+celui-ci est sans fondement. D'après lui, Internet n'est pas plus une menace
+pour les livres que l'avion n'était une menace pour la voiture. Le livre
+"physique" gardera son utilité pendant qu'Internet se développera, et les deux
+supports seront en quelque sorte des voies parallèles avec des fonctions
+différentes.
+
+Cependant, au moins dans le domaine des bibliothèques spécialisées, on ne voit
+maintenant plus guère l'utilité d'aligner des documents sur les rayons, alors
+qu'il est tellement plus pratique de les scanner pour pouvoir les stocker sur un
+disque dur, les communiquer par voie électronique et les imprimer seulement à la
+demande. Nous sommes en pleine période de transition.
+
+Par contre, les bibliothèques publiques auront probablement une durée de vie
+plus longue. On ne va pas lire sur écran cinq cents pages d'un roman de Zola ou
+de Proust. Mais c'est sans doute aussi une question de génération. Les enfants
+qui jouent avec l'ordinateur dès l'âge de trois ans ne verront peut-être aucun
+problème à lire les oeuvres de Zola ou de Proust à l'écran. Il est vrai que,
+pour le moment, emporter son ordinateur pour lire au coin du feu ou dans son lit
+est beaucoup moins pratique que d'avoir son livre de poche, même quand il s'agit
+d'un portable, mais les ordinateurs portables deviennent de plus en plus
+compacts et légers, et la qualité des écrans s'améliore chaque année. De plus,
+dès cette année, les livres électroniques, petits ordinateurs de la taille d'un
+livre, seront disponibles sur le marché et permettront de lire et stocker une
+dizaine d'oeuvres, chiffre qui devrait augmenter rapidement. Il faudra toutefois
+attendre quelque temps pour que leur prix soit à la portée de toutes les
+bourses.
+
+Quant aux bibliothèques nationales et aux grandes bibliothèques, elles auront
+toujours à préserver le patrimoine pluricentenaire constitué par les manuscrits,
+les incunables et les livres imprimés, les collections de journaux, les
+partitions musicales, les gravures, les images, les photos, les films, les
+documents électroniques, etc., qui se sont accumulés sur leurs rayons, en partie
+grâce au dépôt légal.
+
+Comme on a déjà vu apparaître les discothèques, les vidéothèques et les
+médiathèques il y a quelques années, on assistera certainement à l'apparition
+d'un nouveau type de bibliothèque et à une nouvelle génération de professionnels
+de la documentation. Le premier site web de bibliothèque - celui de la
+Bibliothèque publique d'Helsinki (Finlande) - ne date jamais que de février
+1994. On ne fait qu'amorcer un virage, et l'avenir est encore flou.
+
+Le métier de bibliothécaire, qui s'est beaucoup transformé avec l'apparition de
+l'informatique, va continuer de se transformer avec l'apport d'Internet.
+
+L'informatique a déjà permis au bibliothécaire de ne plus passer des heures à
+classer manuellement ses fiches dans de multiples tiroirs en bois. Elle lui a
+permis de remplacer ces énormes catalogues sur fiches par des catalogues
+informatiques consultables à l'écran, avec un classement alphabétique ou
+systématique effectué non plus par lui-même mais par la machine. Elle a permis
+aussi le prêt informatisé et la gestion informatisée des commandes, faisant
+disparaître l'impressionnant stock de fiches et bordereaux nécessaires lors des
+opérations manuelles.
+
+L'informatique en réseau a fait naître ensuite les catalogues collectifs
+permettant de regrouper dans une même base de données les catalogues de
+bibliothèques de la même région, du même pays ou de la même spécialité,
+entraînant du même coup des services très facilités pour le prêt
+interbibliothèques et le regroupement des commandes auprès de fournisseurs.
+
+Puis un certain nombre de bibliothèques ont ouvert un serveur Minitel pour la
+consultation de leur catalogue, désomais disponible au domicile du lecteur.
+Progressivement, ces catalogues deviennent disponibles sur Internet, avec une
+consultation plus souple et plus attractive que sur Minitel. A long terme, on
+pourra également disposer des documents eux-mêmes en version électronique, et
+pas seulement de leurs références.
+
+Les serveurs web de bibliothèques proposent aussi d'autres services tels que
+renseignements à distance, cyberbibliothèques ou liens hypertextes avec d'autres
+sites, ce qui évite à leurs usagers de se perdre dans la Toile.
+
+Par la suite, pour des recherches pointues, les usagers auront certainement
+besoin d'avoir recours à un cyberthécaire en ligne, un peu comme un fournisseur
+de matériel ou de programmes informatiques met un service d'aide en ligne à la
+disposition de ses clients.
+
+Comme le précisait Peter Raggett, sous-directeur de la Bibliothèque centrale de
+l'Organisation de coopération et de développement économiques (OCDE, Paris),
+dans son courrier électronique du 18 juin 1998, "les responsables de
+l'information ont un grand rôle à jouer dans la recherche et l'organisation de
+l'information sur Internet". Lui-même a sélectionné plusieurs centaines de sites
+pour en favoriser l'accès à partir de l'Intranet de l'OCDE, et cette sélection
+fait partie du "bureau de référence virtuel" proposé par la bibliothèque à
+l'ensemble du personnel de l'Organisation. "Outre les liens, ce bureau de
+référence virtuel contient des pages de références aux articles, monographies et
+sites web correspondant aux différents projets de recherche en cours à l'OCDE,
+l'accès en réseau aux CD-ROM, et une liste mensuelle des nouveaux titres. Le
+catalogue de la bibliothèque sera bientôt lui aussi disponible sur l'Intranet."
+
+Peter Raggett prévoit "une forte expansion d'Internet pour l'éducation et la
+recherche. Les bibliothèques seront amenées à créer des bibliothèques virtuelles
+permettant à un étudiant de suivre un cours géré par une institution à l'autre
+bout du monde." La tâche du bibliothécaire sera de filtrer les informations pour
+le public. "Je me vois devenir de plus en plus un bibliothécaire virtuel,
+dit-il. Mes clients ne me rencontreront peut-être pas mais ils me contacteront
+par e-mail ou par téléphone ou par télécopieur, j'effectuerai la recherche et je
+leur enverrai les résultats électroniquement."
+
+
+7. LES CYBERBIBLIOTHEQUES
+
+
+[Dans ce chapitre:]
+
+[7.1. Définition de la cyberbibliothèque / 7.2. Cyberbibliothèques francophones
+/ 7.3. Cyberbibliothèques non francophones / 7.4. Un exemple: la toile
+littéraire francophone / 7.5. L'avenir des cyberbibliothèques]
+
+Appelées aussi bibliothèques numériques, bibliothèques électroniques ou
+bibliothèques virtuelles, bien qu'elles soient bien réelles quoique sur écran,
+les cyberbibliothèques sont peut-être l'apport majeur d'Internet dans le domaine
+de l'imprimé.
+
+Grâce à Internet, des centaines d'oeuvres du domaine public, documents
+littéraires et scientifiques, articles, travaux universitaires et de recherche,
+images et bandes sonores sont maintenant disponibles à l'écran, et le mouvement
+va en s'amplifiant.
+
+Après avoir tenté de définir la cyberbibliothèque, on décrira quelques
+cyberbibliothèques francophones et non francophones. On prendra aussi comme
+exemple la toile littéraire francophone sur le Web, et on examinera ensuite le
+futur des cyberbibliothèques.
+
+
+7.1. Définition de la cyberbibliothèque
+
+
+Bibliothèque pionnière en Europe dans sa réflexion sur la cyberbibliothèque, la
+British Library la définit comme une entité résultant de l'utilisation des
+technologies numériques pour acquérir, stocker, préserver et diffuser des
+documents. Ces documents sont soit publiés directement sous forme numérique,
+soit numérisés à partir d'un document imprimé, audiovisuel ou autre.
+
+Une collection numérique devient une bibliothèque numérique quand elle répond
+aux quatre facteurs suivants: 1) elle peut être créée et produite dans un
+certain nombre d'endroits différents, mais elle est accessible en tant qu'entité
+unique, 2) elle doit être organisée et indexée pour un accès aussi facile que
+possible à partir du lieu de base où elle est produite, 3) elle doit être
+stockée et gérée de manière à avoir une existence assez longue après sa
+création, 4) elle doit trouver un équilibre entre le respect du droit d'auteur
+et les exigences universitaires.
+
+Dans Information Systems Strategy, un document qui était présent sur le site de
+la British Library en 1997, Brian Lang expliquait que la cyberbibliothèque ne
+devait pas être envisagée comme un secteur à part, mais qu'elle devait au
+contraire faire partie intégrante d'une vision globale de la bibliothèque. Alors
+que certains pensent que les documents numériques prédomineront dans les
+bibliothèques du futur et que d'autres sont au contraire convaincus que leur
+impact sera faible, la British Library n'envisage pas une bibliothèque
+exclusivement numérique. Elle considère comme fondamentale la communication
+physique des imprimés, manuscrits, partitions musicales, bandes sonores, etc.,
+tout en ayant conscience de la nécessité du développement parallèle des
+documents numériques.
+
+Cyberbibliothèque hébergée par l'Université Carnegie Mellon (Pittsburgh,
+Pennsylvanie, USA) et reliée au catalogue expérimental (Experimental Search
+System - ESS) de la Library of Congress , l'Universal Library définit les trois
+avantages de la bibliothèque numérique: 1) elle occupe moins de place qu'une
+bibliothèque réelle et son contenu peut être copié ou sauvegardé
+électroniquement, 2) elle est immédiatement accessible à quiconque sur Internet,
+3) comme toute recherche sur son contenu peut être automatisée, elle permet une
+réduction des coûts importante et le développement sensible de l'accessibilité
+des documents.
+
+Qui dit cyberbibliothèque dit numérisation, c'est-à-dire conversion des textes
+et des images en bits et en octets pour traitement informatique. Pour pouvoir
+être consulté à l'écran, un livre peut être numérisé en mode image ou en mode
+texte. La numérisation en mode image correspond à la photographie du livre page
+après page, pour un coût approximatif de 3 FF par page. C'est la méthode
+employée pour les numérisations à grande échelle, par exemple pour la plus
+grande partie du programme de numérisation de la Bibliothèque nationale de
+France. Outre un coût peu élevé, l'avantage qu'y voient les bibliothèques est la
+conservation de la notion de livre, puisque la version informatique est en
+quelque sorte le fac-similé de la version imprimée.
+
+Les documents sont également patiemment dactylographiés page après page - par
+exemple ceux d'ABU: la bibliothèque universelle, de La bibliothèque électronique

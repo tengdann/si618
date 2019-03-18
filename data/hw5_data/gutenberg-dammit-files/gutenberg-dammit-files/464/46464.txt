@@ -1,0 +1,482 @@
+The Little Cryptogram:
+
+
+A Literal Application to the Play of Hamlet of the Cipher System of MR.
+                           IGNATIUS DONNELLY.
+
+
+  By J. GILPIN PYLE, Assistant Editor of The Saint Paul Pioneer Press.
+
+    "As I do live by foode, I met a foole,
+                              When I did heare
+  The motley Foole, thus morall on the time,
+  My Lungs began to crow like Chanticleere,
+  That Fooles should be so deepe contemplative;
+  And I did laugh, sans intermission,
+  An houre by his diall.   Oh noble foole,
+  A worthy foole:   Motley's the onely weare."
+                                                 AS YOU LIKE IT: II., 7.
+
+
+                              Saint Paul.
+                         The Pioneer Press Co.
+                                 1888.
+
+                            Copyright, 1888.
+                           BY J. GILPIN PYLE.
+                          ALL RIGHTS RESERVED.
+
+
+
+
+                             Author's Note.
+
+
+_A considerable portion of the contents of these pages appeared first as
+an editorial article in the Pioneer Press. By request of many friends,
+this practical application of Mr. Donnelly's cipher system to six pages
+of Hamlet is presented, revised and enlarged, to the general public._
+
+                                                              _J. G. P._
+
+
+
+
+                         The Little Cryptogram.
+
+
+"The Great Cryptogram," the monumental work in which Mr. Ignatius
+Donnelly essays to prove that the so-called Shakespeare plays contain a
+cipher story, discoverable by a system which he has worked out with
+infinite labor, is at last in the hands of an expectant public. No book
+so thoroughly advertised has appeared for many a year. For months and
+months the eye has been assailed by paragraphs and pages in the
+literature of two worlds, contending for or against the existence in the
+Shakespeare plays of a cipher that would assign the honor of their
+authorship to Lord Bacon. It has been admitted on all sides, and
+declared by Mr. Donnelly himself, that the appearance of this volume
+would rid the world of a delusion forever, and stamp the successful
+explorer of the mystery with undying fame, or write him down as the most
+daring and stupendous literary fraud that all the ages have produced.
+The author has challenged the test. It is his due that the results of
+his labor should have a candid and impartial investigation.
+
+Those who are interested in knowing whether "The Great Cryptogram" is a
+record of discovery or a record of ingenious and plausible invention may
+pass quickly over the first book of the volume, which deals with "The
+Argument," because in this Mr. Donnelly does not lay claim to
+originality. It is devoted to a careful and systematic marshaling of the
+circumstantial evidence used in the past to prove that the historical
+Shakespeare did not write the plays commonly ascribed to him. There is,
+as every literary man knows, a great deal of evidence that will pass
+muster under this head. There is an inconsistency between such fragments
+of a life of Shakespeare as have come down to us, and the experiences
+and the acquirements which we should declare indispensable to the
+writing of that matchless drama. It is dwelt upon but lightly here; not
+because any part of Mr. Donnelly's work should be slighted, but because
+it is the cipher discovery by which he must stand or fall. For the same
+reason it will be unnecessary to deal with the historical objections,
+equally numerous and unanswerable, to the theory of Baconian authorship.
+That Mr. Donnelly has made out a plausible and not unreasonable case, no
+one will deny. As a collector and editor of the works of others; as a
+curator of the museum in which patches and shreds of fact and theory,
+gathered from diverse sources, are to be arranged and classified in
+orderly succession, Mr. Donnelly is a master. His "Atlantis" and
+"Ragnarok" gave proof of a marvelous memory and a rare ability to
+dovetail disconnected and discordant facts into a homogeneous whole,
+such as few can equal. Able to forget what does not accord with his
+preconceived theory, blessed with a memory as serviceable in dismissing
+as in retaining, and thoroughly possessed, for the time being, with a
+conviction that he is pursuing truth, he is the most dexterous of
+workmen. It is only natural, therefore, that his cumulative evidence
+from history and fable and gossip should be well presented. He has
+browsed in the pastures of Delia Bacon and Judge Holmes and Appleton
+Morgan and Mrs. Potts. He has republished the best of their work,
+joining the crevices skillfully, and the reader will find himself
+entertained if not converted by this argument, which occupies more than
+half of the bulky volume devoted to the cryptogram. This, however, is a
+well-trodden field. These arguments are but a rehearsal of the clever
+counsel's brief. Not to these, but to the Caesar of the cipher, has Mr.
+Donnelly appealed for judgment. To the cipher and its mathematical
+demonstrations he shall go.
+
+Mr. Donnelly claims that there is concealed in the plays not only a
+declaration that Bacon wrote them, but a detailed history of the times.
+This is to be read by means of a word cipher, depending on a series of
+fixed numbers. The root numbers which he gives as the starting point are
+505, 506, 513, 516, 523. These numbers are combined, at pleasure, with a
+vast number of "modifiers." The latter consist of the number of words in
+a column, page or subdivision of the play selected; and of these numbers
+plus or minus the hyphenated and bracketed words. By this method the
+first two pages attacked yield him the following thirty-four "modifying"
+numbers: 27, 28, 29, 30, 31, 32, 50, 51, 62, 63, 79, 80, 90, 91, 141,
+142, 167, 168, 169, 189, 208, 209, 211, 212, 218, 219, 237, 240, 283,
+284, 291, 294, 301, and 302. Counting forward or backward, at pleasure,
+from the top or the bottom of each page, and from the beginning or the
+end of each scene, he finds himself directed to the specific words that
+tell the tale; each new count supplying a new "modifier." He does not
+tell whence he derives his root numbers--and the world loses little by
+that--because he is informed by his publishers that there is nothing in
+our law of copyright to prevent some ingenious fellow, less
+conscientious than himself, from studying out his whole system, applying
+it to the rest of the plays, and bursting upon the world with the
+remainder of the story, which Mr. Donnelly wants to reserve for a future
+volume and future profits. How well grounded were his apprehensions the
+appearance of this lesser cryptogram may serve to show. Therefore he
+wraps himself in congenial mystery, and both his root numbers and his
+modifiers must be taken on faith. It is hard for the average man, at
+this point, to repress his scepticism, and to refuse straightforward
+treatment to a man who advertises for two years a great discovery and
+then reserves it for the future. There is a strong flavor of the Keeley
+motor about the process. But not thus unjustly shall the public deal
+with Minnesota's gifted son. We, the people, want to get at the bottom
+of this cipher, and re-read our history of the Elizabethan era and its
+literature.
+
+The first step is to take an actual illustration of the cipher and Mr.
+Donnelly's use of it, in order that the public may see just how the
+thing works. The names "Shakespeare" and "Cecil" do not occur in the
+plays. To obtain them, Mr. Donnelly's arithmetical process points him to
+the words "shakes" and "peere," and to the other words "seas" and "ill;"
+combining the former he gets Shakespeare, and the latter give him Cecil.
+Now if the reader is the happy possessor of a copy of "The Great
+Cryptogram," let him turn to page 718 as a base of operations. If his
+library is not so enriched, what he finds here is ample for purposes of
+illustration. This chapter deals with the revelations growing out of the
+root number 516, judiciously modified. There are 167 words in the second
+column of page 74 of King Henry IV, following the subdivision made by a
+stage direction. There are 21 words in brackets, and one hyphenated
+word, making 22 in all. Add 22 to 167, and you have 189. Subtract 189
+from 516, and you have 327. This 327 is combined with other numbers,
+derived from previous operations; the number of words on an antecedent
+page or a former column, or some of the "modifiers" that wait modestly
+till their assistance is needed. Out of these additions and
+subtractions, perfectly arbitrary in their nature, comes finally a
+number which directs the searcher to a word on page 76. How intricate
+are these mathematical operations will be perceived only upon
+examination. Therefore, the following, taken literally from pages 718,
+719, is subjoined as fairly illustrative of the cipher gambols:
+
+                                                     WORD    PAGE
+                                                             AND
+                                                            COLUMN
+  516-167=349-22_b_ & _h_=327                         182   76:1   Seas}
+      498-327=171+1=172+10_b_ & _h_=182
+  516-167=349-22_b_ & _h_=327   447-327=120+1=        121   75:1   ill}
+  516-167=349-22_b_ & _h_=327-30=297-50 (76:1)=       247   76:2   said
+  516-167=349-22_b_ & _h_=327-284=43                  408   75:1   that
+      447-43=404+1=405+3_b_=408
+  516-167=349-22_b_ & _h_=327-254=73-15_b_ & _h_=58   391   76:1   More}
+        448-58=390+1 = 391
+  516-167=349-22_b_ & _h_=327-50=277-50               226   74:1   low}
+      (74:2)=227-1_h_=226
+  516-167=349-22_b_ & _h_=327-254=73-50               22    76:1   or
+      (76:2)=23-1_h_=22
+  516-167=349-22_b_ & _h_=327-30=297-254=43-15_b_ &   28    75:2   Shak'st}
+      _h_=28
+  516-167=349-22_b_ & _h_=327-248=79                 (121)  75:1   spar}
+      193-79=114+1=115_b_ & _h_=(121)
+  516-167=349-22_b_ & _h_=327-254=73-15_b_ & _h_=58   441   76:1   never
+        498-58=440+1=441
+  516-167=349-22_b_ & _h_=327-50=227-7_b_ & _h_=      220   76:2   writ
+  516-167=349-22_b_ & _h_=327                         327   76:1   a
+  516-167=349-22_b_ & _h_=327-145 (76:2)=182          317   76:1   word
+      498-182=316+1=317
+  516-167=349-22_b_ & _h_=327-193=134                 115   74:2   of
+      248-134=114+1=115
+  516-167=349-22_b_ & _h_=327-254=73-15_b_ &          53    74:1   them
+      _h_=58-5_b_=53
+
+Before I proceed to the obviously fair and conclusive test of applying
+the same numbers and the same method elsewhere, there are some
+reflections to be noted, which will occur spontaneously to almost every
+reader. In the first place, the cipher seems, like the man who claimed
+that he never borrowed the kettle, that he had returned it and that it
+was cracked when he borrowed it, to prove too much. If it led directly
+to important disclosures concerning the authorship of the plays or
+historical events of the time when they were written, and to these
+alone, it might lay claim to credibility. But this cipher, prepared by
+Bacon to prevent Shakespeare from stealing his laurels, requires the
+appropriation of page after page to describe minutely Shakespeare's
+personal appearance. A glance at the sample printed will show how great
+the labor required to encase such a story, by mathematical rule, in the
+body of the plays. Yet this labor Bacon must have undergone, to tell the
+coming ages that "He," Shakespeare, "is troubled with several dangerous
+diseases; he is subject to the gout in his great toe; and I hear
+moreover he hath fallen into a consumption." The spectacle of Bacon,
+holding weary vigil to complete, at infinite labor, the cipher story,
+and devoting hours to the construction of a play in which the movement
+of the plot, the fate of the _personae_ and the majesty of the dialogue
+should be unconsidered trifles, subordinated to the all-important
+infolded chronicle of the fact that Shakespeare had the gout in his
+great toe, is one for gods to weep at. Nor was this the limit of the
+Baconian genius. Complicated as is the work of reading this involved
+tale by the cipher's help, it bears no comparison to the work of
+incorporating originally that story in the plays. To write the Donnelly
+memoirs first, and then so to write the dramas that each word of the one
+shall fit into its appropriate place in the other, by mathematical rule,
+would fall little short of miracle. From Archimedes to Olney, there has
+lived no man who would dare attempt this task. Admiration for Bacon the
+dramatist, is swallowed up in reverence for Bacon the mathematician,
+whose equal the world has never seen.
+
+It was necessary, for the benefit of those untaught in the Eleusinian
+mysteries wherein Mr. Donnelly revels, to make this exemplary statement
+of his method. Now for the crucial test that shall establish its
+genuineness. The author begs permission to announce that he has done
+some cipher work on his own account, following closely Mr. Donnelly's
+instructions; and that he has made a discovery scarcely less interesting
+to a generation of scoffers than that of his illustrious teacher. Nay,
+nothing but modesty forbids him to claim first prize; for this
+application of the identical cipher is absolutely confirmatory of its
+worth, and sheds new lustre on the names of both Donnelly and Bacon. In
+studying the cryptogram, with the help of Mr. Donnelly's directions, the
+thought suggested itself with overwhelming force, must there not be some
+reference in the plays to the cipher mystery, and some prophecy of the
+day when this riddle should be read? Fortunately, it happens that this
+inquiry need not go unanswered. Not everyone has access to the great
+Shakespeare folio, so called, in the library of Columbia College. But
+Messrs. Funk & Wagnalls, New York, published last year a reduced
+fac-simile of the famous first folio edition of 1623. In his
+introduction to this volume, Mr. J. O. Halliwell-Phillips, the eminent
+Shakespearian scholar and critic, says: "For all usual practical objects
+of study, this cheap reproduction will place its owner on a level with
+the envied possessors of the far-famed original." This fac-simile of the
+1623 folio, to which alone the cipher applies, has been used in all the
+researches stimulated by the great cipher discovery. Here was the key
+and here the treasure house. Not with any desire to rob Mr. Donnelly of
+future fame, but animated solely by the hope that his work could be
+proved accurate to the doubter, did the present writer attempt the task
+of unlocking the secret chamber of genius. It is with more than ordinary
+pride that he announces a splendid and complete success, which silences
+forever all cavil as to the cipher.
+
+It was clear that Bacon, with his unparalleled keenness of intellect,
+must foresee that Hamlet would be pronounced his greatest work. That
+play would be most minutely scanned and critically studied. It was to
+Hamlet, therefore, that the trembling neophyte turned as a promising
+field for exploration. Now, following everywhere the Donnellian method,
+at what part of Hamlet should a beginning be made? Clearly, one must
+look for something disconnected from and out of harmony with the rest of
+that magnificent drama; something obviously dragged in by the breeches
+for a purpose. Glancing over this old folio, the first obvious
+interpolation appeared to be the mad songs of Ophelia. Here is matter
+senseless by itself. To introduce it, the writer was compelled to have
+Ophelia go mad and talk nonsense. And those stanzas beginning, "Then up
+he rose and donned his clothes," are not only foolish but indelicate.
+Here was a suggestion. It warranted an experiment. It will be remembered
+that one of Mr. Donnelly's root numbers is 523. This mad song occurs on
+page 273 of the folio. Subtracting 273 from 523, we get 250. Count from
+the top of the column on that page in which the song is found, and the
+250th word is "donned," printed thus, "don'd." In enumerating, it is to
+be observed that "its selfe" and "to morrow" make, properly speaking,
+but one word each, and must be counted so. To point the student at once
+to the key word, italicized and bracketed words are here included in the
+count. Now the word "don," occurring in "Titus Andronicus," is printed
+"d'on," to indicate its formation. Here the apostrophe is omitted, as if
+to call attention to the combination of letters, "don." This is at least
+suspicious.
+
+Acting upon this clue, search is made for the next interpolation. It is
+found but three pages further on, in the absurd grave-diggers' scene.
+This is preceded by the direction, "Enter two clowns." Now clowns do not
+dig graves, and grave-diggers are not generally clowns. It was clearly
+the intention of the writer to call special attention to the following
+lines. And the passage itself contains matter which is more ridiculous
+than anything in Ophelia's crazy words: "If the man go to the water and
+drown himself, it is will he nill he, he goes; mark you that; but if the
+water come to him and drown him, he drowns not himself." What rot is
+this which the great Bacon utters? There is a rat behind this arras. But
+how to get at him! We turn for help to the cryptogram. We find, on page
+555 of that volume, the account of Mr. Donnelly's first discovery. He
+noted the word "Bacon," on page 53 of I "Henry IV." He counted the
+number of italicized words in the first column of that page and found it
+to be 7; multiplied that number by the page number, and found the
+product 371; and, lo! the 371st word was "Bacon." We go back to the
+grave-diggers. On the page where they are voicing idiocy, there are six
+italicized words in the first column. The number of the page is 276.
+Divide 276 by 6, and the quotient is 46. Count upward from the bottom of
+the second column, and the 46th word is "nill he," so printed for
+concealment. This phrase, "will he nill he," occurs nowhere else in the
+plays. It is here for a purpose. The mad song gave "Don." The graveyard
+scene gives, by Mr. Donnelly's process, closely followed, "nill he."
+"Don nill he;" "Donnelly." Eureka! we are on the trail of the mystery,
+and the cipher has been at work here. There must be more behind.
+
+Now, lest anyone should entertain the injurious and erroneous suspicion
+that this is mere burlesque let it be stated here that what has
+preceded, and what follows is the result, in every instance, of accurate
+mathematical work. A few of the Donnelly numbers, and the numbers of
+pages and of words on a page were used, and no others. The cipher
+employed is the Donnelly cipher. The words on every page, the italicized
+words, the bracketed words and the hyphenated words were counted
+separately and numbered. The edition used is the fac-simile reproduction
+of the 1623 folio. Every computation has been carefully made. And if any
+reader doubts, he is requested to procure a copy of the reprint, make
+the count and verify the figures for himself, and prove to himself that
+the cipher discovery which follows is as literally worked out, as
+credible, as truly the work of Lord Bacon as anything to be found from
+cover to cover of "The Great Cryptogram."
+
+Turning again to Hamlet, there is circumstantial evidence sufficient to
+show that the remarkable pointing to the word "Donnelly" could not be a
+mere coincidence. For example, in the same column with "don," and but a
+few lines further on, occurs the expression "most violent author." Is
+this an accident? Again, the word "politician," according to the
+lexicons, occurs not over half a dozen times in all the plays. It is
+found twice in these six pages, in intimate connection with the word
+"Donnelly;" once in the far-fetched expression "life-rendering
+politician," which means nothing. Still again, popular nomenclature has
+designated Mr. Donnelly as "The Sage of Nininger." By that title he is,
+perhaps, better known throughout the Northwest than by his legal name.
+Now the word "sage" is another used less than half a dozen times in all
+the plays. It is found here; and found in the expression, "sage
+requiem," which has so puzzled the commentators that "sage" is omitted
+in many of the common editions. To put it here, where the cipher
+required it, the writer of this play was compelled to make his
+expression meaningless. It is simply impossible that this combination of
+unusual words, "Donnelly," "politician," "author," "sage," all jostling
+each other in passages introduced without relevance to the play, should
+be an accident. It is deep design. Bacon, looking forward with more than
+mortal prescience, saw the day when his deliverer would come. And in
+anticipation of this event, he put into his greatest play, by means of
+the cipher, the prophecy that is now fulfilled. By one act of
+transcendent genius, he made it impossible for anyone to reject the
+revelation which his interpreter should make in the fulness of time.
+
+The cipher key furnished by Mr. Donnelly may now be applied to the last
+pages of Act IV, and the first of Act V, Hamlet. No attempt will be made
+to work out the whole story. That gladsome task belongs to Mr. Donnelly
+himself. But enough may be read to show the wondrous ingenuity of Lord
+Bacon, and to confirm in him the gift of prophecy. "The Great
+Cryptogram" furnishes, as before stated, five root numbers; the Hamlet
+cipher uses but two of these, 516 and 523. Pages 73 and 74 of King Henry
+IV supplied thirty-four "modifiers;" the Hamlet cipher requires but
+nine, all told. Three of these, 30, 50 and 198 (the last mentioned being
+reserved for cases where the cipher-hunter falls into a hole and can not
+get out without its help) are on Mr. Donnelly's list. Three more, 273,
+274 and 276, are the numbers of the pages of Hamlet to which the cipher
+is applied most liberally. The remaining three, 306, 397 and 423, are
+the number of words on these three pages respectively; only those
+printed in Roman characters and not included within brackets being
+counted. In general, the system of counting adopted by Mr. Donnelly is
+followed. But the Hamlet cipher usually regards such forms as "'twere"
+and "there's" as two distinct words; while "her selfe" and "to morrow,"
+as noted above, though printed without the hyphen, constitute but one
+word each. Bracketed and italicized words are always to be omitted, in
+the enumeration, except in case of the important initial word "Don," and
+the word "out;" and inasmuch as these themselves are found in italics,
+both bracketed and italicized words are included in computing their
+numbers on the page.
+
+These instructions as to the method of enumeration being premised,
+particular attention is called to the extreme simplicity of the Hamlet
+cipher as compared with the key to Henry IV; which is as profusely
+numbered as the hairs of the righteous. This table shows at a glance, as
+will be seen by comparison with the following cipher narrative, all the
+numbers used in combination to produce the secret story which the author
+has discovered.
+
+  Of Donnelly's root numbers                                  516, 523
+  Of Donnelly's modifiers                                  30, 50, 198
+  Page numbers from Hamlet                               273, 274, 276
+  Roman words, p. 273, col. 2                                      306
+      "   "   "   274,   " 1                                       397
+      "   "   "   276,   " 1                                       423
+
+By combining these in different ways, adding or subtracting at pleasure
+as Mr. Donnelly does, the number of italicized, bracketed and hyphenated
+words separately, and reserving the right which he claims liberally to
+increase or decrease the result by 1 arbitrarily, there is obtained in
+every case the number indicating the given word on each page, reading
+from top or bottom as the case may be, in its appropriate column. If
+there is anything wrong with the result, the fault must lie with Lord
+Bacon and the Great Cryptogram. Here is what the cipher, so amazingly
+simple in its convolutions, cries out across the centuries since Bacon
+died to the unbeliever of to-day:
+
+                                              WORD   Page
+                                                     and
+                                                     Col.
+  523-273=                                    250   273:2  Don}
+  276/6=                                       46   276:2  nill he,}
+                                                           Donnelly
+  523-306=217   273-217=56+30=86-50=36-2_i_=   34   273:2  the
+  523-273=250   516-250=266+2_i_=             268   273:2  author,
+  523-306=217   274-217=57-2_h_=               55   274:2  politician
+  523-50=473-273=                             200   273:2  and
+  523-397=126+276=402-50=                     352   276:1  mountebanke,
+  523-274=249+50=299-4_b_=295-2_b_=           293   274:1  will
+  No. words _p._ 274, col. 1=                 395   275:2  worke
+  516+50=566-273=293-30=                      263   273:2  out
+  523+50=573-397=176-30=146-5_h_=             141   274:2  the
+  516-306=210-198=12+10_i_=                    22   274:1  secret
+  523-397=126-1=                              125   274:2  of
+  523-274=249   306-249=57+11_i_+1=            69   274:1  this
+  516-423=93+50=143-2_i_=141-1_h_=140-1=      139   276:1  play.
+  523-274=249-30=219-2_h_-1=                  216   274:2  The
+  523+30=553-423=                             130   278:2  Sage
+  523-397=126+30=156-2_h_=                    154   274:2  is
+  523-274=249+5_h_=254-1=                     253   274:2  a
+  516-274=242+50=292+5_h_+1=                  298   274:2  daysie.
+
+The nineteenth century world may well close its ears to tales of Cecil's
+envy and Shakespeare's gout, and the wrath of the red-haired queen, to
+listen to the voice of Bacon, saying "Donnelly, the author, politician
+and mountebanke, will worke out the secret of this play. The Sage is a
+daysie."
+
+Columns might be filled in an attempt to notice all the ingenuities of
+this work. For instance, the bringing in of Ophelia with her flowers,
+her "rosemary" and "rue," and her "pansies for thoughts," solely to
+introduce the quaint word "daysie;" in order that Lord Bacon might tell
+his opinion of his great discoverer and defender, in language that would
+fit the ears of this modern and slangy age. Nor is it possible to do
+more than barely mention that there can be no difficulty in finding the
+whole life history of Mr. Donnelly in "Hamlet" and other plays. No doubt
+the cipher, applied more fully to the pages already considered, would
+recount his diversions in Minnesota politics. And he is mentioned
+elsewhere. In "Titus Andronicus," for example, we have "d'on," and
+repeatedly afterward, "kneel." Still more marked is the reference in
+Henry V. A French boy is lugged into that play for no purpose but to
+jabber a language unfamiliar to and hated by an English audience of that
+day. His "donne," "donner," "donnerai," are repeated, parrot-like, to
+weariness, obviously to fix attention on that prominent syllable, "don."
+And then, but a few pages away, we have, "He is married to Nell
+Quickly;" "And shall my Nell keep lodgers?" This is no accident, for
+accident is unknown to the so-called Shakespearian drama. "Don Nell,"
+"Nell Quickly," over and over again, are very mileposts leading to the
+name of Donnelly, and to a cipher story that will reveal to the curious
+the inwardness of his career. It is no trifle to work out the cipher. To
+unearth a sentence, especially if you are at all particular as to what
+that sentence should say, requires hours of the hardest labor. But labor
+most arduous will not be in vain if applied to this significant and
+inviting portion of Henry V, by those who bestow on Mr. Donnelly the
+same reverential admiration that he cherishes for Lord Bacon.
+
+There is, then, a cipher. And this is the recipe. So extraordinary was
+the command of language on the part of the writer of these plays, that a
+few pages of any one of them, if separated into single words, will give
+a vocabulary out of which any given story can be pieced. Pick out the
+words you need to say what you desire. Count the number of each word
+from the top or from the bottom of its column. Then, having five root
+numbers, ten or a dozen modifiers, the number of the page and the number
+of words on it, also the number of words in italics or connected by
+hyphens, you have studied addition and subtraction to little purpose if
+you can not so combine these various numbers that they shall furnish
+you, at last, with the number that you need to identify the particular
+word you have chosen. It is hard work. No wonder Mr. Donnelly covered,
+with figuring, a bundle of paper that a man can scarcely lift. The
+present writer consumed quires in a simple application of the cipher key
+to Hamlet. But it pays; whether you want to make money out of a gullible
+public, or to expose an ambitious fraud. Mr. Donnelly will gather a
+fortune from his audacious and singularly successful advertisement; and
+neither friend nor generous enemy will grudge him that. But, out of his
+profits, he should erect upon the banks of the Mississippi, near his
+Nininger home, a statue of himself; a noble statue, with the other
+features in scholarly repose, while the mouth stretches into a capacious
+grin, and the eyes are fixed upon a volume in the right hand; not a copy
+of the "Great Cryptogram," but an edition of the "Shakespeare" plays,
+opened at that famous passage in the "Midsummer Night's Dream," which
+has been to him a steadfast rule in all his dealings with the world:
+"What fools these mortals be."

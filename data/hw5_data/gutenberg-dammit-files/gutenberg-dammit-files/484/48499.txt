@@ -1,0 +1,3760 @@
+[Frontispiece: Plate I. Occlusion of the Bile, and Pancreatic Ducts.]
+
+
+
+
+JAUNDICE: ITS PATHOLOGY AND TREATMENT.
+
+WITH THE APPLICATION OF PHYSIOLOGICAL CHEMISTRY TO THE DETECTION AND
+TREATMENT OF DISEASES OF THE LIVER AND PANCREAS.
+
+
+
+
+BY GEORGE HARLEY, M.D.,
+
+Professor of Medical Jurisprudence in University College, London;
+Assistant Physician to University College Hospital; Formerly President
+of the Parisian Medical Society; Cor. Memb. of the Academy of Sciences
+of Bavaria, and of the Royal Academy of Medicine of Madrid.
+
+
+
+
+So rapid is the advance of science, that the theory regarded as true
+to-day, may be recognised as false to-morrow. The facts, however, on
+which the theory is based, if rightly observed, remain unaltered, and
+unalterable.
+
+
+
+
+LONDON:
+WALTON AND MABERLY,
+UPPER GOWER STREET, AND IVY LANE, PATERNOSTER ROW.
+MDCCCLXIII.
+
+
+
+
+LONDON:
+WILLIAM STEVENS, PRINTER, 37, BELL YARD,
+TEMPLE BAR.
+
+
+
+
+TO
+
+WILLIAM SHARPEY, M.D., LL.D., F.R.S.,
+Professor of Anatomy and Physiology in University College, London,
+
+AS A SMALL TOKEN OF A COLLEAGUE'S ESTEEM FOR A PROFOUND THINKER, A
+SOUND REASONER, AND A TRUE FRIEND.
+
+
+
+
+PREFACE.
+
+
+"Time being money," quite as much to the professional as it is to the
+mercantile man, the author has endeavoured in the accompanying
+monograph not only to condense his material, but to exclude the
+consideration of any question not directly bearing upon the pathology
+or treatment of jaundice; indeed, as stated in the Introduction, one of
+the chief objects of the author having been to point out how valuable
+an adjunct modern physiological, and chemical knowledge is in the
+diagnosis, and treatment of hepatic and pancreatic disease, he has
+neither dwelt on the literature nor discussed the old theories of the
+mechanism of jaundice, but limited himself almost entirely to a brief
+exposition of his own views. For the sake of brevity, he has at page
+132 put into a tabular form the pathology of jaundice, according to the
+opinions expressed in the body of the volume.
+
+As the object of all theory, and the aim of all science, is to insure
+wise practice, the author desires to call special attention to that
+portion of the work devoted to the chemistry of the excretions,
+feeling, as he does, that we are entering upon the threshold of an
+important department of medical inquiry, which, sooner or later, will
+be followed by valuable practical results. He would also direct the
+special attention of his readers to the chapter devoted to treatment,
+being sanguine enough to imagine that the adoption of the principles he
+has enunciated regarding the mode of action, and administration of the
+remedies usually employed in hepatic affections, may conduce to a more
+rational and successful method of treatment than has hitherto been
+employed. He even goes far enough to hope that the result of the
+treatment, as shown in the cases cited, will not only justify the
+adoption of the principles on which it is founded, but also prove a
+strong incentive to others to follow the line of diagnosis he has
+striven to inculcate.
+
+In some portions of the volume the statements of the author may,
+perhaps, appear to be rather dogmatic; if so, he would remind his
+readers that this has arisen from the circumstance of so many old
+dogmas, and deeply-rooted prejudices having to be combated, for he is
+quite alive to the fact, that what we regard as scientific truth is in
+no case incontrovertible certitude, and that the deductions of to-day,
+in an advancing science like that of medicine, may require material
+alteration when viewed in the light of the morrow. But he is equally
+convinced of the fact, that if men fold their arms, and refrain from
+acting until every link in the chain of knowledge is forged, all
+progress will be arrested, and the day of certainty still further
+postponed.
+
+Too long have we reversed the natural order of things, and commenced
+the study of medicine where we ought rather to have left it off. Too
+long have we striven, by studying pathology ere we were sufficiently
+acquainted with physiology, to place the pyramid on its apex instead of
+on its base; and thus it is we remained so long ignorant of the
+fundamental doctrine, that the same laws which regulate health,
+regulate disease. Nature does nothing on a small scale, and the more we
+study her the more we admire the uniformity, and extensive
+applicability of her laws. If we pry into the ultimate structure of our
+bones, we find they receive their nutriment by a system of irrigation,
+carried on through lakes, and rivers (lacunæ, and canaliculi); and if
+we examine the periosteum surrounding them, the ligaments attaching
+them, or the muscles covering them, we still find, that,
+notwithstanding the diversity in structure, and use, the one system of
+irrigation pervades them all. We may even go a step further, and say
+that the same law which governs the animal governs also the vegetable
+kingdom. Indeed, the further science advances, the more apparent does
+it become, that not only the animal, and vegetable, but even the
+organic, and inorganic, form but one world, regulated by the same laws.
+
+A knowledge of organization, important though it be, is yet less
+indispensable to the physician than a knowledge of healthy function,
+for it is the latter which elucidates the dark problems of life, it is
+the latter which proves the golden key to the comprehension of disease.
+
+Although not even the most ardent admirers of medicine can say, that it
+as yet merits the name of an exact science, this ought neither to
+destroy our hopes nor trammel our labours. With the stethescope,
+microscope, and other physical means of diagnosis a new era dawned upon
+our art; and now the members of the new school which is rising up, and
+carrying chemistry into the domains of medicine, are the pioneers of
+the revolution which is soon to follow. If we look back to what the
+exact sciences of to-day were in former times, we shall find they were
+much less perfect then, than medicine is now. Astronomy and chemistry
+were but astrology and alchemy. If, then, we draw a picture of the
+future from the progress of the past, we need have no hesitation in
+saying that chemistry rightly applied, and physiology justly
+interpreted will, ere many generations pass away, reveal the deepest
+secrets of diseased action, and although unable to banish death, will
+yet enable the practitioner to follow with unerring certainty the
+various morbid changes occurring in the frame.
+
+77, HARLEY STREET, CAVENDISH SQUARE,
+  _March, 1863_.
+
+
+
+
+CONTENTS.
+
+                                                                   PAGE
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
+
+Pathological conditions with which jaundice is associated--Those
+    of the liver itself--Those of the bile-ducts--General
+    affections of other organs of the body exerting an influence
+    on the biliary secretion--Zymotic diseases--The effects of
+    certain poisons  . . . . . . . . . . . . . . . . . . . . . . .    3
+
+Frerichs's theory of jaundice--Theory of jaundice hitherto most
+    favoured in England--Dr. Budd as its exponent  . . . . . . . .    6
+
+Nature of bile--Biliverdine--Bile acids; glycocholic, and
+    taurocholic acids--Cholesterine--Bile resin--Sugar--Inorganic
+    constituents--Specific gravity, reaction, and colour of normal
+    bile . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+
+Manner in which bile is secreted--Liver both a formative and
+    excretive organ--Animals without gall-bladders--Effects of
+    food on the colour and quantity of the bile  . . . . . . . . .   11
+
+Is bile essential to life?--Effect on the system of absence of
+    bile in the digestive process--Death from starvation as a
+    result--Benefit derived from an additional quantity of
+    food--Uses of bile in the animal economy--Necessary to the
+    absorption and assimilation of food--Bile as a digestive
+    agent--Its action on the chyme--Experiments on its influence
+    over the absorption of fatty matter--Its relation to the
+    pancreatic juice--Bile taken internally by Caffres . . . . . .   13
+
+General view of the mechanism of jaundice--Two great
+    divisions--Jaundice from suppression, and jaundice from
+    re-absorption--1st subdivision: jaundice arising from
+    enervation, disordered hepatic circulation, and absence of
+    secreting substance--2nd subdivision: jaundice arising from
+    congenital deficiency of the bile-ducts, and from accidental
+    obstruction of the bile-ducts  . . . . . . . . . . . . . . . .   19
+
+General view of the pathology of jaundice from suppression,
+    showing how the coloration of the skin, and urine is produced
+    in such cases  . . . . . . . . . . . . . . . . . . . . . . . .   20
+
+Mechanism of jaundice as a result of enervation--Influence of
+    nervous system on secretion--Effect of mental emotion on
+    biliary secretion, as observed in dog with biliary
+    fistula--Action of fright in paralyzing nerve force  . . . . .   22
+
+Mechanism of jaundice from hepatic congestion--Active
+    congestion--General view of the effects of congestion on
+    glandular secretion--Reason why the biliary secretion is not
+    usually completely arrested--The absence of pipe-clay stools
+    explained--Example of jaundice from hepatic
+    congestion--Jaundice from zymotic disease, and other cases of
+    blood-poisoning, have a similar mechanism--Example of jaundice
+    following upon ague--Effect on the urine--Analysis of the
+    urine a clue to the nature of the case . . . . . . . . . . . .   24
+
+Passive congestion of the liver as a cause of jaundice--Cases
+    associated with heart disease, pneumonia, &c.--Explanation of
+    the reason why jaundice is so frequently absent in such cases    29
+
+Mechanism of jaundice arising from suppression consequent upon
+    absence of the secreting substance--Cancer, tubercle,
+    &c.--Effects of the position of the morbid deposit in
+    modifying the result . . . . . . . . . . . . . . . . . . . . .   31
+
+Jaundice arising from acute, or yellow atrophy of the liver--State
+    of the urine in such cases--Presence of
+    bile-acids--Pettenkofer's test--Tyrosine and leucine in the
+    urine--An example of the affection occurring in a young
+    woman--Exciting cause--State of the liver tissue--Poisonous
+    effects of glycocholate of soda injected into the circulation    34
+
+Mechanism of jaundice arising from the re-absorption of the
+    secreted but retained bile--Jaundice arising from a
+    congenital deficiency of the ducts--History of a case  . . . .   39
+
+Pathology of jaundice resulting from the accidental obstruction of
+    the bile-ducts--Mode of formation of gall-stones--Jaundice
+    only present when the stone is lodged in common duct--How
+    gall-stones may imperil life without inducing jaundice--Modes
+    of escape from the gall-bladder--Presence of foreign bodies,
+    such as cherry-stones in gall-duct--Jaundice arising from
+    hydatids impacted in the common duct . . . . . . . . . . . . .   42
+
+Mechanism of permanent jaundice from obstruction--Resulting from
+    organic disease--Cancer of head of pancreas--Effect of the
+    dilatation of the bile-ducts in the liver--Effect on the
+    nutrition of the parenchyma of liver--Different stages in
+    size through which the liver passes--Difficulties of
+    diagnosis--Cause often obscure--Key to its detection . . . . .   46
+
+Analysis of the intestinal secretion an aid to the diagnosis of
+    obscure cases of abdominal disease--Colour, nature, and
+    chemical composition of the stools--Changes produced in them
+    by different foods, and remedies . . . . . . . . . . . . . . .   51
+
+Examination of the renal secretion--Diagnostic value of the colour
+    of the urine--Colour produced by urohæmatin to be
+    distinguished from that produced by biliverdine--Simple method
+    of separating the pigment from the urine--Advantage of at the
+    same time ascertaining the quantity of uric acid
+    present--Effect of the bile pigment becoming deposited in the
+    kidneys--Production of secondary disease . . . . . . . . . . .   55
+
+Diagnostic value of the presence of the bile-acids in the
+    urine--Views of Frerichs, Städler, and Kühne--Hoppe's method
+    of detecting the bile-acids--Frerichs's theory of the
+    transformation of bile-acids into biliverdine shown to be
+    untenable  . . . . . . . . . . . . . . . . . . . . . . . . . .   58
+
+Diagnostic value of the presence of tyrosine, and leucine in the
+    urine--Microscopic appearances of these substances--Mode of
+    separating them from urine--Chemical tests . . . . . . . . . .   63
+
+Melanine in the urine in cases of cancer of the liver--The
+    characters by which it is to be distinguished from bile
+    pigment--Case related showing the value of the test  . . . . .   68
+
+Diagnostic value of ascertaining the quantity of urea, and uric
+    acid, as well as the presence of sugar in the urine in obscure
+    cases of jaundice--History of a case illustrating the value of
+    such knowledge--Significance of the presence of fatty acids in
+    the fæces in the diagnosis of pancreatic disease--Pancreatine
+    administered--Effect of bile-poisoning on the memory--Analysis
+    of the patient's urine--Diagnostic value of the quantity of
+    its constituents pointed out--Appearance of sugar as the
+    forerunner of a fatal termination alluded to--Disappearance of
+    bile-acids, and appearance of tyrosine and leucine in the
+    latter stages of the disease--Post-mortem appearances
+    described--Occlusion of bile, and pancreatic ducts--Analysis
+    of healthy and diseased bile--Change in the proportion of the
+    organic greater than in that of the inorganic
+    constituents--Microscopic appearances of liver--Presence of
+    crystals of cystine, as well as of tyrosine in the hepatic
+    parenchyma . . . . . . . . . . . . . . . . . . . . . . . . . .   70
+
+Jaundice from obstruction in its latter stage complicated with
+    jaundice from suppression  . . . . . . . . . . . . . . . . . .   89
+
+Epidemic jaundice--Among soldiers--Among pregnant women--Among the
+    entire civil population--Its mechanism--Its cause--Case of
+    jaundice supervening upon scarlatina . . . . . . . . . . . . .   90
+
+Artificial jaundice--Mode of production--Experiments
+    related--Tyrosine, and leucine supposed to be the result
+    either of the arrested, or of the retrograde metamorphosis of
+    glycocholic, and taurocholic acids--Biliary acids detected in
+    the blood--Poisonous nature of the constituents of the
+    bile--Condition of the blood in bile-poisoning . . . . . . . .   95
+
+Treatment of jaundice--Totally different in jaundice from
+    suppression and in jaundice from obstruction--Benefit of
+    mercury in cases of jaundice--General theory regarding the
+    action of mercurials--Benefit of acids, and of alkalies--Their
+    mode of action explained--Theory of their action in cases of
+    gall-stones--Lithia water--Treatment of jaundice by benzoic
+    acid--Cases illustrating its mode of action--Podophyllin a
+    bane, and an antidote in cases of jaundice--Its pernicious
+    effects in cases of obstruction pointed out--Author's theory
+    of its action in such cases--Method of detecting gall-stones
+    in the stools--Sulphuric ether, and chloroform in cases of
+    gall-stones--Taraxacum . . . . . . . . . . . . . . . . . . . .  101
+
+Difficulties in the treatment of jaundice from obstruction pointed
+    out--Derangements arising from absence of bile in the
+    digestive process--Good effects of an additional quantity of
+    food--Establishment of an artificial biliary fistula shown to
+    be less hazardous than usually imagined--Mode of operation
+    explained--Treatment of permanent jaundice by prepared
+    bile--New mode of preparing bile pointed out--Theory of its
+    action--Time of administration shown to be of much
+    importance--Bile put into capsules--Benefits derived from bile
+    given in this form . . . . . . . . . . . . . . . . . . . . . .  122
+
+Tabular view of the pathology of jaundice according to the
+    author's views . . . . . . . . . . . . . . . . . . . . . . . .  132
+
+INDEX  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  133
+
+
+
+
+DESCRIPTION OF PLATES AND WOODCUTS.
+
+
+PLATE I.
+
+Represents the condition of the parts in a fatal case of permanent
+jaundice, in which both the bile, and pancreatic ducts were completely
+occluded.
+
+_(a)_ Atrophied liver.
+
+_(b)_ Transverse section of the left lobe, showing the mouths of the
+enormously distended gall-ducts.
+
+_(c)_ Enlarged gall-bladder.
+
+_(d)_ Dilated cystic duct.
+
+_(e)_ Distended hepatic, and common duct.
+
+_(f)_ Ulceration in duodenum, in the situation of the opening of the
+gall-duct into the intestines.
+
+_(g)_ Pancreas with enlarged head _(h)_, and enormously distended duct.
+
+
+PLATE II.
+
+External surface of the left kidney, denuded of its capsule, in a case
+of permanent jaundice.
+
+_(a)_ Small specks of bile pigment deposited in the renal tissue, and
+blocking up the urine tubes.
+
+_(b)_ Small abscesses scattered throughout the tissue of the kidney.
+
+
+WOODCUTS.
+
+
+Fig. 1. Crystals of glycocholate of soda, mag. 90 diam.--Page 8.
+
+ "   2. Taurocholate of soda, as found in the form of globules of
+          various sizes.--Page 9.
+
+ "   3. Crystals of cholesterine.--Page 9.
+
+ "   4. Crystals of pure tyrosine.--Page 63.
+
+ "   5. Spiculated balls of tyrosine, from the urine of a case of acute
+          atrophy of the liver.--Page 64.
+
+ "   6. Globules of leucine.--Page 66.
+
+ "   7. Cholesterine crystals.--Page 82.
+
+ "   8. _(a)_ Crystals of cystine.
+        _(b)_ Hepatic cells, showing entire absence of fat globules.
+        _(c)_ Caudate or spindle-shaped cells, from epithelial lining
+                of hepatic ducts.--Page 86.
+
+
+{1}
+
+JAUNDICE: ITS PATHOLOGY AND TREATMENT.
+
+
+
+
+INTRODUCTION.
+
+
+Having entitled this monograph "Jaundice, its Pathology and Treatment,"
+it may, perhaps, be necessary for me to state at the beginning that by
+so doing it is not to be supposed that I regard jaundice as a disease
+_per se_. On the contrary, I look upon it in the same light as I do
+albuminuria, which is not of itself a disease, but only the most
+prominent symptom of several widely-differing pathological conditions.
+So also the peculiar state of body characterised by yellow skin,
+saffron-coloured urine, and pipe-clay stools, is itself but a symptom
+of morbid action. It may be asked, "Then why do you treat of jaundice
+as if it were a disease?" To this I reply, "Because, although {2} the
+condition called jaundice be merely a manifestation of morbid action,
+and one, too, requiring neither skill nor experience to detect, the
+proper comprehension of its true mechanism is of much practical
+importance to the physician, for without this knowledge it is
+impossible for him to treat it with any chance of success. Nay, even
+the remedies for jaundice become dangerous weapons, if unskilfully
+applied." In fact, it is almost unnecessary to apologise for treating
+of jaundice as a disease _per se_; for, notwithstanding all that has
+been written upon the subject, it is universally admitted that the
+simplicity of its diagnosis is only equalled by the obscurity of its
+pathology, and the uncertainty of its treatment; and no one at all
+conversant with the literature of jaundice can be in the least degree
+surprised at this statement. On the contrary, on glancing at the
+immense variety of morbid states, and known pathological conditions
+with which it is associated, he cannot fail to admit its truth.
+
+Some of the pathological conditions are closely allied; others are
+widely separated--so widely, indeed, that at first sight it is
+impossible to discover from whence emanates the common symptom. We find
+jaundice connected with diseases of the liver, of the neighbouring
+organs, and of the general system. In some diseased conditions, {3}
+jaundice presents itself when least expected. At other times it is
+absent when, apparently, it ought to be present. On the other hand,
+again, there are cases in which jaundice is evidently merely a symptom,
+and others in which it seems to be in itself the disease. We have
+temporary jaundice from transient derangements, and we have permanent
+jaundice from stationary causes. There are cases in which the cause of
+jaundice is visible after death to the naked eye. There are others
+where the minutest research is baffled in ascertaining the cause. That
+this is no exaggerated view of the case the following table will
+show:--
+
+               JAUNDICE IS MET WITH,
+    Firstly, IN DISEASES AFFECTING THE LIVER--
+  _(a)_ Cancer.
+  _(b)_ Tubercle.
+  _(c)_ Cirrhosis.
+  _(d)_ Inflammation.
+  _(e)_ Atrophy.
+  _(f)_ Amyloid, and
+  _(g)_ Fatty degeneration.
+
+    Secondly, IN DISEASES OF THE BILE-DUCTS--
+  _(a)_ Congenital deficiency.
+  _(b)_ Accidental obstruction. The latter arising from gall-stones,
+          hydatids, foreign bodies {4} (such as cherry-stones and
+          entozoa) entering from the intestines.
+  _(c)_ Ulcer of the duodenum.
+  _(d)_ Tumours of the pancreas.
+
+    Thirdly, IN AFFECTIONS OF OTHER ORGANS OF THE BODY EXERTING AN
+    INFLUENCE ON THE BILIARY SECRETION--
+  _(a)_ Diseases of the nervous system.
+  _(b)_ Diseases of the lungs.
+  _(c)_ Diseases of the heart.
+  _(d)_ Imperfect establishment of the extra-uterine circulation
+          (infantile jaundice).
+  _(e)_ Dyspepsia.
+  _(f)_ Torpidity of the bowels, and consequent accumulation of fæces
+          in transverse colon.
+  _(g)_ Pregnancy.
+
+    Fourthly, IN A VARIETY OF ZYMOTIC DISEASES--
+  _(a)_ Typhus.
+  _(b)_ Yellow fever.
+  _(c)_ Ague.
+  _(d)_ Pyæmia.
+  _(e)_ Epidemic jaundice.
+
+    Fifthly, AS A RESULT OF THE INJURIOUS EFFECTS OF CERTAIN POISONS--
+  _(a)_ Snake bites. {5}
+  _(b)_ Alcohol.
+  _(c)_ Chloroform, etc.
+
+Can it be wondered, then, that a state so easily diagnosed is
+nevertheless so difficult to comprehend?
+
+Notwithstanding the apparent incongruity of the diseases with which the
+one common symptom of jaundice is associated, I trust to be able to
+reconcile these discrepancies, and prove that the seeming discord is
+but "harmony not understood."
+
+All physicians, I think, admit that the peculiar state of the system to
+which the name of jaundice has been applied, is essentially due to some
+derangement of the biliary function, the exact nature of the
+derangement being alone the point of contention. I need not, therefore,
+waste the time of my readers, either by giving an account of the
+literature or a detail of the symptoms of jaundice. Even in discussing
+its pathology, I shall strictly limit myself to the consideration of
+the opinions at present held by the more advanced of our pathologists;
+the object of this monograph being, not to pourtray the views of
+others, but to give a brief _exposé_ of my own, and to point out how
+modern physiology, and chemistry have not only thrown a new light on
+its pathology, but have also given us a clue to its successful
+treatment.
+
+{6} Frerichs, the most recent writer on this subject, in his elaborate
+treatise on diseases of the liver, says that jaundice may result from
+one of the three following conditions:--
+
+Firstly,--Obstruction to the escape of bile.
+
+Secondly,--Diminished circulation of blood in the liver, and consequent
+abnormal diffusion; both of these conditions giving rise to an
+increased imbibition of bile into the blood, and in both cases the
+liver being more or less directly implicated.
+
+Thirdly,--Obstructed metamorphosis, or a diminished consumption of bile
+in the blood.[1]
+
+[Footnote 1: Frerichs' "Clinical Treatises on Diseases of the Liver."
+New Sydenham Society's Translation, vol. i. p. 93.]
+
+From this it is seen, that the pathology of jaundice, according to
+Frerichs, is very different from what we were formerly taught. For
+while he has entirely laid aside the theory of jaundice as a result of
+suppressed secretion, he has introduced two perfectly new
+elements--namely, abnormal diffusion, and diminished consumption. The
+latter theory, being, of course, founded on the supposition that bile,
+after playing its part in the digestive process, is re-absorbed into
+the circulation, again to perform another function in the animal
+economy, before its final excretion from the organism as effete matter.
+The theory of jaundice, hitherto most favoured in England, and which
+found {7} such an able exponent in Dr. Budd, is, that the disease may
+arise in two ways--firstly, by a mechanical obstruction to the passage
+of bile into the intestines, and the consequent re-absorption of the
+detained fluid into the blood; and secondly, by a suppression of the
+biliary secretion arising from some morbid condition of the liver
+itself, whereby the biliary ingredients accumulate in the circulation.
+Now, although I am not prepared to admit the justice of the views held
+regarding the origin and function of bile, on which these opinions are
+based, I nevertheless believe that in the following pages I shall be
+able, by the aid of modern medical science, to prove the correctness of
+the conclusions themselves. In order to do this, however, it will be
+necessary for me to begin by making a few remarks on the nature of
+bile, and the physiology of its secretion.
+
+
+ON THE NATURE OF BILE.
+
+In a few words, bile may be said to be composed of the following
+substances:--
+
+Firstly,--Biliverdine, a green nitrogenized, non-crystallizable
+colouring matter, analogous to the green colouring matter of plants,
+and like it, leaving on incineration a distinctly ferruginous ash. This
+colouring matter appears, like {8} urohæmatine, and all other animal
+pigments, to be a direct derivative of the colouring matter of the
+blood.[2]
+
+[Footnote 2: _Vide_ papers by the author on the colouring matter of the
+urine, Pharm. Journ., November, 1852. "Urohæmatine, and its combination
+with animal resin." Verh. d. Phys.-Med. Gesellschaft zu Wurzburg, Bd.
+V. 1854.]
+
+[Illustration: FIG. 1. Crystals of Glycocholate of soda, a beautiful
+polariscopic object. _(a)_ Fine needle-shaped crystals, separated from
+a rosette-shaped group. _(b)_ Small rosette of crystals. _(c)_
+Fan-shaped groups of crystals, which are merely portions of large
+rosettes that have become broken up. _(d)_ A fragment of a bundle of
+needle-shaped crystals. Mag. 90 diam.]
+
+Secondly,--Two peculiar substances, named respectively, glycocholic,
+and taurocholic acid--the former yielding, when in combination with
+soda, a crystallizable, the latter a non-crystallizable salt.
+Taurocholic differs still further from glycocholic acid, in containing
+a large percentage of sulphur, {9} and being, under the influence of
+hydrochloric acid, convertible into taurine, a beautiful white
+crystalline substance.
+
+[Illustration: FIG. 2. Taurocholate of soda is found in the form of
+fatty-looking globules of various sizes. They differ from fat and oil
+globules, however, in being soluble in water, and insoluble in alcohol
+and ether.]
+
+Thirdly,--Cholesterine, a crystalline, fatty matter, not, however,
+peculiar to bile, but found in various tissues, and secretions of the
+body.
+
+[Illustration: FIG. 3. Cholesterine crystals appear in the form of fine
+transparent four-sided plates of various sizes and shapes. The crystals
+are freely soluble in hot alcohol, from which they are re-deposited on
+cooling.]
+
+{10} Fourthly,--A brown resinous substance resembling, in appearance
+and consistence, shoemaker's wax.
+
+Fifthly,--Among the constituents of the bile, I may mention sugar, for
+both in the normal bile of man, and of the lower animals, the ox, and
+the dog, I have detected that substance. On one occasion, I even found
+torulæ in the bile twenty-four hours after its removal from the
+gall-bladder of a healthy dog.
+
+Sixthly, and lastly,--a quantity of inorganic matter, consisting
+chiefly of soda, potash, and iron.
+
+The specific gravity of bile fluctuates, of course, with the percentage
+of solid matter it contains. From my own observations, I consider that
+healthy human bile has an average specific gravity of 1020, and
+contains about six per cent. of solid matter, five per cent. of which
+is organic, and one per cent. inorganic substance. When fresh, bile is
+almost neutral; but it rapidly undergoes decomposition, and becomes
+alkaline.
+
+In colour, human bile is usually of a brownish yellow hue; the colour,
+however, varies with its degree of concentration, the kind of food
+taken, and the state of the system. As regards the effect of food, if
+we may be allowed to form an opinion from experiments on dogs, it may
+be said that, as a {11} rule, animal food tends to give bile a yellow,
+vegetable food a green, tint.
+
+Next, as regards the manner in which bile is secreted. For a long time
+it was thought, and, indeed, some people still think, that bile exists
+pre-formed in the blood, and that the liver only excretes it, as the
+kidneys excrete the urinary ingredients. Another class, running to the
+opposite extreme, believe that the liver is not merely the excretive,
+but also the formative organ of the bile. It appears to me, however,
+that neither of these extreme views is correct, and that the truth lies
+between the two.
+
+It is, in fact, not at all difficult to prove that the liver
+manufactures certain biliary constituents, while it merely excretes
+others. Thus, for example, the two substances glycocholic and
+taurocholic acids are never to be found either in the blood, tissues,
+or fluids of the healthy organism, with the single exception of those
+of the liver and gall-bladder; and after extirpation of the liver
+neither acid is to be found in the body at all. On the other hand, such
+substances as cholesterine and biliverdine, are not peculiar to the
+liver or its secretion, but are the products of several organs, and are
+always to be detected in the blood, independently of the presence or
+absence of the liver. These facts, therefore, clearly show that the
+liver {12} is both a formative and excretive organ to some, and an
+excretive only to others, of the biliary constituents.
+
+Lastly, the general opinion is that the secretion intermits, and, like
+the gastric, and pancreatic juices, bile is only formed during
+digestion. Were it so, however, where would be the necessity for a
+gall-bladder? Is it not to store up the secretion formed in the
+intervals of digestion, and to retain it until it is required? No doubt
+there are several animals, such as the horse, and the deer, that
+possess no gall-bladders; but there is undoubtedly in them some special
+arrangement of the digestive apparatus, rendering the presence of a
+gall-bladder unnecessary. In fact, it is easily shown that the biliary
+secretion in ordinary cases is continuous; for if in an animal
+possessing a gall-bladder a biliary fistula be established, and the
+secretion of bile carefully watched, it will be found that at no period
+of the day does it entirely intermit, although it is more active at one
+time than at another, the minimum of its activity being during
+sleep--the maximum during active digestion. The absolute quantity of
+bile secreted in the twenty-four hours is tolerably uniform, although
+the daily amount is slightly influenced by the kind of food.[3]
+
+[Footnote 3: Arnold found that dogs secreted more bile on a bread, than
+on an animal diet. "Zur Physiologie der Galle," Mannheim, 1854.]
+
+
+{13} IS BILE ESSENTIAL TO LIFE?
+
+Several physiologists have given it as their opinion that bile is not
+essential to life, for animals have lived for many months after the
+artificial establishment of a biliary fistula, through which the bile
+was allowed to flow away, and be lost to the animal. Now, although this
+is perfectly true, yet it is at the same time evident that the uses of
+the bile cannot altogether be dispensed with, for all the animals with
+a biliary fistula lose flesh, become emaciated, and weak; the hair has
+a tendency to fall off, the bowels to become irregular; and a great and
+an almost constant discharge of foul-smelling gases takes place from
+the intestinal canal. At length, after a shorter or longer period, the
+animal sinks, and dies. The fatal termination can, however, be retarded
+by allowing him an additional quantity of nourishing food, for death
+from want of bile, as is too often seen in the human subject, is
+nothing else than death from slow starvation. The fact just related
+regarding the beneficial effects of an additional quantity of food in
+prolonging life, should never be lost sight of in the treatment of
+cases of obstruction of the gall-ducts, for, by attending to this
+circumstance, it is often in the power of the medical man to keep his
+patient alive for a considerable length of time.
+
+{14} It may perhaps not be out of place if I here briefly enumerate the
+chief uses of bile in the animal economy. In order to live, not only
+must the individual particles of our frames die, but they must be
+continually replaced by new materials of a similar kind; and for the
+accomplishment of this important end, nature has endowed animals with a
+digestive apparatus in which their food undergoes the various physical,
+and chemical changes necessary to its absorption, and assimilation. In
+the animal laboratory or digestive apparatus there are five important
+agents constantly at work--saliva, gastric juice, bile, pancreatic
+fluid, and intestinal secretion, and each of these agents has a special
+and definite office to perform in the elaboration of the food.[4] At
+present, however, I must limit myself entirely to the consideration of
+bile.
+
+[Footnote 4: For an explanation of these offices, see the author's
+article on "The Chemistry of Digestion," in the "British and Foreign
+Quarterly Review," January, 1860.]
+
+Bile is the first digestive agent with which the food comes in contact
+on leaving the stomach and entering the intestines, and immediately on
+the acid chyme mixing with the alkaline bile, a white flocculent
+emulsion is formed, which emulsion has been described by many writers
+as a precipitation of the albuminose (digested albumen). Later {15}
+researches by myself and others have, however, shown that it is not the
+bile which precipitates the albuminose, but the acid of the chyme,
+which in reality sets free certain ingredients of the alkaline bile. In
+the majority of cases there is not even a true precipitation, for on
+throwing the milky-looking mixture upon a filter, I found that almost
+nothing remained behind, and the filtrate was nearly as white as the
+original liquid. Further, if the albuminose be separated from the
+chyme, and the chyme then brought into contact with the bile, the same
+flocculent-looking milkiness still appears. Nay, more, on adding equal
+parts of sheep's bile (fresh) to gastric juice drawn from a dog's
+stomach in full digestion, the apparent flocculent precipitate still
+appeared, although the acidity of the gastric juice remained
+unneutralized; and on throwing the whole into a filter, I found that
+the liquid that drained through was as milky and flocculent-looking as
+the original. The office of bile in the digestive process is neither to
+act on the albuminous[5] nor amylaceous portions {16} of our food; its
+chief action being to assist in the absorption of fats. When bile is
+mixed with neutral fat, little change is observed, but when brought in
+contact with the fatty acids, an immediate emulsion takes place. Lenz
+and Marcet[6] pointed out how the neutral fats of our food are
+transformed into fatty acids during their sojourn in the stomach; and
+Bidder and Schmidt[7] illustrated by experiments on dogs the important
+part played by the bile in their absorption. A dog, which in its normal
+condition absorbed on an average 7 grains of fat for every 2 pounds of
+its weight, absorbed only 3, or even as little as 1 grain, after the
+bile was prevented entering the intestines, in consequence of a
+ligature being applied to the gall-duct.
+
+[Footnote 5: In speaking of the properties of the bile, I may mention
+that, although bile has no digestive power (properly speaking) over
+albuminous substances, yet, when injected into the subcutaneous
+cellular tissue of a healthy animal, it eats its way out through the
+skin, just as gastric juice or lactic acid does under similar
+circumstances. Even the muscles with which it comes in contact appear
+to be eaten away.]
+
+[Footnote 6: _Vide_ a Discourse on the Chemistry of Digestion, by Dr.
+Marcet. Journ. of the Chem. Soc., Oct. 1862.]
+
+[Footnote 7: "Die Verdauungssaefte und der Stoffwechsel." Leipzig,
+1852.]
+
+Further, these last-named observers found that, while the chyle in the
+thoracic duct of a healthy dog contains 32 parts of fat per thousand,
+that in the thoracic duct of a dog with a ligatured gall-duct, contains
+only 2 parts per thousand. These facts clearly prove that bile plays an
+important part in the absorption of the fatty portion of our food. Next
+comes the question, "In what manner does bile aid in the absorption of
+fatty matter?" {17} As is well known, fats or oils have no tendency to
+mix with water, and hence diosmose between an aqueous and an oily fluid
+is next to impossible. Matteucci has, however, shown that if an animal
+membrane be moistened on both sides with a weak solution of potash, it
+allows oil to pass through it. It has also been observed, that when the
+intestine is moistened with bile, it allows oil to pass through, which
+would not otherwise be the case. To illustrate this property of bile, I
+performed the following experiments:--
+
+Firstly,--A clean piece of duodenum was filled with oil, ligatured at
+both ends, and suspended in water, holding in solution a small quantity
+of albumen. (The albumen was added to the water merely to imitate
+slightly the albuminous blood.) On examination, twenty-four hours
+later, no oil was found to have escaped through the intestinal walls.
+
+Secondly,--A second portion of intestine had its internal surface
+moistened with sheep's bile before the introduction of the oil. It was
+then treated in the same manner as the preceding, and on being examined
+after the lapse of twenty-four hours, a small quantity of the oil was
+found to have penetrated through the intestine.
+
+Thirdly,--Into a third portion of intestine was poured equal parts of
+sheep's bile, and chyme obtained from a dog in full digestion, through
+a {18} fistulous opening into its stomach. After being treated for the
+same length of time, and in precisely the same manner as the others,
+evident signs of the oily matters of the chyme having passed through
+the walls of the intestine were obtained, for they were seen as a scum
+floating on the surface of the albuminous water. Moreover, the fatty
+matters were not in the form of pure oil, but of a soapy substance.
+
+The bile is thus seen to possess one of the more remarkable properties
+of the pancreatic juice. There is this important difference between the
+action of these two secretions on fats, however, that while bile merely
+emulsions and saponifies that portion of our food which enters the
+duodenum in the form of fatty acids, pancreatic juice, on the other
+hand, possesses the power, not only of emulsioning and saponifying the
+fatty acids, but also the neutral fats; indeed, its power seems chiefly
+to be exerted upon the latter. Hence it appears that both secretions
+are in a measure necessary to the complete digestion and absorption of
+the oleaginous constituents of our food.
+
+On one occasion, while experimenting with bile at University College, I
+was surprised to hear Minton, the servant who was assisting me, say,
+that while he was travelling with Sir Andrew Smith in South Africa, he
+had oftentimes seen the {19} Caffres drink bile direct from the
+gall-bladders of the animals killed by the European party, and that,
+while passing the gall-bladder round to each other, they would rub
+their stomachs and say,--"Mooé-ka-kolla," signifying thereby, that it
+was very good. It certainly seems very extraordinary that any human
+being should not only drink, but drink with pleasure, a liquid so
+bitter and nauseating as bile. Perhaps the poor Caffres, however, drank
+the sickening tasted bile for the same reasons as the cattle in
+Caffreland, at certain periods of the year, go thousands of miles to
+drink at the salt-springs. There being scarcely any chloride of sodium
+in the earth, there is insufficient for the animal requirements in the
+herbage on which they feed, and they are forced to supply the
+deficiency by artificial means. Bile contains a large percentage of
+soda, and perhaps the Caffres drink it in order to obtain that
+substance, just as the animals drink the brackish water of the salt
+licks, feeling that it agrees with them, without knowing why.
+
+
+THE MECHANISM OF JAUNDICE.
+
+As said in the beginning of this paper, I believe, the pathology of
+jaundice may be embodied under the two heads, jaundice from suppression
+{20} of the biliary functions, and jaundice from re-absorption of the
+secreted but retained bile. These are at best, however, but vague
+terms, and in order to make the pathology of jaundice somewhat more
+definite it will be necessary for me to subdivide these two great
+classes in the following manner:--
+
+  (CLASS A.)--JAUNDICE FROM SUPPRESSION.
+              Arising from:--
+    (1) Enervation.
+    (2) Disordered hepatic circulation.
+    (3) Absence of secreting substance.
+
+  (CLASS B.)--JAUNDICE FROM RE-ABSORPTION.
+              Arising from:--
+    (1) Congenital deficiency of bile-ducts.
+    (2) Accidental obstruction of bile-ducts.
+
+I shall now try to point out the pathology of these different states,
+and see how far they are able to explain the occurrence of jaundice
+under the various conditions already alluded to.
+
+
+JAUNDICE FROM SUPPRESSION.
+
+Although there can be no misunderstanding the meaning of the term
+"jaundice from suppression," there may, nevertheless, be some
+difficulty in comprehending how the skin becomes yellow, and the urine
+high coloured, when the secretion {21} of bile is arrested. In order to
+explain how this occurs, it will be necessary to recall to mind what
+was said regarding the nature of the biliary secretion. It will be
+remembered that I began by saying, that while some of the constituents
+of the bile are generated in the liver itself, there are others that
+exist, pre-formed in the blood.
+
+If this view of the physiology of the biliary secretion be correct, it
+is perfectly evident that when the secretion of bile is arrested, those
+substances which the liver generates will be entirely wanting, while
+those which it merely excretes from the blood will accumulate there as
+soon as their excretion is prevented; just as urea accumulates in the
+circulation when its elimination by the kidneys is stopped. Hence it is
+that, as soon as the biliary secretion is in abeyance, biliverdine
+accumulates in the blood (until the serum is as it were completely
+saturated with the pigment), from which it exudes and stains the
+tissues, and produces the colour we term jaundice. At the same time, or
+even before the skin becomes yellow, the urine assumes a saffron tint
+in consequence of the elimination of the colouring matter by the
+kidneys.[8] From this it will be seen that I regard {22} the yellow
+skin and high-coloured urine of jaundice as simply due to the deranged
+secretion of biliverdine, quite independent of the presence or absence
+of the other constituents of the bile, the effects produced by which
+will be referred to elsewhere. Meanwhile we shall separately consider
+the further pathology of the three subdivisions of jaundice arising
+from suppression.
+
+[Footnote 8: The true order of the occurrence of these changes is:--On
+the second day the urine becomes high-coloured; in a day or two later
+the skin assumes a yellow tint; and, in very severe cases, within the
+first week or two, the sweat, the milk, the tears, the sputa, and the
+serum in the thoracic and abdominal cavities, become of a more or less
+decided yellow hue.]
+
+
+JAUNDICE AS A RESULT OF ENERVATION.
+
+It is now a well-established fact that all secretions are under the
+direct influence of the nervous system. Stimulate a nerve supplying a
+gland, and secretion is accelerated; stop the nervous action, and
+secretion is as instantaneously arrested. Again, just in the same way
+as volition can produce or suspend muscular movement, mental influence
+can hasten or retard glandular secretion. As an illustration of this
+fact, I need only call to mind the influence the mere sight of food has
+in exciting the salivary secretion, and the effect of bad news in
+arresting it. Exactly the same influence as is here alluded to, is
+exerted by the mind over the biliary function. If, for example, {23} as
+Bernard first observed, a dog with a biliary fistula be caressed, the
+secretion of bile is actively continued; if, on the other hand, the
+animal be suddenly ill-used, the secretion of bile is instantly
+arrested. If he be again caressed, the secretion is re-established, and
+the bile flows drop by drop from the end of the cannula. Here the
+influence is entirely produced through the intervention of the nervous
+system; and if such effects as are above described occur in the dog, we
+can surely have little difficulty in understanding how the biliary
+secretion can be influenced in the highly-developed organization of the
+human being. Indeed, every one must have felt how quickly sad tidings
+received during a meal not only destroy the appetite and retard
+digestion, but occasionally alter the complexion. This effect, that all
+of us must have experienced in a slight degree in our own persons,
+several may have observed to a greater extent in the persons of others,
+even to the production of well-marked jaundice. At this very time I
+have under my care a young married lady, who during the last two years
+has twice suffered from an attack of jaundice induced by witnessing her
+child in convulsions, and this I regard as an example of jaundice from
+enervation.
+
+One of the reasons, no doubt, why jaundice does not more frequently
+follow upon mental emotion is {24} simply on account of a certain
+amount of pigment being required in order to produce a visible tinging
+of the body, and it seldom happens that the emotional effect on the
+biliary secretion is sufficiently permanent to permit of the requisite
+amount of pigment accumulating in the blood. The reason, too, why
+mental emotion is more apt to cause jaundice immediately after a meal
+is, as will afterwards be better understood, on account of the
+congested state of the liver at that time favouring the stoppage of the
+secretion. A blow on the head, which is now and then observed to be
+suddenly followed by jaundice, acts, I believe, in the same way as
+fright, namely, by paralyzing the nerve force required for the
+continuance of the biliary secretion.
+
+I now pass on to the consideration of the pathology of the second kind
+of jaundice from suppression, namely, jaundice resulting from hepatic
+congestion.
+
+
+JAUNDICE ARISING FROM HEPATIC CONGESTION.
+
+This is one of the most common causes of the disease; but as there are
+two kinds of hepatic congestion--active and passive--it will be
+necessary for me to make a further subdivision, and consider each of
+these separately.
+
+
+{25} _Jaundice the Result of Active Congestion._
+
+The mechanism of jaundice resulting from active congestion of the liver
+is readily explained on physiological grounds.
+
+The congested condition of any gland is unfavourable to secretion. We
+all know, for example, that congestion of the kidney is accompanied by
+a suppression of the urinary secretion, and that the secretion is
+re-established as the congested condition of the organ diminishes. The
+suppression of the renal secretion is no doubt due to the engorged
+capillaries pressing upon the secreting structure, and ultimate
+ramifications of the urine tubes, and thereby annulling their
+functions. A similar explanation is equally applicable to the biliary
+secretion; and just as it happens in the case of the kidney, that it is
+exceedingly rare for a total suppression of its functions to take
+place, so with the liver it seldom happens that the congestion is
+sufficiently severe to induce complete arrest of the biliary secretion.
+We find, therefore, that although there may be yellowness of the skin
+and high-coloured urine in such cases, pipe-clay stools are frequently
+absent, sufficient bile to tinge the fæces still finding its way into
+the intestines.
+
+Undoubtedly it must have occurred to many of my readers, that jaundice
+is frequently absent in {26} cases of acute inflammation of the liver,
+even running on to suppuration, and that the foregoing theory of the
+pathology of such cases is therefore insufficient. At one time I was
+puzzled to explain this apparent anomaly, but on subsequent
+investigation the true cause became apparent, and instead of the above
+fact detracting from, it tended rather to strengthen the theory. If,
+for example, we closely examine cases of acute hepatitis without
+jaundice, we find they are those in which only a portion of the liver
+is affected. It matters not whether it be one lobe or two, the surface
+or the centre of the organ, the disease is invariably circumscribed;
+and there is enough hepatic tissue left in a sufficiently normal
+condition to prevent the constituents of the bile accumulating in the
+blood, and producing jaundice. This may even occur, as I have myself
+observed, when the disease has run on to suppuration.
+
+The most typical example of jaundice as the result of active
+congestion, is to be found in those cases where it supervenes on an
+attack of hepatitis, such as is met with in hot climates, where
+indolent habits and high living favour portal congestion. It is
+occasionally met with in England, however, and is frequently associated
+with gastric derangement.
+
+I had occasion to witness a good example of {27} this form of disease
+in the person of a French gentleman, who was brought to me seven days
+after his arrival in England, on account of his skin having assumed a
+most intense yellow hue. It appeared that he had come to England on a
+visit to some of his friends, and rather enjoying the novelty of an
+English table, indulged too freely in a quantity and quality of food to
+which he had hitherto been a stranger. The consequence was, that within
+three days after his arrival he began to suffer from hepatic
+tenderness, and dyspeptic symptoms; the skin at the same time assumed a
+dusky hue, which soon merged into a decided yellowness. These symptoms
+were accompanied by pipe-clay stools and saffron-coloured urine; on the
+latter being tested it gave a distinct bile pigment, but no bile acid
+reaction--a point which I shall afterwards have occasion to show, is of
+a certain diagnostic value in obscure cases of jaundice. This
+gentleman, under the influence of benzoic acid, perfectly recovered his
+normal complexion in the short space of a week.
+
+There is another form of jaundice from active congestion, viz., that
+due to the presence of zymotic disease, such as ague, typhus, and other
+fevers. As an illustration of this kind of affection, I shall cite one
+arising from the first of these causes, namely, ague. And the best
+example I {28} can give is one that has recently fallen under my
+notice, and which occurred in the person of a member of our own
+profession. The gentleman was for several years surgeon to one of our
+large colonial hospitals, but in consequence of repeated attacks of
+intermittent fever, was forced to resign the appointment, as well as a
+lucrative practice, and return to England. He has now been at home for
+two years, and although his general health has much improved, still
+suffers from occasional attacks of his old enemy. On consulting me
+regarding his case several months ago, he mentioned, that while
+suffering from the above-named attacks, he occasionally suddenly passed
+five or six ounces of urine as dark as chocolate, and this would recur
+perhaps once in twenty-four hours, during two or three days, and then
+as suddenly disappear. This urinary symptom being an unusual one, I
+requested him to send me on the next occasion a specimen of the fluid.
+In the beginning of last November[9] I received three samples of urine,
+one passed at eight A.M., which was clear, pale, of a specific gravity
+of 1025, of an acid reaction, deposited no lithates, and contained no
+albumen, being in fact normal in every respect; another quantity passed
+at two P.M., of {29} a chocolate brown colour, opaque, turbid, having a
+specific gravity of 1032, of an acid reaction, depositing lithates,
+containing albumen,[10] some sugar, and a large excess of urea (3·6 per
+cent.) and urohæmatine; a third sample passed at night, of a specific
+gravity of 1021, also with an acid reaction, depositing lithates in
+small quantity, but containing no albumen. The percentage of urea in
+this urine was exactly one-half (namely, 1·8) of what it was in the
+preceding specimen passed at two P.M.
+
+[Footnote 9: This was written last year, and therefore refers to
+November, 1861.]
+
+[Footnote 10: When examined with the microscope, this specimen of urine
+was found to contain a large quantity of nucleated epithelium, and
+granular cells; free granules of a hæmatine colour, granular
+tube-casts, and a quantity of mucus; while the morning and evening
+urines were perfectly free of any such substances.]
+
+The varying conditions of these three urines clearly pointed to intense
+congestion of the chylopoietic viscera, of a transient and periodic
+character. Suiting the practice to the theory, mercurials were taken by
+this gentleman in order to remove the congestion of the chylopoietic
+viscera, and with the most favourable results, for, as I afterwards
+learned, the jaundice and other disagreeable symptoms soon disappeared.
+
+
+_Jaundice the Result of Passive Congestion of the Liver._
+
+In this case the congestion, instead of arising from an increased flow
+of blood to the liver, as {30} in the preceding, is the result of some
+cause impeding the outward flow of blood from the liver. Thus for
+example, passive hepatic congestion may arise from valvular disease of
+the heart, or from any pulmonary affection obstructing the circulation
+of blood through the lungs (pneumonia, &c.). Jaundice from the passive
+form of hepatic congestion, is not so common as jaundice from the
+active form, in consequence of the former being, as a rule, much
+slighter than the latter. Its pathology is, however, I believe, exactly
+the same, viz. the result of the engorged hepatic capillaries
+compressing the secreting cells and tubes, and thereby annulling their
+functions. Such being the case, it is unnecessary for me to do more
+than merely allude to this cause of jaundice.
+
+It may, perhaps, be asked--"If the foregoing statements regarding the
+pathology of jaundice from congestion be correct, how does it happen
+that it is not present in every severe case of gastric derangement,
+fever, heart-disease, &c.?" This question is easily answered, for as
+Dr. Budd has clearly put it, while speaking of the action of medicines
+upon the liver--"In most persons, perhaps, a portion of the liver may
+waste or become less active without sensible derangement of health,
+they have more liver, as they have more lung, than is absolutely
+necessary. In others, on the {31} contrary, the liver, from natural
+conformation, seems just capable of effecting its purpose under
+favourable circumstances." Persons inheriting this feebleness of liver,
+"or in whom, in consequence of disease, a portion of the liver has
+atrophied, or the secreting element of the liver has been damaged, may
+suffer little inconvenience as long as they are placed in favourable
+circumstances, and observe those rules which such a condition
+requires;" but as soon as the balance of their hepatic circulation is
+disturbed by causes like those above mentioned, jaundice makes its
+appearance; such patients being, as Dr. Budd says, "born with a
+tendency to bilious derangements."[11]
+
+[Footnote 11: Diseases of the Liver, p. 55.]
+
+
+JAUNDICE AS A RESULT OF SUPPRESSION CONSEQUENT UPON ABSENCE OF THE
+SECRETING SUBSTANCE.
+
+The pathology of this state is self-evident, for wherever secreting
+substance is wanting, secretion cannot take place. If then, the tissue
+which secretes bile be destroyed or transformed by disease, the biliary
+function must be suspended, and the ingredients which it is the office
+of such structure to separate from the blood, will accumulate in the
+circulation, and give rise to the {32} usual chain of results following
+suppression of the biliary secretion.
+
+In cancer, tubercle, fatty and amyloid degeneration of the liver,
+jaundice arises from the above-named cause. In these diseases it is
+not, however, a constant symptom, and this is simply on account of
+there being usually sufficient healthy tissue left to enable the
+biliary secretion to be carried on. If the cancer, or other morbid
+product, occupied the whole place of the secreting tissue, the biliary
+function could no more be carried on by such product, than by the same
+product occupying another organ of the body. In cases of jaundice
+arising from absence of the secreting substance, the amount of the
+jaundice depends on another cause besides the mere extent of the morbid
+deposit. This is its situation. A large amount of diseased tissue may
+exist in certain portions of the liver, and yet fail to produce
+jaundice, while a much smaller amount of the same diseased tissue,
+placed in another situation, may induce it. Should the morbid deposit,
+for example, be so placed as readily to interrupt the flow of the
+secreted bile, jaundice may rapidly occur, and be due as much to the
+re-absorption of the secreted bile, as to the suppression of the
+biliary secretion. This is, indeed, the true explanation of the fact,
+that diseases affecting the {33} concave, are much more frequently
+accompanied with jaundice, than those attacking the convex surface of
+the liver. I might have chosen what at first sight appears a more
+typical example of absence of secreting structure, namely, a case of
+acute atrophy of the liver; for in such cases the hepatic tissues
+sometimes dwindle down in the course of a few days to less than a
+quarter of their original bulk, and give rise to intense jaundice. But
+in such cases there does not appear to be a total arrest of the
+secretion, until the very last stage of the disease, if it even occurs
+then; and besides, if I dare form an opinion from one case, I should
+say that, in consequence of the rapid disorganization of the parenchyma
+of the liver, the circulation in the organ becomes much disturbed, and
+gives rise to what Frerichs terms disordered diffusion. So that in
+cases of acute atrophy of the liver, the jaundice, although chiefly due
+to suppression, is complicated with re-absorption of the bile, as was
+proved in a case I examined, by finding in the urine, not only those
+products which are merely excreted from the blood, but also some of
+those which are generated in the liver itself. It will be necessary for
+me, therefore, to go more fully into this form of jaundice than I have
+done in any of the preceding forms of the disease.
+
+
+{34} JAUNDICE ARISING FROM ACUTE ATROPHY OF THE LIVER.
+
+Acute, or yellow atrophy of the liver, is one of the most formidable of
+human diseases. It is sudden in its onset, rapid in its course, fatal
+in its termination. It is more common in women than in men; seldom
+attacks those above thirty years of age, and occurs most frequently in
+the earlier months of pregnancy. The immediate exciting cause of this
+strange disease appears to be, in the majority of cases, mental
+depression. The symptoms usually observed are jaundice, rapidly
+followed by sickness, and vomiting; by febrile excitement, and cerebral
+disturbance.
+
+As the disease advances, the hepatic dulness diminishes; the urine
+becomes scanty, and high-coloured; the bowels confined. Extravasations
+of blood take place under the skin; and hæmorrhages from the nose,
+vagina, or bowels are frequently observed. Lastly, delirium, or coma,
+generally closes the scene, within a week after the commencement of the
+violent symptoms, and within a month after the appearance of simple
+jaundice. Frerichs, who has so well described these cases, even says,
+"that in the severest forms, the disease may run its course, and end
+fatally within twenty-four hours."[12]
+
+[Footnote 12: "Clinical Treatises on Diseases of the Liver," vol. i. p.
+197.]
+
+{35} All cases of acute atrophy of the liver are, fortunately, not
+necessarily fatal. In some the violent symptoms gradually disappear,
+and recovery takes place after free evacuation of the bowels.
+
+In every case of suspected acute atrophy of the liver, the urine ought
+to be carefully examined for tyrosine, and leucine, two abnormal
+products, which, according to Frerichs, are never absent. Some remarks
+on the diagnostic value of these substances will be found at page 62.
+
+Through the kindness of Dr. Wilks, I had the opportunity of examining
+the liver, and analysing the urine, in a typical case of acute atrophy,
+which he reported in the Pathological Society's "Transactions," vol.
+xiii. p. 107. The brief history of the case is as follows:--E. K., aged
+seventeen, a married woman, in the third month of pregnancy, was seized
+with a bilious attack, and jaundice, after having a violent quarrel
+with her husband, who accused her with infidelity. The patient was
+first under the care of Mr. Bisshopp, of South Lambeth, who found her
+suffering from jaundice, accompanied by some febrile symptoms, and
+vomiting. In two days she became delirious, had violent screaming, and
+convulsive fits, which were rapidly followed by unconsciousness. Next
+day the patient was seen by Dr. Wilks; she was then quite insensible,
+with slight stertorous breathing, {36} and foam on the lips. The pupils
+were moderately dilated, and sensible to light. The pulse 120. The
+hepatic dulness reduced to a narrow band over the lower ribs. No urine
+had passed for twenty-four hours; a catheter was therefore introduced,
+and twelve ounces of clear bilious-looking fluid were drawn off. This
+urine I had the opportunity of analysing a few days afterwards. It was
+then of a yellow-ochre colour, and contained a considerable deposit.
+
+        The analysis gave:
+  Specific gravity . . . . . . . . . . . . .    1028
+  Reaction . . . . . . . . . . . . . . . . .    acid (?)
+              IN 1000 PARTS.
+    Water  . . . . . . . . . . . . 948·860
+    Solids (organic, inorganic)  .  51·138
+                                   =======
+  Urea . . . . . . . . . . . . . . . . . . .  30·000
+  Uric acid  . . . . . . . . . . . . . . . .   0·375
+  Resin and mucus  . . . . . . . . . |
+  Bile, colouring matter, and acids  |
+  Urohæmatine  . . . . . . . . . . . | . . .  14·575
+  Leucine, and tyrosine  . . . . . . |
+  Inorganic salts  . . . . . . . . . . . . .   6·188
+                                              ======
+
+The biliary acids (contrary to what Frerichs found in some of his
+cases) were present in this urine in fair quantity. With Pettenkofer's
+test (sulphuric acid and sugar) a decided purple colour was obtained.
+
+{37} When a portion of the urine was concentrated, and allowed to
+crystallize slowly, beautiful crystals of both tyrosine, and leucine
+were detected in it by means of the microscope. The purified urine also
+showed the presence of sugar in small quantity. When the organic solids
+were burned, they had a strong odour, and gave off a smoky _flame_,
+thereby showing that the urine contained a considerable quantity of
+fatty resin.
+
+As calculating the constituents of the urine by _percentage_ is a very
+unsatisfactory method for scientific purposes, it may be useful for me
+to give the analysis of the same urine as calculated for twenty-four
+hours, viz., twelve ounces, the amount drawn from the bladder shortly
+before death. In that case the analysis gives:
+
+             24 HOURS' URINE.
+  Quantity . . . . . . . . . . . . .  372·00 c.c.
+  Specific gravity . . . . . . . . .    1028
+  Reaction . . . . . . . . . . . . .    acid (?)
+  Solids (total) . . . . . . . . . .  19·038 grammes.
+  Urea . . . . . . . . . . . . . . .  11·160    "
+  Uric acid  . . . . . . . . . . . .   0·139    "
+  Resin, and mucus . . . . . . |
+  Bile pigment, and acids  . . |
+  Urohæmatine  . . . . . . . . | . .   5·441    "
+  Tyrosine, and leucine  . . . |
+  Inorganic salts  . . . . . . . . .   2·298    "
+                                      ======
+
+During the night before her death, the patient {38} aborted, and lost a
+considerable quantity of blood by the vagina. The whole duration of the
+disease was merely six days, and the more urgent symptoms only
+manifested themselves two days before the fatal termination.
+
+After death the liver was found to be very small in size, not
+exceeding, as was supposed, 1½ pound in weight. It was deeply stained
+yellow, and its cells were found to be small, and broken up; not an
+entire cell could be detected by either Dr. Wilks or myself--nothing,
+indeed, but a quantity of _débris_ of hepatic tissue, and fat. The
+gall-bladder was contracted, and contained only a little mucus; the
+urinary-bladder was empty.
+
+Although jaundice the result of acute atrophy of the liver, might be
+thought to be a typical example of jaundice arising from a suppression
+of the biliary function--the diminution in secreting substance
+naturally inducing a diminution in secreting power--I have, as was
+before said, been led to view it differently; because, although less
+bile than usual is secreted, there is nevertheless nothing like an
+entire suppression of the biliary function, as is proved,--
+
+Firstly,--By the absence of pipe-clay stools.
+
+Secondly,--By the deep staining of the hepatic tissue with bile
+pigment, just as occurs in jaundice the result of obstruction.
+
+{39} Thirdly,--By the presence of the biliary acids in the urine.
+
+Fourthly,--and lastly, the violent symptoms of bile-poisoning lead to
+the same conclusion, for it is not bile pigment, but the bile acids,
+that induce the fatal symptoms of bile-poisoning.[13]
+
+[Footnote 13: Six grains of pure glycocholate of soda killed a small
+dog, into whose femoral vein I injected it, in the course of two hours.
+In experimenting on animals, I have made the curious observation, that
+although bile has the property of retarding or arresting putrefaction,
+both in the intestinal canal, and out of the body, yet, when injected
+into the subcutaneous cellular tissue of a healthy animal, it causes
+the surrounding tissues to decompose, and become foetid, and an
+artificial disease is thereby set up, whose most peculiar feature is
+the engendering of a rapid putrefaction of the body after death.]
+
+
+CLASS B.
+
+THE MECHANISM OF JAUNDICE ARISING FROM THE RE-ABSORPTION OF THE
+SECRETED, BUT RETAINED BILE.
+
+In cases of this kind, the obstruction is not usually to be found
+within the liver itself, but in the ducts after their exit from the
+hepatic organ. The seat of the obstruction, too, is much more
+frequently found near to, or at the termination of the common duct,
+than close to the liver. The obstruction may be of three kinds:--
+
+{40} Firstly,--A congenital deficiency of the bile-ducts.
+
+Secondly,--An accidental obstruction in the course of the ducts, as
+from gall-stones, hydatids, or the entrance of foreign bodies from the
+intestines.
+
+Thirdly,--From closure of the outlet of the common duct, as, for
+example, from the pressure of the pregnant uterus, or distended
+transverse colon, or from organic disease of the pancreas, or
+neighbouring organs.
+
+First, as regards cases of jaundice from congenital deficiency of the
+ducts. Cases of this kind are rare. The best with which I am acquainted
+is the one that was brought before the Pathological Society last year,
+by Dr. Wilks. "The child had never passed any meconium, the motions
+always being of a white colour. When a fortnight old, jaundice came on,
+and continued until death, at the age of six weeks. After death, the
+liver was found of a dark green colour, and, apparently, the
+gall-bladder was absent. On further examination, however, the cellular
+tissue, which appeared to occupy its place, was found to be occupied by
+a small canal, just large enough to contain a bristle; to this,
+however, no outlet could be found, and on endeavouring to discover the
+hepatic ducts, these, in like manner, could not be made {41} out. The
+opening of the common duct in the duodenum was natural, but no hepatic
+duct could be found joining the pancreatic. It appeared, therefore, as
+if the larger ducts had become shrunken and obliterated."[14]
+
+[Footnote 14: "Medical Times and Gazette," 29th March, 1862.]
+
+Through the kindness of Dr. Wilks, I had the opportunity of making a
+microscopical examination of the liver. The hepatic cells were very
+small in size, much broken up; very few possessed nuclei, and all were
+deeply tinged with brownish yellow colouring matter. Scattered
+throughout the hepatic tissue, I found numbers of well-formed
+cholesterine crystals, like those represented in Fig. 3.
+
+I must here mention, that jaundice does not necessarily follow upon
+absence of the gall-bladder; just as in the horse, the deer, the rat,
+and other animals that possess no gall-bladders, the biliary function
+is perfectly well carried on, so it may be in the human subject,
+labouring under a congenital or accidental deficiency of the
+gall-bladder. In such cases, the hepatic ducts are pervious, and
+consequently the secreted bile finds no difficulty in reaching the
+intestines. In the "Edinburgh Medical Journal" (May, 1861, p. 1045,)
+Dr. Alexander Simpson reports a case of {42} this kind occurring in a
+child, which died when only a few weeks old. There was no trace of the
+existence of a gall-bladder; but on laying open the duodenum, the
+orifice of the bile-duct was at once seen in its ordinary situation,
+and a drop of pale bile was expressed from it. On tracing the duct to
+the liver, it was found to pass up undivided into the horizontal
+fissure, where it at once broke up and branched into the hepatic tissue
+of the right, and left lobes.
+
+I shall delay entering into an explanation of the mechanism of jaundice
+from obstruction, until I come to the consideration of what may be
+termed _Permanent Jaundice_, as in that case one explanation will do
+for all.
+
+
+JAUNDICE AS A RESULT OF THE ACCIDENTAL OBSTRUCTION OF THE BILE-DUCTS.
+
+The second class of cases, namely, those in which the obstruction is in
+the course of the ducts, are of frequent occurrence, and in them the
+jaundiced state is usually merely transient, for no sooner has the
+obstruction been removed, than the jaundice begins to disappear. The
+most common cases of this kind are those arising from gall-stones. As
+every one is familiar with their history, I may merely mention, that we
+may have gall-stones, and even all the most painful {43} symptoms of
+gall-stones, without the slightest trace of jaundice. This, I believe,
+arises in the following manner:--
+
+Firstly,--The majority of gall-stones are formed in the gall-bladder;
+their formation being due to the accidental deposition of the less
+soluble parts of the bile, either as a consequence of these ingredients
+being present in excess, or in consequence of the solvent, whose duty
+it is to retain them in solution, being in reduced quantity. The
+deposition or formation of gall-stones follows exactly the same law as
+the deposition or formation of stone in the bladder.
+
+Secondly,--In some cases the gall-stone, or stones--for there may be
+many, even hundreds, remain in the gall-bladder during the whole life
+of the individual, without giving rise to any disagreeable results,
+either as regards pain, or jaundice. In other cases, the
+gall-stones--and this usually happens when they are small--get into the
+cystic duct, and become lodged there; and in such a case, although the
+patient may suffer intense pain, there is still no jaundice. Moreover,
+it is not until the stone or stones have passed down into the common
+bile-duct, that jaundice is at all likely to be induced by them. For
+while a stone remains in the cystic duct, although it may completely
+block it up, and effectually prevent the bile either {44} entering into
+or escaping from the gall-bladder, yet, as in this situation it cannot
+offer any obstacle to the direct flow of the biliary secretion from the
+hepatic tissue into the intestines, there is no retention, and
+consequent absorption of bile. In fact, the presence of the stone in
+this position, in as far as the biliary function is concerned, only
+reduces the patient to the state of a person in whom the gall-bladder
+is accidentally absent; or to that of a horse, or other animal, in
+which the absence of the gall-bladder is a normal condition.
+
+Thirdly,--There are yet other ways in which gall-stones may give rise
+to great discomfort, and even imperil life, without inducing jaundice.
+For example, a calculus may remain in the gall-bladder until it attains
+a very large size, and then ulcerate its way into the stomach,
+intestines,[15] peritoneal cavity, or even out of the body through an
+opening in the abdominal parietes.[16]
+
+[Footnote 15: _Vide_ a case of this kind published by the author in the
+Pathological Society's "Transactions" for 1857, p. 235.]
+
+[Footnote 16: _Vide_ a case published by Mr. Hinton in the "Brit. Med.
+Journ." of August 4th, 1860, p. 603, and one by Mr. Sympson in the same
+Journal of the 7th February, 1863, p. 139.]
+
+In fact, jaundice only appears as a complication of gall-stones when
+they chance to block up the common duct, and thereby prevent the bile
+entering the intestinal canal. Hence, also, the reason {45} why
+jaundice, as a result of gall-stones, is more frequently transient than
+permanent. If it chances to become permanent, it sooner or later leads
+to a fatal termination--usually within eighteen months after complete
+obstruction. Lastly, it may be mentioned that, although gall-stones are
+liable to form in almost every constitution, yet it is generally
+considered that they are most frequent in persons of the tubercular,
+cancerous, and gouty diathesis, either hereditary or acquired.
+
+There are other substances besides gall-stones which, by their
+accidental presence in the bile-ducts, may give rise to jaundice. Thus,
+for example, foreign bodies, such as cherry-stones, have found their
+way from the intestine into the bile-duct, and given rise to jaundice.
+Intestinal worms have been observed to do the same thing, and recently
+an interesting case of jaundice, occurring in a girl aged 16, who died
+after a few weeks' illness, has been reported, which resulted from the
+presence of hydatids in the ductus hepaticus, and ductus communis
+choledochus.[17] Hydatids of the liver itself seldom give rise to
+jaundice, their position being usually such as not to interfere with
+the biliary function.
+
+[Footnote 17: Dr. Dickinson has reported this case in the Pathological
+Society's "Transactions," p. 104, vol. xiii. 1862.]
+
+There are still other cases where we find {46} transient jaundice
+arising from accidental obstruction of the bile-ducts; but in them,
+instead of the closure of the ducts resulting from plugging from
+within, it arises from the application of pressure from without. Thus,
+for example, transient jaundice is met with as the result of closure of
+the common bile-duct, by pressure exerted upon it by the pregnant
+uterus, or by impacted fæces in the transverse colon. Certain permanent
+abdominal tumours may also lead to the same result, but these will with
+greater propriety be considered under the next head.
+
+
+PERMANENT JAUNDICE FROM OBSTRUCTION.
+
+In order to give as clear a view as possible of the pathology of
+permanent jaundice from obstruction, it will be necessary for me to
+give the history of a case of closure of the outlet of the common
+bile-duct in consequence of organic disease--such, for example, as
+cancer of the head of the pancreas. A case of this kind has the further
+advantage of at the same time furnishing us with a typical example of
+jaundice arising from the re-absorption of the secreted, but retained
+bile.
+
+When cancer of the head of the pancreas involves the orifice of the
+common bile-duct, as the tumour grows, the duct slowly, and gradually
+becomes impervious to the passage of bile into the {47} intestines,
+until at length the flow is completely arrested. As this gradual
+process of occlusion of the outlet goes on, the duct itself becomes
+more and more distended by the retained bile, till it at length attains
+an enormous size. The gall-bladder being equally prevented from
+emptying itself, likewise becomes stretched and dilated, until it may
+at last become not only palpable to the touch, but even apparent to the
+eye through the abdominal walls. This was the case in the patient whose
+liver, and occluded ducts are represented in Plate I.
+
+The distention of the bile-ducts is not limited to those situated
+external to the liver, but also affects those in the substance of the
+organ; and to such an extent may this be the case, that, on making a
+section of a liver that has long had its common duct obstructed, a
+number of large excavations are observed all over its surface, which
+excavations are nothing more than the open mouths of the transverse
+sections of the dilated ducts. Such a state of matters is tolerably
+well represented in the section of the liver in Plate I. Further, the
+effect of this obstruction to the exit, and consequent accumulation of
+the biliary secretion, is not confined to the mere distention of the
+ducts, but causes various changes to occur in the parenchyma of the
+liver itself. The first of these is an increase {48} in the size of the
+organ, arising partly from the accumulation of the bile, and partly
+from the congestion caused by the pressure exerted on the vessels by
+the distended ducts. In the second place, gradually as the state of
+matters here described progresses, the parenchyma of the organ becomes
+itself affected, partly from the direct pressure exercised upon it, and
+partly from the derangement of its nutrition, produced by the
+interruption to the hepatic circulation; so that, after a time, the
+enlarged liver slowly, and by degrees diminishes, until it at length
+regains its natural size, thereby rendering, at this period of the
+disease, the diagnosis of the case extremely difficult. This state of
+matters is not, however, of long duration; for, in consequence of the
+continued compression of the blood-vessels and parenchyma, the
+nutrition of the liver is so disordered, as to lead to a gradual
+shrinking of the entire substance, or, in other words, to a general
+atrophy of the organ.
+
+It is thus seen how in _permanent occlusion_ of the common gall-duct
+the liver may be found _hypertrophied_ in the _first_, of _normal
+dimensions_ in the _second_, and _atrophied_ in the _third_ and _last
+stage_ of the disease.
+
+In cases of the kind here described, it is not at all unlikely that the
+enlargement of the liver in the earlier, as well as its atrophy in the
+later {49} stages of obstruction, may be mistaken for the cause of the
+jaundice, instead of the result of the arrest of the flow of bile, and
+thereby lead to a grave error in treatment. The history of the case,
+together with a knowledge of the above facts, will, however, tend to
+facilitate the diagnosis. Thus, it must be ascertained:--
+
+Firstly,--If the jaundice preceded the alteration in size of the organ.
+
+Secondly,--If there is an absence of any history of hepatitis; and,
+
+Thirdly,--If there is no evidence of any pulmonary or cardiac mischief
+likely to lead to passive congestion of the hepatic tissue.
+
+Even with a knowledge of all these facts, however, it often baffles the
+skill, and acumen of the ablest physicians to discover the cause of
+jaundice. Every now and then cases are met with, where the patient
+tells us that the jaundice has gradually come on without any assignable
+cause, and where, after the most careful examination of his history, as
+well as of his physical condition, we fail to detect a clue to the
+diagnosis. Cases of this kind are far from uncommon, and this is the
+more to be regretted, seeing that unless we have a clear appreciation
+of the cause, it is not only difficult, but even dangerous to treat the
+symptom. The injudicious administration of {50} a remedy here, may
+hasten the termination we most desire to retard. The truth of this
+remark will, however, be better appreciated when I come to consider the
+rationale of the treatment of jaundice. Meanwhile, it may be advisable
+to point out a method capable of yielding most important information,
+when all the ordinary means of diagnosis fail. I allude to the
+chemistry of the excretions. Although the pathological chemistry of the
+excretions is as yet in its infancy, it has already given the
+scientific physician a key to the detection of several diseases, and I
+trust to be able to show, that even in the obscure cases of jaundice
+above alluded to, it not only gives us a clue to their cause, but
+presents us with a guide to their treatment.
+
+In jaundice arising from obstruction, the pipe-clay stools are, as in
+the case of jaundice from suppression, entirely due to the absence of
+bile from the intestinal canal. The yellowness of the skin is in like
+manner caused by the accumulation of the bile pigment in the blood,
+from whence it exudes, and stains the tissues; and, lastly, the
+saffron-coloured urine results in a similar way from the elimination of
+the pigment from the blood by the kidneys. Instead, however, of these
+three conditions arising, as in the case of jaundice from suppression,
+from the arrest of the biliary functions {51} allowing certain of the
+constituents of the bile to accumulate in the circulation, they are, in
+the first place, the result of the re-absorption of the secreted bile
+from the distended ducts, and gall-bladder. So that while in jaundice
+from suppression, only those biliary products which exist pre-formed in
+the blood accumulate in the circulation, in cases of jaundice from
+obstruction, the biliary products which are manufactured in the liver,
+equally with those which are pre-formed in the blood, find their way
+back into the circulation, to be from thence eliminated with the
+excretions. If then, we could ascertain the presence or absence of
+these products in the excretions, we should be enabled to distinguish
+between jaundice resulting from suppression, and jaundice arising from
+obstruction. Let us now see what the chemistry of the excretions
+teaches us; and to begin, we shall take the intestinal excretion.
+
+
+ANALYSIS OF THE INTESTINAL EXCRETION AS AN AID TO THE DIAGNOSIS OF
+OBSCURE CASES OF JAUNDICE.
+
+The intestinal excretion, in the natural state, consists, firstly,--of
+those portions of our food which have resisted the action of the
+digestive juices; secondly,--of the excess of the modified food
+remaining unabsorbed; and, thirdly,--of the excess, {52} as well as of
+the effete portions of the digestive secretions themselves.
+Consequently, if from any cause the digestive secretions do not act
+properly, the evacuation immediately becomes abnormal, and we can
+discover by analysis which of the secretions is at fault. Thus, for
+example, we know that the saliva acts upon the starchy matters of our
+food, the gastric juice on the albuminous, the pancreatic on the fatty,
+and that the biliary secretion so modifies the chyme as to allow of its
+rapid absorption by the lacteal, and portal vessels. If then, from any
+cause the elaboration, or excretion of any of these digestive juices be
+interfered with, more of the particular kind or kinds of food on which
+it acts, passes unchanged through the intestines. Thus, if the salivary
+secretion be affected, an unusual amount of unmodified starch is found
+in the stool. If the gastric juice is defective, more albumen than is
+normal passes away unchanged, and so on with the others.
+
+It is clear then, that an examination of the stools must afford us
+important information regarding the presence, or absence of the normal
+secretions. A simple inspection of the stool will sometimes at once
+tell us whether or not bile is present. If it be present, the stool
+varies from a pale yellow, to a dark olive-green hue, according to the
+kind, and quantity of biliary colouring matter present, and {53} the
+nature of the food. It must not be forgotten however, that unless care
+be taken, the colour deducible from highly-coloured food may be
+mistaken for an excess of bile. This remark is still more applicable to
+medicines, for mercury, bismuth, iron, and some other mineral remedies,
+give rise to dark evacuations so closely resembling bilious stools in
+appearance, that the only way to distinguish them, is by chemical
+analysis; when, the presence of the mineral, together with the absence
+of the bile pigment, and the biliary acids (which are always to be
+found in normal evacuations), will at once reveal the true nature of
+the case. I have seen a mistake of this kind happen, and that too,
+where a patient labouring under jaundice from obstruction, was thought
+to be passing the usual amount of bile in his stools, when in reality
+not a particle of bile pigment was present. The colour was in this case
+entirely due to the food, and ferruginous remedies. Blood from the
+stomach or bowels, is also apt to be mistaken for biliary matter, more
+especially when acted on by the gastric juice, which has the property
+of turning red blood brown. With these exceptions, the absence of bile
+from the stool, is usually very easily ascertained. For if the patient
+be taking no highly-coloured food, or any of the medicines above
+indicated, the stools are of a {54} dirty pipe-clay colour. This is not
+due to the presence of any new or foreign matter, but solely to the
+absence of bile pigment. In these cases the evacuations, besides being
+white, are usually of a most offensive odour, for, among other things,
+bile checks intestinal putrefaction, and the development of offensive
+gases.
+
+In addition to the colour, and odour of the fæces, in cases of
+jaundice, another important indication is to be found in the presence
+of fat. The presence of fat in the stools was at one time looked upon
+as evidence of pancreatic, at another time of hepatic disease; now,
+however, experimental physiology has taught us, that it in some measure
+depends upon both. For while, on the one hand, the pancreatic secretion
+emulsions the fatty part of our diet, and thereby renders it capable of
+absorption, recent researches, as has been already pointed out, have
+established the fact that the biliary secretion also plays an important
+part in the absorption of the oleaginous constituents of our food.
+Bidder and Schmidt, as was before said, have shown that a dog, after
+ligature of the gall-duct, absorbs less than half the average normal
+quantity of fat; and by experiment it has been found that this arises
+from the circumstance that bile emulsions only the acid fats, while
+pancreatic juice transforms the neutral as well as the acid {55}
+oleaginous matters. The presence of fat in the stools may be due,
+therefore, partly to hepatic, partly to pancreatic derangement; and I
+shall immediately point out how we can turn this fact to account in
+diagnosis, and discover in cases of jaundice from obstruction, whether
+the seat of the obstruction be at the outlet or in the course of the
+duct.
+
+
+EXAMINATION OF THE RENAL SECRETION.
+
+The urine affords us important information in all cases of jaundice. In
+fact, an examination of it alone would in many cases enable us to
+discover the presence or absence of this affection.
+
+
+_Diagnostic Value of the Colour of the Urine._
+
+The urine of jaundice has invariably a peculiar tint, ranging from a
+saffron-yellow to a dark olive-green, or almost black hue. It must not
+be forgotten that the colour of normal urine varies with the degree of
+concentration. Where little is passed, being of a high, where much is
+passed, of a pale colour; the depth of colour depending on the degree
+of dilution of the urohæmatine. Again, it must also be remembered that
+there are many diseases, which change the colour of urine very
+materially, some only deepening, others actually changing the tint.
+Foods, and medicines also, {56} alter the colour of the renal
+secretion. Rhubarb, and santonine give to it a saffron hue, arsenious
+acid gas a black colour. Bearing in mind these facts, one would
+hesitate before giving a decided opinion as to the presence or absence
+of icterus from a mere inspection of the urine. For this reason, it is
+generally recommended in cases of jaundice to pour a little of the
+urine on a white plate, and watch the play of colours produced by
+strong nitric acid. This method, however, is not always satisfactory,
+for the play of colours depends on the different stages of oxidation
+through which the pigment passes, and other animal pigments, besides
+biliverdine, unfortunately act in a somewhat similar manner.
+
+A very simple, and more convenient way of testing the pigment without
+changing its physical characters, is to separate it in combination with
+uric acid. This is readily done by simply acidulating the urine with a
+few drops of hydrochloric acid, and setting it aside for twenty-four
+hours to crystallize. The white uric acid in crystallizing takes up the
+colouring matter, and assumes the hue of the pigment present in the
+urine. I have thus obtained crystals of all the different hues from a
+bright golden yellow tint through the intervening shades of red, brown,
+blue, olive, to a dark, almost black colour. This experiment {57} has
+another advantage, for if we take a measured quantity of urine, and
+collect, dry, and weigh the uric acid obtained from it, we can readily
+calculate the total quantity passed in the twenty-four hours, and
+thereby assist in diagnosing the presence or absence of malignant
+disease of the liver, as I shall afterwards have occasion to point out.
+
+The urine of jaundice is generally described as being of a saffron
+colour; but if I may be allowed to form an opinion from my own
+observations, which are tolerably numerous, I should say that it, in
+colour, much more frequently resembles old ale than anything else with
+which I am acquainted. On standing, the colour changes very
+considerably, in consequence of the pigment becoming slowly oxidized by
+its exposure to the air. When there is a very great excess of bile
+pigment present in the blood, the kidneys have some difficulty in
+eliminating it. Occasionally even, it chokes up the renal capillaries,
+and thereby complicates the jaundice by inducing secondary disease in
+the kidney. In such cases the external surface of the kidney, after the
+removal of the capsule, looks as if it had been sprinkled over with
+ink. The black specks vary in size from the minutest visible point to
+that of a pin-head. The accompanying chromo-lithograph (Plate II.)
+represents a kidney in this condition. {58} It will also be observed
+that it is studded over with a number of small abscesses; but whether
+these resulted from the blocking-up of the capillaries just alluded to
+or not, it is impossible to say. In the case in question no albumen was
+detected in the urine during life, and it was only on careful analysis,
+after the post-mortem had revealed the above state of matters, that a
+small quantity was discovered; and even then, had not the experiment
+been carefully performed, the presence of albumen might have been
+overlooked.
+
+[Illustration: Plate II. Kidney from a Case of Permanent Jaundice.]
+
+
+_Diagnostic Value of the presence of the Bile-Acids in the Urine._
+
+All acquainted with the recent literature of jaundice know how hard a
+battle is being fought between two sets of observers in Germany,
+regarding the presence of bile-acids in urine. One class, with Frerichs
+and Städler at their head, believe that the biliary acids are
+decomposed in the blood, and are consequently never to be detected in
+the urine. The other class, headed by Kühne, state as positively that
+they have detected these substances in the urine. Indeed, Kühne states
+that by adopting Hoppe's method,[18] he never fails to {59} detect the
+presence of the biliary acids in the urine of patients labouring under
+icterus, as well as in the urine of dogs with the bile-duct ligatured.
+When first studying this question, I was very much perplexed by these
+contradictory statements, for neither the judgment, nor the power of
+observation of either of the authorities could for a moment be called
+in question; and on experimenting for myself, so unsatisfactory were
+the results obtained, that I almost threw the question aside in
+despair. On one occasion, however, I at length met with such
+unmistakeable evidence of the presence of bile-acids in the urine, that
+I could no longer doubt the fact of their existence, and was forced to
+search for an explanation of the previous contradictory results.
+Fortunately, it was not very long before a solution to the difficulty
+was obtained, and, what was of still greater importance, led to the
+observation that the contradictory results arose from a circumstance
+which might be turned to account, as a means of differential diagnosis.
+The discovery was, that in certain cases of jaundice not a trace of the
+biliary acids is to be detected in the urine, although the {60} bile
+pigment is present in abundance; while in certain other cases both
+biliary acids, and bile pigment occur in notable quantity. What, then,
+is the cause of this difference? Simply this. In jaundice from
+suppression the liver does not secrete bile; consequently no bile-acids
+being formed, none can enter the circulation, and they are therefore
+not to be detected in the urine. In jaundice from obstruction, on the
+other hand, bile is secreted, and absorbed into the blood; and the
+bile-acids not being all transformed in the circulation, as Frerichs
+supposed, are eliminated by the kidneys, and appear in the urine, where
+they can be detected by Hoppe's method, or even, with proper
+precautions, by simply adding sulphuric acid and sugar. Here, however,
+some skill and experience are requisite, in order not to confound the
+colour produced by the action of the reagents on other substances with
+the fine purple produced by the biliary acids. As the majority of cases
+of jaundice result from suppression of the hepatic function, and as
+many of the cases of obstruction ultimately merge into the former, it
+is easily understood how the existence of the biliary acids in the
+urine has been so frequently denied. I have myself seen, in a case of
+obstruction of the common duct, the biliary acids slowly and gradually
+diminished in the urine, until they at length almost entirely {61}
+disappeared as the case approached a fatal termination. Here the
+disappearance of the biliary acids went on step for step with the
+impairment of the secreting powers of the liver, in consequence of the
+pressure exercised on its parenchyma by the retained bile.
+
+[Footnote 18: Professor Hoppe tests for bile-acids in the following
+manner:--The urine is boiled with an excess of milk of lime for about
+half an hour, and filtered to free it from the precipitate thus formed.
+The filtrate is evaporated to dryness, decomposed with hydrochloric
+acid, washed with water, and then extracted with alcohol. The alcoholic
+extract contains the bile-acids, which are recognised by Pettenkofer's
+test.]
+
+The readiest mode by which the biliary acids may be detected is the
+following: To a couple of drachms of the suspected urine add a small
+fragment of loaf-sugar, and afterwards pour slowly into the test-tube
+about a drachm of strong sulphuric acid. This should be done so as not
+to mix the two liquids. If biliary acids be present, there will be
+observed at the line of contact of the acid, and urine--after standing
+for a few minutes--a deep purple hue.[19] This result may be taken as a
+sure indication that the jaundice is due to obstructed bile-ducts. On
+the other hand, the absence of this phenomenon, and the occurrence of
+merely a _brown_ instead of a _purple_ tint, although, in the earlier
+stages of jaundice, equally indicative of suppression, is of course,
+for the reasons already given, no indication of the cause of the
+suppression. That must be gleaned from other circumstances.
+
+[Footnote 19: The immediate formation of a reddish coloured line is due
+to the acid setting free urohæmatine, the normal colouring matter of
+the urine.]
+
+It is seen that I have taken no notice of {62} Frerichs' theory
+regarding the bile-acids being changed into bile pigment. I have done
+so advisedly, feeling as I do, that when that observer investigates the
+subject more fully, he will himself abandon such an untenable doctrine,
+founded as it is, on an erroneous view regarding the nature of bile
+pigment. The colour induced by sulphuric acid on the acids of the bile,
+is as different in its chemical nature from animal pigment, as any two
+substances can possibly be. Indeed, they have no bond of connection
+whatever, except the mere tint. All animal pigments, whether they be
+green, like bile-colouring matter, or red, like hæmatine, spring from
+the same source, and contain iron. Besides this, the mere fact of an
+increase of animal pigment being found in the urine after the
+bile-acids have been injected into the circulation, to which Frerichs
+attaches such importance, in reality proves nothing more, as Kühne
+pointed out, than that an increased destruction of blood corpuscles has
+taken place. I have found the urine of dogs loaded with dark colouring
+matter after injecting chloroform, and other stimulants into their
+portal veins, in order to establish artificial diabetes; and,
+assuredly, in these cases the presence or absence of bile-acids in the
+blood had nothing to do with the result.
+
+
+{63} _Diagnostic Value of the presence of Tyrosine, and Leucine in
+Urine._
+
+There are two other abnormal products occasionally met with in the
+urine of jaundice, namely, tyrosine, and leucine. These substances,
+although for many years known to chemists, attracted comparatively
+little attention until Frerichs discovered their diagnostic value in
+hepatic disease.
+
+[Illustration: FIG. 4.--Crystals of pure tyrosine, obtained from the
+urine of a case of chronic atrophy of the liver, following upon
+obstruction of the bile-duct. _(a)_ Large crystals. _(b)_ The more
+common form of the stellate groups of needle-shaped crystals. _(c)_ A
+few separate fragments of needle-shaped crystals.]
+
+In that peculiar form of complaint, described as acute or yellow
+atrophy of the liver, the {64} urine is said invariably to contain
+tyrosine, and leucine. The presence of these substances may therefore
+assist us in diagnosing the case. When tyrosine, and leucine are
+present in quantity, they are very readily detected, all that is
+required being slowly to evaporate an ounce of urine, to the
+consistency of syrup, put it aside during a few hours to crystallize,
+and then examine it with the microscope. The tyrosine is recognised by
+being in fine stellate groups of needle-like crystals, as represented
+in fig. 4, or spiculated balls not unlike a rolled-up hedgehog, with
+the bristles sticking out in all directions.
+
+[Illustration: FIG. 5. Spiculated balls of tyrosine, from the urine of
+a case of acute atrophy of the liver. When these were re-dissolved,
+purified, and re-crystallized, they assumed the form represented in
+Fig. 4 _(b)_.]
+
+{65} Tyrosine may be obtained in a pure state by adding to four ounces
+of urine a solution of acetate of lead, till a precipitate ceases to
+form, filtering, and freeing the liquid from the excess of lead by a
+current of sulphuretted hydrogen, again filtering, and evaporating the
+clear solution. The tyrosine is now colourless, and crystallizes with
+the microscopic characters above alluded to, but still better marked.
+Tyrosine may be further recognised by putting a few crystals on a
+platinum spatula, adding a drop or two of nitric acid, and evaporating
+to dryness. If present, the yellow residue thus obtained assumes a
+pumpkin hue on the addition of potash, and leaves on incineration a
+dark greasy stain. Frerichs recommends another test, namely, the
+following:--Put the suspected substance into a watch-glass, along with
+some sulphuric acid, and after they have been in contact about half an
+hour, dilute the mixture with water. Next boil, and then neutralize
+with carbonate of lime. Filter, and to the clean filtrate add a few
+drops of perchloride of iron, devoid of free acid. The formation of a
+dark violet blue colour indicates the presence of tyrosine.
+
+Leucine is known by its flat, circular, oily-looking discs, without any
+crystalline structure. At the first glance, a globule of leucine might
+be mistaken for oil, not only on account of its {66} microscopical
+characters, but also on account of its being lighter than water. The
+globules of leucine are distinguished from those of oil by their being
+soluble in water, and boiling alcohol, and insoluble in ether. Besides
+this, the discs are occasionally opaque and laminated like the granules
+of potato starch. They are then not at all unlike microscopic crystals
+of the carbonate of lime; but the carbonate of lime crystals sink in
+water.
+
+[Illustration: FIG. 6. Dark globules of leucine of various sizes,
+resembling in appearance globules of carbonate of lime.]
+
+Both tyrosine, and leucine are usually deeply impregnated with the
+colouring matter of the urine.
+
+Since Frerichs' views were first published I have found tyrosine, and
+leucine in the urine of cases of chronic, as well as of acute atrophy
+of the liver. Their presence may therefore aid in diagnosing the latter
+as well as the former condition of the hepatic organ.
+
+{67} I have little doubt that future research will discover other
+conditions of the liver, besides those just mentioned, in which
+tyrosine, and leucine, may appear in the urine; for, as will be
+subsequently pointed out at page 96, I have been successful in
+producing them artificially in the urine of animals in which there was
+no evidence either of acute or chronic atrophy of the liver having
+taken place. In the cases cited, indeed, it will be seen that the
+jaundice was the result of suppression, consequent upon congestion of
+the liver, produced by blood poisoning.
+
+It may be added that since these observations were made I have found in
+the artificially concentrated urine of a case of jaundice from
+obstruction consequent upon impacted gall-stone, a few balls closely
+resembling leucine in shape, and size, but differing from it in being
+excessively dark in colour. No tyrosine crystals were observed, and
+unfortunately there was not sufficient of the leucine-like substance
+present in the urine to admit of its being chemically tested. I have
+thought it my duty to record this fact for the benefit of other
+observers, as there can be little doubt that we are gradually verging
+towards some important discovery in a diagnostic point of view.
+
+
+{68} _Melanine in the Urine._
+
+Four years ago (1858), Dr. Eiselt of Prague called attention to the
+fact that in cases of melanotic cancer of the liver, melanine appears
+in the renal secretion.[20] When the urine is passed it is usually
+quite clear; but after standing it becomes of a dark colour, even as
+dark as porter, without, however, losing its transparency. This
+deepening of the colour is no doubt due to the oxidation of the
+melanotic pigment, as the employment of an oxidizing agent, such as
+nitric or chromic acid, causes the same change to occur instantly.
+
+[Footnote 20: Dr. Eiselt states that he also found melanine in the
+urine in a case of melanotic cancer of the eyeball.]
+
+In addition to the cases related by Dr. Eiselt, I am able to add one of
+considerable importance, as it not only offers a striking illustration
+of the correctness of his views, but has the double advantage of being
+an unbiassed record of facts, in consequence of its having been
+observed, and recorded long before Dr. Eiselt's views were published,
+and therefore at a time when the author had no idea of its
+significance. The case occurred about thirteen years ago, in the wards
+of the Royal Infirmary of Edinburgh. The history of the case I extract
+from my private note-book. It is briefly as {69} follows:--In the month
+of May a sailor was admitted into the clinical wards of the Royal
+Infirmary with symptoms of jaundice from enlarged liver. He stated that
+he had been a great deal abroad, in hot climates, and admitted that he
+had been a hard drinker. On admission his skin was of a dusky yellow
+colour, and had been so since the month of February. The liver was
+considerably enlarged, and he complained of sudden violent pains in the
+neighbourhood of the umbilicus. The pain was usually most severe during
+the night. The urine was of a dark colour, and on the addition of
+nitric acid, became nearly quite black. It contained no albumen. The
+patient died ten days after admission. On post-mortem examination, the
+hepatic duct was found blocked up with malignant deposit, and the liver
+of a dark green colour. There was also a considerable amount of
+malignant deposit in the mesentery. This patient, as frequently happens
+in such cases, became delirious before death.
+
+In jaundice arising from melanotic cancer of the liver, the recognition
+of the presence of melanine in the urine would be an important aid to
+the diagnosis. Care must be taken not to confound the dark olive-green
+urine occasionally met with in other forms of jaundice, with the
+melanotic urine just described, or both {70} patient and doctor may
+become unnecessarily alarmed.[21]
+
+[Footnote 21: While I was Resident Physician in the Royal Infirmary of
+Edinburgh, in 1850, a woman, aged 28, was admitted with a universal and
+bright jaundice of three weeks' standing. Her urine was high coloured,
+and of a specific gravity of 1022. It contained a small quantity of
+albumen, and became perfectly black on being boiled with nitric acid.
+In this case there was no reason to suspect malignant disease of the
+liver; the colour of the urine was, therefore, most probably due to the
+bile pigment being more than usually oxidized. After a six weeks' stay
+in the hospital, I dismissed the patient as cured.]
+
+
+_Urea, Uric Acid, and Sugar._
+
+The presence, and quantity of certain other substances met with in the
+urine of jaundice, although not peculiar to that condition,
+nevertheless afford us important information, not only as to its cause,
+but also as to its probable mode of termination.
+
+Firstly, a correct knowledge of the quantity of urea, and of uric acid
+passed in the twenty-four hours is of great value; and, secondly, the
+presence, or absence of sugar is a fact which ought never to be lost
+sight of. The value of this statement, as well as of several of the
+preceding, will, I think, be better appreciated by giving a short
+account of a case of obscure disease (where a correct diagnosis, and
+prognosis could not have been arrived at without the application of the
+chemical knowledge referred to), than by any mere abstract {71}
+treatment of the question. I shall, therefore, at once proceed to
+relate the brief history of the case.
+
+A gentleman, aged fifty, who had been a remarkably healthy man,
+observed, within eighteen months of his death, that his skin gradually
+assumed a more and more jaundiced tint without any assignable cause.
+The stools were clay-coloured, the urine loaded with bile pigment. Soon
+afterwards, the patient began to lose flesh. The liver became enlarged,
+and somewhat tender to the touch; the gall-bladder being at the same
+time so distended that it could be seen, as well as felt, projecting
+from under the false ribs. As the case resisted the usual remedies, the
+patient was recommended to try change of air. During his absence from
+town, he suddenly passed a large quantity of yellow matter by stool
+(supposed to be bile), and immediately afterwards the fulness in the
+abdomen disappeared. On the patient's return to town, the gall-bladder
+could no longer be seen or felt, and it was naturally supposed that it
+had emptied itself on the occasion referred to. As, notwithstanding
+this, the jaundice continued, and the health and strength gradually
+declined, Dr. Prance, under whose care the patient was, sought the
+assistance of a physician of distinguished reputation in these
+affections. At this period, {72} however, the entire absence of
+physical signs beyond the clay-coloured stools, and those directly
+referrable to the jaundice, rendered it impossible for any decided
+opinion to be arrived at. The liver had now resumed its natural size,
+and the only thing detectable was slight tenderness on pressure, with a
+doubtful fulness in the pancreatic region. These signs, associated as
+they were with gradually increasing emaciation and debility, led to the
+suspicion of malignant disease, either in the course of the bile-ducts,
+or at the head of the pancreas. About this time it was discovered that
+the patient occasionally passed a considerable amount of a
+fatty-looking matter by stool--not mixed with the motion, but separate,
+though upon it. After the passage of this matter, there in general
+appeared to be a slight improvement in the patient's condition. The
+substance in question, on cooling, solidified into a firm pale-brown
+matter, resembling Windsor soap, and not at all unlike some of the
+biliary products. This led to the idea that it might be composed of the
+fatty acids of the bile. On one occasion a portion of it was forwarded
+to me for analysis, and on subjecting it to chemical examination it
+proved to be, strangely modified fish-oil, the oleine of which had
+entirely disappeared. In fact, it was nothing but the sparingly soluble
+fatty acids of cod-liver oil, which had {73} been transformed in the
+stomach, and from which all the liquid principles had been absorbed.
+This was considered an important discovery, as it not only negatived
+the idea of the bile still reaching the intestines, but also proved
+that the _pancreas_, as well as the _liver_, was affected. Having thus
+learned that the pancreatic juice, as well as the bile, failed to reach
+the intestines, an effort was made to counteract the pernicious effect
+on the system caused by the absence of the former secretion, by giving
+1½ grains of pancreatine in the form of pill three times a day. During
+the period that the patient was taking this medicine, the quantity of
+fat passed by stool was supposed to diminish. No decided improvement in
+the patient's condition took place, however, and on the 2nd of November
+the gentleman was brought to me by his medical attendant. At this time
+the patient was much in the state already described,[22] and after a
+careful physical examination, I failed to elicit any new fact of
+importance. The hepatic dulness was perfectly natural; there was no
+tenderness to speak of, no history of gall-stones, and {74} no evidence
+of any tumour beyond the doubtful fulness in the pancreatic region. The
+digestive, and other functions of the body, except those already
+mentioned, seemed unimpaired, and yet the patient's strength daily
+declined. As physical as well as symptomatical diagnosis proved
+inadequate to unravel the mystery of this obscure case, and as chemical
+means had already, in as far as it had been tried, been of advantage,
+it was resolved to subject the excretions to a rigid chemical
+examination. The patient was accordingly desired to collect all the
+urine he passed during twenty-four hours, and while I analysed it, Dr.
+Prance examined the stools, in order to ascertain their
+composition--especially as regarded the amount of fatty and albuminous
+matters contained in them. The urine yielded on analysis the following
+result:--
+
+                      24 HOURS' URINE.
+  Quantity (55 oz.) . . . . . . . . . . . . . . . . . .  1705 c.c.
+  Reaction  . . . . . . . . . . . . . . . . . . . . . .  Acid.
+  Specific gravity  . . . . . . . . . . . . . . . . . .  1018.
+  Colour  . . . . . . . . . . . . . . . . . . . . . .  Greenish yellow.
+  Urea  . . . . . . . . . . . . . . . . . . . . . . . .  27·28 grammes.
+  Uric acid (crystals large, and of a dark-green colour)  0·511   "
+  Bile acids[23]  . . . . . . . . . . . . . . . . . . .  Abundant. {75}
+  Bile pigment[24]  . . . . . . . . . . . . . . . . . .  Abundant.
+  Albumen . . . . . . . . . . . . . . . . . . . . . . .  None.
+  Sugar . . . . . . . . . . . . . . . . . . . . . . . .  None.
+
+[Footnote 22: I noted his state to be as follows:--Skin of a black
+jaundiced tint (dark green). Eyes deeply stained. Lips anæmic.
+Considerable emaciation and debility. Extreme languor. Appetite good.
+Tongue, and pulse not remarkable. Slight pain on pressure over the
+gall-bladder. Indistinct fulness in pancreatic region, and to the left
+of middle line.]
+
+[Footnote 23: On the addition of sulphuric acid, and white sugar to the
+urine, a very marked, and beautiful purple hue was obtained.]
+
+[Footnote 24: Nitric acid at first turned the urine green, but on the
+application of heat it became red, and after prolonged boiling, of a
+pale straw colour. Hydrochloric acid changed the colour of the urine
+immediately to a deep olive-green tint.]
+
+The facts here elicited were interpreted as follows:--
+
+1st,--The quantity of urea which might be said to be normal, was
+considered a favourable sign, as it indicated that the stomachal
+digestion was unimpaired.
+
+2nd,--The quantity of uric acid being below the average, was likewise
+regarded as favourable, tending as it did to negative the idea of
+cancerous disease of the liver; the uric acid being in such cases
+usually increased.
+
+3rdly, and lastly, the presence of the biliary acids, as well as the
+bile pigment, in the urine, showed that bile was still being secreted,
+but re-absorbed, and this led at once to the diagnosis that the case
+was one of jaundice from obstruction.
+
+Here, then, was an important step gained. The next point was, if
+possible, to ascertain the cause of the obstruction. Taking into
+account the absence of any tumour, and any history of gall-stones,
+together with the fact of the sudden disappearance of the enlarged
+gall-bladder, my {76} first idea was that it might be a case of
+hydatids blocking up the common gall-duct, and that on one occasion,
+some large cyst had ruptured, and discharged itself through the
+intestines. On talking the case over with Dr. Prance, however, that
+idea was abandoned, and we were forced to content ourselves with the
+simple fact that the case was one of jaundice from obstruction of the
+common bile-duct, complicated with occlusion of the pancreatic duct,
+which fact had been previously ascertained by the discovery of the
+fatty acids in the fæces. About this time the patient took three grains
+of benzoic acid, in the form of pill thrice a day, and it was thought,
+with the advantage of slightly diminishing the jaundiced state of the
+skin. But no permanent benefit was obtained, and after a time this
+remedial agent had to be discontinued, in consequence of its having
+induced slight dyspepsia. In the letter I received informing me of this
+fact, it was also noted that there was much less both of the oily
+matter, and albumen in the stools. There was, at the same time, a
+considerable deposit of urates in the urine. The specific gravity
+continued to be about 1018. The quantity in twenty-four hours about
+forty ounces. On the 29th of November, the patient was again brought to
+me, and we made a careful examination of the size, shape, and exact
+position of the {77} hepatic organ. The measurements were found to be 5
+inches at the extreme right, 4 inches at a line drawn perpendicularly
+to the nipple, and 2¾ inches midway between nipple and sternum. Beyond
+the centre of the sternum the liver did not reach. As regards the size
+of the liver then, there was still nothing very remarkable.
+
+On this occasion it was observed, that the patient's memory was not so
+good as formerly, and that there was a certain amount of mental as well
+as bodily languor. His hearing was likewise sluggish, the words having
+occasionally to be repeated before they made an impression on the
+cerebral organ. This, no doubt, arose from the poisonous effects of the
+bile circulating in his blood.
+
+It may be here mentioned, that in cases of jaundice from suppression we
+seldom or never meet with those extreme symptoms of cerebral
+disturbance which are so common in cases of jaundice from obstruction.
+I believe the reason of this difference in the two forms of jaundice
+arises from the circumstance that the really poisonous parts of the
+bile are the biliary acids, and that they, like urea, are powerful
+narcotic poisons. The results of the experiments on artificial jaundice
+(page 95) led me to this conclusion.
+
+As neither the symptoms nor physical signs threw any additional light
+on this interesting case, {78} it was determined once more to bring
+chemistry and the microscope to bear upon it, with the view of, if
+possible, extending the information these methods of investigation had
+already yielded. Accordingly, a specimen of the urine was again
+obtained for analysis, and it yielded the following results:--
+
+              24 HOURS' URINE.
+  Quantity, (43 oz.) . . . .  1333 c.c.
+  Specific gravity . . . . .  1016.
+  Reaction . . . . . . . . .  Acid.
+  Urea . . . . . . . . . . .  23·994 grammes.
+  Uric acid  . . . . . . . .   0·266    "
+  Bile pigment . . . . . . .  Abundant.
+  Bile acids . . . . . . . .  Small quantity.
+  Sugar  . . . . . . . . . .  A little.
+    Solids (total) . .  41·989
+  Organic matter . . . . . .  31·992
+  Inorganic  . . . . . . . .   9·997
+
+A marked change is here seen to have occurred in the constitution of
+the renal secretion. First--the quantity of urea has notably diminished
+(from 27·28 to 23·99 grammes, or in other words, from 423·84 to 370
+grains.) The amount of uric acid has also fallen (from 0·511 to 0·266
+grammes, or in other words, from 8 to 4 grains); while at the same time
+the biliary acids have considerably decreased. These changes are also
+seen to be accompanied by another, which I at once regarded {79} as a
+most unfavourable sign,--namely, the appearance of sugar in the urine.
+Although the quantity of sugar was as yet small, and it was associated
+with a diminution in the bile acids, it nevertheless made me look
+forward with gloomy forebodings, for as far as my experience goes, when
+the urine becomes saccharine in the course of a chronic, and exhausting
+disease, it has generally been the forerunner of a fatal termination.
+This case, I am sorry to say, proved no exception to the rule. There
+was, indeed, but one consolatory fact in the analysis, and that was the
+diminution of the uric acid, which, as I before remarked, tended to
+negative the idea of malignant disease of the liver, and this was a
+great source of satisfaction to the patient.
+
+Eight days later, 12th November, a qualitative, and quantative analysis
+of the urine was again made, with the following result:--
+
+             24 HOURS' URINE.
+  Quantity (33 oz.) . . . . . . .  1023 c.c.
+  Reaction  . . . . . . . . . . .  Acid.
+  Specific gravity  . . . . . . .  1017.
+  Urea  . . . . . . . . . . . . .  15·345 grammes.
+  Uric acid . . . . . . . . . . .  ?
+  Bile acids  . . . . . . . . . .  None.
+  Bile pigment  . . . . . . . . .  Abundant.
+  Sugar . . . . . . . . . . . . .  Increased. {80}
+  Tyrosine, and leucine[25] . . .  In small quantity.
+    Solids (total)  . . . .  23·426
+  Organic matter  . . . . . . . .  17·698
+  Inorganic . . . . . . . . . . .   5·728
+
+[Footnote 25: On precipitating the urine with the acetate of lead,
+filtering, and freeing the clear liquid from the excess of that reagent
+by means of sulphuretted hydrogen, and again filtering, the liquid, on
+evaporation, was found to deposit small crystals of tyrosine, and to
+have floating in it, and on its surface, round balls of leucine.]
+
+Here, is now to be observed, the rapid downward progress of the case.
+Stomachal digestion, as indicated by the amount of urea, is much
+impaired. The general health, as indicated by the sugar, is sadly
+affected, and, to crown all, tyrosine, and leucine, the indicators of
+atrophy of the liver, have made their appearance. So unfavourable was
+the result of this analysis considered, that Dr. Prance felt himself
+bound to fulfil a promise he had made to the family some time
+previously, of warning them of approaching danger, when we had no
+longer any hope of the patient's recovery.
+
+Some time afterwards, in the beginning of December, we again saw the
+patient together, and made a physical examination of the hepatic organ,
+the result of which only confirmed our suspicions. The liver was
+decidedly smaller. The epigastric tenderness was increased. The {81}
+jaundiced tint deeper. Petechial spots had now appeared on the trunk,
+and arms. The lower extremities were oedematous, and the abdomen
+two-thirds filled with fluid.
+
+On the 31st December, I received a sample of urine, and a note saying
+that the patient had slightly rallied. But on examining the urine, it
+was found to have a neutral reaction--it had previously always been
+acid--to be of a specific gravity of 1019, and on standing, to deposit
+a copious sediment of lithates, coloured intensely yellow with the bile
+pigment. Curiously enough, the bile-acids had reappeared; but only in
+quantity sufficient to admit of their being detected. In spite of these
+trifling changes for the better, the ominous one of an increased amount
+of sugar was still there.
+
+A few days later, and just before his death, the patient had the
+benefit of another physician's opinion, which, although it differed
+somewhat from the foregoing, was, nevertheless, equally unfavourable,
+for he considered it a case of malignant disease.
+
+The gentleman having noticed that his case excited considerable
+interest, and some difference of opinion among his medical attendants,
+directed that his body should be examined after death; and as this wish
+was seconded by his wife, {82} a lady of superior mind and
+accomplishments, a post-mortem examination was accordingly made, with
+the following results:--
+
+Firstly,--The pancreatic duct, as had been suspected, was found
+completely occluded at its outlet, and so distended by the accumulated
+secretion, that it readily admitted the point of the little finger.
+(Vide Plate I., _g_.)
+
+Secondly,--The orifice of the common bile-duct was in like manner
+completely obliterated, and the duct itself immensely distended with
+dark thick tarry bile, which on microscopic examination, was found
+loaded with beautiful crystals of cholesterine. (Fig. 7.)
+
+[Illustration: FIG. 7.]
+
+The gall-bladder was enlarged to the size of a swan's egg, and
+contained thick tarry fluid; but no gall-stones, or masses of
+inspissated bile. The hepatic duct was greatly enlarged, easily
+admitting {83} the point of the finger. The cystic duct was also
+dilated, though in a much less degree. (Vide Plate I., _c_. _d_. _e_.)
+
+Thirdly,--The gall-bladder, duodenum, abdominal parietes, and in fact
+all the abdominal viscera, were intensely stained, almost blackened, by
+the osmosed bile.
+
+Fourthly,--The bile, on analysis, was found to contain in one thousand
+parts:--
+
+    Water . . . .  694·45
+    Solids  . . .  305·55
+
+                  1000·00
+                  =======
+
+  Pigment . . . . |
+  Bile-acids  . . | Organic matter  .  288·99
+  Cholesterine  . |
+
+  Soda  . . . . . |
+  Potash  . . . . | Inorganic salts .   16·56
+  Iron  . . . . . |
+
+Whereas a specimen of normal bile taken from the gall-bladder of a
+woman aged sixty-one, was of a specific gravity of 1020, and contained
+in 1000 parts:--
+
+    Water . . . .  933·27
+    Solids  . . .   66·73
+
+                  1000·00
+                  =======
+{84}
+  Pigment . . . . |
+  Bile acids  . . | Organic matter  .  56·73
+  Cholesterine  . |
+  Sugar . . . . . |
+
+  Soda  . . . . . |
+  Potash  . . . . | Inorganic salts .  10·00
+  Iron  . . . . . |
+
+The difference in composition of these two biles is very striking. The
+one contains more than four times as much solid matter as the other;
+and if the relative amount of organic, and inorganic substances be
+compared, the curious fact is observed, that the difference in the
+amount of solids in the two cases, is almost entirely due to the change
+in quantity of organic matter. The inorganic salts have not even so
+much as doubled themselves in the abnormal bile. Whence is this? Soda
+is the chief inorganic substance found in bile, and we have seen that
+it occurs in the form of glycocholate, and taurocholate of soda,
+substances which, as before remarked, are re-absorbed from the
+distended ducts, and gall-bladder into the circulation, from whence
+they are constantly being eliminated with the urine; and this, no
+doubt, is one of the causes why the inorganic salts are proportionally
+in such small quantity in the abnormal bile of jaundice from
+obstruction.
+
+{85} Fifthly,--In the abdomen was a considerable quantity of dark
+straw-coloured serum, which on the addition of strong sulphuric acid
+became of a fine emerald-green colour, in consequence of the presence
+of bile. Traces of sugar were also present in the effused liquid. The
+serum had only collected in the latter weeks of the patient's life, and
+after the shrinking of the liver was observed to have begun.
+
+Sixthly,--The liver was small in size, excessively dense, and very
+heavy. Externally, it had a dark olive hue, and on section presented a
+most curious appearance. The section was of an almost uniform
+yellowish-green colour, and studded over with excavations (Plate I.,
+_b_), from which thick bile streamed in all directions. The apparent
+excavations were nothing more or less than immensely distended ducts.
+On looking into the ducts, it was observed that they presented the
+appearance of possessing valves. On microscopical examination, the
+hepatic cells were found smaller than normal, as if partially
+atrophied. The nuclei were unusually well marked, in consequence of the
+fat granules being almost entirely absent. (Fig. 8, _b_.) In the field
+of the microscope were a number of caudate or spindle-shaped cells
+(Fig. 8, _c_.), from the epithelial lining of the ducts. In the hepatic
+tissue were found some beautiful {86} stellate crystals, as well as a
+number of separate needles of tyrosine. A few small crystals of cystine
+were also found. (Fig. 8, _a_.)
+
+[Illustration: FIG. 8.]
+
+Seventhly,--The kidneys were enlarged, pale, and fatty-looking; and all
+over the surface of the section, as well as immediately under the
+capsules, which were very loosely attached, were small abscesses. The
+surface was also studded with numerous minute dark bile-pigment points,
+and it is possible that the abscesses were the result of the blocking
+up of the capillary vessels by the pigment deposit, as previously
+alluded to, page 57.
+
+Eighthly,--The head of the pancreas was considerably enlarged, and on
+cutting into it, a quantity of pus oozed out from an abscess in its
+interior. The abscess was found to communicate with a large ulcerated
+spot in the duodenum. (Plate I., _f_.) On microscopical examination,
+the {87} tumour of the pancreas was found to consist of an hypertrophy
+of the normal gland tissue, being, in fact, a chronic inflammatory
+tumour of the gland substance.
+
+In no portion of the body was a trace of cancer detected, nor any
+enlargement of the mesenteric or other glands, to justify even a
+suspicion of malignant disease. So the opinion arrived at regarding the
+pathology of this case is, that the disease originated in an
+inflammatory affection of the pancreas, during the progress of which,
+the openings of the bile, and pancreatic ducts became blocked up; the
+interruption to the excretion of the bile giving rise to the jaundice,
+and at the same time inducing engorgement, and enlargement of the
+liver. The inflammatory affection of the pancreas had probably ended in
+the formation of an abscess, which, pushing the enlarged liver
+forwards, admitted of the distended gall-bladder being seen, and felt
+through the abdominal parietes. At length the abscess burst, and
+suddenly emptied itself into the duodenum; the yellow fluid discharged
+from the intestines being not bile, as the patient had supposed, but
+pus. No sooner had the abscess emptied itself, than the liver returned
+to its natural position, and thus accounted for the distended
+gall-bladder so suddenly ceasing to be seen or felt. The ulcer in the
+duodenum appears {88} to be the mouth of the abscess, which has
+probably been prevented closing, partly on account of the occasional
+draining away of pus, which, being in small quantity, and mixed with
+the stools, escaped detection; and partly to the constant irritation of
+the passage of the food, there being no bile or pancreatic fluid to
+neutralize the acidity of the chyme. This might even be sufficient of
+itself to delay the healing process. The ultimate gradual atrophy of
+the liver would arise from the continued pressure of the distended
+bile-ducts interrupting the hepatic circulation, as formerly pointed
+out at page 48. Lastly, there being no bile or pancreatic juice
+admitted into the intestines, the greater part of the food taken passed
+out of the body unabsorbed, and the patient, though possessing an
+excellent appetite, and taking plenty of food, actually died of slow
+starvation.
+
+My object in giving such prominence to this interesting case, is to
+show how valuable an adjunct physiological chemistry is to the other
+methods of diagnosis in obscure diseases of the abdominal organs, and
+to encourage others to follow in the same path; for it must be
+remembered that the foregoing was no dead-house diagnosis, but that
+every fact here stated was discovered and recorded before death.
+
+{89} Having now explained the mechanism of the two forms of
+jaundice--that arising from suppression, and that induced by
+obstruction--it only remains for me to remind my readers, that there is
+frequently a combination of the two conditions. Jaundice from
+obstruction, for example, cannot long exist without becoming
+complicated with jaundice from suppression. The continued backward
+pressure exerted on the hepatic parenchyma by the over-distended
+bile-tubes, sooner or later impedes the circulation in the organ to an
+extent sufficient to induce an impairment, if not an almost total
+arrest of the biliary secretion. Hence it is, that in the last stage of
+jaundice from obstruction, the biliary acids gradually diminish, and at
+last finally disappear from the urine. We have it, nevertheless, in our
+power to distinguish between the two forms of disease--for whereas, in
+jaundice arising from simple suppression, there is only an absence of
+the bile-acids; in jaundice from obstruction, complicated with
+suppression, the absence of the bile-acids is usually associated with
+the presence of tyrosine, and leucine. For before complete suppression
+occurs as a result of obstruction, the hepatic tissue has already had
+its nutrition so impaired, as to admit of the formation of these
+foreign substances. Lastly, the history of the case will of itself be
+an important guide.
+
+
+{90} EPIDEMIC JAUNDICE.
+
+It is seldom that jaundice attacks persons in an epidemic form; as it
+does so occasionally, however, and that too in almost all countries, it
+is necessary that I should say a few words on its pathology. In a
+quotation, in the "Medical Times and Gazette," from the "Recueil de
+Mémoires de Médecine Militaire," vol. iii. p. 374, it is stated that,
+"M. Martin gave an account of an epidemic of jaundice which he had the
+opportunity of observing among the artillery and engineers of the
+French army stationed at Pavia during the Italian war. It commenced
+during the great heats of August, and terminated by the end of October.
+There occurred 71 cases in an effective of 1022 men. The causes he
+considers to have been the unusual heat, which gave rise to great
+congestion of the liver, the fatigue of long marches (the mounted men
+suffering oftener in proportion than the unmounted), indulgence in
+alcoholic drinks, and marsh miasmata. Great increase in the size of the
+liver in most of the cases, and of the spleen in many, was observed,
+and all complained of pain in the epigastrium and in the hypochondria.
+In fact, this last was the first symptom of the approaching jaundice.
+None of the cases proved fatal. Professor San-Galli {91} informed M.
+Martin that a similar epidemic prevailed in the town of Pavia at the
+same time."
+
+That jaundice may also occur in an epidemic form among pregnant women,
+has been shown by Dr. Saint-Vel, who relates that, "In 1858 the island
+of Martinique was, without appreciable cause, visited by an epidemic of
+jaundice, remarkable for its severity in pregnant women. It broke out
+at St. Pierre towards the middle of April, attained its maximum height
+in June and July, and terminated towards the end of the year. All races
+were attacked; the patients were mostly adults; no liver-complication
+could be detected; nor could any resemblance be traced between the
+disease and yellow fever. It was fatal to females only, especially
+during pregnancy. Of thirty pregnant women who were attacked at St.
+Pierre, ten only arrived at the full period of pregnancy without
+presenting any other symptoms than those of ordinary jaundice. The
+other twenty all had abortion or premature labour a fortnight or three
+weeks after the commencement of the attack, and died in a state of
+coma, which appeared a few hours before or after the expulsion of the
+foetus. The females who died were from the fourth to the eighth month
+advanced in pregnancy. In some cases, slight delirium preceded the
+coma, which was never interrupted, but became more and more {92}
+profound up to the time of death. Its longest duration, in two cases,
+was twenty-four and thirty-six hours. It was not preceded by any
+notable modification of the general sensibility, nor of the respiration
+or circulation. Hæmorrhage was absent, except in one case, where a
+female had it before delivery. When death was delayed till three or
+four days after delivery, the lochia were healthy. Almost all the
+children were still-born; some lived a few hours; one alone survived.
+None of the infants had the icteric colour; nor was there any sign of
+jaundice in the ten children born at the full term."
+
+The foregoing translation from the "Gazette des Hôpitaux," 20th
+November 1862, appeared in the "British Medical Journal" of the 7th of
+February, 1863, p. 141.
+
+We have it further stated in the "Lancet" of the 21st February 1863,
+under the head of the "Health of Rotherham," that, "scarcely had the
+late fatal epidemic of fever subsided ere another, less fatal, but as
+widely spread, took its place. In last November several persons were
+attacked with jaundice, and now not less than 150 persons are suffering
+from it. None of those who were attacked by the late fever are
+suffering from the present epidemic."
+
+When we reflect on the facts here related, we {93} can have little
+difficulty in forming an opinion of the pathology of jaundice occurring
+in an epidemic form. Its mechanism seems to be precisely similar to
+that of the isolated cases of the disease which are every now and then
+met with as the result of blood-poisoning. I have recently seen a case
+of well-marked jaundice supervene on an attack of scarlet fever, and as
+it affords a tolerably good illustration of the pathology of such
+cases, it may, perhaps, be briefly given with advantage.
+
+A London cabman, aged 23, was admitted under my care into University
+College Hospital, on the 2nd March of the present year. He stated that
+he had always enjoyed good health, but that lately he had been much out
+of spirits, in consequence of the death of one of his relatives. On the
+25th February, after three days' illness, a scarlatinal rash appeared
+all over his chest, and extremities, and four days later (the day
+before his admission), he became jaundiced. March 3rd. His skin is now
+of a bright yellow colour, and when the finger is rapidly drawn across
+it, a pink line immediately takes the place of the yellowness, showing
+that there is still great subcutaneous vascularity. The throat is sore,
+and there is considerable difficulty in swallowing. The conjunctivæ are
+intensely yellow--proportionally more so than the skin, in consequence
+of the scarlatinal hue being still {94} blended with the tint of the
+latter. The urine is high coloured, has a slight deposit of urates;
+contains a large amount of bile pigment, but no bile-acids. The stools
+have not been observed to be clay-coloured. The liver is enlarged
+(dulness extends 5½ inches in a perpendicular direction), and tender on
+pressure. He complains of pain in the hepatic region on taking a deep
+inspiration, and of a general uneasiness at other times. Has no
+sickness or vomiting. The mucous membrane of the tongue is red and
+raw-looking; flakes of epithelial fur are readily detached from it.
+
+The case was at once diagnosed as one of jaundice from suppression. Its
+mechanism being supposed to be identical to that of the cases discussed
+at pages 25-9 under the head of jaundice arising from active congestion
+of the liver induced by blood-poisoning, a dose of calomel and jalap
+was accordingly administered, with the view of removing the portal
+congestion, and with the most satisfactory result; for, notwithstanding
+the jaundice being complicated with scarlatina, a very decided
+improvement in the colour of the skin took place within twenty-four
+hours, the other symptoms remaining as before. March 10th. The calomel
+and jalap was repeated on the 4th, and since then the skin has
+gradually become paler. It is now scarcely tinged.
+
+{95} To return to the cases of epidemic jaundice; they, as I have just
+hinted, are due to a precisely similar cause--blood-poisoning--either
+the direct result of miasmata, or of contagion.
+
+A further explanation of the reason why jaundice occurs in an epidemic
+form, may be found in the circumstance that in all febrile states of
+the general system some one or other of the internal organs is liable
+to become congested. For example, typhus is, as a rule, complicated
+with cerebral congestion, typhoid with mesenteric, ague with splenic,
+scarlatina with renal, and so on. It is not, however, necessary that
+the organs should be affected in the same relation to the disease as is
+here given. On the contrary, in one epidemic of typhus, the brain may
+be congested, in another the lungs, and in a third the liver; and so
+also with other fevers. Hence we can have little difficulty in
+understanding why epidemics of jaundice every now and then occur,
+seeing that they are but the secondary results of other epidemic
+affections, although, as occasionally happens, the jaundice is the
+chief, if not the only well-marked symptom.
+
+
+ARTIFICIAL JAUNDICE.
+
+What is the source of the tyrosine, and leucine found in the urine, in
+cases like those previously described? Being well aware that the
+physiologist {96} has it in his power to produce almost any
+pathological state or artificial disease at pleasure, I set about
+imitating on an animal the effects produced in the human subject by
+obstruction of the bile-ducts. Hitherto, artificial jaundice has been
+usually induced either by ligaturing the gall-ducts or injecting bile
+into the circulation; but as both of these methods were in the present
+instance objectionable--the first on account of the constitutional
+disturbance liable to be induced by the severity of the operation; the
+second from the bile being all at once thrown into the circulation, and
+thereby producing toxic effects, besides the danger of its too rapid
+elimination by the urine--I adopted another plan, which came much
+nearer to the state induced by disease in man--I took the bile of three
+healthy dogs, and injected it under the skin of a fourth. In this case
+the effects of the operation were almost _nil_, and the bile was at the
+same time placed in a position favourable for its slow absorption, just
+as in the human subject. During the first two days the animal remained
+comparatively well, the urine was normal in appearance, and contained
+neither bile-pigment, nor bile-acids. But on the third day the animal
+became ill, and on the fourth jaundice set in. He died on the fifth.
+After death the urine was found to contain not only {97} bile-pigment,
+and bile-acids, but also the diseased products, leucine, and tyrosine;
+and what was more interesting still, the urine was loaded with sugar,
+just as occurred in the case imitated.
+
+It will be remembered that in speaking of the bile-acids, I mentioned
+that while glycocholic acid is a crystalline, taurocholic is a
+non-crystalline substance. Tyrosine, and leucine stand in a similar
+relation to each other; tyrosine being crystallizable, leucine
+non-crystallizable. Now, taking this fact into account, together with
+the fact, that when the bile-acids are allowed slowly to enter the
+circulation, they reappear in the urine, accompanied with tyrosine, and
+leucine; and also with the third fact of these latter substances being
+found in the liver when the biliary function is interfered with, I am
+inclined to look upon tyrosine, and leucine as the products either of
+the arrested, or of the retrograde metamorphosis of glycocholic, and
+taurocholic acids. Moreover, I have found in one case, after injecting
+bile in the way before mentioned, into the cellular tissue, crystals of
+tyrosine spontaneously form in the bile taken from the animal's
+gall-bladder after death, and merely allowed slowly to evaporate. This
+result strengthens the foregoing opinion.
+
+Frerichs states that he has never detected the biliary acids in the
+blood, even after bile had {98} been injected into the circulation. In
+a remarkable case where 1 oz. of ox-bile killed a dog in less than five
+minutes from the time it began to be slowly injected into the jugular
+vein, I detected the bile-acids in a clear extract of the blood, with
+facility. This leads me to mention that, contrary to the statement of
+Frerichs, and in accordance with that of Kühne, the injection of the
+pure bile-acids into the blood is very dangerous, and that even the
+injection of pure bile into the cellular tissue, often proves fatal in
+the course of twenty-four hours, thereby showing that the constituents
+of the bile are highly poisonous.
+
+In illustration of these facts I may cite the following experiments:--
+
+Into the cellular tissue of the back of a full-grown, and
+healthy-looking terrier dog, I injected the bile taken from the
+gall-bladders of three healthy dogs, two of which had just been killed,
+the other had been dead a few hours. The bile was in the first two
+cases neutral, in the third faintly alkaline. All the biles seemed
+perfectly normal. They contained no crystals of any kind. Eighteen
+hours after the operation the animal appeared quite well, and took his
+food heartily. Four hours later a remarkable change took place. The dog
+looked dull and drowsy, and could not sustain himself on his legs; when
+left to himself, he {99} lay on his side, and made not the slightest
+movement. He was not only paralyzed, but even the nerves of sensation
+had ceased to act, for when his tail, and feet were pinched, he was
+quite insensible to pain. The pupils were dilated, and the body felt
+cold. Death occurred twenty-three hours after the operation. Urine, and
+fæces were passed in small quantity immediately before death. The urine
+was strongly alkaline, and effervesced on the addition of sulphuric
+acid, thereby showing that it contained alkaline carbonates. Prismatic
+phosphatic crystals were present in the still fresh urine.
+
+When tested for bile-acids, only the faintest trace was obtained, after
+the urine had been cleared with the acetate of lead and sulphuretted
+hydrogen.
+
+The tissues of the abdomen and thorax were oedematous, but, within an
+hour after death, had not the disagreeable odour found in animals
+killed by injecting pure bile-acid. (_See_ foot-note at p. 39.)
+
+This experiment was again repeated with alkaline bile. Two ounces of
+ox-bile of a specific gravity of 1025 were injected under the skin of a
+large pointer dog. In twenty-four hours the animal was dead; the
+sub-cutaneous tissue all round the seat of the injection, red,
+inflamed, and infiltrated with {100} blood. The urinary bladder was
+empty. The gall-bladder contained 1½ ounces of dark bile of a specific
+gravity of 1040. When examined with the microscope, the blood was found
+to contain a large excess of white corpuscles.[26]
+
+[Footnote 26: It has just been said that the blood contained a large
+amount of white blood corpuscles. This reminds me of a fact that I have
+omitted to mention--namely, that in a case of severe jaundice from
+suppression, in consequence of cirrhosis of the liver, I found that the
+blood possessed a very treacle-like aspect. The serum was of a dingy
+yellow hue, and felt somewhat sticky to the fingers. Under the
+microscope the blood corpuscles were found to be large, and flabby, had
+a great tendency to adhere together by the edges, and become flattened
+on the sides whenever they came in contact. Moreover, the corpuscles
+looked as if they had no distinct cell-wall; some, and that too, in the
+freshly drawn blood, gave off buds, others split into two, each half
+when separate looking like a distinct blood corpuscle. In fact, the
+blood looked more as if it had been acted upon by some powerful
+chemical agent than anything else. I again examined it after the death
+of the patient, and found it presented all the above characters in a
+still more marked degree. To the naked eye it had a viscid, tarry
+appearance.]
+
+These results rather militate against the theory of the bile being
+re-absorbed, in an unchanged state, into the circulation, after the
+completion of the digestive process.
+
+
+{101} TREATMENT OF JAUNDICE.
+
+After what has been said regarding the pathology of jaundice, I need
+scarcely remark that the treatment must vary according to the kind of
+disorder we have to deal with. A line of treatment found to be
+beneficial in one case of jaundice, might prove very hurtful in
+another. For, as has been shown in the foregoing pages, jaundice from
+suppression, and jaundice from obstruction, are, it might be said, two
+entirely different diseases, with only the symptoms of yellow skin,
+high-coloured urine, and pipe-clay stools in common. The success of our
+treatment will therefore depend on our powers of diagnosis.
+
+The general principles upon which the treatment of jaundice must be
+founded are as follows:--
+
+The first and great object is, of course, as in the case of every other
+disease, to remove, if possible, the exciting cause. When that is
+accomplished, we can with safety turn our attention to the removal of
+its effects. I need not here detail the different exciting causes which
+it is our duty to remove. I have indicated them elsewhere, and the mere
+mention of some of their names is sufficient to denote the line of
+treatment which ought to be adopted. Thus, for example, if it be {102}
+ascertained from there being symptoms of tenderness, &c., in the
+hepatic region, that the jaundice arises from active congestion of the
+liver, the first object would of course be to subdue the congestion of
+that organ by means of leeches, hot fomentations, saline purgatives,
+&c., according to the age, sex, and constitution of the patient. On the
+other hand, if the jaundice be the result of passive congestion of the
+liver, we know well that so long as the exciting cause exists
+elsewhere, it will be worse than futile to attempt the removal of the
+hepatic congestion by direct means. In such a case, therefore, if to
+remedy the cause is beyond our power, our object will be to concentrate
+our efforts on the mitigation of its effects. Thus I might go through
+the whole list of causes of jaundice, and point out what appears to be
+the most appropriate treatment of each; but I think the time of my
+readers and my space, will be more profitably employed, if, instead of
+doing so, I turn my remarks chiefly to the therapeutical action of
+those remedies which we are constantly employing in the treatment of
+jaundice. The first remedy that merits special notice is mercury.
+
+The benefit of mercury in cases of liver disease cannot be denied; but
+the injudicious employment of this drug in cases of jaundice, has
+frequently been followed by the most disastrous results. {103} There
+was a time when mercury was administered in all cases of jaundice,
+irrespective of their cause; now, however, men are fortunately becoming
+more careful in the employment of this drug. But there is still a
+mistaken notion regarding the therapeutical action of mercurial
+preparations. It was at one time thought that they stimulated the liver
+to secrete bile, and now since physiology has shown that they possess
+no such action, many have gone to the opposite extreme, and declared,
+that if mercurials do not stimulate the liver to secrete bile, their
+benefit in hepatic disease has been a delusion; and the dark stools
+following upon their employment but the result of the sulphuret of
+mercury formed in the intestines. I take a very different view of the
+matter; for though believing that mercury does not directly stimulate
+the liver to secrete bile, I nevertheless opine that it has an
+important indirect effect in reinducing the biliary secretion, and
+thereby curing certain cases of jaundice.
+
+The action of mercurials seems to me, to be this--mercury is a powerful
+antiphlogistic--it reduces the volume of the blood by its purgative
+properties, and it impoverishes the blood by its direct action on the
+red corpuscles. It has been poetically said by Dr. Watson, that mercury
+can blanch the rosy cheek to the white of the lily; {104} and nothing
+is more true, for in experiments on animals, I have found the prolonged
+use of mercury reduce the red blood corpuscles to a minimum. From this
+it is easy to understand how mercury acts in inflammatory affections;
+and as in the majority of cases of jaundice from suppression, the
+stoppage of the biliary secretion is due to active congestion of the
+liver, mercury proves beneficial in such cases, not by stimulating the
+biliary secretion, but simply by removing the obstacle to its
+re-establishment, namely, the hepatic congestion.
+
+As a good illustration of the correctness of this theory regarding the
+action of mercurials in cases of jaundice arising from congestion, I
+may be allowed to quote the following case, which appeared among the
+Hospital Reports of the "Lancet" of the 7th December, 1861. The case is
+headed, "Intense Congestion of the Liver, simulating an Abdominal
+Tumour:"--
+
+Alex. E----, aged forty-eight, was admitted into St. Bartholomew's
+Hospital, under the care of Dr. Farre, on the 17th October, 1861. The
+patient had, it appeared, been suffering from jaundice during six
+weeks. He stated that the tumour in the epigastrium began about the
+same time as the yellowness of the skin.
+
+On examination, a prominent swelling was {105} noticed in the
+epigastric region, possessing an indistinct feeling of fluctuation, but
+it was found to be continuous with the liver. The motions were not
+bilious, but were of a clay colour, and the urine looked like pure
+bile. Three grains of blue pill and two of Barbadoes aloes were ordered
+every night. By the 25th the hepatic tumour was less, and the icterus
+was disappearing. On November 4th the urine was clearer and full of
+lithates. The conjunctivæ were the only parts observed of a yellow
+colour.
+
+November 11th.--Although the pills had been continued up to this date,
+the mouth was not sore. The urine and stools were natural, and the
+patient was convalescent. A few days afterwards he left the hospital.
+
+The result of the case clearly proved not only that the swelling was
+from a highly congested liver, but also that the jaundice depended on
+this state.
+
+In this case it is evident that the primary beneficial action of the
+mercury was to reduce the congested state of the hepatic organ, and no
+one, I think, would venture to say that this was accomplished by the
+power the mercury possessed of exciting the liver to secrete bile.
+
+If, then, the above view of the therapeutical action of mercurials be
+correct, it is easy to understand how, in cases of jaundice from
+permanent {106} obstruction of the gall-duct, the administration of
+mercury or any other lowering medicine, must prove detrimental by
+hastening the fatal termination.
+
+Although mercury has not, there are some substances which have, the
+power of exciting the flow of bile, just as there are substances which
+excite the flow of saliva. Among these the mineral acids, and soluble
+alkalies, hold the first rank. It may seem strange that acids, and
+alkalies, should be here placed in juxta-position; but the reason of
+this arrangement will immediately appear.
+
+According to a physiological law, acid substances have the power of
+exciting alkaline secretions, and alkaline substances of stimulating
+acid secretions.
+
+Bile being an alkaline secretion, we can therefore have no difficulty
+in understanding how the mineral acids act in cases of jaundice from
+suppression, induced, for example, by enervation. They simply stimulate
+the secretion of bile.
+
+It is not so easy, however, to comprehend the action of alkalies in
+similar cases. My explanation of their action is as follows:--When
+taken after food, and when taken on an empty stomach, the action of an
+alkali is entirely different. After food, and during digestion, the
+stomach contains a {107} quantity of acid gastric juice, and an alkali
+taken then, only neutralizes the acid. On the other hand, when an
+alkaline substance is introduced into an empty stomach, it acts
+according to the general law of exciting an acid secretion;
+consequently, an immediate flow of gastric juice takes place. And I
+believe it is the excess of this acid gastric juice, which, on reaching
+the duodenum, stimulates the secretion, and excites the flow from the
+gall-bladder of the alkaline bile, just as the mineral acids do under
+similar circumstances. One remark further is, however, necessary. The
+quantity of alkali employed for the purpose of stimulating the
+secretion, or of exciting the flow of the already secreted bile must be
+small, for if much be used, the greater part of the gastric juice will
+be rendered useless, in consequence of its being neutralized as fast as
+it is secreted. It may be laid down as a general rule, that when we
+desire to increase the flow of bile by means of a mineral acid, the
+acid must be given _after food_. When, on the other hand, an alkali is
+selected for that purpose, the alkali must be administered _before
+food_.
+
+For obvious reasons, both alkalies and acids are counter-indicated in
+cases of jaundice resulting from active congestion of the liver; and it
+is equally evident that they can be of no direct {108} service in
+jaundice arising from occlusion of the bile-duct, where our object
+would be rather to diminish than to increase the secretion of bile.
+
+Alkalies, or at least some alkalies, possess certain other properties
+besides those to which allusion has just been made, which may be
+usefully turned to account in the treatment of hepatic diseases. For
+example, we have been long told that alkaline carbonates are valuable
+remedies in cases of gall-stones, in consequence of their possessing
+the power of dissolving biliary calculi. Now, although I am not
+sufficiently enthusiastic to believe that alkalies can have much effect
+in dissolving gall-stones when once formed, I nevertheless believe that
+they are of the utmost advantage in preventing and arresting their
+deposition. The alkali to which I give preference is the carbonate of
+soda, and the reason why I prefer it to the carbonate of potash, is in
+consequence of my believing that the advantages derived from
+administering alkalies in cases of incipient gall-stones are entirely
+due to our being able thereby to increase the amount of glycocholate,
+and taurocholate of soda present in the bile; both of which substances,
+separately or combined, retain cholesterine in a soluble form; and, as
+is well known, by far the greater number of biliary calculi are
+composed almost entirely of pure cholesterine.
+
+{109} The carbonate of soda has yet another advantage. It was long ago
+observed by Dr. Prout that gall-stones are very common in persons of a
+gouty, and rheumatic tendency of body, a fact which I have myself been
+able to confirm on several occasions, by making a quantitative analysis
+of the uric acid in the twenty-four hours' urine, as recommended at
+page 56. In such cases the carbonated alkali is of double service, for
+while increasing the solvent in the bile, it at the same time
+counteracts the uric acid diathesis. In a case of gall-stones, in a
+woman aged 36, where there was an almost daily deposit of fine
+crystalline uric acid in the urine, it was found necessary to continue
+the administration of ten grains of soda, with five of rhubarb, three
+times a-day during two months, before this tendency to lithic acid
+deposit was entirely overcome.
+
+Recently I have prescribed lithia water to persons of the uric acid
+diathesis in whom I had reason to suspect the existence of a
+predisposition to gall-stones; and when it was necessary to combine it
+with stimulants, sherry has been the wine selected. For some further
+remarks on the treatment of gall-stones, see pages 114, 119, and 123.
+
+There is a remedy to which I wish to call special attention, namely,
+benzoic acid. This substance was first recommended as a remedy in {110}
+jaundice by a German physician, about six years ago. Since then, I have
+tried it several times, and found it of benefit in jaundice arising
+from suppression. In those cases of obstruction, on the other hand, in
+which I tried it, it appeared to be anything but beneficial. I give it
+in the form of pill, three times a day. Dr. Green, one of my former
+pupils, who has just returned from India, tells me that he acted on my
+suggestion, and tried it in a case of well-marked jaundice, following
+an attack of delirium tremens; and that by the end of eight days it
+would have required an experienced eye to detect the tinging of the
+conjunctivæ.
+
+The following may be cited as a tolerably good example of the value of
+benzoic acid in cases of jaundice from enervation:--
+
+William M----, aged eleven years, labouring under an acute attack of
+severe jaundice, came under my care at University College Hospital on
+the 2nd of February. The patient appeared to be a moderately developed,
+and very intelligent boy. The jaundiced condition of the skin, his
+mother said, was first noticed on the 30th of January, only two days
+before he came to the hospital. It was further ascertained that,
+although the boy had for some length of time been subject to monthly
+attacks of severe headache, and bilious vomiting, he had never before
+suffered from {111} jaundice. On the present occasion he complained of
+headache, but it was unaccompanied either by sickness or vomiting. On
+examination the liver was found normal in size, and not in the least
+tender on pressure. The bowels were moderately open, and the stools not
+clay-coloured. The urine was of a deep orange tint, and the skin of a
+dark yellow hue. There was an abundance of bile pigment, but not a
+trace of bile-acids in the urine.
+
+As the jaundice appeared to be the result of enervation, brought on by
+over mental exertion, the boy was ordered to be kept from school, and
+not allowed to read any books (his mother said he was always reading).
+At the same time three grains of benzoic acid were ordered to be taken
+thrice a-day.
+
+9th February.--The skin was now very much paler, the yellow colour
+being nearly gone. The conjunctivæ were still yellow, although less so
+than at last visit. The urine remained unchanged in colour. He was
+ordered to continue the medicine.
+
+16th February.--Skin perfectly normal in colour; if anything perhaps a
+shade whiter than natural. Conjunctivæ no longer yellow. Dismissed
+cured.
+
+In this case no medicine whatever, except the benzoic acid, was given.
+
+As far as my experience goes, benzoic acid {112} appears to be most
+useful in jaundice arising from enervation or from active congestion,
+as in the case related at page 27; but in cases of the latter kind it
+seems to be of little service until the acute symptoms have
+disappeared. I am still rather doubtful regarding the mode in which it
+acts, although one point seems clear, namely, that it hastens the
+re-absorption from the tissues, and elimination from the body, of the
+bile-pigment. It thus appears to play the part of a whitewash; for, as
+one of my lady patients once graphically said, the medicine had
+bleached her. On one occasion I tried benzoic acid in a case of
+jaundice following upon an attack of ague; but it proved of no service.
+Indeed, quinine, combined with mercurials, seemed in that case to be
+the only remedy.
+
+There is another drug which proves of service in jaundice from
+suppression, namely, podophyllin, or May-apple. This remedy, which was
+first introduced from America, is supposed to possess both the
+alterative and purgative properties of mercury. As an alterative, it is
+given in doses varying from 1/8 to ¼ of a grain, three times a-day; as
+a purgative, from ¼ to 1 grain, as a single dose. I have given this
+remedy a tolerably fair trial, and although it seems to be very useful
+as a purgative in hepatic disease, and to increase the flow of bile, I
+have found it open to two objections: {113} firstly, its action is
+slow, and not always certain; and, secondly, in delicate females it
+gives rise to a good deal of griping. This latter objection can,
+however, to a certain extent, be counteracted, by combining the remedy
+with hyoscyamus. On the whole, I prefer mercurials to podophyllin, and
+only administer the latter in slight cases of jaundice, or in those
+where mercurials are counter-indicated.
+
+For example, in cases of feeble liver, where there is an insufficient
+secretion of bile from want of nervous power, podophyllin is decidedly
+of service, for in such cases mercury is of course counter-indicated.
+Moreover, podophyllin can be advantageously combined with vegetable
+tonics, and, when given along with gentian or quinine, forms an
+admirable hepatic stimulant in some of the cases usually denominated
+"torpid liver."
+
+I cannot refrain from making a few remarks on what I consider the
+injudicious employment of podophyllin. Like every new remedy, it has to
+run the risk of falling into disfavour, in consequence of its too
+ardent admirers blindly prescribing it in all cases of hepatic disease;
+in many of which it must of necessity prove unsuitable, if not even
+detrimental. In cases of jaundice, for example, podophyllin is at one,
+and the same time, the bane, and the antidote. The bane in _all_ cases
+of {114} jaundice from obstruction, the antidote in a _few_ cases of
+jaundice from suppression. Having already indicated the cases in which
+it may be administered with advantage, I shall now call attention to
+one of those where it cannot be employed without injury, and one in
+which it is, nevertheless, frequently given. The case I allude to is
+that of gall-stones. When once a gall-stone has formed, and is blocking
+up the common bile-duct, thereby causing jaundice from obstruction, it
+is easy enough to understand why a substance like podophyllin, which
+increases the biliary secretion, is to be avoided. It is not, however,
+so easy to understand why the remedy is equally counter-indicated,
+either during the formation or sojourn of a gall-stone in the
+gall-bladder. This, therefore, I must explain. In speaking of the mode
+of formation of gall-stones in the gall-bladder (page 43), I have
+stated that their formation is due to the deposition of the less
+soluble parts of the bile, either as a consequence of these ingredients
+being in excess, or in consequence of the solvent, whose duty it is to
+retain them in solution, being in reduced quantity. It follows, then,
+as a natural result, that the longer bile sojourns in the gall-bladder,
+and the thicker it becomes, the more likely are its constituents to be
+deposited, and increase the size of the already existing concretion,
+{115} or give origin to a new formation. It may be further added, that
+the greater the amount of bile secreted, the longer is it likely to
+remain in the gall-bladder, and the more concentrated to become; for,
+as is well known, there is a constant absorption of the aqueous
+particles of the bile going on during the whole time it is stored up in
+its reservoir. If, then, during the intervals of digestion, the liver
+secretes merely sufficient bile to meet the requirements of the
+succeeding meal, by the end of the digestive process the gall-bladder
+will be entirely emptied of its contents, and ready to receive a fresh
+supply. Whereas, if the liver secretes more bile during the intervals
+of digestion than the wants of the system require; after the completion
+of each succeeding meal the excess of bile will remain behind in the
+gall-bladder, and, while becoming stored up with that subsequently
+secreted, of necessity, favour the increase or excite the formation of
+gall-stones in persons predisposed to them. There being nothing more
+conducive to the deposition of biliary calculi than a well-filled
+gall-bladder.
+
+As a warning against the indiscriminate use of podophyllin, I may cite
+the following case, which has come under my notice as these sheets are
+passing through the press. A few weeks ago I received a telegram
+requesting me to visit, as {116} early as possible, a lady dwelling in
+the neighbourhood of St. John's Wood. On my arrival I found the lady
+suffering from a well-marked jaundice, and considerably prostrated in
+consequence of her having just arrived from Brighton, where she had
+gone for the benefit of her health, but where, instead of getting
+better, she got considerably worse. The history of the case was, that
+the lady had been seized with pain in the back (middle of dorsal
+region) about three weeks before I saw her. That there had been great
+tenderness in the region of the gall-bladder--so much so, that she
+could scarcely tolerate the pressure of her stays; and that she had
+suffered from occasional attacks of sickness after eating.
+
+On examining the patient I found the liver enlarged, and tender on
+pressure. The gall-bladder much distended, and easily felt. The skin of
+a yellow hue. The stools of a pale tint. The urine very dark-coloured,
+and loaded with lithates. I had, consequently, no difficulty in
+diagnosing the case as one of gall-stone impacted in the common
+bile-duct; but on communicating my suspicions to the patient, I was
+informed that such could not possibly be the case, for during a
+considerable time past she had been carefully treated with podophyllin.
+Indeed, I learned to my surprise that she had taken from a quarter to
+{117} half a grain of that substance nearly every day during the six
+previous months!
+
+This incidental piece of information, instead of shaking my opinion, as
+the patient had apparently expected, only tended to strengthen my
+suspicions, for the reasons previously given, namely, that the
+podophyllin must have tended to keep the gall-bladder constantly full
+of bile. I accordingly prescribed for the case as one of impacted
+gall-stone, and left instructions that the stools should be carefully
+examined for its appearance.
+
+On the following day the patient felt better; but the jaundiced tint
+was deeper, the stools paler, and the urine still high-coloured. The
+deposit of lithates had, however, slightly diminished. Still, feeling
+certain that the case was one of impacted gall-stone, I ordered the
+medicine to be repeated, and the stools to be again carefully
+examined.[27] On my arrival at the patient's house the next day, the
+maid met me with an expression of satisfaction which could not be
+misinterpreted, and I had scarcely entered the sick chamber when, with
+an {118} air of triumph, she showed me a gall-stone about the size of a
+large garden-pea, or small field-bean. It had been passed that morning
+about 11 o'clock, that is to say about fifteen hours after the second
+dose of medicine. On analysis the stone was found to consist almost
+entirely of cholesterine, and I have not the smallest doubt in my own
+mind that to the constant use of the podophyllin may, in a great
+measure, be attributed its formation. Unfortunately the stone had been
+accidentally broken before I saw it, and I was consequently unable to
+ascertain decidedly whether it was a solitary calculus, or one of many.
+Had it been one of several, it would of course have possessed facets.
+One facet would have indicated that the stone was one of two; two
+facets that three stones existed; three facets, that the gall-bladder
+had contained at least four calculi; while four or more facets would
+denote that the stone was one of many; whereas, if it was a solitary
+calculus, no such markings would be present.
+
+[Footnote 27: We are sometimes told to add water to the stools, and
+that if gall-stones are present they will be found floating on the
+surface. I have never yet been able to detect a gall-stone in this way.
+The plan I recommend is, therefore, to mix the stool freely with water,
+and either decant the supernatant fluid, and then add fresh portions of
+water till the whole of the soluble matter is removed, or to strain the
+mixture through a hair-sieve. The gall-stone in either case remains
+behind, and can be readily detected.]
+
+I may merely add, in conclusion, that from the time the stone passed,
+the stools resumed their normal colour--the first two or three were
+much darker than natural, in consequence of the sudden escape of the
+pent-up bile--the urine gradually became pale, and clear, and the skin
+regained its wonted hue. The latter change was expedited by {119} the
+administration of benzoic acid, and in a week from my first visit, a
+stranger would have been quite unable to detect that the patient had
+laboured under a recent attack of jaundice.
+
+A few years ago a mixture of sulphuric ether, and turpentine was very
+extensively used, especially in France, as a solvent for gall-stones.
+This line of treatment was adopted on account of the well-known
+solubility of cholesterine in sulphuric ether, and it was thought that
+the remedy would act upon the cholesterine concretions in the
+gall-bladder in the same manner as it did out of the body. After a
+time, faith in the powers of the mixture became shaken, and it at
+length gradually ceased to be employed.
+
+Within the last year or two, Dr. Bouchut[28] has revived the same
+theory with another form of remedy, namely, chloroform, which he
+administers internally, with the view of dissolving any inspissated
+bile or biliary calculi that may be lodging in the gall-bladder. Dr.
+Bouchut states that he has treated one case of gall-stones in this
+manner with success. Now, although I have not the slightest desire to
+throw discredit on the statement of Dr. Bouchut, I must candidly admit
+that I am very much inclined to doubt the accuracy of his observations.
+In the first place, it is always {120} extremely difficult to ascertain
+the existence of biliary concretions so long as they remain in the
+gall-bladder, and it is equally difficult to know, after gall-stones
+have been once passed by a patient, whether or not all have come away.
+If, then, we administer chloroform to a patient, either before or after
+a gall-stone has actually passed, we cannot, with anything approaching
+to certainty, attribute the cessation of his symptoms to the
+circumstance of the chloroform having dissolved a gall-stone. In fact,
+on physiological grounds, I very much doubt the efficacy of either
+sulphuric ether or chloroform as solvents of gall-stones in the living
+body. Sulphuric ether, and chloroform would no doubt dissolve a
+concretion of cholesterine in the gall-bladder were they admitted into
+that viscus in sufficient quantity, and in a pure state. But we have no
+proof that such is the case. On the contrary, we know, at least in as
+far as chloroform is concerned, that exactly the opposite is the fact;
+for no sooner does chloroform become absorbed, and mingled with the
+constituents of the blood, than it becomes decomposed, the chlorine
+combining with the blood, and the formic acid being set free.[29] And
+even supposing that sulphuric ether and chloroform existed in the blood
+in a free state, they could not possibly do so in a sufficiently {121}
+concentrated form to be able to act as solvents of biliary calculi.
+
+[Footnote 28: "Edin. Med. Journ." 1861, p. 398.]
+
+[Footnote 29: Jackson, Comptes Rendus, February 25th, 1856.]
+
+My own experiments on animals have shown me how rapidly fatal even
+small quantities of chloroform are when injected into the circulation,
+and a similar remark is equally applicable to sulphuric ether. A few
+drops of these substances can very readily be injected into the
+circulation with impunity;[30] but the quantity must not be increased
+beyond a certain amount, far less than could possibly dissolve a single
+grain of cholesterine, otherwise immediate death follows the operation,
+by inducing a state of body closely resembling rigor mortis, from which
+the animals never recover. I am, therefore, completely at a loss to
+understand how these remedies can be of service in dissolving
+gall-stones in the living body; and as I make it a rule as seldom as
+possible to prescribe a remedy without a knowledge of its physiological
+action, I have not yet ventured on an empirical trial of the effects of
+sulphuric ether or chloroform administered internally in cases of
+gall-stones. For some remarks on the passage of biliary calculi, see
+page 123.
+
+[Footnote 30: Vide the Author's paper on a new method of producing
+diabetes artificially in animals, by the injection of
+stimulants--alcohol, ether, chloroform, ammonia, &c.--into the portal
+circulation. Comptes Rendus de la Societé de Biologie de Paris. 1853.]
+
+{122} Taraxacum has been widely used in hepatic disease associated with
+jaundice, and is believed to be particularly well adapted to cases
+arising from congestion. As in such cases I generally trust to more
+potent drugs, my experience with this remedy has been too limited to
+admit of my offering an opinion of its value.
+
+The majority of cases of jaundice from obstruction, are much less under
+the power of remedial agents than those arising from suppression, for
+we have here three distinct conditions to combat: Firstly,--The
+derangements originating in the absence of bile from the digestive
+canal. Secondly,--The morbid effects arising from its accumulation in
+the ducts, and consequent interruption to the hepatic functions.
+Thirdly,--The general poisonous action on the system, of the
+re-absorbed bile.
+
+As regards the first of these effects,--namely, the derangements
+arising from an absence of bile from the digestive canal, it may be
+said that if these were the only difficulties with which we had to
+contend in cases of jaundice from obstruction, they could easily be
+overcome. For, in the first place, the absence of bile is not attended
+with any immediate danger, a circumstance which has led to the common
+belief that the presence of bile is not absolutely essential to life.
+Experiments on dogs {123} with biliary fistulæ, like those before
+referred to, as well as cases in the human subject, have proved that
+life may be sustained, under certain conditions, for a very long
+period, without bile reaching the intestines. Indeed, the only
+immediate bad effects which appear to result from its absence, are
+costive bowels, great flatulence, and extremely offensive stools. The
+indirect bad results,--namely, loss of flesh, &c., as has been proved
+by experiments on animals, can be counteracted by giving an additional
+amount of food; and even the direct results of constipation,
+flatulence, and foetor, may be overcome by appropriate remedies.
+
+The secondary morbid effects, namely, those arising from the
+accumulation of bile in the ducts, are unfortunately not so easily
+under control. Could we remove the cause of obstruction, these would,
+of course, immediately cease. This, however, is seldom in our power,
+except in the case of gall-stones, the expulsion of which we can aid in
+various ways. In general, we can very successfully aid the passage of a
+stone through the ducts by administering an anodyne containing a full
+dose of the tincture of belladonna, which apparently assists in
+dilating the duct. Placing the patient in a warm bath is also of
+service; and when the paroxysms of pain are very severe, the occasional
+inhalation of the vapor from a couple {124} of drachms of sulphuric
+ether poured on a handkerchief, made into the form of a cup, is
+generally attended with great relief. Each of these modes of treatment
+may be followed either by a brisk emetic, or purgative, in the hope
+that the efforts of vomiting or purging may hasten the expulsion of the
+stone, either by the mouth or rectum.
+
+It ought never to be forgotten, that the evil results of a gall-stone
+do not always cease when it has reached the intestinal canal. Even
+death itself has resulted from the impaction of a gall-stone in the
+duodenum. When we have any suspicion that the stone is large, our
+treatment must therefore be continued until its extrusion by the mouth
+or rectum has been accomplished.
+
+When the occlusion of the common bile-duct is caused by an organic
+tumour, no treatment of ours can be expected to remove the obstacle,
+and sooner or later the patient is carried to an untimely grave. Our
+efforts of relief in such a case ought therefore to be directed to
+another channel; and here, in order to give the sufferer at least some
+chance of recovery, even although it be little better than a forlorn
+hope, I cannot refrain from recommending, in cases of permanent
+occlusion of the duct, in which there is great distension of the
+gall-bladder, the establishment of an artificial biliary fistula. Were
+this done, the patient would be placed, as {125} nearly as possible, in
+the same condition as an animal in which the operation has been
+performed for physiological purposes, and, we might almost hope, with
+an equally favourable result, at least, in as far as the biliary
+functions are concerned. In the first place, we would have removed all
+the derangements resulting from the interruption to the flow of bile,
+and consequent upon the distension of the ducts. In the second place,
+we would have obviated the danger arising from the poisonous effects of
+the re-absorbed bile, which the experiments previously cited (page 98)
+show are of no trifling nature; and, lastly, we would only require to
+combat the evils arising from the absence of the biliary secretion in
+the digestive process, which, as was before said, can to a certain
+extent be overcome by giving an additional quantity of food, and paying
+attention to the bowels. In these remarks I have omitted taking into
+consideration the effects that might arise from the tumour, or other
+obstructing cause to the biliary secretion, for these would in no way
+be directly influenced by the establishment of the biliary fistula.
+
+The artificial establishment of a biliary fistula in the human subject,
+is not such an Utopian idea as might at first be imagined. Distended
+gall-bladders having been several times tapped with {126} success, both
+in this and other countries, and the permanent establishment of a
+fistula, if done in the manner I shall immediately point out, would, in
+my opinion, be a much less hazardous operation than simple tapping.
+Biliary fistula in dogs are generally made in a single operation, by
+cutting through the abdominal parietes, seizing the gall-bladder,
+stitching it to the lips of the wound, and inserting a cannula. Here
+there is always some danger of the wound not healing by the first
+intention, and of the passage of bile into the abdominal cavity. In the
+case of the human subject, I should, therefore, recommend the inducing
+of the adhesion of the gall-bladder to the abdominal parietes by means
+of an escharotic, before making the opening; in which case, I can
+scarcely imagine that the operation would prove one either of
+difficulty or danger. But even supposing that it were not entirely free
+from either, it would still surely be preferable to give the patient at
+least a chance of prolonging his life, rather than to permit a fatal
+affection to run its uninterrupted course, which we know can, at best,
+be calculated by months only.
+
+In those cases of jaundice from obstruction, where it might be
+considered inadvisable to adopt the plan here suggested, we ought in
+our treatment carefully to avoid the common error of {127}
+administering mercury, or other substances supposed to have the power
+of augmenting the biliary secretion. We must equally avoid the
+administration of foods likely to produce a similar effect, for the
+sufferings of the patient are not so much due to a deficient secretion,
+as to a want of biliary excretion. Our whole energies should be
+directed to sustaining the strength of the patient, and mitigating, if
+possible, the physical effects of the accumulation of the bile in the
+gall-bladder and biliary ducts, as well as the poisonous action of the
+re-absorbed secretion. This, I believe, we can best do by administering
+light and readily digested food, keeping the bowels open by gentle
+purgatives, and favouring the elimination of the biliary constituents
+from the blood by mild diuretics. Our object may be still further
+advanced by artificially supplying the place of the absent bile in the
+digestive process. _Not, however, in the way usually adopted, of giving
+inspissated bile along with the food;_ a method of treatment which
+originated ere modern physiology rent the veil of therapeutical
+empiricism. In the first place, the bile prepared according to the
+method indicated in the pharmacopoeias, has its most essential
+properties destroyed during the process of preparation. And in the
+second place, we have hitherto been instructed to administer it {128}
+at the very time which modern research has proved to be the most
+unsuitable that could possibly be devised. In administering bile
+immediately after food, as is usually done, we most effectually produce
+the contrary result to what is intended. When bile mingles with gastric
+juice, it destroys the digestive power of the latter, so that by giving
+the bile immediately or soon after a meal, we really diminish instead
+of increase the digestive functions. My experiments, both chemical, and
+physiological, have led me to propose not only a new method of
+preparing bile for medicinal purposes, but also to suggest an entirely
+new mode of administering it.
+
+Firstly,--As regards the method of preparation. Nothing can be more
+simple, and at the same time more effectual. Fresh bile, taken directly
+from the gall-bladder of the newly killed pig, is filtered, through
+very porous filter-paper, to free it from mucus; it is then as rapidly
+as possible evaporated to dryness at a temperature not exceeding 160°
+Fahr. The bile, as soon as dried, is ready for use. Simple as this
+operation appears in theory, there are two practical difficulties
+connected with it--1st, Bile filters very slowly, and consequently
+little must be put into the filter at a time. 2nd, Bile is rather
+hygroscopic, and consequently, in order to get it dried quickly, it is
+necessary {129} to spread it over a large surface. If the bile has been
+well prepared, that is to say, thoroughly freed by filtration from its
+ferment mucus, and well dried, it will keep in stoppered bottles for
+many months without losing any of its active properties.
+
+Having stated that bile as at present employed more frequently does
+harm than good, by retarding instead of hastening the digestive
+process, I have now to point out the manner in which it may be given
+with advantage.
+
+If bile be administered, as I propose, at the _end_ of stomachal
+digestion, it will, as in the healthy organism, act on the chyme at the
+proper moment, and thereby render it fit for absorption. In order still
+further to ensure the action of the bile being delayed until the food
+is in a condition favourable to its action, that is to say, until it is
+ready to pass from the stomach into the duodenum, I have had the bile,
+as above prepared, put into capsules,[31] which are not readily acted
+on by the gastric juice. While in the stomach, the capsules, however,
+swell up from the size of a pea to that of a small gooseberry, and at
+the same time become so soft that they will readily burst in passing
+the pylorus into the duodenum, and thereby allow {130} the bile to
+escape, and come in contact with the food at the precise moment its
+action becomes requisite in the digestive process.[32] The capsules not
+only preserve the active properties of the bile for an almost
+indefinite period, but they have the advantage of most effectually
+preventing the patient tasting the remedy.
+
+[Footnote 31: The capsules were made by Savory and Moore, and I have
+every reason to be satisfied with the manner in which they accomplished
+the object in view.]
+
+[Footnote 32: Prepared bile, made up into an ordinary pill, dissolves
+in gastric juice in a quarter of an hour. When the pill is silvered it
+is dissolved in half an hour, and when gilded, in forty minutes.
+Whereas, in the same specimen of gastric juice, the capsules prepared
+for me by Savory and Moore, although swollen to more than three times
+their original size, were nevertheless intact at the end of an hour and
+a half. They readily broke on being gently squeezed between the finger
+and thumb, it is not therefore probable that they would pass the
+pylorus in this condition without giving way, and allowing their
+contents to escape.]
+
+Each capsule contains five grains of the prepared bile; and five grains
+is equal to one hundred grains of liquid bile fresh from the
+gall-bladder. Two capsules therefore represent two hundred grains of
+pure bile, a quantity (though less, perhaps, than the healthy organism
+consumes during each digestion) which in most cases would be sufficient
+for the wants of the system. If, however, a larger amount be considered
+necessary, there is no reason why three or more capsules should not be
+given. By the administration of prepared bile in the manner here
+described, the physician is enabled to imitate nature, and {131} supply
+an important element to the system; which, although incapable of curing
+the disease, can nevertheless ward off for a time the fatal
+termination.[33]
+
+[Footnote 33: It is not alone in cases of jaundice that the prepared
+bile may be of service, but also in the various forms of duodenal
+dyspepsia, so common among the literary classes, consequent upon either
+a deficient quantity, or an abnormal quality of bile.]
+
+
+{132} TABULAR VIEW OF THE PATHOLOGY OF JAUNDICE, ACCORDING TO THE
+AUTHOR'S VIEWS.
+
+         |From        |Enervation. . . . . . |Fright.
+         |Suppression.|                      |Anxiety.
+         |            |                      |Over-mental exertion.
+         |            |                      |Concussion of Brain.
+         |            |
+         |            |Congestion |Active. . |Hepatitis.
+         |            |of Liver.  |          |Direct Violence.
+         |            |           |          |Dyspepsia.
+         |            |           |          |Ague.
+         |            |           |          |Typhus.
+         |            |           |          |Typhoid.
+         |            |           |          |Scarlatina.
+         |            |           |          |Pyæmia.
+         |            |           |          |Yellow Fever.
+         |            |           |          |Poison.
+Jaundice.|            |           |
+         |            |           |Passive.  |Heart Disease.
+         |            |                      |Pneumonia.
+         |            |                      |Pleurisy.
+         |            |                      |Imperfect Circulation
+         |            |                      |  in the Newborn.
+         |            |
+         |            |Absence of Secreting  |Cancer.
+         |            |  Substance.          |Cirrhosis.
+         |                                   |Fatty Degeneration.
+         |                                   |Amyloid Degeneration.
+         |                                   |Atrophy.  |Acute.
+         |                                   |          |Chronic.
+         |
+         |From        |Congenital Deficiency |Small Ducts (?)
+         |Obstruction.|  of Ducts.           |Common Duct.
+                      |
+                      |Accidental Obstruction|Gall-stones.
+                      |  in course of Duct.  |Hydatids.
+                      |                      |Foreign Bodies
+                      |                      |  from Intestines.
+                      |
+                      |Closure of Outlet. .  |Pressure of Pregnant
+                                             |  Uterus.
+                                             |Impacted Fæces in
+                                             |  Transverse Colon.
+                                             |Organic Disease of
+                                             |  Pancreas, or of
+                                             |  neighbouring Organs.
+                                             |Abscess in Head of
+                                             |  Pancreas.
+                                             |Ulcer of Duodenum.
+
+
+{133}
+
+INDEX.
+
+
+A.
+
+Abscess in kidney, 58
+  in pancreas, 86
+
+Acids, treatment by, 106
+  of bile, 8, 36, 58
+
+Acute atrophy of liver, 34
+
+Ague, jaundice in, 28
+  urine in, 28
+
+Albumen in urine of ague, 28
+
+Albuminose, 14
+
+Alkalies, treatment by, 106
+
+Artificial jaundice, 95
+
+Atrophy of liver, 34
+
+
+B.
+
+Benzoic acid, treatment by, 109
+
+Bidder's researches, 16
+
+Bile, acids of, 8, 36, 58
+    tests for, 58, 61
+  action of, on albumen, 14
+  action on fats, 16
+  analysis of, 83
+  colour of, 10
+  diseased, 83
+  drunk by Caffres, 19
+  effects of food on, 11
+  inorganic constituents, of, 10
+  pigment in kidneys, 57, 86
+  mode of secretion, 11
+  nature of, 7, 83
+  in digestive process, 15
+  essential to life? 13
+  specific gravity of, 10
+  treatment of jaundice by, 127
+  resin, 10
+
+Biliary fistula, 124
+
+Biliverdine, 7, 56
+
+Blood in jaundice, 100
+
+Budd's (Dr.), views, 7, 30
+
+
+C.
+
+Cancer of liver, 32
+  of pancreas, 46
+
+Carbonate of soda, treatment by, 108
+
+Cherry-stones in bile-ducts, 45
+
+Cholesterine, 8, 82, 108
+
+Colour of bile, 10
+
+Congestion, hepatic, 24, 104
+
+Cystine, 86
+
+
+D.
+
+Diseases with which jaundice is associated, 3
+
+Dyspepsia, 26
+
+
+E.
+
+Eiselt (Dr.), 68
+
+Enervation, 22, 110
+
+Epidemic jaundice, 90
+
+
+F.
+
+Farre (Dr.), case, 104
+
+Fat in fæces, 54, 72
+  absorption of, 16
+
+Flatulence, 13
+
+Frerichs on mechanism of jaundice, 6, 33
+
+Fright, effect of, 23
+
+
+G.
+
+Gall-bladder, absence of in animals, 12, 41
+  congenital deficiency of, 40
+
+Gall-stones--
+  mode of escape from gall-bladder, 44
+  mode of formation, 43
+  in common duct, 44
+  in gall-bladder, 43
+  in intestines, 123
+  treatment of, 108, 114, 119, 123
+  carbonate of soda in, 108
+  chloroform in, 119
+  podophyllin in, 115
+  sulphuric ether in, 119
+
+Glycocholic acid, 8, 97
+
+Glycocholate of soda, 8
+    injected into blood, 39
+
+
+H.
+
+Heart disease, jaundice in, 30
+
+Hepatic congestion, 24, 104
+
+Hoppe's method, 58
+
+Hydatids in bile-ducts, 45
+
+
+I.
+
+Impacted fæces, effect of, 46
+
+Inflammation of liver, 24, 104
+
+Inorganic constituents of bile, 10, 83
+
+Intestinal excretion, analysis of, 51
+
+Introduction, 1
+
+
+J.
+
+Jaundice, artificial, 95
+  from acute atrophy of the liver, 34
+    absence of bile-duct, 40
+    absence of gall-bladder, 41
+    absence of secreting substance, 31
+    ague, 27
+    blood-poisoning, 27, 93
+    blow on head, 24
+    cancer, 32
+    enervation, 22, 110
+    entozoa, 45
+  epidemic, 90
+  from fright, 23
+    gall-stones, 42, 116
+    hepatic congestion, 24, 104
+    mental emotion, 22, 110
+    active hepatic congestion, 25, 104
+    passive hepatic congestion, 29
+    disease of the pancreas, 46
+    pregnancy, 46
+    obstruction, 39, 71
+    scarlatina, 93
+    suppression, 20
+    typhus, 27
+    tubercle, 32
+    zymotic disease, 27, 90
+  mechanism of, 19
+  treatment of, 101
+
+
+K.
+
+Kidneys as eliminating organs, 11
+
+Kühne's views, 58, 98
+
+
+L.
+
+Lenz's experiments, 16
+
+Leucine, 63, 80, 95
+
+Liver cells, 38, 85
+
+Liver, extirpation of, 11
+
+
+M.
+
+Marcet (Dr.), 16
+
+Martin (Dr.), 90
+
+Matteucci (Prof.), 17
+
+Melanine in urine, 68
+
+Mercurials, treatment by, 102
+
+Milk in jaundice, 22
+
+
+O.
+
+Obstruction, of bile-duct, 71
+  of pancreatic duct, 71
+  treatment in jaundice from, 122
+
+
+P.
+
+Pancreas, abscess in, 87
+
+Pancreatine, 73
+
+Pancreatic juice, 18
+    absence of, 73
+
+Pathology of jaundice, tabular view of, 132
+
+Pathological conditions with which jaundice is associated, 3, 132
+
+Pettenkofer's test, 36
+
+Pipe-clay stools, 52
+
+Pneumonia, jaundice in, 30
+
+Podophyllin, treatment by, 112
+  in cases of gall-stones, 114
+
+Prance (Dr.), 71
+
+Pregnancy, jaundice in, 91
+
+Pregnant uterus, effect of, 46
+
+Prepared bile, treatment by, 127
+
+
+S.
+
+Saint-Vel (Dr.), 91
+
+Scarlatina associated with jaundice, 93
+
+Schmidt's researches, 16
+
+Specific gravity of bile, 10, 83
+
+Sputa in jaundice, 22
+
+Stools, fat in, 54, 72
+  colour of, 52
+
+Sugar, a normal constituent of bile, 10
+  in urine, 70
+
+Sulphuric ether, 119
+
+Suppression, jaundice from, 20
+
+Sweat in jaundice, 22
+
+
+T.
+
+Table of the pathology of jaundice, 132
+
+Taurocholate of soda, 8
+
+Taurocholic acid, 8, 97
+
+Tears in jaundice, 22
+
+Theories regarding mechanism of jaundice, 5
+
+Treatment of jaundice, 101
+  by acids, 106
+  by alkalies, 106
+  by benzoic acid, 109
+  by biliary fistula, 124
+  by carbonate of soda, 108
+  of gall-stones, 108, 114, 119, 123
+  by Lithia water, 109
+  by mercurials, 102
+  of jaundice from obstruction, 122
+  by podophyllin, 112
+  by prepared bile, 127
+  by taraxacum, 122
+
+Tubercle, 32
+
+Tyrosine, 63, 80, 95
+
+
+U.
+
+Urea, 70
+
+Uric acid, 56, 70
+
+Urine, analysis of, 55
+    in acute atrophy, 36
+  in jaundice from ague, 28
+  in obstruction of bile-duct, 74, 78, 79
+  bile-acids in, 36, 58, 74, 97
+  colour of, 55
+  tyrosine and leucine in, 36, 80, 95
+  melanine in the, 68
+  uric acid, 56, 70
+  sugar in, 70
+
+Urohæmatine, 7, 55
+
+
+W.
+
+Wilks's cases, 35, 40
+
+
+Y.
+
+Yellow atrophy of liver, 34
+
+
+
+
+WILLIAM STEVENS, PRINTER, 37, BELL YARD, TEMPLE BAR.

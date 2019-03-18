@@ -1,0 +1,2074 @@
+PUNG-CHOW
+
+THE GAME OF A HUNDRED INTELLIGENCES
+
+_Also known as_
+
+MAH-DIAO
+
+MAH-JONG
+
+MAH-CHEUK
+
+MAH-JUCK
+
+_and_
+
+PE-LING
+
+by
+
+L. L. HARR
+
+
+
+
+
+
+
+[Illustration]
+
+
+Harper & Brothers, _Publishers_
+New York and London
+
+Copyright, 1922
+by L. L. Harr
+
+Printed in the U. S. A.
+
+
+
+
+NOTE
+
+
+Mr. L. L. Harr's skill in the game of Pung Chow has been acquired
+through more than twenty years of intimate contact with the business and
+official circles of cultured Chinese in Canton, Shanghai, Tientsin,
+Pekin and other centers of China. Mr. Harr has enjoyed more opportunity
+to mingle in polite Chinese society than any other European or American
+resident I knew in China.
+
+Mr. Harr, in consequence, was perhaps one of the first foreigners who
+learned the game from the best players in China. What is more, Mr.
+Harr's unusually keen appreciation and enthusiasm were largely
+instrumental in arousing the popularity of this extraordinarily
+fascinating Chinese game in the Western Hemisphere. To use a familiar
+American phrase, Mr. Harr was unquestionably one of the pioneers who put
+"PUNG CHOW" on the map west of Suez.
+
+Mr. Harr has not only brought the game to America, but has written the
+first authoritative book on "Pung Chow," based on the best modern
+methods of Chinese play.
+
+    J. D. BUSH,
+      Professor of English Literature,
+      Pekin National University,
+      Pekin, China.
+
+    January, 1923.
+
+
+
+
+PUNG-CHOW
+
+
+Score Card
+
+For Hands Played Without a Limit
+
+
+Winning Hand Bonus Scores
+
+    For Mah-Jong                                            20 points
+
+    For no sequences in hand or on table                    10 points
+
+    For no other score than Mah-Jong in hand or on table    10 points
+
+    For winning on a draw from the loose tiles              10 points
+
+    For drawing the winning piece                            2 points
+
+    For filling in the only place to win                     2 points
+
+
+Combination Scores
+
+                                               On Table     In Hand
+                                               (Exposed)   (Concealed)
+
+    For 3 of a kind of twos, threes, fours,
+      fives, sixes, sevens or eights            2 points     4 points
+
+    For 3 of a kind of ones, nines, winds
+      or dragons                                4 points     8 points
+
+    For 4 of a kind of twos, threes, fours,
+      fives, sixes, sevens or eights            8 points    16 points
+
+    For 4 of a kind of ones, nines, winds
+      or dragons                               16 points    32 points
+
+    For a pair of any dragon or the player's
+      own wind                                               2 points
+
+
+Doubling Honors
+
+    For three (or four) green dragons,        double total score once.
+
+    For three (or four) red   dragons,        double total score once.
+
+    For three (or four) white dragons,        double total score once.
+
+    For three (or four) of own wind,          double total score once.
+
+    For having all one suit except honor pieces,
+                                              double total score once.
+
+    For all one suit,                      double total score 3 times.
+
+    For all honor pieces,                  double total score 3 times.
+
+    For winning on original hand as drawn from the wall,
+                                           double total score 3 times.
+
+See page 65 for scoring values when hands are played with a limit.
+
+
+
+
+INTRODUCTION
+
+
+Out of China has come this stately game with the lure of Oriental
+mysticism to whet jaded appetites and with possibilities for study that
+challenge the keenest intelligence.
+
+There is a mysticism about the Oriental and his mode of life that
+challenges the imagination and induces a curiosity hard to decipher. The
+dress of the Chinese, their strange customs, their difficult language,
+and their apparently impenetrable mask-like faces appeal to the fancy
+and throw a veil of mystery around even the commonplace.
+
+The origin of this game is lost in the mist of centuries past. There is,
+though, an oral tradition to the effect that it was originated in the
+Court of the King of Wu, now known as Ning-Po, during the year of 472
+B.C. to entertain his consort and her court ladies and to help them
+while away the time which lay heavily on their hands. This was about the
+time of Confucius. It is, however, known to have been the Royal game,
+restricted to the use of Emperors and their friends of the Mandarin
+class for two thousand years. To them it was known as Pe-Ling
+(pronounced Bah-Ling) taking its name from the "bird of a hundred
+intelligences," the lark-like creature sacred in the Chinese faith which
+now may be seen reproduced on most Chinese tapestries and embroideries.
+The penalty paid by one of any other class for playing Pe-Ling at that
+time, was the loss of his head. Later--no one knows just when--the
+privilege of playing this wonder game was extended to the merchant or
+middle classes--and when, some 70 years ago--a social uprising
+threatened, one of the concessions granted to calm the unrest was the
+universal privilege of playing this game. In this way was caused the
+confusion of names for the game which exists even to-day in China; for,
+with the abolishing of Pe-Ling, each province applied their own name and
+pronunciation to the game, with the result that now we have from twelve
+to eighteen different names, by which the game is known. A few of these
+are Ma-Cheuk, Mah-Jong, Mah-Juck, Mah-Diao and Mah-Jongg.
+
+Pung Chow is made to withstand the climatic conditions which soon
+destroy the article imported under the name of Mah-Jongg and the other
+corruptions of Mah-Diao, and it is the true and original Chinese game
+translated by the addition of numerals just enough to be readily
+understood and not enough to spoil the artistry of the tiles. The
+addition of numerals has been overdone in the marking of many of the
+cheaper imported sets, and give the appearance of having had numerals
+sprinkled on them regardless of where they may land and permitted to
+stay.
+
+The fundamentals of this game are simple and require only practice to
+master. The science of Pung Chow must in the greater part be studied out
+by the individual player and one may spend the rest of his life in
+attaining to past mastery in its thousand-fold intricacies.
+
+
+
+
+SUMMARY OF THE GAME
+
+
+Before going thoroughly into the details of the playing of the game, it
+is better to give a general view of the play and its object.
+
+Pung Chow is played by thoroughly shuffling all of the tiles face down
+in the middle of the table, and forming them in a double-tiered, hollow
+square, called the wall. This wall is then broken at some point
+determined by the dice and each player draws an original hand of 13
+tiles. This leaves about two-thirds of the wall intact, and the rest of
+the play is devoted to drawing and discarding from this remainder of the
+wall; each player improving and matching his own individual hand until
+having arranged it into four sets and a pair, some player wins. A set is
+three of a kind, four of a kind or three in a sequence. Every set has a
+scoring value, and the players add their scores and settle after every
+hand. A player may win with a score as low as 22 points or scores may
+run to 380,928 points. These possibilities will unfold as the following
+pages on the details of the play are read.
+
+[Illustration: Illustration No. 1. The thirty-four different tiles and
+the counters]
+
+
+
+
+DESCRIPTION OF TILES
+
+
+The game is played with 136 tiles, which are divided into four distinct
+and separate suits. These four suits are called the _Bamboo_, _Dot_,
+_Character_ and _Honor Suits_.
+
+The first three of these suits score equally and are arranged in the
+same manner, that is, there are 36 tiles in each, numbering from one to
+nine, and there are four tiles of each numeral.
+
+The fourth suit, known as the honor suit, is divided into three parts:
+the _Dragons_, the _Winds_ and the _Mandarins_. Of the _Dragons_, there
+are four apiece of three different kinds, the Red, Green and White
+Dragons. The _Winds_ are North, South, East and West with four tiles
+alike for each. The _Mandarins_ (also called _Seasons_, and _Flowers_),
+are 8 in number, and as they are only used in limit hands, will be
+discussed later.
+
+From Illustration No. 2 a player will see that there are four of every
+different tile in the set, and that there are 34 different tiles.
+
+[Illustration: Illustration No. 2--The complete set of tiles]
+
+
+
+
+PROCEDURE OF PLAY
+
+
+A. EAST WIND.
+
+Position of the players for the first game is determined by a throw of
+the dice; all players throw once, the one throwing the highest number
+becoming first _East Wind_. In the event of a tie, players tieing throw
+again. The player sitting opposite _East Wind_ will be known as _West
+Wind_, to the right of _East Wind_ as _South Wind_, and the left of
+_East Wind_, as _North Wind_. The dice need only be thrown to determine
+_East Wind_ for the first game of an evening's play, for if the player
+representing _East Wind_ wins, or if the game is a draw, he remains
+_East Wind_. If he loses, the player to his right becomes _East Wind_,
+he in turn becoming _North Wind_.
+
+_East Wind_ is sometimes called _Banker_, for he must pay double stakes
+when he loses, and wins double stakes when he wins.
+
+                  West
+              +-----------+
+              |           |
+              |           |
+       North  |           |  South
+              |           |
+              |           |
+              +-----------+
+                  East
+
+[Illustration: Illustration No. 3. Positions of Winds about Table.]
+
+
+B. BUILDING AND BREAKING THE WALL.
+
+Before building the wall the tiles must all be turned face down on the
+table and thoroughly shuffled. Then each player proceeds to build one
+side of the wall by taking 34 of the tiles at random, and arranging them
+side by side in a row 17 tiles long and 2 tiers high.
+
+[Illustration: Illustration No. 4.]
+
+Each player then moves his side of the wall forward, the four sides
+forming a hollow square. This represents a Chinese wall or fort common
+in the protection of cities.
+
+[Illustration: Illustration No. 5.]
+
+To find the point at which the wall is to be broken, _East Wind_ always
+throws the dice. The number thrown will indicate the player who is to
+break the wall. The player is found by _East Wind_ counting around the
+table to the right, starting with himself as "one," until he reaches the
+number thrown which will designate the player to break the wall.
+
+                    W
+                  3-7-11
+              +-----------+
+              |           |
+           N  |           |  S
+      4-8-12  |           |  2-6-10
+              |           |
+              +-----------+
+                    E
+                   5-9
+
+[Illustration: Illustration No. 6.]
+
+In this illustration, if _East Wind_ threw a "7," starting with himself
+as one, _South_ would be 2, _West_ 3, _North_ 4, _East_ 5, _South_ 6,
+and _West_ 7, designating _West_ as the player to break the wall.
+
+The player who has been designated to break the wall then throws the
+dice to determine the exact tile at which he shall break the wall,
+adding this throw to _East Wind_. This sum will indicate the tile at
+which the wall is to be broken, the player to break the wall counting
+the sum off from the right end of his own side, i.e., if 14 is the sum
+of the two throws, the wall will be broken by lifting out the 14th tile
+from the right with the one under it and placing both on the top of the
+wall to the right of where it was broken. These two are called loose
+tiles and they mark the end of the wall.
+
+[Illustration: Illustration No. 7. _East Wind_ threw "7" indicating
+_West Wind_ as the wall-breaker. _West Wind_ then threw "7" designating
+the 14th tile from the right end of his side of the wall, as the exact
+spot where the wall was to be broken. The loose tiles are shown in
+correct position.]
+
+
+C. DRAWING THE ORIGINAL HAND:
+
+Each player then draws the 13 tiles which go to make up his original
+hand. _East Wind_ starts the drawing by taking the first four tiles (2
+blocks of 2 each) at the beginning of the wall, the player on his right
+the next four and so on around the table three times which will give
+each player 12 tiles. Then one tile apiece is drawn in regular order
+giving every player 13 tiles, except _East Wind_ who draws an extra tile
+as he must make the first discard.
+
+
+D. PLAYING THE HAND:
+
+[Illustration: Illustration No. 8. The wall--after the original hands
+have been drawn. Wall showing draw.]
+
+Each player then takes his original hand and arranges it to suit his own
+convenience. It is advised, however, that he arrange it in suits in
+order to see at a glance, the value of any one tile to his hand in the
+drawing and discarding of which the rest of the game consists.
+
+When the hands have been arranged, _East Wind_ starts the play by
+discarding any tile in his hand, face up in the center of the table. It
+is because of this first discard that he drew an extra tile. The play
+then goes to the right, it becoming the turn of _South Wind_ to draw the
+next tile in the wall and discard any one he may choose. _West Wind_
+then draws and discards and so on around the table, constantly in a
+counter-clockwise direction.
+
+The players during this drawing and discarding are gradually improving
+their hands, and matching them into four sets and an extra tile, a set
+being _three of a kind_, _four of a kind_, or _three in a sequence_.
+
+[Illustration: Illustration No. 9.
+
+                        Examples of
+    Three of a kind    Four of a kind    Three in sequence ]
+
+When a player accomplishes this, he must only match the extra tile
+forming a _pair_ and thus, completing his hand, having four complete
+sets and a pair. He announces "_Mah-Jongg_" wins, the game is over, the
+scores are settled and the wall built up for the next game.
+
+[Illustration: Illustration No. 10. Several completed hands]
+
+As completing a hand entirely by draw from the wall would be a
+difficult task, the players are permitted to make use of any discard,
+_as it is discarded_, provided they have the required tiles already in
+their hand as explained below in "_Chow_" and "_Pung_."
+
+
+E. TO CHOW:
+
+A player having two tiles in his hand which, together with the tile just
+discarded by the player before him (to his left), would form a sequence
+or run of three, may by announcing "_Chow_" pick up the discard, add it
+to the two in his hand, and place the three in sequence face up on the
+table to the right of his hand. This appropriating the discard serves as
+the player's draw and he must then discard and the play goes on in the
+usual manner.
+
+For example: If one has a 5-6 of _character_ and the player preceding
+him discards either a 4 or a 7 of _character_, he may "_Chow_" the tile,
+and discard; or ignore it and draw from the wall and discard, in hopes
+of building a better hand, as often will be found advisable.
+
+The main point to be remembered in "_Chowing_" is that a player may
+"_Chow_" _only in his regular turn_, i.e., he may "_Chow_" only tiles
+discarded by the player to his left and then _only when he has the other
+two tiles in his hand_ to form the sequence. Sequences can only be built
+up in sets of three.
+
+[Illustration: Illustration No. 11. In this illustration the player
+having a 4 and 6 of character in his hand has "_chowed_" the 5 character
+which the player to his left discarded and after setting out his
+sequence, discards himself, leaving the usual 13 tiles in his hand.]
+
+
+F. TO PUNG:
+
+A player may also appropriate another player's discard to fill a set of
+three of a kind or four of a kind by announcing "_Pung_." In order to do
+this, the player must have _a pair_, or _three of a kind in his hand_ to
+match with the discard, thus completing three or four of a kind, which
+he places, as in the case of a "_Chow_," to the right of his hand, face
+up on the table. For example: A player having a pair or three fives of
+the character suit, may _pung_ when another player discards a five
+character, expose his set and discard, the play going on in the regular
+direction from him.
+
+It is not necessary for it to be the player's turn to draw in order to
+"_Pung_" as it is in the case of a "_Chow_." A player having a pair
+similar to a tile discarded, may announce "_Pung_" and appropriate the
+tile, _regardless of who discarded it and of whose turn it is to draw_.
+Also after a player "_Pungs_" and discards, the play goes on from him to
+the right. It can be seen that due to _punging_ one or even two players
+are liable to lose their turn.
+
+[Illustration: Illustration No. 12. In this illustration, _East_ played
+in regular turn and _South_ drew the 9 _character_, which, having no use
+for, he discarded. _East_ having a pair of nines _character_ in his hand
+"_Punged_," completing the set and causing _West_ and _North Winds_ to
+lose their turns. _East_ then exposed his set of nines next to the
+sequence of three he had previously _chowed_ and exposed, discarded and
+play went on in the usual routine, _North_ drawing and discarding.]
+
+There are a few rules applying to the "_Chow_" and "_Pung_." They are as
+follows:
+
+1. All tiles must be "_punged_" or "_chowed_" _as they are discarded_;
+for a tile discarded by a player and allowed to remain in discard until
+the next player discards, becomes "dead" and _cannot be_ touched during
+the rest of the game.
+
+2. It has been stated that one cannot "_pung_" unless it makes up three
+or four of a kind. This is true with one exception. In the case: when a
+tile will complete a player's hand allowing him to "_Mah-Jongg_," the
+tile may be punged. Example: A player with four sets and an odd tile may
+_pung_ a tile which matches his odd one. The rule is that "_a player may
+at any time 'Pung' a discard which will complete his hand and allow him
+to Mah-Jongg_."
+
+3. The denomination and suit of each tile must be announced as it is
+discarded, a player discarding a 3 of _character_, announcing _3
+character_, to prevent confusion of a player who may be studying his
+hand. This is more of a courtesy of the game, than a rule.
+
+4. A "_Pung_" has precedence over a "_Chow_" and if one player can pung
+the same discard that another player can chow, the former has the right
+to appropriate the tile.
+
+5. If a player can pung a discard which will complete his _hand_ and
+another player can pung the same discard to complete a _set_, the former
+has the right to take the discard.
+
+6. If two players pung the same tile to complete their hands, the
+precedence is given to the player claiming the tile nearest to the
+discarder in a counter-clockwise direction around the table.
+
+
+
+
+FOUR OF A KIND:
+
+
+Before speaking of "_four of a kind_," it is better to give the reason
+for exposing a set made up of a pair and a punged discard, and make
+clear at the same time, what is to be done when three of a kind are
+completed by draw.
+
+A set made up of a pair and a punged discard must be "exposed" by
+setting it out face up, on the table to the right of the players' tiles,
+first, to show to the other players that he had the required pair, which
+gave him the right to appropriate the discard, and secondly, to separate
+the set from those completed entirely by draw from the wall. Sets
+completed by help of an appropriated (punged) discard, have only
+one-half the scoring value of exactly the same sets, completed by draw
+from the wall and kept in the hand.
+
+Thus there are many advantages in drawing the third tile to complete a
+set of three of a kind when compared to "punging" the same, for in the
+former case, the set has twice as much scoring value, they are kept
+concealed in the hand and the opponents can only guess as to how nearly
+complete a concealed hand may be. A concealed set is counted as one of
+the four sets required to win, just as an exposed set would be, and a
+player having a set of three of a kind concealed has very good chances
+of filling it and thus forming four of a kind which counts a great deal
+higher.
+
+A player may complete a set of four of a kind either by draw from the
+wall or "punging" an opponent's discard, if he has three of a kind
+_already in his hand_. In _either_ case he must place the completed set
+on the table to the right of his tiles; all four face up if he "punged"
+the fourth, the two end tiles face down if he has "drawn" the fourth.
+
+The player must immediately draw a "_loose tile_" (one of the two tiles
+on top of, and marking the end of the wall). Usually the one farthest
+from the end is taken, the one on the end moved up, and replaced by a
+tile from the end of the wall itself.
+
+The "_loose tile_" was drawn because every time a player completes a
+set of four of a kind, he causes the rest of his hand to be one tile
+short. This must be made up every time four of a kind is filled by an
+extra tile drawn from the "_loose_" tiles.
+
+[Illustration: Illustration No. 13. In this illustration the player had
+three one dots in his hand when one of the opponents discarded the
+fourth one dot. This player "_punged_" it, matched the four of a kind,
+exposed them, drew a "loose tile" and discarded.]
+
+[Illustration: Illustration No. 14. In this illustration the player had
+three one dots in his hand and _drew_ the fourth in his regular turn to
+draw. This set counts in scoring as much as it would in his hand but
+must be exposed in order to draw the "loose tile." Therefore the end
+tiles are turned down to show that in counting the score that the set is
+counted as if it were held in the hand.]
+
+[Illustration: Illustration No. 15. In this illustration the player has
+one set of 3 one dots punged and completed, and is now trying to match
+up the rest of his hand. If another player discards a one dot he cannot
+touch it and must let it go by. However, if he draws the fourth one dot
+himself, he may add it on to his set of 3, draw a loose tile and discard
+as usual. As can be seen from the last three illustrations, the rule in
+the case of four of a kind is as follows:]
+
+_In any set which a player may have exposed on the table there must not
+be more than_ (1) _punged tile_.
+
+A player having three of a kind in his hand may _pung_ the fourth when
+it is discarded or having three of a kind on the table and drawing the
+fourth may add it to his 3 exposed tiles. The rule, however, bars him
+from appropriating some one else's discard to make a fourth for an
+exposed set of three of a kind because in order to appropriate this
+discard he would have to pung it. This he has not the privilege of
+doing, because he already must have one "_punged_" tile in his exposed
+set or it wouldn't be exposed.
+
+
+
+
+MAH-JONGG OR MAH-DIAO
+
+
+As has been mentioned before when a player has matched his hand into
+four (4) sets and by a draw or a pung has mated the final pair he wins
+and announces "_Mah-Jongg_" or "_Mah-Diao_" (Dee-O), either being
+correct and in common usage, the latter being the most logical because
+of its English translation "mating the pair." A player must at all times
+during the game have thirteen (13) tiles, his draw every round
+momentarily giving him fourteen (14), his discard leaving him the
+thirteen (13). Then for every four of a kind that he fills he should
+have an extra tile in his hand on account of the extra loose tile draw.
+
+Thus one is able at any time during the game to check his hand and
+ascertain whether or not he has the correct number of tiles in it. If he
+has not sets of four of a kind he should have thirteen tiles in his
+hand. If he _has_ one set of four of a kind he should have fourteen
+tiles in his hand, two sets of four of kind 15 tiles, and so on.
+
+If, at any time during the game, a player has an incorrect number of
+tiles in his hand, it becomes "dead." He must continue drawing and
+discarding, but when the scores are settled his score does not count and
+therefore he must pay all players. His only chance lies in endeavoring
+to prevent the other players from completing their hands, by holding the
+tiles which he believes they need and thus causing a draw game.
+
+
+
+
+SETTLING THE SCORES
+
+
+When the first player to complete his hand calls "_Mah-Jongg_" the game
+is ended, and all players expose their hands and count up their scores.
+The winner of the game collects full value of his score from each of the
+other players and throwing his hand into the discard is thru for that
+game.
+
+The remaining three players then settle among themselves the
+_difference_ of their scores, the high hand of the three collecting the
+difference between his score and each of the remaining two players. Then
+throwing his hand into the discard, leaves the remaining two to settle
+their scores, the highest hand of which collects the difference.
+
+It must be remembered here that East Wind (or banker) pays or collects
+double, if he loses or wins.
+
+Scores are most conveniently settled by the use of the counters which
+are furnished with the sets. These are spotted to denote different
+denominations and at the end of every hand the actual scores or
+differences in scores are settled between players by the exchange of
+these counters. There are several styles of counter sets. The one in
+most common usage contains counters valued as follows:
+
+                         Points
+
+         1 Gold dot       1,000
+
+         5 Black dots       500
+
+         1 Black dot        100
+
+        10 Red dots          10
+
+         2 Red dots           2
+
+
+
+
+SUGGESTIONS FOR CAREFUL PLAYING OF HANDS
+
+
+In a game of this nature where every hand is different from the
+preceding one and so much depends on the draw, it is very hard to lay
+down any specific rules of how it should be played. There are, however,
+a few points which would help if kept in mind during the play. A player
+should study his original hand and after the first few draws and
+discards form a general plan of what he is going to try and fill in his
+hand and decide on how high a score he will have a good chance of
+making. This will be decided by:
+
+1. The condition of his own hand.
+
+2. The discards of the other three players.
+
+If he has an exceptionally strong hand in any one suit he will play for
+that suit regardless of the other players. If he has a well-divided
+hand, by watching the other players' discards, he will be able to form a
+fairly good opinion of what they are doing with their hand.
+
+After judging his hand, visualizing the sort of hand that he is to try
+to fill, he should use his own judgment in drawing and discarding,
+constantly watching his own hand for opportunities and his opponents'
+discards for disclosures, and upon the slightest suspicion that one of
+these opponents is nearing the completion of his hand, should
+immediately forego any thoughts of a higher hand himself and seek to
+complete his own hand as quickly as possible.
+
+Summing this up; a player should plan and play to win at all times with
+as high a hand as possible, then as the wall grows shorter and the
+probability of one of the opponents completing his hand grows larger,
+the player should reconsider, and
+
+1. If he has at that stage an exceptionally good hand which will win
+back for him from the other two players that which he loses to the
+winner, should go on improving his hand and take the chance of another
+player winning.
+
+2. If he has just an ordinarily good hand he should stop playing to
+improve his hand and start to complete it as quickly as possible, i.e.,
+form sequences and mix suits, in order to win before the other players
+and save himself.
+
+3. If his hand has not improved at all or very little since the
+beginning of the game and he has small chance of completing his hand in
+any way before some other player does, his only plan is to hold the
+tiles which he thinks would help the other players and discard only
+those which he is sure they will not pung. These tiles can be
+ascertained by carefully searching the discards in the center of the
+table and the sets already exposed by the other players. By playing this
+way he may be able to cause the game to be a draw.
+
+There are a few other points which are taken up in the last four layouts
+in Part I.
+
+
+
+
+USE OF THE MANDARINS
+
+(Flowers and Seasons)
+
+
+The _Mandarins_, also called _Flowers_ and _Seasons_, are eight in
+number, two for each of the four winds. They may be eliminated from the
+set and are not usually used in the play, as they add a large element of
+chance into the game.
+
+If they are used, each side of the wall is increased by two tiles,
+making each side a double tiered row of 18 tiles side by side.
+
+Then, if a player draws one of his own _wind mandarins_, he exposes it
+on the table and draws a "loose tile," the _mandarin_ of his own wind
+permitting him to double his score once. If then he draws the other
+_mandarin_ of his own wind he repeats the above process and may double
+his total score again. Where "_Seasons_ and _Flowers_" are used instead
+of _mandarins_ the numbers on them, 1, 2, 3 and 4, represent _East,
+South, West and North winds_ respectively. The red numbers are the
+"_Seasons_" and the green numbers are the "_Flowers_." They are used
+exactly as are the _mandarins_, i.e., One's own "_Season_" will double
+the value of his hand, as _will_ his own "_Flower_." Both of them will
+double the value twice.
+
+
+
+
+SCORE CARD
+
+
+It will be seen at a glance that the scoring values are divided into
+three parts. First, the bonus scores which only the winner can use;
+secondly, the combination scores which all four players can use; finally
+the doubling honors which all four players may use, so it is that in
+settling the scores the winner starts at the top with twenty (20) points
+for "_Mah-Jongg_" or for winning and goes down the list scoring ten
+points, if he has no sequence in his hand and so on thru the bonus
+scores, adding to these whatever scores he obtains from combinations in
+his hand or on the table and doubling the sum as many times as he has
+doubling honors.
+
+In the bonus scores for the winning hand only there are six items:
+
+1. "_Mah-Jongg_" which gives 20 points for winning the hand.
+
+2. _No sequence in hand or on table._ This is a bonus of 10 points given
+to a player if he wins without use of sequences.
+
+3. _Drawing the winning piece._ This is a bonus of 2 points given to the
+winning player if he _draws_ the tile which completes his hand from the
+wall. Of course _punging_ the winning tile will forfeit this bonus.
+
+4. _Filling the only place to win._ This is a bonus of 2 points given
+to a player who fills the only possible place to win, i.e., winning by
+matching the pair or drawing the middle tile of a sequence.
+
+5. _Winning on a draw from a loose tile._ This of course is a bonus of
+ten points given to the winning player if any of his loose tile draws
+have been fortunate enough to complete his hand.
+
+6. _No other score than "Mah-Jongg" in hand or on table._ This is a
+bonus of ten points given to the winning player having only 20 points
+for "_Mah-Jongg_" as his score, and is a hand made up of four sequences
+and a pair in which there is no score, a sequence having no scoring
+value whatsoever. Of course even drawing the winning piece will forfeit
+this bonus as can easily be seen.
+
+In the combination scores exposed sets are those on the table; face up
+to the right of the player, concealed sets are those which are in his
+hand at the time of winning. As will be seen by the score card,
+concealed sets having been made up by the player without the assistance
+of a pung or chow score twice as much as the same set would if it were
+on the table. This together with the fact that sets of ones, nines,
+winds or dragons score twice as much as sets of twos, threes, fours,
+fives, sixes, sevens and eights should be helpful in memorizing the
+score which is essential to the careful playing of each hand.
+
+As for the doubling honors, each set or combination doubles the total
+score once, and if there are five _doubling honors_ in a hand, the total
+score should be doubled five times--for example: a player goes
+_Mah-Jongg_ or _Mah-Diao_ having 32 points in bonus scores, 18 in
+combination scores, making his total score 50. Then if he has five
+_doubling honors_ his final score is 1,600 points, i.e.,
+50-100-200-400-800-1,600.
+
+
+
+
+EXAMPLE OF HANDS AND HOW THEY ARE SCORED
+
+
+[Illustration: Example No. 1.]
+
+    For Mah-Jongg                         20
+    For Three 2 Dots                       2
+
+                                          22 Total Score
+    No double honors:                     22 Final Score
+
+In this hand the player punged the 2 dot which completed his hand, 20
+for _Mah-Jongg_ as the only bonus score he has because: 1. He has
+sequences. 2. He did not draw the winning piece. 3. He did not fill the
+only place to win. 4. He has other score than _Mah-Jongg_. 5. He did not
+win on a loose tile draw. In combination value, he has only two points
+for the set of three 2 dots, the sets of sequences helping complete the
+hand, but scoring nothing. There are no doubling honors in the hand so
+the final score is 22. This is the lowest winning hand that can be
+scored.
+
+
+[Illustration: Example No. 2]
+
+    Winner chowed the 1 character to complete hand. Score is
+
+    Mah-Jongg                             20
+
+    No other scores on hand or on table   10
+
+                                          30 Total Score
+    No combination scores or doubling
+                                honors    30 Final Score
+
+
+[Illustration: Example No. 3]
+
+    Mah-Jongg--20                         20
+    No sequences--10                      10
+    Filling only place to win--2           2
+    Drawing wins p.--2                     2
+
+                                          34
+    3 ones concealed                       8
+    3 threes concealed                     4
+    3 fives exposed                        2
+    3 fours exposed                        2
+
+                                          50 Total Score
+    No doubling honors:                   50 Final Score
+
+
+[Illustration: Example No. 4]
+
+    Mah-Jongg                             20
+    No sequence                           10
+    Drawing winning piece                  2
+
+                                          32
+    3 sixes (concealed)                    4
+    3 twos (exposed)                       2
+    3 dragons (exposed)                    4
+    3 threes (exposed)                     2
+
+                                          44 Total Score
+    Double once for red dragons           88 Final Score
+
+
+[Illustration: Example No. 5]
+
+    Mah-Jongg                             20
+    No sequence                           10
+    Drawing winning piece                  2
+    Filling only place to win              2
+
+                                          34
+    3 twos (exposed)                       2
+    3 nines (exposed)                      4
+    3 ones (exposed)                       4
+    3 dragons (exposed)                    4
+
+                                          48 Total Score
+    Double once for green dragons         96
+    Double once for all one suit except
+      winds or dragons                   192 Final Score
+
+
+[Illustration: Example No. 6]
+
+    Mah-Jongg                             20
+    No sequence                           10
+    Drawing winning piece                  2
+    Filling only place to win              2
+
+                                          34
+    4 nines (concealed)                   32
+    3 sevens (exposed)                     2
+    3 fours (concealed)                    4
+    3 ones (concealed)                     8
+
+                                          80 Total Score
+    Double three times for               160
+    All one suit                         320
+                                         640 Total Score
+
+
+[Illustration: Example No. 7]
+
+    Mah-Jongg                             20
+    No sequence                           10
+
+                                          30
+    4 dragons (concealed)                 32
+    4 winds (exposed)                     16
+    3 dragons (exposed)                    4
+    3 dragons (concealed)                  8
+
+                                          90 Total Score
+    Double three times for all           180
+    One suit (honor)                     360
+                                         720
+    Double once for red dragons         1440
+    Double once for white dragons       2880
+    Double once for green dragons       5760 Total Score
+
+If this hand is held by the East Wind he may double again for having a
+set of his own wind, making his score 11,520, and being East Wind, he
+collects double from each player when he wins, making his total 23,040
+from each of the other three players or 69,120 in all.
+
+
+[Illustration: Example No. 8]
+
+    Mah-Jongg                             20
+    No sequence                           10
+
+                                          30
+    3 dragons (exposed)                    4
+    3 fours (exposed)                      2
+    3 eights (exposed)                     2
+    3 dragons (concealed)                  8
+
+                                          46 Total Score
+    Double once for white dragons         92
+    Double once for green dragons        184 Final Score
+
+If player is East Wind, he collects double, or 368 from each player. If
+any other wind, he collects 368 from East Wind and 184 from the other
+two players.
+
+
+[Illustration: Example No. 9]
+
+    Mah-Jongg                             20
+    No other score in hand or on table    10
+
+                                          30  Total Score
+    Double three times for all            60
+    One suit                             120
+                                         240  Final Score
+
+Note: In this hand the player did not even fill the only place to win
+as a 6 character would have won also.
+
+If player is East Wind, he collects 480 from each of the other three
+players. If any other wind, he collects 480 from East Wind and 240 from
+the other two players.
+
+
+[Illustration: Example No. 10]
+
+    Mah-Jongg                             20
+    No sequence                           10
+    Winning on loose tile draw            10
+    Drawing winning piece                  2
+    Filling only place to win              2
+
+                                          44
+    4 nines (exposed)                     16
+    4 ones (concealed)                    32
+    4 dragons (exposed)                   16
+    4 dragons (exposed)                   16
+
+                                         124 Total Score
+    Double once for red dragons          248
+    Double once for green dragons        496 Final Score
+
+
+[Illustration: Example No. 11]
+
+    Mah-Jongg                             20
+    No sequence                           10
+    Drawing winning piece                  2
+
+                                          32
+    3 winds (concealed)                    8
+    3 dragons (concealed)                  8
+    3 twos (concealed)                     4
+    3 nines (concealed)                    8
+
+                                          60 Total Score
+    Double once for all one suit
+      except winds or dragons            120
+    Double once for red dragons          240
+
+    Double once for own wind             480 Final Score
+
+This illustration assumes player to be North Wind. This player collects
+double, or 960, from East Wind and 480 each from South and West Winds.
+
+
+[Illustration: Example No. 12]
+
+    Mah-Jongg                             20
+
+                                          20
+    3 fives (exposed)                      2
+    3 winds (exposed)                      4
+    2 dragons                              2
+
+                                          28 Total Score
+    Double once for all one suit except
+      winds or dragons                    56 Final Score
+
+Note: Two points for pair of red dragons. Dragons and own wind are only
+pairs that score, and they are limited to two points.
+
+
+[Illustration: Example No. 13]
+
+PLAYER IS EAST WIND
+
+    Mah-Jongg                             20
+    No sequence                           10
+
+                                          30
+    3 winds (exposed)                      4
+    3 ones (exposed)                       4
+    3 fours (exposed)                      2
+    3 dragons (exposed)                    8
+
+                                          48 Total Score
+    Double once for all one suit
+      except winds or dragons             96
+    Double once for red dragons          192
+    Double once for own wind             384
+    Collect double from each player
+       being east wind and winning       768 Final Score
+                                             from each player
+
+
+[Illustration: Example No. 14]
+
+PLAYER IS WEST WIND
+
+    Mah-Jongg                            20
+    No sequence                          10
+    Draw winning piece                    2
+
+                                         32
+    3 winds (concealed)                   8
+    3 winds (concealed)                   8
+    4 winds (concealed)                  32
+    3 winds (exposed)                     4
+
+                                         84
+    Double 3 times for all one          168
+    Suit (honor)                        336
+                                        672
+    Double once for own wind           1344
+
+Collects 2688 from East Wind and 1344 apiece from North and South Winds.
+
+
+[Illustration: Example No. 15]
+
+PLAYER IS EAST WIND
+
+    Mah-Jongg                            20
+    No sequence                          10
+    Only place to win                     2
+
+                                         32
+    4 ones (concealed)                   32
+    4 nines (concealed)                  32
+    4 fours (exposed)                     8
+    4 sevens (exposed)                    8
+
+                                        112 Total Score
+    Double 3 times for all              224
+    One suit                            448
+                                        896
+    Double once because player is East
+      wind and won                     1792 Final Score
+                                            from each player
+
+
+[Illustration: Example No. 16]
+
+PLAYER IS EAST WIND
+
+    Mah-Jongg                            20
+
+    3 fours (concealed)                  20
+    3 dragons (concealed)                 4
+                                          8
+
+                                         32 Total Score
+    Double 3 times for winning on
+      Original hand                      64
+                                        128
+                                        256
+    Double once for red dragons         512
+    Collects double because is East
+      wind and won                          1024 Final Score
+                                            from each player
+
+
+[Illustration: Example No. 17]
+
+PLAYER IS SOUTH WIND
+
+    Mah-Jongg                            20
+    Drawing winning piece                 2
+    Filling only place to win             2
+
+                                         24
+    3 ones (concealed)                    8
+    3 fours (concealed)                   4
+    4 winds (concealed)                  32
+    2 own wind                            2
+
+                                         70 Total Score
+    Double once for all one suit except
+      winds or dragons                  140 Final Score
+
+Collects double, or 280, from East wind; 140 from North and South
+respectively.
+
+
+[Illustration: Example No. 18]
+
+PLAYER IS NORTH WIND
+
+    Mah-Jongg                            20
+    No sequence                          10
+
+                                         30
+    4 ones (concealed)                   32
+    4 nines (exposed)                    16
+    4 nines (concealed)                  32
+    3 dragons (concealed)                 8
+
+                                        118 Total Score
+    Double once for green dragons       236 Final Score
+
+Collects double, or 472, from East wind: 236 from West and South winds
+respectively.
+
+
+[Illustration: Example No. 19]
+
+PLAYER IS WEST WIND
+
+    Mah-Jongg                            20
+
+                                         20
+    3 winds (concealed)                   8
+    3 dragons (exposed)                   4
+
+                                         32
+    Double once for all one suit except
+    winds or dragons                     64
+    Double once for white dragons       128
+    Double once for own wind            256
+
+Collects 512 from East wind, 256 from North and South, respectively.
+
+
+[Illustration: Example No. 20]
+
+PLAYER IS EAST WIND
+
+    Mah-Jongg                            20
+    No sequence                          10
+    Winning on loose tile draw           10
+    Drawing winning piece                 2
+    Filling only place to win             2
+
+                                         44
+    4 dragons (concealed)                32
+    4 dragons (concealed)                32
+    4 dragons (concealed)                32
+    4 winds (concealed)                  32
+
+                                        172 Total Score
+    Double 3 times for all of one suit
+      (honor)                           344
+                                        688
+                                       1376
+    Double once for green dragons      2752
+    Double once for white dragons      5504
+    Double once for red dragons       11008
+    Double once for own wind          22016
+    Double once because everyone must
+      pay East wind double when he
+      wins                            44032 Final Score
+
+East wind collects this amount from each of the other three players,
+making a total of 132,096 points that East may win in one hand. This is
+the highest hand which is probable. There is a hand composed of sets of
+3 of a kind, similar to this, which, if drawn on the original draw, will
+yield more points than this, but it is highly improbable that the hand
+will ever actually be drawn by any given player.
+
+
+
+
+ILLUSTRATIONS OF SCORE SETTLING
+
+
+In the four layouts following, the illustrations represent all the hands
+together as they are laid down after one of the players wins. They serve
+to clear up "settling" of the scores and also bring out important points
+in the playing of the hands. In each case the score of the four players
+is given in total and practice in the calculating of scores can be
+obtained by beginners by scoring these hands and comparing their results
+with the given scores.
+
+                  West Wind
+                     400
+                +-----------+
+                |           |
+    North Wind  |           |  South Wind
+        16      |           |      64
+                |           |
+                +-----------+
+                  East Wind
+                     608
+
+[Illustration:
+
+West Wind 400
+
+South Wind 64
+
+East Wind 608
+
+North Wind 16]
+
+East Wind "Mah-Jongged" with a total score of 608 points. He collects
+double this amount from each of the other three winds because he is East
+Wind, and winning, collects double. This makes 1216 from each player or
+a total of 3648. He then throws his hand into the discard and the other
+three players settle, the high hand collecting the difference between
+his hand and the remaining two. In the illustration, West Wind is the
+high hand and he collects 336 from South Wind and 484 from North Wind,
+the difference between his hand and those of South and North Winds,
+respectively. He then discards his hand and leaves the South and North
+Winds to settle. They do this by South Wind collecting 48 points from
+North; both discard their tiles, and the scores are settled. It might be
+best here to analyze the above layout to see how the play went. East
+Wind's hand appeared harmless enough because he had most of it
+concealed, only exposing two sets. On this account, none of the other
+opponents would hesitate about discarding the eight of bamboo which
+allowed him to Mah-Jongg. North and South Winds having poor hands
+themselves might have held the eight of bamboo and not have taken a
+chance on it "putting him out" if they had been warned how near he was
+to winning, for West Wind had an exceptionally fine hand with the best
+part of it concealed and he won back from North and South Winds more
+than half of his payment to East, the winner.
+
+North and South Winds fell in a conflict of suits, one of the most
+frequent occurrences of the game and one which spoils a great many
+otherwise good hands. They were both attempting to complete "all dot"
+hands and each has two conflicting pairs, namely, 5 and 6 of dots.
+Either of them to win can only have one pair in their hand, and each was
+holding the other from any chance of winning.
+
+When two players play for the same suit, it is best for both to give up
+any idea of obtaining all of one suit, and fill in the hand with one or
+two sets of winds or dragons. Very often one can get three doubles in
+this way when it would be impossible to complete a hand of all one suit.
+
+
+[Illustration:
+
+West Wind 2816
+
+South Wind 8
+
+East Wind 4
+
+North Wind 22]
+
+NORTH WIND MAH-JONGGS
+
+North Wind Mah-Jonggs with 22 points as his total score. He collects 22
+points apiece from North Wind and South Wind. East, however, must pay
+him double or 44, being banker and losing. This gives North Wind a total
+of 88. The other three then settle West Wind with a total of 2816;
+collects the difference between his hand and East Wind's which is 2814,
+doubled because he won from East Wind and East Wind must pay double when
+he loses. This gives West Wind 5628 from East Wind, and just the
+difference in their hands from South Wind which is 2808. Then South Wind
+in settling with East Wind collects the difference, 4, double or 8. This
+layout demonstrates the point that it is not always necessary to
+Mah-Jongg or win, in order to take in the highest number of points.
+North Wind "Mah-Jongged" and collected only 88 points, whereas West Wind
+collected a total of 8,436 points. What evidently took place in this
+hand goes as follows: West Wind was exceptionally fortunate in the draw
+and soon had three sets of winds and dragons exposed, or on the table.
+The other three players seeing in this a dangerous hand, "ran for
+cover," this consisting of gathering all the sequences possible
+together, and mixing the suits. By doing this a player can very quickly
+complete his hand and win, although his score will be low when he does
+win. However, the one who does "Mah-Jongg," no matter how low his score
+may be, collects that amount, and escapes any exceptionally high scoring
+hands which the other players may hold. In this case it was North Wind
+who won out and avoided paying many points to West Wind by doing so.
+
+
+[Illustration:
+
+West Wind 64
+
+South Wind 10
+
+East Wind 56
+
+North Wind 416]
+
+NORTH WIND MAH-JONGGS
+
+In the above layout, North Wind winning, scores 416; West Wind 64;
+South Wind 10, and East Wind 56; North Wind then takes 832 from East
+Wind, and 416 from West and South Winds. West Wind collects 54 from
+South Wind and 16 from East Wind; East Wind then collects 46 doubled or
+92 from South Wind.
+
+In this game both North and West Winds played for all dot hands; North
+Wind foreseeing this early in the game filled in his hand with winds and
+dragons, in this way winning out over West Wind; East Wind starting with
+a pair of green dragons kept them until he had all characters except the
+pair. Then came the time for him to decide on whether he would discard
+the pair and try to fill an all character hand, or use the dragons. He
+decided on the latter because looking at North Wind's exposed tiles he
+saw that North Wind was dangerously near to winning. He filled his
+dragons and attempted to win as quickly as possible, almost succeeding
+and needing only one tile to complete his hand.
+
+
+[Illustration:
+
+West Wind 64
+
+South Wind 48
+
+East Wind 80
+
+North Wind 152]
+
+NORTH WIND MAH-JONGGS
+
+North Wind "Mah-Jongged," collects 304 from East and 152 from West and
+South respectively. Then--East Wind collects 16 doubled or 32 from West
+and 32 doubled or 64 from South. West Wind wins 16 from South who is the
+loser all around. East Wind's difficulty above was that he decided on
+all bamboo hand at the start of the game without having a sufficient
+number of pairs in that suit. The result was that by the time that he
+_drew_ the pairs and was ready to pung discards the other players had
+already discarded a number of tiles which he needed in his hand. They
+were then dead. The result of all this can be seen in his hand above; he
+has still two pairs and a sequence to fill and the particular tiles
+needed to do this (the 4, 5 and 8 of bamboo) have probably all been
+discarded early in the game by the other players. The point thus
+illustrated being: It is not advisable to attempt the completing of a
+suit which all the other players are discarding unless sufficient pairs
+are held from the start to withstand their attacks.
+
+
+
+
+PART TWO
+
+PLAYING WITH A LIMIT
+
+
+
+
+PLAYING WITH A LIMIT
+
+
+Pung-Chow, as it has been described in the foregoing pages, represents
+the game as it is played with unlimited hands, that is where no limits
+are set on the number of points permissible in the score of a hand. It
+is impractical, however, to play with unlimited hands in a game where a
+stake has been set due to the inconsistencies of the winning hand
+scores; one _may_ win with a hand of 200,000 points, whereas the
+ordinary or average winning hand numbers approximately only 500 to
+1,000.
+
+On this account the Chinese use a lower scoring system and set limits on
+the hands whenever placing stakes on the game, with a view of limiting
+losses between all players.
+
+This setting of a limit changes the game considerably, for while the
+procedure of the play is similar to that of the unlimited hand, the
+scoring is almost totally different and the actual playing of the hand
+is changed.
+
+A player in a limited hand gains nothing by completing a hand scoring
+high in the thousands when held down to the limit which is comparatively
+low. This changes entirely the playing of hands, making each player's
+object no longer to score as high a hand as possible and win, but to
+score as closely to the limit as possible and win, which in practice
+amounts to completing the hand as quickly as possible, mixing sequences
+and sets of all suits and taking all good scoring sets as they come,
+planning for none.
+
+It can be seen that there is a larger element of fortune or "luck" in
+this method of playing than there is in playing the unlimited hand,
+though in either case the best player will win consistently.
+
+
+
+
+THE PROCEDURE OF PLAY
+
+
+[Illustration:
+
+      Indicators       Wind Box]
+
+In playing this sort of a game the wind indicators in their container,
+the Cheung Huen or wind box, are always used, and their use changes the
+method of commencing the game.
+
+To start the game when using the wind markers the seats are
+preliminarily chosen and any one of the four players throws the two dice
+once, the result of this throw deciding which player is to throw again
+for playing position. Counting of players being done in a
+counter-clockwise direction as previously explained.
+
+The players thus designated will shuffle the wind indicators thoroughly
+face downward and places any one of them still face downward on top of
+wind box. He then arranges the whole lot in a perpendicular straight
+line in front of them all face downward, placing the box with the wind
+indicator still on top of it in any order he pleases. (See Illustration
+No. 1.)
+
+[Illustration: Illustration No. 1]
+
+In this illustration, C first threw the dice; the number was seven,
+deciding A as the player who was to throw again for playing position or
+seat. A has shuffled the markers and arranged them perpendicularly in
+front of him, placing the wind box in second position. He had the
+privilege of placing it in 1st, 3rd or 4th position if he had chosen. He
+then throws with the dice, an 8; this designates D as the player to take
+the first indicator; A the second (also the wind box), B the third, and
+C the fourth.
+
+He then throws the two dice and the number thrown will decide which
+player is to pick up the indicator farthest from him (or the first
+indicator in the accompanying illustration) counting in the usual manner
+one player at a time in counter-clockwise direction, starting with
+himself as 1. The player indicated will pick up the first indicator, the
+player on his right the second indicator, the player opposite the third
+and the player to his left the east.
+
+The wind box goes to the player picking up the indicator on top of it
+who then places it in front of him to mark the seat of East Wind. The
+players then look at their indicators; the one drawing the East Wind
+indicator becomes East Wind, and occupies the seat marked by the wind
+box. The remaining three players seat themselves about the table
+according to their draw or wind marker, i.e., draw of West Wind
+indicator opposite to East, North Wind to the left and South Wind to the
+right of him (East).
+
+East Wind now takes charge of the wind box and the four indicators which
+are placed in the wind box face up with East Wind on top. The East Wind
+player retains the box until he loses a hand. When this occurs the box
+goes to the right to the player who was South, but now becomes East
+Wind. The East Wind indicator, however, still remaining on top as this
+designates that the East Wind round is being played. The East Wind round
+is over as soon as the fourth player to be East Wind in turn loses. He
+is the one to take charge of the East Wind indicator and placing the
+South Wind indicator on top to indicate the South Wind round, hands the
+box to the original East Wind who now becomes the first East Wind of the
+South Wind round. It will now be seen that four games make up a round
+and four rounds make up a set. In every case the new wind-round must
+commence from the original East Wind player and the box is for the
+purpose of indicating which round of the wind is being played and who is
+the East Wind in that particular hand.
+
+It should be decided before starting how many sets are to be played.
+Chinese players generally play from 4 to 8 sets in an evening.
+
+The seats having been chosen and winds positioned, the procedure of play
+continues exactly as has been described before. The wall is broken and
+the tiles drawn in the same manner, "Chowing," "Punging" and filling
+four of a kind are processes gone about in the same manner as they are
+in the other type of game.
+
+Mah-Jongg also is attained in the same way, i.e., completing four sets
+and a pair.
+
+Almost the entire difference in the two ways of playing the game is
+found in the scoring.
+
+In the scoring many new combinations have been added, scoring values
+have been changed, and special bonuses, limit hands and new doubling
+honors have been introduced which must now be taken, one at a time, and
+explained in detail. The most important change is that _the last 14
+tiles in the wall are never drawn and the game_ ends and is a draw if it
+reaches this point without conclusion.
+
+Loose tiles may be drawn of course during the play, but even a loose
+tile cannot be drawn if there are only 14 tiles left in the wall
+including the loose tiles. These last 14 tiles are usually separated a
+little from the rest of the wall to indicate the end.
+
+
+THE LIMIT HAND.
+
+To keep the hands down to a reasonable amount when players are playing
+for stakes, the system of setting a limit as to the number of points
+that can be scored in a hand. This is usually 300 points; in games
+giving a bonus of 10 points for Mah-Jongg, and 400 in games giving a
+bonus of 20 points for Mah-Jongg. East Wind of course is liable for
+double the limit and at the same time may win as high as double the
+limit from each player. To non-winners settling their scores, settle the
+difference in the score up to the limit if neither is East Wind, and up
+to double the limit if either is East Wind.
+
+The limit is of course entirely optional, and may be set by the players
+at the beginning of the play. A limit of 600 points between players
+seems the most popular at present in America.
+
+
+WASHING THE TILES.
+
+It is necessary before going into "Washing the Tiles" to explain the
+meaning of "Heads." A Head is a one, nine, wind or a dragon, and a hand
+containing 9 or more different "Heads" on the original hand drawn from
+the wall entitles the player to "Wash Tiles." He calls out "no play" and
+exposes his hand, collecting according to the following table:
+
+    From each player
+
+     9 Heads     50  points
+    10 Heads     70  points
+    11 Heads    100  points
+    12 Heads    150  points
+    13 Heads    200  points
+
+When washing the tiles takes place, the tiles must be reshuffled and the
+wall built over. East Wind retains the "Cheung" (wind box) and not
+collecting double when he "washes tiles" does not have to pay any of the
+other players double when they "wash tiles." It must be remembered that
+in order to wash the tiles the heads must be different, that the hand
+must be the original 13 tiles (14 in case of East Wind) and no drawing
+is permitted.
+
+
+
+
+BONUS SCORES
+
+
+1. For Mah-Jongg or completing a hand a bonus is given and this is
+generally 10 points unless specially agreed upon to be so.
+
+2. For winning hand of absolutely no scoring value than Mah-Jongg, 10
+points is given as a bonus.
+
+3. For winning tile drawn by the player himself from the last tile which
+may be drawn in the wall doubles the total score once (i.e., the 15th
+tile from the end of the wall).
+
+4. Winning on a draw from a loose tile doubles total score once.
+
+5. To win on first card played a bonus of half the limit hand is given.
+Washing cards have preference over this wind.
+
+6. For completing the hand with the fourth card of an exposed set of
+three of a kind--for example, if a player has an exposed set of 3 of a
+kind and he draws or pungs the fourth tile, and if this very tile is the
+winning tile, he may double the total score once.
+
+
+
+
+LIMIT HANDS
+
+
+A player holding a winning hand of any one of the following combinations
+receives from each of the players the full amount agreed upon.
+
+1. A winning hand of single heads one only of each with a pair of heads
+different from the rest representing the final pair.
+
+[Illustration: Illustration No. 2]
+
+2. A winning hand containing _sets_ of heads _only_ with a pair of
+_heads_ as the final pair.
+
+[Illustration: Illustration No. 3]
+
+3. A winning hand of four different sets of winds and any kind of a
+final pair. In China this hand is called the four happinesses and
+superstition has it that one holding this hand has much good fortune
+coming to him having the four happinesses at his door.
+
+[Illustration: Illustration No. 4]
+
+4. The winning hand of 3 different sets of winds with a pair of the
+other winds as the final pair.
+
+[Illustration: Illustration No. 5]
+
+5. A winning hand made up entirely of sets of four of a kind with any
+pair as the final pair.
+
+[Illustration: Illustration No. 6]
+
+6. East Wind winning on original draw from the wall. This wind has
+preference over washing cards. The Chinese consider this hand as a
+forecast of misfortunes to come.
+
+7. A winning hand containing the 3 sets of dragons; red, green and
+white. In China these are known as the 3 Doctors of Literature. The
+inference of course being that many tiles must be turned away before
+these three sets can be made up just as many students in China are
+turned away by competitive examinations before the three best scholars
+are chosen to pursue their studies at the Royal Court with the title of
+Doctors of Literature.
+
+
+
+
+SCORING VALUES
+
+
+[A]WINNING HAND.
+
+    Mah-Jongg                                                  10 Points
+    No other score in hand or on table than Mah-Jong           10 Points
+
+                                                     On Table  In Hand
+    Of three of a kind of 2 to 8                        2         6
+    Of three of a kind of heads                         4        10
+    Of four of a kind 2 to 8                            8        16
+    Of four of a kind of heads                         16        32
+    Pair of 2 to 8 punged to complete hand              0         2
+    Pair of 2 to 8 drawn to complete hand               0         4
+    Pair of heads punged to complete hand               0         4
+    Pair of heads drawn to complete hand                0         6
+    Pair of the player's own wind punged by
+      him in his own wind round to complete
+      hand                                              0         6
+    Pair of the player's own wind drawn by
+      him in his own wind round to complete
+      hand                                              0         8
+    Filling a sequence in the middle on the
+      only open end to complete hand                 By Chow      2
+    Filling a sequence with both ends open by
+      draw to complete hand                          By draw      4
+
+[Footnote A: Count for winning hand only.]
+
+    Other Hands                                      On Table  In Hand
+    Three of a kind of 2 to 8                           2         4
+    Three of a kind of heads                            4         8
+    Four of a kind 2 to 8                               8        16
+    Four of a kind heads                               16        32
+    One pair of a kind any dragon                      ..         2
+    One pair of own wind                               ..         2
+    One pair of wind of the round                      ..         2
+    One pair of players own wind in the wind
+      of his own wind round                            ..         4
+
+
+
+
+EXPLANATION OF ITEMS IN THE TABLE OF SCORING VALUES
+
+
+1. Pair of 2-8 punged to complete hand. A player must have four sets and
+a pair to win. The above scoring value is given if the pair is from 2 to
+8 and if he pungs one of them to win.
+
+2. Pair of 2-8 drawn to complete hand. This score is given as above when
+the player's extra pair is from 2-8, but he must match the pair by draw.
+
+3. Pair of heads punged to complete hand. This four points is given when
+player pungs to match his final pair.
+
+4. Pair of heads drawn to complete hand. This six points is given when
+player draws and matches his final pair.
+
+5. Pair of player's own wind punged by him in his own wind round to
+complete his hand. This six points is given to a player who "pungs" to
+match this final pair when his final pair is his own wind and it is his
+own wind round.
+
+6. Pair of the player's own wind in his own wind round drawn by him to
+complete his hand. This is similar to the one above except that the
+player draws the tile instead of punging it, thereby getting 8 points
+instead of 6 points.
+
+7. Filling a sequence in the middle or on the only open end to complete
+hand. An example would be chowing a 6 character, have a 5 character and
+a 7 character, or have the 2 and chowing the 3 (only open end).
+
+Filling a sequence with both ends open, by draw to complete hand. An
+example would be, having a 7 and 8 of character and drawing a 6 or a 9.
+In both this and the above case when the sequence is filled by draw, it
+must immediately be set out face up on the table to the right of player,
+with the draw tile drawn on top of the other two according to the
+illustration.
+
+
+
+
+DOUBLING HONOR SCORES
+
+
+1. A set of a player's own wind doubles his total score once.
+
+2. A set of a player's own wind in his own wind round doubles his total
+score twice.
+
+3. A set of red dragons doubles his total score once.
+
+4. A set of green dragons doubles his total score once.
+
+5. A set of white dragons doubles his total score once.
+
+[B]6. A hand of all one suit except winds or dragons doubles his total
+score once.
+
+[B]7. A winning hand having no sequences in it doubles the total score
+once. This hand is known as "Tei Tei Woo" (mixed sets or no sequences)
+among the Cantonese Chinese.
+
+[B]8. A winning hand entirely of one suit, doubles the total score three
+times.
+
+[Footnote B: Count for winning hand only.]
+
+
+
+
+
+PENALTIES
+
+
+1. In the event of a player announcing Mah-Jongg when his hand is not
+complete, the player making the error must pay to each of the other 3
+players half of the limit. East Wind receiving full limit or paying full
+limit as the case may be.
+
+2. The one discarding a tile that permits another player to win must
+bear the entire losses of all other players; if the player winning had
+any of the following four combinations of tiles exposed at the time of
+discarding, _unless the discarder himself had two complete doubling
+honors and was waiting for the winning tile_ or _was waiting for the
+winning tile which would give him more than two doubling honors_.
+
+1. When nine tiles or more of the same suit are exposed and the
+discarded tile gives a winning hand on entirely one suit.
+
+2. When nine heads or more are exposed and the discarded tile gives a
+winning hand of entirely heads.
+
+3. When two sets of dragons are exposed and the discard of the other
+kind of dragon gives the third set of dragon in a winning hand.
+
+4. When three different sets of winds are exposed and the discard of the
+other wind gives a winning hand.
+
+[Illustration: Illustration No. 8a]
+
+Example 1. Any player discarding a one or a four of dot would complete
+this hand and unless he had two complete doubling honors and was waiting
+for the winning card or was waiting for the winning card to complete his
+hand, with more than 2 doubling honors, he must pay the winner for all.
+
+[Illustration: Illustration No. 8b]
+
+Example 2. Any player discarding a red dragon will permit this player to
+win and will be penalized for his recklessness by having to pay all
+scores, unless his own hand fulfills the requirements set out in Example
+No. 1.
+
+[Illustration: Illustration No. 8c]
+
+Example 3. A player discarding a white dragon is liable to the penalty
+above mentioned, unless his own hand fulfills the requirements given
+above in No. 1; anyone may discard a one of dot which, though permitting
+the player with the above hand to win, would not bring a penalty down
+upon the discarder.
+
+[Illustration: Illustration No. 8d]
+
+Example 4. A player discarding an East Wind would allow this player to
+win and would be penalized unless excepted as in the other examples.
+Here as in Ex. 3, a discard to the other pair, i.e., a three of bamboo,
+would not be penalized.
+
+NOTE. (a) If a player has no choice in his discard; that is if he
+discards the winning dot to an all dot hand when he has only dots to
+discard, he is not penalized.
+
+(b) When a penalty is imposed, all scores except that of the winning
+hand are canceled.
+
+
+
+
+EXAMPLE OF WINNING HANDS
+
+
+Note: Arrow indicates tile which completed the hand in the following
+Examples.
+
+[Illustration: No. 1]
+
+Player is East Wind; South Wind round.
+
+    Mah-Jongg                                       10
+    Three 8 character (concealed)                    6
+    Three 3 bamboo (concealed)                       6
+    Three Heads (1 dot) (concealed)                 10
+    Three 5 character (exposed)                      2
+    Pair of Heads drawn (1 character)                6
+
+                                                    40 Total Score
+    For no sequences double once                    80 Total Score
+    East Wind collects double if
+      winning double once                          160 From each player
+
+[Illustration: No. 2]
+
+Player is North Wind in North Wind round.
+
+    Mah-Jongg                                      10
+    Three of Heads (9 character) (concealed)       10
+    Three of Heads (North Wind) (concealed)        10
+    Three Bamboo (concealed)                        6
+    Three of Heads (Red Dragon) (exposed)           4
+
+                                                   40
+    For three red dragons double once              80
+                                                  160
+    For three of own wind in own wind round
+      double twice                                320
+    For no sequence double once                   640
+
+Player would collect 1280 from East Wind and 640 from other two winds.
+If his score 640 were over the limit he would collect double the limit
+from East and only the limit from South and West respectively.
+
+[Illustration: No. 3]
+
+North Wind--East Wind round.
+
+    Mah-Jongg                                       10
+    Three Heads (red dragon) (exposed)               4
+    Three 7 character (exposed)                      2
+
+                                                    26
+    For three red dragons double once               52
+
+
+Player collects 104 from East Wind; 52 from South and West.
+
+[Illustration: No. 4]
+
+Player is North Wind in East Wind Round.
+
+    Mah-Jongg                                       10
+    Three of Heads (red dragons) (exposed)           4
+    Three of Heads (green dragons) (concealed)      10
+    Three of Heads (nine bamboo) (concealed)        10
+    Three of bamboo (concealed)                      6
+    Completing pair of player's own wind
+      in his own wind round by draw                  8
+
+                                                    48 Total Score
+    For no sequences double once                    96
+    For three red dragons double once              192
+    For three green dragons double once            384 Final Score
+
+Players collect 768 from East; 384 from West and South.
+
+[Illustration: No. 5]
+
+Winning hand of "Single Heads." One of the "Limit" Hands, player
+collecting double the limit from East and only the limit from the
+others.
+
+[Illustration: No. 6]
+
+Winning hand containing sets of heads only; this is a "Limit Hand,"
+winner collecting double the limit from East and only the limit from the
+other two players.
+
+[Illustration: No. 7]
+
+Winning hand containing all three sets of dragons and any other set and
+pair. This is a "Limit Hand," winner collecting double from East and the
+limit from the other two players. In all limit hand cases, East Wind, if
+winner, collects double limit from All players.
+
+[Illustration: No. 8]
+
+Player is South Wind in South Wind Round.
+
+    Mah-Jongg                                       10
+    Three Heads (white dragons) (concealed)         10
+    Three 4 dot (exposed)                            2
+    Three Heads (9 dot) (exposed)                    4
+    Filling sequence in middle by draw to win        4
+    Pair of own wind in own wind round               4
+
+                                                    34 Total Score
+    For three white dragons double once             68
+    For all one suit except winds and
+      dragons double once                          136 Final Score
+
+Players collect 272 from East, 136 from North and West.
+
+[Illustration: No. 9]
+
+Player is East Wind in South Wind round.
+
+    Mah-Jongg                                       10
+    Three 4 bamboo (exposed)                         2
+    Three 6 bamboo (exposed)                         2
+    Pair of Heads, completed by draw                 6
+
+                                                    20 Total Score
+    For all one suit double three times             40
+                                                    80
+                                                   160 Final Score
+
+Double because East Wind collects double when winning 320 from each
+player.
+
+[Illustration: No. 10]
+
+Player's West Wind--East Wind round.
+
+    Mah-Jongg                                       10
+    Four Heads (red dragons) (exposed)              16
+    Three 4 characters (exposed)                     2
+    Filling a sequence on the only open end          4
+
+                                                    32 Total Score
+    For four red dragons double once                64 Final Score
+
+Player collects 128 from East and 64 from West and South.
+
+
+
+
+TWO AND THREE-HANDED GAMES
+
+
+Three or even two may play Pung Chow, though the game is essentially a
+four-handed affair. It is played by two or three people in exactly the
+same way that it is played by four, each player building up his own side
+of the wall and then combining to build the fourth side.
+
+This fourth side is regarded as the dummy wall. In the building and
+breaking down of the wall, East Wind acts for the dummy, throwing the
+dice for it whenever indicated. The three players then draw their
+original hand and ignore the dummy the rest of the game, playing in
+regular routine and omitting the dummy's turn of play.
+
+When two play alone, each builds two sides of the wall and arrange the
+usual wall. Then they throw the dice, East Wind throwing for either of
+the two dummies, both draw their original hands and draw and discard
+alternately until one wins.
+
+Of course when two or three play there is less opposition or conflict
+and far greater possibilities in the draw than in the four-handed game.
+On this account, higher scores are the rule rather than the exception,
+making a more exciting and entertaining game but hardly one upon which
+stakes could be safely set.
+
+
+
+
+Table of Contents
+
+
+PART I
+
+Playing Without a Limit
+
+    Introduction                                     7
+
+    Summary of the Game                              9
+
+    Description of Tiles                            11
+
+    Procedure of Play                               13
+
+      A--East Wind                                  13
+
+      B--Building and Breaking the Wall             13
+
+      C--Drawing Original Hand                      16
+
+      D--Playing the Hand                           16
+
+      E--To "Chow"                                  18
+
+      F--To "Pung"                                  19
+
+    Four of a Kind                                  22
+
+    Mah-Jongg or Mah-Diao                           24
+
+    Settling the Scores                             25
+
+    Suggestions for Careful Playing of Hands        26
+
+    Use of the Mandarins (Flowers and Seasons)      29
+
+    Score Card                                      29
+
+    Examples of Hands and how they are scored       32
+
+    Illustrations of Score Settling                 46
+
+PART II
+
+    Playing with a Limit                            56
+
+    Procedure of Play                               57
+
+      A--The limit hand                             60
+
+      B--Washing the tiles                          61
+
+    Bonus Scores                                    62
+
+    Limit Hands                                     62
+
+    Scoring Values                                  65
+
+    Explanation of Scoring Values                   66
+
+    Doubling Honor Scores                           67
+
+    Penalties                                       67
+
+    Examples of Winning Hands                       70
+
+    Two and Three-Handed Games                      76
+
+
+
+
+Pung-Chow
+
+_The_ Game _of_ A Hundred Intelligences
+
+
+The game which is rapidly replacing bridge and other card games, as well
+as other forms of indoor pastimes.
+
+Pung Chow is an American product differing from the imported sets only
+in the following points:
+
+It is more pleasing to the eye and the touch.
+
+The beautiful Oriental colors are fast and cannot rub off, even though
+the pieces be scrubbed with soap and water.
+
+The pieces will not become sticky from the moisture of the hand.
+
+Pung Chow pieces are not affected by the climate and will never work
+loose.
+
+Should one or more pieces be lost they may be easily and quickly
+replaced.
+
+Pung Chow is an article of beauty and quality and is practically
+indestructible.
+
+
+Manufactured by
+
+    PUNG CHOW CO., Inc.
+    30 Church Street,  New York City

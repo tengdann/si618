@@ -1,0 +1,656 @@
+UNIVERSITY OF ILLINOIS
+
+ Agricultural Experiment Station
+
+
+
+
+ BULLETIN NO. 152
+
+
+
+
+ CONTAGIOUS ABORTION OF COWS
+
+ BY W. J. MACNEAL IN COOPERATION WITH HERBERT W. MUMFORD
+
+
+
+
+ [Illustration]
+
+
+
+
+ URBANA, ILLINOIS, NOVEMBER, 1911
+
+
+
+
+SUMMARY OF BULLETIN NO. 152
+
+
+1. The existence of a specific contagious disease causing abortion in
+cows has been recognized for a long time, and it is certain that the
+disease known abroad as infectious or contagious abortion is also
+prevalent in the United States.
+
+2. The infectious agent is a bacterium first described by the Danish
+investigators, Bang and Stribolt. This microorganism has been isolated
+from aborting cows in various European countries and in the United
+States.
+
+3. Bacteriological examination of afterbirths from aborting cows at this
+Station revealed the presence of this germ.
+
+4. To eradicate the disease from a herd, the affected cows should be
+isolated, and their genital passages cleansed once or twice daily with
+an antiseptic solution until all discharge has ceased, when they may be
+returned to the herd; all infectious material (afterbirth and
+discharges) should be burned; infected stalls should be cleaned and
+disinfected; the sheath of the herd bull should be cleansed with a
+disinfectant solution before and after service, and a separate, clean
+bull should be used for heifers and clean cows.
+
+
+
+
+CONTAGIOUS ABORTION OF COWS
+
+BY W. J. MACNEAL, ASSISTANT CHIEF IN BACTERIOLOGY, IN COOPERATION
+WITH HERBERT W. MUMFORD, CHIEF IN ANIMAL HUSBANDRY
+
+
+
+
+INTRODUCTION
+
+
+The premature discharge of the products of conception from the uterus is
+a not infrequent occurrence among domestic animals, and doubtless
+various factors may from time to time operate in its causation. For a
+long time, however, practical husbandmen have recognized an epizootic or
+contagious kind of abortion, a definite transmissible disease in which
+the loss of the fetus is the most prominent characteristic. The
+transmissibility of contagious abortion of cows appears to have been
+demonstrated experimentally for the first time by Brauer. Experimental
+transmission has been performed by a number of investigators
+subsequently, the work of Nocard (1886) furnishing conclusive evidence
+upon this point.
+
+It is certain that a disease, or possibly more than one disease, of this
+nature is a source of serious loss to the live stock industry in the
+United States, and there can no longer be any doubt that a considerable
+part of this loss is due to the definite specific disease prevalent on
+the continent of Europe and in England, and known as Contagious,
+Infectious, or Epizootic Abortion. The purpose of this bulletin is the
+brief presentation of some of the facts concerning the cause, prevention
+and restriction of this disease, which have been established by modern
+investigation, for the information of men engaged in live stock
+production.
+
+
+BACTERIOLOGICAL INVESTIGATIONS ELSEWHERE
+
+Nocard carried out the first extensive bacteriological investigation of
+contagious abortion. In microscopic preparations of the diseased
+placenta he was able to recognize numerous short bacilli and micrococci.
+These were also found in the amniotic fluid. He obtained pure cultures
+of these two organisms, but failed to induce abortion upon inoculating
+these cultures into other animals. Neither of the germs obtained in
+culture could therefore be regarded as the causative agent in the
+disease.
+
+In 1895 Bang and Stribolt undertook the investigation of this disease,
+and their results are now generally regarded as the most important of
+all the contributions to the study of this subject. A cow showing all
+the symptoms of impending abortion was purchased and slaughtered. The
+unopened uterus was removed to the laboratory where it was opened with
+special precautions to avoid all contamination. An abundant, grayish
+yellow, odorless exudate was found between the ovum and the inner wall
+of the uterus. Upon standing this exudate separated into two layers, a
+reddish yellow serum above, and a grayish yellow partly solid layer
+below. In microscopic preparations of this exudate, stained with
+Loeffler's methylene blue, numerous very small bacilli were found,
+apparently in pure culture, some of them lying free, but large numbers
+of them crowded together inside cells. These latter appeared at first to
+be micrococci, but more careful examination proved them to be really
+short rods. Bang and Stribolt were able to cultivate this organism in
+tubes of a gelatin-agar-serum medium, the germ developing only in a
+particular zone beginning about 5 mm. beneath the surface of the medium
+and extending downward 10 to 15 mm. After considerable work with
+cultures, they concluded that the bacillus is neither an aerobe nor an
+anaerobe, in the ordinary sense, but exhibits a very peculiar behavior
+in respect to oxygen, requiring for its development a partial pressure
+of oxygen somewhat less than that present in the atmosphere. They were
+unable to obtain growth of the germ in the presence of the ordinary
+atmosphere, nor in the absence of oxygen (Pyrogallol method). Curiously
+enough, by placing their tube cultures in an atmosphere of pure oxygen,
+they obtained cultures developing in two zones, one near the top and the
+other near the bottom of the tube, indicating that there are two optima
+in the oxygen requirement of the organism. This very interesting
+character of the organism received great attention at their hands, but
+nevertheless Bang points out that typical development such as he has
+pictured was not always obtained, a number of factors seeming to cause
+variation in the position and extent of the developmental zones in these
+tube cultures. By exhausting the air above the medium in the tube, the
+growth was made to extend to the surface. In this way they were able to
+obtain growth of the bacillus on plates, but they did not work out a
+reliable plate method, preferring to employ the dilution tube cultures
+for separation in all their work. Bang and Stribolt subsequently
+examined pieces of placenta from a large number of cases of contagious
+abortion, and found the bacillus microscopically in practically all
+cases. Sometimes they were abundant, in other instances very scarce.
+Most of this material was badly contaminated, yet, from that sent in
+during the colder season they successfully isolated the bacillus in pure
+culture in a majority of the cases. In three fetuses the bacillus was
+found in the intestinal contents in pure culture; in one fetus it was
+isolated from the blood. Two cows with mummified fetus _in utero_ were
+examined _post mortem_. These fetuses had been dead 9 months and 5
+months respectively but the surrounding exudate still contained the
+abortion bacillus and pure cultures of it were obtained from each case.
+Uterine exudate kept in the refrigerator still contained living abortion
+bacilli after seven months.
+
+Having found the same bacillus microscopically in a series of cases of
+abortion, and having obtained it in pure culture from a number of them,
+it now remained for Bang and Stribolt to produce the disease by
+inoculation of these cultures into healthy animals. Four pregnant cows
+were obtained without knowledge of their previous history. Two of them
+were inoculated by intravaginal application of pure cultures, and two by
+intravaginal application of pieces of afterbirth from aborting cows. No
+abortion resulted in any of the cows and at slaughter 19 to 29 days
+after inoculation, there was no evidence of the disease. This result was
+surprising, as Brauer had induced abortion by the second of the
+above-mentioned procedures in from 9 to 21 days, Lehnert in from 12 to
+20 days, and Trinchera in 9 to 13 days. The authors thought that the
+animals may have been immune on account of a previous attack of the
+disease, or that possibly the interval between innoculation and
+slaughter (19 to 29 days) may have been too brief for the disease to
+have developed. For the next experiment two cows were purchased from a
+region where abortion was unknown. Pregnancy began January 14 and
+January 16, 1896. On April 14, a rich culture of the abortion bacillus
+was injected well up into the anterior end of the vaginal canal of each
+of these cows. The inoculation was repeated in the same way on May 23,
+and again on June 4. One cow aborted June 24, the fetus evidently having
+been dead some days. The abortion bacillus was isolated from the
+afterbirth. The other cow showed the signs of impending abortion on June
+23, and was slaughtered on June 24. The condition inside the uterus
+resembled in every respect that observed in the cow from which the
+original culture had been isolated, and the bacillus was present in pure
+culture. In these cows the disease had appeared 10 weeks after the first
+inoculation. A third cow was inoculated by intravaginal application
+January 19, 1897, and subcutaneously March 6, in both instances with
+pure cultures of the bacillus. Premature delivery of a living calf
+occurred April 9, 80 days after the first inoculation. Abortion was also
+caused in sheep by intravaginal application and by intravenous injection
+of pure cultures. Inoculation by the latter method proved to be more
+certain in these animals, and the incubation period after intravenous
+injection was only 7 days in one case and 12 days in another.
+Intravenous inoculation of a mare resulted in a premature delivery after
+28 days. In all these cases the bacillus was recovered from the
+afterbirth.
+
+In 1902, Preisz at Budapest isolated the same bacillus from two cases of
+contagious abortion in cows. He confirmed the findings of Bang in
+respect to the oxygen requirements of the organism, and was able to
+obtain cultures by a variety of methods on ordinary media. Apparently
+his cultures were less vigorous than those of Bang, for they soon died
+out, their resistance to germicides was slight, and all his
+inoculations into animals, including two pregnant cows, two pregnant
+guinea pigs, and one pregnant rabbit, as well as a number of other small
+animals, were without positive result. Preisz named the organism
+"_Corynebacterium abortus endemici (s. infectiosi)_."
+
+In 1908, Nowak at the University of Krakau in Austria made a very
+important contribution to the study of this disease. He found the
+culture method of Bang and Stribolt very useful for the identification
+of the organism when obtainable in pure culture, and when the
+contaminating bacteria were few in number. When other bacteria were
+numerous, as is frequently the case in material obtained for
+examination, he found this method difficult. The pyrogallol method of
+Preisz also proved to be unreliable in his hands. Eventually he devised
+a method of plate culture which proved to be very useful. Ordinary agar
+was melted and cooled to 50 deg. C. then mixed with about one fourth its
+volume of naturally sterile blood serum, and poured into sterile Petri
+dishes where it was allowed to solidify. The piece of placenta or other
+material to be examined was then streaked over several of these plates
+in succession, and the plates were incubated for 24 hours at 37 deg. C., to
+allow contaminating bacteria to develop. The plates were next placed in
+a glass jar together with a culture of _Bacillus subtilis_, one square
+centimeter of culture surface of the latter organism being provided for
+each 15 cc. capacity of the jar. The jar was sealed and placed at 37 deg. C.
+for three days, at the end of which time excellent surface colonies of
+Bang's bacillus were obtained. By the application of this method Nowak
+has succeeded in isolating the bacillus from the blood and intestinal
+contents of a number of fetuses, and from uterine discharge, when other
+methods failed. He has also observed that one could gradually decrease
+the amount of culture surface of _B. subtilis_ employed in succeeding
+cultures and eventually get the bacillus of Bang to grow in the presence
+of atmospheric air, altho the cultures were relatively poor ones. Nowak
+also confirmed Bang by obtaining cultures in an atmosphere of nearly
+pure oxygen, as well as in ordinary air under a pressure of three
+atmospheres. His cultures were evidently vigorous for some of them were
+successfully transplanted after two years. Nowak used ordinary agar as a
+medium with considerable success, and found glucose agar to be almost as
+favorable to the growth of the bacillus. For the detection of the germ
+in pathological material, however, these media proved to be inferior to
+the serum-agar mixture in several cases. Cultures were obtained in broth
+and in milk without coagulation, contrary to the statement of Preisz. No
+gas was produced in sugar broth. Nowak inoculated a number of pregnant
+laboratory animals, and produced abortion with great regularity in
+guinea pigs and rabbits by subcutaneous, intravenous and intraperitoneal
+injection. He did not succeed in producing abortion by intravaginal
+application nor by feeding. No tests were made upon larger animals much
+to his regret, as in his opinion the experiments of Bang upon cows still
+left something to be desired in the way of experimental evidence.
+
+McFadyean and Stockman (1909) have investigated the contagious abortion
+of cattle in Great Britain, and have found it to be identical with that
+studied by Bang in Denmark. They were able to produce the disease in
+cows by intravenous injection of natural virus and of active pure
+cultures, without a failure in eight experiments. By intravaginal
+application they caused the disease twice with cultures and three times
+with natural virus, but also failed to obtain any result in three trials
+with the natural virus. Subcutaneous inoculation was successful three
+times in five trials. By feeding they produced the disease three times
+in four trials. These authors consider ingestion to be an important mode
+of contracting contagious abortion in nature.
+
+Zwick (1910) has made a preliminary report of the bacteriological
+investigation of contagious abortion at the German Imperial Health
+Office. By a comparative study of cultures, the unity of the disease in
+Denmark, Germany, England, and Holland has been established. Certain
+individual differences were detected in the various culture strains
+examined, and it was found that the bacillus could be readily cultivated
+upon various ordinary laboratory media, and that it could also adapt
+itself to an aerobic existence, thus confirming the work of Nowak. In
+one instance the bacillus grew aerobically immediately upon isolation
+from the animal body. Abortion was induced in sheep, goats, and rabbits
+by intravenous injection, intravaginal application, and also by feeding.
+Work upon the use of abortin (analogous to tuberculin) for diagnosis,
+and upon the agglutination and complement fixation tests, was in
+progress at the time the report was made.
+
+
+BACTERIOLOGICAL OBSERVATIONS AND EXPERIMENTS AT THIS STATION
+
+In the United States contagious abortion is widespread, and has been
+recognized for a number of years by practical husbandmen as an important
+economic factor in animal industry. Epidemiological studies have
+recently been reported from Arizona and Connecticut. At the Illinois
+Agricultural Experiment Station the beef cattle herd has suffered
+considerable loss from abortion for several years past, and the presence
+of contagious abortion had been recognized by Professor Mumford, altho
+this diagnosis was disputed by other authorities. In order to settle the
+question it seemed best to undertake a bacteriological study of the
+disease. This seemed the more desirable because, so far as we have
+ascertained, there was no known microorganism generally recognized and
+accepted as the cause of the disease in this country, the bacillus
+described by Bang having been found only in Europe and his work having
+failed to be confirmed by American investigators.
+
+Altogether eighteen parturient cows have been examined
+bacteriologically. Ten of these calved at term and the births appeared
+to be normal. The abortion bacillus was not found in any of these. Eight
+were cases of premature delivery, and of these, six appeared clinically
+to be cases of contagious abortion. Placental tissue from two of these
+cases was examined by the Nowak plate method and a bacillus isolated,
+apparently identical with that isolated by Bang in Denmark and by Nowak
+in Austria.
+
+The organism is a very small short rod, usually oval in shape, from 0.8 mu
+to 2.0 mu long by 0.7 mu wide, practically always single, rarely in short
+threads of two to four cells. It is not motile, and does not form
+spores. It stains with moderate rapidity with the ordinary anilin dyes,
+and is decolorized by Gram's method. The colonies on serum-agar are
+raised, with smooth circular borders, appearing almost like drops of
+dew. They are transparent and very clear, with a bluish gray color by
+transmitted light. Under the microscope a few coarse granules may be
+seen near the center of the colony but the greater part of it appears
+very homogenous and almost water-clear. The appearance of the colony is
+really a very characteristic feature of the organism and enables one to
+distinguish readily the colony of the abortion bacillus from other
+colonies on the serum-agar plates.
+
+The behavior toward oxygen is another character upon which considerable
+reliance may be placed in the identification of strains recently
+isolated from the animal body. This is tested by transplanting the
+colonies from the serum-agar plates to two series of agar streak
+sub-cultures, of which one series is incubated in the atmospheric air
+and the other in the closed jar together with cultures of _B. subtilis_.
+Unless the growth under the latter condition is much better than the
+growth outside the jar, the culture may be discarded as one not
+belonging to this species.
+
+A final important test in identification is that of pathogenicity. Nowak
+induced abortion in pregnant guinea pigs with great regularity by
+subcutaneous, intraperitoneal, and intravenous injection of pure
+cultures of the abortion bacillus. So far, four pregnant guinea pigs
+have been inoculated subcutaneously with the pure cultures isolated by
+us, and the inoculation has been followed by premature evacuation of the
+uterus with death of the fetuses in 3-1/2 8, 6, and 7 days
+respectively. In the first guinea pig the two fetuses were practically
+fully developed and covered with hair. In this instance the abortion
+bacillus was isolated only from the subcutaneous tissue of the mother
+at the point of inoculation, the cultures from the uterus, the placenta,
+and the fetuses remaining negative. In the other three cases the fetuses
+were undeveloped and the condition was that of a true abortion. In these
+instances the abortion bacillus was demonstrated by culture tests at the
+point of inoculation in pure culture in two, in mixed culture in the
+other one; in the interior of the uterus in pure culture in all three;
+in each of the four placentae of two cases in mixed culture, as these
+placentae had been passed some time before they were found, and in the
+three placentae of the other case in pure culture; in the livers of all
+three fetuses of the one case in pure culture, but not in the other four
+fetuses; in the heart blood of the mother in pure culture in one case,
+but not in the other two cases. In all these tests the mother guinea pig
+was killed by chloroform soon after the abortion had occurred.
+
+From the results of these tests we have concluded that the bacillus
+isolated by us from aborting cows is identical with that isolated by
+Bang and by Nowak. Further, the investigations of Bang, Preisz, Nowak,
+McFadyean and Stockman, and Zwick, seem to justify the acceptance of
+this organism as the infectious agent in the contagious abortion of
+cattle.
+
+The principles of bacteriological nomenclature have not as yet been
+universally adopted, and most of the investigators quoted in this paper
+have avoided the use of a specific name for the abortion bacillus. Bang
+himself seems not to have given it a binomial designation, but he
+repeatedly employed the term "Abortusbacillus" as a specific term.
+Chester (1901) has named the organism "_Bacterium abortivum_" with the
+synonym "Bacillus of contagious abortion in cows, Bang." Preisz (1902)
+suggested the name "_Corynebacterium abortus endemici (s.
+infectiousi)_." This generic name Corynebacterium appears to be
+incorrect, as the organism is very different from those to which this
+name has been previously applied. It would seem best to employ the more
+general term Bacillus (or Bacterium) as a confessedly temporary generic
+name until a more definite generic nomenclature of bacteria shall have
+been developed and generally adopted. In determining the specific name
+it would seem that the term "Abortusbacillus" employed by its
+discoverer as early as 1907 should receive first consideration. We[1]
+have therefore suggested the name _Bacillus_ (or _Bacterium_)
+_abortus_, Bang, for this organism. The term "_abortus_," being in the
+genitive case, may be employed with either generic term.
+
+FOOTNOTE:
+
+[Footnote 1: MacNeal and Kerr, 1910.]
+
+
+RESTRICTION AND ERADICATION OF THE DISEASE
+
+Reliable methods for restricting the spread of contagious abortion and
+for eradicating it from a herd may be expected as the result of more
+complete and accurate knowledge of the nature of the disease and its
+mode of spread. Some of these methods, such as that of artificial
+immunization, are being tested experimentally by the Departmental
+Committee appointed by the British Board of Agriculture and Fisheries to
+inquire into Epizootic Abortion. Until these methods have been developed
+beyond the experimental stage, the older more or less empirical methods
+will have to be relied upon. Fortunately these older methods can now be
+subjected to careful scrutiny in the light of modern knowledge of the
+disease, and they have been studied in this way by the British Committee
+mentioned above. The following summary has been copied, with only slight
+abridgment and very few alterations, from the report of this Committee.
+
+"The methods which have been relied upon in the past for the prevention
+of abortion and its eradication from a herd are:--
+
+(1) Periodical spraying of the external genital organs and hind quarters
+with disinfectant solutions.
+
+(2) Isolation of animals as soon as they show the premonitory signs of
+abortion.
+
+(3) Internal administration of carbolic acid to animals supposed to be
+infected or exposed to infection.
+
+(4) Irrigation of the genital organs of animals which have aborted with
+antiseptic solutions.
+
+(5) Removal and disposal of animals which have aborted.
+
+(6) The keeping of a special bull for serving animals which have
+aborted, or, what is based on the same idea, the disinfection of the
+external genital organs of the bull with antiseptic solutions after he
+has served such a cow.
+
+(7) Destruction of the abortion membranes, and disinfection of the parts
+of the buildings, litter, etc., with which the infective material has
+come in contact.
+
+(8) The keeping of a goat, especially a male goat, in a byre with the
+cows."
+
+It cannot be said of the above measures that either singly or
+collectively they have brought about any material improvement in the
+general condition of our herds in relation to abortion. According to
+reports, decided improvements have been effected in individual herds by
+the adoption of isolation and disinfection, while in others very little
+has been accomplished. Some of the above methods are founded on nothing
+more than ignorant empiricism, while others are based upon pathological
+and physiological considerations which are only partially correct in
+their applications. Since most of them have obtained a certain amount of
+hold, at least on the minds of stockowners, it may be useful to discuss
+each measure separately in the light of our recent investigations.
+
+_Spraying of the External Genital Organs._--This is a procedure which
+probably has little or no value. (_Abridged._)
+
+_Isolation of Animals as soon as they show Signs of Abortion._--The
+necessity for this measure is obvious, and its importance cannot be too
+much insisted on. An infected animal only becomes infective to others
+immediately before the act of abortion, and may remain so for some weeks
+afterwards. However, only a proportion of the affected animals show
+premonitory signs, and quite a number may abort amongst their companions
+without warning. Under such conditions, then, measures of immediate
+isolation lose much of their undoubted theoretical value, owing to the
+difficulty in the way of carrying them out in practice. There is not
+likely to be any serious difficulty in diagnosing the bacterial disease
+after an act of abortion, even in an isolated case, if the membranes are
+available in a reasonably fresh state. (_Abridged._)
+
+Isolation of the affected animals, however, must be complete before and
+after the act to be of any real value. Having regard to what appears to
+be the most common form of infection, viz., by ingestion, we do not
+think that anything material is to be gained by merely putting all the
+cows about to abort and those which have aborted at the lower end of a
+byre, so that the infective discharges may not come in contact with the
+external genital organs of their fellows, unless we assume that
+infection frequently takes place by an animal licking virulent material
+from a part of its body where it has been deposited by flicks of the
+tail which has been contaminated by lying in the gutter behind the
+stalls.
+
+_Internal Administration of Carbolic Acid._--The uselessness of carbolic
+acid and other antiseptics as curative agents has already been referred
+to. As a preventive agent by internal administration we believe carbolic
+acid to be equally useless. Even if it were possible to administer very
+large doses of this poisonous substance, one could not expect to be able
+to give enough to destroy the bacilli which have been swallowed and
+mixed with the contents of the enormous stomachs and intestines, and it
+would be equally hopeless to expect to destroy in this way the bacilli
+which have already reached the womb. This alleged measure of prevention
+must be regarded as an absurdity which has gained a certain amount of
+support owing to observations carelessly collated and carelessly
+interpreted.
+
+_Irrigation of the Genital Passages after Abortion._--With the act of
+abortion the greater part of the uterine exudate is immediately ejected.
+That some of it remains behind for a short period is certain, since we
+were able to demonstrate abortion bacilli in material obtained from the
+vagina of a heifer three days after she had aborted. On the other hand,
+no abortion bacilli could be found in the uterus of another heifer a
+month after she had aborted. It seems probable that, as a rule, the
+genital organs cleanse themselves by natural means a comparatively short
+time after abortion has taken place. Almost immediately after abortion
+and expulsion of the membranes the uterus contracts, and its internal
+surfaces come into apposition. Its condition is such that it would not
+be possible to force fluid into it with a pump from the vagina. Apart
+then, from the probability that disinfection of the uterus by
+antiseptics is not necessary to rid the organ of abortion bacilli, we
+are of opinion that it is futile to attempt it by irrigation methods. So
+long as a discharge continues to come from the genital passages, we
+think that for hygienic and therapeutic reasons they ought to be
+cleansed once or twice by the intravaginal injection of tepid antiseptic
+solutions, such as a 2 per cent solution of carbolic acid or a 1 in
+3,000 solution of corrosive sublimate, but not on the ground that the
+injections will disinfect the uterus. We are of opinion that it will
+seldom be necessary to continue the injections for more than a month,
+and that after three months there should be small risk in putting the
+cow to the bull, provided she is afterwards protected from fresh
+infection.
+
+_Removal and disposal of Animals which have aborted._--It is quite a
+prevalent custom to feed for the butcher cows which have aborted. It is
+also customary to sell such cows alive in the open market. The second
+custom we consider likely to introduce disease to other establishments,
+unless the animals have ceased to discharge; they should, we think, be
+kept for at least three months after abortion before being sent for
+sale.
+
+The first custom is less objectionable than the second, but we think
+that a breeder will be more likely to get rid of abortion from his herds
+by keeping such animals than by disposing of them and bringing in new
+ones before his entire herd is free from the disease. There can be no
+doubt that in most cases an attack of the disease greatly increases an
+animal's resistance to future attacks, and that in a large proportion of
+the affected, probably in the majority, this resistance is sufficient to
+fortify them against infection during their next pregnancy. It is beyond
+doubt that a considerable proportion may abort twice in succession, but
+it is not improbable that inoculation methods may now be successfully
+employed to exalt their resistance. In the midst of infection there is
+no better guarantee against the disease than the possession of an immune
+stock, and for this reason we consider that on infected premises the
+animals which have already aborted are to be looked upon as valuable
+assets for purposes of eradication, much more valuable than the new and
+susceptible animals brought in. We find, however, that a small
+proportion of cows will not hold to the bull for an indefinite period
+after abortion, and it may be found better to fatten off such animals,
+unless they are of high value.
+
+_The Keeping of a Special Bull for Cows which have aborted._--We have
+already stated that we do not consider the bull a factor of the first
+importance in the dissemination of abortion but that infection by means
+of a contaminated bull must be looked upon as a distinct possibility. We
+think, therefore, that there is something to be said in favor of keeping
+a bull for the service of cows which have aborted, and, when that is not
+possible, of disinfecting the external genital organs of the bull after
+he has served such cows. Of course, if the cows can be immunized the
+same bull might be used for all. We do not think that cows from a clean
+establishment should be sent even to a clean bull on infected premises,
+and it is also inadvisable that cows from infected premises should be
+sent to a bull on a clean establishment.
+
+_Destruction of Virulent Material and disinfection of everything
+contaminated by it._--The immediate disinfection of the virulent
+materials and contaminated objects is of great importance, more
+especially as it appears that the natural virus may remain active for a
+long time outside the body. The soiled litter, dung, exudate, membranes,
+and fetus should all be removed at once, preferably after they have been
+treated with caustic lime. After removal they should be soaked in
+paraffin and burned, or buried in a deep pit, preferably the former. On
+no account should the fetus and membranes be fed to pigs or dogs. When a
+fetus is aborted alive, as sometimes happens, it seldom survives long,
+and it is advisable to kill and destroy it, since it may excrete
+abundance of virulent material from its intestines if allowed to live.
+If, however, it be decided not to kill it, it should immediately be
+isolated. The walls of the stall and the floor should be washed or
+strewn thickly with caustic lime, or drenched freely with boiling water.
+The temperature necessary to kill the bacillus is not great, and this
+simple method of disinfection should prove efficacious. Lastly, the
+boots, clothing, and hands of attendants should be disinfected by making
+use of any reliable disinfectant, such as 3 or 4 per cent solution of
+carbolic acid.
+
+_The keeping of a Goat amongst the Cows._--This, we believe can only
+have had its origin in ignorant superstition, but we feel bound to
+mention it, as the question of its efficacy has quite frequently been
+seriously put to us. We would point out that goats themselves can be
+infected with cattle abortion, and that both male and female goats were
+on our premises during the greater part of the time occupied with the
+cattle experiments, and their presence did not prevent animals from
+aborting.
+
+_Preventive Inoculation._--This is still in the experimental stage and
+definite results are hoped for. (_Abridged._)
+
+The Committee refrained from making any recommendations in regard to
+measures to be taken by the Board of Agriculture and Fisheries for the
+prevention of the disease.
+
+Experience in connection with the beef cattle herd at the Illinois
+Agricultural Experiment Station with the methods of isolation, careful
+disposal of infected material, cleaning and disinfection of infected
+stalls, antiseptic irrigation of the genital passages of cows which had
+aborted, and antiseptic irrigation of the bull before and after service,
+together with the use of a special bull for heifers and clean cows, has
+been very satisfactory. These measures were applied under the direction
+of Professor H. W. Mumford and Mr. H. O. Allison. During the year
+previous to the inauguration of these measures a large percentage of the
+calves were lost by abortion. A decided improvement in respect to the
+number of calves saved was coincident with the use of the procedures
+mentioned above. They were applied to each case of abortion as it
+occurred, until in the course of two years abortions have become very
+infrequent and the herd is now considered free from the disease. It
+should be noted, however, that those cows which had aborted were not
+necessarily disposed of, but after local irrigation treatment until the
+discharge had ceased, they were bred again. Some of the improvement in
+the herd has, therefore, doubtless been due merely to the retention of
+relatively immune cows.
+
+Altho the experience here has been rather fortunate and the results
+obtained seem to bear some relation to the employment of the measures
+deemed worthy by the British Committee, we hesitate to state that there
+was any necessary relation between them, because cattle men have
+observed somewhat similar improvement in herds without the use of any
+treatment at all. In other words, there appears to be a tendency for the
+disease sometimes to die out in a herd or to become quiescent for a year
+or two. On the other hand, the recommendations of the British Committee
+supported as they seem to be by our local experience, certainly warrant
+the recommendation of these measures for use in combating contagious
+abortion. In any event good results cannot be expected without
+intelligent, careful, and painstaking work, and it may be that some of
+the failures in applying these measures have resulted from lack of
+efficiency in applying them rather than from insufficiency of the
+measures themselves.
+
+
+
+
+References
+
+1. =Bang.= Die Aetiologie des seuchenhaften ("infectioesen") Verwertens.
+Ztschr. f. Thiermed. 1: 241-278. 1897.
+
+2. =Board of Agriculture and Fisheries= (Great Britain). Report of the
+Departmental Committee to inquire into Epizootic Abortion. Part 1.
+Epizootic Abortion in Cattle. London, 1909.
+
+3. =Chester.= A Manual of Determinative Bacteriology. 1901.
+
+4. =McFadyean and Stockman.= Epizootic Abortion. Report. Dept. Com. Bd.
+Agr. and Fisheries. (Gt. Brit.), Appendix to Part I, 1909. Review in
+Expt. Sta. Record =22=: 584-586. 1910.
+
+5. =MacNeal= and =Kerr=. Bacillus abortus of Bang, the cause of
+contagious abortion in cattle. Jour. Infect. Diseases =7=: 469-475
+(1910).
+
+6. =Nocard,= Review by =Bang=. Ztschr. f. Thiermed, =1=: 243-246. 1897.
+
+7. =Nowak.= Le bacille de Bang et sa biologie. Annales de l'Institut
+Pasteur =22=: 541-546. 1908.
+
+8. =Preisz.= Der Bacillus des seuchenhaften Verwerfens. Centralbl. f.
+Bakt. etc., I Abt. Orig. =33=: 190-196 (1903).
+
+9. =Zwick.= Ueber den Erreger des infectioesen Abortus des Rindes.
+Centralbl. f. Bakt. etc., Beilage zu I Abt. Ref. =47=: 219-220. 1910.
+
+
+
+
+    +-----------------------------------------------------------+

@@ -1,0 +1,3585 @@
+TRANSLATIONS OF CHRISTIAN LITERATURE
+                                SERIES I
+                              GREEK TEXTS
+
+                            ST. DIONYSIUS OF
+                               ALEXANDRIA
+
+                        TRANSLATION OF CHRISTIAN
+                          LITERATURE. SERIES I
+                              GREEK TEXTS
+
+
+
+
+                             ST. DIONYSIUS
+                             OF ALEXANDRIA
+                         LETTERS AND TREATISES
+
+
+                     _By_ CHARLES LETT FELTOE, D.D.
+
+                         SOCIETY FOR PROMOTING
+                      CHRISTIAN KNOWLEDGE. London
+                    The Macmillan Company. New York
+
+
+
+
+                                PREFACE
+
+
+Not long after my edition of this Father's writings appeared in the
+_Cambridge Patristic Texts_ (1904), I was invited to translate the
+Letters and some of the other more certainly genuine fragments that
+remain into English for the present series; but it is not until now that
+I have been able to accomplish the task I then undertook. Since then,
+though chiefly occupied in other researches, I have naturally acquired a
+more extensive and accurate knowledge of St. Dionysius and his times,
+some of the results of which will be found in this volume. Nevertheless,
+I was bound to incorporate a considerable amount of the information and
+conclusions arrived at in the former work, and wish to express my
+acknowledgments to the Syndics of the University Press for leave to do
+so, as well as to those again whose names I mentioned as having assisted
+me before.
+
+In the present book Dr. A. J. Mason was kind enough to advise me over the
+choice of extracts from the two treatises, _On Nature_ and _Refutation
+and Defence_, and on one or two minor points, while a friend and
+neighbour (the Rev. L. Patterson) read through the whole of the MS.
+before it went to the printer and gave me the benefit of a fresh mind
+upon a number of small details of style and fact, for which I sincerely
+thank him.
+
+                                                           C. L. Feltoe.
+
+  _Ripple by Dover_
+    _March 1918._
+
+
+
+
+                                    CONTENTS
+
+
+                                                                     PAGE
+  PREFACE                                                               V
+  INTRODUCTION                                                          9
+  LETTERS                                                              35
+  TO BASILIDES                                                         76
+  "ON THE PROMISES"                                                    82
+  "ON NATURE"                                                          91
+  "REFUTATION AND DEFENCE"                                            101
+  ADDITIONAL NOTE                                                     108
+  INDEX                                                               109
+
+
+
+
+                              INTRODUCTION
+
+
+1. None of the many influential occupants of the see of Alexandria and of
+the many distinguished heads of the Catechetical School in that city seem
+to have been held in higher respect by the ancients than Dionysius. By
+common consent he is styled "the Great," while Athanasius, one of his
+most famous-successors as Bishop, calls him "Teacher of the Church
+universal," and Basil (of Caesarea) refers to him as "a person of
+canonical authority" ({kanonikos}). He took a prominent and important
+part in all the leading movements and controversies of the day, and his
+opinions always carried great weight, especially in Eastern Christendom.
+His writings are freely referred to and quoted, not only by Eusebius the
+historian,[1] but also by Athanasius, Basil and John of Damascus amongst
+others. And what we gather of his personal story from his letters and
+various fragments embodied in the works of others--and very little, if
+anything else, for certain has come down to us--undoubtedly leaves the
+impression that the verdict of the ancient world is correct.
+
+
+                      His Family and Earlier Life
+
+2. The references to his family and early years are extremely scanty and
+vague. In the _Chronicon Orientale_, p. 94, he is stated to have been a
+_Sabaita_ and sprung from "the chiefs and nobles of that race": and
+several writers speak as if he had been a rhetorician before his
+conversion (as Cyprian of Carthage had been). The exact meaning of the
+term "Sabaita" above is doubtful. Strictly used, it should mean a member
+of the Sabaite convent near Jerusalem, and the _Chronicon_ may be
+claiming Dionysius as that, though, of course, without any ground for the
+claim. If it is equivalent, however, to "Sabaean" here, it implies an Arab
+descent for him, which is hardly probable, as he seems always to consider
+himself connected by education and residence, if not by birth, with the
+city-folk of Alexandria, whom he distinguishes from the Coptic
+inhabitants of Egypt ({Aigyptioi}); so that it would be rather surprising
+to find that his family came from the remoter parts of Arabia, where the
+Sabaeans dwelt. The other tradition of his having been a rhetorician may
+be due to some confusion between our Dionysius and a much later
+Alexandrian writer of the same name, who edited the works of the
+Areopagite with notes and wrote other treatises. On the other hand,
+Dionysius's literary style is such that it might very well have been
+formed by the study and practice of rhetoric, while he has been thought
+himself to corroborate the statement of the _Chronicon Orientale_, as to
+the high position of his family, in his reply to Germanus (p. 49), where
+he refers to the "losses of dignities" which he has suffered for the
+Faith.
+
+3. He was probably a priest, and not less than thirty, when he became
+head of the Catechetical School in 231, and in 264 he excused himself
+from attendance at the Council of Antioch on the ground of age and
+infirmity; and so it is a safe inference that he was born about or before
+200, being thus nearly of an age with Cyprian of Carthage, and only ten
+or fifteen years younger than Origen, his master.
+
+
+                             His Conversion
+
+4. The _Chronicon Orientale_ assigns the reading of St. Paul's letters as
+the cause of his conversion to Christianity, and proceeds to state how,
+after their perusal, he presented himself for baptism to Demetrius, then
+Bishop of Alexandria, who admitted him in due course. Whether this was
+actually the cause of his conversion or not, we know from what he has
+himself told us in his letter to Philemon (p. 56), that both before and
+after baptism he was a diligent student of all that was written for and
+against Christianity.
+
+
+                         Was He Married or Not?
+
+5. Whether, in accordance with the common practice of the Eastern Church
+at that time, Dionysius was married or not, is a moot point. He addressed
+his treatise {peri Physeos} to one Timotheus {ho pais}, and we read of
+{hoi paides} (of whom Timotheus was one) as accompanying him in his
+flight (p. 44). One would naturally infer from this that he was then a
+widower (his wife not being mentioned), and that these were his sons; but
+they may have been his pupils, on the supposition that he was still
+Catechete as well as Bishop, or, which is less likely, his servants.[2]
+
+
+               He becomes Head of the Catechetical School
+
+6. When Demetrius died in 231, Heraclas, who for some years had been
+associated with Origen at the Catechetical School and had just been left
+in charge of it by him on his final retirement that year from Alexandria,
+was elected Bishop, while Dionysius, who had himself been a pupil of
+Origen there, was appointed to fill the vacancy he created. It is
+possible that the treatise {peri Physeos}, extracts from which are given
+below (on pp. 91 ff.), was composed while Dionysius held this important
+post, and that a commentary on _Ecclesiastes_, some genuine fragments of
+which probably remain, belongs to the same period. The former of these is
+much the more valuable work, for in it for the first time a Christian
+undertook systematically to refute the atomistic theories of Epicurus and
+his followers.
+
+
+                    He becomes Bishop of Alexandria
+
+7. Sixteen years later, in 247, upon the death of Heraclas, Dionysius
+succeeded to the bishopric as the fourteenth occupant of the see,
+possibly, as has already been suggested, without at once resigning his
+post at the School. Philip the Arabian (of Bostra) had then been Emperor
+for three years, a position he was destined to retain for two years
+longer. Like Alexander Severus before him, he was known to favour the
+Christians, and Dionysius himself bears witness to the comparative
+mildness of his rule (p. 37). For a short time, therefore, the new Bishop
+and his flock were left in peace, though even before the death of Philip
+signs of the coming storm appeared. In the last year of his reign
+Dionysius tells Fabius, Bishop of Antioch (p. 35), that "the prophet and
+poet of evil to this city, whoever he was," stirred up the populace
+against the Christians in Alexandria, and several persons were cruelly
+martyred. This reign of terror lasted some time, but was interrupted in
+the autumn of 249 by the revolution which caused the deposition and death
+of Philip, and which set Decius on the throne in his stead. The respite
+was only too brief, for by the beginning of the new year the edict which
+Decius had issued was being actively carried into effect. The Bishops
+were at first singled out for attack. Origen, though not one of them, was
+included among the earlier victims--on account, no doubt, of his
+prominence as a scholar and a teacher--being imprisoned at Tyre and
+cruelly tortured, though not actually martyred.
+
+
+                    Under the Persecution of Decius
+
+8. Decius's reversal of his predecessor's policy towards the Christians
+was probably due to reasons of state and expediency rather than, as
+Eusebius implies, to mere spite and hatred of Philip and all his ways.
+Anyhow, the severity of the Decian persecution is undoubted, and it fell
+with great force upon the Church at Alexandria. The Prefect of Egypt,
+Sabinus, lost no time in attacking Dionysius and his followers. Many
+endured tortures or death, or both. Dionysius himself, after waiting four
+days, fled and was sought for by a secret service messenger
+(_frumentarius_, see note on p. 43) sent by Sabinus. A brief search was
+sufficient to recover him, and he was carried off with four of his
+companions to Taposiris. But through a strange interposition of
+Providence (related on pp. 44 f.) he was rescued by a wedding party of
+rustic revellers and removed to a place of safety in the Libyan Desert,
+where he appears to have been left unmolested, with two of his four
+companions (see pp. 64 ff.), till the persecution ceased and he was able
+to return to the city. In after days Dionysius's action in fleeing on
+this occasion was violently attacked by a certain Bishop Germanus, who
+was perhaps one of his suffragans. Germanus boasted of his own much
+braver conduct under persecution. Dionysius in his reply (see especially
+pp. 43 and 45) maintains that it was not of his own will nor yet without
+divine intimation that he had fled, and that he had suffered far more
+than his critic for the Faith. Decius's rule was brought to a calamitous
+end in 251, but Gallus, who succeeded him, continued his treatment of the
+Christians for another two years, when he, too, suffered an untimely
+fate.
+
+9. For the next four years the Church of Alexandria enjoyed comparative
+rest and peace. In 253 AEmilianus[3] the Governor of Pannonia and Moesia,
+who had in that spring wrested the imperial power from Gallus, was in his
+turn, after four months' rule, defeated by Valerian and his son
+Gallienus, and slain by the soldiery. The new Emperors (father and son)
+left the Christians alone during the first four years of their reign--a
+somewhat surprising fact, when it is considered that Valerian had been
+specially chosen to fill the office of "Censor," which Decius had
+revived. It may in some measure have been due to what Archbishop Benson
+(_Cyprian_, p. 457) calls his "languid temperament" as well as to his
+son's connexions with the Christians through his wife Cornelia Salonina.
+
+
+                   His Action about Heretical Baptism
+
+10. During this interval of peace, but chiefly towards the end of it,
+Dionysius took part in that controversy about heretical baptism to which
+the letters on pp. 51 ff. belong. Up till now various parts of
+Christendom had followed various customs on this matter without much
+disputing. In Asia Minor and in Africa baptism by heretics was not
+recognized, while in the West baptism with water in the name of the
+Trinity or of Christ was held valid by whomsoever performed. Before the
+middle of the third century, however, the difference of practice
+gradually became more and more a matter of controversy. In or about A.D.
+230 two synods were held one after the other at Iconium and at Synnada
+(see p. 58, _n._), which confirmed the opinion that heretical baptism was
+invalid: and some twenty-five years later on Cyprian of Carthage convened
+several synods in North Africa, which arrived at the same conclusion.
+Thereupon a violent quarrel arose between Cyprian and Stephen the Bishop
+of Rome; this became, perhaps, all the keener, because of the former
+alliance and co-operation between Cyprian and Stephen's predecessor,
+Cornelius, in combating the Novatianist schism,[4] which had eventually
+led also to heresy over the restoration of those who had lapsed under
+persecution. Severe language was now used on both sides, and other
+leading Churchmen of the day were naturally drawn into the discussion:
+among them our Dionysius, who--after the first, at all events--with
+characteristic sagacity steered a middle course and advised that the
+older spirit of toleration should be maintained, the circumstances of
+different churches requiring different methods. Fragments of five letters
+on this subject have come down to us, all addressed to the Church of Rome
+or rather to representative members of that Church, the first of them
+probably written in 254 when the Novatianist schism was subsiding (see p.
+52), and the others belonging to the year 257 (see pp. 54 ff.).
+
+
+                   Under the Persecution of Valerian
+
+11. Suddenly, in the summer of that year, the Church was startled by the
+issue of an edict which revived the reign of terror and threw her into a
+state of persecution which lasted for more than three years. This
+unexpected change of treatment is attributed by Dionysius to the
+influence of Macrianus, who at one time held the office of _Rationalis_
+(Treasurer or Accountant-General) to the Emperor. This man was apparently
+a cripple in body, but mentally and otherwise a person of considerable
+ability and force of character: but he seems to have associated himself
+in some way with the soothsayers of Egypt,[5] and to have conceived a
+violent hatred against the Christians. Quite early in the proceedings
+which were instituted against them at Alexandria in consequence of the
+edict, Dionysius, with several of his clergy, was brought before
+AEmilianus the Prefect,[6] and after examination--chiefly as to his
+loyalty to the Emperors, which his refusal to pay them divine honours
+rendered doubtful--was banished first to a place called Cephro (probably
+not far from Taposiris, where he had been sent before), and then
+somewhere on the high road in the district called Colluthion. Dionysius's
+own account of the circumstances which led to and attended this second
+exile is given on pp. 46 ff., an account which is valuable, among other
+reasons, because it is largely drawn from the official memoranda of the
+Prefect's court, and because it shows how both sides did their
+ineffectual best to understand each other's position.
+
+
+                          Restoration of Peace
+
+12. The persecution lasted till the autumn of 260, and was then, on the
+disappearance of Valerian, stayed by an edict of Peace issued by his son
+Gallienus, who was now left alone upon the throne. The Greek version,
+which Eusebius gives us, is apparently not that of the actual edict, but
+of the Emperor's letter or rescript which applied it to Egypt. It is
+addressed to Dionysius and other bishops, and runs as follows: "I have
+ordained that the benefit of my concession be enforced throughout the
+world, to the effect that men should withdraw from (_i. e._ not interfere
+with) your places of worship. And accordingly ye, too, may use the terms
+of my rescript, so that none may interfere with you. And this, which may
+with authority be carried out by you, has already been granted by me some
+time ago. And accordingly Aurelius Quirinius, who is in charge of the
+Exchequer,[7] shall preserve this form now given by me." Instructions
+were also issued permitting the Christians to have free access to their
+cemeteries--a privilege which was always much prized.
+
+
+                        His Return to Alexandria
+
+13. It is practically certain that Dionysius returned to Alexandria as
+soon as Gallienus's edict came into operation there. But almost
+immediately fresh disturbances were felt in the city, followed by one of
+those frequent outbreaks of pestilence to which the East was always
+liable, and these hindered for a time his work of bringing the brethren
+together again. The disturbances are with good reason thought to have
+been those connected with the attempt of Macrianus to overturn the power
+of Gallienus in Egypt, though that country was so often the scene of
+tumults and civil wars for the next twelve years and more that it is
+almost impossible to identify any particular disturbances with certainty
+during this period.
+
+
+      The Troubles Connected with his Protest against Sabellianism
+
+14. For another five years Dionysius was spared to administer his charge
+and to benefit the Church at large with his prudent counsels. But, though
+attacks upon himself never seem to have troubled him very much, he had
+still to endure one such attack which probably grieved him more than all
+the rest, and the after results of which lingered on till the days of
+Athanasius and Basil in the next century. This was in connexion with the
+Sabellian controversy, especially that phase of it which had recently
+arisen in the Libyan Pentapolis (on the north-west coast of Cyrenaica).
+Sabellius was a native of the district, and his heresy consisted in
+laying too much stress on the unity of the Godhead and in so hopelessly
+confounding the Three Persons in the Trinity as to imply that the Person
+of the Father was incarnate in Christ. It is in 257 that we first find
+Dionysius, in a letter to Xystus II (see p. 55), calling the attention of
+the Bishop of Rome to these views, by which time Sabellius was himself
+probably already dead. From what he says there, it appears as if
+Dionysius was unaware that these views were not of quite recent origin
+and were already rather prevalent in both East and West, whilst his words
+seem also to imply that this later phase of Sabellianism endangered the
+dignity of the Third Person as well as of the First and Second. In Libya
+the heresy gained such a hold upon the Church that it even infected
+certain of the Bishops, and the Son of God was no longer preached.
+Dionysius, therefore, feeling his responsibility for the churches under
+his care, became active in trying to eradicate the evil. Among a number
+of letters which he wrote on the subject, there was one (about the year
+260) in which he made use of certain expressions and illustrations with
+regard to the Son of God, which were seized hold of by some members of
+the Church either at Alexandria or in the Pentapolis as heretical. This
+letter was apparently one of the later letters of the series, when his
+earlier overtures had failed to produce the effect he desired.
+
+15. Dionysius's critics laid a formal complaint against him before his
+namesake (Dionysius), who had by now succeeded the martyred Xystus II as
+Bishop of Rome; they accused him of having fallen into five errors
+himself, while correcting the false views of the Sabellians.
+
+They were as follows, as we gather them from Athan., _de sent. Dion._:--
+
+  (1) Separating the Father and the Son.
+
+  (2) Denying the eternity of the Son.
+
+  (3) Naming the Father without the Son and the Son without the Father.
+
+  (4) Virtually rejecting the term {homoousios} (of one substance) as
+  descriptive of the Son.
+
+  (5) Speaking of the Son as a creature of the Father and using
+  misleading illustrations of their relation to One Another.
+
+One or two of these illustrations which were objected to will be found in
+the extract translated on p. 103, and they are sufficient to give some
+idea of the rest. It may, however, be acknowledged that neither Dionysius
+himself in his original statements and in his attempts to explain them,
+nor Athanasius, who, when Arius afterwards appealed to Dionysius in
+support of his opinions, put forward an elaborate defence of him, was
+altogether happy or successful.
+
+16. Upon receiving the complaint mentioned, the Bishop of Rome appears to
+have convened a synod, which condemned the expressions complained of, and
+a letter was addressed by him on the modes of correcting the heresy to
+the Church of Alexandria. From motives of delicacy he made no actual
+mention of his Alexandrian brother-bishop in this letter, while
+criticizing his views, though he wrote to him privately asking for an
+explanation. A considerable portion of the public letter has been
+preserved for us by Athanasius, but it is not included in this volume,
+nor is it necessary to particularize his treatment of the question or to
+say more than this, that, though the Roman Bishop wrote quite good Greek
+and gives no impression that he felt hampered by it in expressing his
+meaning, yet he does naturally exhibit distinct traces of Western modes
+of thought as opposed to Eastern, and is not always quite fair in his
+representation and interpretation of what Dionysius had said.
+
+Dionysius's answer to his Roman brother was embodied in the treatise
+called _Refutation and Defence_ ({Elenchos kai Apologia}), some extracts
+from which (as given by Athanasius) will be found on pp. 101 ff.
+
+The following is an indication of Dionysius's line of defence against the
+five points raised against him, other matters which arose more
+particularly between him and his namesake of Rome being passed over.
+
+(1) As to the charge of separating the Three Persons in the Trinity, he
+distinctly denies it: all the language he employs and the very names he
+gives imply the opposite: "Father" must involve "Son" and "Son" "Father":
+"Holy Spirit" at once suggests His Source and the Channel.
+
+(2) As to the eternity of the Son, he is equally emphatic. God was always
+the Father and therefore Christ was always the Son, just as, if the sun
+were eternal, the daylight would also be eternal.
+
+(3) The charge of omitting the Son in speaking of the Father and vice
+versa is refuted by what is said under (1): the one name involves the
+other.
+
+(4) Dionysius's rejection or non-employment of the term {homoousios} is
+less easily disposed of. He practically acknowledges that, as it is not a
+Scriptural word, he had _not_ used it, but at the same time that the
+figures he employed suggested a similar relationship, _e. g._ the figure
+of parent and child who are of one family ({homogeneis}) or seed, root
+and plant which are of one kind ({homophye}), and again source and
+stream, and in another place the word in the heart and the mind springing
+forth by the tongue (see p. 106): but for the unsatisfactoriness of this
+defence the reader should consult Bethune-Baker, _Early History of
+Christian Doctrine_, chap. viii. pp. 113 ff, who points out that
+Dionysius had not grasped the Western tradition of one _substantia_
+({ousia}) of Godhead existing in three Persons.
+
+(5) But the most serious misunderstanding naturally arose from Dionysius
+speaking of the Son as {poiema} (creature), and illustrating the word by
+the gardener with his vine and the shipwright with his boat. His defence
+is that though he had undoubtedly used such rather unsuitable figures
+somewhat casually, he had immediately adduced several others more
+suitable and apposite (such as those mentioned under (4) above). And he
+complains that not only here, but throughout, his accusers did not take
+his utterances as a whole, but slashed his writings about and made what
+sense of them they liked, not sincerely, but with evil intent. He tries
+further to explain that in his context {poiein} (make) was equivalent to
+{gennan} (beget), as of a Father, not a Creator, which he maintains is
+legitimate, but the defence is not very convincing all the same.
+
+So far as we can now judge, however, his arguments seem to have satisfied
+his critics at the time, and were certainly held in high repute by the
+ancient Churches, for they are quoted or referred to not only by
+Athanasius, as has been stated, but also by Eusebius, by Basil of Caesarea
+(who is, however, much more temperate in his support), and by Jerome and
+Rufinus.
+
+
+                         Dionysius's Last Days
+
+17. It is evident that, in spite of this controversy, his great
+reputation in the eyes of the Church was maintained to the end: for when
+the Council of Antioch was being summoned to deal with the troubles
+connected with the heresies of Paul of Samosata, who held views somewhat
+similar to those of Sabellius, Dionysius was specially invited to attend.
+As was said above on p. 10, he excused himself from attendance on the
+ground of old age and infirmity, but he sent a letter in reply to the
+invitation which contained his views on the matter, and these were
+unfavourable to the heretic. In 265, before the Council had finished its
+sessions, he passed to his well-earned rest.
+
+
+                          Dionysius as Author
+
+18. From what has already been said, it will be gathered that Dionysius
+was a person of remarkable versatility, and at the same time unusually
+free from those snares of the versatile man, shallowness and inaccuracy.
+The critical remarks on the Revelation of S. John the Divine from his
+treatise _On the Promises_ ({peri Epangelion}), which are given in full
+(from Eusebius) on pp. 82 ff., have received the most respectful
+consideration from such authorities as Bishop Westcott and Dr. Swete and
+are well worth reading, while some of the expositions of Biblical
+passages attributed to him are probably genuine and by no means destitute
+of merit, though none of them are printed in this volume.
+
+
+                        As Christian Philosopher
+
+19. The long extracts which remain from his book _On Nature_ ({peri
+Physeos}), directed against the Epicureans, show him to have possessed on
+the whole a clear grasp of their tenets, together with much genuine
+humour and entire absence of bitterness of spirit in criticizing them.
+
+The extracts given by Eusebius appear to be fairly continuous throughout:
+they deal (1) with the atomistic portion of the Epicurean philosophy, and
+(2) with the more strictly "theological" portion of it, the references to
+the hedonistic doctrine being only slight and passing.
+
+Dionysius begins by remarking that of the various hypotheses which have
+been started as to the origin of the universe, one of the least
+satisfactory is that of Epicurus, viz. that it is the result of a chance
+concourse of an infinite number of atoms, as they rush through space.
+
+He then proceeds to show by a series of illustrations taken from human
+workmanship that mere chance could never produce the wonderful results
+that we see all around us. So, too, from the study of the heavens the
+same inference must be drawn.
+
+His next point appears to be that the difference in durability, which
+Epicurus postulates for the various bodies produced by atoms, goes to
+upset his theory. If some products (_e. g._ the gods) are eternal and
+some are short-lived, what determines the difference? Some of the
+senseless atoms themselves must be gifted with powers of directing,
+arranging and ruling. But if it is mere chance, then Epicurus asks us,
+who study the order and the phenomena of earth and heaven, to believe the
+impossible.
+
+The same conclusion is arrived at by the study of man, whose mere body is
+a machine so marvellous that some have emerged from the study of it with
+a belief that {Physis} herself is a deity. The higher powers, too, of
+man, his mind and reason and skill, all point in the opposite direction
+to Epicurus's solution of the problem. It cannot, surely, be the atoms
+rather than the Muses which are responsible for the arts and sciences.
+
+The half-humorous allusion to these heaven-born personages of heathen
+mythology leads Dionysius to attack the Epicurean theory of the gods.
+According to Epicurus, the gods in no way concern themselves with mundane
+matters, but spend a serene existence without labour or exertion of any
+kind. But such an existence, says Dionysius, is so repugnant to the very
+idea and instinct of man that it must be absolutely false with regard to
+divine beings.
+
+At this point occurs a short passage in which the inconsistency of
+Democritus, from whom Epicurus had confessedly borrowed his physics,
+_mutatis mutandis_, is criticized, though it has only a general bearing
+upon the line of argument. Democritus, he says, who professed that he
+would have given the world in exchange for the discovery of one good
+cause ({aitiologia}), yet in putting forward his ideas of Chance as a
+cause could not have been more absurd: he sets up {Tyche} as the
+sovereign cause of the Universe, and yet banishes her as a power from the
+life of men. The truth is that, while practical men and even philosophers
+find their highest pleasure in benefiting others, by this theory the gods
+are to be kept from any share in such pleasure.
+
+One other inconsistency in the Epicurean writings Dionysius next deals
+with, and that is Epicurus's own constant use of oaths and adjurations,
+in which the names of those very beings occur whose influence upon men's
+affairs he so depreciates. This is, in Dionysius's opinion, due to his
+fear of being put to death by the state for atheism, as Socrates had
+been: though he is probably doing Epicurus a wrong.
+
+The extracts end with a repetition of the appeal to the wonders of the
+sky and of the earth as a conclusive contradiction of Epicurus's
+views.[8]
+
+A selection from these interesting portions of a not unimportant work for
+its time will be found on pp. 91 ff.
+
+
+                General Characteristics of his Writings
+
+20. The letter to Basilides on several points of ecclesiastical order
+(the larger portion of which is given on pp. 76 ff.) is a model of what
+such episcopal utterances should be: it definitely states which is the
+highest and best course, but leaves the decision to the individual
+conscience. But it is to the general correspondence (pp. 35 ff.) that the
+bulk of English readers will probably turn, and that deals with a large
+variety of subjects: in some cases theological matters like Novatianism
+and the baptism of heretics are discussed; in others there are
+descriptions of the martyrdoms of his time at Alexandria and his own
+personal experiences under persecution, all told with a vividness and a
+sobriety eminently characteristic of the man: others are addressed to
+persons or districts in his province, especially at Eastertide, treating
+of matters of local and temporary importance, while one or two incidents
+which he records are of much value as illustrating church customs and
+manners of the period (_e. g._ the case of Sarapion on p. 42, prayers for
+the Emperors on p. 47, matters connected with the celebration of Holy
+Baptism and Holy Communion on p. 59).
+
+In his controversy with the Sabellians, as we have already remarked, some
+of the expressions and figures employed were insufficiently guarded or
+explained and so laid Dionysius open to criticism: but we must remember
+how much more easy it is for us, who have the benefit of subsequent
+history and experience, to see this and to correct it, than it was for
+him and for his contemporaries to grope their way, as they slowly but
+surely did, under the Divine guidance to a fuller knowledge and a more
+accurate statement of the truth.
+
+21. It is further to be noticed how very seldom, if ever, Dionysius
+offends against the principles of good taste either when attacking
+opponents, or when describing horrors, or when dealing with the mysteries
+of the Faith. In controversy he always displays an admirable moderation
+and sweetness of tone, which is the more remarkable because his
+convictions were strong and definite. This is especially to be observed
+in his treatment of Novatianus the intruder (see p. 50), in his criticism
+of the deceased Nepos of Arsenoe (see p. 82), and to a less extent in his
+defence of himself against the charges of Germanus (see p. 43). Even when
+he has to speak of one whom he believes to have done him wrong, like the
+Prefect AEmilianus (p. 48), or of one whom his soul abhors like Macrianus
+(p. 68), his language is mild in comparison with that of many in similar
+circumstances. So, too, when he takes upon himself to describe the
+tortures and deaths of the martyrs (pp. 35 f.), or the ravages of
+pestilence (p. 74), he indulges in but few ghastly or revolting details,
+though his narrative is always lively and thrilling. And once more when
+he deals with such a subject as the Eternal Sonship of our Lord, or, if
+the passage (not here given) be authentic, His Death and Passion, the
+same good taste and restraint of language is to be observed.
+
+22. Dionysius's literary style is excellent for the age in which he
+lived, and so far confirms the truth of the statement that he had been a
+master of rhetoric before his conversion. He gives evidence of having
+read widely and to good purpose both in classical and in religious
+literature. As to the former, he actually quotes from or refers to Homer,
+Hesiod, Thucydides, Aristotle, and Democritus: but his language is really
+saturated with classical uses, and a large number of the words and
+phrases which he employs recall the best writers of antiquity. His
+compositions exhibit signs of much care in production, notably the
+treatise _On Nature_ ({peri Physeos}) and the two Easter letters, to the
+Alexandrians and to Hierax (pp. 70 and 73). Here, and to a somewhat less
+degree in the letter to Hermammon (pp. 65 ff.), he writes in a more
+rhetorical and elaborate manner than in most of the other fragments which
+are extant, but even in these passages he is seldom fantastic, or
+stilted, or obscure; whilst in pure narrative or simple description (_e.
+g._ in the letters which record his own or others' sufferings and in the
+treatise _On the Promises_ ({peri Epangelion})), his language could
+hardly be more unaffected or better chosen.
+
+
+                 Dionysius as Interpreter of Scripture
+
+23. To what extent did Dionysius accept the principles and methods of
+Origen, especially in the matter of Biblical criticism and
+interpretation? The evidence, such as it is, is rather doubtful and
+conflicting. It is somewhat ominous that after the death of Bishop
+Demetrius, whose denunciations had caused the master's removal from
+Alexandria and his retirement to Caesarea, we hear of no effort on the
+part of Dionysius or of any other pupil to obtain his recall. This
+certainly suggests that, great as their regard and respect for him as a
+man and a scholar may have been, they either felt themselves powerless to
+reinstate him, or else considered his views and methods of advocating
+them detrimental to the welfare of the Church at large. On the other
+hand, it is pleasing to remember that Dionysius wrote an epistle to his
+old teacher on the subject of martyrdom, which we may presume was
+designed to comfort him during his imprisonment at Tyre. We learn, too,
+on somewhat late authority that after Origen's death Dionysius wrote a
+letter to Theotecnus, Bishop of Caesarea, extolling his master's virtues.
+The chief methodical comments on the Bible, of the authenticity of which
+we may be certain, are those contained in the fragments of the treatise
+_On the Promises_ ({peri Epangelion}), reproduced on pp. 82 ff. This was
+a direct reply to the _Refutation of Allegorists_ ({Elenchos
+Allegoriston}), in which Nepos of Arsenoe had thought to support his
+grossly materialistic views of the Millennium by the Revelation of S.
+John the Divine. As the title suggests, this work had, no doubt, attacked
+Origen's fondness for the allegorical interpretation of Scripture, and
+especially on the subject of the Millennium, and therefore we may with
+some amount of certainty infer that Dionysius in his refutation of Nepos
+would accept Origen's methods as a commentator. But the extracts
+preserved by Eusebius deal almost wholly with the authorship and textual
+criticism, and so give no proper clue as to his method of interpreting
+the subject-matter of the book.
+
+In the letter to Basilides (pp. 76 ff.) the requirements of the case do
+not call for a style of interpretation which would bring out either a
+correspondence or a disagreement with Origen's methods, except so far as
+it is marked by the frank and free exercise of critical judgment. The
+commentary on the _Beginning of Ecclesiastes_, if it is, as seems likely,
+in part the work of Dionysius, is not inconsistent in style of treatment
+with a general acceptance of his master's position. Procopius of Gaza,
+however, ranks him among the opponents of the allegorical school of
+interpreters, stating that it was in this very work that Dionysius
+attacked his master, and a short extract which has been assigned to it by
+Pitra (_Spic. Solesm._, i, 17) is distinctly less allegorical in
+treatment than the rest: it runs as follows--
+
+"On Eccles. iv. 9, 10: 'Two are better than one,' etc. As we understand
+this literally, we do not admit those who accept the interpretation of
+the statements as referring to the soul and the body; for it is by no
+means justified, seeing that the soul has the entire control over the
+ruling and governing both of itself and of the body, whereas the body is
+the bondman of the soul, subservient and enthralled to it in all its
+decisions. If, then, the soul be inclined to what is mean and evil, and
+become careless of better thoughts and considerations, the body is unable
+to restore it and lead it back to higher things: for that is not natural
+to it."
+
+There is also another short extract (on Gen. ii. 8, 9[9]) attributed to
+our author, which is non-allegorical in its treatment. The evidence
+therefore is inconclusive on this point: for though Jerome also mentions
+Dionysius as a commentator on the Bible three times in his letters, he
+throws no further light on the question.[10]
+
+On the subject of Inspiration we have no ground for thinking that
+Dionysius took up an independent position.[11] He introduces his Biblical
+quotation with the phrases current amongst early Christian writers.
+
+The general impression therefore left upon the reader is that Dionysius
+reverted to the more sober methods of interpreting Scripture that
+prevailed throughout the Church of his day as a whole, though he
+approached his master's theories in his usual sympathetic spirit and
+availed himself of much that was valuable in them.
+
+
+                    His Place in the Church Kalendar
+
+24. We hear of a Church dedicated to S. Denys in Alexandria at the
+beginning of the fourth century, which was destroyed by fire in a tumult
+in the time of Athanasius. October 3 and November 17 are the two most
+usual dates for his Commemoration in the Kalendar, the former date more
+especially in the East, where he is honoured as "a holy martyr."[12]
+
+
+                           Concluding Remarks
+
+25. The foregoing sketch is sufficient to show that, as a man of action
+and a ruler of the Church, Dionysius's personality is no less striking
+than as a student, a writer and a thinker. He was clearly a strong yet
+conciliatory administrator of his province as Bishop of Alexandria, just
+as he had been a competent and successful teacher and director of sacred
+studies as head of the Catechetical Schools--one who in each capacity
+carried on and maintained the great traditions which he inherited from S.
+Mark and his successors, from Pantaenus, Clement and Origen. And not only
+at home and within his own jurisdiction, as we have seen, did he worthily
+"magnify his office" and "make full proof of his ministry"; for he made
+his influence for good felt throughout Christendom. Bishops and clergy
+from all parts naturally turned to him in their difficulties for advice
+and guidance; and it is impossible not to feel that his wonderful breadth
+of judgment and his love of conciliation were of the greatest value to
+the Church of the third century, and will remain a model for imitation to
+each succeeding age. Men will always be tempted, as they were in that
+century, to speak strongly and to act vehemently where their spiritual
+beliefs are involved, and we may pray that God will never fail to raise
+up amongst the rulers of His Church men of the type of S. Denys the Great
+of Alexandria.
+
+
+                              Bibliography
+
+26. The first attempt at making a full collection of our author's remains
+was undertaken by Simon de Magistris, whose edition was published at Rome
+in 1796. Routh (_Reliquiae Sacrae_, tom. iii. and iv.; Oxford, 1846) and
+Migne (_Patr. Graec._ tom. x.) published considerable portions with Latin
+notes, while Gallandius (_Bibliotheca vett. patrum_, app. to vol. xiv.),
+Pitra, Mai and (more recently) Holl in vol. v. of _Texte und
+Untersuchungen_ (_neue Folge_) have printed a number of fragments from
+various sources and of very varying degrees of probable authenticity.
+
+The earliest list of Dionysius's literary productions, except the
+scattered references to be found in the _Ecclesiastical History_ of
+Eusebius, is that of Jerome (_de viris illustribus_, 69), which more or
+less tallies with what we gather from Eusebius. The student will,
+however, find a complete modern list of them, together with other
+valuable matter, in Harnack, _Altchrist. Lit._, vol. i. pp. 409-27, and
+in Bardenhewer, _Altkirch. Lit._, vol. ii. pp. 167-91: the account in
+Krueger, _Early Christian Literature_ (Eng. Trans.) is much shorter.
+Several compositions mentioned by Eusebius and Jerome are only known to
+us by name, unless some of the short extracts attributed to Dionysius
+come from one or other of them, and the contents of them are almost
+wholly matter for conjecture. The most important of these is perhaps the
+{epistole diakonike dia Hippolytou} (Eus., _H. E._ vi. 45), because of
+the various theories which have been put forward about it. Dom Morin
+(_Revue Benedictine_, xvii., 1900), for instance, suggested that
+Rufinus's translation of the doubtful epithet ({diakonike}) being _de
+ministeriis_, it was none other than the _Canons of Hippolytus_, and that
+the Canons were afterwards attributed to the church-writer, Hippolytus,
+through a mistaken identification of the unknown bearer of Dionysius's
+missive with the well-known author; but the theory has not met with much
+acceptance since, and the discussion has of late died down, quite
+different views being now held about the Canons of Hippolytus.
+
+It may also be mentioned that several fragments in Syriac and in Armenian
+are attributed to Dionysius, but only three of these, in the former
+language, appear to be genuine: one is a translation of the letter to
+Novatian (p. 50), and the two others are, whether rightly or wrongly,
+thought to be part of the Letter to Stephanus on Baptism, and will be
+found as [S][S] 2 and 3 of it on pp. 53 ff.
+
+The article on Dionysius in Smith's _Dictionary of Christian Biography_
+is by Dr. Westcott, and, though not very full, is, it is needless to say,
+worthy of being consulted.
+
+Three German books on our author will also be found useful, though not
+very recent: viz. Foerster, _de doctrin. et sententiis Dionysii_,
+Berolini, 1865; Dittrich, _Dionysius der Grosse_, Freiburg, i.B., 1867;
+and Roch, _Dionysius der Grosse ueber die Natur_, Leipzig, 1882. Of these
+the second is the most important for the general student.
+
+Dr. Salmond produced a serviceable translation of the fragments in 1871
+(T. & T. Clark's series, Edinburgh), and since then we have had Dr.
+Gifford's (in his scholarly edition of Eus., _Praepar. Evang._, Oxford,
+1903), of such as there appear.
+
+For the general history of the period much valuable help will be found in
+Archbishop Benson's _Cyprian_, London, 1897; P. Allard, _Histoire des
+Persecutions_, vols. ii. and iii., Paris, 1886, and Aube, _L'Eglise et
+l'Etat dans la 2de moitie du 3me Siecle_.
+
+A full collection of all the genuine and doubtful extracts appeared in
+the series of _Cambridge Patristic Texts_, with introductions and notes
+by the present editor, in 1904.
+
+
+
+
+                                LETTERS
+
+
+                      To Fabian, Bishop of Antioch
+                   (Eus., _H. E._ vi. 41, 42, and 44)
+
+(1) The persecution did not begin amongst us with the Imperial edict; for
+it anticipated that by a whole year. And the prophet and poet of evil to
+this city, whoever he was,[13] was beforehand in moving and exciting the
+heathen crowds against us, rekindling their zeal for the national
+superstitions. So they being aroused by him and availing themselves of
+all lawful authority for their unholy doings, conceived that the only
+piety, the proper worship of their gods was this--to thirst for our
+blood. First, then, they carried off an old man, Metras, and bade him
+utter impious words,[14] and when he refused they beat his body with
+sticks and stabbed his face and eyes with sharp bulrushes as they led him
+into the outskirts of the city and there stoned him. Then they led a
+believer named Quinta to the idol-house and tried to make her kneel down,
+and, when she turned away in disgust, they bound her by the feet and
+hauled her right through the city over the rough pavement, the big stones
+bruising her poor body, and at the same time beat her till they reached
+the same spot, and there stoned her. Thereupon they all with one consent
+made a rush on the houses of the believers, and, falling each upon those
+whom they recognized as neighbours, plundered, harried and despoiled
+them, setting aside the more valuable of their possessions and casting
+out into the streets and burning the cheaper things and such as were made
+of wood, till they produced the appearance of a city devastated by the
+enemy. But the brethren gave way and submitted and accepted the
+plundering of their possessions with joy like unto those of whom Paul
+also testified.[15] And I know not if any, save possibly a single one who
+fell into their hands, up till now has denied the Lord.
+
+Another notable case was that of the aged virgin Apollonia, whom they
+seized and knocked out all her teeth, striking her on the jaws: then they
+made a pyre before the city and threatened to burn her alive, if she
+would not join them in uttering blasphemies. But she asked for a brief
+respite, and being let go, suddenly leapt into the fire and was devoured
+by the flames. Sarapion, also, they caught in his own house, and after
+outraging him with cruel tortures and crushing all his limbs, they cast
+him headlong from the upper storey.
+
+And we could go by no high road, thoroughfare, or byway, either by day or
+by night; for everywhere and always there was a constant cry that any one
+who did not utter words of blasphemy must be dragged off and burnt.
+
+And this state of things prevailed for some time, till the revolution and
+civil war[16] occupied the attention of these unhappy men and turned on
+one another their fury against us. And so we had a short breathing space,
+as they found no leisure for raging against us: but very soon the
+overthrow of the ruler who had been not unfavourable to us[17] is
+announced, and our grave fears of being attacked are renewed. And, in
+fact, the edict arrived, which was itself almost to be compared with that
+foretold by the Lord, well-nigh the most terrible of all, so as to cause,
+if possible, even the elect to stumble.[18] Nevertheless all were
+panic-stricken, and numbers at once of those who were in higher
+positions, some came forward in fear, and some who held public posts were
+led by their official duties; others, again, were brought in by those
+about them, and when their names were called, approached the impure and
+unholy sacrifices; pale and trembling in some cases as if they were not
+going to sacrifice but themselves become sacrifices and victims to the
+idols, so that they incurred ridicule from the large crowd that stood by,
+and proved themselves to be utter cowards both in regard to death and in
+regard to sacrificing, whilst others ran readily up to the altar, making
+it plain by their forwardness that they had not been Christians even
+before. About such the Lord's prediction is most true that with
+difficulty shall they be saved.[19] And of the rest[20] some followed one
+or other of the above, while others fled or were captured: and of these
+last, again, some after going as far as chains and imprisonment, and even
+after being immured several days in certain cases, still, before coming
+into court, forswore themselves; and others, even after enduring some
+amount of torment, failed at the last. But the steadfast and blessed
+pillars of the Lord,[21] being strengthened by Him and receiving due and
+proportionate power and endurance for the mighty Faith that was in them,
+proved themselves admirable witnesses of His Kingdom.[22] Foremost among
+them was Julian, a sufferer from gout, unable to stand or walk; he was
+brought up with two others, who carried him, of whom the one straightway
+denied the Faith; the other, Cronion by name, but surnamed Eunous
+(well-disposed), and the old man Julian himself confessed the Lord and
+were conveyed on camel's back, and scourged as they rode right through
+the city--big though it be, as ye know--and at last were burnt with fire
+unquenchable, whilst all the people stood round. And a soldier who stood
+by as they were carried along and protested against those who insulted
+them was denounced and brought up, to wit God's brave warrior Besas, and
+after heroic conduct in the great war of piety was beheaded. And yet
+another, a Libyan by race, who rightly and happily was named Mauar
+(happy),[23] though the judge urged him strongly to renounce the Faith,
+would not give in, and so was burnt alive. After them Epimachus and
+Alexander, when they had remained a long time in bonds and had endured
+endless tortures from the "claws"[24] and scourges, were also consumed
+with fire unquenchable. And with them four[25] women: Ammonarion, a holy
+virgin, though the judge tortured her vigorously for a long time because
+she had declared beforehand that she would say nothing that he bade her,
+kept true to her promise and was led off to punishment; and of the rest
+there was the aged and reverend Mercuria and Dionysia, who, though she
+had many children, did not love them above the Lord: these the Prefect
+was ashamed to go on torturing in vain and be beaten by women, and so
+they died by the sword without further tortures: for the brave Ammonarion
+had exhausted all their devices.
+
+Then were delivered up three Egyptians: Heron, Ater and Isidore, and with
+them Dioscorus, a lad of about fifteen. And first of all the Prefect
+tried to cajole the stripling with words, thinking he could easily be won
+over, and then to force him by torments, thinking he would soon give in,
+but Dioscorus was neither persuaded nor forced. So the others he cruelly
+lacerated, and when they, too, stood firm, handed them over to the fire;
+but Dioscorus, who had distinguished himself in public and had answered
+his private questionings most wisely, he let off, saying that he granted
+him a reprieve for repenting, on account of his age. And now[26] the
+godly Dioscorus is still with us, having waited for his longer trial and
+his more determined conflict.
+
+Another Egyptian, Nemesion, was falsely accused of being an associate of
+brigands, but being accused of that most untrue charge before the
+centurion, he was then denounced as a Christian and came in chains before
+the Prefect.[27] And he having most unjustly maltreated him with twice as
+many tortures and stripes as the brigands had received, burnt him to
+death between them, being honoured, happy man, by the example of
+Christ.[28]
+
+Again a whole quaternion of soldiers--Ammon, Zenon, Ptolemy and Ingenuus,
+and an old man, Theophilus, with them, were standing before the judgment
+seat, whilst some one was being tried for being a Christian, and when he
+showed signs of denying the Faith they were so provoked as they stood by,
+nodding their heads, and stretching out their hands and making gestures
+with their bodies, that they drew the general attention to themselves,
+and then, before any could seize them, they leapt upon the stand[29] of
+their own accord, saying they were Christians, so that the Prefect and
+his assessors were frightened, and those who were being judged seemed to
+take courage over what awaited them, and their judges lost heart. So
+these soldiers walked in brave procession from the court and rejoiced in
+their witness (martyrdom), God giving them a glorious triumph.[30]
+
+(2) And many others in the cities and villages were torn asunder by the
+heathen (Gentiles), one of which I will mention as an example. Ischyrion
+acted as steward to one of the authorities at a wage. His employer bade
+him sacrifice, ill-treated him when he refused, and on his persistence
+drove him forth with insults: when he still stood his ground, he took a
+big stick and killed him by driving it through his vital parts. What need
+to mention the multitude of those who wandered in deserts and
+mountains[31] consumed by hunger and thirst and cold and diseases and
+brigands and wild beasts? the survivors of whom bear witness to their
+election and victory.[32] Of these, also, I will bring forward one
+instance by way of illustration. Chaeremon was the aged Bishop of what is
+called Nilopolis. He fled to the Arabian hills[33] with his wife[34] and
+never returned, nor were they ever seen again by the brethren, who made
+long search, but found neither them nor their bodies. And there were many
+who on those very Arabian hills were sold into slavery by the barbarian
+Saracens,[35] of whom some were with difficulty ransomed at high sums,
+and others even yet have not been ransomed. And these things I have
+described at length, brother, not without purpose, but in order that thou
+mightest know how many terrible things have taken place amongst us, of
+which those who have had more experience will know of more cases than I
+do.
+
+Then shortly after he proceeds--
+
+(3) Accordingly, the holy martyrs themselves, when still amongst us, who
+are now the assessors of Christ and partners of His Kingdom, sharing His
+judgments and decisions,[36] espoused the cause of certain of the fallen
+brethren who had incurred the charge of having done sacrifice, and seeing
+their conversion and repentance and approving it as fit to be accepted by
+Him who desireth not at all the death of the sinner so much as his
+repentance,[37] received them, summoned them to assemblies, introduced
+them and admitted them to the prayers and feasts.[38] What, then, do ye
+counsel us in these matters, brethren? What ought we to do? Shall we
+acquiesce and assent to them and maintain their decision and concession
+and treat kindly those to whom they have extended mercy? or shall we hold
+their judgment wrong and set ourselves up as critics of their decision
+and vex their kind hearts and reverse their arrangement?
+
+[A further extract on the subject of the lapsed]
+
+I will set out the following single example that happened amongst us.
+There was a certain aged believer amongst us, Sarapion, who had lived
+blamelessly for a long time but yielded to temptation. This man often
+begged to be restored, but no one heeded him; for he had sacrificed. But
+he fell ill, and for three days in succession he remained speechless and
+unconscious. Then recovering a little on the fourth day, he called to him
+his nephew and said: "How long, my child, do ye keep me back? hasten ye,
+I pray, and let me go speedily. Call thou one of the elders
+(presbyters)." After this he became speechless again. The boy ran for the
+elder, but it was night and he was ill and could not come. Now I had
+given instructions that if those who were departing life asked and
+especially when they chanced to have made supplication even before, they
+should be absolved in order that they might depart in good hope; he gave
+the boy, therefore, a morsel of the Eucharist, bidding him moisten it and
+drop it into the old man's mouth. The lad went back with it. When he drew
+near, before he entered, Sarapion revived again and said: "Hast come,
+child? The presbyter could not come, but do thou quickly what he bade
+thee, and let me go." So the boy moistened it and dropped it into his
+mouth: and the other shortly after swallowing it straightway gave up the
+ghost. Was he not clearly sustained and kept alive until he was absolved
+that, with his sin wiped out, he might be acknowledged (by the Lord) for
+the many good things he had done?
+
+
+                          To Germanus a Bishop
+                   (Eus., _H. E._ vi. 40 and vii. 11)
+
+(1) Now before God I speak and He knoweth if I lie;[39] not at all on my
+own judgment nor yet without Divine guidance did I take flight, but on a
+former occasion also as soon as ever the persecution under Decius was set
+up,[40] Sabinus[41] sent a _frumentarius_[42] to seek me; and I awaited
+his arrival at my house for four days, while he went round searching
+everywhere, the streams, the roads and the fields, where he suspected me
+to hide or go, but he never lighted on my house, being held by blindness:
+for he did not believe I should stay at home under pursuit. And hardly
+after the four days when God bade me remove and unexpectedly made a way
+for me, I and the boys[43] and many of the brethren went out together.
+And this was ordered by the Providence of God, as after events have
+shown, in which perchance we have been useful to some.
+
+Further on he proceeds--
+
+(2) For about sunset I with my companions having fallen into the hands of
+the soldiers, was taken to Taposiris, but Timotheus[44] by the Providence
+of God happened not to be present nor to be caught elsewhere. But
+arriving afterwards, he found the house empty and servants guarding it,
+and us carried off prisoners.
+
+And further on--
+
+(3) And what is the manner of His wonderful dispensation? for only the
+truth shall be spoken. One of the rustics met Timotheus as he was fleeing
+and troubled,[45] and inquired the reason of his haste. And he told the
+truth, and when the other heard it (now he was going to a marriage revel:
+for it is their custom to pass the whole night at such gatherings), he
+entered and informed those who were reclining at table. And they with one
+consent as if at a signal all arose and came running at great speed and
+fell upon us with loud cries, and when the soldiers who were guarding us
+straightway took to flight, they came upon us just as we were reclining
+on the bare bedsteads. And I indeed, God wot, taking them at first to be
+bandits who had come for plunder and ravage, remained on the couch where
+I was, undressed save for my linen under-garment,[46] and began to offer
+them the rest of my raiment which was at my side. But they bade me rise
+and go out as quickly as I could. And then I, understanding why they had
+come, cried out begging and praying them to depart and leave us, and if
+they would do us a good turn, I besought them to forestall those who had
+carried me off and cut off my head themselves. And while I thus cried, as
+they know who shared and took part in everything, they raised me by
+force, and when I let myself down on my back to the ground, they took and
+led me out, dragging me by the arms and legs. And there followed me those
+who had been witnesses of all this, Gaius, Faustus, Peter and Paul, and
+they also helped to carry me out of the township in their arms, and then
+putting me on a barebacked ass, led me away.
+
+[Another extract from the same letter given by Eusebius in another part
+of his History, and referring to a somewhat later period in Dionysius's
+life]
+
+(4) I am really in danger of falling into much foolishness[47] and want
+of right feeling through being compelled of necessity to narrate God's
+wondrous dispensation concerning us. But since "it is good," it says,[48]
+"to keep close the secret of a king but glorious to reveal the works of
+God," I will come to close quarters with our violent accuser, Germanus. I
+came before AEmilian[49] not alone; for there followed with me my
+fellow-presbyter[50] Maximus, and deacons Faustus, Eusebius and Chaeremon.
+And one of the brethren who was present from Rome came in with us. Now
+AEmilian did not say to me at the start, "Do not summon" (the brethren for
+public worship): for that was superfluous and the last thing (to insist
+on), since he was going back to the very beginning of the matter. For the
+question was not about summoning others but about not being Christians
+ourselves, and it was from this that he bade us desist, thinking that if
+I should change my mind, the others would follow me. And I answered not
+unsuitably nor yet very differently from the words: "We ought to obey God
+rather than men,"[51] but I testified outright that I worship the only
+God and none other, nor will I ever alter nor desist from being a
+Christian. Upon this he bade us go away to a village on the borders of
+the desert named Cephro. Listen then to what was said on both sides as it
+was (officially) recorded: Dionysius, Faustus, Maximus, Marcellus[52] and
+Chaeremon being brought in, AEmilian the Prefect said: "In the course of
+conversation also[53] I described to you the clemency which our
+Sovereigns[54] have displayed towards you. For they gave you opportunity
+of being liberated if you would adopt a natural line of conduct and
+worship the gods who protect the Empire and give up those who are
+contrary to nature. What say ye then to this? for I do not expect you
+will be ungrateful for their clemency when they invite you to a better
+course." Dionysius answered: "It is not a fact that all men worship all
+gods, for each worships certain whom he believes in. So with us, we
+worship and adore the One God, the Creator of all things, who has
+entrusted the Empire also to the most religious Emperors, Valerian and
+Gallienus; and to Him we pray[55] without ceasing for their Empire that
+it may abide unshaken." AEmilian the Prefect said, "But who prevents you
+from worshipping him also, if he be god, with the natural gods? for you
+were ordered to worship gods and those which all know." Dionysius
+answered: "We worship none other but Him." AEmilian the Prefect said to
+them: "I observe that you together are both ungrateful and insensible of
+the leniency of our Emperors. Wherefore ye shall not be in this city but
+shall be dismissed to the parts of Libya and stay in a place called
+Cephro, which I have chosen at the bidding of our Emperors. And both you
+and others will be absolutely forbidden either to hold meetings or to
+enter the cemeteries so-called.[56] And if any one were to appear not to
+have arrived at the place I have ordered or were found at any assembly,
+he will do so at his own risk. For the necessary penalty will not be
+wanting. Be off therefore where ye were bidden." So he hurried me away
+even though I was sick, granting me not a day's respite. What leisure,
+then, had I to call assemblies or not?[57]
+
+Further on he says--
+
+(5) But we did not abstain even from the visible assembling of ourselves
+together in the Lord's presence, but those who were in the city
+(Alexandria) I the more earnestly urged to assemble, as if I were still
+with them, being absent in the body, as it says, but present in the
+spirit.[58] And at Cephro also a large number of the Church were
+sojourning with us, consisting of the brethren who had followed us from
+the city or were present from other parts of Egypt. There, too, the Lord
+opened us a door for the word.[59] And at first we were pursued and
+stoned, but later not a few of the Gentiles left their idols and turned
+to God. Thus the word was first sown through us in their hearts who had
+not previously received it. And as it were for this cause God having led
+us to them, led us away again when we had fulfilled this ministry.[60]
+For AEmilian wished, as it seemed, to transfer us to rougher and more
+Libyan-like parts, and bade those who were scattered in every direction
+to draw together to the Mareotis, assigning to each party one of the
+villages of the district, but us he put more on the road so that we
+should be the first to be arrested. For he evidently managed and arranged
+so that he might have us easy of capture whenever he wished to seize us.
+And as for me, when I was ordered to depart to Cephro, I did not even
+know in what direction the place lay, hardly having heard so much as the
+name before; and yet I went off willingly and without trouble. But when
+it was told me that they would remove me to the parts of Colluthion, all
+who were present know how I was affected. For here I will accuse myself.
+At first I was vexed and took it very ill. For though the place happened
+to be better known and more familiar to us, yet people said it was devoid
+of brethren and respectable folk, being exposed to the annoyances of
+wayfarers and the attacks of robbers. But I found consolation when the
+brethren reminded me that it is nearer to the city, and that, while
+Cephro gave much opportunity of intercourse with brethren from Egypt in
+general, so that one could draw congregations from a wider area, yet at
+Colluthion we should more constantly enjoy the sight of those who were
+really loved and most intimate and dear. For they would be able to come
+and stay the night and there would be district-meetings as is the case
+with outlying suburbs.[61] And so it turned out.
+
+And lower down again he writes this about what had happened to him--
+
+(6) Many indeed are the confessions of faith over which Germanus prides
+himself: many are the things which he has to mention as having happened
+to him. Can he reckon up as many in his own case as I can in
+mine--condemnations, confiscations, sales by public auction, spoiling of
+one's possessions, loss of dignities, despisings of worldly honour,
+contempt of commendations by Prefects and Councils and of opponents'
+threats, endurance of clamourings and dangers and persecutions and
+wanderings and tribulations and much affliction, such as are the things
+which have happened unto me under Decius and Sabinus and up to the
+present time under AEmilian? But where did Germanus appear? What talk was
+there of him? However, I withdraw from the much foolishness into which I
+am falling through Germanus; wherefore I refrain from giving a detailed
+account of events to the brethren who know all.
+
+
+                             (To Novatian)
+                         (Eus., _H. E._ vi. 45)
+
+If it was against thy will, as thou sayest, that thou wast promoted,[62]
+thou wilt prove this by retiring of thine own accord. It were good to
+suffer anything and everything so to escape dividing the Church of God.
+And martyrdom[63] to avoid schism is no less glorious than martyrdom to
+avoid idolatry. Nay, it is to my mind greater. In one case a man is a
+martyr for his own single soul's sake. But this is for the whole Church.
+Even now wast thou to persuade or constrain the brethren to come to one
+mind, thy true deed[64] were greater than thy fall. This will not be
+reckoned to thee, the other will be lauded. And if thou shouldest be
+powerless to sway disobedient spirits, save, save thine own soul.[65] I
+pray for thy health and thy steadfast cleaving to peace in the Lord.
+
+[I have to thank the editors and publishers for leave to reprint the
+above translation by Archbishop Benson from his _Cyprian_, p. 142.]
+
+
+   To Cornelius, Bishop of Rome, in Reply to a Letter from him about
+                          Novatian (circ. 253)
+
+Eusebius (_H. E._ vi. 46) quotes only one short sentence from Dionysius's
+letter, which refers to the death of Alexander, Bishop of Jerusalem, one
+of Origen's distinguished pupils and supporters. Alexander twice boldly
+confessed Christ in the Governor's Court at Caesarea and died at last in
+prison. The sentence is as follows--
+
+"The admirable[66] Alexander entered into a blessed rest whilst in
+custody."
+
+According to Eusebius, the letter also mentioned the invitation which
+Dionysius had received from the Bishops of Asia Minor to attend a synod
+at Antioch at which "they tried to suppress the schism of Novatian."
+
+
+                      To Stephanus, Bishop of Rome
+                      (Eus., _H. E._ vii. 4 and 5)
+              (_The First of the Epistles about Baptism_)
+
+(1) Know now, brother, that all the Churches in the East and even further
+afield[67] which were divided, have been united: and all their rulers
+everywhere are of one mind, rejoicing exceedingly at the unexpected
+peace[68] which has come about, Demetrian in Antioch, Theoctistus in
+Caesarea, Mazabbanes in AElia,[69] Marinus in Tyre, Alexander having fallen
+asleep, Heliodorus in Laodicea, Thelymidrus being at rest, Helenus in
+Tarsus and all the Churches of Cilicia, Firmilianus[70] and all
+Cappadocia. For I have mentioned only the more prominent of the Bishops,
+in order that I may not make my letter too long nor my narrative
+wearisome. Nevertheless, the whole of Syria and Arabia, districts whose
+needs ye from time to time supply[71] and to whom ye now have sent an
+epistle, Mesopotamia also and Pontus and Bithynia, and, in one word, all
+men everywhere exult in the harmony and brotherly love displayed and
+praise God for it.[72]
+
+[The two following extracts are translated from Syriac versions, and I am
+indebted for them to Mr. N. MacLean of Christ's College, Cambridge. The
+first has been put together out of two MSS. in the British Museum,
+neither of which contains the whole, and was printed by Pitra, _Analecta
+Sacra_, Vol. IV. The Greek original of most of the first sentence is
+preserved in a catena on Deuteronomy, _Cod. Vat._ 1521, fol. 591, and was
+first printed by Simon de Magistris in his edition of our author, p. 200.
+There is much probability that this extract formed part of the same
+letter to Stephanus as the extract from Eusebius which precedes it here.
+The second extract is found in three other Syriac MSS. in the British
+Museum, but is less certainly part of this letter, or indeed authentic at
+all.]
+
+(2) If so be that any man speak a wicked thing of God like those who call
+Him unpitying[73] or any man living in the fear of other gods, the Law
+has commanded that such a one be stoned:[74] but we would stone these men
+with sound words of faith. Or if a man receive not at all the mystery[75]
+of Christ or alter and distort it--(saying) that He is not God, or that
+he did not become a man, or that He did not die, or that He did not rise,
+or that He will not come to judge the quick and the dead--or preach
+anything else apart from what we preached, let him be a curse, says
+Paul.[76] Or if so be he have wronged the word concerning the
+resurrection of the flesh, let him be already reckoned with the dead. For
+we speak in carefulness concerning these things--in order that we may be
+in agreement one with another, churches with churches, bishops with
+bishops, priests with priests. And in regard to causes and affairs about
+matters which concern individual men--how it is right to receive him who
+approaches from without and how him who comes from within[77]--we counsel
+to obey those who stand at the head of every place who by Divine
+election[78] are put into this ministration--leaving to our Lord the
+judgment of all things which they do.
+
+(3) Those who were baptized in the name of the three Persons--the Father,
+the Son, and the Holy Spirit--though they were baptized by heretics who
+confess the three Persons, shall not be re-baptized. But those who are
+converted from other heresies shall be perfected by the baptism of the
+Holy Church.[79]
+
+
+                      To Xystus (or Sixtus) II[80]
+                      (Eus., _H. E._ vii. 5, 3-6)
+                   (_The second on the same subject_)
+
+(1) (Stephen) therefore had sent word concerning Helenus and concerning
+Firmilianus, and all the bishops of Cilicia and Cappadocia and (be it
+noted) of Galatia and all the neighbouring churches likewise--to the
+effect that he would not hold communion with them for this same reason,
+since, he says, they re-baptize the heretics.[81] And observe the
+importance of the matter. For decrees had really been passed about it in
+the largest synods of the bishops,[82] as I am informed, so that those
+who come over from heretical bodies, after a course of instruction, are
+washed and cleansed from the defilement of the old and unclean
+leaven.[83] About all this also I have written asking him for
+information.
+
+(2) To our beloved fellow-presbyters also, Dionysius and Philemon, who
+had formerly sided with Stephanus and were correspondents of mine on the
+same matter, I have written briefly the first time and more fully
+now.[84]
+
+(3) The teaching which is now at work in Ptolemais of Pentapolis,[85] is
+impious, full of blasphemy about the Almighty God and Father[86] of our
+Lord Jesus Christ and full of unbelief about His only begotten Son,[87]
+the First-born of all creation,[88] the Incarnate Word, and displays want
+of perception concerning the Holy Spirit. And therefore, when both
+official communications from both parties arrived and some of the
+brethren sought personal interviews with me, I wrote what I could[89] by
+the Divine assistance and gave a somewhat methodical explanation of the
+matter, a copy of which I have sent you.
+
+
+                              To Philemon
+                         (Eus., _H. E._ vii. 7)
+                   (_The third on the same subject_)
+
+(1) I read both the critical researches and the traditional treatises[90]
+of the heretics, defiling my soul a little with their abominable opinions
+and yet gaining this advantage from them, that I could refute them for
+myself and abhor them much more thoroughly. And indeed when a certain
+brother among the presbyters tried to restrain me and frighten me from
+contaminating myself with the mire of their iniquity (he said I should
+ruin my soul, and, as I perceived, there was truth in what he said), a
+heaven-sent vision[91] came and strengthened me, and words came to me
+which expressly ordered me thus: "Read all that may come to thy hands:
+for thou art competent to sift and test everything, and that was the
+original reason[92] of thy accepting the Faith." I acknowledged the
+vision as in agreement with the apostolic voice which says to the more
+able: "Approve yourselves bankers of repute."[93]
+
+(2) This cause and rule I received from our blessed Father[94] Heraclas.
+For those that came over from the heretics, although they had apostatized
+from the Church--or rather had not even done that but were informed
+against as resorting to some heretical teacher, though still reputed
+members of our congregations--these he repelled from the Church, and did
+not restore them at their request until they had publicly and fully
+stated all that they had heard among those who set themselves against us;
+and then he admitted them without requiring them to be re-baptized: for
+they had received that holy gift already.
+
+(3) I have learnt this also, that the brethren in Africa[95] did not
+introduce this practice (of re-baptism) now for the first time, but it
+was also adopted some time ago among our predecessors as Bishops, in the
+most populous churches and well-attended synods of the brethren, viz. in
+Iconium and Synnada,[96] and I cannot bring myself to reverse their
+decisions and involve them in strife and controversy. For "thou shalt not
+remove," it says, "thy neighbour's boundaries, which thy fathers
+set."[97]
+
+
+                          To Dionysius of Rome
+                    (Eus., _H. E._ vii. 7, 6 and 8)
+                    (_The fourth letter on Baptism_)
+
+For with Novatian we are reasonably indignant, seeing that he has cut the
+Church in two and dragged certain of the brethren into impieties and
+blasphemies and introduced the most unholy teaching about God and accuses
+the most gracious Jesus Christ our Lord of being without pity,[98] and
+besides all this sets at nought the holy laws and overthrows the
+confession of faith before baptism,[99] and altogether banishes the Holy
+Spirit from them, even though there were some hope of His remaining or
+even of His returning to them.[100]
+
+
+                 To Xystus (Sixtus) II, Bishop of Rome
+                         (Eus., _H. E._ vii. 9)
+                      (_The fifth about Baptism_)
+
+I truly desire counsel, brother, and ask an opinion from you, being
+afraid lest after all I am wrong in my treatment of a case that has come
+before me as follows--
+
+One who is reckoned faithful among the brethren who meet together, of old
+standing, having been a member even before my ordination (as Bishop), and
+I fancy even before the appointment of the blessed Heraclas, had been
+present at a recent baptism and heard the questions and answers (in that
+service). He came to me weeping and bemoaning himself and falling at my
+feet, confessing and protesting that the baptism he had received among
+the heretics was not this, nor had anything in common with it: for that
+was full of impiety and blasphemies:[101] and he said that he was now
+sore pricked in the soul and had no courage even to lift up his eyes to
+God, because he had started with such unholy words and rites, and so he
+begged to obtain this thorough means of purification and acceptance and
+grace. But this I did not venture to do, saying that his so long being in
+communion with us was sufficient for the purpose. For as he had heard the
+Giving of Thanks (Eucharist) and joined in saying the Amen,[102] and
+stood[103] at the Table[104] and stretched forth his hands to receive the
+holy Food and had taken it and partaken of the Body and Blood of our Lord
+Jesus Christ for a considerable period, I should not venture to put him
+back to the beginning once more. So I bade him take courage and approach
+for the receiving of the Holy Things with sure faith and good hope. But
+he ceases not to grieve, and shrinks from approaching the Table and can
+with difficulty be persuaded to stand with (the _Consistentes_)[105] for
+the Prayers.
+
+
+                             To Conon[106]
+        (Pitra, _Spic. Sol._ i. 15, from a Bodl. MS. dated 1062)
+
+As to those who are nearing the end of life, if they desire and beg to
+obtain absolution, having before their eyes the judgment to which they
+are departing, considering what is in store for them, if they are handed
+over thereto bound and condemned, and believing that they will gain
+relief and lightening of punishment there, if they be loosed here--for
+these the approval of the Lord is true and assured--these, too, it is
+part of the Divine mercy to send on their way free. If, however, they
+afterwards continue to live, it does not appear to me consistent to bind
+them again and load them with their sins. For when once absolved and
+reconciled to God, and pronounced again to be partakers of Divine grace
+and dispatched as free to appear before the Lord,[107] so long as nothing
+wrong has been done by them in the meantime to bring them back into
+bondage for their sins were most unreasonable. Shall we after that[108]
+impose on God the limits of our judgment, to be kept by Him while we
+observe them not ourselves, making parade of the goodness of the
+Lord[109] but withholding our own? Nevertheless if any one, after
+recovery, should show himself in need of further treatment, we counsel
+him, of his own accord, to humble and abase and lower himself, with a
+view to his own improvement and also to what is seemly in the eyes of the
+brethren and irreproachable before those without.[110] If he consent to
+this, he will be the gainer: but, if he should object and refuse, then no
+doubt that will be a sufficient ground for a second exclusion.
+
+
+                   From the Writings about Repentance
+             (Mai, _Class. Auct._ x. 484, from a Vat. MS.)
+
+But now we do the contrary. For him whom Christ in His goodness seeks
+when wandering upon the mountains, and calls to Himself when fleeing, and
+lays upon His shoulders when found at last,[111] him we resolutely repel
+when he approaches. Nay, let us not adopt so evil a counsel for our own
+sake, nor drive the sword into our own heart. For they that endeavour to
+injure or, on the other hand, to benefit others, may not altogether have
+the effect they desired upon them, but they do bring about good or evil
+for themselves and replenish their store either of heavenly virtues or of
+undisciplined affections. And these taking good angels as their
+companions and fellow-travellers,[112] both here and hereafter, in all
+peace and freedom from every evil, will be allotted the most blessed
+inheritances for eternity and will ever be with God, the greatest good of
+all; and those will forfeit at once the peace of God and their own peace,
+and both here and after death will be handed over to tormenting demons.
+Let us then not repel those who return, but gladly welcome them and
+number them with those who have not strayed, and thus supply that which
+is wanting[113] in them.
+
+
+                        To Domitius and Didymus
+                        (Eus., _H. E._ vii. 11)
+                      (_Part of an Easter Letter_)
+
+(1) It is superfluous to mention by name the many members of our body,
+who are unknown to you: but you should know that men and women, young and
+old, soldiers[114] and civilians, every class and age, some by the
+scourge and fire and some by the sword have conquered in the fight and
+carried off their crowns, while with some even a very long period did not
+prove sufficient to show them acceptable to the Lord (as martyrs), as in
+fact seems to be the case even now with me.[115] Wherefore I have been
+put off until a time which He Himself knows to be the right one by Him
+who saith: "In a time acceptable I heard thee, and in the day of
+salvation I succoured thee."[116] For since you inquire and wish to be
+informed how we fare, by all means hear our experiences: how that when we
+were being led away prisoners by a centurion and duumviri[117] with their
+soldiers and servants, viz. myself and Gaius, Faustus, Peter and Paul,
+certain of the inhabitants of the Mareotis came upon us, and with
+violence dragged us off against our will and in spite of our
+protests.[118] And now I with Gaius and Peter only, deprived of the
+company of the other brethren,[119] am shut in a desolate and dreary part
+of Libya, three days' journey from Paraetonium.[120]
+
+And further on he says--
+
+(2) In the city there have concealed themselves, secretly looking after
+the brethren, from among the presbyters Maximus,[121] Dioscorus,
+Demetrius and Lucius (for Faustinus and Aquila, who were better known in
+the world, are wandering in other parts of Egypt), and of the deacons
+Faustus, Eusebius and Chaeremon, who survived those who perished in the
+pestilence.[122] Eusebius was he whom from the beginning God strengthened
+and inspired to perform many services for the confessors in prison with
+all energy, and to carry out at no small risk the last offices for the
+perfect[123] and blessed martyrs in decking out their bodies (for
+burial). For up till now the Prefect does not cease from cruelly slaying
+some of those who are brought before him, as I have already said, and
+from tearing others in pieces with instruments of torture, while he
+crushes the spirits of others again with chains and imprisonment,
+forbidding any to visit them and making search lest any should be found
+doing so. Nevertheless, God gives them some respite from their miseries
+through the zeal and steadfast efforts of the brethren.
+
+
+                              To Hermammon
+                     (Eus., _H. E._ vii. 1, 10, 23)
+                   (_Part of another Easter Letter_)
+
+(1) Even Gallus[124] did not know the flaw in Decius's policy, nor did he
+foresee what it was that upset him, but stumbled over the same stone that
+was right before his eyes. For, though his reign was prospering and
+things were going according to his mind, he drove into exile the holy men
+who were interceding with God for his peace and health, with the effect
+that with them he drove out also their prayers on his behalf.
+
+So far on that point, and then again he discourses about Valerian in the
+same letter--
+
+(2) To John also it is revealed in like manner, when he says: "There was
+given him a mouth speaking great things and blasphemy, and there was
+given him authority and forty-two months."[125] And both these things are
+to be wondered at in the case of Valerian,[126] and of them it is
+especially to be observed how his prosperity lasted so long as he was
+gentle and well-disposed towards the men of God.[127] For none of the
+Emperors before him were so kindly and favourably affected towards them,
+not even those who were said to have been openly Christians,[128] as he
+manifestly was, receiving them at the beginning in a most familiar and
+friendly spirit: indeed, his whole house was filled with devout persons
+and was a veritable Church of God.[129] But he was persuaded to abandon
+this treatment by that tutor and chief ruler of Egyptian magicians,[130]
+who instructed him to slay or persecute, as adversaries and hinderers of
+his vile and detestable sorcerers, the pure and holy persons, who are and
+were able to confound the devices of accursed demons by being present and
+seen and merely breathing on them and uttering words,[131] while he also
+incited him to perform unholy rites and detestable juggleries and
+abominable sacrifices such as the killing of wretched boys and the
+slaying of unhappy fathers' children and the dividing of new-born
+entrails asunder and the cutting up and mutilating of bodies which are
+God's creation,[132] in the hope that such doings would bring them Divine
+favour.
+
+And to this he adds as follows--
+
+(3) Fine offerings at all events did Macrianus make to them (sc. the
+demons) to propitiate them for the Empire which he hoped for, when, in
+his former position as so-called officer in charge of the Emperor's
+general ({katholou}) accounts he entertained no reasonable ({eulogon})
+nor catholic ({katholikon}) sentiments,[133] but fell under the prophet's
+curse, who says: "Woe to those who prophesy out of their own heart and
+see not the general ({to katholou}) view."[134] For he did not understand
+the workings of Universal ({katholou}) Providence,[135] nor suspect the
+approach of Judgment on the part of Him who is before all things and
+through all things and over all things.[136] Wherefore he has become also
+the enemy of His universal ({katholikes}) Church and has alienated and
+estranged himself from God's mercy and banished himself as far as
+possible from his own salvation, verifying in this his personal
+name.[137]
+
+And again further on he says--
+
+(4) For Valerian, through being persuaded to this policy by him, exposed
+himself to insults and injuries according to that which was said to
+Isaiah: "And these men chose their ways and their abominations which
+their soul desired, and I will choose their mockings and will recompense
+them their sins."[138]
+
+But this man (Macrianus) in his mad lust after imperial power for which
+he had no qualifications, being unable to deck his own crippled body with
+the imperial robes, put forward his two sons, who thus became liable for
+their father's sins.[139] For the prophecy clearly applies to them which
+God spake: "visiting the sins of the fathers upon the children unto the
+third and fourth generation of them that hate me."[140] For he brought
+upon his sons' heads his own evil desires in which he had succeeded and
+involved them in the consequences of his own wickedness and hatred of
+God.[141]
+
+Then there is a section in which he refers to the peaceful times under
+Gallienus--
+
+(5) So after thus inciting one of the Emperors before him and attacking
+the other, he speedily vanished with all his family, root and
+branch,[142] whilst Gallienus was proclaimed and acknowledged by all,
+being at once the old and the new Emperor, having preceded the usurpers
+and remaining after them. For, in accordance with that which was spoken
+to the prophet Isaiah, "behold the things predicted from the beginning
+have come to pass, and new things which will now arise."[143] For as a
+cloud having overcast the sun's rays and screened them for a while shades
+it and shows itself in its stead, and then when the cloud has passed off
+or been dissipated the sun which was shining before emerges and shines
+forth again, so it is with Macrianus; after coming forward and gaining
+access for himself to the imperial power which belonged to Gallienus, he
+ceases to be, since he was of no account, and the other resumes the
+position he had before. And the Empire, having cast off, as it were, its
+old age and purged itself of its former badness, now bursts into greater
+splendour, is seen and heard from afar and pervades the whole world.
+
+Then in due order he indicates the date of this letter in these words--
+
+(6) And once more it occurs to me to consider the days and years of this
+period of the Empire. For I observe that the ungodly persons (I have
+mentioned) after a short period of honourable mention have lost their
+good name, but (Gallienus) who was more righteous and loved God
+better,[144] having completed the seven years' period, is now passing
+through his ninth year:[145] therefore let us keep the Feast.[146]
+
+
+                     To the Brethren in Alexandria
+                        (Eus., _H. E._ vii. 22)
+                   (_Part of another Easter Letter_)
+
+(1) Other men would not think the present a time for "keeping festival:
+nor, indeed, is this nor any other such a time to them; I speak not of
+times obviously sorrowful, but even of such as they might consider most
+joyful. In these days there are lamentations everywhere, and all are
+mourning: wailings resound through the city by reason of the number of
+the dead and the dying day by day. For, as it is written about the
+firstborn of the Egyptians, so now also "a great cry arose: for there is
+not a house in which there is not one dead."[147] I would, indeed, there
+were but one; for the things that have before now befallen us were truly
+many and grievous.[148] First of all they drove us into exile and we kept
+the feast then too by ourselves, persecuted and harried to death by all,
+and every place where each particular affliction befel us became the
+scene of our festal assembly, open country, desert, ship, inn or prison,
+and our perfect[149] martyrs spent the brightest of all feasts, being
+entertained in heaven above. But after this war and famine seized us,
+which we endured in common with the Gentiles, having undergone alone all
+the injuries they had inflicted on us and then having to share in the
+evils they wrought on one another and suffered: and once more we rejoiced
+in the peace of Christ, which He has given to us alone. But now after we
+and they had obtained a very brief respite, this pestilence has overtaken
+us, which is to them a more fearful thing than all former fears and more
+terrible than any calamity whatever, and to quote an expression of an
+historian of their own,[150] "a thing which alone has exceeded all men's
+expectation," while to us it was not so much that as a discipline and a
+testing no less severe than any of the rest: for it did not spare us,
+though it attacked the Gentiles in great force.
+
+To this he adds as follows--
+
+(2) At all events most of the brethren through their love and brotherly
+affection for us spared not themselves nor abandoned one another, but
+without regard to their own peril visited those who fell sick, diligently
+looking after and ministering to them and cheerfully shared their fate
+with them, being infected with the disease from them and willingly
+involving themselves in their troubles. Not a few also, after nursing
+others back to recovery, died themselves, taking death over from them and
+thus fulfilling in very deed the common saying, which is taken always as
+a note of mere good feeling; for in their departure they became their
+expiatory substitutes.[151] At all events, the very pick of our brethren
+lost their lives in this way, both priests and deacons and some highly
+praised ones from among the laity, so that this manner of dying does not
+seem far removed from martyrdom, being the outcome of much piety and
+stalwart faith. So, too, taking up the bodies of the saints on their arms
+and breasts, closing their eyes and shutting their mouths, bearing them
+on their shoulders and laying them out for burial, clinging to them,
+embracing them, washing them, decking them out, they not long after had
+the same services rendered to them; for many of the survivors followed in
+their train. But the Gentiles behaved quite differently: those who were
+beginning to fall sick they thrust away, and their dearest they fled
+from, or cast them half dead into the roads: unburied bodies they treated
+as vile refuse;[152] for they tried to avoid the spreading and
+communication of the fatal disease, difficult as it was to escape for all
+their scheming.
+
+
+                      To Hierax an Egyptian Bishop
+                        (Eus., _H. E._ vii. 21)
+                   (_Part of another Easter Letter_)
+
+But what is there surprising in its being difficult for me to correspond
+even by letter with those who are sojourning at a distance, seeing that
+it has proved impossible to talk even with myself and to take counsel
+with my own soul? At all events, with my own kith and kin, with the
+brethren of my own house and life, citizens of the same Church, I have to
+communicate by letters and to get them through seems impracticable. For
+it were easier for one to pass, I say not across the frontier, but even
+from East to West, than to visit one part of Alexandria from another. For
+that vast, pathless desert which it took Israel two generations to
+traverse is not so impassable and hard to cross as the central street of
+the city, nor is the sea, which they had for a carriage-road when the
+waters were parted asunder to make a passage through. And our still and
+waveless harbours[153] have become an image of those in the passing of
+which the Egyptians were overwhelmed; for they have often appeared like
+the Red Sea from the blood which was in them. And the river which flows
+past the city at one time appeared drier than the waterless desert and
+more parched than that which Israel crossed over when they were so
+thirsty that Moses cried out and drink flowed out of the steep rock from
+Him that worketh wonders:[154] and at another time it was so full as to
+overflow the whole neighbourhood, both roads and fields, and to threaten
+a return of the flood which occurred in the days of Noah. But in either
+case it runs polluted with blood and slaughter and drowned corpses, as
+under Moses it happened to Pharaoh, when the river turned to blood and
+stank.[155] And what other water could cleanse all this but the water
+which itself cleanseth all things?[156] How could the mighty ocean which
+man cannot cross, overspread and sweep away this horrid flood? or how
+could the great river that goeth out of Eden wash off the stain, though
+it were to divert the four heads into which it is divided into the single
+head of the Gihon?[157] or when would the air, reeking everywhere with
+the evil exhalation, become pure? For such mist from the ground and
+breezes from the sea, airs from the rivers and vapours from the harbours
+are given off that for dew we have the impure fluids of corpses rotting
+in all their component elements. After all this do men wonder, are they
+at a loss, whence come the continual pestilences, whence the dire
+diseases, whence the divers ravages, whence the wholesale destruction of
+life, why the largest city no longer contains in it its former multitude
+of inhabitants, from infant children to the most advanced in years, whom
+it used to nourish in other days to a green old age,[158] as the saying
+went, whereas these from forty up to seventy years of age were so much
+more numerous then that their number is not now reached even when all
+from fourteen to eighty are enrolled and put together for the public
+distribution of food,[159] and thus those whose looks show them to be
+quite young have become as it were of equal age with those who have long
+been advanced in years. And though they see the race of man on earth thus
+dwindling ever and being exhausted, they do not tremble,[160] as its
+total extinction proceeds and draws near.
+
+
+                     (_From another Easter Letter_)
+
+[This fragment is given in the _Sacra Parallela Rupefucald._, fol. 70 and
+71, where it is ascribed to Dionysius's "Fourth Easter Letter." It is by
+no means clear which Letter is meant, but the main thought (of the
+cunning devices by which Love wins its way) is quaintly beautiful and
+well worthy of our author]
+
+Love leaps out in utmost eagerness to confer some benefit even on an
+unwilling object: yea, often on one who shrinks in shame and tries to
+shun kind treatment from dislike of being burdensome to another, and
+would fain put up with his annoyances alone, in order not to cause
+trouble and inconvenience to any. He that is full of Love craves leave to
+suffer and endure: to be in evil case, he thinks, gives opportunity for
+being helped, and he will do the greatest favour to another, not himself,
+if through that other the evil, which is his own, is made to cease.[161]
+
+
+   To Basilides, Bishop of the Churches in the Pentapolis (Cyrenaica)
+
+[This canonical Letter was accepted at the third Council of
+Constantinople _in Trullo_ (A.D. 680)]
+
+Dionysius to Basilides my beloved son and brother and godly
+fellow-worker, greeting in the Lord.
+
+(1) You sent to me, my most faithful and learned son, to inquire at what
+hour one ought to end the fast before Easter.[162] For you say that some
+of the brethren maintain one should do so at cockcrow:[163] and some at
+evening.[164] For the brethren in Rome, so they say, await the cockcrow:
+but concerning those in the Pentapolis you said they broke the fast
+sooner. And you ask me to set an exact limit and a definite hour, which
+is both difficult and risky. For it will be acknowledged by all alike
+that one ought to start the feast and the gladness after the time of our
+Lord's resurrection, up till then humbling our souls with fastings. But
+by what you have written to me, you have quite soundly and with a good
+insight into the Divine Gospels established the fact that nothing
+definite appears in them about the hour at which He rose. For the
+Evangelists described those that came to the tomb diversely--that is, at
+different times, and all[165] said that they have found the Lord already
+risen: it was "late on the Sabbath day," as S. Matthew puts it:[166] and
+"early while it was yet dark," as S. John writes; and "at early dawn," as
+S. Luke; and "very early ... when the sun was risen," as S. Mark. And
+when He rose, no one has clearly stated; but that "late on the Sabbath
+day, as it began to dawn towards the first day of the week," about
+sunrise on that day those who arrived at the tomb found Him no longer
+lying in it, that is agreed to. And we must not imagine that the
+evangelists are at variance and contradict one another: but even if there
+seem to be some small dispute upon the matter of your inquiry--that is,
+if though all agree that the Light of the world[167] our Lord arose on
+that night, they differ about the hour, yet let us be anxious fairly and
+faithfully to harmonize what is said.
+
+What is said, then, by Matthew runs thus: "Late on the Sabbath day, as it
+began to dawn towards the first day of the week, came Mary Magdalene and
+the other Mary to see the sepulchre. And, behold, there was a great
+earthquake: for an angel of the Lord descended from heaven and came and
+rolled away the stone and sat upon it. And his appearance was as
+lightning, and his raiment white as snow: and for fear of him the
+watchers did quake and became as dead men. And the angel answered and
+said unto the women, Fear not ye; for I know that ye seek Jesus which
+hath been crucified. He is not here; for he is risen, even as he said."
+As to this word which he uses for "late," some will think, in accordance
+with its common acceptation, that the evening of the Sabbath is
+signified; but others, understanding it more scientifically, will say it
+is not that, but "the dead of night," the word used signifying an
+advanced stage of lateness.[168] And because he means night and not
+evening, he adds "as it began to dawn towards the first day of the week"
+and (the women) had not yet come, as the rest say, "bringing spices" but
+"to see the sepulchre."[169] And they found the earthquake had occurred
+and the angel seated on the stone, and heard from him the words: "He is
+not here: he is risen." Similarly, John says: "On the first day of the
+week came Mary Magdalene early, when it was yet dark, unto the tomb, and
+seeth the stone taken away from the tomb." However, by this account,
+"when it was still dark" although towards dawn, He had gone forth from
+the tomb. But Luke says: "On the Sabbath they rested according to the
+commandment. But on the first day of the week at early dawn (the women)
+came unto the tomb bringing the spices which they had prepared. And they
+found the stone rolled away from the tomb." "Early dawn" indicates,
+perchance, the morning light appearing before (the sun itself) on "the
+first day of the week." In consequence, it was when the Sabbath had now
+completely passed, with the night that followed, and when a new day was
+beginning that they came bringing the spices and ointments, by which time
+it is clear that He had risen long before. To this, also, corresponds
+what Mark says: "(The women) brought spices that they might come and
+anoint him. And very early on the first day of the week they come to the
+tomb, when the sun was risen." For he, too, says "very early," which is
+the same thing as "at early dawn": and he has added, "when the sun was
+risen." For their start and their journey began, it is clear, "at early
+dawn" and "very early": but they had gone on spending time both on the
+road and around the tomb until sunrise. And on this occasion also[170]
+the white robed young man says to these women: "He is risen: he is not
+here."
+
+As things stand thus, we pronounce this decision for those who inquire to
+a nicety at what hour or what half-hour, or quarter of an hour, they
+should begin their rejoicing at the Resurrection of our Lord from the
+dead: those who are premature and relax before midnight, though near it,
+we censure as remiss and wanting in self-restraint; for they drop out of
+the race just before the end, as the wise man says: "that which is within
+a little in life is not little."[171] And those who put off and endure to
+the furthest and persevere till the fourth watch, when our Saviour
+appeared to those who were sailing also, walking on the sea,[172] we
+shall approve as generous and painstaking. And those midway who stop as
+they were moved or as they were able, let us not treat altogether
+severely. For all do not continue during the six days of the fast either
+equally or similarly:[173] but some remain without food till
+cockcrow[174] on all the days, some on two, or three, or four, and some
+on none of them. And for those who strictly persist in these prolonged
+fasts and then are distressed and almost faint, there is pardon if they
+take something sooner. But if some, so far from prolonging their fast do
+not fast at all, but feed luxuriously during the earlier days of the
+week, and then, when they come to the last two and prolong their fast on
+them alone, viz. on Friday and Saturday, think they are performing some
+great feat by continuing till dawn, I do not hold that they have
+exercised an equal discipline with those who have practised it for longer
+periods. I give you this counsel in accordance with my judgment in
+writing on these points.
+
+[Three rulings follow on points which it is not necessary to set out
+here]
+
+(2) These answers I give you from respect for you, beloved, not because
+you were ignorant of the subjects of your inquiry but to render us of one
+mind and soul[175] with yourself, as indeed we are. And I have set forth
+my opinion for you to share not as a teacher but as it becomes us to
+discuss one with another in all simplicity: and when you have considered
+it again, my most sagacious son, you should write again and tell me
+whatever seems to you better or what you judge to be as I have said.
+
+I pray that you may prosper, my beloved son, as you minister to the
+Lord[176] in peace.
+
+
+
+
+                               TREATISES
+
+
+                           "On the Promises"
+                     (Eus., _H. E._ vii. 24 and 25)
+
+(1) Seeing that they bring forward a composition of Nepos,[177] on which
+they rely too much as showing irrefutably that the Kingdom of Christ will
+be on earth, though I accept and love Nepos for many other things, his
+faith, his laboriousness, his study of the Scriptures, and the many
+psalms he has written,[178] by which already many of the brethren are
+encouraged, and though I hold him in all the greater respect because he
+has gone to his rest before us, yet the truth is so dear to me and to be
+preferred that I can indeed applaud and give my full assent to right
+propositions, but must examine and correct whatever appears to be
+unsoundly stated. And if he were still with us and propounding his views
+merely by word of mouth, a discussion without writing would have sufficed
+to persuade and convince our opponents by way of question and answer. But
+now that this writing of his is published, which many think most
+convincing, and certain teachers hold the law and the prophets of no
+account and have relinquished the following of the Gospels and
+depreciated the Epistles of the Apostles, while they parade the teaching
+of this book as if it were some great and hidden mystery and will not
+allow our simpler brethren to hold any high and noble opinion either
+about the glorious and truly Divine appearing of our Lord[179] or about
+our rising from the dead and our gathering together and being made like
+unto Him,[180] but persuade them to hope for mean and passing enjoyments
+like the present in the Kingdom of God, it is necessary that we also
+should discuss the matter with our brother Nepos as if he were still
+alive.
+
+Further on he adds--
+
+(2) So being in the district of Arsenoe, where, as you know,[181] this
+teaching prevailed long before, so that both schisms and the defection of
+whole churches have occurred, I called together the presbyters and
+teachers[182] among the brethren in the villages, such of the brethren as
+wished being also present, and invited them publicly to make an
+examination of the matter. And when some brought forward against me this
+book as an impregnable weapon and bulwark, I sat with them three days in
+succession from dawn till evening and tried to correct the statements
+made. During which time I was much struck with the steadiness, the desire
+for truth, the aptness in following an argument and the intelligence
+displayed by the brethren, whilst we put our questions and difficulties
+and points of agreement in an orderly and reasonable manner, avoiding the
+mistake of holding jealously at any cost to what we had once thought,
+even though it should now be shown to be wrong, and yet not suppressing
+what we had to say on the other side, but, as far as possible, attempting
+to grapple with and master the propositions in hand without being ashamed
+to change one's opinion and yield assent if the argument convinced us;
+conscientiously and unfeignedly, with hearts spread open before God,
+accepting what was established by the exposition and teaching of the holy
+Scriptures.
+
+At last the champion and mouthpiece of this doctrine, the man called
+Coracion,[183] in the hearing of all the brethren that were present
+agreed and testified to us that he would no longer adhere to it nor
+discourse upon it nor yet mention nor teach it, on the ground that he had
+been convinced by what had been said against it. And of the rest of the
+brethren some rejoiced at the conference and the reconciliation and
+harmonious arrangement which was brought about by it between all parties.
+
+Further on he says this about the Revelation of John--
+
+(3) Certain people[184] therefore before now discredited and altogether
+repudiated the book, both examining it chapter by chapter and declaring
+it unintelligible and inconclusive and that it makes a false statement in
+its title.[185] For they say it is not John's, no nor yet a "Revelation,"
+because of the heavy, thick veil of obscurity which covers it:[186] and
+not only is the author of this book not one of the Apostles but he is not
+even one of the saints nor a churchman at all;[187] it is Cerinthus,[188]
+the founder of the heresy that was called Cerinthian from him, and he
+desired to attribute his own composition to a name that would carry
+weight. For the substance of his teaching was this, that Christ's Kingdom
+will be on earth, and he dreams that it will be concerned with things
+after which he himself, being fond of bodily pleasures and very sensual,
+hankered, such as the satisfying of his belly and lower lusts, that is
+eating and drinking and marrying and such means as he thought would
+provide him more decorously with these pleasures, feasts and sacrifices
+and the slaying of victims. I should not myself venture to reject the
+book, seeing that many brethren hold it in high esteem, but, reckoning
+the decision about it to be beyond my powers of mind, I consider the
+interpreting of its various contents to be recondite and matter for much
+wonder. For without fully understanding, I yet surmise that some deeper
+meaning underlies the words, not measuring and judging them by
+calculations of my own; but giving the preference to faith,[189] I have
+come to the conclusion that they are too high for me to comprehend, and
+so I do not reject what I have not taken in, but can only wonder at these
+visions which I have not even seen (much less understood).
+
+Besides this, after examining the book as a whole and showing that it is
+impossible to understand it in its literal sense, he proceeds--
+
+(4) So having completed practically the whole prophecy, the prophet[190]
+pronounces a blessing on those who keep it and indeed on himself also:
+for "blessed," saith he, "is he that observeth the words of the prophecy
+of this book and I John who saw and heard these things."[191] That he was
+called John, therefore, and that the writing is John's I will not
+dispute. For I agree that it is the work of some holy and inspired person
+but I should not readily assent to his being the Apostle, the son of
+Zebedee, the brother of James, whose is the Gospel entitled "According to
+John" and the General Epistle.[192] For I conclude that he is not the
+same (1) from the character of each, (2) from the style of the language
+and (3) from what may be called the arrangement of the book. For the
+Evangelist nowhere inserts his name nor yet proclaims himself either in
+the Gospel or in the Epistle....
+
+(5) But John nowhere speaks either in the first or in the third person
+about himself, whereas he that wrote the Revelation straightway at the
+beginning puts himself forward: "The Revelation of Jesus Christ, which he
+gave him to show to his servants speedily, and he sent and signified (it)
+by his angel to his servant John who bare witness of the word of God and
+of his testimony, even of all things that he saw."[193]
+
+Then he also writes an Epistle: "John to the seven churches that are in
+Asia, grace to you and peace."[194] Whereas the Evangelist did not put
+his name even at the head of the Catholic Epistle but began with the
+mystery of the Divine revelation[195] without any superfluous words:
+"That which was from the beginning, which we have heard, which we have
+seen with our eyes."[196]
+
+For it is over this revelation that the Lord also pronounced Peter
+blessed, saying: "Blessed art thou Simon bar Jona, because flesh and
+blood did not reveal it to thee, but my heavenly Father."[197] Nay, even
+in the second and third extant Epistles of John, short though they are,
+John does not appear by name but he writes himself "the elder"
+anonymously. Whereas our author did not even consider it sufficient to
+mention himself by name once and then proceed with his subject, but he
+repeats the name again, "I John, your brother and partaker with you in
+the tribulation and kingdom and in the patience of Jesus, was in the isle
+that is called Patmos for the word of God and the testimony of
+Jesus."[198] In fact, at the end also he says this: "Blessed is he that
+observeth the words of the prophecy of this book and I John who saw and
+heard these things."[199] That he which wrote these things, therefore, is
+John, we must believe as he says so: but which John is not clear. For he
+does not say, as in many places in the Gospel, that he is the disciple
+beloved of the Lord, nor the one that reclined on His breast, nor yet the
+brother of James, nor yet the one that was the eyewitness and hearer of
+the Lord. Surely he would have used one of the aforesaid descriptions,
+when desirous of clearly identifying himself. And yet he does nothing of
+the kind, but calls himself our brother and partaker with us, and witness
+of Jesus and blessed for the seeing and hearing of the revelations. I
+suppose that many bore the same name as John the Apostle, who by reason
+of their love towards him and from their admiration and emulation of him
+and desire to be loved by the Lord like him, were glad to bear the same
+name with him, even as many a one among the children of the faithful is
+called Paul or Peter.[200] There is then another John also in the Acts of
+the Apostles, the one called Mark whom Barnabas and Paul took with them
+and of whom it says again: "And they had John as their attendant."[201]
+But as to whether he is the writer, I should say no. For it is not
+written that he arrived in Asia with them, but "Paul and his company," it
+says, "set sail from Paphos and came to Perga in Pamphylia; and John
+departed from them and returned to Jerusalem."[202] And I think there was
+yet another among those who were in Asia, since they say there were two
+tombs in Ephesus and each of them are said to be the tomb of John.[203]
+
+Again, from the thoughts and from the actual words and their arrangement
+this John may be reasonably reckoned different from the other.[204] For
+the Gospel and the Epistle agree with each other and begin in a similar
+way. The one says "In the beginning was the Word:" and the other "That
+which was from the beginning." The one says "And the Word became flesh
+and tabernacled in us, and we beheld his glory, glory as of the
+Only-begotten from the Father:" the other uses the same or almost
+equivalent expressions, "That which we have heard, that which we have
+seen with our eyes, that which we beheld and our hands handled concerning
+the Word of Life, and the Life was manifested."[205] For he starts in
+this way because he is dealing, as he shows in what follows, with those
+who say that the Lord has not come in the flesh.[206] For which reason he
+is careful to add also: "And we have seen and bear witness and announce
+unto you the eternal Life which was with the Father and was manifested
+unto us. That which we have seen and heard we announce also unto
+you."[207] He is consistent with himself and does not diverge from his
+own propositions, but treats them throughout under the same heads and in
+the same terms, of which we will briefly recall; for instance, the
+attentive reader will find in each book frequent mention of the Life, the
+Light, the turning from darkness,[208] constant reference to the Truth,
+Grace, Joy, the Flesh and the Blood of the Lord, the Judgment, the
+Forgiveness of sins, the Love of God towards us, the command to us to
+love one another and that we must keep all the commandments: again there
+is the conviction of the world, of the devil, of the antichrist, God's
+adoption of us as Sons, the Faith, which is everywhere required of us,
+the Father and the Son everywhere: and generally throughout in describing
+the character of the Gospel and the Epistle one and the same complexion
+is to be observed in both. But the Revelation is quite different from
+them, foreign, out of touch and affinity with them, not having, one might
+almost say, one syllable in common. The Epistle contains no reminiscence
+nor subject dealt with in the Revelation nor the Revelation in the
+Epistle (to say nothing of the Gospel), whereas Paul in his Epistles did
+give some indication even about those revelations which he has not
+actually described.[209]
+
+And yet once more one can estimate the difference between the Gospel and
+Epistle and the Revelation[210] from the literary style. For the first
+two books are not only written in irreproachable Greek, but are also most
+elegant in their phrases, reasonings and arrangements of expression. No
+trace can be found in them of barbarous words, faulty construction or
+peculiarities in general. For St. John seems to have possessed both
+words, the Lord having graciously vouchsafed them to him; viz. both the
+word and knowledge of the word of speech.[211] That this John had seen a
+Revelation and received knowledge and the gift of prophecy,[212] I do not
+deny, but I observe his dialect and inaccurate Greek style, which employs
+barbaric idioms and sometimes even faulty constructions, which it is not
+now necessary to expose. For I have not mentioned this in order to scoff,
+let no one think so, but simply to point out the dissimilarity of the
+writings.
+
+
+                              "On Nature"
+                    (Eus., _Praep. Evang._ xiv. 23-7)
+
+(1) How shall we bear with them when they say that the wise and, for that
+reason, the good productions of Creation are the results of chance
+coincidences?[213] Each of which as it came into being by itself appeared
+to Him that ordered it to be good and all of them together equally so.
+
+For God "saw," it says, "all things that he had made, and behold they
+were very good."[214] And yet they take no warning from the small,
+ordinary instances at their feet, from which they may learn[215] that no
+necessary and profitable work is produced without design or haphazard,
+but is adapted to its proper purpose by handiwork, whereas when it falls
+into a useless and unprofitable state, it then breaks up and comes to
+pieces indefinite, and, as it chances, because the wisdom which was
+concerned in its construction no longer superintends and directs it. For
+a garment is not woven by the woof standing up without a weaver, nor yet
+by the warp weaving itself of its own accord: but when it is becoming
+worn out, the torn rags fall asunder. And a house or a city is built not
+by receiving certain stones which volunteer for the foundations and
+others which jump into the courses of the walls, but because the builder
+brings the stones that fit in the proper order: but when the building is
+thrown down, each stone falls to the ground just as it may. So, too, when
+a ship is being built, the keel does not set itself below, while the mast
+raises itself in the middle and each of the other timbers takes the place
+which it chances to of itself. Nor, again, do the planks of a wagon--said
+to be 100[216] in number--become fixed in the position which each found
+empty; but the builder in each case puts the timber together suitably.
+But if the ship, when it went upon the sea, or the wagon, when it was
+driven along on land, comes to pieces, the timbers are scattered wherever
+it may happen--in the one case by the waves, in the other by the violent
+rush.
+
+In the same way it would befit them to say that the atoms also which are
+inoperative when they are at rest and not worked by hands, are also
+useless when they move at random.[217] For let these opponents of ours
+look to these viewless atoms of theirs and apply their minds to these
+mindless ones, not like the Psalmist who confesses that this was revealed
+to him by God alone: "Mine eyes beheld thy unfinished work."[218] So,
+too, when they say that those fine webs which they speak of as being
+produced from atoms, are self-wrought by them without skill or sensation,
+who can bear to hear of these weaver atoms whom even the spider excels in
+skill when he spins his web out of himself.[219]
+
+(2) Who, then, is it that discriminates between the atoms, gathering or
+scattering them, and arranging some in this way to make the sun and
+others in that way for the moon, and putting each of them together
+according to the light-giving power of each star? For the particular
+number and kind that made the sun by being united in a particular way
+would never have condescended to produce the moon, nor would the
+intertwinings of the moon atoms have ever become the sun. Moreover, even
+Arcturus, bright as he is, would never plume himself on having the atoms
+of Lucifer, nor the Pleiads those of Orion. For Paul has well
+distinguished when he says: "There is one glory of the sun, and another
+glory of the moon, and another glory of the stars: for star differeth
+from star in glory."[220] And if the combination of the atoms, as being
+soulless, was unintelligent, they needed an intelligent artist to put
+them together: and if their junction was without purpose and the result
+of necessity, they being void of reason, some wise herdsman drove them
+together and presided over them: and if they have been linked together
+voluntarily to do willing service, some wonderful master-craftsman
+assigned them their parts and took the lead; or, like an expert general,
+he did not leave his army disordered and all in a muddle, but disposed
+the cavalry in one part and the heavy armed troops apart, and the javelin
+men by themselves and the slingers where they ought to be, in order that
+those who carried the same weapon might help one another. And if they
+think this illustration ridiculous because in it I make a comparison of
+great bodies with small, we will come down to the very smallest.
+
+[Eusebius's extract breaks off here.]
+
+(3) If the atoms have no ruler over them, to speak to them or to choose
+or to arrange them, but they move, settling themselves of their own
+accord out of the big rushing tumult and producing a big uproar as they
+clash together, like coming to like without the Divine intervention of
+which the poet speaks,[221] and if they run and herd together,
+recognizing their kinsfolk, truly the republic of the atoms is a
+marvellous one, friends greeting and embracing one another and hasting to
+take up their abode in one habitation: some have rounded themselves off
+spontaneously into the sun, that mighty orb, that they may produce the
+day, and some perchance have flared up into the many pyramids[222] of
+stars that they may encircle the whole expanse of sky, while others are
+ranged around it, in order that they may--albeit undesignedly--form the
+firmament[223] and arch the atmosphere over for the graduated ascent of
+the stars, and that the confederation of these helter-skelter atoms may
+choose their abodes and apportion the sky as homes and stations for
+themselves.
+
+
+(4) So far are these deniers of Divine Providence from comprehending the
+invisible parts of the universe that they do not even see what is
+visible. For they appear not even to consider the ordered risings and
+settings of the sun, conspicuous though they be, let alone those of the
+other heavenly bodies; nor yet to appreciate the assistance thus given to
+mankind through them, the day being lighted up for work and the night
+being darkened for rest. For man shall go forth, it says, to his work and
+his labour until the evening.[224] But they do not even take note of its
+other[225] revolution, by which it brings about the fixed times and fair
+seasons and the regular winter and summer solstices, under guidance of
+its component atoms. Yet however much these poor creatures dislike it, it
+is as the righteous[226] believe: Great is the Lord that made him: and at
+His word he hasteneth his course.[227] Do atoms, ye blind, bring you
+winter and rains, in order that the earth may produce food for you and
+all the animals upon it? do they introduce summer that ye may receive for
+your enjoyment the fruits of the trees also? then why do you not bow down
+and sacrifice to the atoms that are the guardians of earth's fruits?
+ungrateful truly ye are, never offering them the smallest firstfruits of
+the many gifts ye have from them.
+
+(5) The many-tribed and much-mixed populace of the stars which the
+much-roving and ever-scattered atoms composed have (they say) apportioned
+among themselves their places according to agreement, setting up, as it
+were, a colony or a community,[228] without any founder or controller
+taking the lead over them: and they observe the duties of
+_neighbourliness_ to one another by compact and peacably, not
+transgressing the original bounds which they accepted, as if they were
+under the jurisdiction of such atoms as had regal power. But the atoms do
+not rule; how could they, being of no account? Nay, listen to the Divine
+announcement ({logia}): "In the judgment of the Lord are his works from
+the beginning; and from the making of them he disposed the parts thereof.
+He garnished his works for ever and the beginnings of them unto their
+generation."[229]
+
+
+(6) What well-ordered phalanx ever traversed an earthly plain, no one
+stepping in front of others, nor falling out of the ranks, nor
+obstructing his comrades, nor falling behind them, in the way that the
+stars advance ever in regular order, shield locked in shield--that
+continuous, unwavering, unencumbered and unembarrassed host? Yet certain
+obscure deviations (we are told) arise among them through clashings and
+sideward motions:[230] and that they who devote themselves to their study
+can always tell the seasons and foresee the positions at which they will
+rise. Let, then, these cutters[231] of the uncuttable and dividers of the
+indivisible and combiners of the uncombined and discerners of the
+infinite tell us by what means occurs the encompassing journey round the
+heavens in company? it cannot be because a single combination of atoms
+has been without purpose hurled as from a sling in this way, seeing that
+the whole encircling band goes on its regular rhythmic way and whirls
+around together; by what means those multitudinous fellow-voyagers
+proceed in company albeit they are without arrangement or purpose and
+unknown to one another? Well did the prophet include amongst things
+impossible and undemonstrable that two strangers should run in company:
+Shall two walk at all together, he says, unless they are acquainted?[232]
+
+
+(7) (That to work is not toilsome to God.)
+
+To work and to administer and to benefit and to provide and the like are
+perchance vexatious to the idle and thoughtless and feeble and
+iniquitous, amongst whom Epicurus enrolled himself, when he conceived
+such ideas about the gods. But to the earnest and capable and intelligent
+and sober-minded, such as those who love wisdom (or philosophers) ought
+to be (and how much more the gods?), they are not only not unpleasing and
+irksome but rather most delightful and of all things most agreeable; for
+negligence and delay in doing something useful is a reproach to them, as
+the poet[233] warns them,[234] when he counsels: "Put not off till the
+morrow," and further threatens them: "He that procrastinates hath ever to
+struggle against disasters," while the prophet[235] instructs us still
+more solemnly when he says that virtuous deeds are truly godlike, but he
+that despises them is detestable: "for," saith he, "cursed be he that
+doeth the works of the Lord negligently." Consequently, while those who
+are untaught in any craft and are imperfect from want of practice and
+familiarity with the processes do find toil involved in their endeavours,
+those who make progress in it, and still more those who have reached
+perfection, are cheered by their easy success in what they aim at, and
+would rather accomplish and bring to completion the tasks they are
+accustomed to than have all the good things of mankind. At all events,
+Democritus himself, so they say, used to maintain that he would rather
+discover a single reason for a fact than gain the Persian kingdom;[236]
+and that though he seeks his reasons so vainly and unreasonably, starting
+as it were from a void beginning and a roving hypothesis and not
+observing that fundamental Necessity[237] which is common to the nature
+of things existent, but considering his conception of senseless and
+mindless contingencies to be the highest wisdom of setting up Chance as
+the mistress and queen of things universal and even of things divine, and
+maintaining that all things occur through her, and yet warning her off
+from matters of human life and conduct and accusing those who give her
+precedence there to be devoid of judgment. At all events, at the
+beginning of the "Precepts,"[238] he says: "Men have fashioned the figure
+of Chance, as a cloke for their own folly: for by nature chance fights
+against judgement." Thus they (the Epicureans) have said that this very
+Chance, the great enemy of intelligence, yet has the mastery over it; or,
+rather, by utterly uprooting and abolishing the one, they set up the
+other in its place: for they sing not of intelligence as happy, but of
+chance as the equivalent of intelligence.[239] So, then, those who
+superintend works of beneficence pride themselves in measures which
+advance the interests of their kind, some as rearers of families, some as
+directors of institutions, some as healers of men's bodies, some as
+ministers of state, yes, and those who love wisdom (philosophers) and try
+hard to instruct their fellows, likewise give themselves great
+airs--unless Epicurus or Democritus will venture to maintain that
+philosophizing is mere vexation of spirit: but surely there is no
+pleasure they would prefer to it. For even though they reckon pleasure to
+be the absolute good, yet they will be ashamed to say that to
+philosophize (seek wisdom) is not one of the higher forms of
+pleasure.[240] And as to the gods, about whom the poets among them sing
+as "givers of good gifts"[241] and these philosophers combine respect
+with banter,--the gods neither give nor partake of any good things. And
+in what manner do they find evidence that gods exist? for they do not see
+them before their eyes doing anything (even as those who admired the sun
+and the moon and the stars said they were called gods ({theoi}) because
+they run ({theein}) their course); nor do they attribute to them any
+creative or constructive powers, in order that they make them gods from
+the word {theinai} (set, _i. e._ make):[242] and on that ground the Maker
+and Creator of all things is truly the only God; nor do they put forward
+their management or jurisdiction or favours towards men, in order that we
+may be induced to worship them from motives of fear or reverence.
+
+
+                        "Refutation and Defence"
+                     (Eus., _Praep. Evang._ vii. 19)
+
+(1) They are not pious, who hand over matter to God as a thing without
+beginning for His orderly disposition,[243] maintaining that, being
+subject to treatment and change, it yields to the modifications imposed
+by God. For they should explain how both the like and the unlike belong
+both to God and to matter. For some one must be imagined superior to
+either,[244] and that may not be entertained about God. For whence came
+it that there is in them both the being without beginning, which is what
+is said to be "like" in both and which is also conceived of as different
+from both?[245] For if God is of Himself without beginning and the being
+without beginning is, as some would say, His very essence, matter will
+not be without beginning, too: for matter and God are not identical. But,
+if each is what it is independently, and to both belongs in addition the
+property of being without beginning, it is clear that the being without
+beginning is different from either and older and higher than both. And
+thus the difference between their opposing states is entirely subversive
+of their co-existence, or rather of the one, viz. matter existing of
+itself. Otherwise let them state the reason why, both being without
+beginning, God is not subject to treatment, unchangeable, immovable,
+productive, and matter is the opposite, subject to treatment, changeable,
+mobile, varying.
+
+Again, how is it that God and matter came in contact and combined? Was it
+that God adapted Himself to match the nature of matter and exercised His
+craft upon it? Nay, that is absurd that God, like men, should work in
+gold and stone and busy Himself in the other handicrafts which the
+various materials can give shape and form to.[246]
+
+But if God endowed matter with the qualities which He in His own wisdom
+determined, impressing on it as with a seal the multiform and diverse
+shape and fashion of His own workmanship, this account of it is both
+proper and true, and yet further proves that God, who is the fundamental
+principle on which the universe exists, is without beginning. For to its
+being (according to them) without beginning God add its bearing certain
+qualities. So, then, there is still much to be said in answer to these
+views, but we do not propose to say it now. Nevertheless they are
+expressed with more propriety than those who are absolutely atheistical
+polytheists.[247]
+
+
+(2) (Athan., _de sent. Dion._, 18). However, when I spoke of certain
+things that had an origin ({geneta}) and certain things that were made
+({poieta}), I did indeed casually mention examples of such things,
+recognizing that they were not altogether useful for my purpose: for
+instance, I said that neither was the plant the same as the husbandman,
+nor the boat as the shipwright. But afterwards I dwelt at length on those
+which were more to the point and cognate to the subject, and went more
+into detail about these truer examples, seeking out various additional
+evidences which I set out for you[248] also in another letter: and in
+them I refuted as false the accusation also which they bring against me,
+as not stating that Christ is of one substance ({homoousios})[249] with
+the Father. For even if I say[250] that this word is not found nor read
+anywhere in Holy Writ, yet these later attempts of mine to explain which
+they have ignored are not inconsistent with this conception. For I
+compared human generation, which is clearly a transmission of the
+parents' own nature ({homogenes}), saying that the parents were different
+from their children in this single point, that they were not themselves
+the children: or else it must needs be that neither parents nor children
+should exist. The letter itself I cannot, as I have said before, owing to
+circumstances,[251] lay my hand on: otherwise I would have sent you my
+exact words, or rather a copy of the whole letter: and I will do so, if I
+have the opportunity. But I know from memory that I added several
+illustrations from things kindred to one another: for instance, I said
+that a plant coming up from a seed or a root was different from that
+whence it sprang and yet was absolutely of one nature ({homophyes}) with
+it: and a river flowing from a source partakes of a different shape and
+name; for neither is the source called river nor the river source, and
+both these things exist,[252] and the source is, in a sense, the father
+and the river is the water from the source. But these and similar remarks
+they pretend never to have seen written, but act as if they were blind.
+They only try to pelt me from afar[253] with those poor ill-fitting
+phrases of mine[254] as with stones, failing to recognize that where a
+subject is obscure and requires to be brought within our understanding,
+not only do diverse but even quite contradictory illustrations convey the
+meaning sought for.
+
+(3) (_Ibid._, 17.) It has been already said that God is the Fountain of
+all good things: and the Son is described[255] as the stream flowing
+forth from Him. For the Word is "the effluence" of mind, and, to use
+human phraseology, is conveyed from the heart through the mouth, _i. e._
+the mind that finds expression by means of the tongue, being
+differentiated from the word in the heart. For the one having sent it
+forth remains and is still what it was; but the other being sent forth
+issues and is carried in all directions: and thus each is in each, being
+different one from the other: and they are one, being two. And it was in
+this way that the Father and the Son also were said to be one and in one
+another.[256]
+
+Each of the titles employed by me is indivisible and inseparable from its
+neighbour. I spoke of the Father, and before introducing the Son I
+implied Him, too, in the Father. I introduced the Son: even if I had not
+already mentioned the Father He would, of course, have been presupposed
+in the Son. I added the Holy Spirit: but at the same time I intimated
+both from Whom and through Whom[257] He came. But they are not aware that
+the Father is not separated from the Son _qua_ Father--for the title
+(Father) is suggestive of such connexion (as Son with Father)--nor is the
+Son cut off from the Father; for the appellation "Father" denotes their
+common bond. And the Spirit is the object of their dealings,[258] being
+incapable of desertion by either Him that sends, or Him that conveys. How
+then can I, who use these titles, hold that They are wholly divided and
+separated?[259]
+
+
+(4) (_Ibid._, 23). For, as our mind overflows with speech[260] of itself,
+as says the prophet: "My heart overfloweth with good speech,"[261] and
+each is diverse from the other, each occupying its proper place distinct
+from the other, the one dwelling and moving in the heart and the other on
+the tongue and in the mouth, and yet they are not entirely unconnected
+nor deprived of one another; the mind is not speechless, nor the speech
+mindless, but the mind produces the speech, revealing itself thereby; and
+the speech shows the mind, having been gendered therein; the mind is, as
+it were, the inlying speech and the speech is the issuing mind; the mind
+is transferred into the speech and the speech displays[262] the mind to
+the hearers; and thus the mind through the speech gains a lodgment in the
+souls of those that hear, entering together with the speech, and the mind
+is, as it were, the father of the speech, having an independent existence
+withal; and the speech is, as it were, the son of the mind, being an
+impossibility prior to the mind, yet brought into association with it
+from any outside source, but springing from the mind; even so the Father,
+who is the Almighty and Universal Mind, has the Son, the Word as the
+Interpreter and Messenger of Himself.
+
+
+
+
+                       Additional Note to p. 12.
+
+
+Jerome (in his letter _ad Evangelum_) is responsible for the assertion
+that Dionysius was the last who, in accordance with the original custom
+of the Church of Alexandria, was nominated as Bishop by his
+fellow-presbyters there. Subsequently the Bishop was chosen (at least in
+theory) by the whole body of the faithful in the diocese, as in other
+parts of Christendom. Jerome's words do not seem to include consecration
+also by a fresh laying of hands by the presbytery, though Bishop
+Lightfoot (_Philippians_, p. 231) inferred from certain other evidence of
+a not very decisive kind that this was the case and that it was rendered
+necessary at first by the Bishop of Alexandria having had no other
+Bishops with him in Egypt until 190. Others hold that no fresh laying on
+of hands at all had been considered necessary, which is hardly probable.
+Mr. C. H. Turner (_Cambridge Medieval History_, vol. i.) has suggested
+that Jerome was misled by Arians who had their own interests to serve in
+making the assertion, while he himself was too ready to credit it in his
+zeal to uphold the presbyterate against the arrogant claims of the Roman
+deacons at that time. The present writer ventures to think that Jerome's
+statement, if correct, refers only to nomination and that an episcopal
+consecrator had been found elsewhere (_e. g._ in Africa or Palestine or
+Syria) for the laying on of hands as usual.
+
+
+
+
+                               FOOTNOTES
+
+
+[1]In one of Eusebius's works (the _Praeparatio Evangelica_) he is quoted
+   side by side with great authors like Plato and Aristotle.
+
+[2]Most of those who read this will be aware that {pais} (Lat. _puer_)
+   can be used in various senses, like our "boy" and French _garcon_.
+
+[3]Not the Prefect of Egypt of that name mentioned by Dionysius on p. 46,
+   though he did afterwards try to usurp the throne (see p. 16).
+
+[4]For Dionysius's share in this dispute see his letter on p. 50.
+
+[5]Dionysius's phrase about him on p. 66 is "tutor and chief ruler of
+   Egyptian magicians"; see note 3 _in loco_.
+
+[6]This AEmilianus was one of several who afterwards attempted to seize
+   the throne; see above, p. 14. Macrianus was another of them in Egypt
+   (p. 68, _n._).
+
+[7]The office indicated seems to be the same as that of _Rationalis_
+   mentioned above on p. 16.
+
+[8]I was much assisted in drawing up this summary of {peri Physeos} and
+   also in writing the notes upon the extracts from the text by Professor
+   H. Jackson, of Cambridge fame.
+
+[9]The particular passage, however, adduced by Procopius above is Gen.
+   iii. 21.
+
+[10]On this point C. H. Turner's article in Hastings's _Dictionary of the
+   Bible_, Vol. V, pp. 496 f. (on Patristic Commentaries), may be
+   consulted.
+
+[11]The passage on Luke xxii, quoted by Dr. Sanday (_Inspiration_, p.
+   36), is of very doubtful authenticity.
+
+[12]"Martyr" in this case need not necessarily be taken strictly as
+   meaning "one put to death for the Faith," though no doubt the mediaeval
+   tradition was in favour of his martyrdom in that sense.
+
+[13]It looks as if Dionysius was afraid to mention his name. Perhaps it
+   was Sabinus the Prefect. The word "poet" in Greek means properly
+   "maker," and there is evidently a _double entendre_ in its use here.
+
+[14]_i. e._ against Christ (1 Cor. xii. 3).
+
+[15]The reference is to Heb. x. 34. It will be noticed that Dionysius
+   attributes this Epistle to S. Paul, either inadvertently or in
+   accordance with the Alexandrine tradition, which Origen also accepts
+   (Eus., _H. E._, vi. 25).
+
+[16]Viz. the revolt of Decius in Oct. 249.
+
+[17]_i. e._ Philip the Arabian, who was popularly supposed to be half a
+   Christian.
+
+[18]The reference is obviously to Matt. xxiv. 24 (Mark xiii. 22) though
+   Dionysius has substituted "cause to stumble" ({skandalisai}) for
+   "cause to go astray" ({planesai} or {apoplanan}).
+
+[19]The reference is very loosely to Matt. xix. 23 and 25.
+
+[20]Viz. those who held no prominent position; the ordinary folk.
+
+[21]Cp. Gal. ii. 9.
+
+[22]Cp. Acts xxviii. 23 and Rev. i. 9.
+
+[23]There is evidently an allusion here to Matt. v. 11 and Luke vi. 22.
+
+[24]Viz. the _ungulae_, with which the flesh was torn from the bones.
+
+[25]Only three are mentioned in the text.
+
+[26]_i. e._ some time between 251, when persecution ended with the death
+   of Decius, and 257, when Valerian revived it.
+
+[27]The first was a martial offence, the second a civil.
+
+[28]_i. e._ by being allowed to follow Christ's example.
+
+[29]This was the _catasta_, or platform, which corresponded to our
+   prisoner's dock.
+
+[30]Dionysius's language recalls 2 Cor. ii. 14; Col. ii. 15 is different.
+
+[31]Cf. Heb. xi. 38.
+
+[32]_i. e._ they showed themselves worthy of being among the elect.
+
+[33]A range of hills to the east of the Nile seems to have been so
+   called.
+
+[34]On the marriage of the clergy at this time, see Bingham, _Antiq._,
+   IV, v. [S] 5.
+
+[35]This is probably the earliest extant mention of the Saracens--at
+   least by that name.
+
+[36]The opinion that the martyrs passed at once to heaven and shared His
+   throne was general among the early Fathers (see Matt. xix. 28 and 1
+   Cor. vi. 2, 3).
+
+[37]Cp. Ezek. xviii. 23, xxxiii. 11, 2 Pet. iii. 9.
+
+[38]These expressions are not to be pressed as if they assumed episcopal
+   authority.
+
+[39]Cp. Gal. i. 20.
+
+[40]_i. e._ in October 249.
+
+[41]The Prefect of Egypt.
+
+[42]This was a kind of soldier employed on secret service by the emperors
+   and their provincial governors.
+
+[43]Probably his sons, though they might be his pupils or his servants.
+
+[44]One of "the boys."
+
+[45]Whether Timotheus was making off to join Dionysius or was fleeing in
+   another direction is not clear.
+
+[46]Cp. Mark xiv. 52.
+
+[47]Dionysius's language here recalls 2 Cor. xi. 1, 17, 21 and xii. 6,
+   11.
+
+[48]Viz. Tobit xii. 7, where the best attested reading is "to reveal
+   gloriously," instead of "(it is) glorious to reveal."
+
+[49]The Prefect of Egypt at that time.
+
+[50]Though Dionysius was Bishop, it is noticeable that he still
+   associates himself with the presbyterate here and elsewhere; cp. 1
+   Pet. v. 1, etc.
+
+[51]Acts v. 29.
+
+[52]Marcellus seems to be the "brother from Rome" mentioned above, and
+   Eusebius is not now mentioned.
+
+[53]The word "also" either refers to the imperial edict or suggests that
+   some written communication had been sent.
+
+[54]Viz. Valerian and his son Gallienus.
+
+[55]Cp. 1 Tim. ii. 2; this laudable custom is often referred to in early
+   Christian writings.
+
+[56]This restriction was constantly enforced by persecuting emperors,
+   because the graves of martyrs were a favourite resort for prayer and
+   worship. The word cemetery (=sleeping-place) was introduced by
+   Christians for graveyards.
+
+[57]This is an indignant protest against Germanus's charges.
+
+[58]1 Cor. xv. 3.
+
+[59]Col. iv. 3.
+
+[60]Cp. Acts xii. 25.
+
+[61]The brethren who lived on the outskirts of a city like Alexandria
+   were not bound to attend the mother church, but had as it were chapels
+   of ease in their own vicinities.
+
+[62]Or perhaps "carried on" (to act as thou didst).
+
+[63]Strictly speaking, Novatian's withdrawal was not very likely to
+   involve actual martyrdom.
+
+[64]The word is {katorthoma} (success); perhaps "recovery" would bring
+   out the antithesis to "fall" ({sphalma}) better.
+
+[65]Gen. xix. 17 (LXX).
+
+[66]Another reading gives "blessed" ({makarios}), which, though less well
+   supported by the MSS., makes the phrase {makarios anepausato} more
+   pointed.
+
+[67]This expression probably means to include the Churches of Mesopotamia
+   and Osroene, besides those which he proceeds to mention below.
+
+[68]Eusebius is mistaken in identifying this peace with the cessation of
+   persecution: the reference is to the subsiding of the Novatianist
+   schism in 254 which restored peace to Christendom. The surprise and
+   joy were due to the violence of the language and other measures which
+   the chief combatants (Stephen and Cyprian) had employed.
+
+[69]Hadrian's colony in Mount Sion was so named (A.D. 132). Later on the
+   older and more glorious name of Jerusalem was restored to the see.
+
+[70]Bishop of Caesarea in Cappadocia (+ A.D. 260), and one of Origen's
+   distinguished pupils. On the baptismal controversy he sided with
+   Cyprian of Carthage.
+
+[71]The adroit reference to the wonted liberality of the Roman Church is
+   to be noted: other instances are given by Salmon, _Infallibility_, p.
+   375.
+
+[72]Here again Dionysius shows his adroitness, if Benson (_Cyprian_, p.
+   357) is right in thinking that the list of churches he gives suggests
+   a repetition of the Pentecostal outpouring of the Holy Ghost (Acts ii.
+   9 f.).
+
+[73]Cp. the letter to Dionysius, p. 58.
+
+[74]Lev. xxiv. 13-16.
+
+[75]The word here used represents {mysterion}, denoting the Christian
+   revelation as {mysterion} often does.
+
+[76]Cf. 1 Cor. xvi. 22 and Gal. i. 8, 9.
+
+[77]The former are converts from heathenism, or perhaps from heresy; the
+   latter Christians who have lapsed.
+
+[78]The word here is the Greek {cheirotonia} in Syriac letters, and so
+   might also be rendered "ordination."
+
+[79]The MSS. from which this extract comes state that it is from a letter
+   to Dionysius and Stephanus of Rome. No such letter is otherwise known,
+   and it is not likely that Stephen's name would come second, as he was
+   then bishop and Dionysius only a presbyter, though later on he became
+   bishop. Possibly it is from the letter which our Dionysius tells us he
+   wrote to his Roman namesake and Philemon when they were of the same
+   opinion as Stephen: see p. 55. As far as the contents of the extract
+   go, it is not at all incredible that Dionysius was willing to admit
+   the validity of such baptisms as are specified: it was only heresies
+   of a very fundamental kind which he considered to invalidate baptism.
+
+[80]The successor to Stephanus in 257 as Bishop of Rome: he was martyred
+   after one year's reign.
+
+[81]This was, according to Benson (_Cyprian_, p. 354), a threat which he
+   did not actually carry into effect, and was only meant to restrain
+   them from adopting Cyprian's attitude on the matter.
+
+[82]_i. e._ those of Iconium and Synnada (_circ._ 230): Dionysius may
+   also be referring to the three much more recent councils which Cyprian
+   had held at Carthage between 254 and 256 (_i. e._ since his letter to
+   Stephen above). By this time he had by patient inquiry found out much
+   more than he had known at first of what was necessary to be known
+   before coming to a decision.
+
+[83]_Cf._ 1 Cor. vi. 11 and v. 7, 8.
+
+[84]See note on p. 54. Dionysius became afterwards Bishop of Rome in 259:
+   a fragment of a letter from our Dionysius to him is printed on p. 58.
+   His famous letter to our Dionysius on the Sabellian controversy is not
+   included in this volume. Part of a letter to Philemon is given on p.
+   56. He was a Roman Presbyter.
+
+[85]On the north-west coast of Cyrenaica, one of the five chief cities
+   which gave its name to the Libyan Pentapolis. Sabellius denied the
+   three Persons in the Trinity, and held that the Person of the Father
+   who is One with the Son was incarnate in Christ: see further p. 19.
+
+[86]There seems no doubt that this is the right reading here, though most
+   of the MSS. read "God the Father and our Lord Jesus Christ"; but
+   clearly Dionysius is only speaking of God the Father in this clause
+   and of Jesus Christ in the next. See 2 Cor. i. 2, Eph. i. 3, etc.
+
+[87]It was Dionysius's treatment of this subject which afterwards gave
+   Arius the heresiarch of Alexandria an opening for claiming his
+   teaching in support of his own tenets, though there is no Arian
+   suggestion, of course, in this phrase: see p. 20.
+
+[88]Col. i. 15.
+
+[89]Eus., _H. E._ vii. 26, mentions letters to Ammonius, Bishop of
+   Bernice, Telesphorus Euphranor and Euporus in this connexion.
+   Athanasius appears only to have known one joint letter to Ammonius and
+   Euphranor.
+
+[90]Dionysius seems to distinguish here two kinds of writings: (1) those
+   that were based on systematic research and criticism, and (2) those
+   that handed on the more traditional and less critical views and
+   statements of the past.
+
+[91]Divine interposition is more vaguely suggested above on p. 44. S.
+   Augustine's statement should also be compared, that at a critical
+   moment of his conversion he heard a voice saying, "Take and read"
+   (_Conf._ vii. 12, [S] 29); S. Polycarp likewise heard a voice from
+   heaven saying, "Be strong and play the man," as he was led into the
+   arena.
+
+[92]See Introduction, p. 11.
+
+[93]This is one of the more common apocryphal sayings usually attributed
+   to our Lord: hence the epithet "apostolic" is somewhat strange.
+
+[94]The word for "Father" here is {papas} (pope), a colloquial form of
+   {pater} applied to any bishop (or even to one of the inferior clergy
+   sometimes) in the first ages. For Heraclas see p. 11. It is to be
+   noticed, however, that this canon of his dealt not with heretical
+   baptism (such as Dionysius is dealing with), but with actual or
+   reputed perverts, and stated the terms on which they were to be
+   restored to the Church of their baptism.
+
+[95]_i. e._ the Church in Africa Proconsularis, of which Carthage was the
+   metropolis and Cyprian the metropolitan.
+
+[96]Iconium was the chief city of Lycaonia (see Acts xiii. and xiv.), and
+   Synnada was an important town in Phrygia Salutaris. These synods had
+   been held some twenty-five years before (in A.D. 230).
+
+[97]Deut. xix. 14.
+
+[98]See above, p. 53.
+
+[99]A confession of faith has always been required before baptism: this
+   Novatian virtually ignored by his action.
+
+[100]Here as elsewhere Dionysius shows his breadth of view about God in
+   recognizing that the Holy Spirit might in some measure remain even
+   with the lapsed.
+
+[101]It is strange that so old a believer should never have noticed the
+   difference before, but baptism was almost entirely confined at that
+   time to Easter and Whitsuntide, and he may have always been absent.
+
+[102]Cp. 1 Cor. xiv. 16. The Amen is either that after the Consecration
+   of the Elements or at the Reception of them.
+
+[103]"Standing" was, and is still, the posture in the East: Scudamore,
+   _Not. Euch._, p. 637.
+
+[104]A somewhat rare word for "Altar" without some descriptive epithet
+   like "holy" or "mystic."
+
+[105]The _Consistentes_ were the last order of penitents, who were
+   allowed to remain after the dismissal of the catechumens and other
+   penitents, but did not join in the oblation or communion itself: cf.
+   Canons of Nicaea, No. xi.
+
+[106]The letter from which this is supposed to be an extract is said by
+   Eusebius (_H. E._ vi. 46, 2) to have been on the subject of
+   Repentance, and may possibly be "the instruction" which Dionysius says
+   he had given on p. 42 above.
+
+[107]Viz. under the impression that they were going to die.
+
+[108]_i. e._ after thus pledging ourselves to them.
+
+[109]Cf. 1 Pet. ii. 3, where Ps. xxxiii. (xxxiv.) 9 is quoted.
+
+[110]Cf. 1 Tim. iii. 7, etc.
+
+[111]The reference is to Luke xv. 4 ff. and Ezek. xxxiv. 6, etc.
+
+[112]Dionysius is thinking perhaps of the story in Tobit v. 6, where
+   Raphael becomes the companion of Tobit's son Tobias on his journey.
+
+[113]On the principle that "charity thinketh no evil ... but hopeth all
+   things" (1 Cor. xiii.): similar but not identical phrases (in words or
+   sense) are found 1 Cor. xvi. 17, 2 Cor. ix. 12, xi. 9, Phil. ii. 30,
+   and Col. i. 24.
+
+[114]The difficulties of soldiers becoming and remaining Christians were
+   peculiarly great under the early Emperors.
+
+[115]That is, some had not yet been called upon to be actual martyrs,
+   Dionysius among them who was still in exile.
+
+[116]Is. xlix. 8.
+
+[117]These were the same civil officials as those mentioned in Acts vi.
+   20 at Philippi, with their servants, there called lictors
+   ({rhabdouchoi}): the soldiers belonged to the centurion, of course.
+
+[118]This has already been described on p. 44.
+
+[119]Including Timotheus who had been the means of his escape.
+
+[120]A town on the coast 150 miles west of Alexandria.
+
+[121]He and the three deacons have already been mentioned on p. 46. They
+   must have left Dionysius when he went into exile and returned to
+   Alexandria.
+
+[122]"In the island," according to Rufinus's version, but it is not clear
+   what island he means: the pestilence is probably one of those frequent
+   epidemics which devastated North Africa and other districts of the
+   empire.
+
+[123]The epithet "perfect," though applied to believers generally in the
+   New Testament (Matt. v. 28, etc.), was later specially used of
+   martyrs.
+
+[124]Gallus succeeded to the empire on the death of Decius and his sons
+   in 251, and reigned till 253, when it was wrested from him by AEmilian,
+   who was in turn ousted by Valerian after four months' rule. Dionysius
+   makes no mention of this episode, though he does of Macrian's attempt
+   later.
+
+[125]The quotation is from Rev. xiii. 5, but the last words follow a
+   reading which has no support in the MSS. It should also be noticed
+   that Dionysius does not think it at all certain that the author of the
+   Revelation is the Evangelist: see p. 86.
+
+[126]Valerian reigned from 253 till his disappearance in 260. The
+   duration of the persecution was forty-two months, from before
+   midsummer 257 till late in 260.
+
+[127]Here the expression means Christians generally, not prophets or
+   clergy as often.
+
+[128]Alexander Severus and Philip the Arabian are no doubt meant.
+
+[129]Compare such expressions in S. Paul's letters as Rom. xvi. 5, 1 Cor.
+   xvi. 11, etc.
+
+[130]No doubt Macrianus is meant, who is mentioned further on, but it is
+   difficult to account for the exact epithets which Dionysius here
+   applies to him. Apparently he had been Valerian's tutor in some kind
+   of magic, and had allied himself somehow with the Jewish colony in
+   Alexandria (hence {archisynagogos}), who would, of course, be hostile
+   to the Christians.
+
+[131]Christian exorcists must be meant, though the claim to supernatural
+   powers which Dionysius makes for them is sufficiently remarkable.
+
+[132]This was a frequent charge against the Christians themselves. Here
+   Dionysius turns it against their persecutors in Egypt.
+
+[133]It is very difficult, without a knowledge of Latin and Greek, to
+   understand Dionysius's play on words throughout this section. The
+   office which Macrianus held was that of, in Latin, _Rationalis or
+   Procurator summae rei_, in Greek {ho epi ton katholou logon} (something
+   like our Chancellor of the Exchequer): hence Dionysius says he was not
+   _rational_ (or reasonable) in his treatment of the Christians and
+   showed no _catholic_ spirit towards them.
+
+[134]Ezek. xiii. 3. Dionysius takes the last phrase ({to katholou}), as
+   if it was the object of the verb, not an adverb, in order to suit his
+   argument.
+
+[135]This may perhaps mean that besides his other faults Macrianus was
+   tainted with the atheistic views of the Epicureans, while Dionysius
+   also alludes in this sentence to the accounts which Macrianus would
+   have to present to the Emperor of his own administration.
+
+[136]Cf. Eph. iv. 6 and Col. i. 17.
+
+[137]Another play on words, as if Macrianus was derived from the Greek
+   {makros} (far off), which is somewhat doubtful.
+
+[138]Is. lxvi. 3, 4 (LXX). Here the reference is to Valerian falling into
+   the hands of Sapor, the Persian King, who inflicted grievous insults
+   upon him, and kept him in captivity till his death.
+
+[139]Macrianus was lame of one leg. After Valerian's defeat and
+   disappearance (in 260), for which he was himself largely responsible,
+   Macrianus and his two sons, Macrianus junior and Quietus, made an
+   abortive attempt to seize the throne, which was soon defeated.
+
+[140]Ex. xx. 5.
+
+[141]The two Macriani were defeated and slain by Aureolus, another
+   usurper, in Illyricum, and Quietus was put to death in the East.
+
+[142]Dionysius is still speaking of Macrianus, who had incited Valerian
+   to attack the Persians, and then had himself attacked Gallienus and
+   tried to usurp the throne.
+
+[143]Is. xlii. 9, but Dionysius has substituted, for the last phrase, a
+   phrase from xliii. 19. The original prophecy applies to the triumph of
+   Cyrus and the conversion of the world to the worship of Jehovah. Its
+   application in the text strikes us to-day as too fanciful.
+
+[144]Whether Gallienus himself was really a Christian is very doubtful,
+   but his wife, Cornelia Salonina, seems to have been.
+
+[145]This is a very obscure calculation, but the upshot of it may be as
+   follows: Gallienus was associated with his father Valerian as Emperor
+   seven years (253-60), then Macrianus usurped the power (in Egypt) for
+   one year, or rather more; thus Gallienus regained the power in his
+   ninth year (_i. e._ after midsummer 261). Gallienus's original Edict
+   of Peace was issued in Oct. 260, but the Rescript applying it to Egypt
+   was delayed for some time. The Easter festival for which this letter
+   was written, therefore, must have been that of 262.
+
+[146]Cf. 1 Cor. v. 8.
+
+[147]Exod. xii. 30.
+
+[148]I have translated the Berlin editor's reading here, as being the
+   least unsatisfactory of those proposed. Others give a text which may
+   be rendered: "I would this were all: for the things that befell us
+   before drove us into many grievous troubles." But the exact meaning is
+   doubtful, however we take it.
+
+[149]This epithet for martyrs has already occurred on p. 64.
+
+[150]This is none other than a quotation from Pericles's speech about the
+   plague at Athens in Thucyd. ii. 64, though in Dionysius's original
+   phrase it sounds as if he meant some local minor historian.
+
+[151]The word Dionysius uses here is the same as S. Paul, uses (1 Cor.
+   iv. 13: {peripsema}, offscouring). It is said to have been used at
+   Athens of the human scapegoats thrown into the river in time of
+   famine: "Be thou my expiation ({peripsema})." Elsewhere it seems to
+   have degenerated into a sort of extravagant compliment: "I am your
+   humble servant ({peripsema})." Dionysius suggests it might regain its
+   more serious meaning in the present case.
+
+[152]Here again Dionysius uses an expression suggested by S. Paul in
+   Phil. iii. 8.
+
+[153]It is not clear whether Dionysius actually alludes here to the
+   well-protected harbours of Alexandria or (more loosely) to the Lake
+   Mareotis: probably to the former, because the canal he refers to in
+   the next sentence (though he calls it a river) was cut from the Nile
+   into one of the harbours and passed at the back of the city between it
+   and the Lake Mareotis.
+
+[154]Cf. Ps. lxxvii. 13, cxxxvi. 4, and Wisd. xi. 4. The whole passage,
+   of course, refers to Exod. xiv. and xvii.
+
+[155]Cf. Exod. vii. 20, 21.
+
+[156]_i. e._ if the biggest river and the ocean itself, as he proceeds
+   exaggeratedly to claim, cannot do so, what other cleansing can there
+   be?
+
+[157]Cf. Gen. ii. 10 ff. Dionysius evidently adopts the later Jewish view
+   that the Gihon was the Nile, AEthiopia (or Cush) being identified with
+   Egypt.
+
+[158]The meaning of the phrase employed by Dionysius here ("hale old
+   men") comes from Homer, _Il._ xxiii. 791 (cf. Virg., _AEn._ vi. 304);
+   but elsewhere a very similar phrase seems to suggest "a cruel,
+   untimely old age."
+
+[159]Evidently at Alexandria (the capital of that country which was the
+   chief granary of Rome) either the necessitous citizens or perhaps all
+   between forty and seventy were entitled to receive doles of corn; but
+   now the relief was extended to all ages between fourteen and eighty.
+
+[160]Either the heathen are meant, who ought to tremble and be convinced,
+   or the Christians, who were too courageous through trust in God to
+   tremble.
+
+[161]The last sentence is involved and obscure. I am not sure that my
+   paraphrase rightly expresses the thought.
+
+[162]I have adopted our modern mode of expression, but in the early
+   Church Pascha was often used for the fast which receded Easter as well
+   as for the feast itself, and that is how Dionysius uses it here.
+
+[163]_i. e._ at 3 a.m. on Easter Day, the traditional hour of our Lord's
+   Resurrection, especially in the West.
+
+[164]_i. e._ at 6 p.m. on Easter Eve.
+
+[165]"All," _i. e._ "who came," or perhaps "all the four evangelists."
+   The "difference" is not really confined to the time, but to the
+   parties which came, the other devout women coming later than the two
+   Marys.
+
+[166]The four references are to Matt. xxviii. 1, John xx. 1, Luke xxiv.
+   1, and Mark xvi. 2.
+
+[167]Cf. John ix. 5, etc.
+
+[168]The Council _in Trullo_ (A.D. 680) accepted this second meaning and
+   consented to Dionysius's ruling on the point raised without reserve.
+
+[169]Dionysius thinks that S. Matthew's account, with which S. John's
+   tallies, speaks of the two Marys coming to look at the tomb about
+   midnight on Easter eve or morning, while S. Luke and S. Mark mentioned
+   certain women who arrived at the tomb somewhat later, when the sun had
+   just risen, but one at least of the Marys mentioned by S. Matthew is
+   identical with one of those mentioned by S. Mark and apparently by S.
+   Luke. Possibly, however, Dionysius means that the two Marys took part
+   in both visits to the tomb. Dr. Swete on S. Mark and Dr. Westcott on
+   S. John should be consulted by any one who wishes to pursue the
+   question further.
+
+[170]_i. e._ as on the former occasion mentioned by S. Matthew and S.
+   Mark.
+
+[171]The author of this saying (which is equivalent to our proverb, "A
+   miss is as good as a mile") is not known. Basil (_de Baptism._ ii. i)
+   quotes something like it, but with a different turn, and he, too,
+   attributes it to "one of our wise men," but perhaps he is only
+   referring to Dionysius in this passage.
+
+[172]Cf. Matt. xiv. 26.
+
+[173]He means the six days of what we call Holy Week, but he gives no
+   indication whether the Lenten fast was then confined to those days in
+   Alexandria and the Pentapolis or lasted longer. By "equally" he
+   proceeds to explain is meant the length of the fasting (six days or
+   two, and so on), and by "similarly" the manner or degree of it (till
+   cockcrow or till evening).
+
+[174]The verb used ({hypertithenai}, Lat. _superponere_, to exceed) is
+   the technical one for this prolonged fast: the ordinary fast ended at
+   6 p.m. and that of the station days (Wednesday and Friday) at 3 p.m.
+
+[175]Cf. 1 Pet. iii. 8 and Phil. ii. 20.
+
+[176]The expression comes from Acts xiii. 2, where, however, it describes
+   a special act of worship rather than "ministering" in general.
+
+[177]Nepos had apparently been Bishop of Arsenoe in Egypt, and was the
+   author of a work ({Elenchos Allegoriston}) putting forward grossly
+   material views of the Millennium. Dionysius refuted it in a carefully
+   prepared treatise in two books. This extract is from the second book,
+   and deals chiefly with the authorship of the Revelation of St. John
+   the Divine in a way very characteristic of his large-hearted and
+   broad-minded spirit.
+
+[178]Or Dionysius may mean that he had encouraged the singing of the
+   Psalms in service.
+
+[179]Cf. Tit. ii. 13, 2 Thess. ii. 8, etc.
+
+[180]The reference is to 2 Thess. ii. 1 and 1 John iii. 2.
+
+[181]It does not appear to whom Dionysius addressed this treatise, but he
+   usually did address what he wrote to some particular person.
+
+[182]Here the two offices are conjoined as in 1 Tim. v. 17. The "teacher"
+   as an officer of the Church is mentioned in several of the early
+   Church Orders.
+
+[183]Nothing more is known of him: either he had succeeded to the
+   leadership since the death of Nepos, or on this particular occasion
+   took the lead.
+
+[184]The allusion is probably to Gaius of Rome and his school rather than
+   to the Alogi, as they were called, of the East; but both these bodies
+   were strongly opposed to Millenarian views.
+
+[185]If this refers to a formal division into chapters, it disappeared
+   afterwards, for a new division was devised in the sixth century, on
+   which our present system is partly based.
+
+[186]Dionysius plays here on the meaning of the Greek word for
+   Revelation, {apokalypsis}, "unveiling." He is fond of such a device.
+
+[187]If that is the meaning of the words employed, then "saints"
+   ({hagioi}) is not used in its New Testament sense for the "faithful"
+   generally, but a distinction is made more like the later use of the
+   word for those who attained higher saintliness than the rest; but
+   perhaps the phrase for "churchmen" implies "clerical or ecclesiastical
+   persons," and "saints" has its earlier sense.
+
+[188]Cerinthus was the earliest exponent of Gnostic views, and as such
+   much abhorred by St. John the Apostle.
+
+[189]_i. e._ reckoning that it is a matter where faith rather than reason
+   should act; or perhaps the translation should be "giving more weight
+   to (the author's) trustworthiness."
+
+[190]This title is to be noticed, as the author himself never actually
+   describes himself by it. Dionysius is much more cautious as to the
+   authorship than Origen, his former master, who attributed the book to
+   St. John the Evangelist without hesitation, according to Eusebius, _H.
+   E._ vi. 25, 9.
+
+[191]Rev. xxii. 7, 8: but Dionysius has no authority for joining the
+   latter clause on to the former, its construction being "it is I John
+   who saw and heard."
+
+[192]_i. e._ the First Epistle of St. John; the second and third were not
+   so described at first and rightly so.
+
+[193]Rev. i. 1, 2. One might almost think Dionysius was quoting from
+   memory, for he follows no extant text in omitting "God" before "gave"
+   (thus making Jesus Christ the subject and "him" = "to John") and "the
+   things which must come to pass" before "speedily": also he substitutes
+   "his testimony" for "the testimony of Jesus Christ," though "his"
+   still = "Jesus Christ."
+
+[194]Rev. i. 4.
+
+[195]Dionysius seems to contrast the "Divine revelation" of the Epistle
+   which we can trust with that of the Book so-called about which he felt
+   less sure.
+
+[196]1 John i. 1.
+
+[197]Matt. xvi. 17. Dionysius substitutes the adjective "heavenly" for
+   "which is in heaven."
+
+[198]Rev. i. 9. Here again the text is somewhat inaccurate "in the
+   patience of Jesus" having no support elsewhere.
+
+[199]Rev. xxii. 7. See note on p. 86, above.
+
+[200]It would seem likely, but by no means certain, that Dionysius is
+   speaking of strictly baptismal names here. We have very slight grounds
+   for being sure that the custom of connecting the giving of a name at
+   baptism was universal as early as this.
+
+[201]See Acts xii. 25 and xiii. 5.
+
+[202]_Ibid._, xiii. 13.
+
+[203]This assertion is taken almost verbatim from Eus., _H. E._ iii. 39,
+   where a passage is also quoted from Papias in which John the Elder is
+   mentioned as well as John the Apostle among the Lord's disciples.
+
+[204]This is the second argument which Dionysius adduces, but he seems as
+   if he now includes the third with it. See above.
+
+[205]John i. 1, and 1 John i. 1, 2.
+
+[206]Cf. 1 John iv. 2.
+
+[207]_Ibid._, i. 2, 3.
+
+[208]It looks as if this phrase may be a marginal gloss on the Light,
+   which has crept into the text, as it occurs nowhere in the writings of
+   St. John nor elsewhere in the New Testament; but the same might be
+   said of the "adoption" below, and one or two others of the other
+   phrases are quite rare in St. John's writings, so that they may be all
+   instances of the thoughts, not the words being identical in the two
+   books.
+
+[209]The reference is to such passages as 2 Cor. xii. 1 ff., Gal. i. 12,
+   ii. 2, etc.
+
+[210]This is the third argument.
+
+[211]A rather forced and fanciful statement. Dionysius appears loosely to
+   refer to 1 Cor. xii. 8, somewhat boldly substituting "of speech" ({tes
+   phraseos}) for St. Paul's "of wisdom."
+
+[212]Cf. 1 Cor. xiv. 6 and 8.
+
+[213]_i. e._ the results not of design but of the fortuitous intersection
+   of lines of causation.
+
+[214]Gen. i. 31.
+
+[215]The argument appears to be that, as on a small scale design is
+   "evident in the construction or repairing of a thing but is absent in
+   its decay," so the orderly creation and maintenance of the Universe on
+   the large scale implies intelligent direction.
+
+[216]Hesiod (_Works and Days_, 554) is meant, but of course 100 stands
+   here, as elsewhere, for an indefinitely large number.
+
+[217]The point is that movement which is useful suggests design: but as
+   the movement of the atoms is without design, it cannot be useful.
+
+[218]Ps. cxxxviii. (cxxxix.) 16. Dionysius quotes the best text here of
+   LXX, but his application is rather obscure. Apparently he means that
+   the Epicureans claimed to know without either revelation or research
+   what the Psalmist knew only by revelation from God.
+
+[219]Dionysius says that even the spider has more notion of design than
+   the atoms, but the sarcasm is not quite to the point.
+
+[220]1 Cor. xv. 41.
+
+[221]"God ever brings like to like."--Homer, _Od._ xvii. 218, a proverb
+   quoted both by Plato and Aristotle.
+
+[222]Dionysius is probably thinking of Plato's _Timaeus_ 56B, where the
+   pyramid is said to be the geometrical shape of fire which is the
+   principal constituent of the bodies of the stars (Professor H.
+   Jackson).
+
+[223]Dionysius is here referring to such a passage as Gen. i. 6 ff. No
+   doubt the ancients thought the vault of heaven was solid, enclosing
+   the atmosphere which covers the earth, and that the stars were either
+   fixed upon it or moved in their courses on its surface.
+
+[224]Ps. civ. 23.
+
+[225]_i. e._ the sun's yearly (as opposed to its daily) course.
+
+[226]"The righteous" here is a very unusual equivalent for "the
+   Christians": it is possible, however, that the translation is:
+   "however much these men disagree, being but poor creatures, though
+   righteous enough in their own estimate."
+
+[227]Ecclus. xliii. 5.
+
+[228]The idea is of some stars being solitary, like a Greek or Roman
+   colony ({apoikia}) with a constitution of its own, and of others
+   grouping themselves into constellations or communities ({synoikia}).
+   The colony had a founder ({oikistes}), the community or household
+   would have some sort of controller ({oikodespotes}).
+
+[229]Ecclus. xvi. 26 f.
+
+[230]The natural motion of atoms was downwards, but there was also a
+   slight sideward motion, and when they impinged a motion upwards by
+   blows and tossings, and this produced the shape of things. But
+   Dionysius here says, how is that theory consistent with the orderly
+   march of the stars?
+
+[231]Dionysius here plays on the derivation of {atomoi}, from {temnein}
+   (= to cut).
+
+[232]Amos iii. 3 (LXX). The A.V. and R.V. give the more exact meaning
+   "agreed" to the last word.
+
+[233]Hesiod, _Works and Days_, iv. 408 and 411.
+
+[234]Viz. the heathen, to whom the poets were to some extent what the
+   prophets are to us Christians.
+
+[235]Jer. xlviii. 10.
+
+[236]The happiness of the King of Persia was proverbial: see Hor., _Od._
+   ii. 12, 21, iii. 9, 4.
+
+[237]By "Necessity" here Dionysius means not "Fate" in the fatalist's
+   sense, but that supreme Will and Purpose of God, which is opposed to
+   the Epicurean doctrine of chance.
+
+[238]The title here given ({hypothekai}) is not given in the list of
+   Democritus's works, but the {hypomnemata ethika} may be meant.
+
+[239]It is impossible to reproduce the play upon words here, {eutyche ten
+   phronesin, emphronestaten ten tychen}. The reference seems to be to
+   such poetical passages as Soph., _O. T._ 977 ff., and Eur., _Alc._ 785
+   ff., where the practical wisdom of leaving the future to take care of
+   itself is extolled.
+
+[240]Epicurus himself contended that by {hedone} (pleasure) he meant not
+   sensual enjoyments so much as freedom from pain of body and from
+   disturbance of soul ({ataraxia}), the source of which was largely in
+   the exercise of the mind and will: see Zeller, _Stoics, Epicureans and
+   Sceptics_, pp. 473 ff.
+
+[241]The words quoted ({doteras eaon}) are a Homeric phrase, e. g. _Od._
+   viii. 325 and 335.
+
+[242]The derivation from {theein} is proposed by Plato, _Cratyl._ 397 C:
+   that from {theinai} by Herod, ii. 52, and of the two the latter is the
+   more likely ({root}{the}) though Curtius suggests a root {thes} = to
+   pray: see Peile, _Introd. to Philology_, p. 37 (3rd ed., 1875).
+
+[243]These are probably some sort of Gnostics who took over Manichean
+   views of God and Matter, but not of the worst kind, for they
+   recognized that God had the control and disposition of matter.
+
+[244]Some one, _i. e._ who could give them the property of being without
+   beginning.
+
+[245]"Different from both," because the being without beginning is not of
+   the very essence of both. See further on.
+
+[246]A curious expression, for which one would have expected the opposite
+   statement, viz. that the handicrafts can shape and form the materials
+   they deal with rather than that the materials give the necessary
+   methods and designs to the handicrafts which deal with them. Up to
+   this point Dionysius has been combating the view with which the
+   extract begins. The rest of the extract proceeds to show what amount
+   of truth there is in it.
+
+[247]The reference here is to Manichean views of the worst kind, _i. e._
+   that matter is not only without beginning, but the source of evil and
+   altogether independent of God.
+
+[248]_i. e._ Dionysius of Rome, to whom this treatise was addressed. This
+   particular "other letter" does not seem to have been known to
+   Eusebius, and when Athanasius quotes this extract in another of his
+   treatises he omits the words "to thee."
+
+[249]Athanasius himself was sparing in his use of the term, and the Synod
+   of Antioch (A.D. 264) refused to accept it, as liable to
+   misconstruction.
+
+[250]_i. e._ in the letter to Euphranor (about Sabellianism in Libya)
+   which had given rise to the Bishop of Rome's intervention.
+
+[251]It looks as if Dionysius was in exile when he wrote this. See above,
+   p. 19.
+
+[252]_i. e._ each of the two is itself and not the other, as was said
+   above in the case of parents and children.
+
+[253]i. e. they had gone or sent to Rome, in order to attack him.
+
+[254]Viz. about the plant and the ship, which he has already apologized
+   for as not quite appropriate.
+
+[255]_i. e._ in Scripture, _e. g._ in such passage as Wisd. vii. 25, to
+   which he refers in the next sentence.
+
+[256]Sc. in Dionysius's letter to Euphranor: cf. John x. 30, xvii. 11,
+   21, 22. The extract on p. 106 below deals with the same thought more
+   fully. In both places Dionysius's language is based on Philo's
+   discussion of the {logos endiathetos} and the {logos prophorikos} (the
+   conceived and the expressed word), _de vita Mosis_, p. 230, Cohn.
+
+[257]i. e. _from_ the Father and _through_ the Son: Dionysius seems to
+   have derived this view of the Holy Spirit's Procession from his
+   master, Origen, though he is thinking here rather of the Mission of
+   the Spirit into the Church and its members than of the eternal and
+   necessary relations of the three Persons in the Holy Trinity to one
+   another, as the sentences that follow indicate.
+
+[258]_Lit._ in their hands: a striking expression which Athanasius
+   borrows from Dionysius in his _Exposition of the Faith_.
+
+[259]This is what Dionysius of Rome had imputed to our Dionysius, though
+   without the word "wholly" he would not have altogether discarded the
+   position.
+
+[260]{Logos} is translated throughout this passage by "speech" (_i. e._
+   uttered words), except in the last clause, where it refers to the Son
+   Himself and where it must be rendered by "Word" as usual: but
+   obviously "speech" is only part of the full meaning of {logos}. The
+   whole passage should be compared with the preceding extract.
+
+[261]Ps. xliv. (xlv.) 1: here R.V. translates {logon agathon}, "a goodly
+   matter," in accordance with A.V.
+
+[262]The word used ({enkyklein}) suggests the scenic device of the
+   {enkyklema}, by which some kind of change of scene was brought on to
+   the stage in the Greek theatre: see _Classical Dict._, s.v.
+
+
+
+
+                                 INDEX
+
+
+  Absolution, 43, 60 f.
+  AElia (Jerusalem), 52
+  AEmilianus, Governor of Pannonia, 14, 65
+      Prefect of Egypt, 16, 27, 46 f.
+  Alexander, Bishop of Jerusalem, 51
+      Bishop of Tyre, 52
+      a martyr, 38
+  Alexander Severus, Emperor, 12, 66
+  Alexandrians, letter to, 28, 70 ff.
+  Alogi referred to, 84
+  Ammon, a martyr, 40
+  Ammonarion, a martyr, 39
+  Antioch, Council of, 10, 51, 103
+  Apollonia, a martyr, 36
+  Arabia, 10, 41, 52
+  Aristotle referred to, 28, 95
+  Arius, heresy of, 20, 56, 108
+  Ater, a martyr, 39
+  Athanasius, 9, 19 ff., 103 ff.
+
+  Baptism of heretics, 15, 26, 51 ff., 59
+  Basil, Bishop of Caesarea, 9, 22, 80
+  Basilides, letter to, 26, 29, 76 ff.
+  Benson, Archbishop, 14, 34, 51, 52, 55
+  Besas, a martyr, 38
+  Bethune-Baker, Dr., 22
+  Bithynia, Churches of, 52
+
+  Cappadocia, Churches of, 52, 54
+  Catechetical School of Alexandria, 9, 10, 11, 12, 32
+  Cemeteries, Christian, 17, 47
+  Cephro, 17, 46, 48 f.
+  Cerinthus, heresy of, 85
+  Chaeremon, Bishop of Nilopolis, 41
+      a deacon, 46, 64
+  _Chronicon Orientale_, 9 ff.
+  Cilicia, Churches of, 52, 54
+  Colluthion, 17, 49
+  Communion, ritual of, 26, 60
+      reservation of species, 42 f.
+  Conon, letter to, 60 f.
+  _Consistentes_, 60
+  Copts (Egyptians), 10, 39, 66, 70, 73
+  Coracion, converted from heresy, 84
+  Cornelia Salonina, 14, 69
+  Cornelius, Bishop of Rome, 15, 51
+  Cronion Eunous, a martyr, 38
+  Cyprian, Bishop of Carthage, 9, 11, 15, 55, 58
+
+  Damascus, John of, 9, 75
+  Decius, Persecution of, 13 f., 39, 43, 65
+  Demetrianus, Bishop of Antioch, 52
+  Demetrius, Bishop of Alexandria, 11
+  Democritus quoted, 25, 28, 99
+  Dionysia, a martyr, 39
+  Dionysius, Bishop of Rome, 19 f., 58 f., 103
+  Dionysius, church dedicated to St., 31
+  Dioscorus, a presbyter, 64
+      a boy confessor, 39
+  Domitius and Didymus, letter to, 63 f.
+  _Duumviri_, 63
+
+  Easter Letters, 28, 63 ff.
+  Ecclesiastes, Beginning of, 30
+  Ephesus and the two Johns, 89
+  Epicurus, 12, 23 ff., 91 ff.
+  Epimachus, a martyr, 38
+  Euphranor, letter to, 56, 104, 105
+  Euripides referred to, 100
+  Eusebius, _Eccl. Hist_. of, 9, 22, 35 ff., 82 ff.
+      _Praepar. Evangelica_ of, 9, 34, 91 ff., 101 f.
+  Exorcists, 66
+
+  Fabius, Bishop of Antioch, 12, 35
+  Fast before Easter, 76 ff.
+  Firmilianus, Bishop of Caesarea, 52, 54
+  _Frumentarius_, 13, 43
+
+  Gaius of Rome referred to, 84
+  Galatia, Churches of, 55
+  Gallienus, Emperor, 14, 17, 46, 68
+  Gallus, Emperor, 14, 65
+  Germanus, letter to, 10, 14, 27, 43 ff.
+
+  Helenus, Bishop of Tarsus, 52
+  Heliodorus, Bishop of Laodicea, 52
+  Heracles, Bishop of Alexandria, 11, 12, 57, 59
+  Hermammon, letter to, 28, 65 ff.
+  Herodotus referred to, 101
+  Heron, a martyr, 39
+  Hesiod quoted, 28, 93, 98
+  Hierax, letter to, 73 ff.
+  Hippolytus, Canons of, 33
+  Homer quoted, 28, 75, 95, 100
+
+  Iconium, Synod of, 15, 55, 58
+  Ingenuus, a martyr, 40
+  Ischyrion, a martyr, 40 f.
+  Isidore, a martyr, 39
+
+  Jerome, 22, 30, 33, 108
+  Julian, a martyr, 38
+
+  Libya, 13, 19, 38, 46, 64
+
+  Macar, a martyr, 38
+  Macrianus, 16, 18, 27, 60, 64, 67, 68
+  Mareotis, Lake, 48, 63, 73
+  Marinus, Bishop of Tyre, 52
+  Marriage of clergy, 11, 41, 44
+  Mazabbanes, Bishop of AElia, 52
+  Mercuria, a martyr, 39
+  Mesopotamia, Churches of, 52
+  Metras, a martyr, 35
+  Millenarian views, 82 ff.
+
+  Nature, treatise on, 12, 23 ff., 91 ff.
+  Nemesion, a martyr, 39
+  Nepos of Arsenoe, 27, 29, 82 ff.
+  Nilopolis, 41
+  Novatian, schism of, 15 f., 26, 27, 34, 50, 59
+
+  Origen and his pupils, 11, 12, 13, 28 ff., 36, 51, 52, 86
+
+  Paraetonium, 64
+  Paul of Samosata, heresy of, 23
+  Pentapolis, 18, 55, 76
+  "Perfect," applied to Christians, 64, 71
+  Philemon, letter to, 11, 55, 56 ff.
+  Philip the Arabian, Emperor, 12, 13, 37, 66
+  Philo Judaeus, 105
+  Plato referred to, 95, 101
+  Pontus, Churches of, 52
+  Pope, title of, 57
+  Prayers for Emperor, 47
+  Procopius of Gaza, 30
+  Promises, treatise on the, 23, 28, 29, 82 ff.
+  Ptolemais, 55
+  Ptolemy, a martyr, 40
+
+  Quinta, a martyr, 35
+
+  Rationalis, office of, 16, 17, 67
+  Refutation and Defence, 21 f., 101 ff.
+  Refutation of Allegorists, 29, 82
+  Repentance, 59, 62
+  Rufinus, 22, 64
+
+  _Sabaita_, 10
+  Sabellius, heresy of, 18 ff., 27, 55, 101 ff.
+  Sabinus, Prefect of Egypt, 13, 35, 43, 50
+  Saracens, 41
+  Sarapion, case of, 26, 42 f.
+  Soldiers as Christians, 40, 63
+  Sophocles referred to, 100
+  Stephen, Bishop of Rome, 15, 34, 53, 54
+  Swete, Dr., 23, 78
+  Synnada, Synod of, 15, 55, 58
+  Syria, Churches of, 52
+
+  Taposiris, 13, 16, 44
+  Thelymidrus, Bishop of Laodicea, 52
+  Theoctistus, Bishop of Caesarea, 52
+  Theophilus, a martyr, 40
+  Theotecnus, Bishop of Caesarea, 29
+  Thucydides quoted, 28, 71
+  Timotheus, a boy, 11, 44, 64
+  _Trullo_, Council _in_, 76, 78
+
+  Valerian, Emperor, 14, 16, 17, 47, 65
+
+  Westcott, Bishop, 23, 24, 78
+
+  Xystus II, Bishop of Rome, 19, 54 ff., 59 ff.
+
+  Zenon, a martyr, 40
+
+
+       Printed in Great Britain by Richard Clay & Sons, Limited,
+       BRUNSWICK ST., STAMFORD ST., S.E. 1, AND BUNGAY, SUFFOLK.
+
+
+
+
+                            TRANSLATIONS OF
+                          CHRISTIAN LITERATURE
+
+
+A number of translations from the Fathers have already been published by
+the S.P.C.K. under the title "Early Church Classics." It is now proposed
+to enlarge this series to include texts which are neither "early" nor
+necessarily "classics." The divisions at present proposed are given
+below. Volumes belonging to the original series are marked with an
+asterisk.
+
+
+                        SERIES I.--GREEK TEXTS.
+
+*The Epistle of St. Clement, Bishop of Rome. By the Rt. Rev. J. A. F.
+        Gregg, D.D. 1_s._ 3_d._
+
+*Clement of Alexandria: Who is the Rich Man that is being saved? By P. M.
+        Barnard, B.D. 1_s._ 3_d._
+
+*St. Chrysostom: On the Priesthood. By T. A. Moxon. 2_s._
+
+*The Doctrine of the Twelve Apostles. By C. Bigg, D.D. 1_s._ 3_d._
+
+*The Epistle to Diognetus. By the Rt. Rev. L. B. Radford, D.D. 1_s._
+        6_d._
+
+St. Dionysius of Alexandria. By C. L. Feltoe, D.D.
+
+*The Epistle of the Gallican Churches: Lugdunum and Vienna. With an
+        Appendix containing Tertullian's Address to Martyrs and the
+        Passion of St. Perpetua. By T. H. Bindley, D.D. 1_s._ 3_d._
+
+*St. Gregory of Nyssa: The Catechetical Oration. By the Ven. J. H.
+        Srawley, D.D. 2_s._
+
+*St. Gregory of Nyssa: The Life of St. Macrina. By W. K. Lowther Clarke,
+        B.D. 1_s._ 3_d._
+
+*Gregory Thaumaturgus (Origen the Teacher): the Address of Gregory to
+        Origen, with Origen's Letter to Gregory. By W. Metcalfe, B.D.
+        1_s._ 6_d._
+
+*The Shepherd of Hermas. By C. Taylor, D.D. 2 vols. 2_s._ each.
+
+*The Epistles of St. Ignatius. By the Ven. J. H. Srawley, D.D. 2 vols.
+        1_s._ 3_d._ each.
+
+*St. Irenaeus: Against the Heresies. By F. R. M. Hitchcock, D.D. 2 vols.
+        2_s._ each.
+
+Palladius: The Lausiac History. By W. K. Lowther Clarke, B.D.
+
+*St. Polycarp. By B. Jackson. 1_s._ 3_d._
+
+
+                        SERIES II.--LATIN TEXTS.
+
+*St. Augustine: The City of God. By F. R. M. Hitchcock, D.D. 1_s._ 6_d._
+
+*St. Cyprian: The Lord's Prayer. By T. H. Bindley, D.D. 1_s._ 6_d._
+
+Minucius Felix: The Octavius. By J. H. Freese.
+
+*Tertullian: On the Testimony of the Soul and On the Prescription of
+        Heretics. By T. H. Bindley, D.D. 2_s._
+
+*St. Vincent of Lerins: The Commonitory. By T. H. Bindley, D.D. 2_s._
+
+
+                     SERIES III.--LITURGICAL TEXTS.
+                      Edited by C. L. FELTOE, D.D.
+
+St. Ambrose: On the Mysteries and on the Sacraments. By T. Thompson, B.D.
+
+*The Apostolic Constitution and Cognate Documents, with special reference
+        to their Liturgical elements. By De Lacy O'Leary, D.D. 1_s._
+        3_d._
+
+*The Liturgy of the Eighth Book of the Apostolic Constitution, commonly
+        called the Clementine Liturgy. By R. H. Cresswell. 1_s._ 6_d._
+
+The Pilgrimage of Etheria. By M. L. McClure.
+
+*Bishop Sarapion's Prayer-Book. By the Rt. Rev. J. Wordsworth, D.D. 1_s._
+        6_d._
+
+
+                   (_Other series in contemplation_)

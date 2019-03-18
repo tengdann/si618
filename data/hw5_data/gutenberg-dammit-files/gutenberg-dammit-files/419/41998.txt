@@ -1,0 +1,3557 @@
+SMITHSONIAN INSTITUTION----BUREAU OF ETHNOLOGY.
+
+
+  POTTERY
+
+  OF THE
+
+  ANCIENT PUEBLOS.
+
+
+  BY
+
+  WILLIAM H. HOLMES.
+
+
+
+
+CONTENTS.
+
+
+                                                       Page.
+
+  Introductory                                           265
+
+  Pueblo art                                             266
+          Distribution                                   266
+          Character                                      266
+          Treatment                                      266
+
+  The ceramic art                                        267
+          Age                                            267
+          Material                                       267
+          Tempering                                      267
+          Construction                                   268
+          Surface finish                                 268
+          Firing                                         268
+          Glaze                                          268
+          Hardness                                       269
+          Color                                          269
+          Form                                           269
+          Origin of forms                                269
+          Handles                                        271
+          Ornament                                       271
+          Origin of ornament                             272
+          Use                                            272
+          Classification                                 272
+      Coil-made ware                                     273
+          Coiling                                        273
+          Coiling of the Pueblos                         273
+          Coiling of other peoples                       275
+          Origin of the coil                             277
+          The coil in ornamentation                      278
+          Other varieties of ornament                    282
+          Material                                       283
+          Color, etc.                                    283
+          Form                                           283
+          Use                                            283
+      Illustrations of vessels                           284
+        District of the Rio San Juan                     284
+        District of the Rio Virgen                       287
+        District of the Little Colorado                  292
+        Pecos and the Rio Grande                         298
+        District of the Rio Gila                         299
+      Imitation coiled ware                              299
+      Plain ware                                         299
+      Painted ware                                       302
+          Preliminary remarks                            302
+          Color of designs                               302
+          Execution                                      302
+          Stages of ornament                             303
+          Classification of ware                         304
+        White ware                                       305
+          Classification by forms                        306
+          Bowls                                          306
+          Ollas                                          306
+          Bottles                                        306
+          Handled vessels                                306
+          Eccentric and life forms                       307
+      Illustrations                                      307
+        District of the Rio Virgen                       307
+          Bowls                                          308
+          Ollas                                          314
+          Handled vessels                                314
+        District of the Rio San Juan                     315
+          Bowls                                          316
+          Handled cups                                   318
+          Ollas                                          318
+          Handled vases                                  319
+        District of the Colorado Chiquito                321
+          Bowls                                          322
+          Ollas                                          335
+          Bottles                                        343
+          Handled vessels                                346
+          Eccentric and life forms                       353
+      Concluding remarks                                 358
+
+
+
+
+ILLUSTRATIONS.
+
+
+  Fig. 210.--Origin of forms                             270
+
+  211.--Origin of forms                                  270
+
+  212.--Origin of forms                                  270
+
+  213.--Origin of forms                                  270
+
+  214.--Origin of forms                                  270
+
+  215.--Origin of handles                                271
+
+  216.--Origin of handles                                271
+
+  217.--Beginning of the coil                            274
+
+  218.--Section of coil-made vessel                      274
+
+  219.--Ordinary superposition of coils                  277
+
+  220.--Coiled and plain surface                         278
+
+  221.--Rib-like coil                                    279
+
+  222.--Rib-like coil                                    279
+
+  223.--Indented pattern                                 280
+
+  224.--Thumb-nail indentation                           280
+
+  225.--Wave-like indentation                            281
+
+  226.--Wave-like indentation                            281
+
+  227.--Impressions of finger tips                       281
+
+  228.--Implement indentations                           281
+
+  229.--Nail markings                                    282
+
+  230.--Incised lines                                    282
+
+  231.--Incised pattern                                  282
+
+  232.--Applied fillet                                   283
+
+  233.--Examples of relief ornaments                     283
+
+  234.--Examples of relief ornaments                     283
+
+  235.--Examples of relief ornaments                     283
+
+  236.--Examples of relief ornaments                     283
+
+  237.--Examples of relief ornaments                     283
+
+  238.--Examples of relief ornaments                     283
+
+  239.--Vase from a cliff house, Mancos Canyon           285
+
+  240.--Vase from Epsom Creek                            287
+
+  241.--Vase from tumulus at Saint George                288
+
+  242.--Vase from tumulus at Saint George                289
+
+  243.--Vase from tumulus at Saint George                290
+
+  244.--Bowl from tumulus at Saint George                291
+
+  245.--Vase from Parowan, Utah                          291
+
+  246.--Cup from central Utah                            292
+
+  247.--Vase from Zuni                                   293
+
+  248.--Vase from Zuni                                   294
+
+  249.--Mug from Tusayan                                 294
+
+  250.--Vase from Tusayan                                295
+
+  251.--Vase from Tusayan                                296
+
+  252.--Vessel from Tusayan                              296
+
+  253.--Vase from Tusayan                                297
+
+  254.--Bowl from Cibola                                 297
+
+  255.--Bottle from tumulus at Saint George              300
+
+  256.--Vase from tumulus at Saint George                301
+
+  257.--Vase from tumulus at Saint George                301
+
+  258.--Bowl from tumulus at Saint George                308
+
+  259.--Bowl from tumulus at Saint George                309
+
+  260.--Bowl from tumulus at Saint George                309
+
+  261.--Painted design                                   310
+
+  262.--Bowl from Kanab, Utah                            310
+
+  263.--Painted design                                   311
+
+  264.--Bowl from Kanab, Utah                            311
+
+  265.--Painted design                                   311
+
+  266.--Bowl from tumulus at Saint George                312
+
+  267.--Painted design                                   312
+
+  268.--Bowl from Tusayan                                312
+
+  269.--Bowl from tumulus at Saint George                313
+
+  270.--Bowl from tumulus at Saint George                313
+
+  271.--Pitcher from tumulus at Saint George             314
+
+  272.--Bowl from Montezuma Canyon                       316
+
+  273.--Bowl from San Juan Valley                        316
+
+  274.--Bowl from San Juan Valley                        317
+
+  275.--Bowl from San Juan Valley                        317
+
+  276.--Painted design                                   318
+
+  277.--Handled cup from Montezuma Canyon                318
+
+  278.--Handled cup from Montezuma Canyon                318
+
+  279.--Vase from San Juan Valley                        318
+
+  280.--Vase from San Juan Valley                        319
+
+  281.--Vase lid from San Juan Valley                    319
+
+  282.--Vase lid from San Juan Valley                    319
+
+  283.--Handled bottle from San Juan Valley              319
+
+  284.--Handled bottle from San Juan Valley              320
+
+  285.--Handled mug from San Juan Valley                 320
+
+  286.--Handled mug from San Juan Valley                 320
+
+  287.--Handled mug from San Juan Valley                 320
+
+  288.--Handled mug from southern Utah                   320
+
+  289.--Bowl from Tusayan                                322
+
+  290.--Bowl from Tusayan                                323
+
+  291.--Painted design                                   323
+
+  292.--Bowl from Tusayan                                324
+
+  293.--Painted design                                   325
+
+  294.--Handled bowl from Tusayan                        325
+
+  295.--Painted design                                   326
+
+  296.--Original form of painted design                  326
+
+  297.--Handled cup from Tusayan                         327
+
+  298.--Handled cup from Tusayan                         327
+
+  299.--Dipper from Tusayan                              327
+
+  300.--Dipper from Tusayan                              328
+
+  301.--Figure of bird                                   328
+
+  302.--Dipper from Tusayan                              328
+
+  303.--Painted design                                   329
+
+  304.--Painted design                                   329
+
+  305.--Unit of the design                               329
+
+  306.--Bowl from Tusayan                                330
+
+  307.--Bowl from Tusayan                                331
+
+  308.--Bowl from Tusayan                                331
+
+  309.--Bowl from Tusayan                                332
+
+  310.--Bowl from Tusayan                                332
+
+  311.--Painted design                                   333
+
+  312.--Bowl from Tusayan                                333
+
+  313.--Bowl from Tusayan                                334
+
+  314.--Vase from Tusayan                                334
+
+  315.--Vase from Tusayan                                335
+
+  316.--Vase from Tusayan                                335
+
+  317.--Vase from Tusayan                                336
+
+  318.--Vase from Tusayan                                336
+
+  319.--Painted design                                   337
+
+  320.--Vase from Tusayan                                337
+
+  321.--Vase from Tusayan                                338
+
+  322.--Painted design                                   338
+
+  323.--Unit of the design                               339
+
+  324.--Vase from Tusayan                                339
+
+  325.--Painted design                                   340
+
+  326.--Unit of the design                               340
+
+  327.--Vase from Tusayan                                341
+
+  328.--Painted design                                   342
+
+  329.--Unit of the design                               342
+
+  330.--Vase from Tusayan                                343
+
+  331.--Vase from Cibola                                 343
+
+  332.--Vase from Cibola                                 344
+
+  333.--Painted design                                   345
+
+  334.--Painted design                                   345
+
+  335.--Vase from Tusayan                                346
+
+  336.--Handled vase from Tusayan                        346
+
+  337.--Painted design                                   347
+
+  338.--Handled mug from Tusayan                         347
+
+  339.--Painted design                                   348
+
+  340.--Vase from Tusayan                                348
+
+  341.--Painted design                                   348
+
+  342.--Handled cup from Cibola                          349
+
+  343.--Painted ornament                                 349
+
+  344.--Painted ornament                                 349
+
+  345.--Painted ornament                                 350
+
+  346.--Painted ornament                                 350
+
+  347.--Vase from Tusayan                                350
+
+  348.--Vase from Tusayan                                351
+
+  349.--Bottle from Tusayan                              351
+
+  350.--Bottle from Tusayan                              352
+
+  351.--Bottle from Tusayan                              352
+
+  352.--Vase from eastern Arizona                        353
+
+  353.--Vase from eastern Arizona                        354
+
+  354.--Vase from Tusayan                                354
+
+  355.--Vase from Tusayan                                355
+
+  356.--Vase from Tusayan                                355
+
+  357.--Vase from Tusayan                                356
+
+  358.--Vase from Cibola                                 357
+
+  359.--Vase from Arizona                                358
+
+  360.--Bird-shaped cup from Tusayan                     358
+
+
+
+
+POTTERY OF THE ANCIENT PUEBLOS.
+
+By WILLIAM H. HOLMES.
+
+
+
+
+INTRODUCTORY.
+
+
+A study of the pottery of the ancient Pueblo peoples is here commenced
+in accordance with plans formed years ago by the Director of the Bureau
+of Ethnology. His aim was to present to the world a monographic work
+upon the splendid material obtained by the Bureau, including with it the
+important collections made previously by himself. The preparation of
+this work has been postponed from time to time with the view of
+completing the collections, which were being enriched by annual visits
+to the Pueblo country. Meantime I began the study of the collection for
+the purpose of securing at the start a satisfactory classification of
+the material on hand.
+
+The present paper is the first result of that study. I have, however,
+taken up only the more ancient groups of ware, leaving the rest for
+subsequent papers. A comparative study is not attempted, for the reason
+that a detailed examination of all the groups to be considered is
+absolutely essential to satisfactory results. Conclusions drawn from
+partial observations lead generally to error.
+
+There were great difficulties in the way of treating satisfactorily the
+modern varieties of ware, as no one had sufficient familiarity with the
+language of the Pueblo tribes to discuss the ideographic phases of the
+ornamentation. Mr. F. H. Cushing's studies bid fair to supply this want,
+and his recent return from Zuni has led to the preparation of the
+valuable paper presented in this volume.
+
+Mr. James Stevenson, who has procured a large portion of the collection
+of modern pottery, has published catalogues with copious illustrations.
+Most of the cuts have been prepared under my supervision, and have been
+selected with the view of securing engravings of a full series of
+typical examples for a final work.
+
+
+
+
+PUEBLO ART.
+
+
+DISTRIBUTION.--The ancient Pueblo peoples dwelt in a land of canyons and
+high plateaus. They had their greatest development in the valley of the
+Rio Colorado, where they delighted to haunt the shadows of the deepest
+gorges and build their dwellings along the loftiest cliffs. The limits
+of their territory are still in a measure undefined. We discover
+remnants of their arts in the neighboring valleys of Great Salt Lake,
+the Arkansas, and the Rio Grande, and southward we can trace them beyond
+the Rio Gila into the table-lands of Chihuahua and Sonora.
+
+Thus outlined, we have an area of more than one hundred thousand square
+miles, which has at times more or less remote been occupied by tribes of
+town-building and pottery-making Indians.
+
+CHARACTER.--High and desert-like as this land is, it has borne a noble
+part in fostering and maturing a culture of its own--a culture born of
+unusual needs, shaped by exceptional environment, and limited by the
+capacities of a peculiar people. Cliff houses and cavate dwellings are
+not new to architecture, and pottery resembling the Pueblo ware in many
+respects may be found wherever man has developed a corresponding degree
+of technical skill; yet there is an individuality in these Pueblo
+remains that separates them distinctly from all others and lends a keen
+pleasure to their investigation.
+
+TREATMENT.--The study of prehistoric art leads inevitably to inquiries
+into the origin of races. Solutions of these questions have generally
+been sought through migrations, and these have been traced in a great
+measure by analogies in archaeologic remains; but in such investigation
+one important factor has been overlooked, namely, the laws that govern
+migrations of races do not regulate the distribution of arts. The
+pathways do not correspond, but very often conflict. The arts migrate in
+ways of their own. They pass from place to place and from people to
+people by a process of acculturation, so that peoples of unlike origin
+practice like arts, while those of like origin are found practicing
+unlike arts. The threads of the story are thus so entangled that we find
+it impossible to trace them backward to their beginnings.
+
+For the present, therefore, I do not propose to study the arts of this
+province with the expectation that they will furnish a key to the origin
+of the peoples, or to the birthplace of their arts, but I shall treat
+them with reference rather to their bearing upon the processes by which
+culture has been achieved and the stages through which it has passed,
+keeping always in mind that a first requisite in this work is a
+systematic and detailed study of the material to be employed.
+
+
+
+
+THE CERAMIC ART.
+
+
+AGE.--The ceramic art of the ancient Pueblos is practically a unit. We
+find in its remains few indications of distinct periods. There is
+nothing to carry us back to a remote past. The oldest specimens known
+are nearly as high in the scale as the latest. In the deposits of caves
+and burial-grounds we find, so far, nothing more archaic than in the
+ruins of once populous villages and beneath the fallen walls of
+hewnstone cliff houses. In methods of manufacture and in styles of
+ornamentation there is no specific distinction.
+
+Once introduced, there is much in the character of the country to
+develop this art. The people were sedentary, and thus able to practice
+the art continuously for a long period; and in a country so arid there
+was often great need of vessels suitable for the transportation and
+storage of water.
+
+MATERIAL.--Nature was lavish in her supply of the material needed.
+Suitable clay could be found in nearly every valley, both in the
+well-exposed strata and in the sediment of streams. I have noticed that
+after the passage of a sudden storm over the mesa country, and the rapid
+disappearance of the transient flood, the pools of the arroyos would
+retain a sediment of clay two or three inches thick, having a
+consistency perfectly suited to the hand of the potter. This I have
+taken without tempering and have made imitations of the handsome vases
+whose remnants I could pick up on all sides. In drying and burning,
+these vessels were liable to crack and fall to pieces; but I see no
+reason why, with the use of proper tempering materials, this natural
+paste might not be successfully employed. It would not be difficult,
+however, to find the native clay among the sedimentary formations of
+this district. Usually the clay has been very fine grained, and when
+used without coarse tempering the vessels have an extremely even and
+often a conchoidal fracture.
+
+TEMPERING.--The materials used in tempering do not often come into
+notice. It appears that, in a majority of cases, fine sand, probably
+derived from naturally disintegrated rocks, was employed. A large
+percentage of rather coarse sand is found in the more roughly finished
+coil-made ware, but vessels intended for smooth finish have little
+perceptible tempering material.
+
+The speckled appearance of some of the abraded surfaces suggests the use
+of pulverized potsherds, a practice frequently resorted to by the modern
+tribes. In some localities, notably in the south, we find a slight
+admixture of mica, which may have come from the use of pulverized
+micaceous rock.
+
+CONSTRUCTION.--No one can say just how the materials were manipulated,
+fashioned into vessels, and baked; yet many facts can be gleaned from a
+critical examination of the vessels themselves; and an approximate idea
+of the various processes employed may be formed by a study of the
+methods of modern potters of the same region or of corresponding grades
+of culture.
+
+It is evident that the vessels were built and finished by the hands
+alone; no wheel was used, although supports, such as shallow earthen
+vessels, baskets, and gourds were certainly employed to a considerable
+extent. Primitive processes of building have varied considerably. The
+simplest method perhaps was that of shaping a single mass of clay by
+pressure with the fingers, either with or without the assistance of a
+mold or support. The mold would be useful in shaping shallow vessels,
+such as plates, cups, and bowls. The walls of vessels of eccentric forms
+or having constricted apertures would be carried upward by the addition
+of small more or less elongated masses of clay, with no support but the
+hand or an implement held in the hand. Casting proper, in regularly
+constructed molds, was practiced only by the more cultured races, such
+as the Peruvians. A variety of methods may have been employed in the
+construction of a single piece.
+
+SURFACE FINISH.--A great deal of attention was given to surface finish.
+In the coiled ware the imbricate edges of the fillets were generally
+either smoothed down and obliterated entirely, or treated in such a way
+as to give a variety of pleasing effects of relief decoration. Vessels
+with smooth surfaces, whether built by coiling, modeling, or molding,
+very often received a thin coat of fine liquid clay, probably after
+partial drying and polishing. This took the place of the enamels used by
+more accomplished potters, and being usually white, it gave a beautiful
+surface upon which to execute designs in color. Before the color was
+applied the surface received a considerable degree of polish by rubbing
+with a suitable implement of stone or other material. Attention was
+given chiefly to surfaces exposed to view--the interior of bowls and the
+exterior of narrow-necked vases.
+
+FIRING.--The firing of the ancient ware seems to have been carefully and
+successfully accomplished. The methods probably did not differ greatly
+from those practiced by the modern Pueblo tribes. The ware is, as a
+rule, light in color, but is generally much clouded by the dark spots
+that result from imperfections in the methods of applying the fire. The
+heat was rarely great enough to produce anything like vitrifaction of
+the surface, and the paste is seldom as hard as our stone ware.
+
+GLAZE.--A great deal has been said about the glaze of native American
+wares, which exists, if at all, through accident. The surface of the
+white ware of nearly all sections received a high degree of mechanical
+polish, and the effect of firing was often to heighten this and give at
+times a slightly translucent effect; a result of the spreading or
+sinking of the coloring matter of the designs.
+
+HARDNESS.--The paste exposed in fractured edges can be scratched with a
+steel point, and often with ease. Some of the white pottery of ancient
+Tusayan can be carved almost as readily as chalk or sun-dried clay. At
+the same time all localities furnish occasionally specimens that through
+the accidents of firing have the ring and hardness of stoneware. The
+ancient pottery is generally superior in hardness to that produced by
+the historic tribes.
+
+COLOR.--This pottery presents a pleasing variety of color, although the
+light grays prevail, especially in the more archaic varieties. The
+general color probably depended greatly upon the natural constituents of
+the clay and the degree of heat applied, and these conditions varied
+with the locality and the people. Reds and browns result from the
+presence of iron, which may have been oxidized in burning, or the red
+oxides may have been used in rare cases as coloring matter in kneading
+the clay. The surface is often lighter than the mass; a condition
+probably resulting from the presence of vegetable matter in the clay,
+which is destroyed on the surface and remains unchanged within. In the
+south the colors of the paste are often slightly reddish or yellowish in
+hue. It is notable that a small percentage of the ware of all localities
+is red. This gives rise to the suggestion that vessels of this color
+probably had some especial or sacred use. Color is known to have an
+intimate connection with superstitious observances among many barbarian
+peoples.
+
+FORM.--In form the ancient ware is universally simple and pleasing. Many
+shapes known to both civilized and barbarian art are absent. High-necked
+bottles and shallow plates are of rare occurrence, and pitchers,
+canteens or lenticular bottles, and vessels with legs and stands are
+unknown. There is a notable dearth of life forms, a circumstance that
+would seem to indicate the rather tardy development of a taste for
+modeling--a condition which may have resulted from the comparatively
+recent origin or introduction of art in clay.
+
+Vessels with full globular bodies prevail. The bottoms are generally
+round or a little pointed, indicating primitive conditions of life and
+suggesting great simplicity in methods of manufacture and in the models
+copied.
+
+_Origin of Forms._--There can be no doubt that ceramic forms are to a
+great extent derivative, and the search for their originals will
+constitute a most important feature in our studies. Turning to nature
+for possible originals, we find them liberally supplied by both the
+animal and the vegetable kingdom. The shells of the sea shore were
+probably among the first receptacles for food and drink. We have
+examples of pottery from the mounds in the Mississippi Valley,
+representing three or four distinct varieties of shells. The shells of
+turtles and the horns of cattle and other animals have also served as
+models.
+
+[Illustration: FIG. 210.--Origin of forms.]
+
+[Illustration: FIG. 211.--Origin of forms.]
+
+The vegetable world furnishes many originals; the gourd, for example,
+was utilized at a very early date. Its forms are greatly varied, and
+must have given rise to many primitive shapes of vessels in clay, and
+perhaps in wicker-work and wood. One of the ordinary forms cut off
+midway would suggest the series of bowls outlined in Fig. 210. Simply
+perforated it would give rise to the series illustrated in Fig. 211.
+
+[Illustration: FIG. 212.--Origin of forms.]
+
+[Illustration: FIG. 213.--Origin of forms.]
+
+[Illustration: FIG. 214.--Origin of forms.]
+
+Wide-mouthed vases would be suggested as indicated in Fig. 212, bottles
+as shown in Fig. 213, and eccentric forms as seen in Fig. 214.
+
+These particular examples are presented in illustration of the manner in
+which forms may be derived and nothing more, as there are many possible
+origins of the same forms. In a separate paper I have amplified this
+topic, and have discussed the relative importance of the influence of
+natural and artificial products upon the conformation of utensils of
+clay.
+
+HANDLES.--In searching for the first suggestions of handles we must
+certainly go back to the very beginnings of art, when men and women
+employed leaves or vines to carry their children or their food, or to
+suspend them for safety from the trees of the forest. The art of
+basketry would naturally fall heir to this use of handles. Clay, bronze,
+and iron, when they came into use, would also inherit some of the forms
+thus developed. There are, however, other sources of equal importance,
+among which are animal forms, such as horns, and various forms of
+vegetable growth, such as the gourd. The latter may again serve as an
+illustration.
+
+By cutting the body of the gourd longitudinally at one side of the axis,
+we have dippers with straight or curved necks or handles. The primitive
+potter would in like manner have the suggestion of a handled vessel in
+clay, which, carried forward by the ever active spirit of improvement,
+would in time give us the series shown in Figs. 215 and 216:
+
+[Illustration: FIG. 215.--Origin of handles.]
+
+[Illustration: FIG. 216.--Origin and development of handles]
+
+ORNAMENT.--The shapes of vessels are, in a measure, ornamental, but it
+is difficult to say just how much the necessary or functional characters
+of particular forms have given way to decorative modifications. Pure
+ornament is a feature not essential to the vessel. Its ideas may be
+expressed by three principal methods: by relieved, by flat, and by
+intaglio figures.
+
+Relief ornament was not extensively employed by the ancient Pueblos. The
+forms are few and simple, and nearly all are traceable to constructional
+or to functional features. Thus the ornamental crenulated surface of the
+coiled ware is constructional, consisting as it does of ridges,
+resulting from the method of building. The knobs, isolated coils, and
+festooned fillets are probably, in some cases, atrophied forms of
+handles.
+
+Intaglio decoration is still more rare. It consists of incised,
+impressed, and punctured figures. No designs of importance are produced
+by this method, the most notable being the simple patterns traced by the
+finger or a sharp implement upon the relieved edges of fillets in the
+coiled ware.
+
+With these people, the highest class of decoration consisted of designs
+in color. This topic is fully discussed in a subsequent section.
+
+_Origin of ornament._--It is probable that before pottery came into use
+the decorative art had been cultivated in other fields, and we shall
+need to look both to nature and to antecedent arts for the originals of
+many decorative ideas.
+
+From a remote period man has been able to appreciate beauty. The first
+exercise of taste would probably be in the direction of personal
+adornment, and would consist in the choice of colors or articles thought
+to enhance attractiveness, or in the grouping and modification of
+objects at first functional in character. Later, taste would be
+exercised on a variety of subjects, and finally it would extend to all
+things in use. Man may have recognized the comeliness of the first
+simple articles employed in his humble arts, but when he came to attempt
+the multiplication of these articles artificially, utility was probably
+the only thought. In reproducing them, however, non-essential features
+would be copied automatically, and the work of art would through this
+accident inherit purely ornamental attributes.
+
+Thus it appears that the first ideas of decoration do not necessarily
+originate in the mind of the potter, but that, like the shapes of art
+products, they may be derived, unconsciously, from nature. This is an
+important consideration. At a later stage new forms of ornament are
+derived in a like manner from constructional features of the various
+arts. Invention of decorative motives is not to be expected of a
+primitive, tradition-following people. Advance is greatly by utilization
+of accidents.
+
+USE.--A satisfactory classification of this pottery by functional
+characters will be most difficult to make. In the early stages of its
+manufacture it was confined chiefly, if not solely, to the alimentary
+arts. A differentiation of use would take place when certain vessels
+were set aside for special departments of the domestic work. Thus we
+would have vessels for eating, for cooking, for carrying, and for
+storage. When vessels came to be used in superstitious exercises,
+certain forms were probably set aside for especial ceremonies. With some
+peoples, particular forms were dedicated to mortuary uses, but we have
+no clew to any such custom among the ancient Pueblos, as the same vessel
+served for food both before and after death, and cinerary vessels were
+not called for. Certain classes of the ruder and plainer ware are found
+to be blackened by smoke. These were evidently cooking vessels. The
+painted pottery rarely shows evidences of such use. Bowls were probably
+employed chiefly in preparing and serving food. The larger vessels were
+devoted to carrying and storing water, fruits, grains, and miscellaneous
+articles. Smaller vessels were used as receptacles for paint, grease,
+and the like. The ancient people had not yet devoted their ceramic art
+to trivial uses--there are no toys, no rattles, and no grotesque
+figures.
+
+CLASSIFICATION.--In treating a subject covering so wide a field, and
+embracing such a diversity of products, a careful classification of the
+material is called for. Three grand divisions of the ceramic work of
+this province may be made on a time basis, namely: prehistoric,
+transitional, and modern. At present I have to deal chiefly with the
+prehistoric, but must also pay some attention to the transitional, as it
+embraces many features common both to the archaic and to the modern art.
+In discussing the prehistoric pottery I find it convenient to consider
+it under the three heads, coiled ware, plain ware, and painted ware.
+This classification is unsatisfactory, as it is based upon somewhat
+imperfectly differentiated characters. The smooth vessel is in many
+cases a coil-built one with obliterated coils, and a painted vessel a
+smooth one with the addition of designs in color. Very little of the
+pottery was left plain, but the coiled and painted varieties are fully
+represented in every locality.
+
+I place the coiled ware first because to all appearances it is the most
+archaic variety and one which is rarely made at the present day. I
+suspect that the pieces made by modern potters serve to supply the wants
+of the collectors rather than to meet the requirements of traditional
+art. Among the collections in the National Museum are found many crude
+attempts to manufacture this ware by potters who did not comprehend the
+secrets of its construction, or who thought to produce the coiled effect
+by the cheap device of scarifying and indenting the surface of a plain
+vessel.
+
+Close relations are established between the coiled and the painted
+pottery, not only by the identity of materials, form, color, and time,
+but by the union of the two methods of finishing, the coiling and
+painting, in one and the same vessel, as may be seen in the examples
+given in in the following pages.
+
+
+COIL-MADE WARE.
+
+COILING.--The art of building vessels by means of coils of clay has been
+practiced by many widely separated communities, and is, therefore,
+certainly not peculiar to the ancient Pueblos. A careful study of the
+ceramic field shows considerable diversity in the treatment of the coil.
+The most striking variation, the employment of the coil as a means of
+embellishment, is, so far as my observation extends, peculiar to the
+Pueblo peoples. With others it is a feature of construction simply.
+
+The preliminary steps are with all primitive potters in a general sense
+the same. The first care is to secure suitable clay and to have it
+properly purified and tempered. After this the treatment varies greatly.
+
+_Coiling of the Pueblos._--The ancient Pueblo potter rolled out long,
+slender fillets or ropes of clay, varying in width and thickness to suit
+the size and character of the vessel to be constructed. They were
+usually perhaps from one-fourth to one-half of an inch in thickness.
+When they were properly trimmed and smoothed the potter began by taking
+the end of a single strip between his fingers and proceeded to coil it
+upon itself, gradually forming a disk, as shown in Fig. 217, which
+represents the base of a large vase from the San Juan Valley.
+
+[Illustration: FIG. 217.--Beginning of the coil.]
+
+[Illustration: FIG. 218.--Section of coil-made vessel.]
+
+At first the fillets overlapped only a little, but as the disk grew
+large and was rounded upward to form the body of the vessel, the
+imbrication became more pronounced. The fillet was placed obliquely, as
+shown in the section, Fig. 218, and was exposed on the exterior side to
+probably one-half of its width. Strip after strip of clay was added, the
+ends being carefully joined, so that the continuity might not be broken
+until the vessel was completed. The rim generally consisted of a broad
+strip, thickened a little at the lip, and somewhat recurved. The
+exterior imbricate edges were carefully preserved, while those on the
+inner surface were totally obliterated, first by pressure, and finally
+by smoothing down with an implement, or with the fingers, imprints of
+the latter being frequently visible. So thoroughly were the fillets
+pressed down and welded together that the vessels seldom fracture more
+readily along the lines of junction than in other directions.
+
+The fact that the spiral ridges of the bottom are frequently without
+abrasion, as shown in Fig. 217, suggests an idea in regard to the
+manipulation of the coil. While building the upper part of the vase the
+base would necessarily rest upon some sort of support and the soft
+ridges would suffer from abrasion. In preventing such defacement, an
+interior support, such as a mold or the base of another vessel, must
+have been used, in which case the vessel was necessarily built in an
+inverted position. At the same time it is clear that this would be
+practicable only with bowls or with very wide-mouthed vessels, as the
+mold, if rigid, could not be removed through a restricted aperture.
+
+In pressing the coil down, in welding it to the preceding turn, internal
+support would be necessary, as otherwise the strain would warp the
+walls. A curved trowel or a rounded pebble could be used as long as the
+aperture would admit the hand, but no support excepting the fingers, or
+an implement shaped for the purpose, could be used beyond this stage.
+The whole process was a most delicate one, requiring patience and skill.
+In this respect it contrasted strongly with the coiling of other
+peoples. As indicated by numerous specimens, the coil was sometimes laid
+on the inside of a shallow basket or bowl, the surface of the vessel
+showing a combination of basket-markings and nearly obliterated spiral
+creases. This device served a good purpose in starting the vessel, the
+upper part being completed by free-hand coiling.
+
+_Coiling of other peoples._--The art, as practiced by the Indians of
+Louisiana, is graphically described by Dumont. The following paragraph
+is translated from his work:
+
+"Moreover, the industry of these (savage) girls and women is admirable.
+I have already alluded to the skill with which, with their fingers only,
+and without a wheel, they make large pieces of pottery. The following is
+their method of work: After having collected a quantity of the proper
+kind of earth, and having cleaned it thoroughly, they take shells which
+they break up and reduce to a very fine, loose powder; they mix this
+fine dust with the earth which they have collected, and, moistening the
+whole with a little water, work it with their hands and feet into a
+paste, from which they make rolls six or seven feet long and as thick as
+they may desire. If they wish to make a dish or a vase, they take one of
+these rolls by the end, and marking on this lump with the thumb of the
+left hand the center of the vessel, they turn the roll around this
+center with admirable rapidity and dexterity, describing a spiral. From
+time to time they dip their fingers into the water, which they are
+always careful to have near them, and, with the right hand, they flatten
+the inside and the outside of the vase, which without this would be
+uneven. In this way they make all kinds of earthen utensils, dishes,
+plates, bowls, pots, and jugs, some of which hold as much as 40 or even
+50 pints. This pottery does not require much preparation for baking.
+After having dried it in the shade, they make a large fire, and as soon
+as they think they have enough embers they clean a place in the middle,
+and, arranging the pieces of pottery, cover them with charcoal. It is
+thus that the pieces are given the necessary heating (cooking), after
+which they are as strong as our pottery. There is no doubt but that we
+must attribute their strength to the mixture which these women make of
+powdered shells with the earth which they employ."[1]
+
+Professor C. F. Hartt has furnished many facts in regard to the
+manufacture of pottery by the Brazilian Indians. According to his
+account the women of Santarem model the bottom of a vessel from a lump
+of clay in the usual way. Then "a piece of clay is rolled under the hand
+into a long, rope-like cylinder. This rope is then coiled around the
+edge of the bottom of the vessel, being flattened sidewise by pinching
+with the fingers of the left hand, and caused to adhere to the bottom.
+On this, coil after coil is laid in like manner, each being flattened as
+before. After a few have been added they are worked into shape with
+the fingers, which are occasionally moistened in water, and the
+irregularities produced by the coils are caused to disappear. The vessel
+is formed by the hand alone and the surface is smoothed down by means of
+a bit of gourd or a shell, which is from time to time dipped in water.
+If the vessel be large it is now set away in the shade for a while to
+dry a little, after which new coils are added as above, no other
+instrument being used except the hands and the gourd or shell, with
+which alone the vessel may receive not only an extremely regular form,
+but also a very smooth surface. * * * The coils are so worked together
+that from a simple inspection of the vessel it is impossible to
+determine how it was built up. I should never have suspected that the
+pottery of Pacoval had been made by coiling, were it not that I found
+the coils still ununited on the inner surface of the heads of idols."[2]
+
+Prof. Hartt states, also, on the authority of Dr. de Magalhaes, that the
+pottery of the several tribes of the Araquaya River is always made by
+coiling, the surface being worked down by the hand and water and the aid
+of a spoon-like trowel made of bamboo. Humboldt makes a similar
+statement in regard to the tribes of the Orinoco.
+
+Mr. E. A. Barber[3] relates, on the authority of Captain John Moss, a
+resident, for a long time, of southwestern Colorado, that the Ute
+Indians manufacture pottery at the present time, and that they probably
+follow the methods of the Mokis, from whom they learned the art.
+
+[1] Memoires sur la Louisiane. Butel-Dumont. Vol. II, pp. 271-273.
+Paris, 1753.
+
+[2] Hartt: American Naturalist, February, 1879, pp. 83-86.
+
+[3] Barber: American Naturalist, Vol. X, p. 412.
+
+Captain Moss states that "They use marl, which they grind between two
+rocks to a very fine powder. They then mix this with water and knead it
+as we would dough. Afterwards they roll it out into a rope-like state
+about one inch in diameter and several yards in length. They then
+commence at the bottom of the jar, or whatever vessel they may be
+making, and coil the clay-rope layer on layer until they have the bottom
+and three inches of the sides laid up. The tools for smoothing and
+joining the layers together are a paddle made out of wood and perfectly
+smooth, and an oval-shaped polished stone." Both of these tools are
+dipped in the water (salt water is preferred), the stone is held in the
+left hand and on the inside of the vessel, and the paddle is applied
+vigorously until the surfaces are smooth. The method thus described by
+these authors was, probably, almost universally practiced.
+
+[Illustration: FIG. 219.--Ordinary superposition of coils. Section.]
+
+I have specimens from a number of the Eastern and Southern States that
+fracture along the line of junction, showing clearly the width of the
+fillets and the manner of their attachment. I picked up a small specimen
+at Avoca, North Carolina, which has broken along the line of junction,
+giving the section illustrated in Fig. 219. It will be seen that there
+is no overlapping as in the Pueblo work, the attachment being
+accomplished by pressure and by drawing both edges of the coil down over
+the convex edge of the preceding coil. I have similar specimens from the
+modern Pueblos, from Florida, from Mexico, and from Brazil. It will
+readily be seen that this method of building differs essentially from
+that practiced so successfully by the ancient Pueblos.
+
+ORIGIN OF THE COIL.--This use of the coil is but a refinement of the
+most simple possible method of construction, that of building by the
+addition of small masses of clay. A disk or shallow cup can be formed
+successfully by the fingers alone from a single lump of clay, but to
+carry the wall upward by pressure or by blows from a paddle would result
+in a weak, frayed edge. To counteract or prevent this tendency small
+elongated masses are used, which are laid one upon another along the
+growing margin. From this, in the most natural manner possible, we
+arrive at the use of the long, even rope or fillet. The imbrication or
+overlapping of the coil practiced by the Pueblos may have originated in
+the effort to secure a more stable union of the parts which had to be
+welded together by pressure. It would also almost necessarily arise from
+the attempt to lay the coil upon or within a mold or support. There is a
+possibility that it may have been suggested by features of construction
+observed in other arts--the overlapping parts of a roof, of a plate or
+scale garment, or of a coiled basket. The latter is especially
+suggestive, since we must generally look for the origin of features of
+the ceramic art in the features of closely associated arts.
+
+THE COIL IN ORNAMENTATION.--Ordinarily the coil has not been expected to
+contribute to the beauty of the vessel, but the Pueblo tribes made it a
+prominent feature in decoration. The primitive potter as he laid his
+rude coils noticed that the ridges thus produced served to enhance the
+appearance of the vessel. He also observed that the series of
+indentations left on the outer surface of the fillet in pressing it down
+gave a pleasing effect, and made use of the suggestion. Improving upon
+the accidents of manufacture, he worked out a variety of decorative
+devices.
+
+In some cases the coiled ridges are confined to particular parts of the
+vessel, the other parts having been worked down or originally
+constructed by plain modeling. Numerous examples have the body quite
+plain, the collar alone retaining the spiral ridges of the coil. Fig.
+251 illustrates a very good example of this peculiarity.
+
+[Illustration: FIG. 220.--Coiled and plain surface. Section.]
+
+The fragment shown in Fig. 220 is from the neck of a pot-shaped vase.
+The surface has been plain below and the fillets of the upper part have
+been pressed down evenly with the thumb, leaving the extreme edge of the
+overlapping band in sharp relief, as shown more clearly in the section.
+
+The whole coil is sometimes left plain, as in Figs. 221 and 222, in
+which cases the edges have been carefully pressed down and smoothed with
+the fingers.
+
+[Illustration: FIG. 221.--Rib-like coil. Section.]
+
+[Illustration: FIG. 222.--Rib-like coil. Section.]
+
+A great variety of devices were resorted to to diversify and decorate
+the ribbed spirals, and in this the innate good taste of the Indian
+exhibits itself to much advantage. The coil is often indented or crimped
+throughout, from the center of the bottom to the rim of the vessel. At
+times a few turns at the beginning are left plain, as shown in Fig. 217,
+while again alternate bands, consisting of several turns each, are not
+crimped, as clearly brought out by an example from Southern Utah,
+illustrated in the Art Review for July, 1874, by F. W. Putnam, and also
+by two fine specimens recently collected by E. W. Nelson near
+Springerville, Arizona.
+
+The decided taste of this ancient people for ornament is still further
+indicated by attempts to elaborate more intricate patterns by means of
+thumb-nail indentations. The idea may have been borrowed from basketry.
+The fragment given in Fig. 223 illustrates the method of procedure. We
+have some very fine vessels of this class from Springerville, and others
+from the province of Tusayan in which the entire surface is covered with
+checkered or meandered patterns. An excellent example is shown in Fig.
+253. We shall appreciate the cleverness of this work more fully when we
+remember that the separate thumb indentations forming the figures of the
+pattern are made in each coil as it is laid and pressed into place and
+before the succeeding turn is made.
+
+[Illustration: FIG. 223.--Indented pattern.]
+
+[Illustration: FIG. 224.--Nail indentations.]
+
+These curious decorative effects were still further elaborated by
+diversifying the character of the indentations of the coil. In Fig. 224
+we have a most successful effort in this direction. The fillets are
+alternately crimped and plain. The thumb, in pressing down the one, has
+been applied with such force that the nail has cut entirely through it,
+indenting the plain layer below and causing the two to coalesce. This
+specimen was obtained from the canyon of the Rio Mancos.
+
+Certain districts are particularly rich in remains of this peculiar ware
+and furnish many examples of crimped ornament. The remarkable
+desert-like plateau lying north of the Grand Canyon of the Colorado
+contains many house and village sites. At intervals along the very brink
+of the great chasm we come upon heaps of stones and razed walls of
+houses about which are countless fragments of this ware. These are
+identical in nearly every character with the pottery of Saint George on
+the west, of the San Juan on the east, and of the Gila on the south. A
+few miles south of Kanab stands a little hill--an island in the creek
+bottom--which is literally covered with the ruins of an ancient village,
+and the great abundance of pottery fragments indicates that it was, for
+a long period, the home of cliff-dwelling peoples. In no other case have
+I found so complete an assortment of all the varieties of
+coil-ornamentation. All the forms already given are represented and a
+number of new ones are added.
+
+[Illustration: FIG. 225.--Wave-like indentation.]
+
+[Illustration: FIG. 226.--Wave-like indentation.]
+
+In the example given in Fig. 225 the fillets are deeply indented, giving
+a wave-like effect. Another pretty variety is seen in Fig. 226.
+
+[Illustration: FIG. 227.--Impressions of finger-tips.]
+
+[Illustration: FIG. 228.--Implement indentations.]
+
+One of the most successful of these archaic attempts at relief
+embellishment is illustrated in the fragment shown in Fig. 227. The
+raised edge of the fillet is pinched out at regular intervals, producing
+rows of sharp-pointed "beads." Over the entire surface impressions of
+the fine lines of the finger-tips are still distinctly visible. The
+dotted lines show the direction of the coil.
+
+The indenting was not always done with the thumb or finger-tips, but a
+variety of implements were used. The vase, of which Fig. 228 shows a
+small fragment, had a figure worked upon it by indenting the soft coils
+with a sharp implement.
+
+[Illustration: FIG. 229.--Nail markings.]
+
+The coil ridges were sometimes worked down into more regular forms by
+means of an implement and were left plain or were interrupted by
+transverse lines. Lines of nail marking are shown in Fig. 229. These
+lines are occasionally combined in rude patterns.
+
+[Illustration: FIG. 230.--Incised lines.]
+
+In the specimen illustrated in Fig. 230, incised lines are drawn across
+the ridges of the coil.
+
+[Illustration: FIG. 231.--Incised pattern.]
+
+OTHER VARIETIES OF ORNAMENT.--I have already remarked that certain
+styles of decoration are confined to somewhat definite geographic
+limits. In the ancient Pueblo district we find that painted designs and
+coil ornaments are co-extensive, while within this area there are but
+rare examples of incised designs, stamped figures, or cord-marking. We
+find basket indentations, but these are in all cases the accidents of
+manufacture. The coil has often been laid upon the inner surface of a
+basket.
+
+The fragment shown in Fig. 231 was picked up on the site of an ancient
+Pueblo village near Abiquiu, New Mexico. It is a portion of the neck and
+upper part of the body of a small vase which was covered by a simple
+pattern of intaglio lines, produced with a bone or wooden stylus.
+
+Ornaments in relief, aside from the coil and forms resulting directly
+from its use, were sparingly employed and are of comparatively little
+interest. They consist of straight, curved, or crimped fillets, applied
+to the surface of the vessel as shown in Fig. 232. Additional examples
+are given in Figs. 233, 234, and 235.
+
+Nodes, cones, and other forms are also used as seen in Figs. 236, 237,
+and 238. These are usually placed about the neck of the vessel,
+occupying the places of the handles.
+
+[Illustration: FIG. 232.--Applied fillet.]
+
+MATERIAL.--The clay used in this ware was in some sections tempered with
+a large percentage of rather coarse silicious sand, which gives to the
+surface a rough, granular look. In the south the paste seems to be finer
+grained than in the northern districts.
+
+COLOR, ETC.--The color of the paste is generally gray, but in the
+province of Tusayan it is frequently yellow. In some cases the surface
+has received a wash of fine liquid clay, and a few bowls from the Little
+Colorado and Gila Valleys have designs in white paint covering the
+exterior surface. This ware is always well baked and extremely hard.
+
+[Illustration:
+
+FIG. 233. FIG. 234. FIG. 235.
+
+FIG. 236. FIG. 237. FIG. 238.
+
+Examples of relief ornaments.]
+
+FORM.--The forms are not nearly so varied as are those of the painted
+ware. The leading variety is a round-bodied, wide-mouthed olla or pot,
+with flaring rim. Bottles are of rare occurrence, and bowls are not
+nearly so plentiful as in other varieties of pottery. Life and eccentric
+forms are occasionally found. Many small vessels of the more elongated
+shapes are furnished with handles, which are in most cases placed
+vertically upon the neck, and consist of single or double bands or ropes
+or of two or more strands twisted together.
+
+USE.--As a rule the forms are such as have been devoted by most peoples
+to culinary uses, and in many cases the entire exterior surface is
+coated with soot. Plain vessels of similar outlines are used by the
+modern tribes of this province for cooking and serving food. Examples
+having very neatly or elaborately finished surfaces have apparently not
+been used over a fire. Those of large size doubtless served for the
+transportation and storage of water.
+
+
+ILLUSTRATIONS OF VESSELS.
+
+As it is my desire to give this paper something of a monographic
+completeness, I shall present a typical series of the best preserved
+vessels of this class along with some notices of the circumstances under
+which they were discovered. The treatment by districts or localities is
+for convenience simply, and has no reference to distinctions in the
+character of the ware.
+
+
+DISTRICT OF THE RIO SAN JUAN.
+
+Our first expeditions into the land of the cliff-dwellers were full of
+interest. We were not, however, the first explorers. The miners of the
+silver-bearing mountains to the north had made occasional excursions
+into the sinuous canyons of the plateau district, and failing to bring
+back the coveted gold, told tales of the marvelous cities of the cliffs,
+and speculated upon discovering in the debris of ancient temples and
+tombs a portion of the fabled gold and jewels of the provinces of Cibola
+and Tusayan.
+
+Notwithstanding our entire freedom from expectations in this direction,
+the thought gave color to our anticipations, and it was not an uncommon
+occurrence to hear, about the slumbering camp fire, half jocular
+references to the "great pots of gold moons" that some one had whispered
+might be hidden away in the inaccessible cliffs that overshadowed us.
+
+I shall not soon forget the incidents connected with the discovery of a
+pair of fine water-jars--one of which is illustrated in Fig. 239. On the
+occasion of our first passage down the canyon of the Rio Mancos[4] I made
+the discovery of a group of fine cliff-houses on the south side, far up
+in the vertical walls. On our return I made it a point to camp for the
+night directly below these houses, although a dense growth of underbrush
+had to be cut away to give room for our beds by the side of the sluggish
+stream.
+
+[4] Tenth Annual Report U. S. Geological Survey of the Territories, p.
+394.
+
+The two finest houses were set in shallow, wind-worn caves, several
+hundred feet above the valley. One was almost directly above the other,
+the upper being reached by a number of notches picked in the nearly
+vertical rock-face.
+
+I had ascended alone and was busily engaged in studying the upper house
+and tracing the plans of its fallen walls, when I heard a voice echoing
+among the cliffs. Descending hastily to the lower house I found that
+one of my men had followed me and was excitedly scratching with a stick
+among the debris of fallen walls. He had just discovered the rim of a
+buried pot, and was fairly breathless from the anticipation of "piles of
+moons." By the aid of my geologic hammer we soon had the upper part of
+the neck uncovered, but hesitated a moment with bated breath before
+venturing to raise the rough stone lid. But there was no treasure--only
+a heap of dust. I was content, however, and when by a little further
+search we came upon a second vessel, a mate to the first, the momentary
+shades of disappointment vanished.
+
+[Illustration: FIG. 239.--Coiled vase from a cliff-house in the Mancos
+Canyon, Colorado.--1/3.]
+
+These vessels had been placed in a small recess, where the falling
+walls had not reached them, and were standing just as they had been left
+by their ancient possessors. The more perfect one, which had lost only a
+small chip from the rim, I determined to bring away entire. This I
+succeeded in doing by wrapping it in a blanket, and by means of straps,
+slinging it across my back. I carried it thus for a number of days over
+the rough trails of the canyons and plateaus. The other, which was badly
+cracked when found, was pulled apart and packed away in one of the mess
+chests. It is now with its mate in the National Museum, perfectly
+restored.
+
+The unbroken vessel is shown in Fig. 239 about one-third its real
+height. Its capacity is nearly four gallons. The clay is tempered with a
+large portion of sand, some grains of which are quite coarse. The color
+of the paste is a light gray, apparently not having been greatly changed
+by the baking. A few dark contact clouds appear on the sides of the
+body. The walls are quite thin for a vessel of its size and are of very
+uniform thickness. The entire weight hardly exceeds that of a common
+wooden pail of the same capacity. The mouth is wide and the rim, which
+is made of a plain rough band, is one inch wide and abruptly recurved.
+The vessel can hardly be said to have a neck, as the walls round
+gradually outward from the rim to the periphery of the body, which is
+full and nearly symmetrical. The narrow strands of clay have been coiled
+with something less than average care, the exposed surfaces being wide
+in places and in others very narrow. The thumb indentations have been
+carelessly made. Two small conical bits of clay are affixed to the neck
+as if to represent handles. These may have been intended for ornaments,
+but are as likely to owe their presence to some little superstition of
+the archaic artisans.
+
+The companion vessel has also a capacity of about four gallons. Its form
+differs from that of its mate, being considerably more elongated above
+and having a more pronounced neck. The material is about the same, but
+the color is darker and the workmanship is superior. The surface is
+coated with soot, indicating use over a fire in cooking food or in
+boiling water. The coil was laid with a good deal of care and the
+indentation was done in a way to produce a series of sharp points along
+the margin of the coil. The interior of the rim was finished with a
+polishing stone. A small cord of clay was neatly coiled into a double
+scroll and attached to the narrowest part of the vessel, corresponding
+in position to the knobs in the other example. This ornament, though
+small, is nevertheless effective. Similar scrolls are found upon vases
+from many parts of the Pueblo Province.
+
+It is an interesting fact that this vessel had been successfully mended
+by its owners. A small perforation near the base had been stopped by
+cementing a bit of pottery to the inside with clay paste. These vases
+were evidently the most important of the household utensils of the
+cliff-dwellers, especially as in this place water had to be carried, at
+least during a part of the year, from the creek five hundred feet below.
+It is probable that baskets and skins were sometimes used for carrying
+water, and that the earthen vessels were used as coolers, as are similar
+vessels among many primitive peoples. That they were used for carrying
+water up the cliffs is indicated by the fragments that lie upon the
+slopes and point out the location of houses invisible from the trails
+below.
+
+A large fragment of a similar olla was picked up in the valley of Epsom
+Creek, southeast Utah. This vessel was larger, neater in finish, and
+more elegant in shape, than either of those described. A sufficiently
+large fragment was discovered to show satisfactorily the character of
+the rim, the outline of the body, and the details of surface finish.
+(Fig. 240.) The rim is but slightly recurved and the neck is high and
+upright. The body swelled to a diameter of about eighteen inches at the
+greatest circumference. The paste, as usual, indicates a gray clay
+tempered with coarse sand. The inside is smooth and the walls are
+remarkably thin for so large a vessel, being about one-fourth of an inch
+in thickness. The coil is very neatly laid and indented, a variety to
+the effect being given by leaving occasional plain bands. This vessel is
+described by W. H. Jackson in the Bulletin of the U. S. Geological
+Survey of the Territories, Vol. II.
+
+[Illustration: FIG. 240.--Part of a large vase from Epsom Creek,
+Utah.--1/8.]
+
+Fragments of this class of ware are found throughout the canyoned region
+of southern Utah and for an undetermined distance into Nevada. I have
+already described fragmentary specimens from Kanab and therefore pass on
+to the west.
+
+
+DISTRICT OF THE RIO VIRGEN.
+
+The most notable collection of this coiled ware ever yet made in any one
+locality is from a dwelling-site tumulus near Saint George, Utah, nearly
+three hundred miles west of the Rio Mancos.
+
+About the year 1875, the curator of the National Museum obtained
+information of a deposit of ancient relics at the above locality, and in
+1876 a collector was sent out to make an investigation. The result, so
+far as collections go, was most satisfactory, and the account furnished
+gives an insight into the customs of this ancient people not yet
+obtained from any other source. On the Santa Clara River, a tributary of
+the Rio Virgen, about three miles from the Mormon town of Saint George,
+a low mound, which I suppose to have been a sort of village-site
+tumulus, was found. The outline was irregular, but had originally been
+approximately circular. It was less than ten feet in height, and
+covered about half an acre. One side had been undermined and carried
+away by the stream. The work of exhumation was most successfully
+accomplished by means of water. A small stream was made to play upon the
+soft alluvium, of which the mound was chiefly composed. The sensations
+of the collector, as skeleton after skeleton and vase after vase
+appeared, must have been highly pleasurable.
+
+It is thought that the inhabitants of this place, like many other
+primitive peoples, buried their dead beneath their dwellings, which were
+then burned down or otherwise destroyed. As time passed on and the dead
+were forgotten, other dwellings were built upon the old sites, until
+quite a mound was formed in which all the less perishable remains were
+preserved in successive layers.
+
+Following the customs of most primitive peoples, the belongings of the
+deceased were buried with them. Earthen vessels were found in profusion.
+With a single body, there were sometimes as many as eight vases, the
+children having been in this respect more highly favored than the
+adults. There seems to have been no system in the arrangement either of
+the bodies or of the accompanying relics.
+
+The majority of the vases were either plain or decorated in color, but
+many of the larger specimens were of the coiled variety. About sixty
+vessels were recovered. Those of the former classes will be described
+under their proper headings.
+
+[Illustration: FIG. 241.--Vessel from the tumulus, at Saint
+George.--1/3.]
+
+The shapes of the corrugated vases are of the simplest kind. The
+prevailing form corresponds very closely with the Cliff House specimen
+illustrated in Fig. 239. One unusually large example was brought back in
+fragments, but has since been successfully restored. It stands nearly
+seventeen inches high and is sixteen inches in diameter. The plain part
+of the rim is one and one-half inches wide, and the lip is well rounded
+and strongly recurved. The lines are quite graceful, the neck expanding
+below into a globular body which is just a little pointed at the base.
+The color is dark, from use over the fire. The fillets of clay were
+narrow and very neatly crimped. Roughly estimated, there were at least
+three hundred feet of the coil used. The vessel has a capacity of about
+ten gallons.
+
+[Illustration: FIG. 242.--Vase from the tumulus at Saint George.--1/2.]
+
+Vases of this particular outline may be found, varying in size from
+these grand proportions to small cups an inch or two in height. Of a
+somewhat different type is the vessel shown in Fig. 241. The outline is
+symmetrical. The neck is comparatively high and wide and swells out
+gently to the widest part of the body, the base being almost
+hemispherical. A band about the neck is coiled and roughly indented,
+while the body is quite smooth. The plain band about the mouth is broad
+and sharply recurved. The coils are wide and deeply indented. They have
+been smoothed down somewhat while the clay was still soft. The vase
+shown in Fig. 242 is characterized by its upright rim, elongated neck,
+round body, and plain broad coils. The fillets are set one upon another,
+apparently without the usual imbrication. This latter feature occurs in
+a number of cases in the vessels of this locality.
+
+The bottle given in Fig. 243 is quite comely in shape. The neck expands
+gracefully from the rim to its junction with the body, which swells out
+abruptly to its greatest fullness. The coil is not neatly laid. The
+indentation began with the coil, but was almost obliterated on the lower
+part of the vessel while the clay was yet soft. The fillets are not so
+well smoothed down on the interior surface as usual, a ridged
+appearance being the result. This comes from the difficulty of operating
+within a much restricted aperture. The color is gray, with a few
+effective clouds of black, the result of firing. Another, of similar
+form, was taken from the collection by unknown persons.
+
+[Illustration: FIG. 243.--Vase from the tumulus at Saint George.--1/2.]
+
+The only example of coiled ware from this locality having a handle is a
+small mug. Its body is shaped much like the larger vessels, but it is
+less regular in outline. The single vertically placed handle, now
+partially broken away, was attached to the side of the body near the
+top, and consisted of a rough cord of clay less than half an inch in
+diameter. The Saint George tumulus furnished a number of vessels with
+smooth, unpainted surfaces, very similar in form and size to the coiled
+vessels. They are generally blackened by use over fire, and, like the
+large coiled pots, were evidently used for culinary purposes. A few
+smaller vessels of the same style of finish exhibit forms characteristic
+of the painted ware, as will be seen by reference to the illustrations
+of these two groups.
+
+From the same source we have two bowls of especial interest, as they
+have coiled exteriors and polished and painted interiors. One of these
+is illustrated in Fig. 244. They form an important link between the two
+varieties of ware, demonstrating the fact that both styles belong to the
+same age and to the same people. A similar bowl, found in possession of
+the Zuni Indians, is illustrated in another part of this paper, Fig.
+254. Another was obtained at Moki. Fragments of identical vessels are
+found occasionally throughout the whole Pueblo district. One piece from
+the San Juan Valley has figures painted upon the coiled exterior
+surface, the interior being polished and unpainted. Specimens from the
+vicinity of Springerville, Arizona, have designs in white painted over
+the coiled surface. A large number of well-made, hemispherical bowls
+from this locality have a coiled band about the exterior margin, but are
+otherwise plain and well polished. Some are brownish or reddish in
+color. Many of them have been used over the fire.
+
+[Illustration: FIG. 244.--Bowl with coiled exterior and painted
+interior: Saint George.--1/2.]
+
+[Illustration: FIG. 245.--Vase from Parowan, Utah.--1/2.]
+
+The ceramic remains of Utah present some puzzling features. As we go
+north from the Rio Virgen there is an apparent gradation from the
+typical Pueblo ware to a distinct group characteristic of Salt Lake
+Valley. The interesting problems suggested by this condition of things
+cannot be discussed in this place, and I will stop only to present a
+specimen of the coiled ware from Parowan, which is in some respects the
+finest example known. The form, so far as it is preserved, seems
+unusually graceful, and the laying and indenting of the coil is
+surprisingly perfect. This vase is in the Salt Lake Museum, and the cut,
+Fig. 245, is made from a photograph furnished by Prof. Marcus E. Jones.
+Vessels with similar finish have recently been obtained from graves at
+Fillmore, Utah, by Dr. H. C. Yarrow, and, singularly enough, identical
+work is seen in some very fine pieces obtained by Mr. Nelson from ruined
+pueblos in middle eastern Arizona.
+
+[Illustration: FIG. 246.--Cup from central Utah.--1/3.]
+
+An interesting little cup, said to have been found in central Utah,
+illustrates some of the peculiar characters of the more northern
+examples of this ware. The vessel has apparently been built with coils,
+as usual, but the surface is worked over in such a way as to obscure the
+spiral ridges. The rim is upright and plain. The high, wide neck has a
+series of narrow, vertical flutings, made with a round-pointed
+implement, or possibly with the finger tip. A band of four channels
+encircles the middle of the body, the lower part of which is covered
+with oblique markings.
+
+The handle is large and round, and is attached above to the top of the
+rim, and below to the middle of the body. This cup is now in the museum
+at Salt Lake. The photograph from which the engraving is made was
+obtained through Professor Jones.
+
+
+DISTRICT OF THE LITTLE COLORADO.
+
+The region now inhabited by the Pueblo tribes seems to have been a
+favorite residence of the ancient peoples. Ruins and remains of ceramic
+art may be found at every turn, and it is a common thing to find
+ancient vessels in possession of the Pueblo Indians. This is especially
+true of the Zunis and Mokis, from whom considerable collections have
+been obtained. These vessels have apparently been culled from the sites
+of ancient ruins, from cave and cliff-houses, and possibly in some cases
+from burial places. Recently, since they have become valuable in trade,
+the country about Moki has been ransacked by both Indians and whites,
+and many valuable specimens have been acquired.
+
+Within recent years a number of expeditions have been sent into this
+region. To these the canyons and cliffs have yielded many specimens. Both
+Mr. Stevenson and Mr. Victor Mindeleff have brought in excellent
+examples, a few of which have already been illustrated in the
+publications of the Bureau of Ethnology. I must not fail to mention the
+very extensive collection of Mr. T. V. Keam and his associate, Mr. John
+Stephen, examples from which I am permitted to illustrate in this paper.
+
+Most of the pieces described by Mr. Stevenson are small and not at all
+pleasing in appearance. They comprise ollas and handled mugs of an
+elongated scrotoid or sack shape, the widest part of the body being, as
+a rule, near the base, while the upper part is elongated into a heavy
+neck, to which a recurved rim has been added.
+
+A number of examples, illustrated in the Second Annual Report of the
+Bureau of Ethnology, were obtained from the Zuni Indians, and are
+thought by Mr. Stevenson to have come from the Canyon de Chelly.
+
+[Illustration: FIG. 247.--Vessel from Zuni.--1/4.]
+
+A large, very badly constructed specimen is given in Fig. 247. The rim
+is roughly finished, the body unsymmetrical, and the bottom slightly
+flattened. The coils differ greatly in width, and are carelessly joined
+and unevenly indented. The rudeness of workmanship noticed in this case
+is characteristic of many of the specimens from Zuni.
+
+[Illustration: FIG. 248.--Vessel from Zuni.--1/2.]
+
+[Illustration: FIG. 249.--Handled mug from Tusayan.--1/2.]
+
+A rudely constructed cylindrical cup, of the wide-mouthed, narrow-bodied
+variety, is illustrated in Fig. 248. The bottom was flattened by contact
+with some hard, scarred surface before the clay hardened. Two round,
+tapering, serpent-like fillets of clay have been fixed in a vertical
+position upon opposite sides of the vessel.
+
+There are a number of handled vessels of this class. They are mostly
+rather rudely made and unsymmetrical. They are small in size and were
+probably devoted to ordinary domestic uses. A good specimen from the
+Keam collection is shown in Fig. 249. The handle in this case is a large
+loop made of three ropes of clay placed side by side. In one case there
+are three strands set side by side, and joined near the ends. In another
+case the strands have been twisted, giving a rope-like effect. These
+forms closely resemble wicker handles in appearance and manner of
+attachment, and are probably to some extent derived from them, although
+there is no reason why the ropes of clay, in constant use by potters,
+should not be joined in pairs, or even twisted, if greater strength or
+variety were desired.
+
+Vessels from the province of Tusayan may often be identified by their
+color, which, like that of the transition and modern wares of the same
+region, is often a rich yellow, sometimes approaching an orange. This
+color is probably a result of changes in the natural constituents of the
+clay employed.
+
+[Illustration: FIG. 250.--Yellow vase from Tusayan.--1/3.]
+
+An excellent example of the yellow coiled vases is illustrated in Fig.
+250. It has a new look, and probably belongs to a later period than the
+light gray ware of the district. It is symmetrical, and the coil is
+neatly laid and indented. Portions of the sides and base were blackened
+in firing.
+
+There are a number of fine specimens of this class in the Keam
+collection, all obtained from the ancient province of Tusayan. A small,
+wide-necked pot is shown in Fig. 251. The surface is smooth, with the
+exception of a narrow band or collar about the neck, formed of a few
+indented coils. Other vessels closely resembling this in style are much
+larger and heavier.
+
+[Illustration: FIG. 251.--Yellow vase from Tusayan.--1/3.]
+
+[Illustration: FIG. 252.--Vessel from Tusayan.--1/3.]
+
+A vessel of very archaic appearance is illustrated in Fig. 252. In form,
+color, and finish it differs from the preceding example. The mouth is
+almost as wide as the body at its greatest circumference, the color is
+gray, and the coils are narrow and regularly indented. A minute coiled
+fillet is attached to the rim for ornament.
+
+The vessel illustrated in Fig. 253 is one of the most noteworthy of its
+class. In form and construction it does not differ essentially from
+specimens already described, but the decoration is superior. The coils
+are indented in such a way as to produce a pattern of triangular
+figures, which is carried over the entire surface of the vessel. It
+belongs to the Keam collection, and comes from the province of Tusayan.
+
+[Illustration: FIG. 253.--Large vase from Tusayan.--1/4.]
+
+[Illustration: FIG. 254.--Bowl from Cibola.--1/2.]
+
+From Cibola we have a bowl, the exterior of which is coiled and the
+interior polished and painted. It is undoubtedly of the most archaic
+variety of ware, and is almost a duplicate of the example from the Saint
+George tumulus, shown in Fig. 244. The interior is encircled by a
+series of five triangular volutes in black lines, and the exterior exhibits
+a very neatly laid and indented coil. Fig. 254.
+
+
+PECOS AND THE RIO GRANDE.
+
+In New Mexico, upwards of four hundred miles east of Saint George, in
+the handsome upland valley of the Rio Pecos, we have the most easterly
+of the ancient Pueblo remains. The site was occupied at the time of the
+conquest, but is now wholly deserted, a small remnant of the people
+having gone to dwell with their kindred at Jemez.
+
+The site of this village has been thoroughly examined by that learned
+gentleman, Mr. A. F. Bandelier. It is his opinion that the remains show
+at least two distinct periods of occupation, the first being marked
+chiefly by a stratum of ashes, pottery, etc., of great horizontal
+extent. This underlies more recent deposits which belong to the people
+found in possession, and whose arts are nearly identical with those of
+the existing Pueblos.
+
+The underlying stratum is characterized by great quantities of
+fragmentary coiled ware uniform with that of more western localities. At
+the same time there is almost a total absence of painted pottery.
+
+The conclusion reached by Mr. Bandelier is that probably the coiled
+pottery wherever found marks the occupancy of a people antecedent to
+those who made painted ware. It is my impression, as already stated,
+that the coiled form may be the most archaic of the ancient Pueblo
+pottery, yet I think it best to notice two things in regard to the
+conditions at Pecos.
+
+In the first place, it should be remembered that the painted pottery
+found by Mr. Bandelier is said to resemble that of Nambe of to-day,
+nothing being said of the painted ware characteristic of the ancient
+ruins of the west, and which is always found associated with the coiled
+fragments, as at Saint George, in the same graves and even in the same
+vessel, Fig. 244. We would not expect in Pecos, or in any other place,
+to find modern Pueblo ware like the more recent pottery from Pecos
+intimately associated with the ancient ware either painted or
+corrugated. The only strange feature at Pecos is that the coiled
+fragments are not associated with ancient painted ware as in other
+places.
+
+Mr. Bandelier advances the idea that this deposit of corrugated ware may
+represent the site of an ancient pottery, where the vessels were laid
+out in heaps surrounded by fuel and burned as by the modern Pueblo
+potters, the broken pieces being left on the ground, forming finally a
+considerable stratum. If this is correct, then the true explanation
+probably is that on this spot only the one variety of pottery was made,
+the painted pottery of the same locality, if such was in use, being made
+by potters in other parts of the village. Unless there is an actual
+superposition of the ancient painted ware upon deposits of the coiled
+variety, we learn nothing of chronological importance.
+
+The valley of the Rio Grande has furnished but few specimens of the
+coiled ware, although it is known to occur along nearly its entire
+course through New Mexico.
+
+
+DISTRICT OF THE RIO GILA.
+
+The broad area drained by the Gila River and its tributaries abounds in
+ruins and relics, but its exploration is yet very incomplete. Coiled
+pottery identical, in nearly every respect, with that of the more
+northern valleys is abundant, but it is sometimes associated with
+painted wares very different in style from those of the cliff-house
+districts. It will probably be found that the ceramic products of the
+Rio Gila and the Rio Grande are much less homogeneous than those of the
+Colorado Chiquito, the San Juan, and the Rio Virgen.
+
+
+IMITATION COIL-WARE.
+
+I have already mentioned the occurrence in the Pueblo towns of modern
+coiled pottery, and also that there are seen, occasionally, vessels in
+which the coiled effect is rudely imitated by means of scarifying and
+indenting the plastic surface. Specimens of the latter class are
+generally small rude bottles with wide recurved lips and slightly
+conical bases. They are very rudely made and clumsy and are but slightly
+baked, and on account of the omission of proper tempering material are
+extremely brittle. They are new looking, and in no case show indications
+of use, and I have seen no example worthy of a place upon our museum
+shelves save as illustrating the trickery of the makers. It is possible
+that they are made by the Mokis, but if so by very unskilled persons who
+have neither understood the methods nor employed the same materials as
+the professional potters. I consider it highly probable that some clever
+Navajo has thought, by imitating archaic types of ware, to outwit
+collectors and turn an honest penny.
+
+
+PLAIN WARE.
+
+All the groups of pottery furnish examples of plain vessels. These are
+generally rudely finished and heavy, as if intended for the more
+ordinary domestic uses, such as the cooking of food and the storing of
+provisions and water. The material is coarser than in the nicely
+finished pieces and the surface is without the usual slip and without
+polish or applied color.
+
+The characters of these utensils are quite uniform throughout very
+widely separated districts, so that it is more difficult to assign a
+single vessel to its proper family than in the case of decorated wares.
+
+We have from Saint George and other localities examples of plain vessels
+that belong, without a doubt, to the coiled variety, the resemblance in
+material, color, shape, and finish being quite marked.
+
+These vessels are plentiful in the province of Tusayan, and many of
+them, as indicated by their color, construction, and texture, belong to
+the yellow and orange groups of ancient coiled ware. There is in many
+cases an easily discernible gradation from the wholly coiled through the
+partially coiled to the plain ware. In some cases the coil has been so
+imperfectly smoothed down that obscure ribs encircle the vessel
+indicating its direction, and in other cases fractures extend along the
+junction lines, separating the vessel when broken, into its original
+coils. These vessels are large and heavy, with wide mouths and full
+bodies, which are occasionally somewhat compressed laterally, giving an
+oval aperture.
+
+Similar pithoi like vessels are in daily use by the Mokis and also by
+the Zunis, Acomas, Yumas, and others. They are employed in cooking the
+messes for feasts and large gatherings, for dyeing wool, and for storing
+various household materials. The modern work is so like the ancient that
+it is difficult in many cases to distinguish the one from the other.
+
+Besides the typical pot or cask there are many varieties of plain
+vessels, some of which appear to be closely related to, or even
+identical with, the classes usually finished in color. These include
+bowls, pots, and bottles. I present three examples from the tumulus at
+Saint George, Utah. The little bottle, shown in Fig. 255, is remarkable
+in having a subtriangular shape, three nearly symmetrical nodes
+occurring about the most expanded part of the body. An interesting
+series of similar vessels has been obtained from Tusayan, some of which
+are decidedly askoidal in shape.
+
+[Illustration: FIG. 255.--Bottle from the tumulus at Saint
+George.--1/2.]
+
+Similar to the last in general outline is the curious vessel given in
+Fig. 256. It was obtained in Southern Utah, and is now in possession of
+the Salt Lake City Museum. The three nodes are very prominent and curve
+upwards at the points like horns. An upright handle is attached to the
+side of the neck.
+
+[Illustration: FIG. 256.--Vase from the tumulus at Saint George.--1/2.]
+
+A large bottle-shaped vessel from the same locality is illustrated in
+Fig. 257. The neck is short and widens rapidly below. The body is large
+and globular, and is furnished with two small perforated ears placed at
+the sides near the top. There are a number of similar examples in the
+collection from this place. We have also a number of handled cups,
+mostly with globular bodies and wide apertures. All are quite plain.
+
+[Illustration: FIG. 257.--Vase from the tumulus at Saint George.--1/3.]
+
+Examples from this and other sections could be multiplied indefinitely,
+but since the forms are all repeated in more highly finished pieces it
+is needless to present them.
+
+
+PAINTED WARE.
+
+PRELIMINARY REMARKS.--It is with a peculiar sense of delight that we
+enter upon the study of a group of art products so full of new and
+interesting features. Every object of antiquity has its charm for us,
+but there is an especial fascination about the works of a people like
+the "cliff-dwellers," whose long forgotten history takes the form of a
+romance in our imaginations. In the study of these relics we have the
+additional charm engendered by a contemplation of new forms of beauty,
+and we follow the stages of their evolution from the initial steps to
+the end with ever increasing zest.
+
+The ceramic art of classic and oriental countries has exerted a powerful
+influence upon existing culture, and is therefore much nearer the heart
+of the general student than the work of the American races; but it will
+not do for science to underrate the value of a study of the latter. Its
+thorough examination cannot fail to furnish many illustrations of the
+methods by which arts grow and races advance in culture, and,
+supplemented by a study of the art of the modern peoples, it will serve
+to illustrate the interesting phenomena attending the contact of widely
+separated grades of art. In the introductory pages I have considered
+many of the technical questions of construction and ornamentation.
+Before entering upon detailed descriptions of the specimens, I desire to
+give a brief review of the subject of painted decoration.
+
+COLOR OF DESIGNS.--The colors employed are doubtless generally of a
+mineral character, although carbonaceous matter derived directly from
+vegetable sources may have been used to some extent. They comprised
+white, black, red, and various shades of brown, and were applied to the
+surfaces of the vessels by means of brushes not inferior in efficiency
+to those employed by the potters of more enlightened races.
+
+EXECUTION.--The technical skill of the artist has not generally been of
+a high order, although examples are found that indicate a trained eye
+and a skilled hand. The designs are painted upon the show spaces of the
+vessels, which have been tinted and polished with especial reference to
+their reception. Large apertured vessels, such as dishes, cups, and
+bowls, are decorated chiefly upon the inner surface. The design often
+occupies only a band about the rim, but not infrequently covers the
+entire inner surface. High or incurved rims have in some cases received
+figures upon the exterior margin.
+
+Vessels with constricted necks have exterior decorations only. The
+placing of the designs was governed, to a great extent, by the contour
+of the vessel, although there was no fixed rule. The grouping of the
+figures is possibly a little more irregular in the more archaic forms,
+but in nearly all cases there is a tendency toward arrangement in zones
+horizontally encircling the vessel. This feature is suggestive of the
+use of the wheel or of the influence of wheel-made decoration; but
+there is probably a pre-ceramic reason for this peculiarity, to be
+sought in the decoration of antecedent vessels of more pronounced
+surface or constructional characters, such as basketry. This arrangement
+may also be attributed in a measure to the conformation of the vessel
+decorated. It will be observed that generally the neck furnishes the
+space for one zone of devices and the body that for another, while the
+shoulder, where wide or particularly accentuated, suggests the
+introduction of a third. In vessels of irregular form the figures take
+such positions as happen to have been suggested to the decorator by the
+available spaces, by the demands of superstition, or the dictates of
+fancy pure and simple.
+
+It appears that the artist never worked in a hap-hazard manner, yet
+never by rule or by pattern. The conception of the intended design was
+well formed in the mind, and the decoration commenced with a thorough
+understanding of the requirements of the vessel under treatment and of
+the effect of each added line upon the complete result. The vessels,
+being for the most part free-hand products, are necessarily varied in
+form and proportion, and the mobility of method in decoration is
+therefore a necessary as well as a natural condition. In accommodating
+the ordinary geometric figures to the variously curved and uneven
+surfaces, there were no erasures and, apparently, no embarrassments.
+This feature of the art shows it to be a native and spontaneous
+growth--the untrammeled working out of traditional conceptions by native
+gifts.
+
+STAGES OF ORNAMENT.--In the transmission of a nation's art inheritance
+from generation to generation, all the original forms of ornament
+undergo changes by alterations, eliminations, or additions. At the end
+of a long period we find the style of decoration so modified as to be
+hardly recognizable as the work of the same people; yet rapid changes
+would not occur in the uninterrupted course of evolution, for there is a
+wonderful stability about the arts, institutions, and beliefs of
+primitive races. Change of environment has a decided tendency to modify,
+and contact with other peoples, especially if of a high grade of
+culture, is liable to revolutionize the whole character of the art. The
+manufactures of our modern tribes show abundant evidence of the
+demoralizing effect upon native art of contact with the whites. There
+are no such features in the prehistoric art.
+
+_First stage._--In the early stages of art the elements used in
+embellishment are greatly non-ideographic, and the forms of expression
+are chiefly geometric. The elements or motives are limited in number and
+are in a measure common to all archaic art. They embrace dots, straight
+lines, and various angular and curvilinear figures, which in their
+higher stages become checkers, zigzags, chevrons, complex forms of
+meanders, fretted figures, and scrolls, with an infinite variety of
+combination and detail. At the same time there is no confusion. The
+processes by which the parts are segregated are as well regulated as are
+the processes of natural growth. This phase of decoration seems to be
+the prevailing one in the earlier stages of Pueblo art.
+
+_Second stage._--A second phase or stage is marked by the free
+introduction of ideographic devices of pictorial origin into decoration.
+These are drawn, to a great extent, from that most prolific source of
+artistic conceptions, mythology. This stage is the second in Pueblo art.
+The period or stage of culture at which such elements are introduced
+varies with different peoples. It is possible that ideographic and
+non-ideographic devices may enter art simultaneously. This is certainly
+to be expected in the ceramic art, which comes into existence rather
+late in the course of progress.
+
+_Third stage._--In strong contrast with the preceding stages is the
+state of modern Pueblo decoration. Contact with the whites has led to
+the introduction of life forms and varied pictorial delineations. These
+conditions belong to a stage in advance of the position reached in the
+natural course of growth. Ideographic, non-ideographic, and purely
+pictorial characters are combined in the most heterogeneous manner in
+the decoration of a single vessel. The decorator has ceased to work
+under the guidance of his instincts as a rule unerring, and now, like
+the mass of his more highly civilized brethren, he must grope in
+darkness until culture shall come to his aid with canyons of taste--the
+product of intellect.
+
+CLASSIFICATION OF WARE.--In the treatment of this great group, or rather
+collection of groups, of pottery a scheme of classification is the first
+thing to be considered. In glancing over the field we notice that a
+whitish ware, having a certain range of material, finish, form, and
+decoration, is very widely distributed, that, in fact, it is found over
+nearly the entire area known to have been occupied by the Pueblo tribes.
+We find, however, that within this area there are varieties of this
+particular group distinguished by more or less pronounced peculiarities
+of color, form, and ornament, resulting from dissimilarity of
+environment rather than from differences in time, race, or method of
+construction. This group is associated, in nearly every locality, with
+the archaic coiled ware, and together they are especially typical of the
+first great period of Pueblo art. Its makers were the builders of the
+cliff dwellings, of the round towers, and of countless stone pueblos.
+
+Distinct from the preceding, and apparently occupying an intermediate
+place in time and culture between the primitive and the recent wares, we
+have a number of pretty well defined groups. At least two of these are
+peculiar to the ancient province of Tusayan. The vessels of one of these
+groups are noticeable for their rounded symmetrical bodies, their finely
+textured paste, and their delicate creamy shades of color. The designs
+are well executed and display unusual refinement of taste.
+
+Another, and probably the more important variety, is characterized,
+first, by peculiarities of form, the body being doubly conical and the
+bottom deeply indented; second, by richness of color, orange and yellow
+tints prevailing; and, third, by the striking individuality and
+remarkable execution of the painted designs.
+
+In the valley of the Little Colorado and extending southward to the
+Gila, we find remnants of a group of highly colored pottery differing
+from the preceding and, in many respects, from the widely distributed
+red ware of the north, specimens of which occur in connection with the
+white ware. The surfaces are painted red and profusely decorated in
+white, black, and red lines and figures.
+
+Still another variety is obtained from this region. As indicated by
+collections from Saint John and Springerville, it consists greatly of
+bowls, the colors, forms, and decorations having decided points of
+resemblance to corresponding features of the cream-colored ware of
+ancient Tusayan. There are still other groups, probably of intermediary
+periods, whose limits are not yet well defined, examples of which are
+found in possession of the Pueblo Indians.
+
+At Pecos the art was practiced long after the advent of the conquerors,
+and later specimens show the archaic decorative ideas worked out in
+Spanish glaze. The deserted pueblos of the Rio Grande furnish antique
+forms that show wide distinctions from the ancient wares of the west.
+Another variety peculiar to the southwest shows indications of having
+been carried down to the present in the work of the Indians of the Lower
+Colorado Valley. Each of these groups and such new ones as may be
+discovered will be made the subject of careful study.
+
+The remainder of this paper will be devoted to a single group--the first
+mentioned in the preceding list.
+
+
+WHITE WARE.
+
+The coiled ware has already been presented in some detail. Most nearly
+related to it in material, form, color, and distribution is the archaic
+white ware, the pottery _par excellance_ of the "Cliff-Dwellers." It is
+easily recognized, even from small fragments, whether found in the
+valley of the Colorado, of the Rio Grande, or of the Gila, although each
+locality has its slight peculiarities of texture, tint, shape, and
+ornamentation. As a rule the material is a fine-grained clay, tempered
+with fine sand, the surfaces of the vessels being coated with a thin
+wash of very fine white clay. The ware is nearly always well baked and
+hard, breaking with a saccharoidal, rarely with a conchoidal, fracture.
+The surface is, as a rule, well polished, but often slightly undulating.
+The color of the paste is generally gray within the mass and white upon
+the surface. Associated with the white ware in most localities we find a
+small percentage of red ware nearly identical in all save color with the
+white ware.
+
+The forms are comparatively few and simple, a full, well-rounded body,
+as with the coiled ware, being a strong characteristic. The
+ornamentation is generally in black paint, exceptionally in red and
+white, and consists to a great extent of geometric figures, often rather
+rudely drawn. Very rarely we observe an attempt to delineate a life
+form--human or animal, never vegetable.
+
+CLASSIFICATION BY FORM.--The ware of each province is conveniently
+presented in form-groups, beginning with the more simple shapes and
+advancing to the more complex.
+
+BOWLS.--Bowl-shaped vessels have been in great favor with all the Pueblo
+peoples, and in ancient times, especially in the north and west,
+predominated very decidedly over all other forms. This is naturally a
+favorite shape with primitive peoples, as it is the most simple and
+probably that first developed. A long experience would be necessary for
+the evolution of narrow-necked or complex forms.
+
+Our collections contain many examples of ancient bowls, perfectly
+preserved, but if this were not the case the shapes are so simple that
+it would be an easy matter to make satisfactory restorations from
+fragments. There is considerable diversity of outline, yet all may be
+conveniently classed under two heads: the hemispherical and the
+heart-shaped. The former are much more plentiful and were probably the
+favorite food vessels of the people. As a rule they are plain segments
+of spheres. The rims are, in rare cases, oval in outline, and a few are
+elongated at the ends.
+
+Heart-shaped bowls are characterized by a somewhat conical base and a
+deeply incurved rim, sometimes much depressed about the contracted
+mouth. The forms are often elegant, and the painted designs are
+generally well executed and pleasing to the eye.
+
+OLLAS.--Between bowls and pot-shaped vases or ollas there is but a
+step--the addition of an upright or recurving band forming a neck. In
+vessels of the latter class the body is almost universally globular,
+often tapering a very little below. Occasionally there is a slight
+flattening of the bottom and very rarely a concavity. The neck is seldom
+high, but varies greatly in size and shape. These vessels correspond to
+the water vases of the modern tribes.
+
+BOTTLES.--Bottle-shaped vessels are very widely distributed. They differ
+from the ollas in one respect only--the necks are narrower and higher.
+They are rarely flattened, as are the modern Pueblo bottles known as
+canteens.
+
+HANDLED VESSELS.--Smaller vessels of nearly all shapes are at times
+furnished with handles. The origin of certain forms of these has
+received attention in the introductory pages. They vary in style with
+the shape of the vessel to which they are attached. Bowls exhibit two
+well-marked varieties--a cylindrical form and a simple loop. Those of
+the former often imitate the handle-like neck of a gourd, and archaic
+specimens from various parts of the Pueblo province are so literally
+copied that the small curved stem of the gourd is represented. This
+feature in some cases becomes a loop at the end of the handle, serving
+to suspend the vessel, like the ring attached to our dipper handles.
+Specimens from the headwaters of the Colorado Chiquito have the ends of
+the handles modeled to represent the head of a serpents or other
+creatures. A loop sometimes takes the place of the cylindrical handle,
+and is attached to the side of the bowl in a vertical or a horizontal
+position. It may be long or short, wide or narrow, simple or compound,
+and is not always evenly curved. In certain forms of cups the
+vertically-placed loop occupies the whole length of the vessel,
+suggesting well-known forms of the beer-mug.
+
+High-necked cups, vases, and bottles have rather long, vertically-placed
+loops, giving a pitcher-like effect. These may consist of two or more
+strands placed side by side or twisted together. Rarely an animal form
+is imitated, the fore feet of the creature resting upon the rim of the
+vessel and the hind feet upon the shoulder. Perforated knobs often take
+the place of the loops, and unperforated nodes and projections of varied
+shapes are not unusual. Some of these, placed upon the upper part of the
+neck, represent the heads of animals.
+
+A novel handle is sometimes seen in the ancient vases of Cibola and
+Tusayan. While the clay was still soft a deep abrupt indentation was
+made in the lower part of the vessel, sufficiently large to admit the
+ends of two or three fingers, thus giving a hold that facilitated the
+handling of the vessel. I have seen no looped handles arching the
+aperture of the vessel, as in the modern meal baskets of the Zunis.
+
+ECCENTRIC AND LIFE FORMS.--The simple potter of early Pueblo times seems
+barely to have reached the period of eccentric and compound forms, and
+animal and grotesque shapes, so common in the pottery of the
+mound-builders of the Mississippi valley, the Mexicans, and the
+Peruvians, are of rather rare occurrence. The last section of this paper
+is devoted to life and eccentric forms.
+
+For convenience of treatment, the following illustrations will be
+presented by districts, beginning at the northwest.
+
+
+ILLUSTRATIONS.
+
+
+DISTRICT OF THE RIO VIRGEN.
+
+Under the head of coiled pottery I have given a detailed description of
+the remarkable dwelling-site tumulus at Saint George, Utah, which has
+furnished such a complete set of the fictile works of the cliff-house
+potter, the first collection of importance known to have been made by
+exhumation. I will now present the painted ware and point out its very
+interesting local peculiarities. All the ordinary shapes are present
+excepting the olla. Vessels of this form are all of the plain or coiled
+varieties. The paste is gray and the surface color is usually a light
+gray. A small percentage of the vessels are painted or stained red. The
+designs are all executed in black, and are for the most part nicely
+drawn. They differ slightly in a number of ways from those of other
+districts, their relationships being, with a few exceptions, more
+intimate with the ware of the Rio San Juan. A characteristic of this
+pottery is the thinness of the walls and the hardness and tenacity of
+the paste. In form a striking feature is the occurrence of bowls of oval
+form, and in one case such a bowl has sides cut down or scalloped and
+ends prolonged. The oval form is sometimes seen in other districts, and
+the elongation of portions of the rim is a feature especially
+characteristic of the Pima and Mojave work of to-day.
+
+BOWLS.--I have already shown in Fig. 244 a small bowl from this
+locality, in which a coiled exterior is combined with a polished and
+painted interior. This is an unusual combination, the exterior commonly
+being plain. The following examples are grouped, as far as possible,
+according to their painted designs. A usual and very widely distributed
+decoration consists of a belt of figures encircling the inner margin. In
+its simplest condition it is only a single broad line, but more
+frequently it is elaborated into a tasteful border so wide as to leave
+only a small circle of the plain surface in the bottom of the vessel.
+The figures present much variety of effect, but combine only a few
+elements or ideas, as the following figures will amply show. All are
+rectilinear, or as nearly so as the conformation of the vessels will
+permit. No example of exterior decoration occurs. As my illustrations
+are necessarily limited to a few pieces, those having the simpler
+combinations of lines are omitted, and such only are given as exhibit
+the decorations of this district to the best advantage.
+
+The bowl shown in Fig. 258 may be regarded as a typical example.
+
+[Illustration: FIG. 258.--Bowl: Tumulus at Saint George.--1/3.]
+
+It is a plain hemisphere of gray clay, with roughly finished exterior
+and whitened and polished interior surface. It is eight inches in
+diameter and nearly four inches deep. The painted design occupies a band
+about two inches wide, and consists of two broad bordering lines
+inclosing meandered lines. The triangular interspaces are occupied by
+serrate figures, giving to the whole ornament an appearance
+characteristic of textile borders.
+
+Two small bowls have borders in which the meandered lines are in the
+natural color of the ground, the triangular spaces being filled in with
+black. In one case the effect of the guilloche is given in the same
+manner.
+
+Few vessels exhibit a more characteristic example of the ornamentation
+of this ware than that given in Fig. 259. It is identical in surface
+finish with the last, excepting that the exterior has been painted red.
+An exceptional feature may be noticed in the shaping of the rim, which
+has been brought to a sharp edge.
+
+[Illustration: FIG. 259.--Bowl: Tumulus at Saint George.--1/3.]
+
+The design occupies the usual space, and consists of a very elaborately
+meandered or fretted line, which is so involved that the eye follows it
+with difficulty. Four units of the combination complete the circuit of
+the vessel. In another specimen, which also has the design divided into
+four parts, the lower line of each part is made straight, by which means
+the space left in the bottom of the vessel is square instead of round,
+as in the other cases.
+
+[Illustration: FIG. 260.--Bowl: Tumulus at Saint George.--1/2.]
+
+Another variety of decoration, quite characteristic of this region,
+consists of a band of fret-work dashed boldly across the inner surface
+of the bowl, giving a most striking result. These figures appear to be
+fragments of continuous borders, taken from their proper connections and
+made to do duty on a surface that had ordinarily been left without
+decoration. This observation has led to the proper interpretation of
+many enigmatic combinations at first thought to have especial
+application and significance.
+
+[Illustration: FIG. 261.--Painted device.]
+
+The handsome shallow bowl presented in Fig. 260 has been badly broken
+and carefully mended while still in the hands of its aboriginal owners.
+It is ten and one-half inches in diameter, and only three and
+three-fourths inches in depth. The surface finish is identical with that
+of the preceding example. The design, which consists of a single segment
+of a chain of fret-work, is drawn in broad, steady lines. Fig. 261.
+
+Not unlike the last in its leading features is the vessel illustrated in
+Fig. 262. The label indicates that it was collected at Kanab, Utah, a
+Mormon village ninety miles east of Saint George. The design is carried
+over the whole inner surface, and is somewhat difficult to analyze.
+There is little doubt, however, that it consists of portions of fretted
+or meandered patterns arbitrarily selected from basketry or other
+geometrically embellished articles, and applied to this use. The
+complete device is shown in Fig. 263.
+
+[Illustration: FIG. 262.--Bowl from Kanab.--1/4.]
+
+The following examples are unique in their styles of decoration. The
+first, Fig. 264, resembles the preceding save in its painted device.
+Like a few others, it has been badly fractured and carefully mended by
+its Indian owners. It was obtained also at Kanab, and is nine inches in
+diameter by four and one-half in height. The design is cruciform in
+arrangement, the four parts being joined in pairs by connecting lines.
+It exhibits some very unusual features (Fig. 265), and we are led to
+suspect that it may in some way have been significant, or at least that
+it is a copy of some emblematic device.
+
+[Illustration: FIG. 263.--Painted device.]
+
+The almost total absence of life forms in the art of the primitive
+Pueblos has often been remarked. One example only has been discovered in
+this region. This occurs in a subject painted on the inner surface of a
+rather rude, oblong, bowl, from the Saint George tumulus, Fig. 266. A
+checkered belt in black extends longitudinally across the bowl. At the
+sides of this, near the middle, are two human figures, executed in the
+most primitive style, as shown in Fig. 267. Their angular forms are
+indicative of textile influence. The middle part of the bowl is broken
+out, so that the feet of one figure and the head of the other are lost.
+
+[Illustration: FIG. 264.--Bowl from Kanab.--1/3.]
+
+[Illustration: FIG. 265.--Painted device.]
+
+These figures resemble those painted upon and picked in the rocks of the
+pueblo region, and the triangular head is sometimes seen in the ceramic
+decoration of modern tribes. A bowl with similar figures was brought
+from Tusayan by Mr. Mindeleff. It is illustrated in Fig. 268.
+
+[Illustration: FIG. 266.--Bowl with human figures: Tumulus at Saint
+George.--1/3.]
+
+[Illustration: FIG. 267.--Painted design.]
+
+[Illustration: FIG. 268.--Bowl with human figures: Province of
+Tusayan.--1/3.]
+
+Among the many fine things from the mound at Saint George are a few red
+bowls. They were made of a slightly reddish clay, or the paste has
+reddened uniformly in burning, and a slip or wash of bright red color
+has been applied to the surface. The designs are painted in black, but
+differ in style from any of the preceding. This work corresponds very
+closely indeed with the decorations of similar vessels from the Little
+Colorado. The marked peculiarities of the ornamentation and color of
+these bowls give rise to the idea that they may have been intended for
+some especial service of a ceremonial character. It is not impossible,
+however, that these vessels reached very distant localities by means of
+trade. A representative example is shown in Fig. 269. The broad interior
+band of ornament is divided into four compartments by vertical panels of
+reticulated lines. The compartments are occupied by groups of
+disconnected rectangular fret-links on a ground of oblique stripes.
+
+[Illustration: FIG. 269.--Red bowl: Tumulus at Saint George.--1/3.]
+
+The heart-shaped bowls previously mentioned include medium sized and
+small vases, with slightly conical bases, distended shoulders, and much
+constricted, often depressed, apertures. They are of very general
+distribution, but like the hemispherical red bowls are rarely found in
+numbers. It is probable that they were devoted to ceremonial rather than
+to domestic uses. The shapes are generally pleasing to the eye; the
+finish is exceptionally fine, and the designs, though simple, are
+applied with more than usual care.
+
+A very good specimen from the tumulus at Saint George is illustrated in
+Fig. 270.
+
+[Illustration: FIG. 270.--Heart-shaped bowl of red ware: Tumulus at
+Saint George.--1/3.]
+
+The bottom in this case is slightly flattened, and the incurved lip but
+slightly sunken. The paste is a light red and the surface has received
+a coat of bright red color. The design is in black, is extremely simple,
+and rather carelessly drawn. The principal figure seems to be a very
+simple form of the favorite device--the meander.
+
+A large fine bowl much like the preceding, and obtained from the same
+locality, is owned by the Salt Lake City Museum. The design is of the
+same class, but very much more elaborate. Another example from Saint
+George is smaller and yellowish-gray in color, with figures in red and
+black. At Kanab I picked up fragments of a small vessel, highly polished
+and of a rich, brownish-purple color, the designs being in black.
+Another fragment showed designs in bright red and black upon a yellowish
+ground.
+
+OLLAS.--I have already called attention to the fact, that the Saint
+George tumulus furnished no example of ollas or large-necked vases of
+the painted variety, vessels of this class being plain or of the coiled
+ware. In the vicinity, however, I collected fragments of the white
+painted pottery derived from large vessels of this class, very much like
+the large, handsome vessels of ancient Tusayan. A number of such
+fragments come from the vicinity of Kanab. Plain vessels of this shape
+were obtained from the tumulus at Saint George. They are identical in
+every other respect, save the presence of designs, with the painted
+pottery. Some have received a wash of red, while it is not improbable
+that others have lost their color or decorative figures by wear or
+weather.
+
+[Illustration: FIG. 271.--Red pitcher: Tumulus at Saint George.--1/3.]
+
+HANDLED VESSELS.--From the tumulus at Saint George we have a very
+excellent example of pitcher, which is shown in Fig. 271. The shape is
+not quite satisfactory, the neck being clumsy, but the workmanship is
+exceptionally good. The surface is even and well polished and the color
+is a strong red. The painted design in black, upon the red ground,
+consists of a number of meandered lines, to which are added at intervals
+small dentate figures, as seen in the cut.
+
+
+DISTRICT OF THE RIO SAN JUAN.
+
+In a number of ways the valley of the Rio San Juan possesses unusual
+interest to the antiquarian. Until within the latter half of the
+nineteenth century, it remained wholly unknown. The early Spanish
+expeditions are not known to have penetrated its secluded precincts, and
+its cliff-houses, its ruined pueblos and curious towers have been so
+long deserted that it is doubtful whether even a tradition of their
+occupation has been preserved, either by the nomadic tribes of the
+district or by the modern pueblos of the south. Certain it is that no
+foreign hand has influenced the art of this district, and no Spanish
+adventurer has left traces of his presence.
+
+The ceramic remains are more uniform in character and apparently more
+archaic in decoration than those of any other district. They belong
+almost exclusively to two varieties, the coiled ware and the white ware
+with black figures. The former has already been described, the latter
+must now pass under review.
+
+It is unfortunate that so few entire vessels of the painted pottery have
+been found in this region. The fragments, however, are very plentiful,
+and by proper study of these a great deal can be done to restore the
+various forms of vessels. In my paper upon this region, in the Annual
+Report of the Survey of the Territories for 1876, I gave a pretty
+careful review of the material then in hand. Finding that in very few
+cases were there whole vessels representing the achievements of the
+ancient potter and decorator, I presented a number of restorations from
+the better class of fragments. This was done in a way that could lead to
+no serious misapprehension, as the fragments used were always clearly
+indicated. The expert need never go astray in his estimate of the
+character of the vessel to which given pieces belonged, and his
+restoration from them gives a completeness of conception to the reader
+or student at a distance that could never be acquired by the most
+careful study of illustrations of the fragments. The fragments are
+exceedingly plentiful about camp sites and ruins, and fairly whiten the
+debris slopes beneath the houses in the cliffs. I found my mind so
+diverted by these fascinating relics that it was often difficult to keep
+the geologic problems of the district properly in view.
+
+No tumuli or burial places were observed, but I suspect that careful
+search will bring them to light, and that they will yield much richer
+results than the scattered fragments of the surface. The district now
+under consideration comprises the entire drainage of the Rio San Juan.
+It includes the well-known valleys of the Animas, the La Plata, the
+Mancos, the McElmel, and the Montezuma on the north, and the Chaco and
+the de Chelly on the south. On the north I include also a portion of the
+valley of the Rio Dolores. The center of the district will not be very
+far distant from the corner stone of the four political divisions of
+Colorado, New Mexico, Arizona, and Utah.
+
+The collections from the valley of the Rio de Chelly, one of the richest
+sections of this district, are very badly scattered, and the vessels
+cannot be identified. Many fine things have been carried away to the
+south and are now in the collections from Cibola and Tusayan; while
+others have been brought east by the various expeditions without a
+proper record of the locality. This is to be regretted, as it makes it
+impossible to study the shades of distinction between the wares of
+neighboring localities.
+
+Bowls were very numerous and greatly varied in size, finish, and
+ornamentation. Many have received painted designs both inside and out.
+This occurs with those having nearly upright rims. Handled-cups of
+hemispherical shape are also common, but the heart-shaped bowls are of
+rare occurrence. Bottle-shaped vessels and ollas have not, as in the
+south, formed a prominent feature. For some of the latter very neat lids
+have been made, the rims being shaped for their reception. Upright
+vessels with handles are common. Eccentric or animal forms have not been
+found.
+
+BOWLS.--The arrangement of the designs upon the bowls is far from
+uniform. In a great majority of cases, however, they occupy belts
+encircling the inner and outer margin. The fragmentary condition of the
+remains makes it impossible to restore designs that covered the entire
+surface of the vessels. The decorations comprise nearly all the usual
+elements and motives. In Fig. 272 we have a small bowl from Montezuma
+Canyon, Utah. In form it is a deep hemisphere. The design is upon the
+interior surface, and consists of a broad band bordered by heavy lines
+and filled in with vertical lines. The rim is ornamented with seven
+pairs of dots. Fig. 273 is restored from a fragment obtained in
+southwest Colorado. It shows an interior ornament consisting of a
+well-drawn chain of volutes.
+
+[Illustration: FIG. 272.--Bowl: Montezuma Canyon.--1/3.]
+
+[Illustration: FIG. 273.--Bowl: Rio San Juan--1/3.]
+
+Many of the bowls were large and handsomely finished, both surfaces
+being whitened and polished. A superior example is given in Fig. 274.
+Neat borders have been applied to both interior and exterior surfaces.
+They are suggestive of patterns produced through the technique of
+textile products, and consist of interrupted forms of the meander. I
+have restored from small fragments in this and other cases, for the
+reason that no large fragments of the finer vessels are preserved.
+
+[Illustration: FIG. 274.--Bowl: Rio San Juan.]
+
+[Illustration: FIG. 275.--Bowl: Rio San Juan.]
+
+Fig. 275 illustrates a very pleasing vessel. It is hemispherical, and
+about eleven inches in diameter. A narrow zone of ornament based upon
+the meander encircles the exterior margin of the rim, and a broad,
+carefully drawn design, consisting of two parallel meanders, Fig. 276,
+occupies the interior. It will be seen that the meandered fillets are in
+white, and the bordering stripes and the upper and lower rows of
+triangular interspaces are in solid black, while the median band and its
+connecting triangles are obliquely striped. It should be noticed that
+the oblique portions of the meanders are indented or stepped. This is a
+very usual occurrence in these decorations, and may be taken as a pretty
+decided indication that they were copied, more or less directly, from
+textile ornamentation in which all oblique lines are necessarily
+stepped.
+
+[Illustration: FIG. 276.--Painted design.]
+
+[Illustration: FIGS. 277 and 278.--Handled cups: Montezuma Canyon.--1/3.]
+
+HANDLED CUPS.--Small cups were generally furnished with handles and
+probably served as ladles and spoons. An entire specimen is rarely
+found. Two are illustrated in Figs. 277 and 278. They were obtained by
+W. H. Jackson from the ruins of Montezuma Canyon. The handles of these
+vessels vary a great deal; some are flat, while others are round,
+consisting either of a single or a looped roll of clay; some are hollow,
+resembling the handles of gourds, and a few are made of twisted fillets.
+This latter form belongs generally to upright cups.
+
+[Illustration: FIG. 279.--Vase: Rio San Juan.]
+
+OLLAS.--It is quite impossible to make satisfactory restorations of the
+vases or ollas from the small fragments recovered. The evidence is
+sufficient, however, to show that vessels of this class were numerous,
+and often large. I have made two restorations of small examples
+belonging to this class, of which there are fragments showing the neck
+and upper part of the bodies. The bottoms are so universally rounded
+that I have drawn full globular shapes; Figs. 279 and 280. The most
+striking character of Fig. 279 is the shape of the rim, which is
+fashioned for the reception of a lid. The same feature is noticed in a
+small vessel obtained at Zuni.
+
+[Illustration: FIG. 280.--Vase: Rio San Juan.]
+
+Examples of lids from the San Juan Valley are shown in Figs. 281 and
+282. They were evidently designed for vessels of the class just
+described. The specimen given in Fig. 281 is neatly finished and
+embellished, and the quality of the ware is very superior.
+
+[Illustration: FIG. 281.--Vase lid: Rio San Juan.]
+
+[Illustration: FIG. 282.--Vase lid: Rio San Juan.]
+
+HANDLED VASES.--Many small vessels were furnished with handles, some
+horizontal and others vertical. Of the first variety is the example
+shown in Fig. 283. The fragment was obtained from the great ruin at
+"Aztec Springs," Colorado. It shows a small, symmetrical vessel, with
+black lines and devices. The handle, which probably had a companion on
+the opposite side, is strong and neatly made.
+
+Figure 284 represents a very pretty little vessel, brought by Mr. W. H.
+Jackson from the Canyon de Chelly. It is of the usual gray polished ware,
+the base being somewhat roughened by use. The design consists of
+encircling lines combined with a belt of disconnected triangular hooks
+or fret-links.
+
+[Illustration: FIG. 283.--Handled bottle: Rio San Juan.]
+
+Handled mugs with round bodies and wide high necks were in great favor
+with the San Juan potter. There are but two entire specimens in the
+collection. These were obtained by Capt. Moss, of Parrott, who stated
+that they, with other relics, had been exhumed from a grave in the San
+Juan Valley. Both are comparatively rude in construction, and seem to be
+considerably weathered. The one shown in Fig. 285 is decorated with a
+classic meander which encircles the body of the vessel. The other,
+illustrated in Fig. 286, has the upper part covered with simple figures
+resembling bird tracks.
+
+Among the most novel works of the ancient potter are the flat-bottomed
+mugs with upright sides, and with vertical handles which extend the
+whole length of the vessel, giving very much the appearance of a German
+beer mug. For a long time it was thought improbable that a vessel of
+this character should be the _bona fide_ work of the cliff-dweller, for
+his status of culture seemed to call for globular bodies and rounded
+bases. But so many examples have been found that there is no longer room
+for doubt.
+
+[Illustration: FIG. 284.--Small bottle: Rio San Juan.--1/3.]
+
+[Illustration: FIG. 285.--Handled mug: Rio San Juan.--1/3.]
+
+[Illustration: FIG. 286.--Handled mug: Rio San Juan.--1/3.]
+
+[Illustration: FIG. 287.--Handled mug: Rio San Juan.--1/2.]
+
+[Illustration: FIG. 288.--Handled mug: Southern Utah.--1/2.]
+
+Fig. 287 is restored from a large fragment brought from the San Juan
+Valley. Its walls widen a little below, and the very pretty ornament is
+somewhat unevenly applied. The handle is made of a double rope of clay,
+and extends from the lip to the base. The example shown in Fig. 288 was
+obtained in the vicinity of Provo, Utah, by Capt. G. M. Wheeler's
+expedition. It is so like those from the San Juan that I place it here
+for comparison. It is a little wider toward the base, and is nearly
+symmetrical. It is four inches in height and the same in diameter. A
+very similar vessel, probably from the Province of Tusayan, is found in
+the Keam collection.
+
+
+DISTRICT OF THE COLORADO CHIQUITO.
+
+The collection from this district, which includes the ancient provinces
+of Cibola and Tusayan, is already very large, and much more material
+will yet accrue, for pottery fanciers have taken up the search, and both
+whites and Indians are on the _qui vive_ for additional examples of the
+artistic and showy specimens.
+
+The National Museum has procured many fine pieces through the agents of
+the Bureau of Ethnology, and the collection of Mr. Keam is especially
+rich in the pottery of Tusayan. Some of the finer examples of the latter
+collection are selected for illustration.
+
+It seems unaccountable that such a large number of the ancient vessels
+should be preserved, and that too in a country where vessels are
+constantly in demand. Many have been picked up by the Pueblo tribes and
+laid away for especial uses or possibly as heirlooms; but many of those
+secured by recent collectors were obtained from the sites of ancient
+settlements, from burial places, and from caves, and brought directly to
+the market so recently made for them.
+
+There can be no doubt that many of the specimens accredited to this
+district have come from neighboring or distant provinces; yet within the
+valley of the Little Colorado there are such wide variations from
+predominant types that foreign pieces cannot be readily detected. Many
+of the finer pieces of the white ware are rather new looking and show
+very superior taste and skill. The indications are that the manufacture
+of this white ware was kept up in portions of this district down to a
+comparatively recent date, possibly until the coming of the Europeans.
+It will probably be impossible to determine just why and how the archaic
+types gave way to the transitional and modern. It may be found, however,
+that the influence of the Spaniard was a factor in the change.
+
+Beside the archaic white ware and its closely associated red ware the
+province of Tusayan furnishes two or three distinct varieties, all of
+which, unlike that ware, are apparently confined to very limited
+districts. These have been briefly described on a preceding page.
+
+Many pieces of the white ware are of large size and of elegant shape and
+finish. Some of the ollas and bottles are masterpieces of the art. The
+texture of the paste is fine and the color is often quite white. The
+designs are uniformly in black and are superior in execution and
+conception to those of the north.
+
+BOWLS.--The bowls are very generally hemispherical. The finish, like
+that of the pottery of the San Juan and the Rio Virgen, is rather rough
+on the exterior, and whitened and polished on the inner surface. The
+painted figures are confined to the interior, and are highly elaborated
+combinations of the usual geometric motives. They are generally made up
+of four sections of double-zoned borders such as occur on the exterior
+of vases, cut out, as it were, and fitted into the bowl in a cruciform
+arrangement, a plain square remaining in the bottom of the vessel. See
+Fig. 291. There are, however, many examples which consist of two
+encircling zones of ornament identical in style and arrangement with
+examples from the Rio Virgen, Figs. 230 and 231, and from the Rio San
+Juan, Figs. 248, 259, and 274.
+
+In Fig. 289 we have a representative example of the bowls of ancient
+Tusayan. The outer surface is rudely trowel-finished, but the inside is
+well polished. The painted design consists of four parts arranged about
+a central square. Each part comprises a number of alternate bands of
+straight and zigzag lines.
+
+[Illustration: FIG. 289.--Bowl: Province of Tusayan.--1/3.]
+
+The superb bowl presented in Fig. 290 is nearly fifteen inches in
+diameter and seven inches deep. It is hemispherical but not quite
+symmetrical. Having been broken, it was mended by its owners after their
+aboriginal fashion. Two pairs of holes have been bored on opposite sides
+of a long fracture for the insertion of thongs. Other perforations have
+been commenced but do not penetrate the vessel. The walls are upwards of
+one-eighth of an inch in thickness near the rim, but are less than that
+throughout the body of the bowl. The paste is of a dark gray color,
+speckled with ashy-white particles, which may be pulverized potsherds.
+The interior surface is finished with a slip of white clay and has
+received a fair degree of polish. The exterior is only trowel-finished
+and is much scarified by use. The interior is embellished with a very
+elaborate design, which is given with all possible accuracy in a plain
+projection, in Fig. 291. The work does not exhibit a great deal of skill
+or neatness in execution, but the whole design is carefully made out and
+well adjusted to the deeply concave surface. An analysis of this figure
+is easily given. It is a cruciform arrangement of four portions of
+rather elaborate double borders. Each part consists of two parallel
+bands, a principal and a subordinate, separated by parallel lines and
+taking the relation to each other always noticed in the two belts of
+designs painted upon the exterior of vases. Two of the sections are
+alike. The others differ from these and from each other.
+
+[Illustration: FIG. 290.--Bowl: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 291.--Painted design.]
+
+One figure, consisting of three linked volutes, is defined in white by
+painting around it a black ground. The artist in painting this vessel
+has probably not thought of achieving anything beyond the filling up
+neatly of the four spaces, and has followed the usual practice of
+borrowing his motives from other objects; yet it will not be wise to
+conclude that these figures are really meaningless combinations of
+lines. The persistency and individuality of certain motives makes it
+almost certain that they are not the result of aimless elaboration, and
+that the potter understood their significance. They are too purely
+geometric, however, to furnish any clew to us through internal evidence.
+We have no resource beyond the analogies of historic art. Modern tribes
+use the current meander to symbolize water, and a leading motive in many
+of these designs--the linked scroll running through a field of serrate
+lines--is wonderfully like some forms of the Aztec symbol for water, as
+may be seen by reference to the Mexican codices.
+
+[Illustration: FIG. 292.--Bowl: Province of Tusayan.--1/2.]
+
+Another very excellent example of these bowls is presented in Fig. 292.
+It is small and shallow, measuring six and a half inches in diameter and
+two and a half in depth. The material is somewhat soft and chalky. The
+walls are thick and the surface is well finished. The painted design is
+cruciform, like the preceding, but is much more simple and satisfactory.
+It is interesting to note the changes rung upon the few simple motives
+employed in these designs. Again apparently each of the four parts is a
+fragment of a double border, cut up and fitted into the concave surface.
+The bands with oblique, dotted, or stepped lines, Fig. 293, are
+repetitions of the neck belt of a bottle-shaped vase or basket, and the
+other bands with their chaste fret-work repeat a section of the body
+zone.
+
+[Illustration: FIG. 293.--Painted design.]
+
+Bowls and cups of the hemispherical model are very often supplied with
+handles. Like other bowls, they are embellished with painted designs
+derived from vases or from textile sources. In order of evolution, they
+probably follow the plain form--the handles being added to facilitate
+use.
+
+[Illustration: FIG. 294.--Handled bowl: Province of Tusayan.--1/3.]
+
+The principal varieties of handles have already been described. The bowl
+illustrated in Fig. 294 is furnished with a single semicircular loop. In
+form, finish, and color it is the same as that of the other bowls, and
+the painted design has a similar derivation and arrangement.
+
+In the collection we have a fine large red bowl, now in a fragmentary
+state. It is eleven inches in diameter and six inches deep. A small loop
+is attached to the outside near the margin. It has a very decided
+resemblance in color, finish, and ornamentation to the red bowls of the
+Rio Virgen. The color of both the surface and the mass is a dull red. A
+broad band of bright red paint encircles the exterior, leaving a plain
+marginal band of the ground color and a plain area of the same upon the
+bottom. The painted design, which covers the inner surface is shown in
+Fig. 295. We discover in it at first sight a type to all appearances
+totally distinct from the usual devices of this locality, but a closer
+study reveals the existence of the favorite motive--the meander--doubled
+up across the middle in a way to challenge detection, with the
+ever-present auxiliary band above and below. The curiously complex and
+very pleasing ornament is amplified in Fig. 296.
+
+[Illustration: FIG. 295.--Painted design.]
+
+[Illustration: FIG. 296.--Original form of painted design.]
+
+One small cup or bowl has two ears, not semicircular, but rectangular,
+which are placed horizontally and project in sharp points at the
+corners.
+
+The neat little vessel given in Fig. 297 has a much elongated horizontal
+loop, carelessly made and rudely attached. The bowl is handsomely
+finished. The margin is ornamented with a series of closely placed
+transverse lines or dots, a character appearing more frequently in the
+northern ware. The interior design is made up of four independent parts
+as usual.
+
+The cup presented in Fig. 298 serves to illustrate another variety of
+handle--a large vertical loop, extending from rim to base, like those on
+the upright cups given in Figs. 287 and 288. The paste is very fine
+grained, and breaks with a conchoidal fracture. The color is gray and
+the paint reddish from the firing. The bottom is flat, a rare occurrence
+in the more archaic, pottery. The painted design is based upon the
+meander, and occupies nearly the entire exterior surface of the cup. The
+handle has two bird-track shaped figures on its outer surface.
+
+[Illustration: FIG. 297.--Handled cup: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 298.--Handled cup: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 299.--Dipper: Province of Tusayan.--1/3.]
+
+Vessels with long cylindrical handles are distributed over a very
+extended district, but in Tusayan they are of a better class of ware
+than elsewhere. Here the handles are long and stout and frequently
+terminate in a loop, probably intended for the attachment of a cord. The
+bowl is often graceful in form and tasteful in ornament. One of the
+finer examples is illustrated in Fig. 299. It is of the chalky ware, and
+has a very good surface finish. The handle is one inch in diameter and
+five inches long. It is hollow and terminates in a narrow loop. It is
+decorated with two groups of spirally inclined lines. The interior
+decoration of the bowl furnishes a most excellent example of the
+crucifrm designs previously described. This is well shown in Fig. 300.
+The exterior surface is embellished with a most primitive drawing of a
+bird, Fig. 301--a striking illustration of the pictorial accomplishments
+of these classic decorators. Subjects of this class are of rare
+occurrence upon the ancient white ware.
+
+[Illustration: FIG. 300.--Dipper: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 301.--Figure of bird from exterior of dipper.]
+
+[Illustration: FIG. 302.--Dipper: Province of Tusayan.--1/3.]
+
+The dipper presented in Fig. 302 is somewhat inferior in workmanship to
+the preceding example. The handle is plain and terminates in a
+horizontal loop. The painted design is not arranged about a square, as
+in the examples given, but leaves a space in the center of the bowl
+resembling a four-cornered star. This shape is, however, the result of
+accident. The four parts are units of an elaborate border, not severed
+from their original connection, but contorted from crowding into the
+circular space. The design drawn upon a plain surface is shown in Fig.
+303. Projected in a straight line, as in Fig. 304, it is readily
+recognized as the lower three-fourths of a zone of scroll ornamentation.
+A unit of the design drawn in black is shown in Fig. 305. The meander
+is developed in the white color of the ground, and consists of two
+charmingly varied threads running side by side through a field of black,
+bordered by heavy black lines. The involute ends of the units are
+connected by two minute auxiliary scrolls.
+
+[Illustration: FIG. 303.--Painted design.]
+
+[Illustration: FIG. 304.--Painted design.]
+
+[Illustration: FIG. 305.--Unit of the design drawn in black.]
+
+Bowls heretofore referred to as heart-shaped are of frequent occurrence
+in the valley of the Little Colorado. A number have been obtained by the
+Bureau of Ethnology directly from the Pueblo Indians, while a few very
+superior specimens are in the collection of Mr. Keam. A somewhat
+globular example is represented in Fig. 306.
+
+[Illustration: FIG. 306.--Heart-shaped bowl: Province of Tusayan.--1/2.]
+
+It is remarkable in having four zones of devices. The narrow belt next
+the lip contains a single line of bird-track figures. The others exhibit
+simple forms of the meander. It is interesting to notice the variety of
+treatment. In the upper band we have a chain of units imperfectly
+connected. In the others there are series of triangular links quite
+disconnected from each other. All are defined in white by painting in a
+ground of black.
+
+This district has furnished few vessels of more exquisite form and
+decoration than that shown in Fig. 307. It is from the Keam collection.
+The outlines are exceptionally symmetrical, and the design, developed in
+the white of the ground, is drawn with more than usual care. The figures
+are severely simple, however, and comprise but one motive--the typical
+scroll, which is arranged in three zones, separated by parallel lines.
+The spaces are filled in with serrate lines, parallel with the
+connecting fillets or stems of the volutes, as in the case given in Fig.
+290.
+
+Another smaller vessel from the same collection is simple and
+unpretentious, but so thoroughly satisfactory in every respect that one
+could hardly suggest an improvement. The surface is well polished. The
+ground color is whitish, and the design--a chain of classic scrolls--is
+produced in white by filling up the interstices with black. It is a
+noteworthy fact that the base of this cup has been perforated,
+apparently for use as a strainer. Nearly a hundred small round holes
+have been made while the clay was still soft. A pottery ladle from this
+region, now in the National collection, exhibits the same feature.
+
+[Illustration: FIG. 307.--Bowl: Province of Tusayan.--1/3.]
+
+I add another example from the Keam collection, Fig. 309. The margins of
+the figures are serrate and the volutes, which are in white, have
+clumsy, disconnected stems.
+
+[Illustration: FIG. 308.--Bowl: Province of Tusayan.--1/3.]
+
+The vessel presented in Fig. 310 has a flattened upper surface, an
+angular shoulder, and a high body, slightly conical below. The painted
+design is nearly obliterated in places by abrasion or weathering, but is
+correctly presented in Fig. 311, which gives the three zones in
+horizontal projection. This brings out a very marked feature, the
+cruciform arrangement of the parts, which would not be apparent in a
+vertical projection.
+
+[Illustration: FIG. 309.--Bowl: Province of Tusayan.--1/2.]
+
+[Illustration: FIG. 310.--Bowl: Province of Tusayan.--1/2.]
+
+The two inner circles occupy the upper surface of the vessel and the
+outer one the most expanded portion of the body. The inner belt is
+separated into four panels or compartments by as many series of
+transverse lines, the panels being filled in with longitudinal, broken
+lines. The second band is also divided by four series of straight lines,
+but the compartments are occupied by scrolls in white, bordered by
+serrate wings in black. The outer band exhibits a very curious
+combination of features, the whole figure, however, being based upon the
+meander. It is probable that the grouping in fours is accidental, the
+division of a surface into four being much more readily accomplished
+than into any other number above two.
+
+[Illustration: FIG. 311.--Painted design.]
+
+There are few better examples of the skill and good taste of the ancient
+potter than the bowl illustrated in Fig. 312. The body is much flattened
+and the incurved margin considerably depressed. The color is reddish,
+both on the surface and in the mass, while the upper part is painted a
+bright red. Upon this color, encircling the shoulder and extending
+inward toward the lip, is a handsome design in black and white lines.
+This is nearly obliterated, but enough is left to show that it consists
+of a highly elaborated rectilinear meander pattern, the idea being
+developed apparently in the light ground color. The painted lines are in
+black bordered with fine white stripes--a common occurrence in the
+south.
+
+[Illustration: FIG. 312.--Red bowl: Province of Tusayan.--1/3.]
+
+We have in the Museum an exquisitely shaped vessel of this class
+obtained from the Zuni Indians. The material and color are identical
+with the red specimen from Saint George. The whole surface is painted
+red and a neat border design in black is worked over this. The lip is
+not so much depressed as in the preceding examples. Two perforations
+occur near the margin, through which the Zunis have passed a buckskin
+thong. Another plain bowl is very much compressed vertically.
+
+[Illustration: FIG. 313.--Oblong bowl: Province of Tusayan.--1/3.]
+
+Oblong bowls are not a prominent feature in Pueblo pottery. A few
+examples were found at Saint George, Utah, but these are of the shallow
+variety. The only oblong bowl with incurved rim yet sent in is shown in
+Fig. 313. It is six inches long and four inches wide. The ornamentation
+consists of three lines of meanders, that upon the flat upper surface
+being irregular and not continuous.
+
+[Illustration: FIG. 314.--Globular vase: Province of Tusayan.--1/3.]
+
+In Fig. 314 we see another variation from the two usual forms of bowls.
+This vessel is globular, and the aperture quite large. Two small nodes
+attached to the sides and vertically perforated serve as handles. The
+ornamentation consists of a number of disconnected and greatly varied
+bands of meandered lines and figures, obliquely placed. The ornamented
+surface is separated into two parts by vertical panels at the handles.
+This affords a suggestion, of an adventitious or mechanical origin for
+the vertical bands which are so prominent a feature in modern Pueblo
+pottery. One of these is partially visible at the right side in the
+cut.
+
+[Illustration: FIG. 315.--Vase: Province of Tusayan.--1/3.]
+
+OLLAS.--A typical example of the chalky ware of Tusayan is illustrated
+in Fig. 315. It is a wide, low vase of symmetrical form. The body is
+flattened above and hemispherical below. The material is almost as white
+and as soft as chalk. The design comprises two zones of devices. One
+occupies the upright neck, and consists of encircling lines interrupted
+by vertical bands. The other, upon the flattened shoulder, is based upon
+the meander. Both are bordered by wide bands in the dark color and an
+additional band encircles the body.
+
+[Illustration: FIG. 316.--Vase: Province of Tusayan.--1/3.]
+
+Another handsome little vase is presented in Fig. 316. The two meanders
+show very diverse styles of treatment. In the upper the lines are all
+oblique, while in the lower they are chiefly rectangular and much
+prolonged horizontally. Corresponding treatment of the two bands occurs
+in other vessels.
+
+The vessel shown in Fig. 317 is very different in appearance from the
+two preceding, and is much larger and ruder in finish. The surface has
+been finished with the trowel or hand without polishing. It is ten
+inches high and the same in width. The whole decoration consists of
+interlinked meander-units not arranged in belts, but thrown together in
+a careless manner across the body of the vase. In the Keam collection
+there is a water bottle nearly twice as large as this, similar in shape
+and finish, but having a very different though equally rude painted
+design. This collection contains also the large pot-like vessel or
+cauldron shown in Fig. 318. The walls are heavy, the lip is rounded, and
+the form is such as to be very serviceable for ordinary domestic use.
+The ornamentation consists of two bands of figures, the upper, as usual,
+being very simple. The figures of the body zone are in black upon the
+light ground. Two sets, or pairs, of the triangular links make the
+circuit of the vessel, the entire ornament appearing in Fig. 319.
+
+[Illustration: FIG. 317.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 318.--Vase: Province of Tusayan.--1/4.]
+
+[Illustration: FIG. 319.--Painted design.]
+
+[Illustration: FIG. 320.--Vase: Province of Tusayan.--1/3.]
+
+There is, however, something less simple and consistent in the ornament
+seen in Fig. 320. The connecting stems of the units are heavy dark
+lines. The ends of the links are but imperfectly developed or are
+obscured by elaboration giving a suggestion of degeneracy, but the whole
+result is highly pleasing. The shape is an exceptional one, the body
+being flattened to a greater degree than usual. The ground color and the
+paste are quite white, yet there is in the design and its treatment a
+suggestion of the decoration of the cream colored ware of Tusayan. This
+suggestion is emphasized by the occurrence of the two pairs of dark
+strokes on the neck--a feature more usual in the yellow wares.
+
+[Illustration: FIG. 321.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 322.--Painted design.]
+
+In 1883 Mr. Mindeleff brought in two superb examples of ancient water
+vases. They are excellent illustrations of the skill and taste of the
+ancient Pueblo potter. The example illustrated in Fig. 321 is ten and a
+half inches in height and twelve inches in diameter. Its form is
+symmetrical and graceful. The surface has been whitened, but is somewhat
+uneven and not highly polished. The painted design is well preserved,
+and consists of two broad belts of devices. The upper, occupying the
+sloping neck, is a very simple combination of lines, based upon a single
+white meandered line, and the lower is quite complex and encircles the
+widest part of the body. The latter appears at first sight to be rather
+complicated, but is easily resolved into its elements.
+
+[Illustration: FIG. 323.--Unit of the design.]
+
+[Illustration: FIG. 324.--Vase: Province of Tusayan.--1/3.]
+
+The zone is five and a half inches in width and consists of two lines of
+highly elaborated meanders combined in a most ingenious and pleasing
+manner. The design is projected in Fig. 322 and compares favorably with
+the exquisite diaper patterns of oriental decorators. A single unit of
+its structure is given in Fig. 323. The triangular spaces along the
+border are filled in with fragments of designs harmonious in style with
+the principal figures. Certain spaces of the expanded connecting fillets
+of the units, are filled in with serrate or dotted lines. Some portion
+of the design seem to be developed in the white ground, as, for
+instance, the figures in the lateral triangles.
+
+[Illustration: FIG. 325.--Painted design.]
+
+[Illustration: FIG. 326.--Unit of the design.]
+
+The boldness of the primitive decorator is well shown in the
+manipulation of these large vases. Simplicity and breadth were not
+sacrificed when it became necessary to carry the oft-repeated figures
+over the broad surface of such a vessel as that shown in Fig. 324, whose
+height and width measure fourteen inches each. In shape, in surface
+treatment, and in the arrangement of the broad belts of decoration this
+vessel corresponds very closely with the preceding, but the favorite
+motives are executed in the white color of the ground, and are thrown
+across the surface of the vessel with charming freedom and boldness. The
+upper zone encircling the neck is occupied by a large, rather rudely
+drawn chain of scrolls developed in the white ground by painting the
+interspaces black. The broad belt of figures encircling the body of the
+vase is not filled out as in the preceding case, the lower series of
+triangular spaces being plain. The principal feature consists of a
+single line of the fret-work developed in the white ground. This is
+shown in Fig. 325. A unit of the design is given in black in Fig. 326.
+The connecting curve or stem of the unit incloses a rectangular space,
+through which the fillet returns in a series of fine scrolls. The
+interlocked ends of the units of the principal chain have terminations
+or hooks angular in two cases and curved in another, demonstrating the
+identity of the curvilinear and the rectilinear forms of this ornament.
+The small isolated stepped figure between the hooks tells, I imagine, of
+a textile ancestry.
+
+[Illustration: FIG. 327.--Large vase: Province of Tusayan.--1/9.]
+
+In Fig. 327 we have another vase of still higher grade--a very
+masterpiece of fictile work. It is next to the largest piece of the
+ancient ware yet described, being twenty-four inches in diameter and
+upward of twenty inches in height. The form is not quite symmetrical,
+but the outline is highly satisfactory. The body is full and slightly
+conical at the base, and above joins the neck with a graceful convex
+curve. The surface is even and well polished, and the painted design is
+executed with great precision. The motives employed are identical with
+the preceding. Scrolls and fretted figures are carried around the neck,
+shoulder, and body in three bands suited exactly in width and in size of
+parts to the conformation of the vessel. The simple scrolls of the upper
+part need no explanation, and a careful analysis of the broader band, as
+projected in Fig. 328, furnishes a key to its rather extraordinary
+construction. The dark lines are drawn with mechanical exactness, and
+the delicate white lines, in which many of the finer details are worked
+out, are _left_ with a nicety of handling worthy of the most skilled
+decorator. By a reference to the outline given in Fig. 329 it will be
+seen that the whole ornament hangs upon a single thread woven into a
+chain of delicate fret-work running through the middle of the design.
+The long connecting band of each unit consists of two lines (taking the
+black lines as representative of the idea or motive), which separate in
+the middle part, inclosing a wide rectangular space. This is filled with
+geometric ornamentation in white lines upon a black ground, as shown in
+Fig. 328. The triangular spaces above are occupied by checker-work of
+light and heavy lines. The very marked rectangular character of this
+handsome design indicates familiarity with the textile embodiment of the
+motive.
+
+[Illustration: FIG. 328.--Painted design.]
+
+[Illustration: FIG. 329.--Unit of the design.]
+
+[Illustration: FIG. 330.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 331.--Vase: Province of Cibola.--1/3.]
+
+BOTTLES.--Under this head I desire to present a number of vases having
+high, narrow necks. Few examples of the pottery of any people show
+bolder and more successful treatment than the specimen illustrated in
+Fig. 330. It is a large, full-bodied bottle, the neck and lip of which
+unfortunately are lost. The restored outline can profess to be
+approximate only. The surface is well polished, though gray from age.
+Two masterly scrolls, formed each of a broad black line bordered by
+white lines, are thrown across opposite sides of the vase. The ground
+upon which they are drawn is filled in with series of lines which
+accommodate themselves very gracefully to the surface of the vessel and
+to the scrolls.
+
+A number of ancient vessels, found in the hands of the Zuni Indians,
+were probably obtained by them from some of the neighboring ruins,
+although in a few cases they may have been carried from distant places
+in the north or west. The finer examples correspond very closely to the
+ware of which multitudes of fragments are found at old Zuni, San Antonio
+Springs, Nutria, and other places in or near the province of Cibola.
+They seem to be identical also in many respects with the better class of
+the white ware of Tusayan. The forms are very much the same and the
+ornaments exhibit similar arrangements of identical motives.
+
+[Illustration: FIG. 332.--Vase: Province of Cibola.--1/3.]
+
+The superb vessel illustrated in Fig. 331, is a typical example of the
+work of the ancient potters of Cibola. In form it falls but little short
+of perfect symmetry. The body is nearly globular, being slightly
+compressed vertically. The neck is small and the lip slightly recurved.
+The surface, originally white, now darkened from use, is well polished
+excepting where roughened by age. In Fig. 333 we have a partial
+projection of the painted design obtained by viewing the vase
+vertically. This may be described as a rosette of spiral rays which
+consist of gracefully meandered lines alternating with groups of plain
+stripes. These are developed in the light color of the vase by painting
+in a black ground. Viewed from the side the decoration is seen to
+consist of the two usual zones--a narrow one about the neck, occupied by
+a meander, and a broad one covering the greater part of the body,
+crossed obliquely by a number of bands of ornament.
+
+A similar vase, also from Zuni, is illustrated in Fig. 332. It is much
+darkened by use and age and has suffered considerably from wear and
+tear. The ornament consists of three zones, a band of stepped figures
+about the neck, a handsome meander-chain with terraced links upon the
+rounded collar, and a broad belt of radiating meanders encircling the
+body. A vertical view showing the two outer lines of decoration is given
+in Fig. 334. A peculiar feature in this vessel is the indented
+finger-hold seen in the lower part of the body, Fig. 332.
+
+In both form and ornament these bottles exhibit decided resemblances to
+wicker vessels. The introduction of stepped figures and spiral rays
+sufficiently demonstrates the textile origin of the painted designs.
+
+[Illustration: FIG. 333.--Painted design.]
+
+[Illustration: FIG. 334.--Painted design.]
+
+A few bottles are larger than the examples given. One having a high
+narrow neck is seventeen inches high and sixteen in diameter of body.
+Generally vases of this shape are below medium size, and they are very
+often supplied with handles or perforated knobs, either upon the
+shoulder or the neck. In a few cases only the necks are high and slender
+like the bottles of the mound-builders of the middle Mississippi region.
+
+The vessel illustrated in Fig. 335 is not properly classified either
+with the preceding or with the following group, but I place it here on
+account of its peculiar painted device, which appears in other forms and
+connections in the two succeeding figures. The ornament as usual
+occupies two zones, each of which has three groups of vertical lines
+alternating with as many star-like figures resembling somewhat the
+Maltese cross. The latter device may possibly have been introduced to
+represent some idea, and I have no doubt that almost any member of the
+modern tribes could be induced to give a full explanation of its
+significance. It would, however, be his idea only and not necessarily
+that of the ancient potter.
+
+[Illustration: FIG. 335.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 336.--Handled vase: Province of Tusayan.--1/2.]
+
+HANDLED VESSELS.--Handled vessels of this province are greatly varied.
+Examples of the dippers have already been given. Besides them there is a
+long series of vessels with more or less constricted necks; the handles
+of which are of three or four pretty distinct varieties, including the
+long vertical loop connecting the rim with the shoulder or body, the
+strong horizontal loop set at the base of the neck, and the perforated
+knob placed upon the shoulder. There are also a few examples of
+cup-shaped projections, Fig. 351, and heads of animals, Fig. 352, which
+are set upon the neck near the rim and seem to be survivals of handles
+or ornaments merely.
+
+[Illustration: FIG. 337.--Painted design.]
+
+[Illustration: FIG. 338.--Handled mug: Province of Tusayan--1/2.]
+
+The vessel shown in Fig. 336 has an interesting combination of
+decorative features. I present it here, although a little out of place
+in my classification by form, in order to point out the similarity
+between its decoration and that of Fig. 335. It is a handsome mug of
+hard gray ware, finished with a white slip, and decorated with painted
+designs in the prevailing arrangement. Four equidistant nodes of large
+size are placed about the shoulder of the vessel. These occur along the
+middle of the lower zone of painted devices, the notable feature being
+that the volutes of the painted scroll-work encircle the nodes and
+inclose, between their interlinked points, cross-like devices,
+resembling those found upon the preceding specimen. These crosses occupy
+the apices of the nodes, as shown in the illustration. The painted
+design is given in Fig. 337. The design proper--the interlinked
+scrolls--is in white, the dark color being used as a ground to develop
+it. This is true of a great majority of the examples presented. The same
+device, with a slightly different combination, is seen in Fig. 338,
+which illustrates a small jug from the Keam collection. The design is
+well shown in Fig. 339, and in this case it will readily be seen that
+the motive proper is in white, while the black hooks and the connecting
+lozenge-shaped figures, forming the cross, represent the ground. This
+association of the cross with the linking of the scrolls is suggestive
+of a possible origin of the device as used independently in the instance
+given in Fig. 335.
+
+[Illustration: FIG. 339.--Painted design.]
+
+[Illustration: FIG. 340.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 341.--Painted design.]
+
+I shall now present a small group of handled vessels of varying
+characters upon which we have some illustrations of a peculiar treatment
+of meander motives.
+
+[Illustration: FIG. 342.--Handled cup: Province of Cibola.--1/3.]
+
+[Illustration: FIG. 343.--Painted ornament.]
+
+The vessel illustrated in Fig. 340 belongs to the Keam collection. The
+decoration is very simple and consists of a novel combination of running
+scrolls. The design is produced by filling in the space between two
+separate chains of scrolls in black with fine oblique lines, Fig. 341.
+Identical treatment of the meander is found upon a mug brought from
+Zuni and illustrated by Mr. Stevenson in the Second Annual Report of
+the Bureau of Ethnology. Fig. 342. This will be apparent when the
+design, Fig. 343, is placed by the side of the preceding. The first is
+drawn in curved black lines, the ground remaining white, the second is
+in rectilinear white lines, the ground being black.
+
+[Illustration: FIG. 344.--Painted ornament.]
+
+Two others of like character, one angular and the other curvilinear, are
+found upon small red vessels from Tusayan, Figs. 344 and 345. Still
+another noteworthy example is found upon the interior surface of a red
+bowl from Cibola, which, when projected in a straight line, gives the
+handsome ornament illustrated in Fig. 346.
+
+[Illustration: FIG. 345.--Painted ornament.]
+
+[Illustration: FIG. 346.--Painted ornament.]
+
+There is in the Keam collection a very interesting vessel, having two
+heavy horizontal loops attached to opposite sides of the body. The
+painted figure consists chiefly of a rectangular meander in white
+bordered by black and forming a wide zone about the body of the vessel.
+The spaces are filled in with fine parallel oblique lines. With the
+addition of a foot this vessel would be found to resemble, in both form
+and ornament, some early varieties of the Greek kylix.
+
+[Illustration: FIG. 347.--Handled vase: Province of Tusayan.--1/3.]
+
+The wide-mouthed vase shown in Fig. 348 differs very decidedly in style
+from the last. It is finer in texture and much more carefully finished.
+The form is decidedly antique. The painted design is quite indistinct,
+the color having rubbed off or faded out. The work has been neatly done
+with a fine brush and exhibits some new features in point of detail. If
+we trace out the figures, however, we will see that there are no new
+motives, the meander forming the basis of all. There is a double line of
+figures, the upper one being the more simple, as usual.
+
+[Illustration: FIG. 348.--Vase: Province of Tusayan.--1/3.]
+
+[Illustration: FIG. 349.--Bottle: Province of Tusayan.--1/2.]
+
+In the bottle illustrated in Fig. 349 the usual motives have been
+employed. A few heavy lines serve to give emphasis to the lip, while a
+band of linked scrolls is carried around the shoulder, bordered by
+simple parallel lines. Unpretentious as the work is, it has a very
+pleasing effect. The shape is repeated in modern Pueblo pottery. It is
+the original of the canteen, which has acquired the flattened form
+through accident, or change in the habits of the people employing it. A
+very superior example of these bottles is given in Fig. 350. The body is
+somewhat flattened and the sides are nearly perpendicular, giving two
+well defined spaces for decoration, the one above and the other about
+the middle of the body. The latter space is occupied by a very slender,
+meandered line in white, the interspaces being filled in with black.
+Four links encircle the vessel, two oblong ones occurring upon the sides
+and two short ones beneath the handles. The upper surface is decorated
+with a band of scrolls, four in number, partially defined in white by
+painting the space on one side black. There are two low, knob-like,
+vertically perforated handles on the shoulder of the vessel.
+
+[Illustration: FIG. 350.--Bottle: Province of Tusayan.--1/2.]
+
+[Illustration: FIG. 351.--Bottle: Province of Tusayan.--1/2.]
+
+The vessel shown in Fig. 351 is interesting on account of the peculiar
+knobs or ears placed on the sides of the neck, near the lip. They rudely
+resemble the corolla of a flower, but suggest as well the wheel-like
+coils of hair gathered up at the sides of the head by the women of Moki.
+They were probably associated with some superstition of the ancients.
+The neck of the bottle is unusually high. The shape is quite graceful
+and the painted decoration is simple and effective.
+
+[Illustration: FIG. 352.--Vase: Eastern Arizona.--1/2.]
+
+In a collection recently sent from the vicinity of Springerville,
+Arizona, by E. W. Nelson, there are a number of vessels similar in
+appearance to the preceding, but with shorter necks and rounder bodies.
+They are small, well-finished, and in some cases quite new looking. The
+designs in black are nicely executed and exhibit considerable refinement
+of taste. One having a small animal head attached to the side of the
+neck is illustrated in Fig. 352. A broad meandered border encircles the
+neck, and a superb pattern, consisting of four ingeniously combined
+horizontal chains of meanders in white covers the upper three fourths of
+the body.
+
+_Eccentric and life forms._--In the collection made by Mr. Nelson there
+are several eccentric forms. One, a two-storied vessel of good
+proportion, neat finish and ornamentation, is illustrated in Fig. 353.
+The form is an exceptional one in the ancient ware, but is frequently
+seen in modern work of the Pueblos and other tribes. It had its origin
+perhaps in a double-lobed form of the gourd, or possibly the idea was
+suggested by the superposition of one vessel upon another.
+
+As previously observed, the Pueblo ware is characterized, in a general
+way, by great simplicity of form. There is, however, one small group of
+eccentric forms within which we find a pretty wide range of outline, a
+few specimens exhibiting undoubted resemblances to life forms. Nearly
+all are bottles with handles and lobed bodies, often unsymmetrical. The
+handle in each case connects the lip with the shoulder or body of the
+vessel. The lobes are generally three in number and are rarely of equal
+dimensions, one being more or less prolonged.
+
+[Illustration: FIG. 353.--Vase of eccentric form: Eastern
+Arizona.--1/3.]
+
+It is very difficult to say where these curious forms originated, or in
+what direction they were developing. Did the archaic potter, by
+exaggerating the accidental eccentricities of early and simple forms,
+arrive at these grotesque shapes, did use determine their conformation,
+or must we look for their originals in antecedent utensils derived from,
+or made in direct imitation of, life forms?
+
+[Illustration: FIG. 354.--Vase of eccentric form: Tusayan.--1/2.]
+
+It is manifestly useless to seek for their antecedents within the limits
+of the ceramic art. A few are of such a shape as to suggest the skin
+vessels so often used by primitive peoples, and their origin in this
+manner would be entirely consistent with the laws of art growth. One
+variety is shaped somewhat like a shoe or moccasin. Another takes the
+form of a bird. In regard to their origin it would indeed be a marvel if
+they should be found to represent an intermediate step between the skin
+vessels of primitive peoples and the conventional pitcher of
+civilization, as corresponding shapes are thought to do in Eastern
+countries.
+
+[Illustration: FIG. 355.--Vase of eccentric form: Tusayan.--1/3.]
+
+Within the Pueblo province these vessels are widely but not very
+generally distributed, so far as specimens at hand show. I have already
+described two examples, Figs. 255 and 256, from Saint George, Utah,
+which are of the simplest type, having three nodes with no suggestion of
+life form.
+
+[Illustration: FIG. 356.--Vase of eccentric form: Tusayan.--1/2.]
+
+In Fig. 354 we have a small, well-finished cup of white ware, from
+Tusayan, similar in outline to the Saint George specimens. One of the
+three somewhat pointed nodes is considerably more prominent than the
+others. The handle is unique, being modeled apparently after the curved
+neck of a gourd, the pointed tip touching but not uniting with the body
+of the vessel. This vessel is handsomely decorated with two bands of
+scrolls. That upon the neck is of a usual form consisting of three sets
+of linked scrolls with zigzag or stepped connecting fillets. The scrolls
+of the lower bands interlock upon the three nodes and are connected by
+broad Z-shaped stems also stepped or notched. This specimen is from the
+Keam collection.
+
+Another smaller vessel, still more unique in character, is illustrated
+in Fig. 355. One of the nodes is very much prolonged, giving, with the
+upright neck, a form rudely suggestive of a bird. The ornament, like the
+last, consists of two bands. The upper is of diamond-shaped figures in
+white upon a black ground, and the lower of a cleverly managed meander,
+which is made to conform neatly to the eccentricities of the body. The
+hooks encircle the nodes as in the preceding case.
+
+A smaller specimen is given in Fig. 356. The node next the handle being
+prolonged resembles the tail of a bird, while the other nodes, which
+would occupy the place of the two prominences of the breast, are barely
+suggested. The decoration is extremely simple.
+
+[Illustration: FIG. 357.--Vase of eccentric form: Tusayan.--1/2.]
+
+A fine specimen of these novel vessels is illustrated in Fig. 357. The
+body is much prolonged on one side and has no prominence whatever at the
+breast points. The handle is but slightly arched and connects the rim
+with the extreme point of the projecting lobe. There is here a rather
+decided suggestion of a skin or intestine vessel. It is but a step from
+this form to the well-known shoe or moccasin shape of a later period of
+Pueblo art, a form known in nearly all centers of ancient American
+culture. The decoration is simple and unique, consisting of a meandered
+figure in white upon a black ground, with parallel bordering lines in
+black. It connects opposite sides of the rim passing beneath the
+projecting lobe.
+
+A number of the best examples are in the National collection. One of
+these, Fig. 358, is figured by Mr. Stevenson in the Third Annual Report
+of the Bureau of Ethnology. It might be described as shoe-shaped, yet we
+are forcibly reminded of the headless body of a bird, the rather square
+projecting breast being a marked feature. The painted ornament consists
+of broad zigzag, meandered bands filled in with fine oblique stripes.
+
+[Illustration: FIG. 358.--Vase of eccentric form: Cibola.--1/3.]
+
+One of the finest specimens is presented in Fig. 359. The triangular or
+three-lobed form of body is still noticeable, two of the points forming
+the breast, and the other, much prolonged, standing for the tail of the
+bird. The meaning of the latter feature is made plain by the painted
+figure. A conventional design, consisting of concentric, plain and
+zigzag lines, occupies the back, and terminates behind in a row of
+pinnate marks, evidently a conventional drawing of the tail. The wings
+are indicated at the sides by a design like that upon the back. The
+breast is embellished with a series of oblong dots probably intended for
+feathers. In this case the neck, which is high and narrow, has three
+prominences near the top; one at the front represents the bill of the
+bird, and others at the sides are meant for eyes. A handle has connected
+the head with the middle of the back. This is nearly all broken away and
+the stumps have been perforated for the insertion of cords. A serrate
+collar in black encircles the neck. The original of this vase was
+obtained in the Pueblo country and belongs to Dr. Sheldon Jackson. A
+specimen recently acquired by the National Museum is superior to this in
+its decorative treatment. The body has four lobes, one for the breast,
+another for the tail, and one for each of the wings. Each of these lobes
+is made the center about which the volutes of the very elaborate
+scroll-work are turned.
+
+I shall give one more illustration, Fig. 360. This is taken from the
+Keam collection and represents a bird. The vessel is quite distinct in
+shape from those previously given, being much like the bird vessels of
+the mound-builders. It is a cup with constricted rim, the head, tail,
+and wings of the bird projecting horizontally from the outer margin of
+the rim. It is of the white ware and has had a painted design in black
+lines, now nearly obliterated.
+
+[Illustration: FIG. 359.--Bird-shaped vase: Arizona.--1/3.]
+
+[Illustration: FIG. 360.--Bird-shaped cup: Tusayan.--1/2.]
+
+
+CONCLUDING REMARKS.
+
+Two great groups of ceramic products have now been presented--the coiled
+ware and the white decorated ware. These groups belong to the first
+great period of pueblo art in clay. Their chronological identity is
+sometimes questioned, the coiled ware to all appearances being the more
+archaic. It is simple in form and rude in finish, is without painted
+ornament, and was relegated to the more ordinary uses. These and other
+features give countenance to the theory of greater antiquity; but the
+intimate association of the two groups in nearly every locality
+indicates close identity in time. It cannot be said that the other
+classes of ware found within the same province belong to different times
+or to distinct races, but they are widely separated in many important
+characters from the two leading groups. They exhibit greater variety of
+form, less constraint in decoration, and greatly improved technique,
+points tending to prove advance in culture, and, presumably, in time.
+
+The more closely the ceramic art of the ancient peoples is studied the
+more decidedly it appears that it was profoundly influenced by the
+textile arts, and especially by basketry. The latter art was practiced
+from remote antiquity, and within historic times the manufacture of
+baskets has been the most important industry of the tribes of the
+Pacific slope of temperate North America. Ceramic shapes, wherever found
+within this region, coincide closely with textile outlines, and the
+geometric ornamentation can be traced to textile prototypes originating
+in the technical peculiarities of construction.
+
+Another point brought out by the preceding studies follows naturally the
+foregoing statement. There are in the pueblo country no primitive forms
+of earthenware. This may lead to the inference that the pueblo tribes
+migrated from other regions in which the earlier stages of the art had
+existed, but taken in connection with the lack of individuality in the
+potter's art, and its evident dependence upon the textile art, it leads
+decidedly to the conclusion that art in clay was acquired by these
+tribes in comparatively recent times. The ancient pueblos practised the
+art of basketry, but clearly remained ignorant of the plastic art, until
+by some accident of environment it was introduced or discovered. Under
+the influence of the sister art, pottery at once took a high stand.
+During the first stages, however, it was a servile art, reproducing the
+forms and decorations of basketry. The true plastic characters of clay
+remained practically undiscovered, and is only now, under the influence
+of the European, dawning upon the conservative mind of the inhabitant of
+the plateaus.
+
+Besides basketry, it is probable that the early pueblos made use of
+gourds and of tissue vessels, traces of their influence occurring quite
+frequently, but there is no indication whatever of the presence of
+carvings in shell, wood, and stone.
+
+I do not wish in this place to dwell upon the details of pueblo
+ornament. A single example will serve to illustrate the origin and
+character of the leading decorative conceptions. Glancing through the
+series of vases illustrated under painted ware, we find that ninety-four
+out of one hundred designs are meanders, or are based upon the meander.
+Beginning with the simple waved or broken line we pass up through all
+grades of increasing complexity to chains of curvilinear and rectilinear
+meanders in which the links are highly individualized, being composed of
+a sigmoid line, terminating in reversed hooks; but in no case do we
+reach a loop in the curved forms or an intersection in the angular
+forms. The typical intersecting Greek fret does not therefore occur,
+nor, I may add, is it found anywhere in native American art.
+
+The constructional characters of the art in which these linear forms
+developed, although they encouraged geometrical elaboration, forbade
+intersections or crossings of a line upon itself, and the genius of the
+decorator had never freed itself from this bondage. The forms imposed
+upon decoration by the textile art are _necessarily_ geometric and
+rectilinear, and their employment in other and less conventional arts,
+has been too limited to destroy or even greatly modify these characters.
+
+The study of Pueblo art embodied in the preceding pages tells the simple
+story of the evolution of art--and especially of decorative art--in a
+period when the expanding mind of primitive man, still held in the firm
+grasp of instinctive and traditional methods--the bonds of nature--was
+steadily working out its aesthetic destiny.
+
+
+INDEX.
+
+
+                                                                    PAGE
+
+  Abiquin, N. Mex., Pottery of                                       282
+  Acoma pottery                                                      300
+  Age of pueblo ceramic art                                          267
+  American Naturalist on pottery                                     276
+  Animas Valley                                                      315
+  Antiquity of coiled ware and white ware, Relative              358-359
+  Araqnaya coiled pottery                                            276
+  Arizona, Coiled ware from                                          279
+           pottery                                          291, 353-358
+  Art, Pueblo                                                        266
+       Review, cited on coiled ware                                  279
+  Artist in ancient pottery, Freedom of                              303
+  Avoca, N. C., Coiled pottery from                                  277
+  Aztec Springs ruin                                                 319
+  Bandelier, A. F., on pueblo pottery                                298
+  Barber, E. A., on Ute pottery                                  276-277
+  Basket marked pottery                                              282
+  Basketry a primitive art                                           359
+  Bottles                         283, 301, 306, 320, 343, 345, 351, 352
+  Bowls                                  283, 306, 308-314, 316, 322-334
+  Brazilian Indian coiled pottery                               276, 277
+  Burial of dead under dwellings                                     288
+  Burial of property with the dead                                   288
+
+  Canyon de Chelly, Pottery of                                  293, 319
+  Cave-houses                                               284-286, 293
+  Ceramic art, The                                                   267
+              forms, Origin of                                       269
+  Chaco Valley                                                       315
+  Character of Pueblo art                                            266
+  Chiquito, Colorado                                                 306
+  Cihola pottery                       297, 307, 316, 321, 343, 344, 356
+  Classification of pottery                                272, 304, 306
+  Cliff-dwellers                                                304, 305
+  Cliff-dwellings                                           284-286, 293
+  Coil in ornamentation, The                                     278-282
+  Coiled ware and white ware, Relative antiquity of              358-359
+              imitated                                               299
+  Coiling of the Pueblos                                         273-275
+  Coil-made pottery                                              273-299
+  Color of coiled pottery                                            283
+        of designs in pottery                                        302
+        of Pueblo pottery                                            269
+  Colorado Chiquito                                                  306
+                    pottery                                      321-357
+           Indian pottery                                            276
+           plateau house sites                                       281
+           pottery                                              281, 305
+           ruin                                                      319
+  Construction, Pueblo ceramic                                       268
+  Cooking, Pottery for                                          272, 283
+  Crimped coil on pottery                                  279, 280, 282
+  Cross, Ideographic                                                 345
+  Cups                                                               349
+
+  Distribution of Pueblo art                                         266
+  Domestic pottery                                         272, 283, 306
+  Dumont describes pottery                                      275, 276
+
+  Eccentric forms of pottery                               283, 307, 353
+  Epsom Creek pottery, Utah                                      286-287
+  Execution of design in painted pottery                             302
+
+  Fillmore, Utah, Pottery from grave at                              292
+  Firing of Pueblo pottery                                           268
+  Flat heads                                                         340
+       ornaments                                                     271
+  Florida coiled pottery                                             277
+  Form in pottery, Origin of                                         269
+
+  Gila pottery                                                  281, 283
+  Glaze of Pueblo pottery                                            268
+  Gourds copied in pottery                                 270, 306, 353
+  Guilloche                                                          309
+  Handled vessels                           271, 300, 314, 319, 325, 340
+  Hartt, Prof. C. F., on Indian pottery in Brazil                    276
+  Humboldt, W. O., on coiled pottery of the Orinoco                  276
+
+  Indented pottery patterns                                          280
+  Indian coiled pottery of Brazil                                    276
+  Individuality of pottery designs                                   305
+  Intaglio ornament                                                  271
+
+  Jackson, Dr. Sheldon; Indian vases                                 357
+  Jackson, W.H., on pottery                                287, 318, 319
+  Jones, Prof. Marcus E., on pottery of Utah                         292
+
+  Kanab, Pottery from                                 281, 287, 310, 314
+  Keam, T. V., Pottery collection of   293, 296, 321, 330, 336, 348, 355
+  La Plata Valley                                                    315
+  Life forms in pottery                                    283, 307, 353
+  Little Colorado, Pottery of the                     283, 292, 321, 330
+  Louisiana, Coiled Indian ware in                               275-276
+
+  McElmel Valley                                                     315
+  Magalhaes, Dr., on coiled pottery of the Araguaya River            276
+  Mancos Valley                                                      315
+  Material used in pottery                                      267, 283
+  Meander in ornament                                                359
+  Mended Pueblo pottery                                              286
+  Mexico, Coiled pottery from                                        277
+  Mindeleff, Victor, collected pottery                     293, 311, 338
+  Miscellaneous ornamentation of pottery                             283
+  Moki pottery                                        277, 290, 293, 299
+  Monteztuna Canyon                                             315, 318
+  Mormon town                                                   287, 310
+  Mortuary pottery                                                   272
+  Moss, Capt. John, on Ute pottery                              276, 319
+  Mound village, Utah                                            287-288
+  Muge                                                     307, 320, 347
+
+  National Museum, Pottery in               285, 287, 321, 331, 333, 357
+  Navajo pottery                                                     299
+  Nelson, E. W., obtained pottery                          279, 292, 353
+  Nevada, Pueblo pottery in                                          287
+  New Mexico pottery                                            282, 298
+  North Carolina coiled pottery                                      277
+  Nutria pottery                                                     344
+
+  Ollas                                 283-287, 293, 306, 314, 318, 335
+  Origin of ceramic forms                                       269, 272
+            the coil                                                 277
+  Orinoco, Coiled pottery of the                                     276
+  Ornament, Ceramic                     271, 278-282, 303, 305, 337, 359
+
+  Painted pottery                                                302-307
+  Parowan pottery                                                    292
+  Pitcher forms                                                      307
+  Plain pottery                                                  299-301
+  Pottery Catalogue of Jaines Stevenson                              265
+          developed from basketry                                    359
+          mended by Pueblos                                          286
+  Property buried with the dead                                      288
+  Provo, Utah, Pottery from                                          321
+  Pueblo art                                                         266
+         coiled ware                                             273-275
+  Putnam, Prof. F. W., cited                                         279
+
+  Relief ornament                                               271, 282
+  Rio de Chelley Valley                                              316
+      Dolores Valley                                                 316
+      Gila pottery                                         281, 283, 299
+      Grande pottery                                            298, 305
+      Mancos cliff-houses                                        284-286
+            , Pottery of the                                281, 284-286
+      Pecos, Pottery of the                                     298, 305
+      San Juan, Pottery of the                                   315-321
+      Virgen, Pottery of the                            287-292, 307-315
+
+  Saint George tumulus, Utah,
+                          Pottery from  281, 287-291, 300, 307, 312, 334
+  Saint John, Pottery from                                           305
+  Salt Lake City Museum, Pottery in                             292, 300
+  Salt Lake Valley, Pottery of                                       292
+  San Antonio Springs, Pottery at                                    344
+      Juan pottery                                274, 281, 284-287, 291
+  Santa Clara River, Pottery on                                      287
+  Santarem, Brazil, Coiled pottery at                                276
+  Springerville, Ariz., Pottery at                    279, 291, 305, 353
+  Stages of ornament for painted pottery                         303-304
+  Stephen, John, on pottery                                          293
+  Stevenson, James, on pottery                             265, 293, 357
+  Storage of water, Pottery for                                      284
+  Surface finish of Pueblo pottery                                   268
+
+  Tempering materials in pottery                                     267
+  Transportation, of water, Pottery for                              284
+  Tusayan pottery  269, 279, 283, 294, 300, 304, 307, 311, 316, 321, 358
+
+  Utah pottery. (_See_ Saint George and
+                                       Springerville)  279, 286-291, 300
+  Ute pottery                                                    276-277
+
+  Vases                                                     301, 335-351
+  Vegetable forms copied in pottery                                  270
+  Village site mound or tumulus                                      287
+
+  Water, Pottery for transportation and storage of                   284
+  White ware                                           269, 304, 305-358
+             and coiled ware, Relative antiquity of              358-359
+
+  Yarrow, Dr. H. C., obtained pottery in Utah                        292
+  Yuma, Pottery of                                                   300
+
+  Zuni pottery                                   290, 293, 300, 333, 344

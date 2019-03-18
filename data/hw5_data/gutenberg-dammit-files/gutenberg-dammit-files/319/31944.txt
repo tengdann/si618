@@ -1,0 +1,825 @@
+Concepteur du projet @folio, un projet de tablette de lecture nomade,
+Pierre Schweitzer explique en décembre 2006: «La lecture numérique
+dépasse de loin, de très loin même, la seule question du "livre" ou de
+la presse. Le livre et le journal restent et resteront encore, pour
+longtemps, des supports de lecture techniquement indépassables pour les
+contenus de valeur ou pour ceux dépassant un seuil critique de
+diffusion. Bien que leur modèle économique puisse encore évoluer (comme
+pour les "gratuits" la presse grand public), je ne vois pas de
+bouleversement radical à l'échelle d'une seule génération. Au-delà de
+cette génération, l'avenir nous le dira. On verra bien. Pour autant,
+d'autres types de contenus se développent sur les réseaux. Internet
+défie l'imprimé sur ce terrain-là: celui de la diffusion en réseau
+(dématérialisée = coût marginal nul) des oeuvres et des savoirs. Là où
+l'imprimé ne parvient pas à équilibrer ses coûts. Là où de nouveaux
+acteurs peuvent venir prendre leur place.
+
+Or, dans ce domaine nouveau, les équilibres économiques et les logiques
+d'adoption sont radicalement différents de ceux que l'on connaît dans
+l'empire du papier - voir par exemple l'évolution des systèmes de
+validation pour les archives ouvertes dans la publication scientifique
+ou les modèles économiques émergents de la presse en ligne. Il est donc
+vain, dangereux même, de vouloir transformer au forceps l'écologie du
+papier - on la ruinerait à vouloir le faire! À la marge, certains
+contenus très spécifiques, certaines niches éditoriales, pourraient
+être transformées - l'encyclopédie ou la publication scientifique le
+sont déjà: de la même façon, les guides pratiques, les livres
+d'actualité quasi-jetables et quelques autres segments qui envahissent
+les tables des librairies pourraient l'être, pour le plus grand bonheur
+des libraires. Mais il n'y a là rien de massif ou brutal selon moi: nos
+habitudes de lecture ne seront pas bouleversées du jour au lendemain,
+elles font partie de nos habitudes culturelles, elles évoluent
+lentement, au fur et à mesure de leur adoption (= acceptation) par les
+générations nouvelles.»
+
+
+
+LA CONVERGENCE MULTIMÉDIA
+
+
+[Résumé]
+La convergence multimédia entraîne l'unification progressive des
+secteurs liés à l'information (imprimerie, édition, presse, conception
+graphique, enregistrements sonores, films, etc.) suite à l'utilisation
+des techniques de numérisation, avec un processus matériel de
+production qui s'en trouve considérablement accéléré. Si certains
+secteurs créent de nouveaux emplois, par exemple ceux liés à la
+production audio-visuelle, d'autres secteurs sont soumis à des
+restructurations drastiques. La convergence multimédia a de nombreux
+revers, par exemple des contrats précaires pour les salariés, l'absence
+de syndicats pour les télétravailleurs ou le droit d'auteur mis à mal
+pour les auteurs, tous sujets débattus lors du Colloque sur la
+convergence multimédia organisé en janvier 1997 à Genève (Suisse) par
+l'Organisation internationale du travail (OIT).
+
+
+= Une définition
+
+On peut définir la convergence multimédia comme la convergence de
+l'informatique, du téléphone, de la radio et de la télévision dans une
+industrie de la communication et de la distribution utilisant les mêmes
+inforoutes (appelées aussi autoroutes de l'information).
+
+Plus précisément, de quoi s'agit-il? La numérisation permet de créer,
+d'enregistrer, de combiner, de stocker, de rechercher et de transmettre
+des textes, des sons et des images par des moyens simples et rapides.
+Des procédés similaires permettent le traitement de l'écriture, de la
+musique et du cinéma alors que, par le passé, ce traitement était
+assuré par des procédés différents sur des supports différents (papier
+pour l'écriture, bande magnétique pour la musique, celluloïd pour le
+cinéma). De plus, des secteurs distincts comme l'édition (qui produit
+des livres) et l'industrie musicale (qui produit des disques)
+travaillent ensuite de concert pour produire des CD-ROM.
+
+Ceci n'est pas le premier bouleversement affectant la chaîne de
+l'édition. Dans les années 1970, l'imprimerie traditionnelle est
+d'abord ébranlée par les machines de photocomposition. Le coût de
+l'impression continue ensuite de baisser avec les photocopieurs, les
+photocopieurs couleur, les procédés d'impression assistée par
+ordinateur et le matériel d'impression numérique. Dans les années 1990,
+l'impression est souvent assurée à bas prix par des ateliers de PAO
+(publication assistée par ordinateur). Tout contenu est désormais
+systématiquement numérisé pour permettre son transfert par voie
+électronique.
+
+La numérisation accélère le processus matériel de production. Dans la
+presse, alors qu'auparavant le personnel de production devait
+dactylographier les textes du personnel de rédaction, les journalistes
+envoient désormais directement leurs textes pour mise en page. Dans
+l'édition, le rédacteur, le concepteur artistique et l'infographiste
+travaillent souvent simultanément au même ouvrage.
+
+On assiste progressivement à la convergence de tous les secteurs liés à
+l'information: imprimerie, édition, presse, conception graphique,
+enregistrements sonores, films, radiodiffusion, etc.
+
+Si, dans certains secteurs, ce phénomène entraîne de nouveaux emplois,
+par exemple ceux liés à la production de films ou de produits audio-
+visuels, d'autres secteurs sont soumis à d'inquiétantes
+restructurations. Ces problèmes sont suffisamment préoccupants pour
+être débattus lors du Colloque sur la convergence multimédia organisé
+en janvier 1997 par l'Organisation internationale du travail (OIT) à
+Genève.
+
+
+= Des commentaires
+
+Plusieurs interventions faites au cours de ce colloque soulèvent des
+problèmes de fond, dont certains sont toujours d'actualité en 2010.
+
+Bernie Lunzer, secrétaire-trésorier de la Newspaper Guild (États-Unis),
+insiste sur les batailles juridiques faisant rage autour des problèmes
+de propriété intellectuelle. Ces batailles visent notamment l'attitude
+des directeurs de publication, qui amènent les écrivains indépendants à
+signer des contrats particulièrement choquants cédant tous leurs droits
+au directeur de publication, avec une contrepartie financière ridicule.
+
+Heinz-Uwe Rübenach, de l'Association allemande de directeurs de
+journaux (Bundesverband Deutscher Zeitungsverleger), insiste lui aussi
+sur la nécessité pour les entreprises de presse de gérer et de
+contrôler l'utilisation sur le web des articles de leurs journalistes,
+et d'obtenir une contrepartie financière leur permettant de continuer à
+investir dans les nouvelles technologies.
+
+Un problème tout aussi préoccupant est celui de la pression constante
+exercée sur les journalistes des salles de rédaction, dont le travail
+doit être disponible à longueur de journée et non plus seulement en fin
+de journée. Ces tensions à répétition sont encore aggravées par un
+travail à l'écran pendant huit à dix heures d'affilée. Le rythme de
+travail et l'utilisation intensive de l'ordinateur entraînent des
+problèmes de sécurité au travail. Après quelques années de ce régime,
+des journalistes «craquent» à l'âge de 35 ou 40 ans.
+
+Selon Carlos Alberto de Almeida, président de la Fédération nationale
+des journalistes au Brésil (FENAJ: Federação Nacional dos Jornalistas),
+les nouvelles technologies étaient censées rationaliser le travail et
+réduire sa durée afin de favoriser l'enrichissement intellectuel et les
+loisirs. En pratique, les professionnels des médias sont obligés
+d'effectuer un nombre d'heures de travail en constante augmentation. La
+journée légale de cinq heures est en fait une journée de dix à douze
+heures. Les heures supplémentaires ne sont pas payées, comme ne sont
+pas payées non plus celles effectuées le week-end par les journalistes
+censés être en période de repos.
+
+La numérisation des documents et l'automatisation des méthodes de
+travail accélèrent le processus de production mais elles entraînent
+aussi une diminution de l'intervention humaine et donc un accroissement
+du chômage. Alors qu'auparavant le personnel de production devait
+retaper les textes du personnel de rédaction, la mise en page
+automatique permet de combiner les deux tâches de rédaction et de
+composition.
+
+Etienne Reichel, directeur suppléant de Viscom (Visual Communication),
+association suisse pour la communication visuelle, démontre que le
+transfert de données via l'internet et la suppression de certaines
+phases de production réduisent le nombre d'emplois. Le travail de vingt
+typographes est maintenant assuré par six travailleurs qualifiés, alors
+que les entreprises de communication visuelle étaient auparavant
+génératrices d'emplois. Par contre, l'informatique permet à certains
+professionnels de s'installer à leur compte, comme c'est le cas pour
+30% des salariés ayant perdu leur emploi suite à la restructuration de
+leur entreprise.
+
+Professeur associé en sciences sociales à l'Université d'Utrecht (Pays-
+Bas), Peter Leisink précise lui aussi que la rédaction des textes et la
+correction des épreuves se font désormais à domicile, le plus souvent
+par des travailleurs ayant pris le statut d'indépendants à la suite de
+licenciements et de délocalisations ou fusions d'entreprises. «Or cette
+forme d'emploi tient plus du travail précaire que du travail
+indépendant», explique-t-il, «car ces personnes n'ont que peu
+d'autonomie et sont généralement tributaires d'une seule maison
+d'édition.»
+
+A part quelques cas particuliers mis en avant par les organisations
+d'employeurs, la convergence multimédia entraîne des suppressions
+massives d'emplois.
+
+Selon Michel Muller, secrétaire général de la FILPAC (Fédération des
+industries du livre, du papier et de la communication) en France, les
+industries graphiques françaises ont perdu 20.000 emplois en dix ans.
+Entre 1987 et 1996, les effectifs sont passés de de 110.000 à 90.000
+salariés. Les entreprises mettent en place des plans sociaux coûteux
+pour favoriser le reclassement des personnes licenciées, en créant des
+emplois souvent artificiels, alors qu'il aurait été préférable de
+financer des études fiables sur la manière d'équilibrer créations et
+suppressions d'emplois lorsqu'il était encore temps.
+
+Partout dans le monde, de nombreux postes à faible qualification
+technique sont remplacés par des postes exigeant des qualifications
+techniques élevées. Les personnes peu qualifiées sont licenciées.
+D'autres suivent une formation professionnelle complémentaire, parfois
+auto-financée et prise sur leur temps libre, et cette formation
+professionnelle ne garantit pas pour autant le réemploi.
+
+Directeur de AT&T, géant des télécommunications aux États-Unis, Walter
+Durling insiste sur le fait que les nouvelles technologies ne
+changeront pas fondamentalement la situation des salariés au sein de
+l'entreprise. L'invention du film n'a pas tué le théâtre et celle de la
+télévision n'a pas fait disparaître le cinéma. Les entreprises
+devraient créer des emplois liés aux nouvelles technologies et les
+proposer à ceux qui sont obligés de quitter d'autres postes devenus
+obsolètes.
+
+Des arguments bien théoriques alors que le problème est plutôt celui du
+pourcentage. Combien de créations de postes pour combien de
+licenciements?
+
+De leur côté, les syndicats préconisent la création d'emplois par
+l'investissement, l'innovation, la formation aux nouvelles
+technologies, la reconversion des travailleurs dont les emplois sont
+supprimés, des conventions collectives équitables, la défense du droit
+d'auteur, une meilleure protection des travailleurs dans le secteur
+artistique, et enfin la défense des télétravailleurs en tant que
+travailleurs à part entière.
+
+
+
+LA MUE DES BIBLIOTHÈQUES
+
+
+[Résumé]
+«Qu'il me suffise, pour le moment, de redire la sentence classique: "La
+bibliothèque est une sphère dont le centre véritable est un hexagone
+quelconque, et dont la circonférence est inaccessible".» Cette citation
+de Jorge Luis Borges - issue de La bibliothèque de Babel (1941) -
+pourrait tout aussi bien définir la bibliothèque numérique. La
+numérisation du patrimoine mondial est en cours, d'abord pour le texte,
+et ensuite pour l'image et le son, avec la mise en ligne de centaines
+puis de milliers d'oeuvres du domaine public, de publications
+littéraires et scientifiques, d'articles, d'images, de bandes sonores
+et de films, gratuits ou payants selon les documents. De plus,
+certaines bibliothèques utilisent le web pour faire connaître les
+joyaux de leurs collections, pendant que d'autres créent des
+«cyberespaces» pour leurs usagers, avec des bibliothécaires devenus
+cyberthécaires pour les piloter dans leurs recherches et les orienter
+sur la toile.
+
+
+= Des bibliothèques numériques
+
+# De l'imprimé au numérique
+
+La première bibliothèque traditionnelle présente sur le web est la
+bibliothèque municipale d'Helsinki (Finlande), qui inaugure son site en
+février 1994.  Objectif poursuivi par des générations de
+bibliothécaires, la diffusion du livre devient enfin possible à vaste
+échelle.
+
+Fondateur de la bibliothèque numérique Athena, Pierre Perroud insiste
+en février 1997 sur la complémentarité du texte électronique et du
+livre imprimé, dans un article de la revue Informatique-Informations
+(Genève). Selon lui, «les textes électroniques représentent un
+encouragement à la lecture et une participation conviviale à la
+diffusion de la culture», notamment pour l'étude de ces textes et la
+recherche textuelle. Ces textes électroniques «sont un bon complément
+du livre imprimé - celui-ci restant irremplaçable lorsqu'il s'agit de
+lire».  Mais le livre imprimé reste «un compagnon mystérieusement sacré
+vers lequel convergent de profonds symboles: on le serre dans la main,
+on le porte contre soi, on le regarde avec admiration; sa petitesse
+nous rassure autant que son contenu nous impressionne; sa fragilité
+renferme une densité qui nous fascine; comme l'homme il craint l'eau et
+le feu, mais il a le pouvoir de mettre la pensée de celui-là à l'abri
+du Temps.»
+
+Si certaines bibliothèques numériques naissent directement sur le web,
+la plupart émanent de bibliothèques traditionnelles. En 1996, la
+bibliothèque municipale de Lisieux (Normandie, France) lance la
+Bibliothèque électronique de Lisieux, qui offre les versions numériques
+d'oeuvres littéraires courtes choisies dans les collections
+municipales. En 1997, la Bibliothèque nationale de France (BnF) crée
+Gallica qui, dans un premier temps, propose des images et textes du 19e
+siècle francophone, à savoir une sélection de 3.000 livres complétée
+par un échantillon de la future iconothèque numérique. En 1998, la
+Bibliothèque municipale de Lyon met les enluminures de 200 manuscrits
+et incunables à la disposition de tous sur son site web. Trois exemples
+parmi tant d'autres.
+
+# La numérisation des livres
+
+Qui dit bibliothèque numérique dit numérisation, au moins les premiers
+temps, puisque les livres numériques émanent de livres imprimés. Pour
+pouvoir être consulté à l'écran, un livre peut être numérisé soit en
+mode texte soit en mode image.
+
+La numérisation en mode texte consiste d'abord à patiemment saisir le
+livre sur un clavier, page après page, solution souvent adoptée lors de
+la constitution des premières bibliothèques numériques, ou alors quand
+les documents originaux manquent de clarté, pour les livres anciens par
+exemple. Les années passant, la numérisation en mode texte consiste
+surtout à scanner le livre en mode image, puis à le convertir en texte
+grâce à un logiciel OCR (Optical Character Recognition), avec relecture
+éventuelle à l'écran pour corriger le texte obtenu puisqu'un bon
+logiciel OCR serait fiable à 99%.
+
+La version informatique du livre ne conserve pas la présentation
+originale du livre ou de la page. Le livre devient texte, à savoir un
+ensemble de caractères apparaissant en continu à l'écran. A cause du
+temps passé au traitement de chaque livre, ce mode de numérisation est
+assez long, et donc nettement plus coûteux que la numérisation en mode
+image. Dans de nombreux cas, il est toutefois très préférable,
+puisqu'il permet l'indexation, la recherche textuelle, l'analyse
+textuelle, une étude comparative entre plusieurs textes ou plusieurs
+versions du même texte, etc. C'est la méthode utilisée par exemple par
+le Projet Gutenberg, fondé dès 1971 et qui propose aujourd'hui la plus
+grande bibliothèque numérique au format texte, avec des livres relus et
+corrigés deux fois pour être fiables à 99,9% par rapport à la version
+imprimée.
+
+La numérisation en mode image consiste à scanner le livre, et
+correspond donc à la photographie du livre page après page. La
+présentation originale étant conservée, on peut «feuilleter» le livre à
+l'écran. La version informatique est en quelque sorte le fac-similé
+numérique de la version imprimée. C'est la méthode employée pour les
+numérisations à grande échelle, par exemple pour le programme de
+numérisation de la Bibliothèque nationale de France (BnF) et la
+constitution de sa bibliothèque numérique Gallica. La numérisation en
+mode texte est utilisée en complément pour les tables des matières, les
+sommaires et les corpus de documents iconographiques, afin de faciliter
+la recherche textuelle.
+
+Pourquoi ne pas tout numériser en mode texte? La BnF répond en 2000 sur
+le site de Gallica: «Le mode image conserve l'aspect initial de
+l'original y compris ses éléments non textuels. Si le mode texte
+autorise des recherches riches et précises dans un document et permet
+une réduction significative du volume des fichiers manipulés, sa
+réalisation, soit par saisie soit par OCR, implique des coûts de
+traitement environ dix fois supérieurs à la simple numérisation. Ces
+techniques, parfaitement envisageables pour des volumes limités, ne
+pouvaient ici être économiquement justifiables au vu des 50.000
+documents (représentant presque 15 millions de pages) mis en ligne.»
+Dans les années qui suivent, Gallica convertit toutefois nombre de ses
+livres du mode image au mode texte pour permettre les recherches
+textuelles.
+
+Concepteur de Mot@mot, logiciel de remise en page de fac-similés
+numériques, Pierre Schweitzer insiste sur l'utilité des deux modes de
+numérisation. «Le mode image permet d'avancer vite et à très faible
+coût», explique-t-il en janvier 2001. «C'est important car la tâche de
+numérisation du domaine public est immense. Il faut tenir compte aussi
+des différentes éditions: la numérisation du patrimoine a pour but de
+faciliter l'accès aux oeuvres, il serait paradoxal qu'elle aboutisse à
+se focaliser sur une édition et à abandonner l'accès aux autres. Chacun
+des deux modes de numérisation s'applique de préférence à un type de
+document, ancien et fragile ou plus récent, libre de droit ou non (pour
+l'auteur ou pour l'édition), abondamment illustré ou pas. Les deux
+modes ont aussi des statuts assez différents: en mode texte ça peut
+être une nouvelle édition d'une oeuvre, en mode image c'est une sorte
+d'"édition d'édition", grâce à un de ses exemplaires (qui fonctionne
+alors comme une fonte d'imprimerie pour du papier). En pratique, le
+choix dépend bien sûr de la nature du fonds à numériser, des moyens et
+des buts à atteindre. Difficile de se passer d'une des deux façons de
+faire.»
+
+
+= Un exemple: Gallica
+
+# Un laboratoire en ligne
+
+Gallica - bibliothèque numérique de la BnF (Bibliothèque nationale de
+France) - est inauguré en octobre 1997 avec des textes et des images du
+19e siècle francophone, «siècle de l'édition et de la presse moderne,
+siècle du roman mais aussi des grandes synthèses historiques et
+philosophiques, siècle scientifique et technique».
+
+À l'époque, le serveur stocke 2.500 livres numérisés en mode image
+complétés par les 250 livres numérisés en mode texte de la base
+Frantext de l'INaLF (Institut national de la langue française, qui
+deviendra plus tard le laboratoire ATILF - Analyse et traitement
+informatique de la langue française).
+
+Classés par discipline, ces livres sont complétés par une chronologie
+du 19e siècle et des synthèses sur les grands courants en histoire,
+sciences politiques, droit, économie, littérature, philosophie,
+sciences et histoire des sciences.
+
+Le site propose aussi un échantillon de la future iconothèque
+numérique, à savoir le fonds du photographe Eugène Atget, une sélection
+de documents sur l'écrivain Pierre Loti, une collection d'images de
+l'École nationale des ponts et chaussées - ces images ayant trait aux
+grands travaux de la révolution industrielle en France -, et enfin un
+choix de livres illustrés de la bibliothèque du Musée de l'Homme.
+
+Fin 1997, Gallica se considère moins comme une banque de données
+numérisées que comme un «laboratoire dont l'objet est d'évaluer les
+conditions d'accès et de consultation à distance des documents
+numériques». Le but est d'expérimenter la navigation dans ces
+collections, en permettant le libre parcours du chercheur ou du lecteur
+curieux.
+
+Début 1998, Gallica annonce 100.000 volumes et 300.000 images pour la
+fin 1999, avec un accroissement rapide des collections ensuite. Sur les
+100.000 volumes prévus, qui représenteraient 30 millions de pages
+numérisées, plus du tiers concernerait le 19e siècle. Quant aux 300.000
+images fixes, la moitié viendrait des départements spécialisés de la
+BnF (Estampes et photographie, Manuscrits, Arts du spectacle, Monnaies
+et médailles, etc.), et l'autre moitié de collections d'établissements
+publics (musées et bibliothèques, Documentation française, École
+nationale des ponts et chaussées, Institut Pasteur, Observatoire de
+Paris, etc.) ou privés (agences de presse dont Magnum, l'Agence France-
+Presse, Sygma, Rapho, etc.).
+
+En mai 1998, la BnF revoit ses espérances à la baisse et modifie
+quelque peu ses orientations premières. Jérôme Strazzulla, journaliste
+au quotidien Le Figaro, explique dans un article du 3 juin 1998 que la
+BnF est «passée d'une espérance universaliste, encyclopédique, à la
+nécessité de choix éditoriaux pointus».
+
+Dans le même article, le président de la BnF, Jean-Pierre Angremy,
+rapporte la décision du comité éditorial de Gallica: «Nous avons décidé
+d'abandonner l'idée d'un vaste corpus encyclopédique de cent mille
+livres, auquel on pourrait sans cesse reprocher des trous. Nous nous
+orientons aujourd'hui vers des corpus thématiques, aussi complets que
+possibles, mais plus restreints. (...) Nous cherchons à répondre, en
+priorité, aux demandes des chercheurs et des lecteurs.»
+
+Le premier corpus aura trait aux voyages en France, à savoir des
+textes, estampes et photographies du 16e siècle à 1920, avec mise en
+ligne prévue en 2000. Les corpus envisagés ensuite concerneront Paris,
+les voyages en Afrique des origines à 1920, les utopies et enfin les
+mémoires des Académies des sciences de province.
+
+# Une consultation plus aisée
+
+Professeur à l'École pratique des hautes études (EPHE, Paris-Sorbonne)
+et adepte depuis toujours de la lecture sur PDA (puis sur smartphone),
+Marie-Joseph Pierre raconte en novembre 2002: «Cela m'a pas mal servi
+pour mon travail, ou pour mes activités associatives. Je fais par
+exemple partie d'une petite société poétique locale, et nous faisons
+prochainement un récital poétique. J'ai voulu rechercher des textes de
+Victor Hugo, que j'ai maintenant pu lire et même charger à partir du
+site de la Bibliothèque nationale de France: c'est vraiment extra.»
+
+En 2003, Gallica rassemble 70.000 ouvrages et 80.000 images allant du
+Moyen-Âge au début du 20e siècle, tous documents libres de droits.
+Mais, de l'avis de nombreux usagers, les fichiers des livres sont très
+lourds puisqu'ils sont numérisés en mode image, et l'accès en est très
+long.
+
+Chose tout aussi problématique, la numérisation en mode image
+n'autorise pas la recherche textuelle alors que Gallica se trouve être
+la plus grande bibliothèque numérique francophone en nombre de titres
+disponibles en ligne. La recherche textuelle est toutefois possible
+dans les tables des matières, les sommaires et les légendes des corpus
+iconographiques, qui sont numérisés en mode texte. Mais seule une
+petite collection de livres (1.117 livres en février 2004) est
+intégralement numérisée en mode texte, celle de la base Frantext,
+intégrée à Gallica.
+
+Tous problèmes auxquels la BnF remédie au fil des mois, avec une
+navigation plus aisée et la conversion progressive des livres du mode
+image au mode texte grâce à un logiciel OCR, avec possibilité donc de
+recherche textuelle.
+
+En février 2005, Gallica compte 76.000 ouvrages. À la même date, la BnF
+annonce la mise en ligne prochaine (entre 2006 et 2009) de la presse
+française parue entre 1826 et 1944, à savoir 22 titres représentant 3,5
+millions de pages.
+
+Début 2006, les premiers journaux disponibles en ligne sont les
+quotidiens Le Figaro (fondé en 1826), La Croix (fondée en 1883),
+L'Humanité (fondée en 1904) et Le Temps (fondé en 1861 et disparu en
+1942).
+
+En décembre 2006, les collections comprennent 90.000 ouvrages numérisés
+(fascicules de presse compris), 80.000 images et des dizaines d'heures
+de ressources sonores.
+
+# Une diffusion mondiale
+
+En novembre 2007, la BnF annonce la numérisation de 300.000 ouvrages
+supplémentaires d'ici 2010, à savoir 45 millions de pages qui seront
+accessibles sur son nouveau site, simultanément en mode image et en
+mode texte.
+
+Le site compte 3 millions de visites en 2008 et 4 millions de visites
+en 2009. On en prévoit le double pour 2010.
+
+En mars 2010, Gallica franchit la barre du million de documents -
+livres, manuscrits, cartes, images, périodiques (presse et revues),
+fichiers sonores (paroles et musiques) et partitions musicales - dont
+la plupart sont accessibles gratuitement sur un site dont l'interface
+n'a cessé de s'améliorer au fil des ans.
+
+Si les documents sont en langue française dans leur très grande
+majorité, on trouve aussi des documents en anglais, en italien, en
+allemand, en latin ou en grec selon les disciplines.
+
+En octobre 2010, Gallica offre 1,2 million de documents, une interface
+quadrilingue (français, anglais, espagnol, portugais), la possibilité
+de créer un espace personnel, une vignette exportable pour consulter
+des images sur son site ou son blog et un lecteur exportable pour y
+consulter les livres.
+
+Bruno Racine, président de la BnF, et Steve Balmer, PDG de Microsoft,
+signent le 7 avril 2010 un accord pour l'indexation des collections de
+Gallica dans Bing, le moteur de recherche de Microsoft, ce qui
+permettra une utilisation planétaire des collections et une meilleure
+représentation de la langue française et de ses richesses sur une toile
+multilingue.
+
+
+= Du bibliothécaire au cyberthécaire
+
+# En 1999
+
+Piloter les usagers sur l'internet, filtrer et organiser l'information
+à leur intention, créer et gérer un site web, rechercher des documents
+dans des bases de données spécialisées, telles sont désormais les
+tâches de nombreux bibliothécaires. C'est le cas de Peter Raggett à
+l'OCDE (Organisation de coopération et de développement économiques) ou
+de Bruno Didier à l'Institut Pasteur.
+
+Peter Raggett est sous-directeur (puis directeur) de la Bibliothèque
+centrale de l'OCDE, renommée ensuite Centre de documentation et
+d'information (CDI).
+
+Située à Paris, l'OCDE regroupe trente pays membres. Au noyau
+d'origine, constitué des pays d'Europe de l'Ouest et d'Amérique du
+Nord, viennent s'ajouter le Japon, l'Australie, la Nouvelle-Zélande, la
+Finlande, le Mexique, la République tchèque, la Hongrie, la Pologne et
+la Corée.
+
+Réservée aux fonctionnaires de l'organisation, la bibliothèque permet
+la consultation de 60.000 monographies et 2.500 périodiques imprimés.
+En ligne depuis 1996, les pages intranet deviennent une source
+d'information majeure pour le personnel.
+
+«Je dois filtrer l'information pour les usagers de la bibliothèque, ce
+qui signifie que je dois bien connaître les sites et les liens qu'ils
+proposent», explique Peter Raggett en août 1999. «J'ai sélectionné
+plusieurs centaines de sites pour en favoriser l'accès à partir de
+l'intranet de l'OCDE. Cette sélection fait partie du bureau de
+référence virtuel proposé par la bibliothèque à l'ensemble du
+personnel. Outre de nombreux liens, ce bureau de référence contient des
+pages recensant les articles, monographies et sites web correspondant
+aux différents projets de recherche en cours à l'OCDE, l'accès en
+réseau aux CD-ROM et une liste mensuelle des nouveaux titres.»
+
+Comment Peter voit-il l'avenir de la profession? «L'internet offre aux
+chercheurs un stock d'informations considérable. Le problème pour eux
+est de trouver ce qu'ils cherchent. Jamais auparavant on n'avait senti
+une telle surcharge d'informations, comme on la sent maintenant quand
+on tente de trouver un renseignement sur un sujet précis en utilisant
+les moteurs de recherche disponibles sur l'internet. A mon avis, les
+bibliothécaires auront un rôle important à jouer pour améliorer la
+recherche et l'organisation de l'information sur le réseau. Je prévois
+aussi une forte expansion de l'internet pour l'enseignement et la
+recherche. Les bibliothèques seront amenées à créer des bibliothèques
+numériques permettant à un étudiant de suivre un cours proposé par une
+institution à l'autre bout du monde. La tâche du bibliothécaire sera de
+filtrer les informations pour le public. Personnellement, je me vois de
+plus en plus devenir un bibliothécaire virtuel. Je n'aurai pas
+l'occasion de rencontrer les usagers, ils me contacteront plutôt par
+courriel, par téléphone ou par fax, j'effectuerai la recherche et je
+leur enverrai les résultats par voie électronique.»
+
+En 1999, Bruno Didier est bibliothécaire à l'Institut Pasteur (Paris),
+une fondation privée dont le but est la prévention et le traitement des
+maladies infectieuses par la recherche, l'enseignement et des actions
+de santé publique.
+
+Séduit par les perspectives qu'offre le réseau pour la recherche
+documentaire, Bruno Didier crée le site web de la bibliothèque en 1996
+et devient son webmestre.
+
+«Le site web de la bibliothèque a pour vocation principale de servir la
+communauté pasteurienne», relate-t-il en août 1999. «Il est le support
+d'applications devenues indispensables à la fonction documentaire dans
+un organisme de cette taille: bases de données bibliographiques,
+catalogue, commande de documents et bien entendu accès à des
+périodiques en ligne. C'est également une vitrine pour nos différents
+services, en interne mais aussi dans toute la France et à l'étranger.
+Il tient notamment une place importante dans la coopération
+documentaire avec les instituts du réseau Pasteur à travers le monde.
+Enfin j'essaie d'en faire une passerelle adaptée à nos besoins pour la
+découverte et l'utilisation d'internet. (...) Je développe et maintiens
+les pages du serveur, ce qui s'accompagne d'une activité de veille
+régulière. Par ailleurs je suis responsable de la formation des
+usagers, ce qui se ressent dans mes pages. Le web est un excellent
+support pour la formation, et la plupart des réflexions actuelles sur
+la formation des usagers intègrent cet outil.»
+
+Son activité professionnelle a changé de manière radicale, tout comme
+celle de ses collègues. «C'est à la fois dans nos rapports avec
+l'information et avec les usagers que les changements ont eu lieu»,
+explique-t-il. «Nous devenons de plus en plus des médiateurs, et peut-
+être un peu moins des conservateurs. Mon activité actuelle est typique
+de cette nouvelle situation: d'une part dégager des chemins d'accès
+rapides à l'information et mettre en place des moyens de communication
+efficaces, d'autre part former les utilisateurs à ces nouveaux outils.
+Je crois que l'avenir de notre métier passe par la coopération et
+l'exploitation des ressources communes. C'est un vieux projet
+certainement, mais finalement c'est la première fois qu'on dispose
+enfin des moyens de le mettre en place.»
+
+# En 2000
+
+En 2000, Bakayoko Bourahima est responsable de la bibliothèque de
+l'École nationale supérieure de statistique et d'économie appliquée
+(ENSEA) à Abidjan (Côte d'Ivoire). L'ENSEA assure la formation de
+statisticiens pour les pays africains d'expression française. Son site
+web est mis en ligne en avril 1999 dans le cadre du réseau REFER, un
+réseau créé par l'Agence universitaire de la Francophonie (AUF) pour
+desservir la communauté scientifique et technique en Afrique, en Asie
+et en Europe orientale (24 pays participants en 2002).
+
+Bakayoko Bourahima s'occupe de la gestion de l'information et de la
+diffusion des travaux publiés par l'ENSEA. Quel est l'apport de
+l'internet dans son travail? «Le service de la bibliothèque travaille à
+deux projets d'intégration du web pour améliorer ses prestations»,
+relate-t-il en juillet 2000. «J'espère bientôt pouvoir mettre à la
+disposition de mes usagers un accès internet pour l'interrogation de
+bases de données. Par ailleurs, j'ai en projet de réaliser et de mettre
+sur l'intranet et sur le web un certain nombre de services
+documentaires (base de données thématique, informations
+bibliographiques, service de références bibliographiques, bulletin
+analytique des meilleurs travaux d'étudiants...). Il s'agit donc pour
+la bibliothèque, si j'obtiens les financements nécessaires pour ces
+projets, d'utiliser pleinement l'internet pour donner à notre École un
+plus grand rayonnement et de renforcer sa plateforme de communication
+avec tous les partenaires possibles. En intégrant cet outil au plan de
+développement de la bibliothèque, j'espère améliorer la qualité et
+élargir la gamme de l'information scientifique et technique mise à la
+disposition des étudiants, des enseignants et des chercheurs, tout en
+étendant considérablement l'offre des services de la bibliothèque.»
+
+En 2000, Emmanuel Barthe est documentaliste juridique et responsable
+informatique de Coutrelis & Associés, un cabinet d'avocats parisien.
+«Les principaux domaines de travail du cabinet sont le droit
+communautaire, le droit de l'alimentation, le droit de la concurrence
+et le droit douanier», écrit-il en octobre 2000. «Je fais de la saisie
+indexation, et je conçois et gère les bases de données internes. Pour
+des recherches documentaires difficiles, je les fais moi-même ou bien
+je conseille le juriste. Je suis aussi responsable informatique et
+télécoms du cabinet: conseils pour les achats, assistance et formation
+des utilisateurs. De plus, j'assure la veille, la sélection et le
+catalogage de sites web juridiques: titre, auteur et bref descriptif.
+Je suis également formateur internet juridique aussi bien à l'intérieur
+de mon entreprise qu'à l'extérieur lors de stages de formation.»
+
+# En 2001
+
+En 2001, Anissa Rachef est bibliothécaire et professeur à l'Institut
+français de Londres. Présents dans de nombreux pays, les instituts
+français sont des organismes officiels proposant des cours de français
+et des manifestations culturelles. A Londres, 5.000 étudiants environ
+s'inscrivent aux cours chaque année. Inaugurée en mai 1996, la
+médiathèque utilise l'internet dès sa création.
+
+«L'objectif de la médiathèque est double», explique Anissa Rachef en
+avril 2001. «Servir un public s'intéressant à la culture et la langue
+françaises et "recruter" un public allophone en mettant à disposition
+des produits d'appel tels que vidéos documentaires, livres audio, CD-
+ROM. La mise en place récente d'un espace multimédia sert aussi à
+fidéliser les usagers. L'installation d'un service d'information rapide
+a pour fonction de répondre dans un temps minimum à toutes sortes de
+questions posées via le courrier électronique, ou par fax. Ce service
+exploite les nouvelles technologies pour des recherches très
+spécialisées. Nous élaborons également des dossiers de presse destinés
+aux étudiants et professeurs préparant des examens de niveau
+secondaire. Je m'occupe essentiellement de catalogage, d'indexation et
+de cotation. ...
+
+J'utilise internet pour des besoins de base. Recherches
+bibliographiques, commande de livres, courrier professionnel, prêt
+inter-bibliothèques. C'est grâce à internet que la consultation de
+catalogues collectifs, tels SUDOC [Système universitaire de
+documentation] et OCLC [Online Computer Library Center], a été
+possible. C'est ainsi que j'ai pu mettre en place un service de
+fourniture de documents extérieurs à la médiathèque. Des ouvrages
+peuvent désormais être acheminés vers la médiathèque pour des usagers
+ou bien à destination des bibliothèques anglaises.»
+
+
+= Des catalogues en réseau
+
+# L'UNIMARC, format bibliographique commun
+
+L'avenir des catalogues informatiques en réseau tient à l'harmonisation
+du format MARC (Machine Readable Cataloguing) par le biais de l'UNIMARC
+(Universal Machine Readable Cataloguing).
+
+Créé en 1977 par l'IFLA (International Federation of Library
+Associations - Fédération internationale des associations de
+bibliothèques), le format UNIMARC est un format universel permettant le
+stockage et l'échange de notices bibliographiques au moyen d'une
+codification des différentes parties de la notice (auteur, titre,
+éditeur, etc.) pour traitement informatique.
+
+Ce format favorise les échanges de données entre la vingtaine de
+formats MARC existants, qui correspondent chacun à une pratique
+nationale de catalogage (INTERMARC en France, UKMARC au Royaume-Uni,
+USMARC aux États-Unis, CAN/MARC au Canada, etc.). Les notices dans le
+format MARC d'origine sont d'abord converties au format UNIMARC avant
+d'être converties à nouveau dans le format MARC de destination. UNIMARC
+peut aussi être utilisé comme standard pour le développement de
+nouveaux formats MARC.
+
+Dans le monde anglophone, la British Library (qui utilise UKMARC), la
+Library of Congress (qui utilise USMARC) et la Bibliothèque nationale
+du Canada (qui utilise CAN/MARC) décident d'harmoniser leurs formats
+MARC nationaux. Un programme de trois ans, mené entre décembre 1995 et
+décembre 1998, permet de mettre au point un format MARC commun aux
+trois bibliothèques.
+
+Parallèlement, en 1996, dans le cadre de son Programme des
+bibliothèques, la Commission européenne promeut l'utilisation du format
+UNIMARC comme format commun d'échange entre tous les formats MARC
+utilisés dans les pays de l'Union européenne. Le groupe de travail
+correspondant étudie aussi les problèmes posés par les différentes
+polices de caractères, et la manière d'harmoniser le format
+bibliographique et le format du document lui-même pour les documents
+disponibles en ligne.
+
+# WorldCat, catalogue collectif mondial
+
+L'internet facilite la gestion de catalogues collectifs. Le but premier
+de ces catalogues est d'éviter de cataloguer à nouveau un document déjà
+traité par une bibliothèque partenaire. Si le catalogueur trouve la
+notice du livre qu'il est censé cataloguer, il la copie pour l'inclure
+dans le catalogue de sa propre bibliothèque. S'il ne trouve pas la
+notice, il la crée, et cette notice est aussitôt disponible pour les
+catalogueurs officiant dans d'autres bibliothèques.
+
+Outre de nombreux catalogues collectifs régionaux et nationaux, deux
+catalogues collectifs mondiaux sont proposés par OCLC (Online Computer
+Library Center) et RLG (Research Libraries Group) dès les années 1980.
+Vingt ans plus tard, ces deux organismes gèrent de gigantesques bases
+bibliographiques alimentées par leurs adhérents, permettant ainsi aux
+bibliothèques d'unir leurs forces par-delà les frontières.
+
+Fondé en 1967 dans l'Ohio, un État des États-Unis, OCLC gère d'abord
+l'OCLC Online Union Catalog, débuté en 1971 pour desservir les
+bibliothèques universitaires de l'Ohio. Ce catalogue collectif s'étend
+ensuite à tout le pays, puis au monde entier.
+
+Désormais appelé WorldCat, et disponible sur abonnement payant, il
+comprend 38 millions de notices en 370 langues en 1998, avec
+translittération pour les caractères non romains des langues JACKPHY, à
+savoir le japonais, l'arabe, le chinois, le coréen (Korean en anglais),
+le persan, l'hébreu et le yiddish. L'accroissement annuel est de 2
+millions de notices. WorldCat utilise huit formats bibliographiques
+correspondant aux catégories suivantes: livres, périodiques, documents
+visuels, cartes et plans, documents mixtes, enregistrements sonores,
+partitions et enfin documents informatiques.
+
+En 2005, 61 millions de notices bibliographiques produites par 9.000
+bibliothèques et centres de documentation sont disponibles dans 400
+langues. En 2006, 73 millions de notices provenant de 10.000 organismes
+dans 112 pays permettent de localiser un milliard de documents. Une
+notice type contient la description du document ainsi que des
+informations sur son contenu (table des matières, résumé, couverture,
+illustrations, courte biographie de l'auteur).
+
+Devenue la plus grande base mondiale de données bibliographiques,
+WorldCat migre progressivement sur le web, d'abord en rendant la
+consultation des notices possible par le biais de plusieurs moteurs de
+recherche (Yahoo!, Google et bien d'autres), puis en lançant en août
+2006 une version web (bêta) de WorldCat en accès libre, qui propose non
+seulement les notices des documents mais aussi l'accès direct (gratuit
+ou payant) aux documents électroniques des bibliothèques membres:
+livres du domaine public, articles, photos, livres audio, musique et
+vidéos.
+
+Le deuxième catalogue collectif mondial est géré par RLG (Research
+Library Group, qui devient ensuite Research Libraries Group). Fondé en
+1980 en Californie, avec une antenne à New York, RLG se donne pour but
+d'améliorer l'accès à l'information dans le domaine de l'enseignement
+et de la recherche. RLG débute son propre catalogue sous le nom de RLIN
+(Research Libraries Information Network). Contrairement à WorldCat qui
+n'accepte qu'une notice par document, RLIN accepte plusieurs notices
+pour un même document.
+
+En 1998, RLIN comprend 82 millions de notices dans 365 langues, avec
+des notices translittérées pour les documents publiés dans les langues
+JACKPHY et en cyrillique. Des centaines de dépôts d'archives,
+bibliothèques de musées, bibliothèques universitaires, bibliothèques
+publiques, bibliothèques de droit, bibliothèques techniques,
+bibliothèques d'entreprise et bibliothèques d'art utilisent RLIN pour
+le catalogage, le prêt inter-bibliothèques et le descriptif de leurs
+archives et manuscrits. Une des spécialités de RLIN est l'histoire de
+l'art. Alimentée par 65 bibliothèques spécialisées, une section
+spécifique comprend 100.000 notices de catalogues d'expositions et
+168.500 notices de documents iconographiques (photographies,
+diapositives, dessins, estampes et affiches). Cette section inclut
+aussi les 110.000 notices de la base bibliographique Scipio, consacrée
+aux catalogues de ventes d'objets d'art.
+
+En 2003, RLIN change de nom pour devenir le RLG Union Catalog, qui
+comprend désormais 126 millions de notices bibliographiques
+correspondant à 42 millions de documents (livres, cartes, manuscrits,
+films, bandes sonores, etc.). Au printemps 2004, une version web du
+catalogue est disponible en accès libre sous le nom de RedLightGreen,
+suite à une phase pilote lancée à l'automne 2003. La mise en ligne de
+RedLightGreen inaugure une ère nouvelle. C'est en effet la première
+fois qu'un catalogue collectif mondial est en accès libre, trois ans
+avant WorldCat. Destiné en premier lieu aux étudiants du premier cycle
+universitaire, RedLightGreen propose 130 millions de notices, avec des
+informations spécifiques aux bibliothèques d'un campus donné (cote,
+lien vers la version en ligne si celle-ci existe, etc.).
+
+Après trois ans d'activité, en novembre 2006, le site RedLightGreen
+cesse ses activités, et les usagers sont invités à utiliser WorldCat,
+dont la version web (bêta) est en accès libre depuis août 2006. À la
+même date, le RLG est intégré à OCLC, qui gère désormais le seul
+catalogue collectif mondial. En mars 2010, WorldCat permet de localiser
+1,5 milliard de documents et d'avoir directement accès à certains
+d'entre eux.
+
+
+
+UNE INFORMATION MULTILINGUE
+
+
+[Résumé]
+De pratiquement anglophone à ses débuts, le web, devenu multilingue,
+permet une large diffusion des textes électroniques sans contrainte de
+frontières. Mais la barrière de la langue est loin d'avoir disparu.
+Comme l'écrit si bien en août 1999 Maria Victoria Marinetti, professeur
+d'espagnol en entreprise et traductrice, «il est très important de
+pouvoir communiquer en différentes langues. Je dirais même que c'est
+obligatoire, car l'information donnée sur l'internet est à destination
+du monde entier, alors pourquoi ne l'aurions-nous pas dans notre propre
+langue ou dans la langue que nous souhaitons utiliser? Information
+mondiale, mais pas de vaste choix dans les langues, ce serait
+contradictoire, pas vrai?»
